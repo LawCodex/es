@@ -1,0 +1,555 @@
+---
+title: "Real Decreto 1084/1991, de 5 de julio, sobre Sociedades Anónimas Deportivas"
+identifier: "BOE-A-1991-18227"
+eli: "https://www.boe.es/eli/es/rd/1991/07/05/1084"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación y Ciencia"
+date: 1991-07-05
+published: 1991-07-15
+in_force_from: 1991-07-16
+last_amended: 1999-07-17
+consolidated: 2026-09-29
+gazette: "Boletín Oficial del Estado núm. 168"
+status: repealed
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-18227"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1084/1991, de 5 de julio, sobre Sociedades Anónimas Deportivas
+
+Norma derogada, excepto las disposiciones transitorias, por la disposición derogatoria única.1 del Real Decreto 1251/1999, de 16 de julio. [Ref. BOE-A-1999-15686](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15686).
+
+La Ley 10/1990, de 15 de octubre, del Deporte, propone un nuevo modelo de asociacionismo deportivo, una de cuyas bases es el establecimiento de un marco eficaz de responsabilidad jurídica y económica para los clubes deportivos que desarrollan actividades de carácter profesional. Ello se pretende lograr mediante la imperativa adopción por tales clubes de la forma de Sociedades Anónimas Deportivas, nueva forma jurídica que, sujeta al régimen general de las Sociedades Anónimas, incorpora determinadas particularidades para adaptarse al mundo del deporte.
+
+La adopción de dicha forma jurídica podrán realizarla los clubes deportivos, bien mediante su transformación en Sociedades Anónimas Deportivas, bien mediante la creación, por los clubes, de tales Sociedades, para la gestión de equipos profesionales en las distintas modalidades deportivas.
+
+La excepción a la obligatoriedad de adopción por los Clubes de la nueva forma societaria se reconoce a aquellos que, en determinados supuestos, ya han demostrado una buena gestión en el régimen asociativo, remitiendo al desarrollo reglamentario, únicamente la concreción de algunos aspectos referidos a sus presupuestos y a la compensación de los avales que las Juntas Directivas habrán de prestar.
+
+Se contempla, asimismo, la posibilidad de creación, «ex novo», de Sociedades Anónimas Deportivas para la participación en competiciones profesionales, aunque no provengan de la transformación de un club deportivo, o de la adscripción de los equipos profesionales a Sociedades de nueva creación.
+
+Atiende la presente disposición a la determinación reglamentaria de todas las cuestiones relativas a tales procesos, con el fin de regular tanto el cauce futuro por el que ha de discurrir la vida de las Sociedades Anónimas Deportivas, así como al complejo —aunque transitorio— procedimiento de transformación de los clubes afectados. Desde un punto de vista formal, el proyecto se configura como un texto que trata de compendiar toda la normativa por la que se han de regir en el futuro las Sociedades Anónimas Deportivas, utilizando la técnica normativa de transcribir la literalidad de los preceptos de la Ley habilitadora, compaginados con las auténticas normas de desarrollo reglamentario.
+
+La disposición final primera de la Ley autoriza al Gobierno para dictar, a propuesta del Ministro de Educación y Ciencia, las disposiciones necesarias para su desarrollo.
+
+En su virtud, a propuesta del Ministro de Educación y Ciencia, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 5 de julio de 1991,
+
+DISPONGO:
+
+## Disposiciones generales
+
+### Artículo 1.
+
+1\. Los clubes, o sus equipos profesionales, que participen en competiciones deportivas oficiales de carácter profesional y ámbito estatal deberán ostentar la forma de sociedad anónima deportiva en los términos y en los casos establecidos en la Ley 10/1990, de 15 de octubre, del Deporte, y en el presente Real Decreto.
+
+2\. En la denominación social de estas sociedades se incluirá la abreviatura SAD.
+
+3\. Las sociedades anónimas deportivas sólo podrán participar en competiciones oficiales profesionales de una sola modalidad deportiva.
+
+> Se modifica por el art. único del Real Decreto 1846/1996, de 26 de julio. [Ref. BOE-A-1996-17266](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-17266).
+
+> Se modifica por el art. 1 del Real Decreto 449/1995, de 24 de marzo. [Ref. BOE-A-1995-10363](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-10363).
+
+### Artículo 2.
+
+1\. Las sociedades anónimas deportivas tendrán como objeto social la participación en competiciones deportivas de carácter profesional y, en su caso, la promoción y el desarrollo de actividades deportivas, así como otras actividades relacionadas o derivadas de dicha práctica.
+
+2\. Las sociedades anónimas deportivas establecerán en sus Estatutos su objeto social, dentro del marco expresado en el apartado anterior.
+
+3\. Unicamente podrán constituirse sociedades anónimas deportivas cuando su objeto social principal resulte legalmente posible en España por existir competición profesional en esa modalidad deportiva.
+
+> Se modifica por el art. 1 del Real Decreto 449/1995, de 24 de marzo. [Ref. BOE-A-1995-10363](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-10363).
+
+### Artículo 3.
+
+1\. El capital mínimo de las sociedades anónimas deportivas en ningún caso podrá ser inferior al establecido en la Ley de Sociedades Anónimas.
+
+2\. Aquellos clubes deportivos que por acceder a una competición oficial de carácter profesional deban adoptar la forma de sociedad anónima deportiva deberán, dentro de los tres meses siguientes a la fecha de su inscripción en la Liga Profesional correspondiente, solicitar de la comisión mixta establecida en la disposición transitoria primera de la Ley del Deporte la fijación de su capital social mínimo.
+
+El capital social mínimo se fijará mediante la adición de dos sumandos, uno, el 25 por 100 de la media de gastos realizados, incluyendo las amortizaciones, de todos los clubes o sociedades anónimas deportivas que participen en la respectiva competición, según los datos proporcionados por la Liga Profesional relativos a la temporada anterior a su solicitud y, otro, los saldos patrimoniales netos negativos, en su caso, que arroje el balance previsto en el párrafo b) del apartado 5 de este mismo artículo, ajustado en función del informe de auditoría. Cuando el sumando del 25 por 100 de la media de gastos sea inferior al sumando del saldo patrimonial neto negativo, el capital social mínimo se fijará en el duplo del citado saldo.
+
+3\. Los mismos criterios establecidos en el apartado anterior serán de aplicación para fijar el capital social mínimo en aquellos clubes que accedan a una competición oficial de carácter profesional y ostentaren ya la forma de sociedad anónima deportiva.
+
+4\. Los mismos criterios establecidos en los apartados anteriores serán de aplicación a aquellas otras modalidades deportivas y en aquellas competiciones profesionales que en el futuro puedan ser reconocidas y calificadas por la Comisión Directiva del Consejo Superior de Deportes, la cual, para la fijación de los correspondientes capitales sociales mínimos, podrá alterar el porcentaje sobre la media de gastos realizados, fijándolo entre un 15 por 100 y un 50 por 100 de los mismos.
+
+5\. El club interesado deberá dirigir escrito a la comisión mixta solicitando la fijación de capital social mínimo, al que deberá acompañar los siguientes documentos:
+
+a) Auditoría de cuentas e informe de la temporada deportiva anterior.
+
+b) Auditoría de sus estados financieros e informe correspondiente, referidos al mes anterior a la fecha de solicitud, así como balance social cerrado a la fecha del día anterior al de la solicitud.
+
+c) Certificación del acuerdo de transformación o adscripción adoptado por su Asamblea General.
+
+d) Memoria del proceso de transformación o adscripción que pretende realizar.
+
+En los supuestos previstos en el apartado 3 de este mismo artículo, los documentos a acompañar serán los previstos en los párrafos a) y b) precedentes.
+
+6\. El club deberá otorgar escritura pública de constitución en sociedad anónima deportiva y solicitar su inscripción en el Registro de Asociaciones Deportivas del Consejo Superior de Deportes en un plazo no superior a seis meses desde la notificación del acuerdo de la comisión mixta que fije el capital social mínimo.
+
+Los clubes que accedan a una competición profesional y ostentaren ya la forma de sociedad anónima deportiva deberán ajustar, en su caso, el capital social en un plazo no superior a seis meses desde la notificación del acuerdo de la comisión mixta por el que se fije su capital social mínimo.
+
+7\. El capital de las sociedades anónimas deportivas no podrá ser inferior al 50 por 100 del establecido en el momento de la transformación o, en su caso, el fijado para su acceso a la competición profesional.
+
+> Se modifica por el art. 1 del Real Decreto 449/1995, de 24 de marzo. [Ref. BOE-A-1995-10363](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-10363).
+
+> Téngase en cuenta, para los supuestos previstos en los apartados 2 y 3, lo establecido en la disposición transitoria única del citado Real Decreto.
+
+## Fundación de las Sociedades Anónimas Deportivas
+
+### Artículo 4.
+
+1\. Las Sociedades Anónimas Deportivas se constituirán mediante escritura pública que deberá ser inscrita en el Registro de Asociaciones Deportivas y en el Registro Mercantil, y desde este último momento adquirirán personalidad jurídica. Ello no obstante, aquellas Sociedades que provengan de la transformación de un club deportivo, conservarán su personalidad jurídica bajo la nueva forma societaria.
+
+2\. Las Sociedades Anónimas Deportivas pueden constituirse en un solo acto por convenio entre los fundadores, o en forma sucesiva por suscripción pública de las acciones, con independencia del procedimiento de transformación y adscripción previsto en la Ley del Deporte.
+
+### Artículo 5.
+
+1\. Las sociedades anónimas deportivas deberán inscribirse, conforme a lo previsto en el artículo 15 de la Ley del Deporte, en el Registro de Asociaciones Deportivas correspondientes y en la federación respectiva. La certificación de inscripción expedida por el Registro de Asociaciones Deportivas deberá acompañar la solicitud de inscripción de las mismas en el Registro Mercantil.
+
+A efectos de identidad, no obstante lo establecido en el artículo 372 del Reglamento del Registro Mercantil, las sociedades anónimas deportivas podrán mantener su denominación anterior.
+
+2\. A los efectos de inscripción en el Registro de Asociaciones Deportivas los fundadores o, en su caso, la Junta Directiva del club transformado, deberán presentar copia autorizada de la escritura de constitución, acompañada de instancia con los datos de identificación, en el Consejo Superior de Deportes. Desde ese momento quedará interrumpido el plazo de dos meses a que se refiere el artículo 17.2 de la Ley de Sociedades Anónimas, volviéndose a computar dicho plazo una vez obtenida la inscripción en el Registro de Asociaciones Deportivas.
+
+3\. La autorización de la inscripción y su formalización como único acto en el Registro de Asociaciones Deportivas corresponderá a la Comisión Directiva del Consejo Superior de Deportes, quien podrá recabar el informe de la Liga Profesional, que deberá emitirse en el plazo de quince días desde su solicitud por el Consejo Superior de Deportes. La Comisión Directiva verificará la adecuación de la escritura de constitución al ordenamiento jurídico, a los efectos de su inscripción en el Registro de Asociaciones Deportivas.
+
+4\. La resolución de la Comisión Directiva del Consejo Superior de Deportes sobre la inscripción se producirá en el plazo de tres meses, contados a partir de la presentación por la sociedad anónima deportiva en formación de la documentación señalada anteriormente. El plazo para la subsanación o aporte de documentos preceptivos será de diez días, presumiéndose el desistimiento si en tal plazo no se hubiera producido.
+
+La Comisión Directiva podrá solicitar información complementaria a la solicitud, sin que produzca efectos suspensivos en la tramitación del procedimiento.
+
+Si la resolución denegara expresamente la autorización de la inscripción deberá incluir en la misma los motivos de dicha denegación. Contra ésta podrán interponerse los recursos previstos en la legislación reguladora del procedimiento administrativo común.
+
+> Se modifica por el art. 1 del Real Decreto 449/1995, de 24 de marzo. [Ref. BOE-A-1995-10363](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-10363).
+
+### Artículo 6.
+
+1\. El capital mínimo de las Sociedades Anónimas Deportivas habrá de desembolsarse totalmente y mediante aportaciones dinerarias.
+
+2\. Las acciones de las Sociedades Anónimas Deportivas serán nominativas, de la misma clase e igual valor. El valor nominal de las acciones en el momento de la constitución en ningún caso podrá ser superior a 10.000 pesetas.
+
+### Artículo 7.
+
+Cualquiera que sea el procedimiento de constitución los fundadores y promotores de las Sociedades Anónimas Deportivas no podrán reservarse ventajas o remuneraciones de cualquier tipo, salvo las menciones honoríficas que la Sociedad Anónima Deportiva acuerde otorgarles.
+
+### Artículo 8.
+
+El contenido de la escritura de constitución y Estatutos de las Sociedades Anónimas Deportivas deberá recoger, además de las expresiones obligatorias mencionadas en la legislación de Sociedades Anónimas, los siguientes extremos:
+
+a) La identificación de los socios fundadores que podrán ser tanto personas físicas como jurídicas.
+
+b) La aportación de cada socio, indicando el título en que lo haga y el número de acciones recibidas en pago, acreditando de éstas las que corresponden al capital mínimo.
+
+c) La denominación de la Sociedad Anónima Deportiva, que, para las provenientes de la transformación de clubes o de la adscripción del equipo profesional del mismo, será la misma que éstos ostentaban, añadiéndole la expresión «Sociedad Anónima Deportiva».
+
+d) Se podrán, además, incluir en la escritura todos los pactos lícitos y condiciones especiales que los fundadores juzguen convenientes establecer, siempre que no se opongan a lo dispuesto en la Ley del Deporte y legislación general sobre Sociedades Anónimas, en la presente disposición y en sus disposiciones complementarias.
+
+### Artículo 9.
+
+1\. Ninguno de los accionistas de una Sociedad Anónima Deportiva podrá poseer acciones en proporción superior al 1 por 100 del capital, de forma simultánea en dos o más Sociedades Anónimas Deportivas que participen en la misma competición.
+
+Para calcular el límite previsto en el párrafo anterior se computarán las acciones poseídas directamente por el titular y las que lo sean por otra u otras personas o entidades que constituyan con aquél una unidad de decisión. A los efectos de esta disposición se considera que existe unidad de decisión cuando de la naturaleza de los vínculos que relacionan al titular con otras personas o entidades, se deduzca razonablemente que las decisiones puedan tomarse o se toman en común.
+
+Se presumirá, salvo prueba en contrario, que los vínculos personales, entre otros, se entienden referidos al cónyuge o persona a quien se halle ligado por análoga relación de convivencia efectiva, ascendientes y descendientes por cuarto grado de consanguinidad o segundo de afinidad.
+
+Igualmente, se entiende que, el vínculo entre entidades existirá cuando una de ellas posea al menos una participación del 20 por 100 en el capital social de la otra entidad, incluyendo la autocartera.
+
+2\. Aquellas personas sujetas a una relación de dependencia con una Sociedad Anónima Deportiva, ya sea en virtud de vínculo laboral, profesional o de cualquier otra índole, no podrán poseer acciones de otra Sociedad Anónima Deportiva que participe en la misma competición, en cantidad superior al 1 por 100.
+
+3\. La superación de los límites previstos en el apartado precedente comportará la obligación de enajenar, en el plazo de tres meses después de producida la situación anómala, la cantidad necesaria de acciones al objeto de respetar dichos límites.
+
+4\. En el supuesto previsto en el apartado primero, hasta el momento de la enajenación, sólo podrá ejercerse el derecho de voto en la entidad por la que libremente haya optado el titular. Dicha opción deberá comunicarla el mismo titular necesaria y previamente a las Sociedades Anónimas Deportivas afectadas y a la Liga Profesional correspondiente.
+
+5\. Las Juntas Generales de accionistas de las Sociedades Anónimas Deportivas no reconocerán el ejercicio de los derechos políticos a quienes adquieran acciones de la misma incumpliendo lo previsto en el presente artículo.
+
+### Artículo 10.
+
+1\. Los Estatutos de las Sociedades Anónimas Deportivas no podrán contener ninguna otra limitación a la transmisibilidad de las acciones, que las señaladas en el artículo anterior.
+
+2\. La transmisión de acciones estará sujeta a los siguientes requisitos:
+
+a) Notificación fehaciente a la Sociedad por el transmitente o adquirente de la transmisión, con especificación de la identificación, número de acciones que se transmiten y, en su caso, serie y demás condiciones que libremente hayan establecido.
+
+b) Declaración expresa por escrito por el nuevo accionista de no hallarse comprendido en alguno de los supuestos del artículo anterior.
+
+3\. Todos los actos o negocios jurídicos de los accionistas de una Sociedad Anónima Deportiva que supongan disposición «inter vivos» o gravamen de las acciones de ésta, deberán ser puestos fehacientemente por la Sociedad en conocimiento de la Liga Profesional correspondiente.
+
+A estos efectos, la Sociedad trimestralmente notificará fehacientemente a la Liga Profesional todos los cambios habidos en su accionariado, incluyendo los datos de identificación de las acciones que se transmiten.
+
+## Administración de las Sociedades Anónimas Deportivas
+
+### Artículo 11.
+
+La Administración de las Sociedades Anónimas Deportivas corresponderá exclusivamente a un Consejo de Administración compuesto por un mínimo de siete miembros. El número máximo se fijará en los Estatutos.
+
+### Artículo 12.
+
+No pueden ser Administradores de una Sociedad Anónima Deportiva:
+
+a) Quienes tengan antecedentes penales por delitos dolosos.
+
+b) Quienes hayan sido sancionados mediante resolución firme en vía administrativa por alguna de las siguientes infracciones muy graves, en tanto no esté extinguida la responsabilidad disciplinaria deportiva:
+
+Los abusos de autoridad.
+
+Los quebrantamientos de sanciones impuestas.
+
+Las actuaciones dirigidas a predeterminar, mediante precio, intimidación o simples acuerdos, el resultado de una prueba o competición.
+
+La promoción, incitación, consumo o utilización de sustancias o prácticas prohibidas en el deporte, así como la negativa a someterse a los controles exigidos por órganos y personas competentes, o cualquier acción u omisión que impida o perturbe la correcta realización de dichos controles.
+
+Los comportamientos, actitudes y gestos agresivos y antideportivos de jugadores, cuando se dirijan al arbitro, a otros jugadores o al público, así como las declaraciones públicas de directivos, técnicos, árbitros y deportistas o socios que inciten a sus equipos o a los espectadores a la violencia.
+
+La falta de asistencia no justificada a las convocatorias de las selecciones deportivas nacionales.
+
+La participación en competiciones organizadas por países que promuevan la discriminación racial, o con deportistas que representen a los mismos.
+
+c) Quienes sean, o en cualquier momento de los dos últimos años, hayan sido Administradores en otra Sociedad Anónima Deportiva que participe en la misma competición.
+
+d) Los funcionarios y personal al servicio de las Administraciones Públicas cuyas funciones se relacionen directamente con actividades de las Sociedades Anónimas Deportivas.
+
+e) Aquellas otras personas incursas en las prohibiciones especificadas en la legislación sobre Sociedades Anónimas.
+
+### Artículo 13.
+
+1\. Antes de tomar posesión y de la inscripción de la aceptación del cargo en el Registro Mercantil, los administradores estarán obligados a constituir mancomunadamente fianza, mediante aval bancario o seguro de caución, que se depositará ante la Liga Profesional y a favor de aquellas entidades y personas que puedan ejercer la acción de responsabilidad.
+
+2\. Los Estatutos deberán fijar la relación porcentual entre el valor de la garantía y el importe del presupuesto de gastos, que no podrá ser inferior al 5 por 100 del mismo.
+
+3\. La fianza que deban prestar los administradores se constituirá de modo que pueda resultar exigible durante un plazo no inferior al año, contado a partir del cierre del ejercicio avalado que coincidirá con aquel en el que tomen posesión. Los administradores, mientras permanezcan en su función, deberán prestar sucesivos avales para afianzar las posibles responsabilidades derivadas de los distintos ejercicios de modo que asimismo, pueda resultar exigible durante el mismo plazo de un año, siempre contado a partir del cierre del ejercicio afianzado.
+
+4\. Los sucesivos avales se ajustarán, en su cuantía, una vez conocido el resultado de las auditorías correspondientes y aprobado el presupuesto de gasto, y en todo caso con anterioridad al comienzo de la competición deportiva.
+
+Igualmente, siempre que se produzca una modificación del presupuesto, el importe del aval deberá ser actualizado en el plazo de treinta días siguientes a su aprobación.
+
+> Se modifica por el art. 1 del Real Decreto 449/1995, de 24 de marzo. [Ref. BOE-A-1995-10363](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-10363).
+
+### Artículo 14.
+
+El Consejo de Administración no podrá realizar actos o negocios jurídicos de disposición o gravamen sobre los bienes inmuebles de la Sociedad, cuando el importe de tales actos o negocios jurídicos suponga más de un 10 por 100 del valor contable del inmovilizado material, derechos reales y activos, sin autorización expresa y específica para cada uno de aquellos, de la Junta general de accionistas tomada por acuerdo de la mayoría del capital.
+
+Con la convocatoria de la Junta deberá ponerse a disposición de los accionistas un informe elaborado por los Administradores y otro elaborado por uno o varios expertos designados por el Registrador Mercantil, en la forma prevista en el Reglamento del Registro Mercantil.
+
+### Artículo 15.
+
+También necesitarán los Administradores autorización de la Junta general, en los términos y mayoría respectivos señalados en el artículo anterior, para realizar actos que excedan de las previsiones del presupuesto de gastos aprobado en materia de plantilla deportiva.
+
+### Artículo 16.
+
+Con independencia del régimen general de responsabilidad de los Administradores, previsto en la legislación de Sociedades Anónimas, éstos responderán frente a la Sociedad, frente a los accionistas y frente a terceros de los daños y perjuicios que causen por incumplimiento de los acuerdos económicos de la Liga Profesional correspondiente.
+
+A tales efectos, la Liga Profesional, pondrá en conocimiento de la Sociedad de forma fehaciente todos aquellos acuerdos de contenido económico que afecten a la misma.
+
+### Artículo 17.
+
+La acción de responsabilidad contra los Administradores, prevista en el artículo anterior podrá ser ejercitada asimismo por la Liga Profesional y por la Federación Española correspondiente, previo acuerdo de sus respectivas Asambleas, que podrá ser adoptado aunque no conste en el orden del día, por mayoría de los participantes.
+
+### Artículo 18.
+
+1\. El aumento o la disminución del capital, la transformación, la fusión, la escisión o disolución de la Sociedad, y, en general cualquier modificación de los Estatutos sociales, habrán de ser comunicados, por los Administradores a la Liga Profesional correspondiente, así como el nombramiento o separación de los propios Administradores.
+
+2\. En el plazo de cuarenta días a partir de la fecha en que se haya recibido la comunicación establecida en el punto anterior, la Liga Profesional podrá ejercitar la acción de impugnación de los acuerdos por los motivos y según las normas establecidas en la Ley del Deporte y la Ley de Sociedades Anónimas.
+
+3\. Asimismo, podrán impugnar tales acuerdos los accionistas que representen al menos el 5 por 100 del capital social, en los terminos previstos en el artículo 143 de la Ley de Sociedades Anónimas.
+
+### Artículo 19.
+
+1\. En los casos de enajenación a titulo oneroso de instalaciones deportivas, que sean propiedad de las Sociedades Anónimas Deportivas, corresponde el derecho de tanteo y el de retracto legal, conforme a las disposiciones de la Ley del Deporte, al Ayuntamiento del lugar donde radiquen las instalaciones, o en caso de no ejercitarlo éste a la Comunidad Autónoma respectiva, y subsidiariamente al Consejo Superior de Deportes.
+
+2\. A estos efectos, los Administradores deberán comunicar al Consejo Superior de Deportes, de forma fehaciente la decisión de enajenar, el precio o contraprestación ofrecido, las demás condiciones de la transacción y el nombre y domicilio del adquirente. Los efectos de esta notificación caducarán a los ciento ochenta días naturales siguientes a la misma.
+
+3\. El Consejo Superior de Deportes, en el plazo de cuarenta y cinco días naturales a contar desde el siguiente a la notificación y previo informe de la Liga Profesional, lo trasladará al Ayuntamiento y Comunidad Autónoma respectiva, quienes podrán hacer uso del derecho de tanteo dentro de los cuarenta y cinco días naturales siguientes, notificándolo al Consejo Superior de Deportes y poniendo a disposición de la Sociedad el precio.
+
+Si ambas Entidades hiciesen uso del derecho de tanteo tendrá preferencia el Ayuntamiento.
+
+El informe de la Liga Profesional se emitirá en el plazo de veinte días naturales, desde su solicitud por el Consejo Superior de Deportes, considerándose que el mismo es favorable a la enajenación, si en el transcurso de dicho plazo no se hubiese pronunciado.
+
+4\. En el caso de que ni el Ayuntamiento ni la Comunidad Autónoma hiciesen uso del derecho de tanteo podrá hacerlo el Consejo Superior de Deportes dentro del plazo de veinte días naturales. Si éste tampoco lo hiciese podrá llevarse a cabo la enajenación.
+
+5\. Asimismo podrá el Ayuntamiento, la Comunidad Autónoma o el Consejo Superior de Deportes ejercitar el derecho de retracto con sujeción a las disposiciones del Código Civil en los siguientes casos:
+
+a) Cuando no se le hubiera notificado por los Administradores la decisión de enajenar.
+
+b) Cuando se hubiese omitido en ella cualquiera de los requisitos exigidos.
+
+c) Cuando resultase inferior el precio o contraprestación a los comunicados, o fuesen menos onerosas las restantes condiciones esenciales de la enajenación.
+
+d) Cuando la transmisión se realice a persona distinta de la consignada en la notificación para el ejercicio del derecho de tanteo.
+
+6\. El derecho de retracto establecido en favor de Ayuntamientos y Comunidades Autónomas caducará a los treinta días naturales contados desde el siguiente al de la notificación fehaciente, que deberá hacer en todo caso el adquirente al Consejo Superior de Deportes de las condiciones esenciales en que se efectuó la transmisión, mediante entrega de copia autorizada de la escritura o documento en que fue formalizada.
+
+El Consejo Superior de Deportes lo comunicará al Ayuntamiento y Comunidad Autónoma respectivos para que durante los treinta días naturales siguientes puedan ejercitar el derecho de retracto, teniendo preferencia el Ayuntamiento si ambas instituciones lo ejercitasen. Si no lo hiciesen, el Consejo Superior de Deportes podrá hacer uso de este derecho durante treinta días naturales.
+
+7\. Al tiempo de otorgar la escritura pública de enajenación deberá acreditarse documentalmente el haberse practicado las notificaciones requeridas en el presente artículo.
+
+### Artículo 20.
+
+1\. La separación de los Administradores podrá ser acordada en cualquier momento por la Junta general.
+
+2\. Los Administradores que estén incursos en cualquiera de las prohibiciones o incumplan alguna de las obligaciones legales y estatutarias deberán ser inmediatamente separados, a petición de cualquier accionista, con independencia de la responsabilidad en que puedan incurrir por su conducta desleal.
+
+### Artículo 21.
+
+1\. Las Sociedades Anónimas Deportivas tienen la obligación de elaborar sus presupuestos con arreglo a los principios contables ordinarios.
+
+2\. Los presupuestos y la contabilidad de las Sociedades Anónimas Deportivas se elaborarán de conformidad con el Código de Comercio y la Ley de Sociedades Anónimas y disposiciones aplicables por razón de la materia.
+
+3\. Las Sociedades Anónimas Deportivas, por acuerdo ordinario de la Junta general tomado en las condiciones de quórum y mayoría previsto en la Ley de Sociedades Anónimas deberán, con carácter previo al comienzo de la competición, aprobar anualmente su presupuesto.
+
+Los Estatutos sociales podrán elevar los quórum y mayoría previstos.
+
+El proyecto de presupuesto se presentará a la Junta general acompañado a un informe que emitirá la Liga Profesional en el plazo de veinte días naturales desde su solicitud por la Sociedad Anónima Deportiva, pudiendo incluirse en tal informe las menciones complementarias que la Liga Profesional considere necesarias.
+
+4\. Si las Sociedades Anónimas Deportivas cuentan con varias secciones deportivas, profesionales y no profesionales llevarán una contabilidad en la cual se haga mención especial y separada para cada una de ellas, desglosando cada tipo de gasto clasificado por naturaleza, así como cada ingreso, los cuales, además, podrán desglosarse por competiciones, con independencia todo ello de su consolidación, de acuerdo con el Plan General de Contabilidad.
+
+5\. Además de lo establecido en la legislación de Sociedades Anónimas, la Liga Profesional, el Consejo Superior de Deportes y, en su caso, la Comunidad Autónoma Correspondiente, podrán determinar las Sociedades Anónimas Deportivas que deberán someterse a una auditoría complementaria realizada por Auditores designados por las mencionadas Entidades.
+
+### Artículo 22.
+
+1\. Las Sociedades Anónimas Deportivas no podrán repartir dividendos ni cantidades a cuenta de dividendos futuros hasta que no esté constituida una única reserva legal, igual al menos, a la mitad de la media de los gastos realizados en los tres últimos ejercicios.
+
+Excepcionalmente, durante los tres primeros ejercicios se considerará referida dicha mitad a la del presupuesto inicial o a la media de los gastos realizados en los ejercicios que hubieran completado.
+
+Los Estatutos sociales no podrán rebajar estas previsiones.
+
+### Artículo 23.
+
+Los préstamos de los accionistas y Administradores que se realicen a favor de las Sociedades Anónimas Deportivas, no podrán ser exigidos, estén o no consolidados en balance, si la Sociedad no hubiese obtenido beneficios en el último ejercicio anterior a su vencimiento. En tal caso quedarán renovados hasta el cierre del ejercicio siguiente y sólo serán reintegrados si la Sociedad obtuviese beneficios, una vez constituidas la reserva legal, a que se refiere el artículo anterior y, en su caso, estatutaria.
+
+### Disposición adicional primera.
+
+1\. El proyecto de presupuesto de los clubes a los que se refieren las disposiciones adicionales séptima y octava de la Ley del Deporte se presentará a la Asamblea acompañado de un informe que emitirá la Liga Profesional en el plazo de veinte días desde la solicitud por el club, pudiéndose incluir en tal informe las recomendaciones complementarias que la Liga Profesional considere necesarias.
+
+2\. Si los clubes cuentan con varias secciones deportivas profesionales y no profesionales formarán un presupuesto separado para cada sección que se integrará en el presupuesto general del club. Los presupuestos de cada sección deportiva profesional se acompañarán de un informe que emita la Liga Profesional correspondiente. Asimismo, dichos clubes llevarán una contabilidad en la cual se haga mención especial y separada para cada una de las secciones, desglosando cada tipo de gasto clasificado por naturaleza, así como cada ingreso, los cuales, además, podrán desglosarse por competiciones, con independencia todo ello de su consolidación de acuerdo con el Plan General de Contabilidad.
+
+3\. Las Juntas Directivas de los clubes necesitarán la autorización de la Asamblea General, adoptada por la mayoría de los asociados, para realizar actos que excedan de las previsiones del presupuesto de gastos aprobado en materia de plantilla deportiva de los equipos profesionales.
+
+> Se modifica por el art. 1 del Real Decreto 449/1995, de 24 de marzo. [Ref. BOE-A-1995-10363](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-10363).
+
+### Disposición adicional segunda.
+
+La obligación de prestación anual de avales bancarios por las Juntas Directivas de los clubes a que se refieren las disposiciones adicionales séptima y octava de la Ley del Deporte se iniciará en la temporada en la que, a su vez, se inicie el funcionamiento bajo la forma de sociedades anónimas deportivas del resto de los clubes profesionales que participen en la misma competición.
+
+Los avales deberán ser depositados por las Juntas Directivas a favor del club y ante la Liga Profesional correspondiente.
+
+La fianza que, para cada temporada debe constituirse se prestará en las condiciones previstas en el artículo 13.3 y 4 del presente Real Decreto.
+
+En el supuesto de que el club finalizara la temporada con déficit, la Liga Profesional correspondiente ejecutará el aval depositado, salvo que se preste nuevo aval por el déficit producido más el correspondiente a la temporada siguiente.
+
+En el caso de ejecución del aval, ésta se realizará por una cuantía igual a la del déficit alcanzado. La Liga Profesional pondrá su producto a disposición del club, quien únicamente podrá utilizarlo para cancelar el déficit producido.
+
+Los avales se actualizarán una vez conocido el resultado de las auditorías correspondientes y aprobado el presupuesto de gastos y, en todo caso, siempre con anterioridad al comienzo de la competición deportiva. Igualmente deberán ser actualizados siempre que se produzca una modificación del presupuesto.
+
+> Se modifica por el art. 1 del Real Decreto 449/1995, de 24 de marzo. [Ref. BOE-A-1995-10363](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-10363).
+
+### Disposición adicional tercera.
+
+La compensación de avales a que se refieren las disposiciones adicionales séptima y octava de la Ley del Deporte se realizará atendiendo a las siguientes condiciones y supuestos:
+
+1\. En la primera temporada en que, de acuerdo a lo establecido en la disposición anterior de este Real Decreto, se iniciase la obligación de depositar avales, y para el supuesto de aquellas Juntas Directivas a las que sean atribuibles a su gestión continuada resultados económicos positivos desde la temporada 1985-1986 o siguientes, la cuantía del aval se obtendrá por la diferencia entre el 15 por 100 del presupuesto de gastos aprobado por la Asamblea, en el que se incluirán los gastos por amortizaciones y provisiones, y los referidos resultados económicos positivos.
+
+En el supuesto de que dichos resultados fuesen superiores al 15 por 100 del presupuesto de gastos referido no habrá que depositar aval alguno.
+
+2\. En el supuesto de las Juntas Directivas que inicien su gestión, éstas habrán de depositar un aval cuya cuantía será el 15 por 100 del presupuesto de gastos.
+
+3\. Para el cálculo de la cuantía de los avales bancarios que deban depositarse en los ejercicios sucesivos, y siempre bajo la condición de que el Presidente de la Junta Directiva permanezca durante todo el mandato o que su sucesor haya sido miembro de dicha junta durante el referido período, se tendrán en cuenta los resultados económicos positivos o negativos acumulados hasta la fecha correspondiente por dicha Junta Directiva.
+
+En el supuesto de que los resultados económicos fuesen positivos, la cuantía del aval se obtendrá por la diferencia entre el 15 por 100 del presupuesto de gastos y la cuantía de dichos resultados positivos acumulados.
+
+En el supuesto de que estos resultados positivos fuesen iguales o superiores al 15 por 100 del presupuesto de gastos, no será necesario depositar aval alguno.
+
+En el supuesto de que los resultados fuesen negativos, la cuantía del aval será la que se obtenga de sumar a dichos resultados negativos acumulados el 15 por 100 del presupuesto de gastos correspondientes, salvo que la Liga Profesional hubiera ejecutado el aval, en cuyo caso, la cuantía será del 15 por 100 del presupuesto de gastos correspondiente más el importe de los resultados negativos en la cuantía no cubierta por el aval ejecutado, en su caso.
+
+4\. Los avales serán ejecutados, en los casos que corresponda, por las Ligas Profesionales al final del período de cada mandato de una Junta Directiva.
+
+Los avales habrán de ser ejecutados por una cuantía igual a la de los resultados económicos acumulados durante cada período de mandato.
+
+En el supuesto de que los resultados económicos negativos acumulados fueran superiores a la cuantía del aval, los miembros de las Juntas Directivas responderán mancomunadamente del resto de los resultados económicos negativos no cubiertos por dicho aval, de acuerdo a lo establecido en la disposición adicional séptima de la Ley del Deporte.
+
+En el supuesto de una Junta Directiva que renovase consecutivamente su mandato y hubiese obtenido en el anterior o anteriores períodos resultados económicos positivos acumulados, a los efectos de determinar la cuantía del aval anual correspondiente, se descontarán los mismos del 15 por 100 del presupuesto de gastos, de acuerdo a los criterios ya establecidos anteriormente.
+
+5\. A los efectos anteriores, se considerarán resultados económicos positivos o negativos las variaciones positivas o negativas del patrimonio neto contable, no considerándose las provenientes de revalorizaciones de activos. El cálculo de dichas variaciones patrimoniales se realizará según los datos ajustados y teniendo en cuenta las salvedades que figuren en los informes anuales de auditoría realizados bajo la supervisión de las Ligas Profesionales correspondientes, a quienes corresponderá la cuantificación de dichos resultados.
+
+No se considerarán resultados económicos positivos los ingresos extraordinarios que se derivan de la asunción por la Liga Nacional de Fútbol Profesional de determinadas deudas públicas o privadas en el marco del plan de saneamiento a que se refiere la disposición adicional decimoquinta de la Ley del Deporte.
+
+6\. En los supuestos en que se considerase necesario, las Ligas Profesionales y el Consejo Superior de Deportes podrán remitir los informes de auditoría al Instituto de Contabilidad y Auditoría de Cuentas, a los efectos previstos en el artículo 22 de la Ley 19/1988, de Auditoría de Cuentas, con independencia de lo establecido en el apartado 4 de la disposición adicional séptima de la Ley del Deporte.
+
+El resultado de dichos informes deberá ser comunicado por la Liga Profesional al club, para que éste lo ponga a su vez en conocimiento de la Asamblea respectiva a los efectos oportunos.
+
+7\. Las Juntas Directivas remitirán a la Liga Profesional el sistema interno de prestación de avales que hayan establecido que, en todo caso, contemplará los supuestos de fallecimiento, cese o dimisión de sus miembros. Tales supuestos deberán incluirse en los Estatutos o Reglamentos de los clubes.
+
+> Se modifica por el art. 1 del Real Decreto 449/1995, de 24 de marzo. [Ref. BOE-A-1995-10363](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-10363).
+
+### Disposición adicional cuarta.
+
+Los clubes deportivos que, por ascenso, o por cualquier otro procedimiento previsto en las normas reguladoras de las competiciones, obtengan el derecho a participar en competiciones profesionales de ámbito estatal, seguirán el mismo procedimiento que para la transformación de clubes en sociedades anónimas deportivas se contiene en el presente Real Decreto.
+
+Hasta su constitución en sociedad anónima deportiva, los miembros de las Juntas Directivas de los clubes deberán, mancomunadamente, prestar aval bancario que alcance el 15 por 100 del presupuesto de gastos del club.
+
+> Se modifica por el art. 1 del Real Decreto 449/1995, de 24 de marzo. [Ref. BOE-A-1995-10363](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-10363).
+
+### Disposición adicional quinta.
+
+A efectos de lo previsto en las disposiciones adicionales y transitorias de la Ley 10/1990, de 15 de octubre, del Deporte, son competiciones de carácter profesional y ámbito estatal, las actualmente existentes en las modalidades deportivas de fútbol y baloncesto:
+
+Primera y segunda división A de fútbol.
+
+Primera división masculina de baloncesto, denominada liga A C B.
+
+### Disposición adicional sexta.
+
+1\. La composición de la comisión mixta a que se refiere la disposición transitoria primera, 2, de la Ley del Deporte, para la modalidad deportiva de fútbol, es la siguiente:
+
+Un Presidente designado por el Consejo Superior de Deportes.
+
+Tres Vocales designados por el Consejo Superior de Deportes.
+
+Tres Vocales designados por la Liga Nacional de Fútbol Profesional.
+
+Un Vocal designado por el Consejo Superior de Deportes a propuesta de la Real Federación Española de Fútbol.
+
+Un Vocal designado por el Consejo Superior de Deportes a propuesta de la Asociación de Deportistas Profesionales más representativa.
+
+La comisión mixta queda adscrita a la Presidencia del Consejo Superior de Deportes.
+
+2\. La composición de la citada comisión mixta, para la modalidad deportiva de baloncesto, será la misma que para la modalidad deportiva de fútbol se expresa en el apartado anterior, entendiéndose que la referencia a la Liga Profesional lo es a la Asociación de Clubes de Baloncesto.
+
+3\. Ambas comisiones incluirán entre sus miembros, con voz pero sin voto, un representante del Instituto de Contabilidad y Auditorías de Cuentas, y un Abogado del Estado designado por la Dirección General del Servicio Jurídico del Estado.
+
+4\. Las comisiones mixtas ajustarán su funcionamiento a las normas que sobre los órganos colegiados se contienen en la legislación reguladora del procedimiento administrativo común.
+
+5\. Las resoluciones de las comisiones mixtas no ponen fin a la vía administrativa, y contra las mismas podrá interponerse recurso ordinario ante el Presidente del Consejo Superior de Deportes.
+
+> Se modifica por el art. 1 del Real Decreto 449/1995, de 24 de marzo. [Ref. BOE-A-1995-10363](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-10363).
+
+### Disposición adicional séptima.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 1846/1996, de 26 de julio. [Ref. BOE-A-1996-17266](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-17266).
+
+> Se añade por el art. 2 del Real Decreto 449/1995, de 24 de marzo. [Ref. BOE-A-1995-10363](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-10363).
+
+### Disposición adicional octava.
+
+1\. Cuando un club deportivo que participe en competiciones oficiales de ámbito estatal decida su transformación en sociedad anónima deportiva, sin que ésta venga determinada por el acceso a una competición oficial de carácter profesional de ámbito estatal, deberá recabar informe de la correspondiente comisión mixta, adjuntando la siguiente documentación:
+
+a) Auditoría de las cuentas de la entidad correspondiente a los tres últimos ejercicios económicos.
+
+b) Balance final cerrado a la fecha del día anterior al de la solicitud del informe de la comisión mixta.
+
+c) Certificación del acuerdo de transformación o adscripción adoptado por su Asamblea General.
+
+d) Memoria del proceso de transformación que pretende realizar.
+
+2\. Una vez obtenido el informe de la citada comisión mixta, que deberá emitirse en el plazo de dos meses, podrá iniciarse el proceso de transformación con sujeción a las reglas contenidas en el presente Real Decreto. Transcurrido el plazo establecido para emitir el informe sin que éste se haya producido, se presumirá en sentido favorable. Para la continuación del proceso, el interesado deberá solicitar el certificado de acto presunto previsto en la legislación reguladora del procedimiento administrativo común en los plazos y con los efectos previstos en la misma.
+
+El proceso de transformación deberá concluirse en el plazo de un año, contado a partir de la presentación de la solicitud de informe. Superado este plazo deberá solicitarse nuevo informe a la comisión mixta.
+
+Unicamente podrá emitirse informe desfavorable cuando el proyecto de transformación incumpla alguno de los requisitos legales previstos para estos procesos. En tales supuestos podrá solicitarse nuevo informe, una vez subsanados los defectos detectados.
+
+3\. En los supuestos en los que clubes deportivos que no participen en competiciones oficiales de ámbito estatal decidan su transformación en sociedades anónimas deportivas, el informe previsto en la presente disposición adicional será emitido por el órgano competente de la Comunidad Autónoma en la que radique dicho club.
+
+La documentación que debe acompañar a la solicitud de informe, así como los efectos del mismo, serán los mismos que los previstos para los clubes que participen en competiciones oficiales de ámbito estatal.
+
+4\. Las referencias a las funciones de tutela, control y supervisión de las Ligas Profesionales sobre las sociedades anónimas deportivas contenidas en el presente Real Decreto no serán de aplicación para aquellas que no participen en competiciones profesionales.
+
+> Se añade por el art. 2 del Real Decreto 449/1995, de 24 de marzo. [Ref. BOE-A-1995-10363](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-10363).
+
+## Transformación de clubes o adscripción de equipos profesionales a Sociedades Anónimas Deportivas
+
+### Disposición transitoria primera.
+
+1\. Los clubes actualmente existentes que participen en competiciones oficiales de carácter profesional y ámbito estatal, vienen obligados, en virtud de lo previsto en la Ley del Deporte, a transformarse en Sociedades Anónimas Deportivas, en los términos que se expresan en las disposiciones siguientes. Los clubes deportivos que no se adecúen al proceso regulado en esta disposición y en los plazos que se estipulan, no podrán participar en competiciones oficiales de carácter profesional y ámbito estatal.
+
+2\. No obstante lo dispuesto en el punto anterior, aquellos clubes que cuenten con secciones deportivas profesionales y no profesionales podrán mantener su actual estructura jurídica para los equipos no profesionales. Respecto de los equipos profesionales deberán ser adscritos a una Sociedad Anónima Deportiva de nueva creación, para cada uno de los equipos aportando a la misma los recursos personales y materiales correspondientes, en los términos que se indican en las disposiciones siguientes.
+
+3\. Quedan exceptuados de la transformación o adscripción obligatoria a que se refieren los puntos anteriores, los clubes contemplados en las disposiciones adicionales séptima y octava de la Ley del Deporte.
+
+### Disposición transitoria segunda.
+
+La transformación en Sociedades Anónimas Deportivas o la adscripción del equipo profesional y aportación de sus recursos a una Sociedad Anónima Deportiva de nueva creación, se acomodará a las siguientes reglas:
+
+a) Los clubes deportivos antes del 30 de septiembre de 1991 deberán adoptar la decisión de transformarse en Sociedad Anónima Deportiva o, en su caso, de adscripción del equipo profesional a una sociedad Anónima Deportiva de nueva creación, y comunicarlo a la Comisión Mixta a que se refiere la disposición transitoria primera de la Ley del Deporte, acompañando un informe o Memoria explicativa de las características de la propuesta de transformación del Club o, en su caso, de adscripción del equipo profesional.
+
+b) La Comisión Mixta, una vez constituida y conforme reciba la notificación de los clubes sobre la transformación o adscripción, podrá encargar la realización de una auditoría patrimonial de cada Club, cuyo coste será sufragado por partes iguales entre la Liga Profesional y el Consejo Superior de Deportes.
+
+c) Analizados los informes patrimoniales derivados de las autorías correspondientes, la Comisión Mixta establecerá el capital mínimo de cada Sociedad Anónima Deportiva y fijará los plazos en que deberá efectuarse la transformación del Club o adscripción, en su caso, que no podrán, en ningún caso, exceder de seis meses, referido este plazo al momento del otorgamiento de la escritura fundacional.
+
+d) Si el Club optara por la transformación en Sociedad Anónima Deportiva, la Junta Directiva deberá acordar las actuaciones necesarias para adaptarse al régimen previsto en la Ley del Deporte y en el presente Real Decreto. En los Estatutos no podrán reservarse los fundadores remuneraciones ni ventajas de ninguna clase, excepto las menciones honoríficas que se acuerde otorgar.
+
+e) Si el Club optara por la adscripción del equipo profesional y la aportación de sus recursos a una Sociedad Anónima Deportiva de nueva creación, ésta deberá ser constituida por la Junta Directiva, acomodándose a las reglas que para la transformación de clubes en Sociedades Anónimas Deportivas se contiene en esta disposición.
+
+f) A los efectos previstos en el punto anterior, se entenderá que los recursos del equipo profesional están integrados por:
+
+1.º Aquellos activos y/o pasivos que, asociados al equipo profesional, constituyan una Entidad económica dentro del Club.
+
+2.º Se entenderá forman una Entidad económica aquellos activos y/o pasivos que necesaria e inequívocamente se hayan generado como consecuencia de la existencia del equipo profesional y se encuentren al servicio de éste.
+
+La valoración de las aportaciones se realizará al valor neto contable que dichos activos y pasivos tuvieran en el Club Deportivo.
+
+g) En el caso de la transformación de un club en Sociedad Anónima Deportiva, o de que el equipo profesional adscrito a una Sociedad Anónima Deportiva lo fuera de fútbol, y en el marco del saneamiento del fútbol profesional, serán asumidas por la Liga Nacional de Fútbol Profesional, en los términos y con las limitaciones expresadas en la disposición adicional decimotercera de la Ley del Deporte, las siguientes deudas:
+
+1.º Deudas tributarias con el Estado derivadas de tributos o conceptos de esta naturaleza devengados hasta el 31 de diciembre de 1989, autoliquidación o, en su caso, liquidadas por la Administración tributaria antes de la entrada en vigor de la Ley del Deporte. Estas deudas tributarias incluirán todos los componentes previstos en el artículo 58 de la Ley General Tributaria que resultaran procedentes, así como las costas que se hubiesen podido producir.
+
+2.º Otras deudas con el Estado y sus Organismo autónomos, Seguridad Social y Banco Hipotecario de España a 31 de diciembre de 1989.
+
+3.º Las deudas expresadas en los apartados anteriores se entienden referidas a las de aquellos clubes que en la temporada 1989/1990 y 1990/1991 participaban o participan en competiciones oficiales de la primera y segunda división A de futbol.
+
+h) Igualmente, y al objeto de hacer frente a los compromisos contraídos en el Plan de Saneamiento de 1985, la Liga Nacional de Fútbol Profesional asumirá el pago de las deudas públicas de igual naturaleza que las señaladas en el apartado g), referidas a aquellos otros clubes incluidos en el citado Plan y no contemplados en el punto 3) del apartado anterior, que fueron devengadas con anterioridad a dicho Plan y que se encuentren pendientes de pago a 31 de diciembre de 1989.
+
+### Disposición transitoria tercera.
+
+1\. A efectos de suscripción y desembolso del capital, la Junta Directiva deberá ofrecer las acciones en que se divida el capital a los socios del Club, de modo que cada uno de ellos pueda suscribir igual número de acciones. Si en el plazo de treinta días no se suscribiesen todas las acciones, éstas deberán ser ofrecidas nuevamente a los socios que ya hubiesen suscrito en la primera opción, en las mismas condiciones de igualdad durante el plazo de treinta días.
+
+Si dentro de este plazo se suscribiesen todas las acciones se procederá al otorgamiento de la escritura de constitución y posterior inscripción en los Registros correspondientes, siendo de aplicación los preceptos que sobre la fundación simultánea se contienen en la Ley de Sociedades Anónimas.
+
+2\. Si transcurrido el plazo de la segunda opción a los socios, quedasen acciones sin suscribir, la Junta Directiva, decidirá sobre la forma de suscripción de las mismas. En todo caso, los Estatutos preverán la fórmula en que la Junta Directiva, recabando la opinión de los socios, decida sobre la suscripción.
+
+3\. Los clubes que opten por la adscripción del equipo profesional no podrán ser titulares de más del 10 por 100 de las acciones de la Sociedad Anónima Deportiva de nueva creación. El procedimiento de suscripción será el contenido en las disposiciones anteriores, con derecho preferente del Club en la suscripción de las acciones al tiempo de constitución de la Sociedad.
+
+4\. En el caso de que en los plazos previstos en esta disposición, no se consiguiese la suscripción total de al menos el capital mínimo, el Club no podrá participar en competiciones de carácter profesional, y ámbito estatal.
+
+5\. A Los efectos de lo previsto en el artículo 5.º de este Real Decreto, la fecha límite para la presentación de la documentación requerida en el Registro de Asociaciones Deportivas, será la de 30 de junio de 1992, para la primera y segunda división «A» de fútbol y para la primera división masculina de Baloncesto, denominada «Liga A. C. B.».
+
+Excepcionalmente, y previo informe de la Comisión Mixta, estas fechas podrán ser modificadas por Orden del Ministerio de Educación y Ciencia.
+
+### Disposición transitoria cuarta.
+
+Para el otorgamiento de la escritura pública de constitución, los suscriptores de las acciones se entienden representados por la Junta Directiva del Club de que se trate.
+
+### Disposición transitoria quinta.
+
+En tanto no concluya el proceso de transformación o adscripción del equipo profesional, en su caso, se declaran inhábiles los meses de julio y agosto, a los solos efectos de la oferta y suscripción de las acciones del capital.
+
+### Disposición transitoria sexta.
+
+Una vez otorgada la escritura pública e inscrita en los Registros correspondientes, se convocará Junta general de accionistas para proceder a la elección de los órganos de gobierno y representación de la Sociedad Anónima Deportiva.
+
+### Disposición transitoria séptima.
+
+Los Presidentes de los clubes que participen en las competiciones profesionales cuyo mandato finalice entre la fecha de publicación del presente Real Decreto, y la conclusión del proceso de transformación o adscripción del equipo profesional, en su caso, podrán prorrogar su mandato hasta dicho momento.
+
+### Disposición transitoria octava.
+
+La transformación de clubes en Sociedades Anónimas Deportivas a que se refieren las disposiciones anteriores, no supondrá cambio de la personalidad jurídica de aquéllos, que se mantendrá bajo la nueva forma social.
+
+### Disposición transitoria novena.
+
+En tanto se elaboren las normas propias de adaptación del Plan General de Contabilidad a las Sociedades Anónimas Deportivas, éstas utilizarán las normas de adaptación del mismo a los clubes de fútbol, en lo que sea de aplicación.
+
+### Disposición final primera.
+
+Se autoriza al Ministro de Educación y Ciencia para dictar cuantas normas sean necesarias para el desarrollo y aplicación del presente Real Decreto.
+
+### Disposición final segunda.
+
+El presente Real Decreto entrara en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 5 de julio de 1991.
+
+JUAN CARLOS R.
+
+El Ministro de Educación y Ciencia,
+
+JAVIER SOLANA MADARIAGA

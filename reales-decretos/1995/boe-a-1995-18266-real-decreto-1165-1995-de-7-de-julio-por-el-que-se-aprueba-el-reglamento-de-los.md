@@ -1,0 +1,5494 @@
+---
+title: "Real Decreto 1165/1995, de 7 de julio, por el que se aprueba el Reglamento de los Impuestos Especiales"
+identifier: "BOE-A-1995-18266"
+eli: "https://www.boe.es/eli/es/rd/1995/07/07/1165"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1995-07-07
+published: 1995-07-28
+in_force_from: 1995-10-01
+last_amended: 2025-01-23
+consolidated: 2026-09-24
+gazette: "Boletín Oficial del Estado núm. 179"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-18266"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1165/1995, de 7 de julio, por el que se aprueba el Reglamento de los Impuestos Especiales
+
+Incluye la corrección de errores publicada en BOE núm. 222, de 16 de septiembre de 1995. [Ref. BOE-A-1995-20896](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-20896)
+
+La Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, supuso, de una parte, el establecimiento a partir del 1 de enero de 1993 de un sistema de impuestos especiales de fabricación adaptado a la nueva realidad de una Comunidad Europea sin fronteras fiscales; de otra parte, y sin ser ello completamente ajeno a dicha nueva realidad, creó el nuevo Impuesto Especial sobre Determinados Medios de Transporte. Esta Ley ha sufrido ya algunas modificaciones en su texto operadas por las siguientes normas: Real Decreto-ley 7/1993, de 21 de mayo, de medidas urgentes de adaptación y modificación del Impuesto sobre el Valor Añadido, del Impuesto Especial sobre determinados Medios de Transporte, del Impuesto General Indirecto Canario, del Arbitrio sobre la Producción e Importación en las Islas Canarias y de la Tarifa especial del Arbitrio insular a la Entrada de Mercancías; Real Decreto-ley 13/1993, de 4 de agosto, de Medidas tributarias urgentes; Ley 21/1993, de 29 de diciembre, de Presupuestos Generales del Estado para 1994; Ley 41/1994, de 30 de diciembre, de Presupuestos Generales del Estado para 1995, y Ley 42/1994, de 30 de diciembre, de Medidas fiscales, administrativas y de orden social.
+
+Las condiciones en que se desarrolló el proceso de adopción de la normativa comunitaria, de la que la Ley 38/1992 constituye la transposición al Derecho español y el de ésta misma, determinaron la imposibilidad de que, en aquel momento, la Ley 38/1992 pudiera contar con un desarrollo reglamentario contenido en un cuerpo normativo único. Por ello y hasta la fecha, el desarrollo reglamentario de esta Ley se ha contenido fundamentalmente en los siguientes instrumentos:
+
+a) El Real Decreto 1623/1992, de 29 de diciembre, que desarrolla la Ley 38/1992, en relación con el Impuesto Especial sobre Determinados Medios de Transporte.
+
+b) El Reglamento provisional de los Impuestos Especiales de Fabricación, aprobado por el Real Decreto 258/1993, de 19 de febrero, que desarrolla la Ley 38/1992 en los aspectos novedosos de ésta en materia de los impuestos especiales de fabricación.
+
+c) El antiguo Reglamento de Impuestos Especiales, aprobado por el Real Decreto 2442/1985, de 27 de diciembre, y otras normas reglamentarias anteriores a la Ley 38/1992, en todo lo que no se opongan a lo dispuesto en ésta, en la normativa comunitaria de que trae causa y en el referido Reglamento provisional de los Impuestos Especiales de Fabricación.
+
+Esta situación de dispersión de las normas reglamentarias en materia de impuestos especiales sólo es justificable con un carácter transitorio y limitado en el tiempo. Por ello el presente Real Decreto pone fin a dicha situación consolidando en un único cuerpo normativo todas las normas reglamentarias de desarrollo de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, y corrigiendo algunos aspectos que la aplicación de las normas hasta ahora vigentes ha venido poniendo de manifiesto.
+
+Además, mediante el presente Real Decreto se efectúa la transposición de la Directiva 94/74/CE, del Consejo, de 22 de diciembre, por la que se modifican las Directivas 92/12/CEE relativa al régimen general, tenencia, circulación y controles de los productos objeto de impuestos especiales; 92/81/CEE relativa a la armonización de las estructuras del impuesto especial sobre los hidrocarburos, y 92/82/CEE relativa a la aproximación de los tipos del impuesto especial sobre los hidrocarburos («segunda Directiva de simplificación»), en aquellos de sus aspectos que no requieren norma con rango de Ley.
+
+En su virtud, a propuesta del Ministro de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 7 de julio de 1995,
+
+D I S P O N G O :
+
+###### Artículo único.
+
+Se aprueba el Reglamento de los Impuestos Especiales que figura como anexo del presente Real Decreto.
+
+###### Disposición adicional primera.
+
+Las referencias a las normas del Reglamento provisional de los Impuestos Especiales de Fabricación, aprobado por el Real Decreto 258/1993, de 19 de febrero, y del Real Decreto 1623/1992, de 29 de diciembre, por el que se desarrollan determinados preceptos de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, y se atribuyen competencias en materia de gestión, recaudación, comprobación e investigación, en relación con el Impuesto Especial sobre Determinados Medios de Transporte, efectuadas en los números 43 a 85 del anexo 4 del Real Decreto 803/1993, de 28 de mayo, por el que se modifican determinados procedimientos tributarios, deberán entenderse hechas a las normas del Reglamento que se aprueba por el presente Real Decreto.
+
+###### Disposición adicional segunda.
+
+Los aparatos de destilación que, por aplicación de lo dispuesto en el párrafo c) del apartado 2 del artículo 56 del Reglamento provisional de los Impuestos Especiales de Fabricación, aprobado por el Real Decreto 258/1993, de 19 de febrero, se considerase que estaban montados en emplazamientos fijos, mantendrán tal consideración a efectos de lo dispuesto en el Reglamento que se aprueba como anexo del presente Real Decreto.
+
+###### Disposición transitoria primera.
+
+Con carácter general y siempre que su contenido no se oponga a lo establecido en el presente Real Decreto y en su anexo, se mantiene, en los términos de su otorgamiento, la vigencia de las autorizaciones expedidas al amparo de la normativa que ahora se deroga, sin perjuicio del cumplimiento de los requisitos y condiciones que, con arreglo a lo dispuesto en el presente Real Decreto y en su anexo, sean exigibles en relación con dichas autorizaciones.
+
+###### Disposición transitoria segunda.
+
+A efectos de lo establecido en la disposición transitoria primera, los titulares de establecimientos afectados por lo dispuesto en el Reglamento que se aprueba como anexo dispondrán de un plazo de tres meses a contar desde la entrada en vigor del presente Real Decreto para prestar las nuevas garantías que, en su caso, hayan de constituirse, así como, en general, para cumplimentar los nuevos requisitos y condiciones que les sean exigibles.
+
+###### Disposición transitoria tercera.
+
+La obligación de incorporar marcadores al queroseno de acuerdo con lo dispuesto en los artículos 108 y 114 del Reglamento que se aprueba como anexo será exigible a partir de la fecha que determine la Orden por la que se aprueben los referidos marcadores para dicho producto.
+
+###### Disposición derogatoria única.
+
+1\. A partir de la entrada en vigor del presente Real Decreto quedarán derogadas las siguientes disposiciones:
+
+a) Las normas del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 2442/1985, de 27 de diciembre, cuya vigencia se hubiera mantenido como consecuencia de lo dispuesto en el apartado 2 de la disposición derogatoria primera de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, y en el artículo 3 del Real Decreto 258/1993, de 19 de febrero, por el que se aprueba el Reglamento provisional de los Impuestos Especiales de Fabricación.
+
+b) Las normas del Reglamento provisional para la aplicación del Impuesto sobre el Alcohol y Bebidas Derivadas a las mistelas y vinos especiales, aprobado por el Real Decreto 154/1987, de 23 de enero, cuya vigencia se hubiera mantenido como consecuencia de lo dispuesto en el apartado 2 de la disposición derogatoria primera de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, y en el artículo 54 del Reglamento provisional de los Impuestos Especiales de Fabricación, aprobado por el Real Decreto 258/1993, de 19 de febrero.
+
+c) El Real Decreto 1623/1992, de 29 de diciembre, por el que se desarrollan determinados preceptos de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, y se atribuyen competencias en materia de gestión, recaudación, comprobación e investigación, en relación con el Impuesto Especial sobre Determinados Medios de Transporte. No obstante, hasta tanto no se efectúe una nueva distribución de las competencias entre los departamentos de la Agencia Estatal de Administración Tributaria, se mantendrá la vigencia de lo dispuesto en el artículo 5 del referido Real Decreto 1623/1992.
+
+d) El Reglamento provisional de los Impuestos Especiales de Fabricación, aprobado por el Real Decreto 258/1993, de 19 de febrero.
+
+e) Cuantas otras normas de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto y en su anexo.
+
+2\. Salvo en aquellos aspectos en que se oponga a lo dispuesto en el presente Real Decreto y en su anexo, mantendrá su vigencia la Orden de 28 de noviembre de 1988, por la que se regula el procedimiento y requisitos para obtener la homologación de los vehículos de exclusiva aplicación industrial, comercial, agraria, clínica o científica, en la que las referencias al Impuesto sobre el Valor Añadido deberán entenderse hechas al Impuesto Especial sobre Determinados Medios de Transporte.
+
+> Se modifica el apartado 2 por la disposición final 1 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+###### Disposición final primera.
+
+Se autoriza al Ministro de Economía y Hacienda para dictar las disposiciones necesarias para el desarrollo y cumplimiento de lo establecido en el presente Real Decreto y en su anexo.
+
+###### Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día 1 de octubre de 1995.
+
+Dado en Madrid a 7 de julio de 1995.
+
+JUAN CARLOS R.
+
+El Ministro de Economía y Hacienda,
+
+PEDRO SOLBES MIRA
+
+## ANEXO — REGLAMENTO DE LOS IMPUESTOS ESPECIALES
+
+### TITULO I — Impuestos especiales de fabricación
+
+#### CAPITULO I — Disposiciones comunes a los impuestos especiales de fabricación
+
+##### Sección 1.ª Conceptos y definiciones
+
+###### Artículo 1. Conceptos y definiciones
+
+A efectos del título I de este Reglamento, se entenderá por:
+
+1\. Albaranes de circulación. Los documentos que amparan la circulación de productos objeto de los impuestos especiales de fabricación, distintos del documento administrativo electrónico, del documento de acompañamiento de emergencia, del documento administrativo electrónico simplificado, de las marcas fiscales y de los documentos aduaneros.
+
+2\. Almacén fiscal. El establecimiento autorizado para recibir, almacenar y distribuir, con las condiciones que se establecen en este Reglamento, productos objeto de los impuestos especiales de fabricación, con el impuesto devengado en el ámbito territorial interno, si bien con aplicación de un tipo reducido o de un supuesto de exención. En un establecimiento autorizado como almacén fiscal también se podrá recibir, almacenar y distribuir productos objeto de los impuestos especiales de fabricación con el impuesto devengado con aplicación de un tipo impositivo general.
+
+3\. Código Administrativo de Referencia. Número de referencia asignado por las autoridades competentes del Estado miembro de expedición al correspondiente documento electrónico, una vez que los datos del borrador han sido validados.
+
+Las referencias al Código Administrativo de Referencia asignado por las autoridades competentes del Estado miembro de expedición al documento administrativo electrónico, una vez que los datos del borrador han sido validados, se harán mediante las siglas ''ARC''.
+
+4\. Documento administrativo electrónico. El documento electrónico establecido por la Directiva 2020/262/UE del Consejo, de 19 de diciembre de 2019, por la que se establece el régimen especial de los impuestos especiales, y por el Reglamento Delegado (UE) 2022/1636 de la Comisión de 5 de julio de 2022, para amparar la circulación intracomunitaria, en régimen suspensivo, de productos objeto de los impuestos especiales de fabricación, excluido el Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco.
+
+El documento administrativo electrónico, con las adaptaciones y excepciones previstas en este Reglamento y en la normativa de desarrollo, se utilizará también para amparar la circulación de productos objeto de los impuestos especiales de fabricación, en régimen suspensivo o con aplicación de una exención o a tipo reducido, con origen y destino en el ámbito territorial interno.
+
+5\. Documento administrativo electrónico simplificado. El documento electrónico establecido por la Directiva 2020/262/UE para amparar la circulación intracomunitaria de productos objeto de los impuestos especiales de fabricación, excluido el Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco, según el procedimiento de envíos garantizados.
+
+6\. Documento de acompañamiento de emergencia. El documento establecido por la Directiva 2020/262/UE y por el Reglamento (CE) n.° 684/2009, para acompañar la circulación intracomunitaria cuando el sistema de control informatizado no esté disponible en el momento de la expedición de los productos. En tales supuestos, el expedidor podrá dar inicio a la circulación con cumplimiento de los requisitos establecidos en este Reglamento y normas de desarrollo.
+
+El documento de acompañamiento de emergencia, con las adaptaciones y excepciones previstas en este Reglamento y en la normativa de desarrollo, también se utilizará, en caso de indisponibilidad del sistema informatizado, en todos los supuestos de circulación con origen y destino en el ámbito territorial interno, que deban estar amparados en un documento administrativo electrónico.
+
+7\. Ley. La Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+
+8\. Lugar de importación. El sitio en el que los productos se despachen a libre práctica con arreglo a lo dispuesto en el artículo 201 del Reglamento (UE) n.° 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013, por el que se establece el código aduanero de la Unión.
+
+9\. Oficina gestora. El órgano que, de acuerdo con las normas de estructura orgánica de la Agencia Estatal de Administración Tributaria, sea competente en materia de impuestos especiales.
+
+10\. Pérdidas. Cualquier diferencia en menos, medida en unidades homogéneas, entre la suma de los productos de entrada en un proceso de fabricación o de almacenamiento y la suma de los productos de salida del mismo, considerando las correspondientes existencias iniciales y finales. En el caso del transporte se considerarán «pérdidas» cualesquiera diferencias en menos entre la cantidad de productos que inician una operación de transporte y la cantidad de productos que la concluyen o que resultan de una comprobación efectuada en el curso de dicha operación.
+
+11\. Perfeccionamiento fiscal. El procedimiento mediante el cual, a partir de unos productos objeto de los impuestos especiales de fabricación, recibidos en régimen suspensivo, se obtienen, con cumplimiento de las condiciones establecidas en este Reglamento, productos compensadores que no son objeto de los impuestos especiales de fabricación y que posteriormente han de ser exportados, ultimándose así el régimen suspensivo.
+
+12\. Porcentaje reglamentario de pérdidas. El límite porcentual máximo de pérdidas establecido en este Reglamento para determinadas operaciones o procesos, hasta el cual aquéllas se consideran admisibles sin necesidad de justificación o prueba. Podrá justificarse que diferencias entre las cantidades contabilizadas y las resultantes de las mediciones efectuadas que sean superiores a los porcentajes reglamentarios de pérdidas sean debidas a las imprecisiones propias de los elementos de medición. Salvo lo dispuesto, en su caso, en las normas específicas de cada impuesto, el porcentaje de pérdidas se aplica sobre la cantidad de productos de entrada en el proceso u operación de que se trate. Cuando se trate de un proceso integral en el que no sea posible determinar las pérdidas habidas en cada uno de los procesos simples que lo componen, el porcentaje reglamentario de pérdidas del proceso integral será el resultado de la suma ponderada de los porcentajes reglamentarios de pérdidas correspondientes a cada uno de los procesos simples.
+
+13\. Reexpedidor.
+
+**(Suprimido).**
+
+14\. Sistema informatizado. Sistema de control mediante procedimientos informáticos de los movimientos de los productos objeto de los impuestos especiales.
+
+La referencia al sistema informatizado de los movimientos de los productos objeto de los impuestos especiales basados en el documento administrativo electrónico se hará mediante las siglas ''EMCS''.
+
+15\. Suministro directo. La circulación, en el ámbito exclusivamente interno, fuera del régimen suspensivo, de productos objeto de los impuestos especiales que se han beneficiado de una exención o de la aplicación de un tipo reducido en razón de su destino, hasta un lugar de entrega autorizado por las autoridades competentes, en las condiciones que se establecen en este Reglamento.
+
+16\. Viajero con destino a un tercer país o territorio tercero. Todo pasajero en posesión de un título de transporte, por vía aérea o marítima, en el que figure como destino final un aeropuerto o puerto situado en un tercer país o territorio.
+
+> Téngase en cuenta que la actualización de los apartados 4 y 5, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. [Ref. BOE-A-2025-1136](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1136)
+
+> Se modifican los apartados 4 y 5 por la disposición final 5.1 de la Ley 7/2024, de 20 de diciembre. [Ref. BOE-A-2024-26694](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26694)
+
+> Téngase en cuenta que esta actualización de los apartados 4 y 5, tendrá efectos desde el 1 de abril de 2025, según determina el art. 10.4 del Real Decreto-ley 9/2024, de 23 de diciembre. [Ref. BOE-A-2024-26915](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26915)
+
+> Se modifican los apartados 1, 3, 4, 5, 6, 8 y 14 por el art. 41.1 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se suprime el apartado 13 por el art. 4.1 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica por el art. único.1 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.1 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+##### Sección 2.ª Elementos estructurales
+
+###### Artículo 2. Devengo en autoconsumos.
+
+En las operaciones de autoconsumo, los impuestos especiales de fabricación no se devengarán cuando los productos se destinen a la realización de las operaciones propias del régimen suspensivo.
+
+###### Artículo 3. Perfeccionamiento fiscal.
+
+1\. Los fabricantes, a que se refiere el número 2.° de la letra a) del apartado 1 del artículo 7 de la Ley, solicitarán de la oficina gestora correspondiente al establecimiento donde se van a utilizar los productos objeto de los impuestos especiales en la fabricación de productos compensadores, autorización para recibir aquellos productos en régimen suspensivo. La solicitud irá acompañada de la siguiente documentación:
+
+a) La exigida para la solicitud de inscripción en el registro territorial, en lo que se refiere a las operaciones de fabricación de los productos compensadores.
+
+b) Memoria explicativa del proceso de fabricación de los productos compensadores, en la que se precise la proporción en que los productos objeto de los impuestos especiales de fabricación figuran en la composición del producto compensador, así como de los que se consumen en su proceso de fabricación y, en su caso, los subproductos obtenidos.
+
+c) Resumen de las exportaciones de productos compensadores efectuadas en los tres años anteriores o, en su defecto, de las previsiones de fabricación y exportación.
+
+d) Programa de adquisiciones de los productos objeto de los impuestos especiales de fabricación, en régimen suspensivo, con indicación del nombre o razón social, domicilio, número de identificación fiscal y código de actividad y del establecimento del depositario o depositarios autorizados proveedores.
+
+2\. Será condición necesaria para la concesión de la autorización a que se refiere el apartado 1 anterior, la prestación de una garantía por un importe del 2,5 por 100 de las cuotas correspondientes a la cantidad máxima anual a que se refiere el apartado siguiente. Si el proveedor fuese un depositario autorizado establecido en el ámbito territorial de la Unión no interno, esta garantía surtirá también efectos en relación con la recepción de productos en régimen suspensivo como destinatario registrado.
+
+3\. La oficina gestora adoptará el acuerdo oportuno, procediendo, en su caso, a la inscripción en el registro territorial del establecimiento en que se van a utilizar los productos recibidos en régimen suspensivo y a la expedición de una autorización de suministro en régimen suspensivo por cada uno de los proveedores designados por el solicitante, con indicación de la cantidad máxima anual que puede suministrar en este régimen.
+
+4\. Los productos recibidos en régimen suspensivo deben utilizarse en la obtención de productos compensadores en un período de seis meses a partir de la fecha de recepción. Los productos compensadores obtenidos deben exportarse en el plazo de un año, a partir de la fecha de su obtención. La falta de utilización de los primeros o de exportación de los segundos, dará lugar a la liquidación de la deuda tributaria correspondiente, con aplicación de los tipos vigentes en la fecha de recepción de los productos y liquidación de los intereses de demora correspondientes.
+
+5\. El fabricante de los productos compensadores deberá llevar una contabilidad en que se anoten las cantidades de productos recibidos en régimen suspensivo, con indicación de fecha, proveedor y referencia del documento administrativo electrónico, las cantidades utilizadas o consumidas diariamente en el proceso de fabricación de los productos compensadores, los productos compensadores fabricados y las cantidades exportadas de estos últimos, con indicación del documento de exportación.
+
+6\. Los asientos de cargo se justificarán con el ARC del documento administrativo electrónico que ha amparado la circulación de los productos objeto de los impuestos especiales de fabricación recibidos en régimen suspensivo. Los asientos de data relativos a las exportaciones de productos compensadores se justificarán con una copia de la declaración de exportación, diligenciada por la aduana de exportación.
+
+7\. Al exportarse los productos compensadores, se deberá consignar en la declaración de exportación que se trata de una exportación en régimen de perfeccionamiento fiscal.
+
+> Se modifican los apartados 1, párrafo primero y 2 por el art. 41.2 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifican los apartados 5 y 6 por el art. único.2 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica el apartado 2 por el art. único.2 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+##### Sección 3.ª Exenciones
+
+###### Artículo 4. Exenciones en el marco de las relaciones internacionales y de ciertos avituallamientos.
+
+1\. La aplicación de las exenciones a que se refieren los párrafos a) y b) del apartado 1 del artículo 9 de la Ley se efectuará de acuerdo con lo previsto en el Real Decreto 3485/2000, de 29 de diciembre, sobre franquicias y exenciones en régimen diplomático, consular y de organismos internacionales, y de modificación del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre.
+
+2\. En el supuesto de la exención relativa a las adquisiciones efectuadas por las fuerzas armadas a que se refieren las letras c) y g) del apartado 1 del artículo 9 de la Ley, cuando se trate de los productos objeto de los impuestos sobre el alcohol y las bebidas alcohólicas, del Impuesto sobre las Labores del Tabaco, de los combustibles incluidos en el ámbito objetivo del Impuesto sobre Hidrocarburos o de los productos objeto del Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco, el procedimiento para la aplicación del beneficio se iniciará con la petición al Ministerio de Defensa de la acreditación del cumplimiento de las condiciones fijadas en los respectivos Convenios internacionales suscritos por España en el ámbito de la OTAN o en las disposiciones aplicables del Derecho de la Unión, según proceda en cada caso. Una vez obtenida dicha acreditación, el beneficiario de la exención solicitará su aplicación a la oficina gestora. En esta solicitud, a la que se acompañará la referida acreditación, se precisará la clase y cantidad de productos que se desea adquirir con exención, de acuerdo con las necesidades previstas.
+
+La oficina gestora expedirá la autorización de suministro con exención de los impuestos especiales de fabricación, por la cantidad adecuada a las necesidades de consumo justificadas. En el certificado de exención se especificarán la naturaleza, cantidad de los productos sujetos a impuestos especiales que puedan entregarse con exención, el valor de los productos y la identidad del destinatario exento.
+
+3\. La aplicación de la exención a que se refiere la letra d) del apartado 1 del artículo 9 de la Ley se llevará a cabo en las condiciones previstas en el acuerdo que la reconozca y, en lo no previsto en el mismo, con arreglo a las normas del citado Real Decreto 3485/2000 en lo que resulte de aplicación. Cuando se trate de carburantes incluidos en el ámbito objetivo del Impuesto sobre Hidrocarburos se estará, además, a lo establecido en el artículo 5 de este Reglamento.
+
+4\. El suministro de los productos a que se refieren los apartados 2 y 3 anteriores deberá efectuarse del siguiente modo:
+
+a) Si se trata de productos importados o con estatuto aduanero de mercancía no perteneciente a la Unión, desde la aduana de despacho a libre práctica o, en su caso, desde una zona franca o desde un depósito aduanero.
+
+b) Si se trata de productos situados en el ámbito territorial interno, desde una fábrica, depósito fiscal o almacén fiscal.
+
+c) Los asientos de data de las contabilidades de los establecimientos a que se refieren las letras a) y b) anteriores se justificarán con cargo a las correspondientes autorizaciones de suministro y a los ejemplares del documento de circulación a que se refiere la letra e) siguiente.
+
+d) Salvo en el caso de los productos objeto del Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco, si se trata de productos, que se suministran desde el territorio de otros Estados miembros, los beneficiarios de las exenciones podrán recibirlos directamente en régimen suspensivo. En este supuesto, las autorizaciones de suministro deberán expedirse en forma de “certificado de exención”, en el que se especificarán la naturaleza y la cantidad de los productos sujetos a impuestos especiales que deban entregarse, el valor de los productos y la identidad del destinatario exento, cuyo modelo se establecerá por la persona titular del Ministerio de Hacienda que acompañará al documento en el que esté reflejado el ARC. El beneficiario de la exención cumplimentará la notificación electrónica de recepción.
+
+e) Cuando, en los casos previstos en las letras a) y b) anteriores, los productos circulen con origen y destino en el ámbito territorial interno, su circulación desde el lugar de expedición hasta su destino se amparará en un documento administrativo electrónico. El beneficiario de la exención formalizará la notificación de recepción. La oficina gestora podrá autorizar, a solicitud de dicho beneficiario, que la notificación se realice por medios distintos de los electrónicos.
+
+5\. En los supuestos de exención a que se refieren las letras e) y f) del apartado 1 del artículo 9 de la Ley, en relación con los impuestos especiales sobre el alcohol y las bebidas alcohólicas, el Impuesto sobre las Labores del Tabaco y el Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco, el destino se acreditará conforme a lo previsto en la normativa aduanera vigente.
+
+La persona titular del Ministerio de Hacienda determinará la cantidad máxima de bebidas alcohólicas, de labores del tabaco, de los líquidos para cigarrillos electrónicos, de bolsas de nicotina o de otros productos de nicotina con que podrán ser avituallados, con exención del impuesto, los buques y aeronaves que vayan a efectuar una navegación marítima o aérea internacional, teniendo en cuenta la duración de dicha navegación, así como el número de tripulantes y de pasajeros.
+
+> Téngase en cuenta que la actualización de los apartados 2, 4 y 5, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. [Ref. BOE-A-2025-1136](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1136)
+
+> Se modifican, los apartados 2, 4 y 5 por la disposición final 5.2 de la Ley 7/2024, de 20 de diciembre. [Ref. BOE-A-2024-26694](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26694)
+
+> Téngase en cuenta que esta actualización de los apartados 2, 4 y 5, tendrá efectos desde el 1 de abril de 2025, según determina el art. 10.4 del Real Decreto-ley 9/2024, de 23 de diciembre. [Ref. BOE-A-2024-26915](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26915)
+
+> Se modifican los apartados 2, 4 y 5 por el art. 41.3 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado 5 por el art. 1.1 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifican los apartados 4 y 5 por el art. único.3 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.3 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se deja sin efecto en la forma indicada por la disposición derogatoria única.3 del Real Decreto 3485/2000, de 29 de diciembre. [Ref. BOE-A-2000-24368](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-24368)
+
+###### Artículo 5. Suministros de carburantes en el marco de las relaciones internacionales.
+
+1\. La aplicación de las exenciones a que se refieren las letras c), d) y g) del apartado 1 del artículo 9 de la Ley se efectuará, cuando se trate del suministro de carburantes incluidos en el ámbito objetivo del Impuesto sobre Hidrocarburos, mediante la devolución de las cuotas del impuesto incluidas en el precio de los carburantes adquiridos, de acuerdo con el procedimiento que se establece en los apartados siguientes.
+
+2\. La adquisición de los carburantes deberá efectuarse mediante la utilización de tarjetas de crédito, de débito o de compras, cuya emisión, para este fin, haya sido previamente aprobada por el centro gestor. Será condición necesaria para su aprobación el cumplimiento de las siguientes condiciones:
+
+a) La tarjeta debe ser expedida a nombre del beneficiario y en ella se hará constar la matrícula del vehículo.
+
+b) Deberán quedar identificados tanto el comprador como el vendedor del carburante.
+
+c) Deberá quedar constancia de la clase y cantidad del carburante adquirido, así como del importe de la adquisición.
+
+d) El importe del carburante adquirido deberá cargarse en una cuenta corriente abierta en cualquier entidad de crédito, indicada por el beneficiario.
+
+e) La entidad emisora de la tarjeta deberá estar capacitada para dar cumplimiento a lo que se establece en el apartado 6 de este artículo.
+
+3\. Cuando se trate de la adquisición de carburantes con destino a las instalaciones de las fuerzas armadas a que se refieren las letras c) y g) del apartado 1 del artículo 9 de la Ley, se seguirá el procedimiento establecido en el apartado 2 del artículo 4 de este Reglamento.
+
+La entrega de los carburantes podrá también efectuarse por el proveedor mediante el suministro directo a los vehículos de los miembros de dichas fuerzas o del personal civil a su servicio; con este fin, el mando de las fuerzas armadas remitirá a la oficina gestora, a través del Ministerio de Defensa, una relación de los beneficiarios y de los vehículos propiedad de estos, con expresión de nombres y apellidos, números de las tarjetas especiales de identificación y matrícula de dichos vehículos. El suministro de carburantes deberá efectuarse de acuerdo con el procedimiento establecido en el apartado 2 anterior, a cuyo efecto se hará constar en la relación la entidad que cada beneficiario elija para la emisión de las tarjetas a que se refiere dicho apartado.
+
+4\. El centro gestor autorizará, en su caso, el suministro de carburantes con derecho a devolución, comunicando tal acuerdo a la entidad emisora de las tarjetas designada por los beneficiarios, con indicación expresa del nombre del propietario del vehículo, de la matrícula del mismo y de la cantidad máxima mensual de carburante para la que se reconoce el derecho a la devolución.
+
+5\. Las Misiones de cada Estado y las personas representativas de las fuerzas armadas notificarán al centro gestor las modificaciones habidas en relación con las solicitudes a que se refieren los apartados 2 y 3 anteriores, siguiéndose el procedimiento establecido en los citados apartados. El centro gestor comunicará las modificaciones a las entidades emisoras de las tarjetas afectadas.
+
+6\. Las entidades emisoras de tarjetas presentarán por los medios y procedimientos electrónicos, informáticos o telemáticos que determine el Ministro de Economía y Hacienda, en un plazo que terminará el día 20 del mes siguiente al de la finalización de cada trimestre, una relación con los siguientes datos:
+
+a) Nombre o razón social, domicilio y Número de Identificación Fiscal de la entidad emisora.
+
+b) Matrícula del vehículo, así como el Número de Identificación Fiscal y nombre de su propietario y código de la cuenta de cliente (c.c.c.) de cargo.
+
+c) Cantidad total de cada clase de carburante, expresada en litros o kilogramos, adquirida mediante la utilización de la tarjeta, hasta el máximo mensual autorizado, e importe total adeudado en el trimestre.
+
+Las entidades emisoras de tarjetas serán responsables de la correspondencia entre los datos contenidos en dichas relaciones y los que se deducen de los medios de pago utilizados.
+
+7\. La oficina gestora acordará, en su caso, la devolución de las cuotas por el Impuesto sobre Hidrocarburos correspondientes a la cantidad de carburante adquirida, sin exceder del máximo autorizado, ordenando el pago del importe a devolver a la entidad emisora de las tarjetas. Para la determinación de la cuota a devolver se aplicarán los tipos impositivos que han estado vigentes durante el trimestre para cada uno de los carburantes; si hubiese habido modificación de los tipos, se aplicará el tipo medio ponderado por los días de vigencia de cada uno de ellos. Si la entidad emisora de las tarjetas fuera sujeto pasivo del Impuesto sobre Hidrocarburos, la oficina gestora, a petición de la entidad, podrá autorizar que la devolución se realice mediante la minoración de la cuota correspondiente al periodo impositivo en que se acuerde la devolución.
+
+La entidad emisora de las tarjetas abonará a cada beneficiario el importe de las cuotas devueltas, no más tarde de la fecha en que le practique la primera liquidación, consignando expresamente la cantidad correspondiente a la devolución y el trimestre a que corresponde.
+
+8\. No obstante lo anterior, cuando se trate de importaciones de carburantes destinados a ser utilizados por los vehículos de las fuerzas armadas a que se refieren las letras c) y g) del apartado 1 del artículo 9 de la Ley, la aplicación de la exención del Impuesto sobre Hidrocarburos se efectuará por la Aduana, acreditándose ante esta su procedencia mediante la presentación, junto con los documentos exigidos por la legislación aduanera para su importación, de un certificado acreditativo del destino de los bienes, presentado por persona debidamente autorizada por la fuerza armada del Estado miembro o por el Ministerio de Defensa.
+
+> Se modifican los apartados 1 y 3 y se añade el apartado 8 por el art. 41.4 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifican la letra d) del apartado 2, la letra c) del apartado 6 y el apartado 7 por el art. 1.1 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica por el art. único.4 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 6 por el art. 1.1 del Real Decreto 1739/2003 de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+> Se deja sin efecto en la forma indicada por la disposición derogatoria única.3 del Real Decreto 3485/2000, de 29 de diciembre.[Ref. BOE-A-2000-24368](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-24368)
+
+##### Sección 4.ª Devoluciones
+
+###### Artículo 6. Normas generales sobre las devoluciones.
+
+1\. En los supuestos de devolución establecidos en el artículo 10 de la Ley, el importe de las cuotas que se devuelvan será el mismo que el de las cuotas soportadas.
+
+2\. No obstante lo dispuesto en el apartado anterior, cuando no fuera posible determinar tal importe, las cuotas se determinarán aplicando el tipo vigente tres meses antes de la fecha en que se realiza la operación que origina el derecho a la devolución.
+
+3\. La devolución del impuesto podrá autorizarse con carácter provisional. Las liquidaciones provisionales se convertirán en definitivas como consecuencia de la comprobación efectuada por la Inspección o bien cuando no hubieran sido comprobadas dentro del plazo de cuatro años, contados a partir de la fecha en que se realiza la operación que origina el derecho a la devolución.
+
+4\. La oficina gestora, antes de acordar la devolución con carácter provisional, podrá requerir la acreditación por parte del peticionario de haberse satisfecho los impuestos cuya devolución se solicita. Esta acreditación se efectuará principalmente mediante:
+
+a) La factura en que conste la repercusión del impuesto, de acuerdo con lo establecido en el artículo 18 de este Reglamento.
+
+*b)* el albarán de circulación o, en su caso, el documento administrativo electrónico, cuando se trate de adquisiciones dentro del ámbito territorial interno, diferentes a las que se refiere la letra anterior.
+
+c) El asiento contable acreditativo de la inclusión en la base imponible del impuesto, cuando se trate de ventas a distancia efectuadas por depositarios autorizados.
+
+d) Los justificantes de haberse efectuado el pago del impuesto, cuando el solicitante sea sujeto pasivo del impuesto con ocasión de operaciones de importación o de recepciones de los productos procedentes del ámbito territorial de la Unión no interno.
+
+5\. En todos los supuestos de devoluciones que tengan por objeto productos que hayan circulado, dentro del ámbito territorial interno, utilizando marcas fiscales, será condición necesaria para que se acuerde la devolución, que tales marcas se inutilicen o destruyan, bajo control de la administración tributaria, previamente a la salida de los productos del ámbito territorial interno.
+
+A tal efecto el interesado comunicará por escrito a la oficina gestora o en su caso a la aduana su intención de proceder a la destrucción o inutilización de las marcas fiscales así como el lugar y el modo de efectuarla. La oficina gestora o en su caso la aduana dispondrán lo necesario para que en el plazo de setenta y dos horas, sin contar sábados o festivos, la destrucción o inutilización se lleve a cabo bajo el control de los servicios de la Administración tributaria.
+
+6\. Cuando el titular del establecimiento no sea propietario de los productos gravados que en el mismo se utilizan en los fines que originan el derecho a una devolución, la documentación correspondiente a efectos de la devolución que se solicite será cumplimentada conjuntamente por el titular del establecimiento y el propietario de los productos gravados, practicándose a este último la devolución que en su caso proceda.
+
+7\. Los procedimientos de devolución de cuotas satisfechas por impuestos especiales que se indican a continuación tendrán, para su resolución, un plazo máximo de seis meses computado a partir de las fechas siguientes:
+
+a) En el procedimiento contemplado en el artículo 5, suministros de carburantes en las relaciones internacionales, el cómputo del plazo indicado comenzará a partir de la fecha en que tengan entrada en el registro del centro gestor la relación centralizada a que se refiere el apartado 6 de dicho artículo remitida por las entidades emisoras de tarjetas.
+
+b) En los procedimientos contemplados en el artículo 7, devoluciones por exportación, el cómputo del plazo indicado comenzará a partir de la fecha de salida efectiva de las mercancías del territorio aduanero de la Unión Europea.
+
+c) En los procedimientos contemplados en los artículos 8, 9 y 10, devoluciones por envíos al ámbito territorial de la Unión no interno, el cómputo del plazo indicado comenzará a partir de la fecha en que tenga entrada en el registro de la oficina gestora la solicitud a que se refieren, respectivamente, los apartados 5, 4 y 4 de cada uno de dichos artículos.
+
+d) En los procedimientos contemplados en los artículos 54 y 80, devoluciones por utilización del alcohol y bebidas alcohólicas en ciertos procesos, el cómputo del plazo indicado comenzará a partir de la fecha en que tenga entrada en el registro de la oficina gestora la solicitud a que se refieren el apartado 5 del primer artículo citado y el párrafo d) del segundo artículo citado.
+
+e) En los procedimientos contemplados en los artículos 109, 110 y 111, devoluciones por utilización de hidrocarburos en ciertos usos, el cómputo del plazo indicado comenzará a partir de la fecha en que tenga entrada en el registro del órgano competente para su tramitación la solicitud a que se refieren, respectivamente, los apartados 4, 8 y 5 de cada uno de dichos artículos.
+
+f) En el procedimiento contemplado en el artículo 124, devolución por reciclado o destrucción de labores del tabaco, para el caso contemplado en el apartado 5 del mismo, el cómputo del plazo indicado comenzará a partir de la fecha en que tenga entrada en el registro de la oficina gestora la solicitud a que se refiere el apartado 1 de dicho artículo.
+
+Sin perjuicio de la obligación de la Administración de dictar en todos los casos resolución expresa, en los supuestos contemplados en el presente apartado las solicitudes de devolución se entenderán desestimadas cuando no haya recaído resolución expresa en el indicado plazo.
+
+8\. En los procedimientos de devolución contemplados en los artículos 55, 112 y 124, relativos a la reintroducción en fábrica o depósito fiscal de ciertos bienes objeto de los impuestos especiales, la Administración dispondrá del plazo de siete días, contado a partir de la de presentación de la solicitud a que se refieren, respectivamente, los apartados 1, 1 y 1 de cada uno de dichos artículos, para autorizar, en su caso, el reenvío de los productos a fábrica o depósito fiscal. Dicha solicitud se entenderá estimada cuando, transcurrido dicho plazo, no haya recaído resolución expresa.
+
+Asimismo, la Administración dispondrá de un plazo de seis meses, contado a partir de la presentación de la solicitud aludida en el párrafo anterior, para determinar el importe de la cuota que, en su caso, proceda devolver. Transcurrido dicho plazo sin resolución expresa se entenderá que el importe de la cuota cuya devolución procede es el que se desprende de los datos consignados por el interesado en la solicitud de referencia.
+
+Una vez recibidos los productos en la fábrica o depósito fiscal, el depositario autorizado receptor al que, respectivamente, se refieren cada uno de los apartados 4, 4 y 4 de los artículos 55, 112 y 124, dispondrán del plazo de un mes, contado desde la fecha en que el importe de la cuota a devolver, conforme a lo expuesto en el párrafo anterior, haya quedado determinado por resolución expresa o presunta, para hacer efectivo dicho importe al solicitante de la devolución.
+
+9\. Cuando las devoluciones contempladas en los artículos 7 a 10 y 109 a 112 de este Reglamento se refieran a productos comprendidos en el ámbito objetivo del Impuesto sobre Hidrocarburos compuestos en parte por un biocarburante al que haya sido de aplicación la exención prevista en el artículo 51.3 de la Ley, la devolución sólo afectará a la cuota efectivamente soportada por el producto.
+
+A estos efectos, el contenido en biocarburante del producto se determinará, cuando no sea posible hacerlo documentalmente, a través del correspondiente análisis químico realizado por los Laboratorios de Aduanas e Impuestos Especiales, de acuerdo con el procedimiento previsto en su normativa reguladora. A estos efectos, la realización de los envíos que den lugar a las devoluciones previstas en los artículos 8, 9, 10 y 110 deberá ser comunicada previamente a los servicios de la Administración tributaria.
+
+> Se modifican los apartados 4.d) y 7.c) por el art. 41.5 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado 9 por el art. 1.2 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifican los apartados 4.b) y 9 por el art. único.4 y 5 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica el apartado 3 por el art. único.5 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se añade el apartado 9 por el art. 1.2 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+> Se añaden los apartados 7 y 8 por el art. único.1 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+> Redactado el apartado 7.d conforme a la corrección de errores publicada en BOE, núm. 19 de 22 de enero de 2000. [Ref. BOE-A-2000-1348](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1348)
+
+###### Artículo 7. Devoluciones por exportación.
+
+1\. La devolución a que se refieren las letras a) y b) del apartado 1 del artículo 10 de la Ley se solicitará presentando una solicitud ajustada al modelo que se establezca por el Ministro de Hacienda y Administraciones Públicas dejándose constancia de la misma en el documento aduanero de exportación. Esta presentación se efectuará inmediatamente después de la presentación del documento aduanero de exportación.
+
+Efectuadas por la aduana las comprobaciones relativas a la clase y cantidad de mercancías exportadas, la oficina gestora correspondiente al domicilio del exportador tramitará el expediente de devolución y dispondrá, en su caso, el pago de las cuotas que correspondan. La oficina gestora podrá autorizar que, de existir razones que lo justifiquen, la solicitud de devolución pueda agrupar las devoluciones correspondientes a las exportaciones realizadas por cada exportador durante un mes. En este caso la solicitud deberá presentarse durante los siete primeros días del mes siguiente. El órgano competente comunicará a la oficina gestora correspondiente al domicilio fiscal del exportador la autorización de agrupación.
+
+2\. La solicitud de devolución no podrá comprender cuotas cuya devolución ya esté dispuesta en alguno de los siguientes preceptos de la Ley:
+
+a) artículo 22
+
+b) artículo 43
+
+c) letra a) del artículo 52
+
+3\. La fecha de salida del territorio de la Unión será la que se tenga en cuenta a efectos de la determinación de la cuota a devolver, si resultara de aplicación lo establecido en el apartado 2 del artículo 6 de este Reglamento.
+
+> Se modifica el apartado 3 por el art. 41.6 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifican los apartados 1 y 2 por el art. único.6 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+###### Artículo 8. Devoluciones por introducción en fábrica o depósito fiscal.
+
+1\. El procedimiento para la devolución del impuesto prevista en la letra c) del apartado 1 del artículo 10 de la Ley, con respecto a las cuotas correspondientes a los productos objeto de los impuestos especiales de fabricación que se introducen en una fábrica o en un depósito fiscal para su posterior envío a un destinatario domiciliado o establecido dentro del ámbito territorial de la Unión no interno, se regirá por lo que se establece en el presente artículo.
+
+2\. El titular del depósito fiscal en que se introduzcan los productos registrará la entrada de los mismos en su contabilidad, sirviendo como documento de cargo el documento de circulación expedido por el empresario. Estos productos no podrán tener otro destino, bajo responsabilidad del depositario autorizado, que el envío al ámbito territorial comunitario no interno.
+
+3\. En la contabilización de la salida de los productos del depósito fiscal se incluirá, además la referencia al correspondiente asiento de cargo. La circulación hasta el destino señalado por el empresario se amparará con el documento de circulación establecido para la circulación intracomunitaria en régimen suspensivo.
+
+4\. El titular del depósito fiscal remitirá al empresario una copia de la notificación de recepción. El expedidor hará constar, en dicha copia, la referencia al correspondiente asiento en su contabilidad.
+
+5\. El empresario presentará, en la oficina gestora correspondiente a cada establecimiento de salida de los productos, una solicitud de devolución, ajustada al modelo que se apruebe por el Ministro de Economía y Hacienda, comprensiva de los envíos efectuados al ámbito territorial comunitario no interno, mediante su previa introducción en un depósito fiscal, que hayan llegado a su destino durante cada trimestre.
+
+6\. La solicitud se presentará dentro de los veinte primeros días naturales del mes siguiente al de finalización del trimestre y en ella se anotarán, por cada operación:
+
+a) La fecha de salida del establecimiento.
+
+b) El depósito fiscal en que se han introducido los productos, con indicación de su código de actividad y del establecimiento (CAE).
+
+c) El Estado de destino.
+
+d) El nombre, apellidos o razón social y domicilio del destinatario, así como su número de identificación fiscal a efectos del IVA y su número de identificación fiscal a efectos de los impuestos especiales, si se trata de un depositario autorizado o un destinatario registrado, o el número de autorización del envío asignado por las autoridades fiscales del Estado de destino, si se trata de un destinatario registrado ocasional.
+
+e) La clase y cantidades de productos enviados de cada uno de los epígrafes de cada impuesto, expresadas en las unidades de cada epígrafe, por los que se solicita la devolución.
+
+f) La fecha de envío por parte del depositario autorizado, así como el ARC del documento administrativo electrónico expedido por éste.
+
+g) La fecha de la notificación de recepción por el destinatario, y
+
+h) El importe de la devolución que se solicita, calculado de acuerdo con lo establecido en el apartado 1, o, en su caso, en el apartado 2, del artículo 6 de este Reglamento.
+
+7\. El empresario conservará a disposición de la oficina gestora y de los servicios de inspección, durante un periodo de cuatro años, las copias a que se refiere el apartado 4 de este artículo y los documentos que acrediten el pago o cargo contable de los impuestos especiales de fabricación en el ámbito territorial de la Unión no interno. Estos últimos documentos podrán sustituirse por una diligencia acreditativa de los siguientes datos:
+
+a) La dirección de la oficina competente de las autoridades fiscales del Estado de destino.
+
+b) La fecha en que dicha oficina aceptó la declaración y el número de referencia o de registro de esta declaración.
+
+8\. A efectos de la aplicación de lo establecido en el apartado 2 del artículo 6 de este Reglamento, se considera que la operación que origina el derecho a la devolución es la recepción de los productos en el Estado de destino.
+
+9\. El empresario conservará a disposición de la oficina gestora y de los servicios de inspección, durante un periodo de cuatro años, los documentos acreditativos de haberse satisfecho el impuesto dentro del ámbito territorial interno por los productos enviados.
+
+10\. La oficina gestora resolverá el expediente de devolución acordando, en su caso, el pago de las cuotas que correspondan.
+
+> Se modifica el título y los apartados 1 y 7 por el art. 41.7 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado 6 por el art. único.7 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.6 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 9. Devolución en el sistema de envíos garantizados.
+
+1\. El procedimiento para la devolución del impuesto prevista en el párrafo d) del apartado 1 del artículo 10 de la Ley, con respecto a las cuotas correspondientes a los productos objeto de los impuestos especiales de fabricación entregados por un empresario, dentro del ámbito territorial interno, para ser enviados al ámbito territorial de la Unión no interno mediante el sistema de envíos garantizados, se regirá por lo que se establece en el presente artículo.
+
+2\. El expedidor certificado deberá cerciorarse, antes de entregar los productos, que el destinatario certificado ha garantizado el pago de los impuestos especiales de fabricación en el Estado de destino.
+
+3\. Los productos circularán amparados por un documento administrativo electrónico simplificado, expedido por el expedidor certificado.
+
+4\. El expedidor certificado presentará, en la oficina gestora correspondiente a cada establecimiento desde el que se ha efectuado la entrega, una solicitud de devolución, ajustada al modelo que se apruebe por la persona titular del Ministerio de Hacienda y Función Pública, comprensiva de las entregas efectuadas por el procedimiento de envíos garantizados, por los que se haya pagado el impuesto en el ámbito territorial de la Unión no interno, durante cada trimestre.
+
+5\. La solicitud se presentará dentro de los veinte primeros días del mes siguiente al de finalización del trimestre y en ella se anotarán, por cada operación:
+
+a) El número de referencia del documento administrativo electrónico simplificado expedido.
+
+b) La fecha de salida.
+
+c) El Estado miembro de destino.
+
+d) El nombre, apellidos o razón social y domicilio del destinatario, así como su número de identificación fiscal a efectos del IVA.
+
+e) La clase y cantidades de productos entregados de cada uno de los epígrafes de cada impuesto, expresadas en las unidades de cada epígrafe, por los que se solicita la devolución.
+
+f) La fecha de recepción por el destinatario certificado.
+
+g) La fecha y referencia del pago del impuesto en el Estado miembro de destino, y
+
+h) El importe de la devolución que se solicita, calculado de acuerdo con lo establecido en el apartado 1, o, en su caso, en el apartado 2, del artículo 6 de este Reglamento.
+
+6\. A efectos de la aplicación de lo establecido en el apartado 2 del artículo 6 de este Reglamento, se considera que la operación que origina el derecho a la devolución es el pago o cargo contable del impuesto en el Estado miembro de destino.
+
+7\. El expedidor certificado conservará a disposición de la oficina gestora y de los servicios de inspección, durante un período de cuatro años, los ejemplares de los documentos administrativos electrónicos simplificados expedidos, los documentos acreditativos de haberse satisfecho el impuesto dentro del ámbito territorial interno, por los productos entregados, las notificaciones de recepción emitidas por los destinatarios certificados y los justificantes de haberse satisfecho el impuesto en el Estado miembro de destino.
+
+8\. La oficina gestora resolverá el expediente de devolución acordando, en su caso, el pago de las cuotas que correspondan.
+
+9\. Cuando se trate de productos por los que se ha devengado el impuesto con aplicación de un tipo cero, el expedidor certificado que los envíe deberá cumplimentar lo dispuesto en los apartados 2, 3 y 7 de este artículo.
+
+> Se modifica por el art. 41.8 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifican los apartados 5 y 7 por el art. único.7 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 10. Devolución en el sistema de ventas a distancia.
+
+1\. El procedimiento para la devolución del impuesto prevista en el párrafo e) del apartado 1 del artículo 10 de la Ley, con respecto a las cuotas correspondientes a los productos objeto de los impuestos especiales de fabricación enviados desde el establecimiento de un empresario situado en el ámbito territorial interno, con destino a una persona domiciliada en el ámbito territorial de la Unión no interno, mediante el sistema de ventas a distancia, se regirá por lo que se establece en el presente artículo.
+
+2\. Los empresarios que deseen enviar productos objeto de los impuestos especiales de fabricación al ámbito territorial de la Unión no interno, por el procedimiento de ventas a distancia, deben solicitar su inscripción como tales en la oficina gestora correspondiente al establecimiento desde el que se efectuarán los envíos.
+
+3\. En cada establecimiento deberá llevarse una contabilidad de los envíos realizados por este procedimiento en la que deberá registrarse, por cada envío:
+
+a) El número de orden correlativo del envío.
+
+b) La fecha de salida del establecimiento.
+
+c) El número de la factura o documento comercial que la sustituya.
+
+d) Nombre, apellidos o razón social, domicilio y, en su caso, número de identificación fiscal atribuido al destinatario a efectos del Impuesto sobre el Valor Añadido.
+
+e) Estado de destino.
+
+f) La referencia a la garantía prestada en el Estado de destino con anterioridad a la fecha del envío.
+
+g) La clase de productos enviados, con inclusión del código NC en que se clasifican y de la tarifa y epígrafe del impuesto correspondientes.
+
+h) La cantidad de productos enviados, expresada en las unidades que figuran en los respectivos epígrafes.
+
+i) Fecha de entrega al destinatario.
+
+j) Fecha del pago del impuesto en el Estado de destino y referencia del comprobante.
+
+k) Importe de la cuota cuya devolución se solicita.
+
+l) Referencia al trimestre y año de la solicitud de devolución en que se ha incluido.
+
+4\. El empresario presentará en la oficina gestora correspondiente a cada establecimiento una solicitud de devolución, ajustada al modelo que se apruebe por la persona titular del Ministerio de Hacienda y Función Pública, comprensiva de los envíos efectuados por el procedimiento de ventas a distancia, por los que se haya pagado el impuesto en el ámbito territorial de la Unión no interno, durante cada trimestre.
+
+5\. La solicitud se presentará dentro de los veinte primeros días del mes siguiente al de finalización del trimestre y en ella se anotarán, por cada Estado de destino, las cantidades de productos de cada uno de los epígrafes de cada impuesto, expresadas en las unidades de cada epígrafe, por los que se solicita la devolución, los números de orden de los envíos incluidos en la solicitud y el importe de la devolución que se solicita, calculado de acuerdo con lo establecido en el apartado 1, o, en su caso, en el apartado 2, del artículo 6 de este Reglamento.
+
+6\. A efectos de la aplicación de lo establecido en el apartado 2 del artículo 6 de este Reglamento, se considera que la operación que origina el derecho a la devolución es el pago o cargo contable, del impuesto en el Estado de destino.
+
+7\. El empresario conservará a disposición de la oficina gestora y de los servicios de inspección, durante un periodo de cuatro años, a contar desde el día siguiente a la finalización del plazo para solicitar la devolución, las facturas, los documentos acreditativos de haberse satisfecho el impuesto dentro del ámbito territorial interno por los productos enviados y los justificantes de haberse satisfecho el impuesto en el Estado de destino.
+
+8\. La oficina gestora resolverá el expediente de devolución acordando, en su caso, el pago de las cuotas que correspondan.
+
+9\. Cuando los productos se envíen desde una fábrica o depósito fiscal, no será preciso cumplir lo establecido en los apartados 2, 4 y 5 de este artículo. La contabilidad de existencias del establecimiento deberá recoger los datos a que se refiere el apartado 3 anterior. La devolución se efectuará deduciendo las cuotas que resulten a devolver, de las que deban ingresarse por el período impositivo en que se ha efectuado el pago del impuesto en el Estado de destino.
+
+10\. Cuando se trate de productos por los que se ha devengado el impuesto con aplicación de un tipo cero, el empresario que los envíe por el procedimiento de ventas a distancia deberá cumplimentar lo dispuesto en los apartados 2, 3 y 7 de este artículo, sin perjuicio de lo dispuesto en el apartado 9 del mismo.
+
+> Se modifican los apartados 1, 2 y 4 por el art. 41.9 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado 7 por el art. único.8 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+##### Sección 5.ª Depósitos y almacenes
+
+###### Artículo 11. Depósitos fiscales.
+
+1\. El centro gestor podrá autorizar a las personas que lo soliciten, el establecimiento de depósitos fiscales en los que, en régimen suspensivo:
+
+a) Podrán recibirse, almacenarse y expedirse bienes objeto de los impuestos especiales de fabricación.
+
+Dentro de estas operaciones, se considerarán incluidas las operaciones de conservación y envasado de dichos bienes, así como las de mezcla que no constituyan transformación salvo lo dispuesto en las letras b) y c) siguientes.
+
+b) Podrán efectuarse operaciones de desnaturalización o adición de marcadores.
+
+c) Podrán efectuarse, en depósitos fiscales de hidrocarburos, mezclas de productos objeto del Impuesto sobre Hidrocarburos, entre sí o con otros productos, siempre que la mezcla obtenida esté comprendida a su vez en el ámbito objetivo del impuesto.
+
+2\. La autorización de un depósito fiscal quedará condicionada al cumplimiento de los siguientes requisitos:
+
+a) El volumen trimestral medio de salidas durante un año natural deberá superar las cuantías siguientes:
+
+1.º Alcohol: 400.000 litros de alcohol puro. En Canarias y Baleares este límite será de 100.000 litros de alcohol puro.
+
+2.º Bebidas derivadas: 25.000 litros de alcohol puro.
+
+3.º Extractos y concentrados alcohólicos exclusivamente: 3.500 litros de alcohol puro.
+
+4.º Productos intermedios: 150.000 litros.
+
+5.º Vino y bebidas fermentadas: 150.000 litros.
+
+6.º Cerveza: 150.000 litros.
+
+7.º Bebidas alcohólicas conjuntamente: la cantidad equivalente a 30.000 litros de alcohol puro.
+
+8.º Hidrocarburos: 2.500.000 kilogramos.
+
+9.º Labores del tabaco: la cantidad cuyo valor, calculado según su precio máximo de venta al público, sea de 2.500.000 euros.
+
+10.º No obstante lo establecido en los números anteriores del presente apartado a), no será exigible el cumplimiento de un volumen mínimo de salidas en relación con la autorización de los siguientes depósitos fiscales:
+
+1'. Depósitos fiscales que se autoricen exclusivamente para efectuar operaciones de suministro de bebidas alcohólicas y de labores de tabaco destinadas al consumo o venta a bordo de buques y aeronaves.
+
+2'. Depósitos fiscales de bebidas alcohólicas y de labores del tabaco situados en puertos o aeropuertos y que funcionen exclusivamente como establecimientos minoristas.
+
+3'. Depósitos fiscales situados en instalaciones aeroportuarias públicas que se dediquen únicamente a la distribución de querosenos y gasolinas de aviación.
+
+4'. Depósitos fiscales que se dediquen exclusivamente a la distribución de los aceites y grasas y del alcohol metílico (metanol) a que se refieren los artículos 50 bis y 51.3 de la Ley.
+
+5'. Depósitos fiscales que se dediquen exclusivamente a la distribución de productos comprendidos en la tarifa 2.ª del Impuesto sobre Hidrocarburos.
+
+6'. Los que se dediquen exclusivamente al almacenamiento de alcohol envasado sin desnaturalizar, fabricado por el mismo titular y que tenga un destino exento en el ámbito territorial interno o se destine al ámbito territorial de la Unión no interno o a la exportación.
+
+Los depósitos fiscales a que se refieren los puntos 1' y 2' de este número podrán también expedir bebidas alcohólicas y labores del tabaco, o solo alguno de estos productos, con destino a depósitos fiscales exclusivamente autorizados para las mismas operaciones que el depósito fiscal remitente, así como efectuar las devoluciones de los productos a los proveedores de origen.»
+
+b) Cuando se solicite, por quien ya es titular de un depósito fiscal que viene funcionando regular e ininterrumpidamente durante más de dos años, la autorización a su nombre de nuevos depósitos fiscales para una misma categoría de productos, los volúmenes de movimiento mínimo a que se refiere el párrafo anterior serán reducidos en un 25 por 100.
+
+Esta reducción será también aplicable cuando el solicitante del depósito fiscal sea titular de una fábrica de la misma categoría de productos que venga funcionando regular e ininterrumpidamente durante más de dos años y cuyo volumen trimestral medio de salidas durante el período de doce meses inmediatamente anterior a la solicitud del depósito supere las cuantías establecidas en la letra a) anterior.
+
+Las reducciones a que se refiere el párrafo anterior no serán aplicables en relación con la autorización de depósitos fiscales de hidrocarburos.
+
+c) Los depósitos fiscales deberán ubicarse en instalaciones independientes de aquellas en las que se ejerza cualquier actividad que, por razones de seguridad o de control fiscal, no sea compatible con la que determine la autorización del depósito. En particular, los depósitos fiscales de hidrocarburos deberán ubicarse en instalaciones independientes de las instalaciones de venta al público o de suministro a vehículos de carburantes y combustibles petrolíferos. Se considera que una instalación es independiente cuando no tiene comunicación con otra y dispone de acceso directo a la vía pública.
+
+No obstante, la oficina gestora podrá autorizar que una zona delimitada del local en que se encuentre instalado el depósito se considere fuera del mismo a los únicos efectos del almacenamiento y ulterior reexpedición de productos por los que se devengó el impuesto a tipo impositivo pleno con ocasión de la ultimación del régimen suspensivo y que posteriormente fueron devueltos a su titular.
+
+El movimiento de estos productos deberá registrarse en un libro habilitado al efecto en el que los asientos de cargo se justificarán con el albarán que expida la persona o entidad que efectúe la devolución; los asientos de data se justificarán con el albarán que se emita para amparar la circulación de los productos reexpedidos.
+
+d) Los depósitos fiscales en los que se introduzcan graneles líquidos deberán disponer de tanques en los que se almacenarán los productos, dotados, en el conjunto del establecimiento de la capacidad mínima de almacenamiento que se exija por la oficina gestora en relación con el volumen de entradas de producto en el establecimiento. Dichos tanques, diferenciados por clases y especificaciones, deberán estar numerados y dotados de los correspondientes elementos de medición, debidamente autorizados por el organismo oficial o autoridad competente.
+
+e) En cada depósito fiscal se deberá llevar una contabilidad de existencias de acuerdo con lo dispuesto en el artículo 50 de este Reglamento. Los asientos de cargo se justificarán con el ARC del documento administrativo electrónico en que figure el depósito fiscal como lugar de entrega. Los asientos de data permitirán diferenciar los distintos tratamientos fiscales dados a los productos salidos y se justificarán con los documentos de circulación expedidos por el titular del depósito. Cuando, conforme a lo dispuesto en el artículo 15 de la Ley se realicen en el depósito fiscal operaciones de transformación, la contabilidad del depósito deberá reflejar tales operaciones.
+
+f) Los depósitos fiscales de hidrocarburos que desarrollen su actividad en relación con los productos petrolíferos a que afecta la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, solo podrán ser autorizados a quienes, conforme a lo establecido en los preceptos que se indican de dicha ley, reúnan alguna de las siguientes condiciones:
+
+1.º Sean titulares de una autorización administrativa para instalaciones de transporte o parques de almacenamiento conforme a lo dispuesto en el artículo 40.2.
+
+2.º Tengan la condición de operador al por mayor conforme a lo dispuesto en los artículos 42 y 45.
+
+3.º Ejerzan, desde instalaciones autorizadas al efecto para este fin, la actividad de distribuidor al por menor de productos petrolíferos, conforme a lo dispuesto en los artículos 43, 46 y 47.
+
+g) Podrán ser autorizadas como depósito fiscal de gas natural cualquiera de las instalaciones que comprenden el sistema gasista tal y como éste se describe en el artículo 59 de la Ley del Sector de Hidrocarburos. Podrán autorizarse como un único depósito fiscal varias de las referidas instalaciones siempre que su titular sea la misma persona y exista un control centralizado de estas.
+
+La autorización de las referidas instalaciones como depósitos fiscales requerirá, además del cumplimiento de los requisitos generales que sean aplicables, que el solicitante se halle en posesión de la autorización administrativa que proceda, según el caso, de las contempladas en los artículos 67 y 73 de la citada Ley 34/1998.
+
+h) En los depósitos fiscales autorizados en los aeropuertos tendrán la consideración de instalaciones de almacenamiento los tanques, las redes de hidrantes y las unidades expendedoras de productos.
+
+3\. La solicitud de autorización de un depósito fiscal deberá incluir, en todo caso, el nombre y apellidos o razón social y el número de identificación fiscal del obligado tributario y, en su caso, de la persona que lo represente, y será presentada por los interesados ante el centro gestor. A dicha solicitud se acompañará la siguiente documentación:
+
+a) Memoria descriptiva de la actividad que se pretende desarrollar en relación con la autorización que se solicita y previsión razonada del volumen trimestral medio de salidas durante un año natural. En dicha memoria deberán describirse las operaciones de transformación que, en su caso, se planee llevar a cabo en el depósito fiscal.
+
+b) Plano a escala del recinto del establecimiento, con indicación del número y capacidad de los depósitos. En las solicitudes que se refieran a redes de oleoductos o de gasoductos, el plano de la red de tuberías y de la ubicación y clase de los elementos de bombeo, así como la indicación de dichos elementos, de los utilizados para efectuar las mediciones del flujo de los productos y, en su caso, de los medios de almacenamiento, que integran la red.
+
+c) La documentación acreditativa del cumplimiento de lo dispuesto en las letras c), d) y e) del apartado 2 de este artículo.
+
+d) La documentación acreditativa de las autorizaciones que, en su caso, corresponda otorgar a otros órganos administrativos. En particular y en cuanto a las actividades relativas a productos comprendidos en el ámbito objetivo del Impuesto sobre Hidrocarburos será necesario aportar la documentación acreditativa de la autorización que, en su caso, haya de otorgarse por aplicación de lo dispuesto en la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos y en su normativa de desarrollo. En cuanto a las labores de tabaco, será necesario estar inscrito en el correspondiente Registro de Operadores del Comisionado para el Mercado de Tabacos, conforme a lo establecido en la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria, y en su normativa de desarrollo.
+
+e) El proyecto de la garantía a prestar con arreglo a lo dispuesto en el artículo 43 de este Reglamento.
+
+4\. Recibida la solicitud y documentación a que se refiere el apartado anterior, el centro gestor la remitirá a los servicios de inspección para que efectúen las comprobaciones correspondientes.
+
+5\. Una vez concedida la autorización para la instalación del depósito fiscal, la puesta en funcionamiento de éste requerirá la inscripción del mismo en el registro territorial de la oficina gestora correspondiente al lugar de su ubicación y la prestación de la correspondiente garantía, conforme a lo dispuesto en los artículos 40 y 43 de este Reglamento, respectivamente.
+
+6\. Los depósitos fiscales podrán autorizarse en instalaciones habilitadas para almacenar mercancías en cualquier régimen aduanero especial, en locales o zonas habilitadas como almacenes de depósito temporal o en zonas francas. Tal posibilidad quedará condicionada a que el control de dichas instalaciones a efectos aduaneros se integre en la contabilidad de existencias a la que se refiere la letra e) del apartado 2 de este artículo de modo que en todo momento sea posible conocer el estatuto fiscal o aduanero de las mercancías introducidas en dichas instalaciones.
+
+7\. La instalación y funcionamiento de los depósitos fiscales estará sometido a las normas y limitaciones contenidas en este Reglamento, así como a las condiciones particulares que en cada caso se establezcan con motivo de su autorización.
+
+> Se modifican los apartados 2.a) 6' y 6 por el art. 41.10 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado 2 por el art. 4.2 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica el apartado 2.c) por el art. 3.1 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica el apartado 2.a).10 por el art. 1.2 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifican los apartados 2, 5, 7 y se deroga el 8 por el art. único.9 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.8 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifican los apartados 2.a), g) y 3.b) y se añade el 2.h por el art. único.1 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Se modifica el apartado 2.a) por el art. 1.3 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+> Se modifica el punto 10º del apartado 2.a) por el art. único.2 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+> Redactado conforme la corrección de errores publicada en BOE núm. 39, de 14 de febrero de 1998. [Ref. BOE-A-1998-3411](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3411)
+
+###### Artículo 12. Depósitos de recepción.
+
+1\. Los destinatarios registrados, para poder recibir productos objeto de los impuestos especiales de fabricación, en régimen suspensivo, procedentes del ámbito territorial de la Unión no interno, deberán inscribir los depósitos de recepción en los registros territoriales de las oficinas gestoras correspondientes a cada uno de estos depósitos.
+
+2\. La inscripción de los depósitos de recepción a que se refiere el apartado anterior estará condicionada a que su titular reciba habitualmente productos en régimen suspensivo procedentes del ámbito territorial de la Unión no interno. El incumplimiento de este requisito podrá dar lugar a la baja del depósito de recepción en el registro territorial en el que se hubiera inscrito.
+
+3\. Sin perjuicio de lo dispuesto en el apartado 5 siguiente, en cada depósito de recepción deberá llevarse una contabilidad de existencias en la que se anoten, en el cargo, los productos recibidos en régimen suspensivo, con indicación de la fecha de recepción, el ARC, clase y cantidad de los productos y epígrafe aplicable.
+
+4\. Las cuotas devengadas durante cada período impositivo deberán ingresarse, por el destinatario registrado mediante autoliquidación, en el lugar, forma, plazos e impresos que establezca el Ministro de Economía y Hacienda, salvo cuando concurran las circunstancias a que se refiere el apartado 6 siguiente.
+
+5\. En el supuesto de que el depósito de recepción esté autorizado a la vez como almacén fiscal, los productos que se reciban en el mismo para su posterior distribución desde el almacén fiscal al amparo de una exención o con aplicación de un tipo reducido deberán ser datados diariamente de la cuenta del depósito de recepción y cargados simultáneamente en la del almacén fiscal.
+
+6\. En el supuesto de que los productos introducidos en el depósito de recepción se destinen, dentro del mismo, a alguno de los fines que originen el derecho a la exención de los impuestos especiales de fabricación, con cumplimiento de las condiciones establecidas en este Reglamento, se datarán diariamente en la contabilidad de existencias las cantidades consumidas en estos fines, anotándose la observación «consumos exentos». Lo establecido en este apartado se entiende sin perjuicio del cumplimiento de las obligaciones inherentes a su condición de usuario de productos con exención del impuesto.
+
+> Se modifican los apartados 1 y 2 por el art. 41.11 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifican los apartados 1 a 4 por el art. único.9 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 13. Almacenes fiscales.
+
+1\. Las oficinas gestoras podrán autorizar la apertura y funcionamiento de un almacén fiscal a las personas o entidades que lo soliciten.
+
+La solicitud de autorización deberá incluir, en todo caso, el nombre y apellidos o razón social y el número de identificación fiscal del obligado tributario y, en su caso, de la persona que lo represente, y será presentada ante la oficina gestora correspondiente al lugar en el que se encuentre la instalación. A dicha solicitud se acompañará la siguiente documentación:
+
+a) Documento que, en su caso, acredite la representación.
+
+b) Memoria de la actividad a desarrollar.
+
+c) Plano de las instalaciones, con indicación de la capacidad de almacenamiento.
+
+d) La acreditativa de las autorizaciones que, en su caso, corresponda otorgar a otros órganos administrativos.
+
+2\. Sin perjuicio de lo establecido en el apartado 5 del artículo 15 de la Ley, los almacenes fiscales podrán autorizarse en almacenes, depósitos de recepción e instalaciones habilitadas para almacenar mercancías en cualquier régimen aduanero especial, en locales o zonas habilitadas como almacenes de depósito temporal o en zonas francas, siempre que se lleve un control contable integrado de las mercancías almacenadas, que permita conocer el estatuto aduanero y fiscal de cada una de ellas.
+
+Podrán ser autorizadas como almacén fiscal de gas natural cualquiera de las instalaciones que comprenden el sistema gasista tal y como este se describe en el artículo 59 de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos. Podrán autorizarse como un único almacén fiscal varias de las referidas instalaciones siempre que su titular sea la misma persona y exista un control centralizado de estas.
+
+3\. La oficina gestora autorizará, en su caso, el funcionamiento del almacén fiscal, inscribiéndolo en el registro territorial y expidiendo la tarjeta de inscripción correspondiente. La oficina gestora podrá limitar la autorización a una determinada cantidad así como exigir del solicitante la previa designación de sus proveedores.
+
+4\. En el almacén fiscal se deberá llevar una contabilidad de existencias de acuerdo con lo establecido en el artículo 50 de este Reglamento. Estos asientos se justificarán con los correspondientes documentos de circulación. El conjunto de la contabilidad deberá permitir el control de todos los productos introducidos y almacenados en el almacén fiscal y los correspondientes recuentos de existencias.
+
+5\. Los productos entrados en el almacén fiscal con exención del impuesto por razón de su destino, no podrán enviarse a otros destinos distintos de aquellos que justifican la exención; igualmente, los productos entrados con aplicación de un tipo reducido, no podrán salir más que con destinos para los que resulten aplicables tales tipos. El titular del almacén debe cerciorarse de estos extremos, requiriendo para ello, en su caso, la exhibición por parte del destinatario de los documentos acreditativos de tales derechos.
+
+Excepcionalmente, cuando productos que no incorporen trazadores, marcadores o desnaturalizadores y que hayan entrado en el almacén fiscal con aplicación de una exención o un tipo reducido, no puedan ser enviados, por causas sobrevenidas, a destinos dentro del ámbito territorial interno para los que la Ley ha previsto la aplicación de dichos beneficios, el titular del almacén podrá solicitar de la oficina gestora que ésta practique la liquidación de las cuotas correspondientes a dichos productos. Una vez ingresadas por el titular del almacén dichas cuotas, éste podrá enviar los productos objeto de la regularización con cualquier destino.
+
+6\. A su salida del almacén fiscal con aplicación de una exención o de un tipo reducido, los productos objeto de los impuestos especiales de fabricación sólo podrán ser enviados, dentro del ámbito territorial interno, a personas o estable cimientos inscritos en los registros territoriales que tengan asignado un código de actividad o establecimiento (CAE) y a detallistas. No obstante, con independencia de lo anterior, podrán distribuirse desde un almacén fiscal, en las condiciones establecidas en este Reglamento, los siguientes productos comprendidos en el ámbito objetivo del Impuesto sobre Hidrocarburos:
+
+a) Los destinados al avituallamiento de aeronaves y embarcaciones.
+
+b) Los destinados, con aplicación de un tipo reducido, a consumidores finales.
+
+c) Los productos sensibles definidos en el apartado 1 del artículo 116 bis de este Reglamento que se destinen a consumidores finales.
+
+7\. Los establecimientos que, de acuerdo con la normativa del sector de hidrocarburos, sólo estén autorizados para realizar suministros a instalaciones fijas, tendrán la consideración de almacenes fiscales, pero solo podrán realizar suministros a consumidores finales.
+
+> Se modifica el apartado 2 por el art. 41.12 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se suprime el apartado 8 por el art. 4.3 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifican los apartados 1, 4 y se añade el 8 por el art. único.10 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifican los apartados 1, 4 y se añade el 7 por el art. único.10 y 11 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se añade un párrafo al apartado 2 por el art. único.2 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Se modifica el apartado 1 y se añade un párrafo al apartado 5 por el art. único.3 y 4 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+> Se modifica el apartado 6 por el art. único.2 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+> Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 222, de 16 de septiembre de 1995. [Ref. BOE-A-1995-20896](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-20896)
+
+###### Artículo 13 bis. Reexpedidores.
+
+**(Suprimido).**
+
+> Se suprime por el art. 4.4 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica el apartado 2 por el art. 1.3 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se añade por el art. único.11 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+##### Sección 6.ª Régimen suspensivo
+
+###### Artículo 14. Ultimación del régimen suspensivo.
+
+1\. Las salidas de fábrica o depósito fiscal, con destino al ámbito territorial interno, de productos objeto de los impuestos especiales de fabricación, no acogidas al régimen suspensivo, se registrarán en la contabilidad de existencias del establecimiento, expidiéndose el documento de circulación que proceda.
+
+Las operaciones de autoconsumo que generen el devengo del impuesto deberán quedar igualmente registradas en la contabilidad de existencias.
+
+2\. Cuando los productos salgan de fábrica o depósito fiscal con destino a la exportación, con salida del territorio de la Unión por una aduana situada en el ámbito territorial interno, en las casillas correspondientes del documento administrativo electrónico se hará constar el nombre y número de identificación fiscal del declarante en el lugar de exportación.
+
+La Aduana de salida del territorio de la Unión cumplimentará la salida en el sistema electrónico de control de exportación (ECS-Export Control System) y, a través de este sistema, se volcará en el EMCS nacional.
+
+En los supuestos a los que se refieren las letras c) y e) del apartado 3 del artículo 16 de la Ley, cuando la aduana de salida esté situada en el ámbito territorial interno, en las casillas correspondientes del documento administrativo electrónico se hará constar el nombre y número de identificación fiscal del declarante en el lugar de exportación.
+
+La Aduana de salida del territorio de la Unión cumplimentará la salida en el sistema electrónico de control de exportación (ECS-Export Control System) y, a través de este sistema, se volcará en el EMCS nacional.
+
+3\. Los productos salidos de una fábrica o depósito fiscal, en régimen suspensivo, con destino a la exportación, podrán almacenarse durante ciento veinte días en los lugares autorizados por la autoridad aduanera competente para la presentación de las mercancías a la exportación, sin perder la condición de productos en régimen suspensivo. Tales introducciones deberán contabilizarse en el registro del titular de la autorización anteriormente mencionada, con referencia al documento administrativo electrónico que justifica el asiento de cargo y el documento de despacho de exportación que justifica el asiento de data. Durante ese mismo plazo, estos productos, o parte de ellos, podrán ser devueltos a la fábrica o depósito fiscal de salida, previa autorización de la oficina gestora en cuyo registro territorial se encuentra inscrito dicho establecimiento, amparándose la circulación en dicha autorización.
+
+Transcurrido ese plazo de ciento veinte días, a contar desde la fecha de recepción de los productos en los lugares autorizados por la autoridad aduanera competente para la presentación de las mercancías a la exportación, sin que los productos hayan sido efectivamente exportados o devueltos a la fábrica o depósito fiscal de origen, se entenderá ultimado el régimen suspensivo. El titular de la fábrica o del depósito fiscal de salida de los productos, responsable del cumplimiento de las obligaciones tributarias derivadas de esta circunstancia, deberá comunicarla, en el plazo de quince días naturales, a la oficina gestora correspondiente al lugar en el que se encuentran los productos para que por esta se proceda a practicar la correspondiente liquidación. A los efectos que procedan, se considerará que la ultimación del régimen suspensivo se produjo el primer día hábil siguiente al del vencimiento del referido plazo.
+
+En el supuesto señalado en el párrafo anterior, los productos en cuestión solo podrán ser retirados de los lugares autorizados por la autoridad aduanera competente para la presentación de las mercancías a la exportación, previa autorización de la oficina gestora correspondiente al lugar en que se encuentran, una vez que por esta se haya constatado que se ha procedido en los términos señalados en el párrafo anterior y que las cuotas de impuestos especiales han sido ingresadas. La salida de los productos deberá ampararse en los documentos previstos reglamentariamente.
+
+4\. Si los productos se incluyeran a un régimen especial para su posterior exportación con salida del territorio aduanero de la Unión por una aduana situada en el ámbito territorial interno, el régimen suspensivo se ultimará al producirse la inclusión.
+
+Sin perjuicio de lo anterior, para los productos incluidos en el ámbito objetivo del Impuesto sobre Hidrocarburos se ultima el régimen suspensivo al incluirse en un régimen especial.
+
+En la casilla correspondiente del documento administrativo electrónico se hará constar el código de la aduana que autorice la vinculación al régimen especial.
+
+5\. En los supuestos a que se refiere el artículo 3 de este Reglamento, el régimen suspensivo se ultimará con la exportación de los productos compensadores. La salida de tales productos del territorio de la Unión se acreditará en la forma prevista en la normativa aduanera.
+
+6\. En los envíos al ámbito territorial de la Unión no interno, con destino a un depositario autorizado o a un destinatario registrado, la ultimación del procedimiento de circulación intracomunitaria en régimen suspensivo se acreditará mediante una notificación de recepción de los productos objeto de los impuestos especiales presentada por el destinatario a través del EMCS.
+
+7\. En los supuestos de pérdidas, acaecidas mientras los productos se encuentran en régimen suspensivo, superiores a las correspondientes a la aplicación de los porcentajes reglamentarios de pérdidas, se estará a lo dispuesto en los artículos 15, 16 y 17 de este Reglamento.
+
+8\. En los supuestos contemplados en las letras a), b), d), f) y g) del apartado 3 del artículo 16 de la Ley, la circulación de productos en régimen suspensivo finalizará en el momento en el que el destinatario haya recibido la entrega de dichos productos. En los supuestos contemplados en la letra c) del apartado 3 del artículo 16 de la Ley, la circulación de productos en régimen suspensivo finalizará en el momento en el que los productos hayan abandonado el territorio de la Unión.
+
+9\. En los supuestos de exportaciones de productos amparadas en documentos administrativos electrónicos, desde una fábrica o depósito fiscal establecidos en el ámbito territorial interno, con salida de los productos del territorio de la Unión por una aduana no situada en dicho ámbito territorial o en los supuestos previstos en la letra e) del apartado 3 del artículo 16 de la Ley, la Agencia Estatal de Administración Tributaria cumplimentará una notificación de exportación, sobre la base de la información sobre la salida de los productos que hayan recibido de la aduana de salida en virtud del artículo 329 del Reglamento de Ejecución (UE) 2015/2447, o de la aduana en la que se realicen los trámites para la salida de los productos del territorio aduanero, en la que se certifique que los productos sujetos a impuestos especiales han abandonado el territorio de la Unión, utilizando el sistema informatizado y procederá a su remisión al titular de la fábrica o del depósito fiscal desde el que se realice la exportación.
+
+La Aduana de salida del territorio de la Unión cumplimentará la salida en el sistema electrónico de control de exportación (ECS-Export Control System) y, a través de este sistema, se volcará en el EMCS nacional.
+
+En los supuestos de exportaciones de productos amparadas en documentos administrativos electrónicos, desde una fábrica o depósito fiscal establecidos en el ámbito territorial de la Unión no interno, con salida de los productos del territorio de la Unión por una aduana situada en el ámbito territorial interno, la Agencia Estatal de Administración Tributaria verificará por vía electrónica los datos con base en los cuales debe cumplimentarse la notificación de exportación de conformidad con lo establecido en los párrafos anteriores de este apartado y enviará la notificación de exportación a las autoridades competentes del Estado miembro de expedición.
+
+10\. La prueba de que una circulación intracomunitaria, en régimen suspensivo, de productos objeto de impuestos especiales ha finalizado, no obstante, lo dispuesto en el artículo 32, la constituye la notificación de recepción prevista en el artículo 31.A.1 de este Reglamento o, en su caso, la notificación de exportación prevista en el apartado 9 anterior.
+
+11\. No obstante lo previsto en el apartado anterior, en el caso de la circulación intracomunitaria en los supuestos recogidos en las letras a), b), d), f) y g) del apartado 3 del artículo 16 de la Ley, en ausencia de la notificación de recepción o, en su caso, de la notificación de exportación por motivos distintos a los expuestos en el artículo 32, la prueba de que la circulación ha finalizado podrá aportarse mediante una confirmación por parte de las autoridades competentes del Estado miembro de destino, sobre la base de pruebas adecuadas, que indique que los productos han llegado efectivamente a su destino declarado.
+
+En los supuestos a que se refieren las letras c) y e) del apartado 3 del artículo 16 de la Ley, en ausencia de la notificación de recepción o, en su caso, de la notificación de exportación por motivos distintos a los expuestos en el artículo 32, a fin de determinar que los productos sujetos a impuestos especiales han salido del territorio de la Unión:
+
+a) Se aceptará una confirmación, por parte de las autoridades competentes del Estado miembro en que esté situada la aduana de salida, en la que se certifique que los productos sujetos a impuestos especiales han salido del territorio de la Unión, o han sido incluidos en el régimen de tránsito externo de conformidad con la letra e) del apartado 3 del artículo 16 de la Ley, como prueba adecuada de que los productos han salido del territorio de la Unión.
+
+b) Se podrá tener en cuenta cualquiera de las siguientes pruebas:
+
+1.º Un albarán.
+
+2.º Un documento firmado o autenticado por el operador económico que haya sacado los productos sujetos a impuestos especiales del territorio aduanero de la Unión que certifique la salida de los mismos.
+
+3.º Un documento en el que las autoridades aduaneras de un Estado miembro o de un tercer país certifiquen la entrega de conformidad con las normas y los procedimientos aplicables a dicha certificación en dicho Estado o país.
+
+4.º Registros de los productos suministrados a buques, aeronaves o instalaciones en alta mar conservados por los operadores económicos.
+
+5.º Cualquier otro medio de prueba admitido en Derecho en virtud del cual quede acreditado ante la Agencia Estatal de Administración Tributaria que los productos han salido del territorio de la Unión.
+
+Cuando la Agencia Estatal de Administración Tributaria haya admitido la prueba adecuada de acuerdo con lo establecido en este apartado, dará por ultimada la circulación en el EMCS.
+
+En ausencia de notificación de recepción, la oficina gestora, a solicitud del expedidor, en la que pruebe que no ha podido obtenerla por los medios que se encuentran a su disposición, podrá iniciar los procedimientos previstos en el Reglamento (UE) n.° 389/2012 del Consejo, de 2 de mayo, sobre cooperación administrativa en el ámbito de los impuestos especiales y por el que se deroga el Reglamento (CE) 2073/2004.
+
+12\. En el caso de circulación con origen y destino en el ámbito territorial interno, en ausencia de la notificación de la recepción, por motivos distintos de los expuestos en el artículo 32, la prueba de que la circulación ha finalizado podrá acreditarse ante la oficina gestora competente del expedidor mediante cualquier medio de prueba admisible en Derecho que contenga los mismos datos que la notificación de recepción.
+
+Cuando la Agencia Estatal de Administración Tributaria haya admitido la prueba adecuada de acuerdo al párrafo anterior, dará por ultimada la circulación en el documento administrativo electrónico interno.
+
+> Se modifica por el art. 41.13 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado 3 y se añade el apartado 12 por el art. 3.2 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifican los arts.1 a 4 y 9 a 11 por el art. único.12 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.12 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se suprime el apartado 3 por el art. único.5 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+###### Artículo 15. Pérdidas dentro de fábricas y depósitos fiscales.
+
+1\. Las pérdidas que excedan de los porcentajes reglamentarios, en los procesos de producción o en el almacenamiento hasta la salida de fábrica o depósito fiscal, tendrán la consideración, salvo prueba en contrario, de bienes fabricados y salidos de fábrica o depósito fiscal o autoconsumidos.
+
+2\. Siempre que se pongan de manifiesto diferencias como consecuencia de recuentos efectuados tanto por el depositario autorizado como por la Administración, se procederá a la regularización de la contabilidad practicando el asiento oportuno.
+
+3\. Cuando las diferencias que excedan de las admisibles resulten en recuentos efectuados por la Administración, si la diferencia fuera en más, se sancionará como una infracción tributaria grave de índole contable y registral, salvo que sea aplicable alguna sanción especial prevista expresamente. Si la diferencia fuera en menos, se practicará la correspondiente liquidación y se sancionará como infracción tributaria grave.
+
+4\. Cuando los recuentos se efectúen en días distintos de los que son fin o principio de un trimestre y los porcentajes reglamentarios de pérdidas estén establecidos sobre magnitudes trimestrales, el porcentaje a aplicar para la determinación de dichas pérdidas será el que proporcionalmente corresponda en función de los días del trimestre transcurridos.
+
+5\. Cuando al efectuar el cierre contable correspondiente al trimestre no se consignase expresamente la existencia de pérdidas, se considerará que no las ha habido.
+
+> Se modifica el apartado 5 por el art. 4.5 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifican los apartados 2 y 3 por el art. 1.3 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica el apartado 3 por el art. único.13 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 5 por el art. único.3 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+###### Artículo 16. Pérdidas en la circulación.
+
+A) Pérdidas en la circulación interna.
+
+1\. Las pérdidas ocurridas durante la circulación interna, en régimen suspensivo, de los productos objeto de los impuestos especiales de fabricación se determinarán mediante la diferencia existente entre la cantidad consignada en el documento administrativo electrónico y la que, o bien reciba el destinatario en su establecimiento, o bien resulte de las comprobaciones efectuadas en el curso de la circulación.
+
+2\. Si las pérdidas no excedieran de las resultantes de aplicar los porcentajes reglamentarios, se aceptarán, sin necesidad de regularización tributaria, los asientos de data y de cargo en las contabilidades del expedidor y destinatario, por las cantidades que figuran en el documento administrativo electrónico y en la notificación de recepción, respectivamente.
+
+3\. Si las pérdidas excedieran de las resultantes de aplicar los porcentajes reglamentarios y hubieran sido descubiertas mediante las comprobaciones realizadas por la Administración durante la circulación, se iniciará el correspondiente procedimiento para la determinación de las responsabilidades tributarias que en su caso procedan que, en principio, se dirigirá contra el expedidor.
+
+4\. Si las pérdidas excedieran de las resultantes de aplicar los porcentajes reglamentarios y se pusieran de manifiesto en el momento de la recepción de los productos por el destinatario, éste lo hará constar en la notificación de recepción.
+
+5\. El depositario autorizado expedidor o el expedidor registrado practicarán en su contabilidad el correspondiente asiento de regularización por una cuantía igual a la cantidad de pérdidas que excedan de la que resultaría de aplicar el porcentaje reglamentario, dentro de un plazo de cinco días naturales desde la presentación de la notificación de recepción.
+
+6\. Si la pérdida se debiera a caso fortuito o fuerza mayor, el depositario autorizado expedidor o el expedidor registrado presentarán ante la oficina gestora, en un plazo de cuatro meses a partir de la fecha de expedición, los elementos de prueba que estime necesarios para acreditar las circunstancias causantes de la pérdida. La oficina gestora resolverá acerca de la procedencia de las pruebas presentadas, reconociendo, en su caso, la concurrencia del supuesto de no sujeción establecido en el apartado 2 del artículo 6 de la Ley.
+
+7\. Si no se aportaran las pruebas a que se refiere el apartado anterior o, habiéndose aportado, no hubieran sido consideradas suficientes por la oficina gestora para el reconocimiento de la no sujeción al impuesto, la cantidad de productos perdidos, que exceda de la que resulte de aplicar el porcentaje reglamentario de pérdidas, se integrará en la base del impuesto procediéndose por la Administración tributaria a la correspondiente regularización.
+
+B) Pérdidas en la circulación intracomunitaria.
+
+1\. Sin perjuicio de lo dispuesto en el artículo 17 de este Reglamento, las pérdidas a que se refiere el artículo 1.12 de este Reglamento, ocurridas durante la circulación intracomunitaria tanto en régimen suspensivo como fuera de él, se determinarán mediante la diferencia existente entre la cantidad consignada en el documento de circulación utilizado y la cantidad que reciba el destinatario en el ámbito territorial interno o se presente en una aduana española para su salida del territorio de la Unión.
+
+Lo anterior se entiende sin perjuicio de las diferencias que puedan resultar de las comprobaciones efectuadas en el curso de la circulación.
+
+Se considera que se ha producido una irregularidad cuando existan pérdidas distintas de las que dan lugar a supuestos de no sujeción.
+
+2\. Cuando cualquier servicio competente de la Administración española compruebe la existencia de pérdidas en el curso de una circulación con origen o destino en el ámbito territorial interno, hará constar el montante de las pérdidas verificadas en diligencia de la que se dará traslado a la oficina gestora competente por razón del territorio, así como al centro gestor.
+
+3\. Cuando las pérdidas se comprueben en el curso de una circulación con origen y destino fuera del ámbito territorial interno, la diligencia en la que se haga constar el montante de las pérdidas verificadas deberá remitirse al centro gestor.
+
+El centro gestor informará, en su caso, al Estado miembro de expedición.
+
+> Se modifica la letra B).1, primer párrafo por el art. 41.14 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica la letra A) por el art. único.16 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica la letra B) por el art. único.14 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 17. Irregularidades en la circulación intracomunitaria.
+
+1\. Si, de acuerdo con lo dispuesto en el artículo 17 de la Ley, la irregularidad ha dado lugar a que se produzca el devengo del impuesto especial en el ámbito territorial interno, el órgano competente iniciará el procedimiento para la liquidación de la deuda tributaria y lo comunicará al centro gestor para que, en su caso, se informe a las autoridades competentes de los Estados miembros de expedición y de destino o sólo a uno de ellos, según proceda.
+
+2\. Cuando no se den las circunstancias previstas en el artículo 17 de la Ley para considerar que el devengo del impuesto especial se ha producido en el ámbito territorial interno, la oficina gestora correspondiente informará de dicha irregularidad al centro gestor para que, en su caso, se informe a las autoridades competentes del Estado miembro de expedición.
+
+3\. Cuando los productos enviados desde el ámbito territorial interno, con destino al ámbito territorial de la Unión no interno o a un tercer país o territorio tercero, no lleguen a su destino o no salgan efectivamente del territorio de la Unión y no fuera posible determinar el lugar en que se produjo la irregularidad, transcurridos cuatro meses a partir de expedición sin que se haya presentado prueba suficiente de la regularidad de la operación o del lugar en que se cometió realmente la irregularidad, se considerará que esta se ha producido dentro del ámbito territorial interno, iniciándose el procedimiento para la liquidación de la deuda tributaria.
+
+4\. Si dentro del plazo de tres años a partir de la fecha de comienzo de una circulación llegara a determinarse que se produjo una irregularidad en el ámbito territorial interno determinante del devengo del impuesto especial, el órgano competente practicará la liquidación correspondiente y lo comunicará al centro gestor para que se informe a las autoridades competentes del Estado miembro de salida y, en su caso, a las del Estado miembro en el que inicialmente se hubiera satisfecho el impuesto.
+
+5\. Cuando se hubiera presumido que una irregularidad en la circulación se produjo en el ámbito territorial interno y se hubiera procedido al cobro del correspondiente impuesto especial, si en el plazo de tres años desde el comienzo de dicha circulación se presentara la prueba de la regularidad de la operación o de que la irregularidad se había producido fuera del ámbito territorial interno, la oficina gestora competente acordará la devolución de la deuda ingresada.
+
+6\. Cuando se trate de una expedición iniciada en el ámbito territorial interno, con devengo del impuesto en dicho territorio y destino en el ámbito territorial de la Unión no interno y se produzca una irregularidad fuera del ámbito territorial interno que implique la recaudación del impuesto por el Estado miembro donde aquella se produjo o comprobó, la Agencia Estatal de Administración Tributaria procederá a la devolución de los impuestos especiales percibidos, una vez que se aporten pruebas de la percepción de tales impuestos en dicho Estado miembro.
+
+7\. Lo dispuesto en este artículo se entiende sin perjuicio de las sanciones que, en su caso, pudieran corresponder.
+
+> Se modifican los apartados 3 y 6 por el art. 41.15 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado 6 por el art. único.14 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.15 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+##### Sección 7.ª Repercusión
+
+###### Artículo 18. Repercusión.
+
+1\. La repercusión deberá efectuarse mediante factura o documento análogo en la que los sujetos pasivos harán constar, separadamente del importe del producto o del servicio prestado, la cuantía de las cuotas repercutidas por impuestos especiales de fabricación, consignando el tipo impositivo aplicado. Esta obligación de consignación separada de la repercusión sólo será exigible cuando el devengo del impuesto se produzca con ocasión de la salida de fábrica o depósito fiscal de los productos gravados. En los demás casos la obligación de repercutir se cumplimentará mediante la inclusión en el documento de la expresión “Impuesto Especial incluido en el precio al tipo de...”.
+
+2\. Cuando la consignación separada de la repercusión del impuesto, en la forma indicada en el apartado anterior, perturbe sustancialmente el desarrollo de las actividades de los titulares de las fábricas o depósitos fiscales, el centro gestor podrá autorizar, previa solicitud de las personas o sectores afectados, la repercusión del impuesto dentro del precio, debiendo hacerse constar en el documento la expresión «Impuesto Especial incluido en el precio.
+
+3\. En los casos de ventas directas efectuadas a consumidores finales por sujetos pasivos que no estén obligados, de acuerdo con lo dispuesto en el apartado 1, a consignar separadamente la repercusión del impuesto, el centro gestor podrá, a su solicitud, dispensarles de la obligación de incluir en el documento o factura la expresión «Impuesto Especial incluido en el precio», siempre que la inclusión de la misma perturbe el desarrollo de sus actividades.
+
+4\. Cuando no se haya producido el devengo o resulte aplicable una exención, se hará constar esta circunstancia en la factura o documento análogo con mención del precepto legal correspondiente.
+
+5\. No obstante lo dispuesto en los apartados anteriores, la facturación de productos objeto de impuestos especiales de fabricación cuyo tipo sea cero no estará sometida a ningún requisito en materia de repercusión.
+
+6.**(Suprimido).**
+
+7\. En los suministros de gas natural efectuados en los términos del artículo 108 de este Reglamento, los sujetos pasivos que hayan repercutido el importe de las cuotas devengadas en función de un porcentaje provisional comunicado por los titulares de centrales de cogeneración de electricidad y energía térmica útil, deberán regularizar el importe de las cuotas repercutidas conforme al porcentaje definitivo de destino del gas natural, una vez conocido, mediante el procedimiento que se establece en este Reglamento.
+
+> Se modifica el apartado 1 y se suprime el 6 por el art. 4.6 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica el apartado 6 y se añade un apartado 7 por el art. 1.4 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica el apartado 1 y se añade el 6 por el art. único.15 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifican los apartados 2 y 3 por el art. único.16 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+##### Sección 8.ª Circulación
+
+###### Artículo 19. Régimen general de la circulación.
+
+1\. Salvo en los casos y con las condiciones previstas en los apartados 2, 3 y 4 siguientes, los productos objeto de impuestos especiales de fabricación circularán por su ámbito territorial al amparo de documentos de circulación. Tales documentos deberán ser presentados a requerimiento de los agentes de la Administración.
+
+2\. No precisarán documento que ampare su circulación los productos objeto de los impuestos especiales de fabricación que se importen con aplicación de las exenciones contempladas en el artículo 21, apartado 2, en el artículo 51, apartados 5 y 6, y en el artículo 61, apartado 2, y en el artículo 64 octies, apartado 1, letra a) de esta ley.
+
+3\. Las adquisiciones de productos objeto de los impuestos especiales de fabricación que, en su ámbito territorial, los particulares efectúen para su propio consumo y transporten ellos mismos no precisarán documento que ampare su circulación siempre que no se destinen a fines comerciales con arreglo a las siguientes normas:
+
+a) Adquisiciones efectuadas en el territorio de otros Estados miembros.
+
+Cuando los bienes adquiridos:
+
+1.º No excedan de las cantidades que figuran en el apartado 9 del artículo 15 de la Ley si se trata de bebidas alcohólicas, o de tabaco, o de los líquidos para cigarrillos electrónicos, o de bolsas de nicotina, o de otros productos de nicotina, o de 5 litros si se trata de alcohol no desnaturalizado o de alcohol totalmente desnaturalizado.
+
+2.º No circulen mediante formas de transporte atípicas, tal y como se definen en el apartado 10 del artículo 15 de la Ley, si se trata de hidrocarburos y sin perjuicio de lo dispuesto en el párrafo 3.º siguiente.
+
+3.º No excedan de 40 kilogramos de contenido neto si se trata de gases licuados de petróleo en bombonas o de 20 kilogramos si se trata de queroseno.
+
+b) Adquisiciones efectuadas a detallistas en el ámbito territorial interno. Cuando los bienes adquiridos:
+
+1.º No excedan de las cantidades que figuran en el apartado 9 del artículo 15 de la Ley si se trata de bebidas alcohólicas, o de tabaco, o de los líquidos para cigarrillos electrónicos, o de bolsas de nicotina o de otros productos de nicotina. No obstante, si se trata de bebidas derivadas o de labores del tabaco deberán ir provistos de la correspondiente precinta.
+
+2.º No excedan de 5 litros si se trata de alcohol no desnaturalizado o de alcohol totalmente desnaturalizado.
+
+3.º No excedan de 200 litros o kilogramos y no circulen mediante formas de transporte atípicas, tal y como se definen en el apartado 10 del artículo 15 de la Ley, si se trata de hidrocarburos y sin perjuicio de lo dispuesto en el número siguiente.
+
+4.º No excedan de 40 kilogramos de contenido neto si se trata de gases licuados de petróleo en bombonas o de 20 kilogramos si se trata de queroseno.
+
+4\. Las adquisiciones de productos objeto de los impuestos especiales de fabricación que efectúen a detallistas situados en el ámbito territorial interno, otros comerciantes o empresarios consumidores establecidos en dicho ámbito, no precisarán de documento de circulación en las mismas condiciones que las establecidas para los particulares en el apartado anterior, salvo cuando se trate de labores de tabaco que son adquiridas en expendedurías por titulares de establecimientos autorizados para la venta con recargo, supuesto en el cual el titular de la expendeduría deberá expedir un albarán de circulación.
+
+5\. Las compañías de ferrocarriles y empresas de transportes en general estarán obligadas a exhibir a los agentes de la Administración encargados especialmente de la vigilancia de la circulación de los productos objeto de los impuestos especiales de fabricación, los libros de facturación y de llegada de las mercancías, las hojas de ruta y demás documentos y justificantes relacionados con el transporte.
+
+6\. Sin perjuicio de las disposiciones nacionales y de la Unión en materia de regímenes aduaneros, se considerará que están en régimen suspensivo los productos objeto de los impuestos especiales de fabricación cuando sean enviados con procedencia en el ámbito territorial interno y destino en el ámbito territorial de la Unión no interno o viceversa,
+
+a) a través de uno o varios Estados o territorios terceros no incluidos en el territorio aduanero de la Unión Europea al amparo del régimen de tránsito interno de la Unión, conforme lo previsto en el artículo 227 del Código Aduanero de la Unión, o
+
+b) a través de uno o varios Estados o territorios terceros no incluidos en el territorio aduanero de la Unión Europea, al amparo del Convenio TIR (Convenio de Transporte Terrestre internacional) o de conformidad con el Convenio de Estambul (Convenio ATA), en los términos admitidos por las autoridades aduaneras de la Unión.
+
+7\. La circulación de productos objeto de los impuestos especiales de fabricación, distintos de los líquidos para cigarrillos electrónicos, de bolsas de nicotina o de otros productos de nicotina, fuera de régimen suspensivo, que se inicie y finalice en el ámbito territorial interno a través del territorio de otro Estado miembro deberá ampararse por un documento administrativo electrónico simplificado. Además, el expedidor y destinatario de los bienes gravados deberán comunicar la expedición y recepción de aquellos a las oficinas gestoras de que dependan.
+
+8\. La circulación, desde el lugar de importación a un destino en el ámbito territorial interno de productos despachados de importación con devengo del impuesto a tipo general, se realizará al amparo del documento aduanero correspondiente sin perjuicio de la exigencia, en su caso, de marcas fiscales.
+
+9\. El centro gestor podrá autorizar, a solicitud del interesado, la utilización de procedimientos simplificados de circulación en régimen suspensivo entre establecimientos del mismo titular, siempre que la circulación tenga lugar íntegramente en el ámbito territorial interno.
+
+> Téngase en cuenta que la actualización de los apartados 2, 3 y 7, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. [Ref. BOE-A-2025-1136](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1136)
+
+> Se modifican los apartados 2, 3 y 7, por la disposición final 5.3 de la Ley 7/2024, de 20 de diciembre. [Ref. BOE-A-2024-26694](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26694)
+
+> Téngase en cuenta que esta actualización tendrá efectos desde el 1 de abril de 2025, según determina el art. 10.4 del Real Decreto-ley 9/2024, de 23 de diciembre. [Ref. BOE-A-2024-26915](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26915)
+
+> Se modifica el apartado 3 por el art. 2.1 del Real Decreto 1171/2023, de 27 de diciembre. [Ref. BOE-A-2023-26454](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26454)
+
+> Esta modificación entra en vigor el 20 de mayo de 2024, según establece la disposición final 4 del citado Real Decreto.
+
+> Se modifican los apartados 3.a), 6 y 7 por el art. 41.16 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado 3.b).1º por el art. 4.7 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica el apartado 3.b) por el art. único.16 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.17 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el 3.b).1º por el art. único.4 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Se modifica el apartado 2 por el art. único.3 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 20. Competencia para la expedición de documentos de circulación.
+
+1\. Con carácter general, los documentos de circulación serán expedidos por los titulares de los establecimientos desde los que se inicie la circulación.
+
+2\. Cuando se trate de envíos al ámbito territorial de la Unión no interno por el procedimiento de envíos garantizados, el documento administrativo electrónico simplificado será expedido por el expedidor certificado que efectúe el envío en dicho procedimiento.
+
+3\. En los supuestos de despacho a libre práctica de productos, incluso en el caso de los vinculados al régimen de depósito aduanero, que deban circular al amparo de un documento administrativo electrónico, éste será expedido por el expedidor registrado.
+
+4\. Cuando circunstancias excepcionales así lo aconsejen, la oficina gestora correspondiente al expedidor podrá autorizar, en los casos no previstos, la expedición de documento de circulación, en particular, a operadores no inscritos.
+
+> Se modifica el apartado 2 por el art. 41.17 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica por el art. único.17 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único 18 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 21. Clases de documentos de circulación.
+
+1\. Los documentos aptos para amparar la circulación de productos objeto de los impuestos especiales de fabricación son los siguientes:
+
+a) Documento administrativo electrónico.
+
+b) Documento de acompañamiento de emergencia.
+
+c) Documento administrativo electrónico simplificado.
+
+d) Recibos y comprobantes de entrega.
+
+e) Marcas fiscales.
+
+f) Albaranes de circulación.
+
+g) Documentos aduaneros.
+
+2\. En los supuestos de expedición de un documento de circulación en soporte papel, en caso de extravío de un documento de circulación, hará sus veces una fotocopia, diligenciada por el expedidor, del ejemplar del documento de circulación que obra en su poder.
+
+3\. La oficina gestora podrá autorizar excepcionalmente documentos específicos, distintos de los enumerados en el apartado 1, para amparar la circulación entre establecimientos del mismo titular. La oficina gestora determinará, asimismo, la forma de presentación a la Administración tributaria de la información contenida en tales documentos.
+
+> Se modifican los apartados 1 y 2 por el art. 41.18 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica por el art. único.20 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.19 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 22. Documento administrativo electrónico.
+
+1\. El documento administrativo electrónico se utilizará, de acuerdo con los requisitos previstos en este Reglamento, en los siguientes supuestos de circulación de productos objeto de impuestos especiales de fabricación:
+
+a. Circulación en régimen suspensivo, interna e intracomunitaria.
+
+b. Circulación interna con aplicación de un supuesto de exención.
+
+c. Circulación interna con aplicación de un tipo impositivo reducido.
+
+2\. Sin perjuicio de lo previsto en el apartado 1 anterior, no será precisa la expedición de un documento administrativo electrónico, en los siguientes supuestos:
+
+a. Cuando se trate de avituallamientos de combustibles y carburantes a aeronaves desde fábricas, depósitos fiscales, almacenes fiscales y puntos de suministro autorizados, situados en aeropuertos, que se documenten mediante los comprobantes de entrega establecidos en el artículo 101 de este Reglamento.
+
+b. Cuando se trate de hidrocarburos por los que se ha devengado el impuesto a un tipo impositivo reducido y que sean vendidos por un detallista a un consumidor final. Para el caso del epígrafe 1.8 incluso cuando el producto sea distribuido por un detallista a un consumidor final o a otro detallista para su venta a consumidores finales. Lo dispuesto en este párrafo se entiende sin perjuicio del cumplimiento de lo establecido en los artículos 19, 106, 107 y 108 de este Reglamento.
+
+c. Cuando resulte aplicable el procedimiento de ventas en ruta de acuerdo con lo dispuesto en el artículo 27.
+
+d. Cuando se trate de productos relacionados en la tarifa 2.ª del apartado 1 del artículo 50 de la Ley a los que se aplique la exención prevista en el apartado 1 del artículo 51 de dicha Ley.
+
+e. Cuando se trate de gasóleo al que se aplique el tipo establecido en el epígrafe 1.4 que se traslade desde el lugar donde radique la actividad empresarial de los consumidores finales autorizados, de acuerdo con lo establecido en el artículo 106, hasta los distintos emplazamientos en que pueden encontrarse las maquinarias que precisen ser repostadas. En estos casos, la circulación del gasóleo se amparará en la autorización a que se refiere el párrafo c) del apartado 4 del artículo 106 y en un albarán por cada emplazamiento en el que se anotarán, para cada máquina y una vez efectuada la operación, los datos identificativos y el volumen de carburante repostado.
+
+f. En los supuestos, previstos en el artículo 14.3, de devoluciones a fábrica o depósito fiscal de productos con destino a la exportación almacenados en los lugares autorizados por la autoridad aduanera competente para la presentación de las mercancías para la exportación, previa autorización de la oficina gestora correspondiente.
+
+g. En los demás supuestos previstos en este Reglamento en los que la oficina gestora autoriza a emitir un documento para amparar determinadas circulaciones. Este documento podrá ser la propia autorización o un albarán.
+
+3\. Sin perjuicio de lo previsto en el apartado 1 anterior, no será precisa la expedición de un documento administrativo electrónico en los supuestos de importaciones de productos que se descarguen, por tuberías fijas, directamente en instalaciones inscritas como fábrica o depósito fiscal.
+
+4\. La oficina gestora podrá autorizar que dejen de cumplimentarse determinadas casillas del documento administrativo electrónico, en supuestos de circulación interna.
+
+> Se modifica el apartado 2.a) por el art. 4.8 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Téngase en cuenta que esta modificación será de obligado cumplimiento a partir del 1 de octubre de 2019 según establece la disposición final 3 del Real Decreto 399/2021, de 8 de junio. [Ref. BOE-A-2021-9558](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9558)
+
+> Se modifican las letras f) y, con efectos de 1 de enero de 2019, la letra a) del apartado 2 por el art. 3.3 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Téngase en cuenta que la modificación de la letra a) se deroga, con efectos de 1 de enero de 2019, por la disposición derogatoria única.3 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica la letra d) del apartado 2 por el art. 1.5 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica por el art. único.19 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.20 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se añade la excepción 5ª al apartado 1.b) y el apartado 6 por el art. único.6 y 7 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+> Se añade la excepción 4ª al apartado 1.b) por el art. único.4 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 23. Documento administrativo electrónico simplificado.
+
+Este documento amparará la circulación intracomunitaria de productos objeto de los impuestos especiales de fabricación, por el procedimiento de envíos garantizados.
+
+> Se modifica por el art. 41.19 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se añaden los apartados 3 y 4 por el art. único.20 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+###### Artículo 24. Albaranes de circulación.
+
+1\. Cuando los productos objeto de impuestos especiales deban circular al amparo de un documento de circulación y no sea exigible la expedición de documentos administrativos electrónicos o documentos administrativos electrónicos simplificados, ni proceda la utilización de un documento aduanero, su circulación será amparada por un albarán de circulación, sin perjuicio de que, además, proceda la utilización de marcas fiscales con arreglo a lo dispuesto en el artículo 26 de este Reglamento.
+
+2\. Tendrán la consideración de albaranes de circulación, las facturas, albaranes, conduces y demás documentos comerciales, utilizados habitualmente por la empresa expedidora.
+
+Estos documentos, cuando estén emitidos en soporte papel, no estarán sujetos a modelo y constarán, al menos, de original y matriz; en dichos documentos, cuando tengan la consideración de albaranes de circulación, deberán consignarse los siguientes datos: nombre, número de identificación fiscal y, en su caso, CAE del expedidor y del destinatario, clase y cantidad de productos y fecha de expedición, lugar de expedición y entrega y, en su caso, la graduación del producto.
+
+3\. Los albaranes de circulación se numerarán secuencialmente por años naturales y su numeración será única. No obstante, la oficina gestora podrá autorizar el establecimiento de varias series de numeración.
+
+Los albaranes de circulación deberán ser firmados por el expedidor o por persona que le represente salvo que el documento se expida por procedimientos informáticos autorizados por la oficina gestora, y por ésta se haya autorizado la dispensa de firma.
+
+4\. Se considera que las notas de entrega en el sistema de ventas en ruta forman parte del albarán de circulación del que proceden.
+
+5\. En el supuesto de envíos de productos, desde el ámbito territorial de la Unión no interno con destino al ámbito territorial interno, por el procedimiento de ventas a distancia, hará las veces de albarán de circulación el ejemplar de la autorización de recepción a que se refiere el artículo 33 de este Reglamento, en los términos establecidos en el artículo 39.4 o, en su defecto, un documento comercial del expedidor y en el que se consignarán los datos señalados en el segundo párrafo del apartado 2.
+
+> Se modifican los apartados 1 y 5 por el art. 41.20 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado 2 por el art. 3.4 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se añade el apartado 5 por el art. 1.6 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica por el art.único.21 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+###### Artículo 25. Documentos aduaneros.
+
+1\. La circulación de productos objeto de los impuestos especiales de fabricación por el ámbito territorial interno, vinculados a un régimen aduanero especial o mientras se mantengan en situación de depósito temporal, quedará amparada, a efectos de este Reglamento, por el documento previsto en la normativa aduanera. Asimismo, se utilizará el documento aduanero de despacho para amparar la circulación de productos despachados de importación con devengo del impuesto especial a tipo general desde el lugar de importación en el ámbito territorial interno a un destino en el mismo ámbito.»
+
+2\. Sin perjuicio de lo establecido en el apartado 6.d) del artículo 26 siguiente, el talón de adeudo por declaración verbal amparará la circulación de los bienes importados en los casos en que, según lo dispuesto en la normativa aduanera, la importación se formalice en dicho documento.
+
+3\. Las posibles indicaciones complementarias que deban figurar en los documentos de transporte o en los documentos comerciales que sirvan de documentos de tránsito, así como las modificaciones necesarias para adaptar el procedimiento de ultimación, cuando los bienes objeto de impuestos especiales de fabricación circulen al amparo de un procedimiento simplificado de tránsito interno de la Unión, se determinarán conforme al procedimiento previsto en el artículo 52 de la Directiva 2020/262/UE.
+
+> Se modifican los apartados 1 y 3 por el art. 41.21 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado 2 por el art. 4.9 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica por el art. único.21 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 26. Marcas fiscales.
+
+1\. Con independencia de los requisitos que hayan de cumplirse, en materia técnico-sanitaria y de etiquetado y envasado, las bebidas derivadas, y las labores del tabaco que circulen, fuera de régimen suspensivo, con un destino dentro del ámbito territorial interno que no sea una planta embotelladora o envasadora independiente deberán contenerse en recipientes o envases provistos de una precinta de circulación u otra marca fiscal en las condiciones previstas en este Reglamento.
+
+No obstante, no precisarán ir provistos de precinta o marca fiscal los envases de capacidad no superior a 0,5 litros que contengan bebidas derivadas cuya graduación no exceda de 8 por 100 volumen y los envases de hasta 1 decilitro, cualquiera que sea su graduación.
+
+2\. Las precintas son documentos timbrados y numerados sujetos a los modelos aprobados por la persona titular del Ministerio de Hacienda y Función Pública. Se confeccionarán por la Fábrica Nacional de Moneda y Timbre y deberán adherirse a los recipientes o envases con arreglo a las siguientes normas:
+
+a) Cuando se trate de recipientes de bebidas derivadas, las precintas se adherirán en cualquier lugar visible de los recipientes o envases, de modo que no se puedan reutilizar. Estas precintas incorporarán un código de identificación visible, y un código electrónico de seguridad que permita verificar inmediatamente su autenticidad y enlazar telemáticamente cada marca fiscal con los datos relativos al establecimiento al que son entregadas (código de actividad y establecimiento) y a su titular (número de identificación fiscal). En el caso de envases, de capacidad no superior a medio litro, que se agrupen acondicionados para su venta al por menor en estuches cuyo contenido total de bebidas derivadas no exceda de 5 litros, podrá adherirse al estuche una única precinta, indicando en la información a incorporar en su código de seguridad el contenido total de bebidas derivadas que contiene ese estuche.
+
+b) Cuando se trate de labores del tabaco, las precintas se incorporarán en el empaque que constituya la unidad mínima de venta para el consumidor, de forma que sean siempre visibles y permitan la identificación y verificación de la autenticidad de las mismas, situándose por debajo de la envoltura transparente o translúcida que, en su caso, rodee el empaque.
+
+c) Cuando se trate de labores del tabaco, destinadas a la venta a viajeros con destino al territorio de la Unión, así como en las ventas a viajeros con destino a terceros países, tanto a bordo de embarcaciones o de aeronaves cuyos productos hayan sido entregados previamente por depósitos fiscales autorizados exclusivamente para dichos suministros, como por depósitos fiscales situados en puertos y aeropuertos que funcionen exclusivamente como establecimientos minoristas, ambos definidos respectivamente en el artículo 11.2.10.º1´ y 2´ de este Reglamento, las marcas fiscales se adherirán de forma inamovible al envase autorizado para su comercialización, de forma que sean siempre visibles y permitan la identificación y verificación de la autenticidad de las mismas.
+
+Los destinatarios de expediciones de bebidas derivadas o labores del tabaco que los reciban sin que todos o parte de los recipientes o envases lleven perfectamente adheridas las marcas exigidas y legibles sus códigos o medidas de seguridad exigidas para amparar la circulación, deberán comunicar esta circunstancia, inmediatamente, a la oficina gestora correspondiente al lugar de recepción.
+
+3\. La persona titular del Ministerio de Hacienda y Función Pública podrá autorizar que las precintas, con las garantías necesarias, puedan ser sustituidas por otro tipo de marcas.
+
+4\. Las solicitudes de marcas fiscales se formularán por vía electrónica conforme al procedimiento aprobado por la persona titular del Ministerio de Hacienda y Función Pública. En todo caso, la oficina gestora donde se haya registrado el establecimiento solicitante o, en su defecto, la correspondiente al domicilio fiscal del solicitante, deberá autorizar con carácter previo la entrega física de las marcas fiscales.
+
+Las marcas fiscales podrán ser solicitadas por depositarios autorizados, destinatarios registrados, destinatarios certificados, representantes fiscales de expedidores en los supuestos de ventas a distancia e importadores.
+
+Las marcas fiscales deberán ser adheridas a los recipientes o envases por parte del titular del establecimiento solicitante, salvo que se adhieran en origen, fuera del ámbito territorial interno, o que se remitan para ser adheridas en una planta embotelladora independiente.
+
+Fuera de los casos anteriores, no se permite el traspaso entre distintos establecimientos u operadores de marcas fiscales sin adherir a los recipientes o envases a que están destinadas.
+
+Cuando el embotellado de las bebidas derivadas o el envasado de las labores del tabaco se realice fuera de fábrica o depósito fiscal, el depositario autorizado, bajo su responsabilidad, proveerá a la planta embotelladora o envasadora de las precintas necesarias.
+
+No obstante, en los casos en que una misma persona sea titular de varios establecimientos y preste la garantía global a que se refiere el apartado 2 del artículo 45 de este Reglamento, las precintas cuya entrega haya sido autorizada por la oficina gestora ante la que se constituye la garantía global, podrán ser colocadas en cualquiera de las fábricas o depósitos fiscales que comprende dicha garantía global.
+
+A través del código electrónico de seguridad se podrá acceder a la siguiente información: la fecha de recepción de la marca fiscal, la identificación fiscal del establecimiento de recepción, el lugar en el que se adhirió al producto, el número de lote al que pertenezca el producto, la capacidad de los envases o recipientes donde se adhieran, el grado alcohólico de la bebida derivada y la descripción comercial del producto. Cuando la marca fiscal se coloque sobre un estuche que contiene envases de capacidad no superior a medio litro, que se agrupen acondicionados para su venta al por menor, la información anterior se referirá al contenido total de bebidas derivadas.
+
+La información anterior será suministrada por quien ha recibido las marcas fiscales a través de la sede electrónica de la Agencia Estatal de Administración Tributaria y conforme al procedimiento aprobado por la persona titular del Ministerio de Hacienda y Función Pública.
+
+En el supuesto de envío de marcas fiscales incorporadas a los envases de bebidas derivadas a otro establecimiento en régimen suspensivo, así como en el supuesto de envío de las precintas para bebidas derivadas a otro establecimiento para su colocación en los correspondientes envases, los titulares del establecimiento de envío deberán comunicar dicha circunstancia a la Agencia Estatal de Administración Tributaria conforme al procedimiento aprobado por la persona titular del Ministerio de Hacienda y Función Pública.
+
+5\. La entrega de marcas fiscales se efectuará, siempre que se cumpla lo establecido en materia de garantías, conforme a las siguientes normas:
+
+a) Dentro de cada mes natural, la oficina gestora entregará, como máximo, un número de precintas tal que el importe de las cuotas teóricas correspondientes a las bebidas derivadas y labores del tabaco a que pudieran aplicarse dichas precintas no sea superior al importe resultante de lo dispuesto en los apartados 2, 3 o 7 del artículo 43 de este Reglamento multiplicado por el coeficiente:
+
+1.º 1,4 si se trata de bebidas derivadas para fábricas y depósitos fiscales.
+
+2.º 4,2 si se trata de bebidas derivadas para depósitos de recepción y destinatarios certificados.
+
+3.º 83,4 si se trata de labores del tabaco para fábricas y depósitos fiscales.
+
+4.º 166,8 si se trata de labores del tabaco para depósitos de recepción y destinatarios certificados.
+
+La oficina gestora no atenderá peticiones de precintas en cantidad que supere dicho límite salvo que se preste una garantía complementaria, del 50 por 100 de la cuota, por el exceso.
+
+b) Las precintas que, siendo susceptibles de ser entregadas conforme a lo dispuesto en la letra a), no hayan sido solicitadas por los interesados, podrán ser entregadas dentro del mismo año natural.
+
+c) Si el interesado no se hallase al corriente en el pago de su deuda tributaria por el concepto correspondiente de los impuestos especiales de fabricación, deberá prestar una garantía especial que responderá exclusivamente de la totalidad de las cuotas teóricas que pudieran devengarse en relación con los productos para los que se solicitan las precintas.
+
+En el caso de que la prestación de esta garantía pueda perjudicar gravemente la continuidad de la actividad, el Delegado de la Agencia Estatal de Administración Tributaria podrá dispensar de esta obligación, sin perjuicio de la posibilidad de adopción de medidas cautelares en su sustitución, en los términos establecidos en el artículo 81 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+d) A efectos de lo dispuesto en este artículo se entenderá por cuotas teóricas:
+
+1.º En relación con las bebidas derivadas, las que se devengarían a la salida de fábrica o depósito fiscal, con ultimación del régimen suspensivo y sin aplicación de exenciones, de unas bebidas derivadas con la graduación media de las elaboradas o almacenadas por el interesado durante el año natural anterior y de acuerdo con las capacidades medias de los envases o botellas que hayan salido del establecimiento autorizado el año natural anterior.
+
+2.º En relación con las labores del tabaco, las que se devengarían a la salida de fábrica o depósito fiscal, con ultimación del régimen suspensivo y sin aplicación de exenciones, de unas labores con un precio de venta al público igual al de la media de las fabricadas o almacenadas por el interesado durante el año natural anterior.
+
+e) Las garantías complementaria y especial a que respectivamente aluden las letras a) y c) anteriores se desafectarán cuando, respecto de una cantidad de bebidas derivadas o labores del tabaco a que serían aplicables las precintas cuya retirada ampararon dichas garantías, se acredite, alternativamente:
+
+1.º El pago de la deuda tributaria correspondiente.
+
+2.º Su recepción en otra fábrica o depósito fiscal donde haya prestada una garantía que cubra las cuotas teóricas correspondientes a la cantidad de bebidas derivadas o labores del tabaco a recibir.
+
+f) Cuando se apliquen las marcas a los productos sujetos a impuestos especiales, todo importe garantizado para la obtención de las mismas será liberado si los impuestos especiales se han devengado y recaudado en otro Estado miembro.
+
+g) La garantía con cargo a la cual se haya efectuado la entrega de las precintas responderá de todas las obligaciones fiscales que puedan derivarse de la aplicación de este artículo, incluido el pago de las deudas resultantes de las liquidaciones practicadas.
+
+h) Cuando de acuerdo con lo dispuesto en el apartado 6 siguiente, relativo a importaciones, proceda ejecutar la garantía prestada, por no haberse producido la importación de las bebidas derivadas o labores del tabaco con las marcas fiscales adheridas o la devolución de estas últimas, la Administración determinará, mediante la correspondiente liquidación, el importe de la garantía a ejecutar, que será el de la cuota teórica del Impuesto Especial correspondiente a la cantidad de bebidas derivadas o labores del tabaco a que pudieran aplicarse las marcas fiscales no justificadas, calculada conforme a lo previsto en el apartado 6 de la letra a) del presente artículo.
+
+i) La circulación en régimen suspensivo de bebidas derivadas o labores del tabaco que lleven adheridas marcas fiscales entre fábricas y depósitos fiscales, o entre establecimientos de un solo tipo de los precedentes, situados en el ámbito territorial interno, no podrá realizarse sin que el establecimiento de destino cuente con garantía suficiente para amparar las marcas fiscales recibidas, tal como se establece en el apartado 5.a) de este artículo. La oficina gestora desarrollará el procedimiento y las normas de control que sean aplicables a estos casos.
+
+Lo señalado en el párrafo anterior será también aplicable a los supuestos de recepción en fábricas o depósitos fiscales ubicados en el ámbito territorial interno, de bebidas derivadas o labores del tabaco que lleven incorporadas las marcas fiscales procedentes del ámbito territorial comunitario no interno o de aduanas de importación tras su despacho a libre práctica.
+
+6\. En la importación de bebidas derivadas o labores del tabaco la adhesión de las marcas fiscales podrá efectuarse, a elección del importador, en destino o en origen, conforme al procedimiento aprobado por la persona titular del Ministerio de Hacienda y Función Pública, con las condiciones siguientes:
+
+a) Adhesión en destino: El expedidor registrado, en el supuesto de importación con aplicación de una exención o el importador en el supuesto de importación a tipo pleno, harán constar en el documento de circulación que los envases o recipientes carecen de marca fiscal, así como el número de envases o recipientes importados. Dichos expedidores registrados o importadores deberán solicitar las marcas fiscales necesarias por vía electrónica conforme al procedimiento aprobado por la persona titular del Ministerio de Hacienda y Función Pública, para que estas sean adheridas en el lugar designado por los mismos, siempre en presencia y bajo el control de los servicios de Intervención o Inspección de la Agencia Estatal de Administración Tributaria.
+
+b) Adhesión en origen: Si el importador opta porque las marcas fiscales se coloquen en la fábrica de origen, la oficina gestora correspondiente a su domicilio le autorizará la recepción de las precintas necesarias, previa prestación de garantía por un importe del 100 por 100 de las cuotas que corresponderían a la cantidad de bebidas derivadas o de labores del tabaco a que pudieran aplicarse. Para el cálculo del importe a garantizar, si se trata de bebidas derivadas, se tendrá en cuenta la capacidad de los envases en que se embotellarán y se supondrá que dichas bebidas tienen un grado alcohólico volumétrico del 40 por 100 vol. Si se trata de labores del tabaco el precio que se utilizará para el cálculo de la garantía será el fijado por los fabricantes o importadores para la clase de labor más vendida.
+
+Cuando las precintas se coloquen en origen, la importación de las bebidas derivadas o de las labores del tabaco con las precintas adheridas, o la devolución de estas últimas, habrá de efectuarse en el plazo de un año, contado desde la fecha de su entrega. Dicho plazo podrá prorrogarse por un período de hasta seis meses que no podrá ser superior al que reste de vigencia a la garantía prestada, salvo que se preste nueva garantía. Si, transcurrido el citado plazo y, en su caso, su prórroga, no se hubiese producido la importación o devolución, se procederá a la ejecución de las garantías prestadas.
+
+c) Cuando las bebidas derivadas o las labores del tabaco sean importadas por un depositario autorizado, para su introducción en una fábrica o depósito fiscal, las precintas podrán ser colocadas en destino o en origen. En ambos casos, la autorización para la entrega de precintas al interesado será efectuada por la oficina gestora que corresponda al domicilio de la fábrica o depósito fiscal, con las condiciones generales previstas en los apartados 4 y 5 de este artículo.
+
+La importación de las bebidas derivadas o de las labores del tabaco con las precintas adheridas, o la devolución de estas últimas, habrá de efectuarse en el plazo de un año, contado desde la fecha de su entrega. Dicho plazo podrá prorrogarse por un período de hasta seis meses que no podrá ser superior al que reste de vigencia a la garantía prestada, salvo que se preste nueva garantía. Si, transcurrido el citado plazo y, en su caso, su prórroga, no se hubiese producido la importación o devolución, se procederá a la ejecución de las garantías prestadas.
+
+d) Cuando se trate de bebidas derivadas o de labores del tabaco cuya importación se formalice mediante talón de adeudo por declaración verbal, no será precisa la colocación de precintas si las cantidades importadas no exceden de 10 litros, 800 cigarrillos, 400 cigarritos, 200 cigarros o un kilogramo de picadura para liar o demás labores del tabaco.
+
+7\. En los supuestos de recepción de bebidas derivadas o de labores del tabaco procedentes del ámbito territorial comunitario no interno para la adhesión de las marcas fiscales se aplicarán las reglas siguientes:
+
+a) En la recepción en régimen suspensivo o por el procedimiento de envíos garantizados: para la adhesión de marcas fiscales será de aplicación lo establecido en la letra c) del apartado 6 anterior, cuya entrega será autorizada por la oficina gestora que corresponda a la fábrica, depósito fiscal, destinatario registrado o destinatario certificado que corresponda.
+
+b) Recepción por el procedimiento de ventas a distancia: las marcas fiscales deberán ser colocadas en origen siendo autorizada la entrega de aquéllas al representante fiscal por la oficina gestora donde éste figure inscrito y con cargo a la garantía que tiene prestada.
+
+Cuando, en los casos a que se refiere este apartado 7, no se produzca la recepción de las bebidas derivadas o de las labores del tabaco con las precintas adheridas o bien la devolución de estas últimas con los plazos previstos en el apartado 6 anterior, se procederá a la ejecución de la garantía prestada. A tal efecto, la Administración procederá a determinar la deuda tributaria garantizada, mediante la correspondiente liquidación, cuyo importe será el de las cuotas teóricas del Impuesto Especial a que se refiere la letra a) del apartado 6 de este artículo, correspondiente a las marcas fiscales que no se hayan recibido adheridas a las bebidas derivadas o a las labores del tabaco, o no hayan sido objeto de devolución dentro del plazo señalado.
+
+No procederá la ejecución de las garantías prestadas cuando se acredite que la falta de recepción o devolución sea debida a la destrucción de las marcas fiscales por caso fortuito o por fuerza mayor, y siempre que ello conste fehacientemente, especialmente mediante el certificado expedido al efecto por las autoridades fiscales del Estado miembro donde haya ocurrido la destrucción. A estos efectos, se admitirá la pérdida del 0,5 por 1.000 de las marcas fiscales utilizadas, aunque no puedan ser presentadas para su destrucción o no se justifique fehacientemente su destrucción.
+
+En el supuesto de irregularidades en la circulación intracomunitaria cuya resolución tenga lugar con posterioridad a la ejecución de la garantía, pero dentro de los plazos señalados en el apartado anterior, se estará a lo previsto en apartado 5 del artículo 17 de este Reglamento.
+
+8\. Cuando, en los casos previstos en los apartados anteriores, la importación o recepción de las bebidas derivadas o de las labores del tabaco se produzca en la demarcación de una oficina gestora distinta de la que efectuó la entrega de las precintas para su colocación en origen, aquella comunicará a esta tal circunstancia a los efectos correspondientes.
+
+9\. Al menos una vez al año los servicios de inspección o, en su caso, de intervención efectuarán recuento de marcas fiscales en los establecimientos a cuyos titulares les han sido entregadas.
+
+Con independencia de lo anterior, la oficina gestora podrá, en cualquier momento, desarrollar cuantos controles considere necesarios para comprobar la situación de las precintas en los establecimientos a cuyos titulares hayan sido entregadas, así como para verificar el cumplimiento de los requisitos exigidos por la normativa en relación con las marcas fiscales entregadas.
+
+A los efectos de los controles y recuentos realizados por la Administración tributaria, se admitirá la baja en contabilidad, sin ulteriores consecuencias, de las siguientes precintas:
+
+a) Las que se hayan destruido bajo control de la Administración.
+
+b) Las que se presenten a la Intervención o a la Inspección, deterioradas, procediéndose a su destrucción bajo control de la Administración.
+
+c) Las que representen el 0,5 por 1.000 de las utilizadas, aunque no puedan presentarse para su destrucción.
+
+d) Las que, en los términos del artículo 14 de este Reglamento, se acredite que hayan resultado destruidas por caso fortuito o fuerza mayor, siempre que la destrucción hubiera sido comunicada a la oficina gestora con anterioridad a la realización del recuento. En el caso de precintas para envases de bebidas derivadas se deberá solicitar la baja electrónica de los códigos de seguridad incorporados a las mismas conforme al procedimiento aprobado por la persona titular del Ministerio de Hacienda y Función Pública.
+
+La falta de marcas fiscales puestas de manifiesto en los controles desarrollados por la Administración, una vez deducidas las que se consideran justificadas con arreglo al apartado anterior, dará lugar a la ejecución de la garantía prestada, para lo cual la Administración determinará, mediante la correspondiente liquidación, la deuda tributaria garantizada, que coincidirá con las cuotas teóricas del Impuesto Especial a que se refiere la letra a) del apartado 5 de este artículo, correspondientes a las marcas fiscales no justificadas.
+
+10\. Los receptores de marcas fiscales llevarán un libro de contabilidad en el que se deberá anotar, en su caso, las marcas fiscales que les son entregadas y las que van siendo adheridas a los correspondientes recipientes o envases.
+
+Además del anterior, llevarán también un libro en el que se contabilizará el movimiento de recipientes o envases con precinta adherida, tanto las que permanecen en el propio establecimiento, como aquellas que salen del mismo, distinguiendo en estas salidas, según se produzcan en régimen suspensivo reflejando el CAE del establecimiento destinatario, como las salidas con devengo del impuesto especial correspondiente.
+
+Mediante procedimiento aprobado por la persona titular del Ministerio de Hacienda y Función Pública se establecerán los requisitos y condiciones de llevanza de esta contabilidad de marcas fiscales. En todo caso, los titulares de los establecimientos y demás personas obligadas, deberán suministrar, dentro de los primeros veinte días de cada mes, a la sede electrónica de la Agencia Estatal de Administración Tributaria los apuntes contables que se hubieran efectuado durante el mes natural anterior.
+
+En caso de llevanza de estos libros de contabilidad en papel, deberán ser habilitados por la oficina gestora correspondiente a la demarcación del peticionario.
+
+No obstante lo dispuesto en la letra b) del apartado 5 de este artículo, las existencias de marcas fiscales en fábrica o depósito fiscal, tanto de las ya adheridas a los recipientes o envases como de las que todavía no hayan sido adheridas, no podrán ser en ningún momento superiores, en más de un 200 por 100, al número máximo de precintas que le puedan ser entregadas durante cada mes, según lo señalado en la letra a) del apartado 5 de este artículo, salvo que se preste una garantía complementaria por el 100 por 100 de las cuotas teóricas que correspondan a las precintas que vayan a exceder de dicho límite. Esta garantía complementaria será cancelada, en su caso, en el momento en que las existencias de marcas fiscales que permanezcan en el establecimiento dejen de ser superiores, en más de un 200 por 100, al número de precintas que, como máximo, le puedan ser entregadas mensualmente a su titular.
+
+Se admitirá la baja en esta contabilidad de las marcas fiscales previstas en el apartado 9 del presente artículo que se hubieran puesto de manifiesto en los controles y recuentos de marcas fiscales practicados por la Administración en establecimientos no sujetos a intervención.
+
+11\. Sin perjuicio de lo establecido en el artículo 123 bis de este Reglamento, para las labores del tabaco, en los supuestos de exportación y en los de envío, por cualquier procedimiento de circulación intracomunitaria, al ámbito territorial comunitario no interno, de bebidas derivadas que deban incorporar marcas fiscales, será requisito previo para que dichas operaciones se consideren autorizadas y, en su caso, para que el régimen suspensivo se considere ultimado que, con anterioridad a la salida del ámbito territorial interno, dichas marcas fiscales se inutilicen o destruyan, previa comunicación a la Administración tributaria. Tal destrucción o inutilización se llevará a cabo por el procedimiento previsto en el párrafo segundo del apartado 5 del artículo 6 de este Reglamento.
+
+En los supuestos citados en el párrafo anterior y en relación con las marcas fiscales adheridas a recipientes o envases de bebidas derivadas, la inutilización de las marcas se podrá realizar, siempre bajo control de la Administración tributaria y con carácter previo a la salida del ámbito territorial interno, mediante la solicitud de baja electrónica de los códigos de seguridad incorporados en dichas marcas fiscales, por el procedimiento aprobado por la persona titular del Ministerio de Hacienda y Función Pública.
+
+> Téngase en cuenta que esta actualización, establecida por el art. 2.2 del Real Decreto 1171/2023, de 27 de diciembre, [Ref. BOE-A-2023-26454](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26454), entra en vigor el 20 de mayo de 2024, según establece la disposición final 4 del citado Real Decreto.
+
+> Redacción anterior:
+
+> "1. Con independencia de los requisitos que hayan de cumplirse, en materia técnico-sanitaria y de etiquetado y envasado, las bebidas derivadas, los cigarrillos y la picadura para liar que circulen, fuera de régimen suspensivo, con un destino dentro del ámbito territorial interno que no sea una planta embotelladora o envasadora independiente deberán contenerse en recipientes o envases provistos de una precinta de circulación u otra marca fiscal en las condiciones previstas en este Reglamento.
+
+> No obstante, no precisarán ir provistos de precinta o marca fiscal los envases de capacidad no superior a 0,5 litros que contengan bebidas derivadas cuya graduación no exceda de 6 por 100 volumen y los envases de hasta 1 decilitro, cualquiera que sea su graduación.
+
+> 2\. Las precintas son documentos timbrados y numerados sujetos a los modelos aprobados por el Ministro de Hacienda. Se confeccionarán por la Fábrica Nacional de Moneda y Timbre y deberán adherirse a los recipientes o envases con arreglo a las siguientes normas:
+
+> a) Cuando se trate de recipientes de bebidas derivadas, las precintas se adherirán en cualquier lugar visible de los recipientes o envases, de modo que no se puedan reutilizar, permitiendo la lectura del código de seguridad electrónico que incorporan.
+
+> En el caso de envases, de capacidad no superior a medio litro, que se agrupen acondicionados para su venta al por menor en estuches cuyo contenido total de bebidas derivadas no exceda de 5 litros, podrá adherirse al estuche una única precinta correspondiente a una capacidad igual o superior, al contenido total de bebidas derivadas que conforman el mismo.
+
+> Las precintas para recipientes de bebidas derivadas, además del código de identificación visible, incorporarán un código electrónico de seguridad que permita verificar inmediatamente su autenticidad y enlazar telemáticamente cada marca fiscal con los datos relativos al establecimiento al que son entregadas (código de actividad y establecimiento) y a su titular (número de identificación fiscal).
+
+> b) Cuando se trate de cigarrillos o de picadura para liar, las precintas se incorporarán en el empaque que constituya la unidad mínima de venta para el consumidor, de forma que sean siempre visibles y permitan la identificación y verificación de la autenticidad de las mismas, situándose por debajo de la envoltura transparente o translúcida que, en su caso, rodee el empaque.
+
+> c) Cuando se trate de cigarrillos o de picadura para liar, destinados a la venta a viajeros con destino al territorio de la Comunidad, así como en las ventas a viajeros con destino a terceros países, tanto a bordo de embarcaciones o de aeronaves cuyos productos hayan sido entregados previamente por depósitos fiscales autorizados exclusivamente para dichos suministros, como por depósitos fiscales situados en puertos y aeropuertos que funcionen exclusivamente como establecimientos minoristas, ambos definidos respectivamente en el artículo 11.2.10.º1´ y 2´ de este Reglamento, las marcas fiscales se adherirán de forma indeleble al exterior del envase autorizado para su comercialización, de forma que sean siempre visibles y permitan la identificación y verificación de la autenticidad de las mismas.
+
+> Los destinatarios de expediciones de bebidas derivadas, cigarrillos o picadura para liar, que los reciban sin que todos o parte de los recipientes o envases lleven perfectamente adheridas las marcas exigidas y legibles sus códigos o medidas de seguridad exigidas para amparar la circulación, deberán comunicar esta circunstancia, inmediatamente, a la oficina gestora correspondiente al lugar de recepción.
+
+> 3\. El Ministro de Hacienda podrá autorizar que las precintas, con las garantías necesarias, puedan ser sustituidas por otro tipo de marcas.
+
+> 4\. Los fabricantes y titulares de depósitos fiscales y de depósitos de recepción, así como, en su caso, los destinatarios registrados ocasionales, los receptores autorizados, los representantes fiscales de vendedores a distancia y los importadores, formularán las solicitudes de marcas fiscales por vía electrónica conforme al procedimiento aprobado por el Ministro de Hacienda. En todo caso, la oficina gestora donde se haya registrado el establecimiento solicitante o, en su defecto, la correspondiente al domicilio fiscal del solicitante, deberá autorizar con carácter previo la entrega física de las marcas fiscales.
+
+> Las marcas fiscales deberán ser adheridas a los recipientes o envases por parte del titular del establecimiento solicitante, salvo que se adhieran en origen, fuera del ámbito territorial interno, o que se remitan para ser adheridas en una planta embotelladora independiente.
+
+> Fuera de los casos anteriores, no se permite el traspaso entre distintos establecimientos u operadores de marcas fiscales sin adherir a los recipientes o envases a que están destinadas.
+
+> Cuando el embotellado de las bebidas derivadas o el envasado de los cigarrillos o de picadura para liar se realice fuera de fábrica o depósito fiscal, el depositario autorizado, bajo su responsabilidad, proveerá a la planta embotelladora o envasadora de las precintas necesarias.
+
+> No obstante, en los casos en que una misma persona sea titular de varios establecimientos y preste la garantía global a que se refiere el apartado 2 del artículo 45 de este Reglamento, las precintas cuya entrega haya sido autorizada por la oficina gestora ante la que se constituye la garantía global, podrán ser colocadas en cualquiera de las fábricas o depósitos fiscales que comprende dicha garantía global.
+
+> Tras la recepción de las marcas fiscales, en el caso de bebidas derivadas, el titular del establecimiento solicitante deberá incorporar a la sede electrónica de la Agencia Estatal de Administración Tributaria la información correspondiente a la fecha de recepción de las marcas fiscales, a la identificación fiscal del establecimiento de recepción, al lugar de adhesión de las marcas fiscales y al número de lote al que pertenezca el producto de que se trate, conforme al procedimiento aprobado por el Ministro de Hacienda.
+
+> En el supuesto de envío de marcas fiscales incorporadas a los envases de bebidas derivadas a otro establecimiento en régimen suspensivo, así como en el supuesto de envío de las precintas para bebidas derivadas a otro establecimiento para su colocación en los correspondientes envases, los titulares del establecimiento de envío deberán comunicar dicha circunstancia a la Agencia Estatal de Administración Tributaria conforme al procedimiento aprobado por el Ministro de Hacienda.
+
+> 5\. La entrega de marcas fiscales se efectuará, siempre que se cumpla lo establecido en materia de garantías, conforme a las siguientes normas:
+
+> a) Dentro de cada mes natural, la oficina gestora entregará, como máximo, un número de precintas tal que el importe de las cuotas teóricas correspondientes a las bebidas derivadas, cigarrillos o picadura para liar a que pudieran aplicarse dichas precintas no sea superior al importe resultante de lo dispuesto en los apartados 2, 3 o 7 del artículo 43 de este Reglamento multiplicado por el coeficiente:
+
+> 1.º 1,4 si se trata de bebidas derivadas para fábricas y depósitos fiscales.
+
+> 2.º 4,2 si se trata de bebidas derivadas para depósitos de recepción.
+
+> 3.º 83,4 si se trata de cigarrillos y picadura para liar para fábricas y depósitos fiscales.
+
+> 4.º 166,8 si se trata de cigarrillos y picadura para liar para depósitos de recepción.
+
+> La oficina gestora no atenderá peticiones de precintas en cantidad que supere dicho límite salvo que se preste una garantía complementaria, del 50 por 100 de la cuota, por el exceso.
+
+> b) Las precintas que, siendo susceptibles de ser entregadas conforme a lo dispuesto en la letra a), no hayan sido solicitadas por los interesados, podrán ser entregadas dentro del mismo año natural.
+
+> c) Si el interesado no se hallase al corriente en el pago de su deuda tributaria por el concepto correspondiente de los impuestos especiales de fabricación, deberá prestar una garantía especial que responderá exclusivamente de la totalidad de las cuotas teóricas que pudieran devengarse en relación con los productos para los que se solicitan las precintas.
+
+> En el caso de que la prestación de esta garantía pueda perjudicar gravemente la continuidad de la actividad, el Delegado de la Agencia Estatal de Administración Tributaria podrá dispensar de esta obligación, sin perjuicio de la posibilidad de adopción de medidas cautelares en su sustitución, en los términos establecidos en el Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación, para los aplazamientos y fraccionamientos de pago.
+
+> d) A efectos de lo dispuesto en este artículo se entenderá por cuotas teóricas:
+
+> 1.º En relación con las bebidas derivadas, las que se devengarían a la salida de fábrica o depósito fiscal, con ultimación del régimen suspensivo y sin aplicación de exenciones, de unas bebidas derivadas con la graduación media de las elaboradas o almacenadas por el interesado durante el año natural anterior y embotelladas en los envases de mayor capacidad según tipos de precintas.
+
+> 2.º En relación con los cigarrillos y con la picadura para liar, las que se devengarían a la salida de fábrica o depósito fiscal, con ultimación del régimen suspensivo y sin aplicación de exenciones, de unos cigarrillos con un precio de venta al público igual al de la media de los fabricados o almacenados por el interesado y de una picadura para liar con un precio de venta al público igual al 110 por ciento de la media de la fabricada o almacenada por el interesado, en ambos casos durante el año natural anterior.
+
+> e) Las garantías complementaria y especial a que respectivamente aluden las letras a) y c) anteriores se desafectarán cuando, respecto de una cantidad de bebidas derivadas, cigarrillos o picadura para liar a que serían aplicables las precintas cuya retirada ampararon dichas garantías, se acredite, alternativamente:
+
+> 1.º El pago de la deuda tributaria correspondiente.
+
+> 2.º Su recepción en otra fábrica o depósito fiscal donde haya prestada una garantía que cubra las cuotas teóricas correspondientes a la cantidad de bebidas derivadas, cigarrillos o picadura para liar a recibir.
+
+> f) Cuando se apliquen las marcas a los productos sujetos a impuestos especiales, todo importe garantizado para la obtención de las mismas será liberado si los impuestos especiales se han devengado y recaudado en otro Estado miembro.
+
+> g) La garantía con cargo a la cual se haya efectuado la entrega de las precintas responderá de todas las obligaciones fiscales que puedan derivarse de la aplicación de este artículo, incluido el pago de las deudas resultantes de las liquidaciones practicadas.
+
+> h) Cuando de acuerdo con lo dispuesto en el apartado 6 siguiente, relativo a importaciones, proceda ejecutar la garantía prestada, por no haberse producido la importación de las bebidas derivadas, los cigarrillos o la picadura para liar con las marcas fiscales adheridas o la devolución de estas últimas, la Administración determinará, mediante la correspondiente liquidación, el importe de la garantía a ejecutar, que será el de la cuota teórica del Impuesto Especial correspondiente a la cantidad de bebidas derivadas, cigarrillos o picadura para liar a que pudieran aplicarse las marcas fiscales no justificadas, calculada conforme a lo previsto en el apartado 6 de la letra a) del presente artículo.
+
+> i) La circulación en régimen suspensivo de bebidas derivadas, cigarrillos o picadura para liar que lleven adheridas marcas fiscales entre fábricas y depósitos fiscales, o entre establecimientos de un solo tipo de los precedentes, situados en el ámbito territorial interno, no podrá realizarse sin que el establecimiento de destino cuente con garantía suficiente para amparar las marcas fiscales recibidas, tal como se establece en el apartado 5.a) de este artículo. La oficina gestora desarrollará el procedimiento y las normas de control que sean aplicables a estos casos.
+
+> Lo señalado en el párrafo anterior será también aplicable a los supuestos de recepción en fábricas o depósitos fiscales ubicados en el ámbito territorial interno, de bebidas derivadas, cigarrillos o picadura para liar que lleven incorporadas las marcas fiscales procedentes del ámbito territorial comunitario no interno o de aduanas de importación tras su despacho a libre práctica.
+
+> 6\. En la importación de bebidas derivadas, cigarrillos o picadura para liar, la adhesión de las marcas fiscales podrá efectuarse, a elección del importador, en destino o en origen, conforme al procedimiento aprobado por el Ministro de Hacienda, con las condiciones siguientes:
+
+> a) Adhesión en destino: El expedidor registrado, en el supuesto de importación con aplicación de una exención o el importador en el supuesto de importación a tipo pleno, harán constar en el documento de circulación que los envases o recipientes carecen de marca fiscal, así como el número de envases o recipientes importados. Dichos expedidores registrados o importadores deberán solicitar las marcas fiscales necesarias por vía electrónica conforme al procedimiento aprobado por el Ministro de Hacienda, para que estas sean adheridas en el lugar designado por los mismos, siempre en presencia y bajo el control de los servicios de Intervención o Inspección de la AEAT.
+
+> b) Adhesión en origen: Si el importador opta porque las marcas fiscales se coloquen en la fábrica de origen, la oficina gestora correspondiente a su domicilio le autorizará la recepción de las precintas necesarias, previa prestación de garantía por un importe del 100 por 100 de las cuotas que corresponderían a la cantidad de bebidas derivadas, cigarrillos o picadura para liar a que pudieran aplicarse. Para el cálculo del importe a garantizar, si se trata de bebidas derivadas, se supondrá que tales bebidas tienen una graduación del 40 por 100 vol., y que están embotelladas en los envases de mayor capacidad, según el tipo de precintas. Si se trata de cigarrillos o de picadura para liar el precio que se utilizará para el cálculo de la garantía será el fijado por los fabricantes o importadores para la clase de cigarrillos o picadura para liar más vendida.
+
+> Cuando las precintas se coloquen en origen, la importación de las bebidas derivadas, de los cigarrillos o de la picadura para liar con las precintas adheridas o la devolución de estas últimas habrá de efectuarse en el plazo de un año, contado desde la fecha de su entrega. Dicho plazo podrá prorrogarse por un período de hasta seis meses que no podrá ser superior al que reste de vigencia a la garantía prestada, salvo que se preste nueva garantía. Si, transcurrido el citado plazo y, en su caso, su prórroga, no se hubiese producido la importación o devolución, se procederá a la ejecución de las garantías prestadas.
+
+> c) Cuando las bebidas derivadas, los cigarrillos o la picadura para liar sean importados por un depositario autorizado, para su introducción en una fábrica o depósito fiscal, las precintas podrán ser colocadas en destino o en origen. En ambos casos, la autorización para la entrega de precintas al interesado será efectuada por la oficina gestora que corresponda al domicilio de la fábrica o depósito fiscal, con las condiciones generales previstas en los apartados 4 y 5 de este artículo.
+
+> La importación de las bebidas derivadas, cigarrillos o picadura para liar con las precintas adheridas, o la devolución de estas últimas habrá de efectuarse en el plazo de un año, contado desde la fecha de su entrega. Dicho plazo podrá prorrogarse por un período de hasta seis meses que no podrá ser superior al que reste de vigencia a la garantía prestada, salvo que se preste nueva garantía. Si, transcurrido el citado plazo y, en su caso, su prórroga, no se hubiese producido la importación o devolución, se procederá a la ejecución de las garantías prestadas.
+
+> d) Cuando se trate de bebidas derivadas, cigarrillos o picadura para liar cuya importación se formalice mediante talón de adeudo por declaración verbal, no será precisa la colocación de precintas si las cantidades importadas no exceden de 10 litros, 800 cigarrillos o un kilogramo respectivamente.
+
+> 7\. En los supuestos de recepción de bebidas derivadas, cigarrillos o picadura para liar procedentes del ámbito territorial comunitario no interno para la adhesión de las marcas fiscales se aplicarán las reglas siguientes:
+
+> a) En la recepción en régimen suspensivo o por el procedimiento de envíos garantizados: para la adhesión de marcas fiscales será de aplicación lo establecido en la letra c) del apartado 6 anterior, cuya entrega será autorizada por la oficina gestora que corresponda a la fábrica, depósito fiscal, destinatario registrado o receptor autorizado que corresponda.
+
+> b) Recepción por el procedimiento de ventas a distancia: las marcas fiscales deberán ser colocadas en origen siendo autorizada la entrega de aquéllas al representante fiscal por la oficina gestora donde éste figure inscrito y con cargo a la garantía que tiene prestada.
+
+> Cuando, en los casos a que se refiere este apartado 7, no se produzca la recepción de las bebidas derivadas, los cigarrillos o la picadura para liar con las precintas adheridas o bien la devolución de estas últimas con los plazos previstos en el apartado 6 anterior, se procederá a la ejecución de la garantía prestada. A tal efecto, la Administración procederá a determinar la deuda tributaria garantizada, mediante la correspondiente liquidación, cuyo importe será el de las cuotas teóricas del Impuesto Especial a que se refiere la letra a) del apartado 6 de este artículo, correspondiente a las marcas fiscales que no se hayan recibido adheridas a las bebidas derivadas, los cigarrillos o la picadura para liar, o no hayan sido objeto de devolución dentro del plazo señalado.
+
+> No procederá la ejecución de las garantías prestadas cuando se acredite que la falta de recepción o devolución sea debida a la destrucción de las marcas fiscales por caso fortuito o por fuerza mayor, y siempre que ello conste fehacientemente, especialmente mediante el certificado expedido al efecto por las autoridades fiscales del Estado miembro donde haya ocurrido la destrucción. A estos efectos, se admitirá la pérdida del 0,5 por 1.000 de las marcas fiscales utilizadas, aunque no puedan ser presentadas para su destrucción o no se justifique fehacientemente su destrucción.
+
+> En el supuesto de irregularidades en la circulación intracomunitaria cuya resolución tenga lugar con posterioridad a la ejecución de la garantía pero dentro de los plazos señalados en el apartado anterior, se estará a lo previsto en apartado 5 del artículo 17 de este Reglamento.
+
+> 8\. Cuando, en los casos previstos en los apartados anteriores, la importación o recepción de las bebidas derivadas, cigarrillos o picadura para liar se produzca en la demarcación de una oficina gestora distinta de la que efectuó la entrega de las precintas para su colocación en origen, aquella comunicará a esta tal circunstancia a los efectos correspondientes.
+
+> 9\. Al menos una vez al año los servicios de inspección o, en su caso, de intervención efectuarán recuento de marcas fiscales en los establecimientos a cuyos titulares les han sido entregadas.
+
+> Con independencia de lo anterior, la oficina gestora podrá, en cualquier momento, desarrollar cuantos controles considere necesarios para comprobar la situación de las precintas en los establecimientos a cuyos titulares hayan sido entregadas, así como para verificar el cumplimiento de los requisitos exigidos por la normativa en relación con las marcas fiscales entregadas.
+
+> A los efectos de los controles y recuentos realizados por la Administración tributaria, se admitirá la baja en contabilidad, sin ulteriores consecuencias, de las siguientes precintas:
+
+> a) Las que se hayan destruido bajo control de la Administración.
+
+> b) Las que se presenten a la Intervención o a la Inspección, deterioradas, procediéndose a su destrucción bajo control de la Administración.
+
+> c) Las que representen el 0,5 por 1.000 de las utilizadas, aunque no puedan presentarse para su destrucción.
+
+> d) Las que, en los términos del artículo 14 de este Reglamento, se acredite que hayan resultado destruidas por caso fortuito o fuerza mayor y siempre que la destrucción hubiera sido comunicada inmediatamente a la oficina gestora y con anterioridad a la realización del recuento.
+
+> La falta de marcas fiscales puestas de manifiesto en los controles desarrollados por la Administración, una vez deducidas las que se consideran justificadas con arreglo al apartado anterior, dará lugar a la ejecución de la garantía prestada, para lo cual la Administración determinará, mediante la correspondiente liquidación, la deuda tributaria garantizada, que coincidirá con las cuotas teóricas del Impuesto Especial a que se refiere la letra a) del apartado 5 de este artículo, correspondientes a las marcas fiscales no justificadas.
+
+> 10\. Los receptores de marcas fiscales llevarán un libro de contabilidad en el que se deberá anotar, en su caso, las marcas fiscales que les son entregadas y las que van siendo adheridas a los correspondientes recipientes o envases.
+
+> Además del anterior, llevarán también un libro en el que se contabilizará el movimiento de recipientes o envases con precinta adherida, tanto las que permanecen en el propio establecimiento, como aquellas que salen del mismo, distinguiendo en estas salidas, según se produzcan en régimen suspensivo reflejando el CAE del establecimiento destinatario, como las salidas con devengo del impuesto especial correspondiente.
+
+> Mediante procedimiento aprobado por el Ministro de Hacienda se establecerán los requisitos y condiciones de llevanza de esta contabilidad de marcas fiscales, que puede prever, con carácter opcional para los establecimientos obligados a la misma, el suministro electrónico de dichos movimientos a la sede electrónica de la Agencia Estatal de Administración Tributaria.
+
+> En caso de llevanza de estos libros de contabilidad en papel, deberán ser habilitados por la oficina gestora correspondiente a la demarcación del peticionario.
+
+> No obstante lo dispuesto en la letra b) del apartado 5 de este artículo, las existencias de marcas fiscales en fábrica o depósito fiscal, tanto de las ya adheridas a los recipientes o envases como de las que todavía no hayan sido adheridas, no podrá ser en ningún momento superior, en más de un 200 por 100, al número máximo de precintas que le puedan ser entregadas durante cada mes, según lo señalado en la letra a) del apartado 5 de este artículo, salvo que se preste una garantía complementaria por el 100 por 100 de las cuotas teóricas que correspondan a las precintas que vayan a exceder de dicho límite. Esta garantía complementaria será cancelada, en su caso, en el momento en que las existencias de marcas fiscales que permanezcan en el establecimiento deje de ser superior, en más de un 200 por 100, al número de precintas que, como máximo, le puedan ser entregadas mensualmente a su titular.
+
+> Se admitirá la baja en esta contabilidad de las marcas fiscales previstas en el apartado 9 del presente artículo que se hubieran puesto de manifiesto en los controles y recuentos de marcas fiscales practicados por la Administración en establecimientos no sujetos a intervención.
+
+> 11\. Sin perjuicio de lo establecido en el artículo 123 bis de este Reglamento, en los supuestos de exportación y en los de envío, por cualquier procedimiento de circulación intracomunitaria, al ámbito territorial comunitario no interno, de productos que deban incorporar marcas fiscales, será requisito previo para que dichas operaciones se consideren autorizadas y, en su caso, para que el régimen suspensivo se considere ultimado que, con anterioridad a la salida del ámbito territorial interno, dichas marcas fiscales se inutilicen o destruyan, previa comunicación a la Administración tributaria. Tal destrucción o inutilización se llevará a cabo por el procedimiento previsto en el párrafo segundo del apartado 5 del artículo 6 de este Reglamento.
+
+> En los supuestos citados en el párrafo anterior y en relación con las marcas fiscales adheridas a recipientes o envases de bebidas derivadas, la inutilización de las marcas se podrá realizar, siempre bajo control de la Administración tributaria y con carácter previo a la salida del ámbito territorial interno, mediante la solicitud de baja electrónica de los códigos de seguridad incorporados en dichas marcas fiscales, por el procedimiento aprobado por el Ministro de Hacienda.
+
+> 12\. **(Derogado).**
+
+> 13\. La devolución de marcas fiscales de bebidas derivadas a las oficinas gestoras, para su inutilización o destrucción bajo control de la Administración Tributaria, deberá ser comunicada por el titular del establecimiento o, en su caso, operador que efectúe la devolución a la Agencia Estatal de Administración Tributaria, conforme al procedimiento aprobado por el Ministro de Hacienda. De la misma forma se deberá proceder en los supuestos de destrucción de marcas fiscales por caso fortuito o fuerza mayor."
+
+> Se modifica por el art. 2.2 del Real Decreto 1171/2023, de 27 de diciembre. [Ref. BOE-A-2023-26454](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26454)
+
+> Esta modificación entra en vigor el 20 de mayo de 2024, según establece la disposición final 4 del citado Real Decreto.
+
+> Se modifican el primer párrafo de la letra a) del apartado 2 y el apartado 11, y se derogan el apartado 12 y el último párrafo del apartado 13, por la disposición final 1 del Real Decreto 399/2021, de 8 de junio. [Ref. BOE-A-2021-9558](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9558)
+
+> Se modifica, con efectos de 20 de mayo de 2019, por el art. 4.10 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Téngase en cuenta que esta actualización será de obligado cumplimiento a partir del 1 de enero de 2020 para las modificaciones efectuadas al tercer párrafo del apartado 2.a) y a los párrafos 6 y 7 del apartado 4, y a partir del 1 de enero de 2022 para la modificación del apartado 12, según determina la disposición final 4.a) y d) del citado Real Decreto.
+
+> Se modifican, con efectos desde el 1 de enero de 2020, los apartados 2.a), 5 y se añade el apartado 18 por el art. 3.5 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Téngase en cuenta que esta actualización se deroga, con efectos de 1 de enero de 2019, por la disposición derogatoria única.3 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica la letra a) del apartado 2 por el art. 1.7 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica por el art. único.22 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.22 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se añade un párrafo al apartado 1 por el art. único.5 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Se añade por el art. único.8 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+> Redactado el apartado 16 conforme a la corrección de errores publicada en BOE, núm. 19 de 22 de enero de 2000. [Ref. BOE-A-2000-1348](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1348)
+
+> Se modifica el apartado 2.a) por el art. único.5 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 27. Ventas en ruta.
+
+1\. Con carácter general, la salida de productos de fábrica, depósito fiscal o almacén fiscal podrá efectuarse por el procedimiento de ventas en ruta siempre que se haya devengado el impuesto con aplicación de un tipo ordinario o reducido.
+
+Podrán enviarse productos por el procedimiento de ventas en ruta a instalaciones cuya titularidad sea de los expedidores y en las que se reciba el producto para su posterior entrega por canalización hasta la vivienda de los consumidores finales.
+
+No obstante, el gasóleo no podrá ser enviado por el procedimiento de ventas en ruta a un almacén fiscal o a un detallista cuando se haya devengado el impuesto con aplicación de los tipos reducidos previstos en los epígrafes 1.4 del apartado 1 del artículo 50 de la Ley.
+
+2\. Para la aplicación de lo dispuesto en el apartado anterior deberán cumplirse las siguientes condiciones:
+
+a) El expedidor deberá disponer de un sistema de control que permita conocer en todo momento las salidas de producto del establecimiento, las entregadas a cada destinatario y las que retornan al establecimiento.
+
+b) Con carácter previo a la expedición, el expedidor cumplimentará electrónicamente un borrador de albarán de circulación en el que figurarán la clase y cantidad de productos a suministrar mediante este procedimiento de ventas en ruta, la identificación del expedidor y del medio de transporte, así como la fecha de inicio de la circulación y lo enviará a la Agencia Estatal de Administración Tributaria para su validación por ésta con una antelación no superior a los siete días naturales anteriores a la fecha de inicio de la circulación indicada en el albarán de circulación. Deberá presentarse a través de un sistema informatizado que cumpla las instrucciones contenidas en las disposiciones complementarias y de desarrollo de este Reglamento que se establezcan.
+
+La Agencia Estatal de Administración Tributaria verificará por vía electrónica los datos del borrador del albarán de circulación. Si dichos datos no son válidos, informará de ello, sin demora, al expedidor. Si dichos datos son válidos, la Agencia Estatal de Administración Tributaria asignará al albarán de circulación un código de referencia electrónico y lo comunicará al expedidor.
+
+La circulación se amparará con un ejemplar del albarán de circulación validado con el código de referencia electrónico en el que se haga constar que se trata de productos salidos para su suministro por el procedimiento de ventas en ruta.
+
+c) En el momento de la entrega de producto a cada destinatario se emitirá una nota de entrega ajustada al modelo que se apruebe por el Ministro de Hacienda, con cargo al albarán de circulación, acreditativa de la operación. El ejemplar de la nota de entrega que queda en poder del expedidor de la misma deberá ser firmado por el destinatario. Si el vehículo que realiza la venta en ruta expide las notas de entrega por vía electrónica, los destinatarios podrán firmar la nota de entrega también por vía electrónica.
+
+De no hallarse presente en el momento de la entrega, podrá firmar la misma cualquier persona que se encuentre en dicho lugar o domicilio y haga constar su identidad, así como los empleados de la comunidad de vecinos o de propietarios donde radique el lugar señalado para la entrega del producto, sin perjuicio de lo dispuesto en el apartado 4 del artículo 106 en cuanto a la acreditación de la condición de consumidor final.
+
+d) El retorno al establecimiento de origen debe producirse dentro del segundo día hábil siguiente al de la salida.
+
+e) Tan pronto como se retorne al establecimiento de origen y, en todo caso, dentro de los cinco días hábiles siguientes a la terminación de la circulación, salvo en los casos previamente justificados ante la oficina gestora en los que dicho plazo puede ser ampliado, el expedidor deberá comunicar a la Agencia Estatal de Administración Tributaria, por vía electrónica y conforme al procedimiento aprobado por el Ministro de Hacienda, la información contenida en las notas de entrega con cargo al albarán de circulación.
+
+Cuando se trate de productos por los que se ha devengado el impuesto con aplicación de un tipo impositivo ordinario, la información a suministrar a la Agencia Estatal de Administración Tributaria se referirá únicamente a la cantidad global de producto entregado con aplicación de dicho tipo impositivo.
+
+f) En el libro de existencias se deberá efectuar un asiento negativo de data correspondiente a los productos reintroducidos en la fábrica, depósito fiscal o almacén fiscal que se justificará con el albarán de circulación expedido a la salida, en el que consten las entregas efectuadas, así como con los duplicados de las notas de entrega.
+
+3\. La oficina gestora podrá autorizar el procedimiento de ventas en ruta para la realización de avituallamientos de carburantes a aeronaves y embarcaciones con aplicación de la exención establecida en las letras a) y b) del apartado 2 del artículo 51 de la Ley. En estos casos, se seguirá el procedimiento expuesto en el apartado 2 de este artículo.
+
+En el supuesto de que para realizar los avituallamientos se utilice una embarcación, el retorno al establecimiento de origen debe producirse dentro del plazo de cinco días naturales, contados a partir del inicio de la circulación.
+
+4\. No obstante lo dispuesto en los apartados anteriores, el expedidor podrá dar inicio a la circulación de productos sujetos a impuestos especiales en caso de indisponibilidad del sistema informático para presentar electrónicamente el borrador de albarán de circulación a condición de que:
+
+a) Los productos vayan acompañados de un albarán que contenga los mismos datos que el borrador de albarán que se debiera haber presentado electrónicamente conforme a la letra b) del apartado 2 de este artículo.
+
+b) Comunique la indisponibilidad a la oficina gestora correspondiente al expedidor, antes del inicio de la circulación, por cualquier medio que permita tener constancia de la recepción de la comunicación, e informe de los motivos y de la duración prevista, si se conoce, de dicha indisponibilidad. No obstante, previa autorización de la oficina gestora, se podrá otorgar el mismo valor que a la comunicación a la tenencia por el expedidor de registros automatizados y auditables que prueben la imposibilidad de haber podido comunicar el borrador del albarán de circulación.
+
+En cuanto el sistema vuelva a estar disponible, y a más tardar al siguiente día hábil tras el restablecimiento de la conexión, el expedidor cumplimentará electrónicamente el borrador de albarán de circulación de acuerdo con lo dispuesto en el apartado 2 de este artículo y en las disposiciones complementarias y de desarrollo que se establezcan*.*
+
+5\. En el caso de ventas en ruta de productos objeto del Impuesto sobre Hidrocarburos desde almacenes fiscales, la oficina gestora correspondiente al almacén fiscal podrá autorizar los suministros directos desde fábrica o depósito fiscal con cumplimiento de los siguientes requisitos:
+
+a) La fábrica o el depósito fiscal emitirá un documento administrativo electrónico en el que figure como destinatario el almacén fiscal desde el que se van a realizar las entregas de productos.
+
+b) El vehículo que recepcione los productos deberá estar dotado de los medios técnicos necesarios para la emisión del certificado de recepción y la transmisión del documento administrativo electrónico a la contabilidad de existencias del almacén fiscal.
+
+c) Una vez realizada la transmisión y con la justificación informática del asiento de cargo en la contabilidad del almacén fiscal, podrán realizarse los suministros directos por medio de las notas de entrega emitidas por el sistema informático del vehículo.
+
+d) El procedimiento de ventas en ruta se desarrollará con cumplimiento del resto de las condiciones señaladas en los apartados anteriores.
+
+e) La realización de suministros directos sin autorización de la oficina gestora será causa de revocación del CAE del establecimiento expedidor.
+
+> Se modifica por el art. 4.11 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Téngase en cuenta que esta modificación será de obligado cumplimiento a partir del 1 de octubre de 2019 según establece la disposición final 3 del Real Decreto 399/2021, de 8 de junio. [Ref. BOE-A-2021-9558](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9558)
+
+> Se modifica, efectos desde el 1 de enero de 2019, por el art. 3.6 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Téngase en cuenta que esta modificación se deroga, con efectos de 1 de enero de 2019, por la disposición derogatoria única.3 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica el párrafo segundo del apartado 3 por el art. 1.8 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifican los apartados 3 y 4 por el art. único.23 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.23 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 3 por el art. 1.4 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+> Se modifica el apartado 1 por el art. único.9 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+###### Artículo 28. Validez de los documentos de circulación.
+
+1\. Se consideran datos esenciales de los documentos de circulación los siguientes:
+
+1.º Los datos necesarios para la correcta identificación del expedidor, destinatario, producto y cantidad, así como el número del documento de circulación.
+
+2.º En el caso de precintas de circulación, la numeración o capacidad de las mismas y su correspondencia con los recipientes sobre los que estén colocadas.
+
+3.º Los datos relativos a la fecha del inicio de la expedición.
+
+2\. Lo dispuesto en los apartados 3, 4 y 5 siguientes no será de aplicación respecto de la carencia del código administrativo de referencia a la que se refiere el apartado 2.b) del artículo 19 de la Ley, que no será susceptible de ser subsanada.
+
+3\. La omisión o inadecuación con la realidad, por cualquier causa, de datos esenciales, puesta de manifiesto una vez que los productos han llegado a destino, deberá ser rectificada por el destinatario, siguiendo el procedimiento establecido al efecto. Cuando no exista tal procedimiento, la corrección deberá hacerse de manera que quede constancia del dato corregido y la motivación de la corrección, mediante comunicación por cualquier medio que permita dejar constancia de su remisión. La comunicación se realizará a la oficina gestora correspondiente al destinatario.
+
+4\. La omisión o inadecuación con la realidad, por cualquier causa, de datos que deban contener los documentos de circulación, incluso durante el transporte, que no tengan carácter esencial, deberá ser corregida y comunicada a las autoridades competentes por el expedidor o por su cuenta o, si los productos ya hubieran llegado a destino, por el destinatario.
+
+Cuando la normativa establezca un procedimiento específico para realizar dicha corrección o comunicación, únicamente se considerarán válidas las correcciones y comunicaciones efectuadas con arreglo a dicho procedimiento. Cuando no exista tal procedimiento, la corrección deberá hacerse de manera que quede constancia del dato corregido y la motivación de la corrección, mediante comunicación por cualquier medio que permita dejar constancia de su remisión. La comunicación se realizará a la oficina gestora correspondiente al destinatario si los productos ya han llegado a destino, o a la oficina gestora correspondientes al expedidor, en caso contrario.
+
+5\. a) La ausencia de subsanación conforme a lo dispuesto en el apartado 3 podrá dar lugar a la aplicación de la sanción a que se refiere el artículo 19.5 de la Ley.
+
+b) La ausencia de subsanación conforme a la dispuesto en el apartado 4 podrá dar lugar a la aplicación de la sanción a que se refiere el artículo 201.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+> Se modifican los apartados 2 y 5 por el art. 3.7 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica el apartado 1 y se deroga el apartado 2 por el art. 1.4 y 5 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica el apartado 1 por el art. 1.9 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica por el art. único.24 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.24 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 29. Expedición de productos que circulan al amparo de un documento administrativo electrónico.
+
+A) Circulación intracomunitaria en régimen suspensivo.
+
+1\. La circulación de productos sujetos a impuestos especiales en régimen suspensivo al amparo de un documento administrativo electrónico se realizará en los siguientes términos:
+
+1.° El expedidor presentará a la Agencia Estatal de Administración Tributaria un borrador de documento administrativo electrónico a través del sistema informatizado establecido en la Decisión (UE) 2020/263, EMCS, con una antelación no superior a los siete días anteriores a la fecha indicada en el documento como fecha de expedición y según las instrucciones contenidas en el Reglamento (CE) n.° 684/2009 y las normas complementarias que se establezcan.
+
+2.° La Agencia Estatal de Administración Tributaria verificará por vía electrónica los datos consignados en el borrador de documento administrativo electrónico. Si dichos datos no son válidos, informará de ello sin demora al expedidor. Si dichos datos son válidos, la Agencia Estatal de Administración Tributaria asignará al documento un ARC y lo comunicará al expedidor.
+
+3.° En los supuestos a que se refieren las letras a), b), d), f) y g) del apartado 3 del artículo 16 de la Ley, la Agencia Estatal de Administración Tributaria enviará sin demora el documento administrativo electrónico a las autoridades competentes del Estado miembro de destino, las cuales lo remitirán al destinatario si este es un depositario autorizado o un destinatario registrado.
+
+Cuando los productos sujetos a impuestos especiales estén destinados a un depositario autorizado en el Estado miembro de expedición, la Agencia Estatal de Administración Tributaria remitirá directamente a dicho depositario el documento administrativo electrónico.
+
+4.° En el supuesto a que se refieren las letras c) y e) del apartado 3 del artículo 16 de la Ley, cuando la aduana de salida esté situada fuera del ámbito territorial interno, la Agencia Estatal de Administración Tributaria enviará el documento administrativo electrónico a las autoridades competentes del Estado miembro en el que se presente la declaración de exportación en virtud del artículo 221, apartado 2, del Reglamento de Ejecución (UE) 2015/2447 (''Estado miembro de exportación''), si este difiere del Estado miembro de expedición.
+
+El declarante deberá facilitar a las autoridades competentes del Estado miembro de exportación el código administrativo de referencia único que designa a los productos sujetos a impuestos especiales a que se refiere la declaración de exportación.
+
+Las autoridades competentes del Estado miembro de exportación verificarán, antes de que se proceda al levante para la exportación de los productos, si los datos que figuran en el documento administrativo electrónico se corresponden con los que figuran en la declaración de exportación.
+
+Cuando existan incoherencias entre el documento administrativo electrónico y la declaración de exportación, las autoridades competentes del Estado miembro de exportación notificarán este extremo a la Agencia Estatal de Administración Tributaria utilizando el sistema informatizado.
+
+Cuando los productos ya no vayan a salir del territorio aduanero de la Unión, las autoridades competentes del Estado miembro de exportación notificarán este extremo a la Agencia Estatal de Administración Tributaria por medio del sistema informatizado, tan pronto como tengan conocimiento de que los productos ya no vayan a salir del territorio aduanero de la Unión. La Agencia Estatal de Administración Tributaria remitirá sin demora la notificación al expedidor. A la recepción de la notificación, el expedidor anulará el documento administrativo electrónico conforme a lo dispuesto en el apartado 6.° de este artículo, o cambiará el destino de los productos, conforme a lo dispuesto en el apartado 7.°, según convenga.
+
+5.° El expedidor entregará a la persona que acompañe los productos sujetos a impuestos especiales, o cuando ninguna persona los acompañe, al transportista, el código administrativo de referencia único. La persona que acompañe los productos o el transportista entregará dicho código siempre que lo requieran las autoridades competentes durante toda la circulación en régimen suspensivo de impuestos especiales. No obstante, en su caso, las autoridades competentes podrán solicitar una copia impresa del documento administrativo electrónico o cualquier otro documento comercial que contenga de forma claramente identificable el código administrativo de referencia único.
+
+6.° El expedidor podrá anular el documento administrativo electrónico en tanto no haya comenzado la circulación. Se considera que la circulación ha comenzado, en los casos contemplados en el apartado 3 del artículo 16 de la Ley, letras a), b), c), d), e) y g), en el momento en que los productos abandonan el establecimiento de expedición y, en el caso de la letra f), en el momento de su despacho de aduana.
+
+7.° Durante la circulación en régimen suspensivo, el expedidor podrá modificar el destinatario o destino a través del EMCS, a fin de indicar uno nuevo, que habrá de ser uno de los contemplados en las letras a), b), c), e), o, en su caso, g) del apartado 3 del artículo 16 de la Ley. El procedimiento de modificación se realizará de acuerdo con el Reglamento (CE) n.° 684/2009 y las disposiciones complementarias que se establezcan. A tal efecto, el expedidor presentará, utilizando el sistema informatizado, un borrador de documento electrónico de cambio de destino a las autoridades competentes del Estado miembro de expedición.
+
+8.° En caso de circulación de productos objeto del Impuesto sobre Hidrocarburos por vía marítima o vías de navegación interior, cuyo destinatario no se conozca con exactitud en el momento en el que el expedidor presente el borrador de documento administrativo electrónico, la oficina gestora podrá autorizar al expedidor, bien para una única expedición o bien para el conjunto de las que realice en un plazo determinado, la emisión de dicho documento sin los datos relativos al destinatario. El expedidor comunicará los citados datos relativos al destinatario a la oficina gestora tan pronto como los conozca y, a más tardar, al final de la circulación, de acuerdo con lo dispuesto en el apartado 7.º anterior. Lo dispuesto en este apartado no se aplicará a la circulación a la que se refieren las letras c) y e) del apartado 3 del artículo 16 de la Ley.
+
+2\. La Agencia Estatal de Administración Tributaria pondrá a disposición del expedidor la notificación de recepción que reciba de las autoridades competentes del Estado miembro de destino en relación con expediciones iniciadas en el ámbito territorial interno.
+
+B) Circulación con origen y destino en el ámbito territorial interno en régimen suspensivo o con aplicación de una exención o de un tipo impositivo reducido.
+
+1\. En los supuestos de circulación en régimen suspensivo, los depositarios autorizados y expedidores registrados estarán obligados a formalizar un borrador de documento administrativo electrónico por cada expedición, cumplimentado según las instrucciones contenidas en este Reglamento y las normas complementarias que se establezcan, que será tramitado como sigue:
+
+a. El expedidor presentará a la Agencia Estatal de Administración Tributaria un borrador de documento administrativo electrónico a través del EMCS con una antelación no superior a los siete días anteriores a la fecha indicada en el documento como fecha de expedición.
+
+b. La Agencia Estatal de Administración Tributaria verificará por vía electrónica los datos del borrador de documento administrativo electrónico. Si dichos datos no son válidos, informará de ello sin demora al expedidor. Si dichos datos son válidos, la Agencia Estatal de Administración Tributaria asignará al documento un ARC y lo comunicará al expedidor.
+
+c. El expedidor pondrá a disposición de la persona que acompañe los productos sujetos a impuestos especiales una copia del documento administrativo electrónico o cualquier otro documento comercial que identifique el transporte y que mencione de forma claramente identificable el ARO. Dicho documento deberá poderse presentar siempre que lo requieran las autoridades competentes durante toda la circulación en régimen suspensivo de impuestos especiales.
+
+d. El expedidor podrá anular el documento administrativo electrónico en tanto no haya comenzado la circulación. Se considera que la circulación ha comenzado, en los casos contemplados en el apartado 3 del artículo 16 de la Ley, letras a), b), c), d), e) y g), en el momento en que los productos abandonan el establecimiento de expedición y, en el caso de la letra f), en el momento de su despacho de aduana.
+
+e. Durante la circulación en régimen suspensivo, el expedidor podrá modificar el destino o el destinatario a través del EMCS, a fin de indicar uno nuevo, que habrá de ser un destino autorizado. El procedimiento de modificación se realizará de acuerdo con las disposiciones complementarias que se establezcan.
+
+f. En caso de circulación de productos objeto del Impuesto sobre Hidrocarburos por vía marítima o vías de navegación interior, cuyo destinatario no se conozca con exactitud en el momento en el que el expedidor presente el borrador de documento administrativo electrónico, la oficina gestora podrá autorizar al expedidor, bien para una única expedición o bien para el conjunto de las que realice en un plazo determinado, la emisión de dicho documento sin los datos relativos al destinatario. El expedidor comunicará los citados datos relativos al destinatario a la oficina gestora tan pronto como los conozca y, a más tardar, al final de la circulación, de acuerdo con lo dispuesto en el apartado e) anterior.
+
+2\. En los supuestos de circulación de productos objeto de los impuestos especiales de fabricación con impuesto devengado con aplicación de una exención o de un tipo impositivo reducido, la formalización del documento administrativo electrónico por el expedidor se realizará de conformidad con el artículo 29.B)1.
+
+No obstante, cuando el destinatario no esté obligado a inscribirse en el registro territorial de la oficina gestora, la circulación se realizará de acuerdo con el siguiente procedimiento:
+
+a. El expedidor cumplimentará el borrador de documento administrativo electrónico de conformidad con lo dispuesto en el artículo 29.B).1, lo enviará a la Agencia Estatal de Administración Tributaria a través del sistema informático, y dispondrá de tres ejemplares del documento administrativo electrónico, una vez el borrador haya sido validado por esta.
+
+b. Uno de los ejemplares deberá ser conservado en poder del expedidor y los otros dos acompañarán a los productos durante la circulación hasta su destino.
+
+c. De los dos ejemplares que deberán acompañar a los productos durante la circulación, uno será diligenciado por el destinatario en el momento de la recepción de los productos en la forma y plazos indicados en el artículo 31.B).3 de este Reglamento, y será devuelto al expedidor en el plazo máximo de cinco días a contar desde la recepción. El expedidor comunicará a la Agencia Estatal de Administración Tributaria la falta de recepción de dicho ejemplar a través de un sistema informático que cumpla las instrucciones que se establezcan en las disposiciones de desarrollo de este Reglamento, en un plazo máximo de un mes desde la fecha de envío de los productos.
+
+El otro ejemplar deberá ser también diligenciado y permanecerá en poder del destinatario.
+
+d. La normativa de desarrollo regulará el tratamiento de las incidencias que se hayan podido producir durante la circulación o con motivo de la recepción de los productos.
+
+> Se modifica por el art. 41.22 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado B).2.a y c por el art. 4.12 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica el apartado B).1.c por el art. 3.8 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica por el art. único.25 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Téngase en cuenta para la aplicación del apartado B) la disposición transitoria 1 del Real Decreto 1715/2012. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.25 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 1 por el art. 1.5 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+> Se modifica el apartado 3 por el art. único.6 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 30. Procedimiento a seguir al inicio de la circulación al amparo de un documento administrativo electrónico, en caso de indisponibilidad del EMCS.
+
+1\. No obstante lo dispuesto en el artículo 29, el expedidor podrá dar inicio a la circulación de productos sujetos a impuestos especiales en caso de indisponibilidad del EMCS a condición de que:
+
+a. Los productos vayan acompañados de un documento administrativo de emergencia que contenga los mismos datos que el borrador de documento administrativo electrónico previsto en el artículo 29.
+
+b. Comunique la indisponibilidad a la oficina gestora correspondiente al expedidor, antes del inicio de la circulación, por cualquier medio que permita tener constancia de la recepción de la comunicación, e informar de los motivos y de la duración prevista, si se conoce, de dicha indisponibilidad. No obstante, a estos efectos, en la circulación con origen y destino el ámbito territorial interno, previa autorización por la oficina gestora, se podrá otorgar el mismo valor que a la comunicación a la tenencia por el expedidor de registros automatizados y auditables que prueben la imposibilidad de haber podido comunicar el borrador de documento administrativo electrónico.
+
+2\. En cuanto el sistema vuelva a estar disponible, y a más tardar al siguiente día hábil tras el restablecimiento de la conexión, el expedidor presentará el borrador de documento administrativo electrónico de acuerdo con lo dispuesto en el artículo 29, con indicación de modo diferido, tal como se establece en el Anexo 2 del Reglamento (CE) n.º 684/2009 y en las disposiciones complementarias y de desarrollo que se establezcan.
+
+3\. El borrador de documento administrativo electrónico deberá contener como número de referencia local el número asignado al documento de acompañamiento de emergencia, de tal forma que la correlación documento en soporte papel-documento administrativo electrónico sea inequívocamente clara.
+
+4\. El expedidor deberá conservar el documento de acompañamiento de emergencia durante cuatro años.
+
+5\. En caso de indisponibilidad del sistema informatizado, el expedidor podrá cambiar el destino o el destinatario de los productos, tal como se prevé en el artículo 29, y comunicará dicha información a la Agencia Estatal de Administración Tributaria a través de cualquier medio que permita tener constancia de la recepción de la comunicación. A tal fin, el expedidor informará a la Agencia Estatal de Administración Tributaria antes de que tenga lugar el cambio de destino. Los apartados 2 y 4 de este artículo se aplicarán *mutatis mutandis.*
+
+6\. En caso de que el sistema informatizado no esté disponible en los supuestos mencionados en las letras c) y e) del apartado 3 del artículo 16 de la Ley, el expedidor facilitará al declarante una copia del documento de acompañamiento de emergencia a que se refiere la letra a) del apartado 1 de este artículo.
+
+El declarante facilitará a las autoridades competentes del Estado miembro de exportación una copia de dicho documento de acompañamiento de emergencia cuyo contenido se corresponda con los productos sujetos a impuestos especiales declarados en la notificación de exportación, o el identificador único del documento de acompañamiento de emergencia.
+
+7\. La persona titular del Ministerio de Hacienda y Función Pública podrá establecer un modelo de documento de acompañamiento de emergencia para los casos de indisponibilidad del EMCS.
+
+> Se modifican los apartados 4 y 5 y se añaden el 6 y 7 por el art. 41.23 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica la letra b) del apartado 1 por el art. 1.10 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica por el art. único.26 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.26 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Redactado el apartado A).2.b).4º conforme a la corrección de errores publicada en BOE núm. 67, de 18 de marzo de 2010. [Ref. BOE-A-2010-4506](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4506)
+
+###### Artículo 30 bis. Procedimiento a seguir al inicio de la circulación intracomunitaria en régimen suspensivo en caso de indisponibilidad del EMCS.
+
+**(Derogado)**
+
+> Se deroga por el art. único.27 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se añade por el art. único.27 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 31. Recepción de productos que circulan al amparo de un documento administrativo electrónico.
+
+A) Circulación intracomunitaria en régimen suspensivo.
+
+1\. En los supuestos contemplados en las letras a), b), d) y g) del apartado 3 del artículo 16 de la Ley, los receptores de productos objeto de los impuestos especiales de fabricación que hayan circulado en régimen suspensivo, procedentes del ámbito territorial de la Unión no interno, estarán obligados a presentar, ante la Agencia Estatal de Administración Tributaria, una notificación de recepción que cumpla los siguientes requisitos:
+
+a. Deberá presentarse tan pronto como se reciban los productos y, en todo caso, dentro de los cinco días hábiles siguientes a la terminación de la circulación. Este plazo podrá ampliarse exclusivamente en los casos en que, previamente justificados, sean autorizados por la oficina gestora.
+
+b. Deberá presentarse a través de un sistema informatizado que cumpla las instrucciones contenidas en el Reglamento (CE) n.º 684/2009 y en las disposiciones complementarias que se establezcan.
+
+2\. Cuando se trate de la recepción de productos que deban llevar incorporados trazadores, marcadores o desnaturalizantes, recibidos por un destinatario registrado, tales productos deberán permanecer en los lugares de recepción al menos durante el primer día hábil siguiente a la formalización de la notificación de recepción electrónica.
+
+3\. La oficina gestora correspondiente al destinatario de la expedición en una circulación intracomunitaria podrá autorizar la entrega de los productos en un lugar de entrega directa distinto de la fábrica, depósito fiscal o depósito de recepción. Esta autorización, en todo caso, estará sujeta al cumplimiento de los siguientes requisitos:
+
+a. El destinatario de la expedición, con carácter previo al inicio de la misma, lo solicitará en la oficina gestora correspondiente a su establecimiento indicando:
+
+1.º Su nombre y apellidos o razón social y número de identificación fiscal y, en su caso, de la persona que lo represente, así como del titular del lugar de entrega directa.
+
+2.º Dirección, localidad y código postal del lugar exacto de entrega directa.
+
+b. El documento administrativo electrónico solo podrá amparar un lugar de entrega directa.
+
+c. El destinatario anotará en su contabilidad la recepción de los productos.
+
+d. El destinatario cumplimentará la notificación de recepción electrónica.
+
+e. En caso de que la oficina gestora competente para autorizar la entrega directa sea distinta de la oficina gestora en cuya demarcación está situado el lugar de entrega directa, aquélla pondrá en conocimiento de ésta la autorización concedida.
+
+f. Los productos deberán permanecer en el lugar de entrega directa, a disposición de la Administración tributaria, para que realice las comprobaciones que estime necesarias, al menos durante el primer día hábil siguiente al de la formalización de la notificación de recepción electrónica o al de la presentación del documento en soporte papel en la oficina gestora.
+
+4\. En los supuestos contemplados en el apartado 1 anterior, el receptor deberá presentar la notificación de recepción a la Agencia Estatal de Administración Tributaria, que verificará por vía electrónica los datos en ella incluidos y, si dichos datos no son válidos, informará de ello sin demora al destinatario. Si dichos datos son válidos, confirmará al destinatario el registro de la notificación de recepción presentada y la enviará a las autoridades competentes del Estado miembro de expedición.
+
+5\. No obstante lo dispuesto en los apartados anteriores, la oficina gestora podrá establecer que la notificación de recepción por los destinatarios previstos en las letras a), b), c), d) y g) del artículo 9 de la Ley se realice, por todos o por alguno de tales destinatarios, a través de procedimientos distintos de la notificación de recepción electrónica.
+
+6\. Los destinatarios registrados que reciban productos sujetos a impuestos especiales de manera ocasional, para poder recibir productos en régimen suspensivo procedentes del ámbito territorial de la Unión no interno, deberán obtener previamente una autorización de recepción, conforme a las normas siguientes:
+
+a) Deberán presentar en la oficina gestora correspondiente al lugar de recepción de los productos, una solicitud, por cada operación, sujeta al modelo que se establezca por la persona titular del Ministerio de Hacienda y Función Pública, en la que harán constar la clase y cantidad de productos que se desea recibir, el lugar de recepción, el nombre, domicilio y números de identificación fiscal, a efectos del IVA y, en su caso, de los impuestos especiales, del expedidor y del destinatario. A la solicitud se deberá acompañar la documentación necesaria para acreditar su condición empresarial y, en su caso, el cumplimiento de las obligaciones establecidas por disposiciones específicas. En una solicitud no podrán incluirse más que productos expedidos por un solo proveedor y comprendidos en el ámbito objetivo del impuesto sobre Hidrocarburos, del Impuesto sobre las Labores del Tabaco o de los impuestos especiales sobre el alcohol y las bebidas alcohólicas.
+
+b) Junto con la solicitud a que se refiere el apartado anterior, deberá prestarse garantía por un importe equivalente a las cuotas correspondientes a los productos que se pretende recibir. Esta garantía responde del pago de los impuestos que se devenguen.
+
+No obstante, no será exigible la prestación de la garantía cuando se haya prestado la garantía a que se refiere el apartado 2 del artículo 3 de este Reglamento.
+
+c) La oficina gestora, una vez comprobado, en su caso, que la garantía que se presta cubre el importe a que se refiere el apartado anterior, expedirá una autorización de recepción, sujeta al modelo que se apruebe por la persona titular del Ministerio de Hacienda y Función Pública, que pondrá a disposición del solicitante.
+
+d) La autorización de recepción deberá contener la referencia completa de la oficina gestora que la expide, la clase y cantidad de los productos cubiertos por la garantía prestada, así como la cuantía y fecha de aceptación de la garantía. Esta autorización tendrá una validez de seis meses, a partir de la fecha de su expedición, pudiendo prorrogarse, a petición del interesado, por un período máximo de tres meses. Transcurrido el período de validez y, en su caso, el de la prórroga, sin haberse cancelado la garantía mediante alguno de los procedimientos establecidos en este artículo, se procederá a ejecutar la garantía prestada.
+
+e) El destinatario conservará los productos recibidos en el lugar de entrega que figura en el documento administrativo electrónico o en el documento de acompañamiento de emergencia, al menos durante el primer día hábil siguiente al de la presentación de la notificación de recepción, a disposición de la administración tributaria, para que por esta puedan realizarse las comprobaciones que estime necesarias, teniendo la obligación de presentar los productos en cuanto sea requerido para ello.
+
+f) Las cuotas devengadas deberán ingresarse, mediante autoliquidación, en el lugar, forma, plazos e impresos que establezca la persona titular del Ministerio de Hacienda y Función Pública.
+
+No obstante lo establecido en el párrafo anterior, los productos recibidos podrán destinarse, en el propio lugar de entrega, a alguno de los fines que originen el derecho a la exención de los impuestos especiales de fabricación, siempre que se cumplan las condiciones establecidas en este Reglamento en relación con la recepción de productos con exención del impuesto.
+
+g) La garantía prestada se cancelará con la documentación acreditativa de haber efectuado el pago del impuesto.
+
+h) También se procederá a la cancelación de la garantía cuando se comunique a la oficina gestora haber desistido de realizar la operación proyectada devolviendo el ejemplar de la autorización de recepción a que se refiere la letra c) de este apartado 6, en el que constará la declaración del interesado, de que los productos incluidos en la autorización no se han recibido. En el supuesto de que la autorización de recepción hubiera sido expedida por medios telemáticos bastará con la comunicación del desistimiento a la oficina gestora, haciendo constar en la comunicación una declaración expresa del interesado de que los productos incluidos en la autorización no se han recibido.
+
+i) En los supuestos a que se refiere el párrafo segundo de la letra f) anterior, se sustituirá, para la cancelación de la garantía, el documento acreditativo de haber pagado el impuesto por una fotocopia compulsada del documento contable en que conste el cargo de los productos recibidos.
+
+B) Circulación con origen y destino en el ámbito territorial interno en régimen suspensivo o con aplicación de una exención o de un tipo impositivo reducido.
+
+1\. Los receptores de productos objeto de los impuestos especiales de fabricación que hayan circulado con origen y destino en el ámbito territorial interno al amparo de un documento administrativo electrónico estarán obligados a presentar, ante la Agencia Estatal de Administración Tributaria, una notificación electrónica de recepción que cumpla los siguientes requisitos:
+
+a. Deberá presentarse tan pronto como se reciban los productos y, en todo caso, dentro de los cinco días hábiles siguientes a la terminación de la circulación. Este plazo podrá ampliarse exclusivamente en los casos en que, previamente justificados, sean autorizados por la oficina gestora.
+
+b. Deberá presentarse a través de un sistema informatizado que cumpla las instrucciones contenidas en las disposiciones complementarias y de desarrollo de este Reglamento que se establezcan.
+
+2\. La Agencia Estatal de Administración Tributaria verificará por vía electrónica los datos en ella incluidos y, si dichos datos no son válidos, informará de ello sin demora al destinatario. Si dichos datos son válidos, confirmará al destinatario el registro de la notificación de recepción presentada y la pondrá a disposición del expedidor.
+
+3\. Sin perjuicio de lo dispuesto en los apartados 1 y 2 anteriores, en los supuestos de envío de productos por los que se haya aplicado una exención o un tipo impositivo reducido a destinatarios no inscritos en el registro territorial de la oficina gestora, el destinatario deberá devolver al expedidor uno de los ejemplares impresos del documento administrativo electrónico a que se refiere el artículo 29.B).2.b., con expresión de las incidencias que, en su caso, puedan haberse producido en el curso de la circulación de los productos y con el resultado de la recepción. Esta copia, así cumplimentada, será devuelta al expedidor en el plazo de cinco días a partir de la recepción.
+
+> Se modifica la letra A), apartados 1, primer párrafo, 2, 5 y 6 por el art. 41.24 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica por el art. único.28 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Téngase en cuenta para la aplicación del apartado B) la disposición transitoria 1 del Real Decreto 1715/2012. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700)
+
+> Se modifica por el art. único.28 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 32. Procedimiento de recepción de productos que circulan al amparo de un documento administrativo electrónico, en caso de indisponibilidad del EMCS.
+
+Si al finalizar el plazo de cinco días hábiles para la presentación de la notificación de recepción el EMCS se encuentra indisponible de acuerdo con lo dispuesto en el apartado 2 del artículo 30, o si la circulación ha tenido lugar al amparo de un documento de acompañamiento de emergencia y todavía no se halla en el EMCS el documento administrativo electrónico correspondiente al documento de acompañamiento de emergencia, el destinatario deberá ajustarse al siguiente procedimiento:
+
+1\. Comunicará, a más tardar el primer día hábil siguiente a la finalización del plazo establecido en el artículo 31 A) 1.a) y B) 1.a) de este Reglamento, la indisponibilidad a la oficina gestora correspondiente al lugar del establecimiento o, en su caso, al de recepción de los productos por el destinatario registrado ocasional por cualquier medio que permita tener constancia de la recepción de la comunicación, e informar de los motivos y de la duración prevista, si se conoce, de la indisponibilidad.
+
+2\. A la vista de la información proporcionada por el destinatario, la oficina gestora determinará si el destinatario debe presentar la notificación de recepción en soporte papel o si, en casos debidamente justificados a satisfacción de la oficina gestora, prorroga el plazo para que el destinatario presente la notificación electrónica de recepción.
+
+3\. La falta de respuesta de la oficina gestora en los tres días hábiles posteriores a la recepción de la comunicación del apartado 1) se entenderá como una prórroga adicional de cinco días hábiles para la presentación de la notificación electrónica de recepción.
+
+4\. Recibida en la oficina gestora la notificación de recepción en soporte papel, por cualquier medio del que quede constancia, se comunicará a las autoridades competentes del Estado miembro de expedición, en los supuestos de circulación intracomunitaria.
+
+5\. En cuanto el sistema vuelva a estar disponible, y a más tardar al siguiente día hábil tras el restablecimiento de la conexión, el destinatario presentará la notificación de recepción de acuerdo con lo dispuesto en el artículo 31. A) o B), según proceda, y con cumplimiento de lo dispuesto en el Reglamento (CE) n.º 684/2009 y las disposiciones complementarias y de desarrollo que se establezcan.
+
+6\. La Agencia Estatal de Administración Tributaria someterá la notificación de recepción a la validación electrónica establecida con carácter general.
+
+7\. La validación de la notificación de recepción sustituirá a todos los efectos a la notificación de recepción presentada en soporte papel.
+
+8\. No obstante lo dispuesto en el apartado 7, el expedidor conservará la notificación de recepción en soporte papel o en soporte informático durante un periodo de cuatro años.
+
+9\. En los supuestos de circulación interna con documento de acompañamiento de emergencia de productos a los que se ha aplicado un supuesto de exención o un tipo reducido a un destinatario no inscrito en el registro de la oficina gestora, la recepción por el destinatario será formalizada en el propio documento de emergencia. Una copia del mismo será remitida por el receptor al expedidor en el plazo de cinco días a partir de la recepción. El expedidor deberá comunicar a la oficina gestora la falta de recepción de dicho ejemplar en un plazo máximo de un mes a contar desde la fecha de envío de los productos.
+
+> Se modifica por el art. único.29 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.29 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 4 por el art. 1.6 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+###### Artículo 32 bis. Procedimiento de recepción en la circulación intracomunitaria en caso de indisponibilidad del sistema informático.
+
+**(Derogado)**
+
+> Se deroga por el art. único.30 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se añade por el art. único.30 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 33. Ventas a distancia.
+
+Las reglas generales de aplicación a las autorizaciones de recepción para productos objeto de los impuestos especiales de fabricación expedidos desde el ámbito territorial de la Unión no interno, fuera del régimen suspensivo, con destino al ámbito territorial interno, por el procedimiento de ventas a distancia es el siguiente:
+
+a) Los representantes fiscales de los expedidores deberán presentar en la oficina gestora en cuyo registro territorial estén inscritos una solicitud, sujeta al modelo que se establezca por la persona titular del Ministerio de Hacienda y Función Pública, en la que harán constar la clase y cantidad de productos que se desea recibir. En una solicitud no podrán incluirse más que productos expedidos por un solo expedidor y comprendidos en el ámbito objetivo del Impuesto sobre Hidrocarburos o del Impuesto sobre las Labores del Tabaco o de los impuestos sobre el alcohol y las bebidas alcohólicas. Se deberá respetar, en todo caso, si las hubiera, las condiciones previstas en la normativa sectorial en materia de distribución.
+
+La solicitud de autorización de recepción de ventas a distancia podrá referirse a una operación o a un conjunto de operaciones por cada periodo de liquidación.
+
+En la solicitud de autorización de recepción referida a una sola operación deberá hacerse constar el nombre y el número de identificación fiscal, tanto a efectos del Impuesto sobre el Valor Añadido como de los impuestos especiales, del expedidor y de su representante fiscal, así como el nombre y número de identificación fiscal del adquirente.
+
+En la solicitud de autorización de recepción referida a varias operaciones deberá hacerse constar el nombre y el número de identificación fiscal, tanto a efectos del Impuesto sobre el Valor Añadido como de los impuestos especiales, del expedidor y de su representante fiscal. Adicionalmente, el representante fiscal deberá comunicar el nombre y número de identificación fiscal de cada uno de los adquirentes de los productos antes de la finalización del periodo de liquidación, con indicación de la clase y cantidad de productos entregados a cada uno de ellos.
+
+b) La oficina gestora, una vez comprobado que las garantías prestadas, por el representante fiscal, según lo establecido en el apartado 8 del artículo 43, cubren el importe de las cuotas correspondientes a los productos que se pretende recibir, expedirá una autorización de recepción sujeta al modelo que se apruebe por la persona titular del Ministerio de Hacienda y Función Pública, que pondrá a disposición del solicitante.
+
+c) La autorización de recepción deberá contener la referencia completa de la oficina gestora que la expide, la clase y cantidad de los productos cubiertos por la garantía prestada, así como la cuantía y fecha de aceptación de la garantía. Esta autorización tendrá una validez de seis meses, a partir de la fecha de su expedición, pudiendo prorrogarse, a petición del interesado, por un periodo máximo de tres meses. Transcurrido el periodo de validez y, en su caso, el de la prórroga, sin haberse cancelado la garantía, se procederá a la ejecución de la misma.
+
+d) Las cuotas devengadas deberán ingresarse, mediante autoliquidación, por los representantes fiscales de los expedidores, en el lugar, forma, plazos e impresos que establezca la persona titular del Ministerio de Hacienda y Función Pública.
+
+e) En el caso de que los productos a que se refiere la solicitud de autorización de recepción fueran de los que, según el apartado 1 del artículo 26, deben contenerse en recipientes o envases provistos de una precinta fiscal, tales precintas deberán ser colocadas en origen, debiendo procederse en la forma señalada en el apartado 6.b) del mencionado artículo.
+
+f) No se autorizará la recepción de productos por el procedimiento de ventas a distancia en aquellos supuestos en que a los productos les pueda ser de aplicación un supuesto de exención o un tipo impositivo reducido.
+
+g) Para la cancelación de la garantía prestada, el interesado deberá presentar en la oficina gestora el documento acreditativo de haber efectuado el pago del impuesto.
+
+h) También se procederá a la cancelación de la garantía cuando se comunique a la oficina gestora haberse desistido de realizar la operación proyectada. En el supuesto de que la autorización de recepción hubiera sido expedida por medios telemáticos bastará con la comunicación del desistimiento a la oficina gestora, haciendo constar en la comunicación una declaración expresa del interesado de que los productos incluidos en la autorización no se han recibido.
+
+> Se modifica por el art. 41.25 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado 5.b) por el art. 4.13 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifican los apartados 3.a y 5.a por el art. 3.9 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica la letra a) del apartado 5 por el art. 1.11 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica por el art. único.31 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.31 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 33 bis. Envíos garantizados.
+
+Las reglas generales de aplicación a las autorizaciones de recepción para productos objeto de los impuestos especiales de fabricación expedidos desde el ámbito territorial de la Unión no interno, fuera del régimen suspensivo, con destino al ámbito territorial interno, por el procedimiento de envíos garantizados son las siguientes:
+
+a) Los destinatarios certificados que de manera ocasional reciban productos sujetos a impuestos especiales deberán presentar en la oficina gestora correspondiente al lugar donde se pretenden recibir los productos una solicitud, sujeta al modelo que se establezca por la persona titular del Ministerio de Hacienda y Función Pública, en la que harán constar la clase y cantidad de productos que se desea recibir. En una solicitud no podrán incluirse más que productos expedidos por un solo proveedor y comprendidos en el ámbito objetivo del Impuesto sobre Hidrocarburos o del Impuesto sobre las Labores del Tabaco o de los impuestos sobre el alcohol y las bebidas alcohólicas. Se deberá respetar, en todo caso, si las hubiera, las condiciones previstas en la normativa sectorial en materia de distribución.
+
+En la solicitud de autorización deberá hacerse constar el nombre y el número de identificación fiscal, a efectos del IVA, del expedidor certificado y del destinatario certificado, así como, en su caso, el número de identificación fiscal del expedidor a efectos de los impuestos especiales. Junto con la solicitud, el destinatario certificado que reciba productos de manera ocasional deberá prestar garantía por un importe equivalente a las cuotas de impuestos especiales de fabricación que resultarían de no aplicarse ningún supuesto de exención o tipo reducido correspondientes a los productos que se pretende recibir. Esta garantía responde del pago de los impuestos especiales que se devenguen en el ámbito territorial interno.
+
+b) Los destinatarios certificados que, de manera habitual, reciban productos sujetos a impuestos especiales deberán prestar una garantía global conforme a lo establecido en el apartado 7 del artículo 43 de este Reglamento.
+
+c) La oficina gestora, una vez comprobado que las garantías prestadas cubren el importe de las cuotas correspondientes a los productos que se pretende recibir, expedirá una autorización de recepción sujeta al modelo que se apruebe por la persona titular del Ministerio de Hacienda y Función Pública, que pondrá a disposición del solicitante.
+
+d) La autorización de recepción deberá contener la referencia completa de la oficina gestora que la expide, la clase y cantidad de los productos cubiertos por la garantía prestada, así como la cuantía y fecha de aceptación de la garantía. Esta autorización tendrá una validez de seis meses, a partir de la fecha de su expedición, pudiendo prorrogarse, a petición del interesado, por un periodo máximo de tres meses. Transcurrido el periodo de validez y, en su caso, el de la prórroga, sin haberse cancelado la garantía, se procederá a la ejecución de la misma.
+
+e) Las cuotas devengadas deberán ingresarse, mediante autoliquidación, por los destinatarios certificados en el lugar, forma, plazos e impresos que establezca la persona titular del Ministerio de Hacienda y Función Pública.
+
+No obstante lo establecido en el párrafo anterior, los productos recibidos por un destinatario certificado podrán destinarse, en el propio lugar de entrega, a alguno de los fines que originen el derecho a la exención de los impuestos especiales de fabricación, siempre que se cumplan las condiciones establecidas en este Reglamento en relación con la recepción de productos con exención del impuesto.
+
+f) Para la cancelación de la garantía prestada, el interesado deberá presentar en la oficina gestora el documento acreditativo de haber efectuado el pago del impuesto.
+
+g) También se procederá a la cancelación de la garantía cuando se comunique a la oficina gestora haberse desistido de realizar la operación proyectada. En el supuesto de que la autorización de recepción hubiera sido expedida por medios telemáticos bastará con la comunicación del desistimiento a la oficina gestora, haciendo constar en la comunicación una declaración expresa del interesado de que los productos incluidos en la autorización no se han recibido.
+
+> Se añade por el art. 41.26 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+###### Artículo 33 ter. Expedición de productos que circulan al amparo de un documento administrativo electrónico simplificado.
+
+1\. Cuando vayan a circular productos sujetos a impuestos especiales en virtud del procedimiento de envíos garantizados, el expedidor certificado presentará, valiéndose del sistema informatizado, un borrador de documento administrativo electrónico simplificado a la Agencia Estatal de Administración Tributaria.
+
+2\. La Agencia Estatal de Administración Tributaria verificará por vía electrónica los datos consignados en el borrador de documento administrativo electrónico simplificado.
+
+Si dichos datos no son válidos, se informará de ello sin demora al expedidor certificado. Si dichos datos son válidos, la Agencia Estatal de Administración Tributaria asignará al documento un único código administrativo de referencia simplificado y lo comunicará al expedidor certificado.
+
+3\. La Agencia Estatal de Administración Tributaria transmitirá sin demora el documento administrativo electrónico simplificado a las autoridades competentes del Estado miembro de destino, que lo transmitirán al destinatario certificado.
+
+4\. El expedidor certificado entregará a la persona que acompañe los productos sujetos a impuestos especiales o, si nadie lo hace, al transportista, el código administrativo de referencia simplificado único. La persona que acompañe los productos sujetos a impuestos especiales o el transportista facilitarán dicho código a las autoridades competentes, previa solicitud, a lo largo de la circulación.
+
+5\. Durante la circulación de productos sujetos a impuestos especiales, el expedidor certificado podrá cambiar, valiéndose del sistema informatizado, el destino a otro lugar de entrega en el mismo Estado miembro explotado por el mismo destinatario certificado, o al lugar de expedición. A tal efecto, el expedidor certificado presentará, utilizando el sistema informatizado, un borrador del documento electrónico de cambio de destino a la Agencia Estatal de Administración Tributaria.
+
+> Se añade por el art. 41.27 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+###### Artículo 33 quater. Recepción de productos que circulan al amparo de un documento administrativo electrónico simplificado.
+
+1\. En el momento de la recepción de los productos sujetos a impuestos especiales, el destinatario certificado deberá presentar, sin demora y a más tardar en cinco días hábiles después de finalizar la circulación, salvo en casos debidamente justificados a satisfacción de las autoridades competentes, una notificación de su recepción a la Agencia Estatal de Administración Tributaria, sirviéndose del sistema informatizado.
+
+2\. La Agencia Estatal de Administración Tributaria verificará por vía electrónica los datos consignados en la notificación de recepción.
+
+Si dichos datos no son válidos, se informará sin demora al destinatario certificado. Si dichos datos son válidos, la Agencia Estatal de Administración Tributaria facilitará a los destinatarios certificados la confirmación del registro de la notificación de recepción y la enviarán a las autoridades competentes del Estado miembro de expedición.
+
+La notificación de recepción se considerará prueba suficiente de que el destinatario certificado ha cumplido todas las formalidades necesarias y ha efectuado, en su caso, todos los pagos de impuestos especiales adeudados en el ámbito territorial interno, o bien de que se aplica un régimen suspensivo, o de que los productos sujetos a impuestos especiales están exentos del pago del impuesto especial.
+
+3\. Las autoridades competentes del Estado miembro de expedición remitirán la notificación de recepción al expedidor certificado.
+
+4\. Los impuestos especiales pagados en el Estado miembro de expedición se devolverán, previa solicitud y sobre la base de la notificación de recepción a que hace referencia el apartado 1 anterior.
+
+> Se añade por el art. 41.28 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+###### Artículo 33 quinquies. Procedimiento a seguir al inicio de la circulación al amparo de un documento administrativo electrónico simplificado en caso de indisponibilidad del sistema informático.
+
+1\. No obstante lo dispuesto en el artículo 33 ter, cuando el sistema informatizado no esté disponible, el expedidor podrá dar inicio a la circulación de productos sujetos a impuestos especiales a condición de que:
+
+a) Los productos vayan acompañados de un documento de acompañamiento de emergencia que contenga los mismos datos que el borrador de documento administrativo electrónico simplificado.
+
+b) Informe a la Agencia Estatal de Administración Tributaria antes del comienzo de la circulación.
+
+La Agencia Estatal de Administración Tributaria podrá exigir al expedidor certificado una copia del documento mencionado en la letra a) del apartado 1 de este artículo, la verificación de los datos contenidos en ella y, si la indisponibilidad del sistema informatizado es debida al expedidor, información adecuada sobre los motivos de esta antes del comienzo de la circulación.
+
+2\. Tan pronto como el sistema informatizado vuelva a estar disponible, el expedidor certificado presentará un borrador de documento administrativo electrónico simplificado, de conformidad con lo dispuesto en el artículo 33 ter.
+
+Tan pronto como se haya verificado la validez de los datos que figuran en el borrador de documento administrativo electrónico simplificado, dicho documento sustituirá al documento de acompañamiento de emergencia mencionado en la letra a) del apartado 1 anterior. El apartado 3 del artículo 33 ter y el artículo 33 quater se aplicarán *mutatis mutandis*.
+
+3\. Una copia del documento de acompañamiento de emergencia deberá ser conservada por el expedidor certificado.
+
+4\. En caso de indisponibilidad del sistema informatizado en el Estado miembro de expedición, el expedidor certificado podrá cambiar el destino de los productos tal como se prevé en el apartado 5 del artículo 33 ter, y comunicará dicha información a la Agencia Estatal de Administración Tributaria por cualquier medio que permita tener constancia de la recepción de la comunicación. El expedidor certificado informará a la Agencia Estatal de Administración Tributaria antes de que comience el cambio de destino. Los apartados 2 y 3 de este artículo se aplicarán *mutatis mutandis*.
+
+> Se añade por el art. 41.29 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+###### Artículo 33 sexies. Procedimiento de recepción de productos que circulan al amparo de un documento administrativo electrónico simplificado en caso de indisponibilidad del sistema informático.
+
+1\. En caso de que productos sujetos a impuestos especiales que circulen en virtud del procedimiento de envíos garantizados para los que no pueda presentarse la notificación de recepción al finalizar la circulación de conformidad con lo previsto en el artículo 33 quater, bien porque el sistema informatizado no esté disponible, bien porque aún no se hayan llevado a cabo los procedimientos a que se refiere el apartado 2 del artículo 33 quinquies, el destinatario certificado deberá presentar, salvo en casos debidamente justificados, un documento de acompañamiento de emergencia que contenga los mismos datos que la notificación de recepción y en el que se declare a la Agencia Estatal de Administración Tributaria que la circulación ha finalizado.
+
+2\. Salvo en el caso de que el destinatario certificado pueda presentar la notificación de recepción con prontitud a través del sistema informatizado con arreglo a lo dispuesto en el apartado 1 del artículo 33 quater, o salvo en casos debidamente justificados, la Agencia Estatal de Administración Tributaria enviará una copia del documento de acompañamiento de emergencia a las autoridades competentes del Estado miembro de expedición. Las autoridades competentes del Estado miembro de expedición transmitirán la copia al expedidor certificado o lo mantendrán a su disposición.
+
+3\. En cuanto el sistema informatizado vuelva a estar disponible en el Estado miembro de destino o se hayan llevado a cabo los procedimientos a que se refiere el apartado 2 del artículo 33 quinquies, el destinatario certificado presentará una notificación de recepción de conformidad con lo dispuesto el apartado 1 del artículo 33 quater. Los apartados 2 y 3 del artículo 33 quater se aplicarán *mutatis mutandis.*
+
+> Se añade por el art. 41.30 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+###### Artículo 33 septies. Pruebas de recepción alternativas.
+
+1\. No obstante lo dispuesto en el artículo anterior, la notificación de recepción exigida en el apartado 1 del artículo 33 quater, constituirá la prueba de que los productos sujetos a impuestos especiales han sido entregados al destinatario certificado.
+
+2\. No obstante lo dispuesto en el apartado anterior, a falta de notificación de recepción por motivos distintos de los mencionados en el artículo 33 sexies, podrá aportarse una prueba alternativa de la entrega de los productos sujetos a impuestos especiales por medio de una confirmación de la Agencia Estatal de Administración Tributaria, sobre la base de elementos probatorios adecuados, de que los productos sujetos a impuestos especiales expedidos han llegado a su destino en el ámbito territorial interno.
+
+El documento de acompañamiento de emergencia a que se refiere el artículo 33 sexies se considerará prueba suficiente a efectos del párrafo primero del presente apartado.
+
+3\. Cuando la confirmación de la Agencia Estatal de Administración Tributaria haya sido aceptada por las autoridades competentes del Estado miembro de expedición, se considerará prueba suficiente de que el destinatario certificado ha cumplido todas las formalidades necesarias y ha efectuado los pagos de los impuestos especiales adeudados al Estado miembro de destino.
+
+4\. Cuando las autoridades competentes del Estado miembro de destino confirmen la llegada de las mercancías al destinatario certificado, y esa confirmación sea aceptada por la Agencia Estatal de Administración Tributaria, se considerará probado que el destinatario certificado ha cumplido todas las formalidades necesarias y que ha efectuado los pagos de los impuestos especiales en el Estado miembro de destino.
+
+> Se añade por el art. 41.31 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+###### Artículo 34. Circulación por carretera.
+
+En la circulación con origen y destino en el ámbito territorial interno se observarán las siguientes reglas:
+
+1\. El transporte por carretera comprenderá también el realizado por el interior de las poblaciones.
+
+2\. Los documentos de circulación deberán acompañar a las expediciones. En la circulación al amparo de un documento administrativo electrónico bastará con la presentación de una copia impresa del documento administrativo electrónico o cualquier otro documento que mencione de forma claramente identificable el ARC.
+
+3\. Cada unidad o medio de transporte, incluidos los contenedores, circulará amparado, al menos, por un documento de circulación por destinatario.
+
+4\. Si en la circulación al amparo de un documento administrativo electrónico se produjera la descarga de los productos y posterior carga de los mismos en un centro de distribución física, la operación se comunicará a la oficina gestora de destino y a la de ubicación del centro de distribución por cualquier medio del que quede constancia.
+
+5\. Los transportes regulares por carretera, cuando no constituyen cargamento completo, quedan asimilados al transporte por ferrocarril a que se refiere el artículo siguiente.
+
+6\. En los supuestos de circulación no amparada por el documento establecido en este Reglamento o cuando se considere que la expedición no está amparada en documento de circulación, se procederá a la inmovilización de los productos y, cuando se trate de carga completa, también del vehículo. Los productos y, en su caso, el vehículo quedarán depositados, por cuenta y riesgo del remitente o transportista, a disposición de la oficina gestora que corresponda, a la que se remitirá la correspondiente diligencia formalizada. La inmovilización cesará cuando se preste garantía que cubra el importe de la deuda tributaria que pudiera derivarse del correspondiente expediente.
+
+A estos efectos la oficina gestora, en un plazo de cuarenta y ocho horas, sin contar días festivos, a partir de la recepción de la referida diligencia, determinará el importe de la deuda tributaria que podría derivarse del expediente y lo comunicará al remitente o al transportista para que éstos puedan prestar la aludida garantía.
+
+7\. Los servicios dependientes del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria serán competentes para realizar en el respectivo ámbito territorial los servicios y actuaciones encaminadas al control y a la adopción de las medidas recogidas en esta disposición. La realización de dichas actuaciones podrá también ser llevada a cabo por agentes de las Fuerzas y Cuerpos de Seguridad del Estado.
+
+> Se modifica por el art. único.32 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se añade el párrafo primero y se modifica el apartado 9 por el art. único.32 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 5 por el art. único.10 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+###### Artículo 35. Circulación por ferrocarril.
+
+En la circulación con origen y destino en el ámbito territorial interno se observarán las siguientes reglas:
+
+1\. Se entenderá por transporte por ferrocarril no sólo el que se realice por este medio, sino también el complementario por carretera que cubra el trayecto desde el establecimiento de salida a estación de ferrocarril, así como el recorrido por carretera desde la estación de descarga hasta su destino.
+
+2\. Cuando el lugar de salida o de destino de una expedición por ferrocarril fuese una localidad que, careciendo de estación propia, tuviera una oficina donde se efectúen habitualmente facturaciones y se reciban expediciones, tales oficinas se considerarán como estaciones ferroviarias a los efectos de este artículo.
+
+3\. En los transportes por ferrocarril, el documento de circulación no acompañará a la mercancía durante el trayecto ferroviario, si bien el remitente deberá en dicho documento fijar el plazo de validez y la hora de salida para el recorrido desde el establecimiento de salida hasta la estación.
+
+4\. Al realizar la facturación, los remitentes presentarán los documentos de circulación al encargado del servicio, quien los diligenciará con el número y fecha de la expedición, anotando al mismo tiempo el número del documento de circulación en el asiento correspondiente del libro y en el talón de facturación. En el supuesto de que la circulación se realice amparada en un documento administrativo electrónico, el encargado del servicio anotará el ARC.
+
+5\. Diligenciado el documento, será devuelto al expedidor, quien deberá enviarlo al destinatario para su presentación en destino, sin cuyo requisito no le será entregada la expedición. El empleado de la compañía ferroviaria consignará en el documento de circulación el día y hora de entrega de la mercancía, los datos relativos al vehículo en que se realice el recorrido complementario y el plazo de validez hasta su destino final.
+
+6\. La circulación se amparará con fotocopia del documento de circulación o de una copia impresa del documento administrativo electrónico o de cualquier otro documento comercial que mencione de forma claramente identificable el ARC, diligenciada por el empleado de la compañía ferroviaria, haciendo constar la clase y cantidad de producto transportado, el día y hora de salida de la estación de ferrocarril y el plazo concedido para el transporte.
+
+7\. Lo dispuesto en el apartado anterior será igualmente de aplicación en los supuestos en que los productos amparados en un solo documento administrativo electrónico tuvieran que realizar el recorrido complementario hasta el lugar de destino, utilizando varios medios de transporte.
+
+> Se modifica por el art. único.33 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se añade el párrafo primero por el art. único.33 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 36. Circulación por vía marítima y aérea.
+
+En la circulación por vía marítima y aérea con origen y destino en el ámbito territorial interno, se observará, en lo que sea de aplicación, lo establecido en relación con la circulación por ferrocarril.
+
+> Se modifica por el art. único.34 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.34 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 37. Circulación en determinados supuestos especiales.
+
+1\. Sin perjuicio de lo dispuesto en el apartado 3 del artículo 22 de este Reglamento, cuando se trate de envíos por tuberías fijas a un mismo destinatario amparados en un documento administrativo electrónico, el expedidor enviará, en un plazo de tres días hábiles, una vez completado el envío, el borrador de dicho documento de acuerdo con el procedimiento establecido en el artículo 29.B.
+
+2\. En los supuestos de suministro de carburante a aeronaves, con exención del impuesto especial mediante la intervención de titulares de almacenes fiscales de hidrocarburos que cuentan con las autorizaciones de los órganos competentes para operar en los aeropuertos nacionales, el titular del depósito fiscal que realiza la entrega de carburante a estos almacenes fiscales deberá emitir al día siguiente un documento administrativo electrónico en el que se consigne la cantidad total de producto exento suministrada durante el día anterior a cada uno de dichos almacenes fiscales. Cuando el suministro de carburante se realice mediante la aplicación del tipo impositivo pleno, el titular del depósito fiscal deberá documentar dicha operación al día siguiente a través de un albarán de circulación que recoja la cantidad total de carburante suministrada a cada almacén fiscal durante el día anterior.
+
+> Se modifica por el art. 4.14 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica por el art. único.35 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.35 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 38. Reintroducción en el establecimiento de origen y cambio de destino.
+
+1\. Cuando los productos salidos de fábrica o depósito fiscal, con ultimación del régimen suspensivo, no hayan podido ser entregados al destinatario, total o parcialmente, por causas ajenas al depositario autorizado expedidor, los productos podrán volver a introducirse en los establecimientos de salida, siempre que no haya transcurrido el plazo de presentación de la autoliquidación y se cumplan las condiciones que se establecen en este artículo, considerándose que no se produjo el devengo del impuesto con ocasión de la salida.
+
+La reintroducción en el establecimiento de origen de los productos no entregados se efectuará al amparo del documento que amparó la circulación de los mismos desde dicho establecimiento.
+
+Cuando tenga lugar una entrega parcial, el destinatario deberá diligenciar el documento de circulación, certificando la cantidad efectivamente recibida. El representante del expedidor o el transportista, diligenciará seguidamente el documento, indicando que regresa al establecimiento de origen y la hora en que se inicia el regreso. Este documento diligenciado amparará la circulación de los productos en el viaje de regreso.
+
+En el supuesto de que los productos hayan circulado amparados en un documento administrativo electrónico, la notificación de recepción se formalizará por la cantidad efectivamente recibida, indicando además toda información complementaria relativa a esta recepción. La reintroducción en el establecimiento de origen de los productos no entregados se realizará mediante un mensaje electrónico de cambio de destino formalizado por el expedidor inicial.
+
+2\. El cambio de destinatario y, en su caso, del lugar de entrega en la circulación interna, sin perjuicio de lo dispuesto en el párrafo anterior, podrá efectuarse por la totalidad o parte de la carga, de acuerdo con el procedimiento siguiente:
+
+a) En el caso de operaciones con aplicación del impuesto al tipo general, bastará con que se cumplimente el documento de circulación por el expedidor o por su representante, indicando el nuevo destinatario o lugar de destino.
+
+b) En el supuesto de operaciones a las que se ha aplicado un tipo reducido amparadas en un documento administrativo electrónico, el expedidor o su representante formalizará el correspondiente mensaje de cambio de destino, en los términos previstos en el sistema EMCS interno. Cuando el mensaje electrónico de cambio de destino no pueda formalizarse por causas no imputables al expedidor y sin perjuicio del posterior mensaje electrónico, la circulación podrá quedar amparada, hasta el momento en que el expedidor esté en condiciones de formalizar dicho mensaje, mediante el diligenciado por el expedidor, por su representante o por el transportista, del documento de circulación que ha de mencionar de forma claramente identificable el ARC, indicando el nuevo destinatario o lugar de destino, así como su número de identificación fiscal y su CAE, en su caso. El expedidor deberá asegurarse de que el producto con aplicación del tipo reducido puede entregarse al nuevo destinatario o en el nuevo lugar de destino indicados, de conformidad con lo establecido en este Reglamento.
+
+c) En el caso de operaciones en régimen suspensivo o que se benefician de la aplicación de alguno de los supuestos de exención amparadas en un documento administrativo electrónico, el expedidor o su representante cumplimentará el correspondiente mensaje electrónico de cambio de destino. Cuando el mensaje electrónico de cambio de destino no pueda formalizarse por causas no imputables al expedidor y sin perjuicio del posterior mensaje electrónico, la circulación podrá quedar amparada, hasta el momento en el que el expedidor pueda cumplimentar este mensaje, por la autorización de la oficina gestora competente del expedidor o de la oficina gestora competente en el lugar donde se encuentran los productos en cuestión, cuando se decida el cambio, o del servicio de intervención del establecimiento a donde inicialmente iban destinados los productos objeto de los impuestos especiales. La identificación y fecha de esta autorización deberán reflejarse en el documento de circulación que ha de mencionar de forma claramente identificable el ARC.
+
+3\. Se considerará que los productos objeto del Impuesto sobre Hidrocarburos en estado gaseoso no han podido ser entregados al destinatario por causas ajenas al depositario autorizado expedidor, cuando debido a las causas físico-químicas debidamente justificadas y relacionadas con las especiales características del recipiente y del producto, éstos no hayan podido ser completamente extraídos del respectivo recipiente. En este supuesto, se procederá a contabilizar los productos reintroducidos en el correspondiente establecimiento de conformidad con lo establecido en los artículos 51 y 52 de este Reglamento.
+
+> Se añade el apartado 3 por el art. 4.15 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica por el art. 3.10 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica el apartado 2 por el art. 1.12 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica por el art. único.36 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.36 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 39. Justificación de la circulación y tenencia.
+
+1\. En los supuestos de circulación y tenencia de productos objeto de los impuestos especiales de fabricación, con fines comerciales, deberá acreditarse que dichos productos se encuentran en alguna de las siguientes situaciones:
+
+a) En régimen suspensivo.
+
+b) Fuera de régimen suspensivo al amparo de un procedimiento de circulación intracomunitaria.
+
+c) Fuera de régimen suspensivo habiéndose satisfecho el impuesto en el ámbito territorial interno.
+
+d) Fuera del régimen suspensivo, resultando aplicable una exención.
+
+2\. Con objeto de determinar que los productos a que se refiere el apartado 1 de este artículo están destinados a fines comerciales, se tendrán en cuenta, entre otros, los elementos que se establecen en los apartados 8, 9 y 10 del artículo 15 de la Ley.
+
+3\. A los efectos de la letra a) del apartado 1 anterior, la vinculación al régimen suspensivo de los productos objeto de los impuestos especiales de fabricación se acreditará mediante el correspondiente asiento en la contabilidad de las fábricas o depósitos fiscales en que se encuentren. La circulación en régimen suspensivo se acreditará mediante el ARC correspondiente.
+
+4\. A los efectos de la letra b) del apartado 1 anterior, la acreditación de que los productos objeto de los impuestos especiales de fabricación se encuentran al amparo de un procedimiento de circulación intracomunitaria fuera del régimen suspensivo se efectuará mediante el correspondiente documento administrativo electrónico simplificado. Cuando se trate de circulación por el procedimiento de ventas a distancia, se acreditará la situación de los productos objeto de los impuestos especiales de fabricación mediante un ejemplar de la autorización de recepción a que se refiere el artículo 33 de este Reglamento en que figure la referencia al pago del impuesto y la diligencia del representante fiscal que ha intervenido en la operación.
+
+5\. A los efectos de la letra c) del apartado 1 anterior, y sin perjuicio de cual sea el documento que deba amparar la circulación de los productos, el pago del impuesto dentro del ámbito territorial interno se acreditará:
+
+a) Cuando se trate de productos adquiridos a un sujeto pasivo, mediante la factura o documento equivalente en el que conste la repercusión del impuesto, de acuerdo con lo establecido en el artículo 18 de este Reglamento.
+
+b) En los supuestos de importación, mediante el documento administrativo electrónico expedido por el expedidor registrado o el documento aduanero correspondiente en los supuestos de despacho a consumo en el lugar de importación.
+
+c) En los supuestos de tenencia por sujetos pasivos una vez ultimado el régimen suspensivo, mediante los documentos acreditativos del pago del impuesto.
+
+d) Cuando se trate de adquisiciones diferentes a las que se menciona en las letras a) y b) anteriores, mediante el documento de circulación cuya expedición haya resultado procedente.
+
+6\. La circulación y tenencia de productos a los que es aplicable una exención se acreditará mediante el documento de circulación que hubiere procedido expedir en relación con el estatuto del destinatario o tenedor.
+
+7\. No obstante lo establecido en el apartado 5 anterior, el pago del impuesto, por lo que se refiere a las labores del tabaco y las bebidas derivadas, se acreditará:
+
+a) Mediante las marcas fiscales establecidas en el artículo 26, cuando la cantidad poseída o en circulación no exceda de 800 cigarrillos, 400 cigarritos, 200 cigarros o 1 kilogramo de picadura para liar o demás labores del tabaco, o 10 litros de bebidas derivadas o, en todo caso, cuando los cigarrillos, picadura para liar o bebidas derivadas se hallen en poder de particulares que los hayan adquirido en el ámbito territorial interno para su propio consumo. Lo dispuesto en este párrafo no será de aplicación en los supuestos regulados en el artículo 26.6.d), en cuyo caso el pago del impuesto se acreditará mediante el talón de adeudo por declaración verbal.
+
+b) Mediante las marcas a que se refiere el párrafo a) y los documentos que acrediten que los productos se hallan en alguna de las situaciones mencionadas en el apartado 1 de este artículo, en los demás casos.
+
+> Téngase en cuenta que esta actualización del apartado 7, establecida por el art. 2.3 del Real Decreto 1171/2023, de 27 de diciembre, [Ref. BOE-A-2023-26454](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26454), entra en vigor el 20 de mayo de 2024, según establece la disposición final 4 del citado Real Decreto.
+
+> Redacción anterior:
+
+> "7. No obstante lo establecido en el apartado 5 anterior, el pago del impuesto, por lo que se refiere a los cigarrillos, la picadura para liar y las bebidas derivadas, se acreditará:
+
+> a) Mediante las marcas fiscales establecidas en el artículo 26, cuando la cantidad poseída o en circulación no exceda de 800 cigarrillos, 1 kilogramo de picadura para liar o 10 litros de bebidas derivadas o, en todo caso, cuando los cigarrillos, picadura para liar o bebidas derivadas se hallen en poder de particulares que los hayan adquirido en el ámbito territorial interno para su propio consumo. Lo dispuesto en este párrafo no será de aplicación en los supuestos regulados en el artículo 26.6.d), en cuyo caso el pago del impuesto se acreditará mediante el talón de adeudo por declaración verbal.
+
+> b) Mediante las marcas a que se refiere el párrafo a) y los documentos que acrediten que los productos se hallan en alguna de las situaciones mencionadas en el apartado 1 de este artículo, en los demás casos."
+
+8\. Las pérdidas acaecidas respecto de los productos recibidos en almacenes fiscales al amparo de una exención o con aplicación de un tipo reducido no precisarán ser justificadas cuando no excedan de los porcentajes reglamentarios establecidos para el almacenamiento del producto de que se trate y hayan sido debidamente contabilizadas.
+
+9\. Cuando no se justifique, a través de los medios de prueba admisibles en Derecho, el destino de los productos comprendidos en la Tarifa segunda del artículo 50 de la Ley, se considerarán destinados a su utilización como combustibles o carburantes.
+
+10\. Sin perjuicio de lo previsto en el apartado 8 del artículo 8 de la Ley, cuando no se acredite que los productos se encuentran en alguna de las situaciones previstas en el apartado 1 anterior, se procederá a la inmovilización de los productos. A estos efectos se seguirá el procedimiento del apartado 6 del artículo 34 de este Reglamento para los supuestos de inmovilización en la circulación no amparada por el documento reglamentario.
+
+> Se modifica el apartado 7 por el art. 2.3 del Real Decreto 1171/2023, de 27 de diciembre. [Ref. BOE-A-2023-26454](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26454)
+
+> Esta modificación entra en vigor el 20 de mayo de 2024, según establece la disposición final 4 del citado Real Decreto.
+
+> Se modifica el apartado 4 por el art. 41.32 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado 7 por el art. 4.16 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifican los apartados 8 y 10 por el art. 1.13 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifican los apartados 3, 5 y 7 por el art. único.37 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.37 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 6 por el art. único.6 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+##### Sección 9.ª Normas generales de gestión
+
+###### Artículo 40. Inscripción en el Registro Territorial.
+
+1\. Los titulares de fábricas, depósitos fiscales y almacenes fiscales, los destinatarios registrados respecto de los correspondientes depósitos de recepción, los expedidores registrados, quienes ostenten la condición de sujetos pasivos, en calidad de sustitutos del contribuyente, de acuerdo con lo previsto en el artículo 8.3 de la Ley, los reexpedidores, aquellos detallistas, usuarios y consumidores finales que se determinan en este Reglamento y las empresas que realicen ventas a distancia, estarán obligados, en relación con los productos objeto de los impuestos especiales de fabricación, a inscribirse en el registro territorial de la oficina gestora en cuya demarcación se instale el correspondiente establecimiento o, en su caso, donde radique el correspondiente domicilio fiscal. Cuando el establecimiento se extienda por el ámbito territorial de más de una oficina gestora, la inscripción deberá efectuarse en la oficina gestora en cuyo ámbito territorial esté ubicado el centro de gestión y control de dicho establecimiento.
+
+2\. Con carácter general las personas o entidades que resulten obligadas a inscribirse en el registro territorial deberán figurar de alta en el Censo de Empresarios, Profesionales y Retenedores en el epígrafe correspondiente a la actividad a desarrollar así como estar al corriente, junto con sus administradores, incluidos los de hecho, en el cumplimiento de sus obligaciones tributarias, y presentarán ante la oficina gestora que corresponda una solicitud a la que acompañará la siguiente documentación:
+
+a) El nombre y apellidos o razón social, domicilio fiscal y número de identificación fiscal del solicitante, así como, en su caso, del representante, que deberá acompañar la documentación que acredite su representación.
+
+b) La clase de establecimiento y el lugar en que se encuentre situado, con expresión de su dirección y localidad, o, en su caso, que se trata de un expedidor registrado, un representante fiscal o un suministrador de gas natural que ostente la condición de sujeto pasivo de acuerdo con lo previsto en el apartado 3 del artículo 8 de la Ley.
+
+c) Breve memoria descriptiva de la actividad que se pretende desarrollar en relación con la inscripción que se solicita.
+
+d) Plano a escala del recinto del establecimiento con indicación de los elementos de almacenamiento existentes así como, en su caso, de los elementos y aparatos de fabricación. La oficina gestora podrá autorizar que una zona delimitada del local en que se encuentre instalada una fábrica se considere fuera de la misma, a los únicos efectos del almacenamiento y ulterior reexpedición de productos por los que se devengó el impuesto a tipo impositivo pleno con ocasión de la ultimación del régimen suspensivo y que posteriormente fueron devueltos a su titular.
+
+e) Acreditación del derecho a disponer de las instalaciones, por cualquier título.
+
+f) En el caso de actividades relativas a productos comprendidos en el ámbito objetivo del Impuesto sobre Hidrocarburos será necesario aportar la documentación acreditativa de las autorizaciones que, en su caso, hayan de otorgarse por aplicación de lo dispuesto en la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, y en su normativa de desarrollo. En el supuesto de actividades relativas a productos comprendidos en el ámbito objetivo del Impuesto sobre las Labores del Tabaco, será necesario estar inscrito en el correspondiente Registro de Operadores del Comisionado para el Mercado de Tabacos, conforme a lo establecido en la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria.
+
+g) La documentación acreditativa de la prestación de la garantía que, en su caso, resulte exigible.
+
+h) Si se trata de fábricas, deberá aportarse una memoria técnica que describa tanto el funcionamiento de los elementos y aparatos de fabricación como los procesos de elaboración de los productos que se pretende obtener.
+
+3\. La oficina gestora, comprobada la conformidad de la documentación, autorizará la inscripción en el registro territorial. En el acuerdo de autorización podrán establecerse limitaciones y condiciones particulares de funcionamiento. Una vez notificado el acuerdo se procederá a la inscripción. La notificación de la autorización de la inscripción será el momento a partir del cual comienza la eficacia de la misma, salvo que el Reglamento prevea otro distinto.
+
+4\. Los expedidores registrados deberán inscribirse en el registro territorial de la oficina gestora correspondiente a su domicilio fiscal, debiendo presentar la documentación a que se refieren los párrafos a), c) y g) del apartado 2 anterior.
+
+Quienes realicen suministros de gas natural y ostenten la condición de sujetos pasivos de acuerdo con lo previsto en el apartado 3 del artículo 8 de la Ley deberán inscribirse en el registro territorial de la oficina gestora correspondiente a su domicilio fiscal, debiendo presentar la documentación a que se refieren los párrafos a), c) y f) del apartado 2 anterior.
+
+5\. Los representantes fiscales, los expedidores y destinatarios certificados deberán inscribirse en el registro territorial de la oficina gestora correspondiente a su domicilio fiscal. Para efectuar dicha inscripción presentarán:
+
+a) La documentación a que se refieren los párrafos a), c) y g) del apartado 2 anterior.
+
+b) En el supuesto de representantes fiscales, el documento por el cual el expedidor establecido en el ámbito territorial de la Unión no interno le designa como su representante fiscal. En dicho documento debe constar el nombre o razón social del expedidor representado, su domicilio y los números de identificación que, a efectos del Impuesto sobre el Valor Añadido y de los Impuestos Especiales, le hayan sido asignados por la administración fiscal del Estado miembro donde esté establecido.
+
+6\. Recibida la documentación, la oficina gestora podrá solicitar que los servicios de inspección realicen las comprobaciones que puedan considerar oportunas, con el fin de verificar que las instalaciones y aparatos corresponden a los declarados y reúnen las condiciones exigidas por el presente Reglamento. Si no solicita dicho informe la oficina gestora procederá a formalizar un acuerdo de autorización y a realizar la inscripción con arreglo a la documentación aportada.
+
+7\. Si la oficina gestora ha solicitado el informe de la Inspección y ésta no formula objeciones en el plazo de quince días, dicha oficina gestora podrá acordar la autorización de inscripción y proceder a inscribir el establecimiento con carácter provisional conforme a la documentación aportada y a reserva del informe de la Inspección.
+
+8\. El incumplimiento de las normas, limitaciones y condiciones establecidas en la Ley y en este Reglamento y, en su caso, en las establecidas en el acuerdo de autorización, y en particular la insuficiencia de garantía, dará lugar a la revocación de la autorización concedida. El expediente de revocación será tramitado por la oficina gestora competente para su autorización.
+
+Una vez incoado el expediente de revocación, el Delegado de la Agencia Estatal de Administración Tributaria podrá acordar la baja provisional en el registro territorial de la oficina gestora, previo informe del órgano proponente.
+
+La baja provisional supondrá la imposibilidad de recibir y expedir productos objeto de los impuestos especiales de fabricación y será levantada una vez que desaparezcan las circunstancias que motivaron su adopción, siempre que no proceda la revocación de la autorización o cualquier otra medida prevista en la Ley, en este Reglamento o en otra normativa aplicable al caso.
+
+La revocación de la autorización de funcionamiento implicará, en su caso, la regularización de las existencias de los productos almacenados. Lo anterior se entenderá, sin perjuicio de la posibilidad de adoptar las previsiones contempladas en este mismo apartado.
+
+9\. Cualquier modificación ulterior en los datos consignados en la declaración inicial o que figuren en la documentación aportada deberá ser comunicada a la oficina gestora.
+
+10\. Sin perjuicio de las autorizaciones que corresponda otorgar a otros órganos administrativos, una vez efectuada la inscripción la oficina gestora entregará al interesado una tarjeta acreditativa de la inscripción en el registro sujeta a modelo aprobado por la oficina gestora, en la que constará el CAE que el titular deberá hacer constar en todos los documentos exigidos en este Reglamento en relación con los impuestos especiales de fabricación.
+
+> Se modifica el apartado 5 por el art. 41.33 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado 2.d) por el art. 4.17 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica el apartado 2.d) por el art. 3.11 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica la letra f) del apartado 2 y el primer párrafo del apartado 8 por el art. 1.6 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifican el apartado 1 y la letra b) del apartado 2, y se añade un párrafo al apartado 4 por el art. 1.14 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica por el art. único.38 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.38 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifican los apartados 1, 2.d) y 8 por art. único.7 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Se modifica el apartado 4 por el art. único.7 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 41. El código de actividad y establecimiento.
+
+1\. El código de actividad y del establecimiento (CAE) es el código, configurado en la forma que se establece en este artículo, que identifica una determinada actividad y el establecimiento donde, en su caso, se ejerce. Cuando en un establecimiento se ejerzan distintas actividades, tendrá asignados tantos códigos como actividades se ejerzan en el mismo sin perjuicio de los casos en que el ejercicio conjunto de varias actividades pueda constituir a su vez, una actividad a la que se asigne un código único. Asimismo, cuando una persona ejerza una misma actividad en varios establecimientos, tendrá asignados tantos códigos como establecimientos en los que se ejerza la actividad.
+
+2\. El código constará de 13 caracteres distribuidos en la forma siguiente:
+
+a) Las letras ES configurarán los dos primeros caracteres.
+
+b) En tanto el Ministro de Economía y Hacienda no disponga su sustitución por otros caracteres, los caracteres tercero, cuarto y quinto serán ceros.
+
+c) Los caracteres sexto y séptimo identifican a la oficina gestora en que se efectúa la inscripción en el registro territorial.
+
+d) Los caracteres octavo y noveno identifican la actividad que se desarrolla.
+
+e) Los caracteres décimo, undécimo y duodécimo expresarán el número secuencial de inscripción, dentro de cada actividad, en el Registro territorial de la oficina gestora a que se refiere la letra c).
+
+f) El carácter decimotercero será una letra de control.
+
+3\. Por el Ministro de Economía y Hacienda se establecerá el repertorio de las actividades a que se refiere el apartado 1 y se determinarán los dígitos y los caracteres identificativos a que se refiere el apartado 2.
+
+> Se modifica la letra e) del apartado 2 por el art. 1.7 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica el apartado 2 por el art. 3 del Real Decreto 87/2005, de 31 de enero. [Ref. BOE-A-2005-1572](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1572)
+
+###### Artículo 42. Cambio de titular de los establecimientos y cese en su actividad.
+
+1\. Con carácter general y sin perjuicio de lo dispuesto en los artículos 39, 40 y 177 de la Ley General Tributaria, los cambios en la titularidad de los establecimientos inscritos solo surtirán efecto una vez que el nuevo titular se inscriba como tal en el registro territorial de la oficina gestora de acuerdo con lo establecido en el artículo 40 de este Reglamento.
+
+Mientras ello no ocurra, se considerará como titular del establecimiento a efectos de este Reglamento a la persona o entidad que figure inscrita como tal en el registro territorial, siendo ella la responsable de los productos almacenados, introducidos o expedidos desde el establecimiento hasta que se efectúe la baja o el cambio de titularidad.
+
+2\. Cuando se produzca el cese definitivo de la actividad del establecimiento, se tendrán en cuenta las normas siguientes:
+
+a) El titular deberá ponerlo en conocimiento de la oficina gestora. Los servicios de intervención o inspección procederán al cierre de los libros reglamentarios, a la retirada, en su caso, de los documentos de circulación sin utilizar y demás de control reglamentario que deban dejarse sin efecto, así como al precintado provisional de las existencias de primeras materias y de los aparatos, que quedarán sometidos a la intervención de la Administración, salvo que se destruyan o inutilicen bajo su control. De todo ello se levantará la correspondiente diligencia que se remitirá a la oficina gestora con un informe sobre la existencia de productos fabricados objeto del impuesto y débitos pendientes de liquidación o ingreso en el Tesoro, a efecto de la realización o devolución, en su caso, de la garantía prestada.
+
+b) No se formalizará la baja en el registro, mientras en el establecimiento haya existencias de productos objeto del impuesto.
+
+3\. En el caso de sociedades disueltas que no den cumplimiento a lo anteriormente establecido antes de su liquidación, se estará a lo previsto en el apartado 2 del artículo 177 de la Ley General Tributaria.
+
+4\. La presentación de la solicitud de baja en el Censo de Empresarios, Profesionales y Retenedores, relativa a la actividad y establecimiento en materia de impuestos especiales, producirá los efectos propios de la solicitud de baja en el registro territorial de los impuestos especiales de fabricación a que se refiere el artículo 40 de este Reglamento.
+
+Sin perjuicio de lo establecido en el artículo 40 de este Reglamento, en caso de cese temporal de la actividad propia de los impuestos especiales de fabricación, sin darse de baja en el Censo de Empresarios, Profesionales y Retenedores, la oficina gestora iniciará el procedimiento de baja de oficio cuando hayan transcurrido 12 meses a partir de la fecha de cese de actividad.
+
+> Se modifica por el art. único.39 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.39 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 2.a) por el art. único.8 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+###### Artículo 43. Garantías.
+
+1\. Con carácter previo a la inscripción de los correspondientes establecimientos en el registro territorial, los fabricantes, los titulares de los depósitos fiscales y almacenes fiscales, los destinatarios registrados, los expedidores registrados y los representantes fiscales, deberán prestar garantía por los importes que se expresan en los apartados siguientes para responder del pago de la deuda tributaria en su caso por cada establecimiento.
+
+En los casos en que se inicie la actividad los importes se fijarán en función de las cuotas anuales estimadas.
+
+2\. Fabricantes:
+
+a) Base de la garantía: importe de las cuotas que resultarían de aplicar el tipo impositivo vigente a la cantidad de productos que constituye la media anual de las salidas de fábrica, con cualquier destino, durante los tres años naturales anteriores. Dentro de dichas salidas se computarán las correspondientes a productos recibidos en fábrica para su comercialización sin transformación de acuerdo con lo dispuesto en el apartado 1 del artículo 45 de este Reglamento y las expediciones enviadas por un expedidor registrado con cargo a la garantía que, como fabricante, tenga en la fábrica de la que sea titular con destino a otra fábrica o depósito fiscal.
+
+No se computarán dentro de dichas salidas las que correspondan a productos que se envían a otra fábrica del mismo titular autorizada para recibirlos, siempre que las garantías prestadas por dicho titular cubran indistintamente las responsabilidades derivadas de la actividad de cualquiera de sus fábricas.
+
+b) Importe de la garantía:
+
+1.º Alcohol: 2,5 por 100. No obstante, el importe de la garantía aplicable a la porción de base que corresponda a las salidas de alcohol total o parcialmente desnaturalizado será del 1,5 por 100.
+
+El importe de esta garantía no podrá ser superior a 20.000.000 euros.
+
+2.º Bebidas derivadas: 6 por 100.
+
+3.º Productos intermedios: 2 por 100.
+
+4.º Cerveza, vino y bebidas fermentadas: 1 por 100.
+
+5.º Bebidas derivadas conjuntamente con otras bebidas alcohólicas: 6 por 100.
+
+6.º Productos intermedios conjuntamente con otras bebidas alcohólicas, excepto bebidas derivadas: 2 por 100
+
+7.º Extractos y concentrados alcohólicos exclusivamente: 5 por 100.
+
+8.º Hidrocarburos y labores del tabaco: 1 por 1.000. No obstante, el importe de la garantía aplicable a la porción de base que corresponda a las salidas de bioetanol o biometanol será del 2,5 por 100.
+
+c) Cuando, de acuerdo con lo dispuesto en el apartado 1 del artículo 45, en una fábrica se reciban y almacenen en régimen suspensivo productos objeto de su actividad, sin necesidad de que se sometan a operaciones de transformación, las garantías contempladas en la letra b) se ajustarán, en su caso, a los importes mínimos previstos en el apartado 3 de este artículo para los titulares de los depósitos fiscales.
+
+3\. Titulares de depósitos fiscales:
+
+a) Base de la garantía: Importe de las cuotas que resultarían de aplicar el tipo impositivo vigente a la cantidad de productos que constituye la media anual de productos entrados en el establecimiento durante los tres años naturales anteriores, así como el relativo a las cuotas correspondientes a los productos expedidos por un expedidor registrado con cargo a la garantía que tenga en el depósito fiscal del que sea titular, con destino a una fábrica u otro depósito fiscal.
+
+b) Importe de la garantía:
+
+1.º Alcohol: 2,5 por 100. No obstante, sobre la porción de la base que represente respecto de ésta la misma proporción que guardan las salidas de alcohol total o parcialmente desnaturalizado respecto del total de salidas del depósito durante el período considerado, el importe de la garantía aplicable será del 1,5 por 100.
+
+El importe de esta garantía no podrá ser superior a 20.000.000 euros.
+
+2.º Bebidas derivadas: 6 por 100.
+
+3.º Productos intermedios: 2 por 100.
+
+4.º Bebidas derivadas conjuntamente con otras bebidas alcohólicas: 6 por 100.
+
+5.º Productos intermedios conjuntamente con otras bebidas alcohólicas, excepto bebidas derivadas: 2 por 100.
+
+6.º Cerveza, vino y bebidas fermentadas: 1 por 100.
+
+7.º Extractos y concentrados alcohólicos exclusivamente: 5 por 100.
+
+8.º Hidrocarburos y labores del tabaco: 1 por 1.000.
+
+c) Importe mínimo por cada depósito fiscal:
+
+1.º Depósitos fiscales de hidrocarburos, excepto los de gas licuado de petróleo (GLP), de gas natural, los que se dediquen exclusivamente a la distribución de biocarburantes y los que se dediquen exclusivamente a la distribución de productos comprendidos en la tarifa 2.ª del Impuesto sobre Hidrocarburos: 450.000 euros.
+
+2.º Depósitos fiscales de extractos y concentrados alcohólicos exclusivamente y depósitos fiscales que se dediquen exclusivamente a la distribución de productos comprendidos en la tarifa 2.ª del Impuesto sobre Hidrocarburos acondicionados para su venta al por menor en envases de capacidad no superior a 25 litros: 6.000 euros.
+
+3.º Depósitos fiscales de cerveza: 10.000 euros.
+
+4.º Depósitos fiscales de productos intermedios: 15.000 euros.
+
+5.º Depósitos fiscales de cerveza conjuntamente con vino y otras bebidas fermentadas: 10.000 euros.
+
+6.º Depósitos fiscales de productos intermedios conjuntamente con otras bebidas alcohólicas, excepto las derivadas: 15.000 euros.
+
+7.º Depósitos fiscales de GLP: 15.000 euros.
+
+8.º Demás depósitos fiscales: 60.000 euros.
+
+9.º Los importes mínimos indicados no serán exigibles cuando el depósito se dedique al almacenamiento exclusivo de vino y bebidas fermentadas.
+
+d) En los casos a que se refiere el apartado 6 del artículo 11 de este reglamento, la garantía única que pueda prestarse para responder de las deudas aduanera y fiscal que se deriven de las actividades desarrolladas en el establecimiento, no podrá tener un importe inferior al que resulte de la aplicación de las reglas contenidas en este apartado, sin perjuicio de lo dispuesto en los apartados 5 y 6 siguientes.
+
+e) Las garantías establecidas para los depósitos fiscales no se exigirán cuando su titular sea una Administración pública. En estos supuestos, la garantía se sustituirá por una comunicación del titular del órgano administrativo en la que asuma el compromiso de responder de la deuda que pudiera generarse como consecuencia de la actividad del depósito del que sea titular.
+
+4\. Titulares de almacenes fiscales:
+
+a) Base de la garantía: Importe de las cuotas que resultarían de aplicar el tipo impositivo vigente a la cantidad de productos que constituye la media anual de los productos entrados en el almacén durante los tres años anteriores, aplicándose a este efecto los tipos ordinarios respecto de los productos entrados al amparo de una exención y los tipos reducidos respecto de los productos entrados con aplicación de éstos.
+
+Cuando se trate de hidrocarburos que se destinen a un fin exento, que lleven incorporados los trazadores y marcadores exigidos para la aplicación de un tipo reducido, para el cálculo de la cuota que ha de servir de base para la fijación de la garantía, se aplicarán los tipos reducidos correspondientes.
+
+b) Importe de la garantía:
+
+1.º Alcohol sin desnaturalizar: 2,5 por 100.
+
+2.º Alcohol total o parcialmente desnaturalizado: 1,5 por 100.
+
+3.º Bebidas derivadas: 6 por 100.
+
+4.º Productos intermedios: 2 por 100.
+
+5.º Cerveza, vino y bebidas fermentadas: 1 por 100.
+
+6.º Hidrocarburos y labores del tabaco: 1 por 1.000.
+
+c) Importe mínimo:
+
+1.º Almacenes fiscales de GLP: 10.000 euros.
+
+2.º Demás almacenes fiscales: 30.000 euros. Este importe mínimo no será exigible cuando el almacén se dedique al almacenamiento exclusivo de vino y bebidas fermentadas.
+
+d) En los casos a que se refiere el apartado 2 del artículo 13 de este Reglamento, la garantía única que pueda prestarse para responder de las deudas aduanera y fiscal que se deriven de las actividades desarrolladas en el establecimiento, no podrá tener un importe inferior al que resulte de la aplicación de las reglas contenidas en este apartado, sin perjuicio de lo dispuesto en los apartados 5 y 6 siguientes.
+
+5\. No obstante lo dispuesto en los apartados 3 y 4 anteriores, cuando el titular del depósito fiscal sea también el fabricante de los productos introducidos, o cuando el titular del almacén fiscal sea, bien el fabricante de los productos introducidos, o bien el titular del depósito fiscal desde el que se reciben, del importe tomado como base para la determinación de las correspondientes garantías se deducirán las siguientes cantidades:
+
+a) Si se trata de un depósito fiscal, se deducirán las cuotas correspondientes a los productos fabricados por el titular del depósito fiscal que se introducen en éste.
+
+b) Si se trata de un almacén fiscal, se deducirán, tanto las cuotas correspondientes a los productos fabricados por el titular del almacén fiscal que se introducen en éste, como las cuotas correspondientes a los productos que, estando almacenados en un depósito fiscal cuyo titular también lo es del almacén fiscal considerado, se introducen en éste.
+
+Las reducciones anteriores serán aplicables siempre que el depositario autorizado de que se trate acredite que la garantía prestada cubre las responsabilidades derivadas del ejercicio de su actividad como titular de un depósito fiscal o de un almacén fiscal.
+
+6\. Cuando se trate de productos fabricados o almacenados por depositarios autorizados que no son titulares del depósito fiscal o almacén fiscal en que se introducen, del importe de la garantía a prestar por los titulares de éstos últimos y determinado conforme a los apartados precedentes, podrá deducirse, previa autorización del centro gestor, hasta el 80 por 100 de las cuotas que corresponderían a aquellos productos. Para la aplicación de esta reducción será preciso que las garantías prestadas por los referidos depositarios autorizados cubran las responsabilidades que pudieran ser exigibles al titular del depósito fiscal o del almacén fiscal en relación con los productos introducidos por aquéllos. Cuando no pudiera determinarse con respecto a qué productos podrían ser exigibles dichas responsabilidades, será preciso que las garantías prestadas por los referidos depositarios autorizados cubran las responsabilidades que pudieran ser exigibles al titular del depósito fiscal o del almacén fiscal en relación con un porcentaje de los productos almacenados igual al que representan los productos introducidos por los referidos depositarios autorizados en el depósito o almacén fiscal en el último trimestre natural, en relación con el total de productos entrados en el depósito o almacén fiscal en tal período.
+
+7\. Destinatarios registrados y destinatarios certificados:
+
+a) Base de la garantía: Importe de las cuotas devengadas durante el año anterior por el destinatario registrado a título de contribuyente o por el destinatario certificado. En su defecto, las que se estime que pudieran devengarse en un año.
+
+b) Importe de la garantía:
+
+1.° Destinatarios registrados de alcohol y bebidas alcohólicas (incluidos extractos y concentrados alcohólicos): 2 por 100.
+
+El importe de esta garantía no podrá ser superior a 20.000.000 euros.
+
+2.° Destinatarios registrados y destinatarios certificados de hidrocarburos o labores del tabaco: 0,5 por 1.000.
+
+c) Importe mínimo: 30.000 euros, salvo en el caso de destinatarios registrados y destinatarios certificados que reciban exclusivamente cerveza, productos intermedios y extractos y concentrados alcohólicos, que se reducirá a 3.000 euros. El importe mínimo no será exigible cuando el depósito de recepción se dedique al almacenamiento exclusivo de vino y bebidas fermentadas.
+
+d) No obstante, la garantía contemplada en este apartado no será exigible, siempre que la garantía constituida en cada uno de ellos tenga un importe igual o superior al que sería exigible por aplicación de este apartado y siempre que en la misma se indique explícitamente que responderá también de las responsabilidades que incumben al interesado en calidad de destinatario registrado:
+
+1.° Cuando se haya prestado la garantía prevista en el apartado 2 del artículo 3 de este Reglamento.
+
+2.° En los casos en que el titular de un almacén fiscal inscriba este en el registro territorial como depósito de recepción a efectos de adquirir la condición de destinatario registrado.
+
+e) Los destinatarios registrados ocasionales prestarán únicamente la garantía prevista en el artículo 31.A.6.b de este Reglamento.
+
+8\. Representantes fiscales:
+
+a) Base de la garantía: Importe de las cuotas ingresadas por el representante fiscal a título de sustituto del contribuyente durante el año anterior.
+
+b) Importe de la garantía: 2,5 por 100.
+
+9\. Expedidores registrados de productos con destino al ámbito territorial interno:
+
+En los supuestos de importación de productos objeto de impuestos especiales en régimen suspensivo o con aplicación de un supuesto de exención o de un tipo impositivo reducido, el expedidor registrado estará obligado a la prestación de una garantía que cubra el importe de las cuotas que corresponderían a los productos importados, si no fuese aplicable ningún beneficio fiscal, hasta que se produzca la recepción de los productos en el establecimiento al que se destinan.
+
+Para la determinación de la garantía se tomarán en consideración los tipos impositivos vigentes en el ámbito territorial interno en el momento de la expedición.
+
+El expedidor registrado podrá optar por prestar alguna de las siguientes garantías:
+
+a) Individual. Se prestará ante la aduana de importación y su importe será el equivalente al 100 por 100 de la cuota de impuestos especiales correspondiente al producto expedido, en el caso de importaciones en régimen suspensivo o con aplicación de un supuesto de exención, o de la cuota de impuestos especiales calculada aplicando la diferencia de tipos impositivos, en el caso de productos importados con aplicación de un tipo impositivo reducido.
+
+b) Global. Se prestará en la oficina gestora en cuyo registro territorial se encuentre inscrito el expedidor registrado. La garantía a constituir, por un importe equivalente al 2,5 por 100 de las cuotas de impuestos especiales correspondientes a las expediciones del año anterior, tendrá un importe mínimo de 60.000 euros, con las siguientes excepciones:
+
+1\. Gas natural y del gas licuado del petróleo: 30.000 euros.
+
+2\. Extractos y concentrados alcohólicos: 6.000 euros.
+
+3\. Productos intermedios y cerveza: 6.000 euros, salvo que los envíos no superen los 100.000 litros anuales en el caso de los productos intermedios y los 200.000 litros en el caso de la cerveza. En estos casos, el importe mínimo será de 1.500 euros.
+
+En el caso de garantías globales, si la cuota de impuestos especiales correspondiente a una única expedición, calculada de la forma señalada en la letra a), tuvieren un importe superior al importe de la garantía constituida, el expedidor registrado estaría obligado a constituir una garantía complementaria por la diferencia. Esta garantía sería cancelada una vez que se acreditase la recepción de conformidad de los productos en el establecimiento de destino.
+
+No se exigirá garantía alguna en el caso de expedidores registrados que lo sean solo de vino y bebidas fermentadas.
+
+Si la importación se efectúa para introducir los bienes en un establecimiento cuyo titular presta garantía con arreglo a lo dispuesto en este Reglamento, tal garantía podrá surtir los efectos de la contemplada en el primer párrafo de este apartado 9, siempre que en la misma conste expresamente que cubre las incidencias que pudieran acaecer en la circulación de los bienes desde la aduana de importación hasta el establecimiento en cuestión.
+
+En el caso de que un expedidor registrado sea titular de una fábrica o un depósito fiscal o de un almacén fiscal, la garantía que tenga constituida según lo dispuesto en los apartados 2, 3 ó 4 de este artículo podrá surtir los efectos de la contemplada en el primer párrafo de este apartado 9, en las condiciones señaladas en el párrafo anterior.
+
+10\. Expedidores registrados de productos con destino al ámbito territorial comunitario no interno:
+
+En los supuestos de importación de productos objeto de impuestos especiales en régimen suspensivo a un destino autorizado en el ámbito territorial comunitario no interno, el expedidor registrado estará obligado a la prestación de una garantía que cubra el importe de las cuotas que corresponderían a los productos importados hasta que se produzca la recepción de los productos en el establecimiento al que se destinan o hasta que se certifique que los productos han abandonado el territorio de la Comunidad.
+
+Para la determinación de la garantía se tomarán en consideración los tipos impositivos vigentes en el ámbito territorial interno en el momento de la expedición.
+
+La garantía que, para estos supuestos, ha de prestar el expedidor registrado tendrá los mismos importes que los que se derivan del cálculo establecido en el apartado anterior para los envíos desde el lugar de importación a un destino en el ámbito territorial interno, con la excepción del supuesto contemplado en el párrafo siguiente.
+
+Los expedidores registrados que lo sean solo de vino y bebidas fermentadas y de los productos de la tarifa 2.ª del Impuesto sobre Hidrocarburos deberán prestar una garantía por un importe de 3.000 euros.
+
+En el caso de que un expedidor registrado sea titular de una fábrica o un depósito fiscal, la garantía que tenga constituida según lo dispuesto en el apartado 11 de este artículo podrá surtir los efectos de la contemplada en el primer párrafo de este apartado 10, siempre que en la misma conste expresamente que cubre las incidencias que pudieran acaecer en la circulación de los bienes desde la aduana de importación hasta el establecimiento en cuestión.
+
+11\. Depositarios autorizados expedidores de productos en régimen suspensivo con destino al ámbito territorial de la Unión no interno:
+
+a) Los depositarios autorizados deberán prestar una garantía global cuya base e importe será el siguiente:
+
+1.º Base de la garantía: el importe de las cuotas que corresponderían a sus envíos intracomunitarios durante el año anterior, calculadas aplicando los tipos impositivos vigentes en el ámbito territorial interno, salvo en el caso de expedidores de vino y bebidas fermentadas, gas natural y productos de la tarifa 2.ª del Impuesto sobre Hidrocarburos, en los que la base de la garantía estará constituida por el valor de sus envíos durante el año anterior.
+
+2.º Importe de la garantía: 2,5 por 100 de las cuotas señaladas en la letra anterior, salvo en el caso de depositarios autorizados de hidrocarburos que los expidan por vía marítima o fluvial o por tuberías fijas y en el caso de expedidores de vino y bebidas fermentadas, en que la garantía a prestar será por un importe del 1 por 1000, y en el caso del gas natural y productos de la tarifa 2.ª del Impuesto sobre Hidrocarburos, en que el importe de la garantía quedará fijado en el 1 por 100 del valor de los envíos durante el año anterior.
+
+3.º Importe mínimo: 60.000 euros, con las siguientes excepciones:
+
+– Gas natural y gas licuado de petróleo: 30.000 euros.
+
+– Extractos y concentrados alcohólicos: 6.000 euros.
+
+– Productos intermedios y cerveza: 6.000 euros, salvo que los envíos no superen los 100.000 litros anuales en el caso de los productos intermedios y los 200.000 litros en el caso de la cerveza, en los que el importe mínimo será de 1.500 euros.
+
+– Vino y bebidas fermentadas y productos no sensibles de la tarifa 2.ª del Impuesto sobre Hidrocarburos: 1.000 euros.
+
+– Bebidas derivadas cuyos envíos anuales, en términos de alcohol puro, no superen los 25.000 litros: 1 euro por cada litro de alcohol puro con un mínimo de 3.000 euros.
+
+b) La garantía global a que se refiere este apartado 11 se considerará prestada por los fabricantes y titulares de depósitos fiscales por medio de las que hayan constituido con arreglo a lo previsto en los apartados 2 y 3 de este artículo, respectivamente, siempre que tales garantías:
+
+a') Tengan un importe superior al que resulte de la aplicación de las reglas del presente apartado.
+
+b') Se exprese explícitamente que es válida en todo el ámbito territorial de la Unión para responder de las obligaciones derivadas de la circulación intracomunitaria de los productos expedidos por aquellos.
+
+c) En los envíos al ámbito territorial de la Unión no interno de productos objeto del Impuesto sobre Hidrocarburos por vía marítima o a través de conducciones fijas, podrá eximirse de la prestación de esta garantía por medio de un expediente de dispensa que se iniciará a petición del interesado dirigido a la oficina gestora, que acordará, en su caso, la dispensa previo acuerdo favorable de los Estados miembros de tránsito y destino. Las salidas de fábrica o depósito fiscal amparadas por esta garantía no computarán a efectos de la que han de prestar como establecimiento, de acuerdo con lo previsto en los apartados 2.a) y 3.a) de este artículo.
+
+12\. Cuando, según lo establecido en este Reglamento, deba prestarse garantía, ésta podrá constituirse, a satisfacción y disposición del Delegado de la Agencia Estatal de Administración Tributaria competente por razón del lugar donde radique el establecimiento, por alguno o algunos de los medios admitidos por el Reglamento General de Recaudación para los supuestos de aplazamiento o fraccionamiento del pago.
+
+13\. El Delegado de la Agencia Estatal de Administración Tributaria podrá acordar que se actualicen los importes de las garantías constituidas cuando se modifiquen los tipos impositivos o se produzcan variaciones apreciables en las magnitudes sobre las que se calcularon tales importes.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, en el momento en que, durante el transcurso de un período impositivo dado, se produzca un aumento anormal del importe de las cuotas que resultarían de aplicar el tipo impositivo vigente a la cantidad de productos entrados en el establecimiento durante el año en curso y exceda asimismo del importe de la garantía prestada, el Delegado de la Agencia Estatal de Administración Tributaria, mediante resolución motivada, podrá acordar la constitución de una garantía especial en metálico o en aval bancario por la diferencia entre el importe de la totalidad de las cuotas devengadas y pendientes de pago y el de la garantía prestada. Hasta tanto se constituya la garantía especial, el Delegado de la Agencia Estatal de Administración Tributaria suspenderá la autorización del establecimiento para recibir y expedir productos objeto de los impuestos especiales de fabricación.
+
+14\. Cuando el titular de un establecimiento tenga deudas en periodo ejecutivo por impuestos especiales, el Delegado de la Agencia Estatal de Administración Tributaria podrá exigir que se actualice el importe de la garantía por cada establecimiento de que sea titular, mediante la aplicación del tipo vigente a la cantidad de productos que hayan entrado en cada uno de dichos establecimientos durante los últimos 12 meses, siempre que la garantía existente sea inferior a la que resulte de aplicar la regla anterior o, como consecuencia de la ejecución de la garantía prestada, la garantía subsistente, en su caso, sea inferior al citado importe.
+
+En el caso de las garantías globales a las que se refiere el artículo 45.2 del presente Reglamento esta facultad corresponderá a la oficina gestora.
+
+Para la actualización de las garantías se concederá al interesado un plazo de quince días naturales. Si transcurrido el mismo no la hubiera presentado, el Delegado de la Agencia Estatal de Administración Tributaria suspenderá la autorización del establecimiento para recibir y expedir productos objeto de los impuestos especiales de fabricación.
+
+La garantía especial será cancelada en el momento en que se satisfagan las cuotas correspondientes que no estuvieran comprendidas en acuerdos de aplazamiento o fraccionamiento de pago concedidos conforme a lo dispuesto en el Reglamento General de Recaudación.
+
+15\. Cuando de lo dispuesto en este Reglamento haya de prestarse una garantía de importe inferior a 1.000 euros el interesado quedará dispensado de su presentación salvo cuando se trate de garantías exigibles en relación con procedimientos de circulación intracomunitaria.
+
+16\. Los apartados 1 a 11 de este artículo no serán de aplicación a los fabricantes, titulares de depósitos fiscales o expedidores registrados de productos objeto del Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco, que deberán prestar una garantía de 6.000 euros, salvo que se trate de tiendas libres de impuestos, que quedarán exoneradas e la prestación de dicha garantía.
+
+> Téngase en cuenta que el apartado 16, añadido por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. [Ref. BOE-A-2025-1136](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1136)
+
+> Se añade el apartado 16, por la disposición final 5.4 de la Ley 7/2024, de 20 de diciembre. [Ref. BOE-A-2024-26694](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26694)
+
+> Téngase en cuenta que esta actualización tendrá efectos desde el 1 de abril de 2025, según determina el art. 10.4 del Real Decreto-ley 9/2024, de 23 de diciembre. [Ref. BOE-A-2024-26915](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26915)
+
+> Se modifican los apartados 7 y 11 por el art. 41.34 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifican los apartados 2 a 4 por el art. 4.18 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica el apartado 11.a).3º por el art. 3.12 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica la letra c) del apartado 4 por el art. 1.8 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifican los apartados 3.c), 9, 10 y 11.a) por el art. 1.15 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica por el art. único.40 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.40 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifican los apartados 3.c), 4.c) y 7.c) por el art. único.9 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Se modifican los apartados 2.a), 3.c) y 11 por el art. único.8 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 44. Liquidación y pago del impuesto.
+
+1\. Salvo en los casos de importación, los sujetos pasivos y demás obligados tributarios que resulten obligados al pago de los impuestos especiales de fabricación estarán obligados a presentar las correspondientes autoliquidaciones, así como a efectuar, simultáneamente, el pago de la deuda tributaria.
+
+Los depositarios autorizados deberán presentar autoliquidaciones, incluso en aquellos periodos en los que el resultado de la cuota tributaria a ingresar sea cero. En el caso del gas natural, esta obligación corresponderá a quienes tengan la condición de sujetos pasivos en calidad de sustitutos del contribuyente en los términos previstos en la Ley.
+
+No obstante, cuando a lo largo de un periodo de liquidación resulten aplicables tipos de gravamen diferentes por haber sido éstos modificados, los sujetos pasivos estarán obligados a presentar una autoliquidación, con ingreso de las cuotas correspondientes, por cada periodo de tiempo en que hayan sido aplicados cada uno de los tipos de gravamen.
+
+2\. La presentación de la autoliquidación y, en su caso, el pago simultáneo de la deuda tributaria se efectuará con carácter general, por cada uno de los establecimientos o lugares de recepción, en las cajas de los órganos competentes, oficinas recaudadoras o entidades autorizadas para su admisión.
+
+La oficina gestora podrá autorizar a los sujetos pasivos y demás obligados al pago de los impuestos especiales de fabricación la centralización de la presentación de las autoliquidaciones y el ingreso simultáneo de la deuda tributaria mediante la presentación de una única autoliquidación en una entidad colaboradora autorizada.
+
+3\. Los períodos de liquidación y los plazos para la presentación de la autoliquidación y, en su caso, ingreso simultáneo de la deuda tributaria serán los siguientes:
+
+a) Impuestos sobre Hidrocarburos, sobre Labores del Tabaco, y sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco.
+
+Período de liquidación: Un mes natural.
+
+Plazo: Los veinte primeros días naturales siguientes a aquel en que finaliza el mes en que se hayan producido los devengos.
+
+4\. Los modelos de autoliquidaciones o, en su caso, los medios y procedimientos electrónicos, informáticos o telemáticos que pudieran sustituirlos para la determinación e ingreso de la deuda tributaria, serán aprobados por el Ministro de Hacienda y Administraciones Públicas.
+
+5\. Los sujetos pasivos estarán obligados a presentar una declaración por cada establecimiento de los que sean titulares, la cual deberá comprender las operaciones realizadas en cada mes o trimestre natural, según el caso, incluso cuando sólo tengan existencias, en los casos y conforme a los modelos o procedimientos que establezca el Ministro de Hacienda. No será exigible la declaración de operaciones a los titulares de los establecimientos que lleven sus libros de contabilidad reglamentaria a través de la sede electrónica de la Agencia Estatal de Administración Tributaria.
+
+> Téngase en cuenta que la actualización del apartado 3, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. [Ref. BOE-A-2025-1136](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1136)
+
+> Se modifica el apartado 3, por la disposición final 5.5 de la Ley 7/2024, de 20 de diciembre. [Ref. BOE-A-2024-26694](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26694)
+
+> Téngase en cuenta que esta actualización tendrá efectos desde el 1 de abril de 2025, según determina el art. 10.4 del Real Decreto-ley 9/2024, de 23 de diciembre. [Ref. BOE-A-2024-26915](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26915)
+
+> Se modifican los apartados 3 y 5 por el art. 4.19 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica el apartado 5 por el art. 3.13 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica por el art. 1.9 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica por el art. único.42 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifican los apartados 1 y 2 por el art. único.41 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 1 por el art. único.10 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Se modifica por el art. único.9 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 44 bis. Autoliquidaciones rectificativas.
+
+1\. Los sujetos pasivos deberán rectificar, completar o modificar las autoliquidaciones presentadas por los impuestos especiales de fabricación mediante la presentación de una autoliquidación rectificativa, utilizando el modelo de declaración aprobado por la persona titular del Ministerio de Hacienda.
+
+No obstante lo dispuesto en el párrafo anterior, cuando el motivo de la rectificación del obligado tributario sea exclusivamente la alegación razonada de una eventual vulneración por la norma aplicada en la autoliquidación previa de los preceptos de otra norma de rango superior legal, constitucional, de Derecho de la Unión Europea o de un Tratado o Convenio internacional se podrá instar la rectificación a través del procedimiento previsto en el artículo 120.3 de la Ley 58/2003, de 17 de diciembre, General Tributaria, y desarrollado en los artículos 126 a 128 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio. Si este motivo concurriese con otros de distinta naturaleza, por estos últimos el obligado tributario deberá presentar una autoliquidación rectificativa.
+
+Lo establecido en este apartado no se aplicará a las rectificaciones de cuotas indebidamente repercutidas a otros obligados tributarios a las que se refiere el artículo 129 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio.
+
+2\. La autoliquidación rectificativa de una autoliquidación previa se podrá presentar antes de que haya prescrito el derecho de la Administración para determinar la deuda tributaria mediante liquidación o el derecho a solicitar la devolución que, en su caso, proceda. Cuando se presente fuera del plazo de declaración tendrá el carácter de extemporánea.
+
+3\. En la autoliquidación rectificativa constará expresamente esta circunstancia y la obligación tributaria y período a que se refiere, así como la totalidad de los datos que deban ser declarados y otros que puedan establecerse en la Orden Ministerial reguladora del modelo de declaración aprobada por la persona titular del Ministerio de Hacienda, como los motivos de rectificación. A estos efectos, se incorporarán los datos incluidos en la autoliquidación presentada con anterioridad que no sean objeto de modificación, los que sean objeto de modificación y los de nueva inclusión.
+
+4\. La autoliquidación rectificativa podrá rectificar, completar o modificar la autoliquidación presentada con anterioridad. En particular:
+
+a) Cuando de la rectificación efectuada resulte un importe a ingresar superior al de la autoliquidación anterior o una cantidad a devolver inferior a la anteriormente autoliquidada, se aplicará el régimen previsto para las autoliquidaciones complementarias en el artículo 122.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria, y su normativa de desarrollo.
+
+b) En los casos no contemplados en la letra anterior, cuando del cálculo efectuado en la autoliquidación rectificativa resulte una cantidad a devolver, con la presentación de la autoliquidación rectificativa se entenderá solicitada la devolución, que se tramitará conforme al régimen del procedimiento previsto en los artículos 124 a 127 de la Ley 58/2003, de 17 de diciembre, General Tributaria, y su normativa de desarrollo, sin perjuicio de la obligación de abono de intereses de demora conforme a lo establecido en el apartado 3 del artículo 120 de dicha Ley.
+
+El plazo para efectuar la devolución será de seis meses contados desde la finalización del plazo reglamentario para la presentación de la autoliquidación o, si éste hubiese concluido, desde la presentación de la autoliquidación rectificativa.
+
+Si con la presentación de la autoliquidación previa se hubiera solicitado una devolución y ésta no se hubiera efectuado al tiempo de presentar la autoliquidación rectificativa, con la presentación de esta última se considerará finalizado el procedimiento iniciado mediante la presentación de la autoliquidación previa.
+
+c) Cuando de la rectificación efectuada resulte una minoración del importe a ingresar de la autoliquidación previa y no proceda una cantidad a devolver, se mantendrá la obligación de pago hasta el límite del importe a ingresar resultante de la autoliquidación rectificativa.
+
+Si la deuda resultante de la autoliquidación previa estuviera aplazada o fraccionada, con la presentación de la autoliquidación rectificativa se entenderá solicitada la modificación en las condiciones del aplazamiento o fraccionamiento conforme a lo previsto en el segundo párrafo del apartado 3 del artículo 52 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio.
+
+5\. La autoliquidación rectificativa no producirá efectos respecto a aquellos elementos que hayan sido regularizados mediante liquidación definitiva o provisional en los términos a que se refieren los apartados 2 y 3 del artículo 126 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, respectivamente.
+
+> Téngase en cuenta que este artículo, añadido por la disposición final 6.1 del Real Decreto 117/2024, de 30 de enero, [Ref. BOE-A-2024-1771](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1771), entra en vigor cuando lo haga la orden ministerial aprobada por la persona titular del Ministerio de Hacienda por la que se aprueben los correspondientes modelos de declaración, según establece su disposición final 11.d).
+
+> Se añade por la disposición final 6.1 del Real Decreto 117/2024, de 30 de enero. [Ref. BOE-A-2024-1771](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1771)
+
+> Téngase en cuenta que este artículo entra en vigor cuando lo haga la orden ministerial aprobada por la persona titular del Ministerio de Hacienda por la que se aprueben los correspondientes modelos de declaración, según establece la disposición final 11.d) del citado Real Decreto.
+
+###### Artículo 45. Otras normas generales de gestión.
+
+1\. En las fábricas de productos objeto de los impuestos especiales de fabricación podrán recibirse y almacenarse, en régimen suspensivo, productos objeto de su actividad, sin necesidad de que se sometan a operaciones de transformación.
+
+La actividad de una fábrica en relación con los productos recibidos y almacenados en régimen suspensivo y no sometidos a operaciones de transformación deberá contabilizarse individualizadamente respecto de la de fabricación o transformación.
+
+La posibilidad de acogerse a lo dispuesto en el primer párrafo queda condicionada a la obligación de que la actividad de fabricación suponga, como mínimo, el 50 por 100 del total del volumen de las salidas anuales del establecimiento.
+
+El incumplimiento de la obligación a que se refiere el párrafo anterior inhabilitará al titular de la fábrica para acogerse a la posibilidad contemplada en el primer párrafo de este apartado, salvo que se preste la garantía a la que se hace referencia en el artículo 43.2.c) de este Reglamento, correspondiente a los depósitos fiscales. Tal inhabilitación se producirá, en su caso, por medio de una resolución motivada de la oficina gestora previa audiencia al titular de la fábrica.
+
+2\. Se podrá autorizar a las empresas obligadas a prestar garantía ante varias oficinas gestoras, a prestar una garantía global ante una sola de dichas oficinas gestoras, siempre que tal garantía responda de las deudas tributarias exigibles en relación con las actividades desarrolladas en todos sus establecimientos.
+
+3\. En las fábricas, depósitos fiscales, depósitos de recepción y almacenes fiscales de productos objeto de los impuestos especiales de fabricación, estos productos, así como, en su caso, las primeras materias con que se obtienen, se almacenarán, mientras no se encuentren acondicionados para su venta al por menor, en continentes provistos de los sistemas de medición necesarios para la determinación de las cantidades almacenadas.
+
+4\. Los adjudicatarios en pública subasta y en los demás procedimientos de enajenación de bienes embargados previstos en el Reglamento General de Recaudación, aprobado por el Real Decreto 939/2005, de 29 de julio, de productos objeto de los impuestos especiales de fabricación deberán inscribirse en el registro territorial si su actividad respecto de dichos productos así lo determina con arreglo a las normas de este Reglamento.
+
+Realizada la adjudicación de los productos objeto de los impuestos especiales de fabricación, para su retirada será necesario, en su caso, el correspondiente documento de circulación, expedido por el adjudicatario, previa autorización de la oficina gestora y, si se tratara de bebidas derivadas o de labores del tabaco, la colocación de las correspondientes precintas de circulación.
+
+Los procedimientos de enajenación de los productos objeto de los impuestos especiales de fabricación, excepto en los casos de géneros procedentes de contrabando, se pondrán en conocimiento de la oficina gestora, con anterioridad a la fecha de su celebración, para que, en su caso, practique las liquidaciones que procedan respecto de los bienes objeto de enajenación.
+
+5\. La persona titular del Ministerio de Hacienda y Función Pública podrá establecer los casos y condiciones en que la presentación de declaraciones y documentos ante el órgano correspondiente que proceda conforme a lo establecido en este Reglamento, pueda ser sustituido por el suministro de los datos correspondientes por los medios y procedimientos electrónicos, informáticos o telemáticos que él mismo determine.
+
+> Téngase en cuenta que esta actualización de los apartados 4 y 5, establecida por el art. 2.4 del Real Decreto 1171/2023, de 27 de diciembre, [Ref. BOE-A-2023-26454](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26454), entra en vigor el 20 de mayo de 2024, según establece la disposición final 4 del citado Real Decreto.
+
+> Redacción anterior:
+
+> "4. Los adjudicatarios en pública subasta y en los demás procedimientos de enajenación de bienes embargados previstos en el Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación, de productos objeto de los impuestos especiales de fabricación deberán inscribirse en el registro territorial si su actividad respecto de dichos productos así lo determina con arreglo a las normas de este Reglamento.
+
+> Realizada la adjudicación de los productos objeto de los impuestos especiales de fabricación, para su retirada será necesario, en su caso, el correspondiente documento de circulación, expedido por el adjudicatario, previa autorización de la oficina gestora y, si se tratara de bebidas derivadas, de cigarrillos o de picadura para liar, la colocación de las correspondientes precintas de circulación.
+
+> Los procedimientos de enajenación de los productos objeto de los impuestos especiales de fabricación, excepto en los casos de géneros procedentes de contrabando, se pondrán en conocimiento de la oficina gestora, con anterioridad a la fecha de su celebración, para que, en su caso, practique las liquidaciones que procedan respecto de los bienes objeto de enajenación.
+
+> 5\. El Ministro de Hacienda y Administraciones Públicas podrá establecer los casos y condiciones en que la presentación de declaraciones y documentos ante el órgano correspondiente que proceda conforme a lo establecido en este Reglamento, pueda ser sustituido por el suministro de los datos correspondientes por los medios y procedimientos electrónicos, informáticos o telemáticos que él mismo determine."
+
+6\. En los supuestos del artículo 14, apartado 2 de la Ley, los depositarios autorizados deberán presentar una declaración informativa periódica de las personas o entidades para quienes realicen la fabricación, transformación o almacenamiento en régimen suspensivo. En dicha declaración se harán constar los datos siguientes:
+
+a) Identificación y número de identificación fiscal de la persona o entidad para quien realice la operación.
+
+b) Clase de los productos objeto de los Impuestos Especiales.
+
+c) Elementos de cuantificación de las cuotas repercutidas o con aplicación de un supuesto de exención.
+
+En dicha declaración informativa los depositarios autorizados harán constar igualmente los datos a que se refieren las letras b) y c) respecto de las operaciones en las que la repercusión del impuesto haya tenido lugar conforme a los previsto en el apartado 1 del artículo 14 de la Ley.
+
+La declaración informativa periódica se presentará en el lugar, forma, plazos y modelo que establezca el Ministro de Hacienda y Administraciones Públicas.
+
+> Se modifican los apartados 4 y 5 por el art. 2.4 del Real Decreto 1171/2023, de 27 de diciembre. [Ref. BOE-A-2023-26454](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26454)
+
+> Esta modificación entra en vigor el 20 de mayo de 2024, según establece la disposición final 4 del citado Real Decreto.
+
+> Se modifica el apartado 4 por el art. 4.20 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica el apartado 1 por el art. 3.14 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica por el art. único.42 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica el apartado 1 por el art. único.42 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 1 por el art. único.11 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+> Redactado conforme a la corrección de errores publicada en BOE, núm. 19 de 22 de enero de 2000. [Ref. BOE-A-2000-1348](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1348)
+
+> Se modifica por el art. único.10 del Real Decreto 112/1998, de 30 de noviembre. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+##### Sección 10.ª Control de actividades y locales
+
+###### Artículo 46. Control de actividades y locales.
+
+1\. Las actuaciones de comprobación e investigación tributaria en el ámbito de los impuestos especiales de fabricación se llevarán a cabo por la Administración Tributaria, de acuerdo con lo dispuesto en la Ley 58/2003, de 17 de diciembre, General Tributaria, la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales y sus respectivas normativas de desarrollo.
+
+2\. Además, y con independencia de lo dispuesto en el apartado anterior, las actividades y locales de las fábricas, depósitos fiscales y almacenes fiscales estarán sometidas a un control específico por la Intervención de los Impuestos Especiales de Fabricación, con exclusión, en el Impuesto sobre Hidrocarburos, de los establecimientos exclusivamente vinculados al gas natural.
+
+3\. El control específico a que se refiere el apartado anterior se desarrollará con carácter permanente en relación con las actividades y locales de la refinerías de petróleo y de las fábricas de alcohol que tengan una capacidad de producción diaria superior a 1.000 litros de alcohol puro.
+
+4\. Las funciones de Inspección e Intervención se ejercerán por los correspondientes servicios dependientes del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria.
+
+> Se modifica el apartado 2 por el art. 1.10 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica el apartado 1 por el art. único.43 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifican los apartados 1 y 2 por el art. único.43 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica por el art. único.12 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE, núm. 19 de 22 de enero de 2000. [Ref. BOE-A-2000-1348](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1348)
+
+###### Artículo 47. Régimen de inspección.
+
+**(Derogado)**
+
+> Se deroga por el art. único.13 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+###### Artículo 48. Régimen de intervención.
+
+1\. Corresponde a la Intervención de los Impuestos Especiales de Fabricación el desarrollo continuado de las siguientes funciones:
+
+a) Controlar el cumplimiento de las obligaciones formales impuestas a los obligados tributarios por los impuestos especiales de fabricación, relacionadas con la inscripción en el registro territorial de la oficina gestora correspondiente y con la autorización de la actividad y de los establecimientos donde se introduzcan, transformen, manipulen, almacenen, comercialicen, destruyan, desnaturalicen, marquen o expidan productos objeto de dichos impuestos.
+
+b) Controlar los productos y las materias primas que se introduzcan, almacenen o salgan de los establecimientos sometidos a este régimen, incluida la extracción de muestras de aquéllos y aquéllas.
+
+c) Controlar las operaciones de fabricación o transformación, así como la efectiva aplicación de los productos en los destinos y procesos declarados, incluidas las correspondientes declaraciones de trabajo, los partes de resultados y partes de incidencias, la desnaturalización, destrucción y el marcado de productos.
+
+d) Comprobar el cumplimiento de lo dispuesto en este Reglamento, en relación con los sistemas contables cuya llevanza sea exigible reglamentariamente.
+
+e) Efectuar recuentos de las existencias de materias primas, productos y marcas fiscales que se encuentren en los establecimientos sometidos a este régimen.
+
+f) Verificar que, en las condiciones que le resulten de aplicación, el titular del establecimiento o actividad sometida a intervención ha cumplido las obligaciones de presentación de las correspondientes declaraciones de operaciones y autoliquidaciones por impuestos especiales y, en su caso, ha procedido a efectuar el ingreso de la deuda tributaria.
+
+g) El ejercicio por la Intervención de los Impuestos Especiales de Fabricación de las funciones a que se refiere este apartado no tendrá la consideración de comprobación de carácter parcial a los efectos de lo previsto en el artículo 149 de la Ley General Tributaria.
+
+2\. La iniciación, desarrollo y terminación de las actuaciones de la Intervención, así como los derechos y obligaciones de los titulares de los establecimientos y actividades frente a aquélla se regirán, con carácter general, por lo dispuesto en el Título V del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio, con las siguientes particularidades:
+
+a) En atención al carácter continuado del régimen de intervención, los titulares de los establecimientos y actividades sometidos a este régimen deberán permitir, en todo momento y sin necesidad de comunicación previa, la entrada al establecimiento a los funcionarios y agentes de la Intervención, a efectos del inicio y práctica de las correspondientes actuaciones.
+
+b) Sin perjuicio de los supuestos en los que el control sea permanente, los funcionarios y agentes de la Intervención podrán permanecer en dichos establecimientos durante el tiempo necesario para el ejercicio de sus funciones.
+
+c) En caso de ausencia, los titulares de los establecimientos y actividades sometidos a este régimen deberán designar una persona que facilite el acceso a las instalaciones, así como quien les represente, con poder bastante, ante aquéllos cuando sea requerido por los mismos.
+
+d) En atención a la índole de los controles llevados a cabo por la Intervención, los titulares de los establecimientos y actividades sometidos a este régimen deberán poner a disposición de funcionarios y agentes de la Intervención los elementos de comprobación y medida disponibles en el establecimiento, incluidos los medios adecuados para la extracción de muestras de los productos que constituyan el objeto de la actividad del establecimiento, así como el personal idóneo para su utilización.
+
+e) Cuando, conforme a lo establecido en el apartado 3 del artículo 46 el control específico sea permanente, los titulares de los correspondientes establecimientos y actividades deberán proporcionar a los funcionarios y agentes de la Intervención el local, personal auxiliar y material necesarios para el ejercicio de sus funciones con carácter permanente.
+
+f) Los titulares de los establecimientos y actividades sometidos a este régimen deberán adoptar las medidas de control que los servicios de intervención juzguen oportunas a los fines del apartado anterior y suministrar todos los elementos de información necesarios a dicho efecto.
+
+3\. Con el objeto de hacer constar cuantos hechos o circunstancias tengan relevancia para el control de las actividades o establecimientos sometidos a este régimen, las actuaciones de la Intervención de los Impuestos Especiales de Fabricación se documentarán en diligencias, comunicaciones, informes y actas.
+
+4\. Las actas formalizadas por los servicios de intervención en el curso de sus actuaciones, que podrán ser de conformidad o disconformidad según que el interesado haya aceptado íntegramente o no la propuesta de liquidación contenida en las mismas, serán extendidas cuando proceda regularizar el tratamiento tributario de las operaciones concretas objeto de control bajo este régimen. Las liquidaciones derivadas de las actas tendrán carácter provisional.
+
+> Se modifica la letra f) del apartado 1 por el art. 1.11 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica el apartado 2.d) por el art. único.44 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.44 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica por el art. único.14 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+> Redactado el apartado 1.a) conforme a la corrección de erratas publicada en BOE, núm. 134, de 9 de febrero de 2000. [Ref. BOE-A-2000-2603](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-2603)
+
+###### Artículo 49. Régimen de intervención permanente.
+
+Además de las obligaciones derivadas de lo dispuesto en el artículo anterior, los titulares de las actividades y de los locales sometidos a este régimen de control estarán obligados a:
+
+1\. Permitir, de acuerdo con las modalidades que establezca el centro gestor, el control ininterrumpido, material y documental, de todas las entradas, autoconsumos y salidas de primeras materias y demás productos y, en general, de toda la actividad desarrollada en el establecimiento relacionada con la normativa sobre impuestos especiales de fabricación. Esta obligación se extiende a las actividades que puedan realizarse, en el mismo, por personas distintas de su titular.
+
+2\. Proporcionar a los servicios de intervención, con carácter permanente, los locales, instalaciones y material necesarios para llevar a cabo la intervención y sufragar los gastos que ello ocasione.
+
+###### Artículo 50. Controles contables.
+
+1\. Con independencia de las obligaciones contables establecidas por las normas mercantiles y otras normas fiscales, los titulares de los establecimientos afectados por la normativa de los impuestos especiales deberán llevar una contabilidad de los productos objeto de dichos impuestos y, en su caso, de las materias primas necesarias para obtenerlos, así como de las marcas fiscales, con arreglo a lo establecido en este Reglamento y la normativa de desarrollo que se apruebe por el Ministro de Hacienda.
+
+Dicha contabilidad deberá reflejar los procesos, movimientos y existencias que afecten a tales productos y materias, incluidas las diferencias que se pongan de manifiesto con ocasión del almacenamiento, fabricación o circulación, de forma que se diferencien los diversos productos, epígrafes y regímenes fiscales.
+
+El cumplimiento de esta obligación se realizará mediante los libros contables, en los plazos y con el contenido que se establezca por el Ministro de Hacienda.
+
+Toda la documentación reglamentaria, comercial y justificativa de los asientos contables deberá conservarse por los interesados en los respectivos establecimientos durante el período de prescripción del impuesto. Cuando se trate de establecimientos que se extiendan por el ámbito territorial de más de una oficina gestora, se conservará en el lugar donde radique el centro de gestión y control de dicho establecimiento. Por razones de seguridad u otras debidamente justificadas, la oficina gestora podrá autorizar que se conserve en un lugar distinto.
+
+En cualquier caso, toda la documentación reglamentaria, comercial y justificativa de los asientos contables deberá estar a disposición de los servicios de inspección o de intervención de acuerdo con el régimen de control a que esté sometido el establecimiento. A estos efectos, podrá disponerse de la documentación exigible en soporte informático siempre que la consulta de la misma se pueda realizar sin dilación alguna desde el propio establecimiento.
+
+2\. El cumplimiento de la obligación de llevanza de la contabilidad prevista en el anterior apartado se realizará por los siguientes medios:
+
+a) Si se trata de fábricas, depósitos fiscales, depósitos de recepción, almacenes fiscales o fábricas de vinagre mediante un sistema contable en soporte informático, a través de la sede electrónica de la Agencia Estatal de Administración Tributaria, con el suministro electrónico de los asientos contables que se realizará a través de un servicio web o, en su caso, de un formulario electrónico, todo ello conforme al procedimiento y en los plazos y condiciones que se aprueben por el Ministro de Hacienda.
+
+No obstante lo anterior, la oficina gestora podrá autorizar, a solicitud de los interesados, que los elaboradores de vino y bebidas fermentadas cuyo volumen de producción anual, computando la de todos los establecimientos de que sean titulares, no sea superior a 100.000 litros y los destiladores artesanales, puedan cumplimentar la contabilidad prevista en este artículo mediante la utilización de libros foliados en soporte papel.
+
+b) En los demás establecimientos afectados por la normativa de impuestos especiales mediante la utilización de libros foliados en soporte papel o mediante un sistema contable en soporte informático.
+
+3\. Los titulares de los establecimientos afectados por la normativa reguladora de los impuestos especiales que no estén obligados a la llevanza de la contabilidad a través de la sede electrónica de la Agencia Estatal de Administración Tributaria, podrán optar por su llevanza a través de la referida sede electrónica.
+
+Dicha opción se deberá ejercer durante el mes de noviembre anterior al inicio del año natural en el que deba surtir efecto mediante la comunicación a la oficina gestora. No obstante, los establecimientos que hubieran iniciado la realización de actividades en el año natural en curso, podrán optar al tiempo de presentar la declaración de comienzo de la actividad, surtiendo efecto dicha opción desde el comienzo de la actividad.
+
+Quienes opten por este sistema de llevanza de los libros contables deberán mantenerlo, al menos, durante el año natural para el que se ejercita la opción.
+
+La opción se entenderá prorrogada para los años siguientes en tanto no se produzca la renuncia a la misma. La renuncia deberá ejercitarse mediante comunicación a la oficina gestora presentada en el mes de noviembre anterior al inicio del año natural en el que deba surtir efecto.
+
+4\. Cuando la llevanza de la contabilidad prevista en este artículo no se realice a través de la sede electrónica de la Agencia Estatal de Administración Tributaria se ajustará a las siguientes condiciones particulares:
+
+Los asientos deberán registrarse en la contabilidad dentro de las veinticuatro horas siguientes al momento de producirse el movimiento o proceso que se registra. Cuando la industria trabaje de forma continuada, la toma de datos para estas anotaciones contables se referirá a períodos de veinticuatro horas, admitiéndose que el inicio de cada período coincida con un cambio de turno de trabajo.
+
+No obstante, cuando se trate de productos que circulen por carretera, los asientos de cargo relativos a los recibidos en establecimientos habilitados para almacenarlos en régimen suspensivo o con aplicación de una exención o tipo reducido y los asientos de data relativos a los expedidos desde los mismos establecimientos deberán efectuarse en el momento de producirse la entrada o salida que los origina.
+
+La falta de asientos en un día determinado, cuando los hubiera en días posteriores, se entenderá como falta de movimiento en esa fecha.
+
+El movimiento de productos en las zonas delimitadas fuera de una fábrica a que se refiere la letra d) del apartado 2 del artículo 40 de este Reglamento, deberá registrarse en un libro habilitado al efecto justificándose los asientos de cargo con el albarán expedido por la persona o entidad que efectúa la devolución; los asientos de data se justificarán con el albarán que se emita para amparar la circulación de los productos reexpedidos.
+
+La contabilidad en soporte papel deberá cumplimentarse mediante libros foliados que, con carácter previo a la realización de cualquier apunte, deberán ser presentados ante la oficina gestora correspondiente al establecimiento para su habilitación.
+
+Los libros y ficheros de la contabilidad, en soporte papel o en un sistema contable en soporte informático, deberán encontrarse permanentemente en el establecimiento a que se refieran, a disposición de los servicios de inspección o de intervención de acuerdo con el régimen de control a que esté sometido el establecimiento.
+
+> Téngase en cuenta que esta actualización, establecida por el art. 4.21 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995) es de obligado cumplimiento a partir del 1 de enero de 2020, según determina su disposición final 4 c).
+
+> Se modifica por el art. 4.21 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Téngase en cuenta que esta modificación será de obligado cumplimiento a partir del 1 de enero de 2020, según determina la disposición final 4 c) del citado Real Decreto.
+
+> Se modifican los apartados 1.a), 6 y se añaden, con efectos desde el 1 de enero de 2020, los apartados 10 y 11 por el art. 3.15 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Téngase en cuenta que la adicción indicada se deroga, con efectos de 1 de enero de 2019, por la disposición derogatoria única.3 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifican los apartados 1, 2 y 5 por el art. 1.16 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifican los apartados 1, 2, 3, 5 y 7 por el art. único.45 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.45 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifican los apartados 3 y 8 y se añade el apartado 9 por el art. único.11 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Se modifica el párrafo segundo del apartado 4 por el art. único.15 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+###### Artículo 51. Recuentos de existencias.
+
+1\. Los titulares de establecimientos afectados por las normas de este Reglamento que estén obligados a llevar cuentas corrientes para el control contable de sus existencias efectuarán, al menos, un recuento de las mismas al finalizar cada trimestre natural y regularizarán, en su caso, los saldos de las respectivas cuentas el último día de cada trimestre.
+
+No obstante lo establecido en el párrafo anterior, cuando se trate de depósitos fiscales constituidos por una red de oleoductos, los titulares de los mismos efectuarán, al menos, un recuento los días 30 de junio y 31 de diciembre de cada año referido al semestre que concluye en dichas fechas.
+
+Las diferencias que, en su caso, resulten de los referidos recuentos, se regularizarán en el período de liquidación correspondiente a la fecha en que el recuento se haya realizado.
+
+2\. Los servicios de intervención e inspección podrán realizar recuentos de existencias cuando lo estimen oportuno, formalizando diligencia del resultado.
+
+3\. Para facilitar la práctica de los recuentos los productos envasados, acondicionados para su entrega al consumidor, deberán agruparse por clases de productos, tipos de envase y capacidades.
+
+4\. Las existencias medias trimestrales, cuando sean la base para la aplicación de un porcentaje reglamentario de pérdidas, estarán constituidas por el promedio de las existencias almacenadas al final de cada uno de los días que integran el trimestre natural de que se trate. No obstante, la oficina gestora podrá autorizar, a solicitud de los interesados, que dichas existencias medias trimestrales se determinen por el promedio de las existencias almacenadas los días 1, 8, 15 y 23 de los tres meses que constituyen cada trimestre natural.
+
+En los supuestos de periodos de liquidación mensual, y a los solos efectos contables, los sujetos pasivos podrán estimar provisionalmente no sujetas, hasta que al final de cada trimestre pueda determinarse exactamente el porcentaje admisible de pérdidas no sujetas, las cantidades resultantes de aplicar, a las medias mensuales de existencias almacenadas, determinadas de la forma señalada en el párrafo anterior, la tercera parte de los porcentajes reglamentarios de pérdidas señalados en los artículos 67. 1. b); 72. A) 1. c), d) y e); 90. 1. e) y f) y 116. 2. ñ) de este Reglamento.
+
+Lo establecido en el primer párrafo de este apartado será también de aplicación a los efectos previstos en el artículo 90.2.d) de este Reglamento.
+
+> Se modifican los apartados 1 y 4 por el art. único.46 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 1 y se añade el 4 por el art. único.12 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Téngase en cuenta para la aplicación del apartado 1 la disposición transitoria única.2
+
+###### Artículo 52. Tratamiento fiscal de las diferencias habidas en recuentos o controles efectuados por la Administración.
+
+1\. Cuando se trate de diferencias en menos que excedan de los correspondientes porcentajes puestas de manifiesto tanto dentro de fábricas y depósitos fiscales como en la circulación en régimen suspensivo, será de aplicación, según proceda en cada caso, lo dispuesto en los artículos 15, 16 y 17 de este Reglamento.
+
+2\. Cuando se trate de diferencias en menos que excedan de los correspondientes porcentajes, puestas de manifiesto respecto de productos por los que ya se ha devengado el impuesto a un tipo reducido o con aplicación de una exención, se considerará, en los términos establecidos en el artículo 15 de la Ley, que tales productos se han utilizado o destinado en fines distintos de los que determinan la aplicación de tales beneficios, practicándose la correspondiente liquidación y considerándose cometida una infracción tributaria grave.
+
+3\. Cuando se trate de diferencias en más puestas de manifiesto dentro de fábricas o depósitos fiscales, se efectuará el correspondiente asiento de cargo en la contabilidad de existencias sancionándose como infracción tributaria de índole contable o registral salvo que sea aplicable alguna sanción especial.
+
+4\. Cuando las diferencias en más respecto de lo consignado en sistemas contables, documentos de circulación u otros documentos, se pongan de manifiesto fuera de fábricas o depósitos fiscales, los que posean, utilicen, comercialicen o transporten los productos que representan el exceso estarán obligados al pago de la deuda tributaria correspondiente al exceso en los términos previstos en el apartado 8 del artículo 8 de la Ley.
+
+5\. No obstante lo dispuesto en los apartados 3 y 4 anteriores, no se tendrán en cuenta las diferencias en más que no excedan de la cantidad resultante de aplicar, sobre el saldo contable o cantidad consignada en el documento correspondiente, un porcentaje del 1 por 100.
+
+> Se modifica el apartado 4 por el art. 1.17 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica el apartado 3 por el art. único.46 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+#### CAPITULO II — Disposiciones comunes a los impuestos sobre el alcohol y las bebidas alcohólicas
+
+###### Artículo 53. Exención por obtención de vinagre.
+
+1\. Los establecimientos que se dediquen a la obtención de vinagre a partir de alcohol o bebidas alcohólicas deberán inscribirse en el registro territorial de la oficina gestora correspondiente al establecimiento donde se realice el proceso. En el escrito de solicitud indicarán la clase de productos objeto de los impuestos que desean recibir.
+
+2\. La oficina gestora expedirá, en su caso, la correspondiente tarjeta de inscripción cuya presentación ante los proveedores de alcohol o bebidas alcohólicas o, en su caso, ante la aduana de importación será necesaria para la aplicación de la exención establecida en el artículo 21.1 de la Ley.
+
+3\. Para la expedición de la tarjeta a que se refiere el apartado anterior será condición necesaria que se preste una garantía por un importe del 1,5 por ciento de las cuotas correspondientes al alcohol y bebidas alcohólicas recibidas en el año anterior o, en su defecto, de las cantidades que se prevea recibir en un año.
+
+4\. Los establecimientos que se dediquen a la obtención de vinagre a partir de alcohol o bebidas alcohólicas están sujetos al régimen de intervención establecido en el artículo 48.
+
+5\. Para la aplicación de la exención prevista en el artículo 21.1 de la Ley, el alcohol destilado de origen agrícola deberá llevar incorporado vinagre de alcohol en la proporción necesaria para que el contenido sea como mínimo de seis kilos de ácido acético por cien litros de alcohol puro, a la temperatura de 20.ºC. A estos efectos, se entiende por vinagre de alcohol el producto obtenido por la fermentación acética del alcohol destilado de origen agrícola.
+
+6\. El alcohol circulará directamente desde el establecimiento proveedor hasta el establecimiento de destino con indicación en el correspondiente documento administrativo electrónico de que se trata de alcohol destinado a ser marcado en destino.
+
+7\. El titular del establecimiento elaborador de vinagre deberá presentar en la oficina gestora correspondiente al domicilio del establecimiento, con anterioridad al momento previsto para la recepción del alcohol con aplicación de la exención, un escrito comunicando la razón social y CAE del establecimiento proveedor, la cantidad y graduación del alcohol que vaya a recibir, la fecha prevista de recepción del alcohol, la cantidad de vinagre que se prevé incorporar y la fecha y la hora del inicio de la operación de marcado, así como su duración previsible. Este escrito se presentará con, al menos, veinticuatro horas de antelación.
+
+Si, llegado el momento previsto para el marcado comunicado en el escrito al que se refiere el párrafo anterior, no se hubieran personado los servicios de intervención correspondientes, el titular del establecimiento de elaboración de vinagre procederá a efectuar la citada operación en las condiciones que indicó en el referido escrito.
+
+La existencia, en establecimientos elaboradores de vinagre, de alcohol recibido en los mismos al amparo de la exención que no haya sido marcado conforme a lo previsto en este artículo será considerada como incumplimiento de las condiciones reglamentariamente previstas para la aplicación de la exención.
+
+8\. En todos los establecimientos elaboradores de vinagre se deberá llevar una cuenta o registro que refleje el movimiento y utilización del alcohol y bebidas alcohólicas recibidas, así como del vinagre obtenido.
+
+> Se modifica el apartado 5 por el art. 3.16 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifican los apartados 2, 5, 6 y 7 por el art. único 47 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. 1.7 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+###### Artículo 53 bis. Exención para tiendas libres de impuestos.
+
+La aplicación de la exención a que se refiere el apartado 3 del artículo 21 de la Ley, se llevará a cabo conforme a las normas siguientes:
+
+1\. Las tiendas libres de impuestos, que deberán estar inscritas en los registros territoriales de las oficinas gestoras correspondientes como depósitos fiscales de los previstos en el artículo 11.2.a)10º.2’, exigirán a los adquirentes de bebidas alcohólicas que exhiban el título de transporte, por vía aérea o marítima, en el que figure como destino final un aeropuerto o puerto situado en un tercer país o territorio tercero distinto de las Islas Canarias.
+
+2\. Las mencionadas tiendas deberán conservar los justificantes de las ventas de bebidas alcohólicas a las que se ha aplicado la exención, en los que deberán constar la fecha de la venta, el número del vuelo o de la travesía marítima a realizar, el puerto o aeropuerto de destino final y la cantidad de bebidas alcohólicas vendidas.
+
+3\. Si entre las bebidas alcohólicas vendidas hubiera bebidas derivadas, los envases deberán ir desprovistos de las marcas fiscales a que se refiere el artículo 26 de este Reglamento o, caso de llevarlas, deberán ser retiradas de dichos envases para su posterior destrucción, bajo control de la administración tributaria.
+
+> Se añade por el art. único.47 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 54. Devolución por utilización en la preparación de productos alimenticios y de aromatizantes de productos alimenticios y bebidas analcohólicas.
+
+1\. La aplicación del derecho a la devolución establecido en las letras a) y b) del artículo 22 de la Ley deberá ser solicitada, previamente, a la oficina gestora, por el titular de la explotación donde se vayan a utilizar el alcohol o las bebidas alcohólicas en los procesos de obtención de aromatizantes para la elaboración de productos alimenticios y bebidas analcohólicas o de alimentos rellenos u otros, en las condiciones establecidas en dicho artículo.
+
+2\. La solicitud, a que se refiere el apartado anterior, deberá acompañarse de una memoria técnica con la información requerida en el artículo 57 bis.
+
+3\. El centro gestor resolverá la solicitud presentada concediendo, en su caso, la autorización correspondiente por un plazo máximo de cinco años. La modificación del proceso industrial descrito en la memoria, así como los productos que intervienen o se obtienen en el mismo, deberá ser comunicada al centro gestor que, en su caso, autorizará las modificaciones notificadas.
+
+4\. Una vez concedida la autorización a que se refiere el apartado anterior, el industrial deberá proceder a la inscripción en el registro territorial del establecimiento donde se va a realizar el proceso descrito en la memoria, en la oficina gestora correspondiente a dicho establecimiento.
+
+5\. Dentro de los veinte primeros días naturales siguientes al vencimiento de cada trimestre natural, los titulares de explotaciones industriales, que dispongan de la autorización a que se refiere el apartado 3 anterior, presentarán, en la oficina gestora correspondiente al establecimiento donde se ha efectuado el consumo de los productos objeto de los impuestos, una solicitud de devolución de las cuotas soportadas correspondientes a los productos consumidos durante el trimestre. En dicha solicitud, que se ajustará al modelo que se establezca por el Ministro de Hacienda y Administraciones Públicas, se consignará el número de la autorización a que se refiere el apartado 3 anterior.
+
+6\. La oficina gestora tramitará las solicitudes presentadas y dispondrá, en su caso, el pago de las cuotas a devolver.
+
+7\. Lo dispuesto en los apartados anteriores no será de aplicación en los casos previstos en el apartado 4 del artículo 88 de este Reglamento.
+
+> Se modifica el apartado 2 por el art. 1.12 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifican los apartados 1 y 5 por el art. único.48 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica el apartado 1 por el art. único.48 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 55. Devolución por inadecuación para consumo humano.
+
+La aplicación del derecho a la devolución a que se refiere la letra c) del artículo 22 de la Ley, respecto de bebidas alcohólicas que hayan dejado de ser adecuadas para el consumo humano, se efectuará de acuerdo con el siguiente procedimiento:
+
+1\. El propietario de las bebidas solicitará la aplicación del beneficio a la oficina gestora correspondiente al establecimiento donde se encuentran aquéllas. En el escrito se harán constar los siguientes extremos:
+
+a) Datos identificativos del solicitante y del establecimiento donde se encuentran las bebidas.
+
+b) Cantidad de bebidas por las que se solicita la devolución, con expresión de su volumen en litros y su grado alcohólico volumétrico adquirido o, en su caso, el grado Plato adquirido.
+
+c) Causa por la cual las citadas bebidas han dejado de ser adecuadas para ser comercializadas para el consumo humano.
+
+d) Datos relativos al proveedor de las bebidas y fecha en que se adquirieron, debiéndose adjuntar fotocopias del documento de circulación correspondiente y de la factura.
+
+e) Datos identificativos del depositario autorizado a quien se devuelven las bebidas, así como de la fábrica o depósito fiscal a donde se pretende enviar, debiéndose adjuntar documento acreditativo de la conformidad del depositario autorizado con respecto a la devolución de las bebidas, y
+
+f) En su caso, procedimiento que se propone para la destrucción, así como local en que tal operación pueda efectuarse, que podrá ser una zona delimitada considerada como fuera de fábrica de cualquiera de las fábricas pertenecientes al solicitante, de acuerdo con lo previsto en el artículo 40. 2. d).
+
+2\. La oficina gestora, tras efectuar las comprobaciones que estime oportunas, resolverá la solicitud, autorizando, en su caso, la devolución de las bebidas a la fábrica o depósito fiscal señalada en la solicitud, determinando la cuota a devolver. De esta autorización dará cuenta a la oficina gestora correspondiente al establecimiento de destino.
+
+3\. Una vez autorizada la devolución, o transcurridos diez días desde la presentación de la solicitud de aplicación del beneficio sin haber recibido respuesta de la oficina gestora, el depositario autorizado cargará en su contabilidad de existencias las bebidas entradas. Dicho depositario podrá deducir, de la cuota correspondiente al período impositivo en que ha tenido lugar la entrada de las bebidas devueltas, el importe de la cuota cuya devolución se ha acordado ó solicitado.
+
+4\. El depositario autorizado hará efectivo el importe de la devolución al solicitante de la misma.
+
+5\. Cuando se haya optado por la destrucción de las bebidas fuera de fábrica o depósito fiscal, ésta tendrá lugar, una vez autorizada por la oficina gestora, en presencia de los servicios de inspección o, en su caso, de intervención que instruirán la correspondiente diligencia. La oficina gestora, si procede, determinará la cuota a devolver y acordará su pago.
+
+6\. No obstante lo dispuesto en el apartado 5 anterior, cuando la destrucción tenga lugar en la zona delimitada de la fábrica a que se refiere el apartado 1.f), el titular de la fábrica lo comunicará a los servicios de intervención con al menos setenta y dos horas de antelación respecto del momento previsto para la destrucción, a los efectos de su oportuno control administrativo. En este caso la devolución podrá efectuarse, una vez acordada su procedencia por la oficina gestora, mediante deducción de su importe del de las cuotas devengadas en dicha fábrica en el período impositivo en el que tenga lugar la destrucción.
+
+7\. No obstante lo dispuesto en los apartados 5 y 6 anteriores, si llegada la fecha y hora anunciada para la destrucción, no se hubiesen personado los servicios de intervención, el titular del establecimiento podrá proceder a la citada destrucción. De igual forma, en caso de que la destrucción no fuese continuada, en el momento de la solicitud, el titular del establecimiento comunicará este hecho, así como la duración prevista de la operación, a los servicios de intervención.
+
+> Se modifica por el art. único.49 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Redactado el apartado 1.b) conforme a la corrección de errores publicada en BOE núm. 67 de 18 de marzo de 2010. [Ref. BOE-A-2010-4506](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4506)
+
+> Se modifica por el art. 1.8 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+###### Artículo 56. Fabricación de los productos gravados.
+
+1\. La fabricación de los productos objeto de cada uno de los impuestos especiales sobre el alcohol y las bebidas alcohólicas deberá tener lugar, con carácter general, en locales independientes entre sí. Se considera que un local es independiente cuando no tiene comunicación con otro y dispone de acceso directo a una vía pública.
+
+2\. No obstante lo anterior, el centro gestor podrá autorizar que en un mismo local se fabriquen los distintos productos comprendidos en los ámbitos objetivos de los impuestos sobre el alcohol y las bebidas alcohólicas, con excepción del alcohol, siempre que se cumplan los siguientes requisitos:
+
+a) El interesado deberá presentar ante el centro gestor, para su aprobación por éste, un proyecto de contabilidad integrada de los movimientos y existencias de todos los productos que se obtengan en el establecimiento, que permita conocer la distinta situación fiscal de cada producto. Este sistema de contabilidad comprenderá, en su caso, el movimiento y las existencias de los productos que, al amparo de lo dispuesto en el apartado 1 del artículo 45 de este Reglamento, se reciban para su comercialización sin transformación, con la debida separación respecto de los fabricados en el establecimiento.
+
+b) Junto con el proyecto a que se refiere la letra anterior, el interesado presentará un proyecto de la distribución, dentro del establecimiento, de las instalaciones productoras y de almacenamiento de cada uno de los productos gravados, que permita la realización de los correspondientes recuentos de existencias y su confrontación con la contabilidad integrada.
+
+3\. No obstante lo dispuesto en los apartados 1 y 2, el centro gestor podrá autorizar la fabricación de alcohol no desnaturalizado en el mismo local en que se obtengan otros productos alcohólicos gravados cuando la totalidad del alcohol que se fabrique se destine a la obtención de éstos y se cumplan los requisitos previstos en el apartado 2 anterior. En este supuesto el local en su conjunto estará sometido al régimen de intervención de carácter permanente si la capacidad de producción diaria de alcohol excede de 1.000 litros de alcohol puro.
+
+4\. En el acuerdo por el que el centro gestor autorice, en su caso, la fabricación conjunta a que se refieren los apartados 2 y 3 anteriores, se podrán fijar condiciones y requisitos complementarios que permitan el control individualizado de los productos objeto de cada uno de los impuestos afectados y de sus primeras materias.
+
+5\. La producción de alcohol total o parcialmente desnaturalizado sólo podrá tener lugar en fábricas que se dediquen exclusivamente a la fabricación del alcohol o, en su caso, en depósitos fiscales de alcohol, sin perjuicio de lo dispuesto en el artículo 73 de este Reglamento. Queda prohibida la entrada de alcohol total o parcialmente desnaturalizado en fábricas en las que se obtengan productos objeto de los impuestos sobre el alcohol y las bebidas alcohólicas distintos del alcohol, salvo lo dispuesto en el artículo 88 de este reglamento para la fabricación de extractos y concentrados alcohólicos y en los casos en que el alcohol desnaturalizado se destine bajo control del servicio de intervención al funcionamiento interno de la maquinaria o aparatos que se utilicen en dichas fábricas.
+
+> Se modifica el apartado 5 por el art. único.50 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 56 bis. Desalcoholización parcial de productos gravados.
+
+1\. Cuando, como consecuencia de las operaciones de desalcoholización llevadas a cabo en fábricas de cerveza, vino u otras bebidas fermentadas o de productos intermedios, se obtuviere residualmente alcohol, tal circunstancia deberá ser previamente autorizada por la oficina gestora, a solicitud de los interesados, y previo informe de los servicios de intervención.
+
+La solicitud se presentará ante la oficina gestora acompañada de una memoria técnica descriptiva de los procesos en que se produce la desalcoholización y de las instalaciones, elementos y aparatos de producción utilizados. En dicha memoria se hará constar la cantidad de producto que constituye la mezcla hidroalcohólica que se obtenga así como el contenido y graduación alcohólica en dicho producto y el destino del alcohol obtenido.
+
+Cualquier modificación que se produzca en relación con los procesos indicados en la memoria deberá ser comunicada a la oficina gestora antes de hacerse efectiva. La modificación propuesta se entenderá autorizada por la oficina gestora, salvo que en el plazo de 15 días se deniegue mediante acuerdo expreso.
+
+La denegación de una solicitud o la exigencia de modificaciones de la misma deberá, en todo caso, ser motivada.
+
+En la obtención y destino de la mezcla hidroalcohólica se estará a lo dispuesto en el presente artículo.
+
+2\. En relación con la obtención de la mezcla hidroalcohólica se tendrán en cuenta las siguientes normas:
+
+a) El servicio de intervención podrá proponer a la oficina gestora, respecto de los procesos descritos en la memoria técnica y los productos obtenidos como resultado de las operaciones de desalcoholización, los mecanismos de control que resulten apropiados para conocer la cantidad de mezcla hidroalcohólica obtenida, su volumen alcohólico y el destino de la misma.
+
+b) La fabricación de alcohol a partir de la mezcla hidroalcohólica no podrá realizarse en el establecimiento en que se desarrolle el proceso de desalcoholización sino que tendrá que llevarse a cabo, en su caso, en una fábrica de alcohol.
+
+3\. En relación con el destino de la mezcla hidroalcohólica resultante del proceso se tendrán en cuenta las siguientes normas:
+
+a) Destrucción en el establecimiento de obtención.
+
+El titular del establecimiento comunicará la destrucción a los servicios de intervención con al menos setenta y dos horas de antelación respecto del momento previsto para realizarla. Si llegado el momento de la destrucción no se hubiesen personado los servicios de intervención, el titular del establecimiento podrá proceder a la destrucción. De igual forma, en caso de que la destrucción no fuese continuada, en el momento de la solicitud el titular del establecimiento comunicará este hecho, así como la duración prevista de la operación, a los servicios de intervención.
+
+Si la destrucción forma parte de un proceso automático sin almacenamiento previo de la mezcla hidroalcohólica, deberá constar tal circunstancia en la memoria así como la forma de cuantificar la cantidad de producto y su contenido alcohólico, no siendo necesaria en este caso la comunicación previa a los servicios de intervención. La forma de cuantificar el producto obtenido deberá poder ser comprobada al inicio del proceso. De igual forma, se posibilitará la extracción de muestras, en cualquier momento, para determinar el contenido alcohólico del producto que se destruye.
+
+b) Reutilización en el establecimiento de obtención:
+
+1.º En el caso de reutilización mediante combustión y aprovechamiento energético o en la refrigeración de los sistemas y aparatos de fabricación de los productos objeto de la actividad principal del establecimiento, el interesado así lo expresará en la memoria técnica y lo comunicará a la oficina gestora a efectos de la consideración y autorización, en su caso, de la mezcla hidroalcohólica como alcohol desnaturalizado, salvo que se considere necesaria la previa desnaturalización de acuerdo con el procedimiento y desnaturalizante previamente aprobado por la oficina gestora. La cantidad de producto destinado a este fin deberá reflejarse en la contabilidad del establecimiento.
+
+2.º En el caso de que la mezcla hidroalcohólica se destine a su reutilización como materia prima en los procesos de fabricación llevados a cabo en el establecimiento, el sistema propuesto por el interesado deberá posibilitar la cuantificación y contenido alcohólico del producto que se reutiliza así como la extracción de muestras del producto reutilizado, independientemente de la clasificación en el código NC que corresponda al producto final.
+
+c) Circulación y almacenamiento del producto en el establecimiento de obtención:
+
+1.º La circulación del producto desde los aparatos de producción y obtención de la mezcla hidroalcohólica hasta los tanques donde se produzca su almacenamiento, previo a su reutilización, expedición o destrucción que no forme parte de un proceso automático, según lo previsto en el segundo párrafo del anterior apartado a), se realizará por tuberías visibles en todo el recorrido, pudiendo utilizarse tuberías con empalmes con bridas o tuercas precintables.
+
+2.º Los tanques o depósitos de almacenamiento han de estar cubicados y provistos de contadores homologados y disponer de llaves o bocas susceptibles de ser precintadas.
+
+3.º En el almacenamiento de la mezcla o líquido alcohólico se tendrán en cuenta los porcentajes de pérdidas reconocidos al almacenamiento de alcohol en fábricas de alcohol.
+
+d) Salida del establecimiento de obtención.
+
+La salida del producto desde el establecimiento deberá realizarse con cumplimiento de los requisitos que en materia de circulación de productos objeto de Impuestos Especiales se establecen en el presente Reglamento.
+
+Si la salida se produce con destino a un gestor de residuos, deberá seguirse el procedimiento previsto en el artículo 75 bis de este Reglamento, sin perjuicio de la desnaturalización de la mezcla hidroalcohólica de igual forma a lo dispuesto en el apartado 3.b de este artículo.
+
+4\. Sin perjuicio de lo dispuesto en el artículo 50, además de los libros propios de la actividad principal del establecimiento, se llevará un libro de desalcoholización en el que, en el cargo, constará la cantidad puesta en producción con el detalle del tipo de producto en volumen real de producto, grado y litros absolutos y, en la data, la cantidad de volumen real de producto, grado y litros de la mezcla hidroalcohólica obtenida.
+
+En el supuesto de que la mezcla hidroalcohólica obtenida sea utilizada en procesos propios, la salida del libro de desalcoholización constituirá la entrada en el libro de materias primas de la actividad principal o en el del proceso en el que dicha mezcla se vaya a utilizar.
+
+Los Servicios de Intervención podrán exigir los libros auxiliares del proceso de desalcoholización que consideren convenientes para el adecuado control del establecimiento.
+
+5\. A los establecimientos en que tengan lugar estos procesos de desalcoholización les será de aplicación lo dispuesto en el apartado 2.b.1.º del artículo 43 de este Reglamento, en relación con el alcohol que salga de los mismos en los casos previstos en el apartado 3.d) anterior.
+
+Los establecimientos desde los que se produzcan estas salidas serán inscritos en el registro de la oficina gestora correspondiente con una clave de actividad diferenciada.
+
+> Se modifican los apartados 1 y 3.d) por el art. 3.17 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se añade por el art. único.49 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+###### Artículo 57. Disposiciones particulares en relación con Canarias.
+
+1\. Cuando se introduzcan en la península e Islas Baleares productos comprendidos en los ámbitos objetivos de los Impuestos sobre la Cerveza, sobre Productos Intermedios y sobre el Alcohol y Bebidas Derivadas por los que se hubiesen devengado tales impuestos en Canarias, se liquidarán e ingresarán por dichos conceptos las cuotas resultantes de aplicar la diferencia de tipos impositivos existentes entre dichos territorios en el momento de la introducción. La liquidación se practicará por la oficina gestora correspondiente al punto de introducción o llegada en la península e Islas Baleares aplicándose, con carácter general las normas establecidas para la deuda aduanera de importación.
+
+2\. La aplicación de las exenciones establecidas en el párrafo a) del apartado 9 del artículo 23 de la Ley se efectuará, según proceda, de acuerdo con lo dispuesto en los artículos 4, 5, 53, 73, 74, 75, 76, 77 y 79 de este Reglamento.
+
+3\. La exención establecida en la letra b) del apartado 9 del artículo 23 de la Ley se justificará mediante el procedimiento establecido para las exportaciones.
+
+4\. La devolución establecida en los párrafos a) y b) del apartado 10 del artículo 23 de la Ley se solicitará de la oficina gestora correspondiente al punto de salida, mediante el procedimiento establecido para la devolución de los impuestos especiales en los supuestos de exportación.
+
+5\. En la introducción en Canarias, procedentes de otros Estados miembros de la Unión Europea, de productos comprendidos en los ámbitos objetivos de los Impuesto sobre la Cerveza, sobre Productos Intermedios y sobre el Alcohol y Bebidas Derivadas, la liquidación y pago del impuesto así como la circulación de los productos se realizará aplicando los procedimientos establecidos para las importaciones.
+
+> Se modifican los apartados 3 y 5 por el art. único.50 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+###### Artículo 57 bis. Contenido de la memoria técnica para disfrutar de determinados beneficios fiscales.
+
+1\. En las solicitudes de inscripción en el Registro territorial de usuarios de alcohol total o parcialmente desnaturalizado, así como de usuarios de alcohol sin desnaturalizar y de beneficiarios de las devoluciones del impuesto a las que hacen referencia los artículos 54 y 80, la memoria a aportar contendrá, como mínimo, la siguiente información:
+
+a) Justificación de la necesidad de utilización de alcohol etílico.
+
+b) Explicación del proceso industrial, con indicación de la fase en la que se utiliza el alcohol etílico.
+
+c) Productos que se van a obtener mediante la utilización del alcohol.
+
+d) Cantidad de alcohol que se precisa para la obtención de cada unidad de producto.
+
+e) Indicación de si los productos obtenidos contienen alcohol.
+
+f) Destino del alcohol, en el caso de que no se incorpore a los productos obtenidos ni desaparezca en el proceso de obtención de los mismos.
+
+> Se añade por el art. 1.13 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+###### Artículo 57 ter. Autocertificación de los pequeños productores independientes de bebidas alcohólicas.
+
+1\. Los pequeños productores independientes de bebidas alcohólicas, conforme a lo dispuesto en los artículos 4.2, 9 bis.2, 13 bis.4, 18 bis.3 y 22.2 de la Directiva 92/83/CEE del Consejo, de 19 de octubre de 1992, relativa a la armonización de las estructuras de los impuestos especiales sobre el alcohol y las bebidas alcohólicas, podrán acreditar esta condición y su producción anual, mediante la correspondiente autocertificación, para poder beneficiarse, en su caso, de la aplicación de los tipos impositivos reducidos fijados en otros Estados miembros, de conformidad con lo dispuesto en el artículo 23 bis de la Directiva 92/83/CEE.
+
+2\. La autocertificación a que hace referencia el apartado anterior se deberá realizar en los términos establecidos en el artículo 4 del Reglamento de Ejecución (UE) 2021/2266 de la Comisión, de 17 de diciembre de 2021, por el que se establecen disposiciones de aplicación de la Directiva 92/83/CEE del Consejo respecto de la certificación y la autocertificación de los pequeños productores independientes de bebidas alcohólicas a efectos de los impuestos especiales.
+
+> Se añade por la disposición final 1 del Real Decreto 443/2023, de 13 de junio. [Ref. BOE-A-2023-14044](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14044)
+
+> Este artículo surte efectos desde el 1 de enero de 2022, según establece la disposición final quinta del citado Real Decreto.
+
+#### CAPITULO III — Impuesto sobre la cerveza
+
+###### Artículo 58. Instalación de fábricas y control de operaciones.
+
+1\. Sin perjuicio de lo dispuesto en el apartado 2 del artículo 56 de este Reglamento, las fábricas de cerveza deben estar aisladas de cualquier otra industria en la que se utilice alcohol como materia prima. Las cubas de sacarificación, calderas de cocción, depósitos de fermentación y maduración, tanques y demás elementos similares que se utilicen en la fabricación, serán susceptibles de ser precintados y deberán estar numerados, con indicación de sus respectivas capacidades útiles, y provistos de los elementos de medición necesarios para poder conocer en cada momento el volumen que contengan.
+
+2\. Si de acuerdo con el informe de la inspección previsto en el apartado 5 del artículo 40 de este Reglamento, la fábrica cumple los requisitos reglamentarios exigidos, la oficina gestora, a solicitud del fabricante o del servicio de intervención, podrá autorizar el funcionamiento en prueba por un período de seis meses a los efectos de poder determinar la capacidad de producción y los rendimientos de las distintas fases del proceso de fabricación. Transcurrido dicho plazo se comunicarán estos datos a la oficina gestora, para su constancia en el expediente.
+
+3\. A los solos efectos de complementar el control de la utilización de primeras materias y de la fabricación de cerveza, lo dispuesto en los artículos 59, 60 y 61 de este Reglamento será aplicable a la fabricación de la bebida llamada «cerveza sin alcohol» que se obtenga en fábricas de cerveza. A estos efectos se considerará «cerveza sin alcohol» a aquella bebida de un grado alcohólico volumétrico adquirido no superior a 0,5 por 100 vol. que presente los demás caracteres de cerveza de malta y que se clasifique en el código NC 2202.
+
+###### Artículo 59. Obligaciones específicas de los fabricantes.
+
+Los fabricantes de cerveza estarán obligados al cumplimiento de las siguientes prevenciones:
+
+1\. Permitir el precintado por parte de la intervención de los elementos fabriles que aquélla considere oportuno para un mejor control de la fabricación, siempre que no se impida el normal proceso productivo.
+
+2\. Numerar los cocimientos por años naturales, siguiendo una numeración correlativa por cada línea de fabricación o sala de cocción que actúe independientemente. Cuando dichos cocimientos se refieran a mostos concentrados o que se destinen distintos tipos de cerveza, al número de los mismos adicionará una letra o grupo de letras que los distingan.
+
+3\. Las primeras materias entradas en fábrica de cerveza y cargadas en el correspondiente libro no podrán tener otro destino que el de su empleo en la elaboración de cerveza, salvo autorización expresa de la oficina gestora.
+
+4\. La documentación de régimen interior que refleja el proceso de elaboración estará convenientemente ordenada y archivada y a disposición del servicio de intervención durante el período de prescripción del impuesto.
+
+> Se deroga el apartado 5 por el art. único.51 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica el apartado 5 por el art. único.51 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 60. Contabilidad reglamentaria.
+
+1.En las fábricas de cerveza se llevará un libro resumen de actividad, de periodicidad mensual o trimestral, según el período de liquidación aplicable al sujeto pasivo, con las siguientes secciones por procesos:
+
+a) Primeras materias.
+
+b) Mostos.
+
+c) Cervezas en elaboración.
+
+d) Cervezas a granel.
+
+e) Cerveza envasada.
+
+f) Cerveza almacenada.
+
+No tendrán la consideración de materias primas a efectos del Impuesto sobre la Cerveza aquellos ingredientes que se incorporen al proceso productivo de la cerveza y no posean contenido en extracto.
+
+2\. En cada una de las secciones a que se refiere el apartado anterior, la información mensual o trimestral resumirá los siguientes conceptos:
+
+a) Existencias iniciales.
+
+b) Entradas.
+
+c) Total cargo.
+
+d) Salidas.
+
+e) Mermas.
+
+f) Total data.
+
+g) Existencias finales.
+
+3\. En relación con los datos que deben consignarse en cada una de las secciones relacionadas en el apartado 1, se tendrá en cuenta lo siguiente:
+
+a) Primeras materias. En el cargo se anotarán separadamente las primeras materias según su clase, en kg. reales, con expresión de los kilos-extracto contenidos. En la data se anotarán las primeras materias puestas en trabajo y las salidas para otros usos.
+
+b) Mostos. En el cargo se hará constar el total de kilos-extracto entrados en cocimiento. En la data se indicará el volumen total de mosto frío pasado a fermentación, su densidad y grado plato medios y el contenido de kilos-extracto.
+
+c) Cervezas en elaboración. En el cargo se anotará, con separación por epígrafes del impuesto, el volumen de mosto entrado en fermentación, con indicación de su grado plato medio, y, en su caso, el volumen de agua añadida. En la data se anotará, con igual separación por epígrafes, la cerveza acabada salida de maduración, con indicación de su grado plato medio.
+
+d) Cervezas a granel. En el cargo se anotarán los volúmenes de cerveza, separados por epígrafes del impuesto y con indicación de su grado plato medio, distinguiendo la producida en la propia fábrica de la recibida de otros establecimientos. En la data se anotará, con el mismo detalle, el volumen de cerveza enviada fuera del ámbito territorial interno, la pasada a envasado y la salida a envasar en otro establecimiento.
+
+e) Cerveza envasada. En el cargo se anotará el volumen de cerveza pasada al envasado, con separación por epígrafes del impuesto. En la data se anotará el volumen de cerveza pasada al almacén de fábrica con separación, dentro de cada epígrafe, de la envasada en barriles y la envasada en otro tipo de envases.
+
+f) Cerveza almacenada. En el cargo se anotará el volumen de cerveza entrada en almacén, distinguiendo la de producción propia de la recibida de otros establecimientos. En la data se anotará la cerveza salida de fábrica, distinguiendo la salida con el impuesto devengado, la salida en régimen suspensivo y la salida con destino a la exportación.
+
+Tanto en el cargo como en la data, las anotaciones se efectuarán con separación por epígrafes del impuesto y, dentro de cada uno de éstos, se distinguirá la cerveza envasada en barriles de la envasada en otro tipo de envases.
+
+4\. El detalle de los datos contenidos en el libro resumen a que se refiere el apartado 1 deberá figurar en otros libros o registros que se encuentren en el establecimiento. Las anotaciones en dichos libros o registros deberán efectuarse de modo que posibiliten la realización de recuentos por los servicios de intervención y respeten lo previsto en el artículo 50.4.
+
+5\. Los libros o registros que contengan el detalle del libro resumen a los que se refiere el apartado 4 comprenderán la información que se expresa a continuación:
+
+a) Primeras materias. La información deberá suministrarse con la debida separación según clases de primera materia, con indicación del contenido porcentual en extracto natural y los kilos-extracto contenidos, totalizándose estos últimos.
+
+b) Mostos. Detalle de los cocimientos efectuados con indicación de los kilos-extracto entrados en cocimiento, así como el mosto frío pasado a fermentación, su densidad, grado plato, contenido en kilos-extracto y las pérdidas en kilos-extracto.
+
+c) Cervezas en elaboración. Volumen de mosto entrado en fermentación con indicación de su grado plato y, en su caso, el volumen de agua añadida, y el volumen de cerveza acabada salida de maduración, con indicación de su grado plato.
+
+En la fabricación de cerveza con mostos concentrados, éstos figurarán separadamente, con indicación de su grado plato. El agua añadida al mosto o cerveza concentrados lo deberá ser en la medida necesaria para producir el tipo de cerveza que se pretenda obtener.
+
+En los supuestos de mezcla de mostos o cervezas de distinto grado plato o de su dilución con agua, siempre cuando ello implique un cambio del tipo de cerveza, se efectuarán los movimientos correspondientes que reflejen estas operaciones.
+
+d) Cervezas a granel. Volumen de cerveza filtrada salida de maduración con separación por epí grafes e indicación de su grado plato, y, con igual separación por epígrafes, el volumen de cerveza enviada fuera del ámbito territorial interno, la pasada a envasado y la salida a envasar en otro establecimiento.
+
+e) Cerveza envasada. Movimientos de cerveza con separación por epígrafes y, dentro de cada epígrafe, distinguiendo la salida envasada en barriles de la envasada en otros envases.
+
+f) Cerveza almacenada. Movimientos de cerveza desglosados por epígrafes y, dentro de cada epígrafe, por tipos de envases según su capacidad.
+
+6\. No obstante lo dispuesto en los apartados anteriores, a las fábricas de cerveza cuya producción anual no supere, en ningún caso, los 5.000 hectólitros, la oficina gestora, previa solicitud del interesado, les podrá autorizar, respecto de la cerveza que fabriquen, a llevar las secciones por procesos de primeras materias, de mostos y de cerveza almacenada, a efectuar los asientos en el sistema contable con una periodicidad diferente a la establecida en el artículo 50 de este Reglamento y les podrá dispensar de la obligación de numerar los cocimientos por años naturales tal y como señala el apartado 2 del artículo 59 de este Reglamento.
+
+> Se añade el apartado 6 por el art. 4.22 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-179](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-179)
+
+> Se modifican los apartados 1, 3.a) y 5.a) por el art. 3.18 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica por el art. 1.9 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+###### Artículo 61. Porcentajes de pérdidas.
+
+1\. A los efectos de lo dispuesto en el artículo 6 de la Ley, los porcentajes de pérdidas durante los procesos de producción, almacenamiento y transporte de cerveza son los siguientes:
+
+a) En las primeras materias: Sobre el total cargo trimestral, el 2 por 100 de los kilos-extracto contenidos.
+
+b) En cocción: entre los kilos-extracto natural que representan las primeras materias entradas en cocimiento durante cada trimestre y los contenidos en el mosto frío pasado a fermentación, el 5,9 por 100 del total cargo.
+
+c) En la elaboración de cerveza:
+
+1.º En el sistema convencional de separación entre fermentación y maduración: entre el volumen trimestral de mosto frío pasado a fermentación y el volumen de cerveza acabada salida de maduración, el 6,9 por 100 del total cargo trimestral, que se elevará al 7,8 por 100 en los supuestos de doble filtrado.
+
+2.º En el sistema en que fermentación y maduración se realizan sucesivamente en el mismo tanque, el 6 por 100 del total cargo trimestral.
+
+Este porcentaje se eleva al 7 por 100 para los supuestos de doble filtrado.
+
+d) En el almacenamiento de cervezas a granel, el 0,25 por 100 del volumen de cerveza almacenado durante cada trimestre natural.
+
+e) En el envasado de cerveza, el 1,5 por 100 del volumen de cerveza pasada a envasar en barriles; el 2,5 por 100 en el llenado de grandes formatos y el 3,5 por 100 para los demás tipos de envases, durante cada trimestre natural. Se entiende por gran formato el recipiente o tanque sobre medio de transporte, de contenido superior a 60 litros.
+
+f) En el almacenamiento de cerveza envasada, el 0,05 por 100 del volumen de la cerveza almacenada envasada en barriles, y el 1 por 100 del volumen de la cerveza almacenada envasada en otros envases durante cada trimestre natural.
+
+g) En el transporte de cerveza a granel en régimen suspensivo, el 0,5 por 100 del volumen de cerveza que se transporta.
+
+h) La referencia que se efectúa en los apartados anteriores se entenderá hecha a la totalidad del producto entrado en los procesos en el trimestre.
+
+2\. No obstante lo dispuesto en el apartado anterior, a los efectos de lo dispuesto en el artículo 6 de la Ley, en las fábricas de cerveza cuya producción anual no supere, en ningún caso, los 5.000 hectólitros, los porcentajes de pérdidas durante los procesos de producción, almacenamiento y transporte de la cerveza son los siguientes:
+
+a) En las primeras materias: Sobre el total cargo trimestral, el 2 por 100 de los kilos-extracto contenidos.
+
+b) En cocción: entre los kilos-extracto natural que representan las primeras materias entradas en cocimiento durante cada trimestre y los contenidos en el mosto frío pasado a fermentación, el 6 por 100 del total cargo trimestral.
+
+c) En la elaboración, envasado, almacenamiento y transporte de la cerveza en régimen suspensivo, considerados en conjunto: Sobre el volumen trimestral de mosto frío pasado a fermentación, el 12 por 100.
+
+3\. Se autoriza al Ministro de Hacienda para establecer porcentajes reglamentarios de pérdidas en los procedimientos de fabricación no citados en este artículo.
+
+> Se modifica el apartado 2 y se añade el 3 por el art. 4.23 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-179](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-179)
+
+> Se modifica el apartado 1.a) por el art. 3.19 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica por el art. único.52 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica por el art. 1.10 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+> Se modifica el apartado 1.c).1º por el art. único.11 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 62. Obligaciones de los proveedores de malta.
+
+**(Derogado)**
+
+> Se deroga por el art. único.53 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 63. Requisitos de los envases.
+
+Los envases que contengan cerveza deberán cumplir con lo establecido en la normativa sobre envasado, etiquetado, presentación y publicidad que les resulte aplicable.
+
+> Se modifica por el art. único.12 del Real Decreto 112/1998, de 30 de noviembre. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233).
+
+#### CAPITULO IV — Impuesto sobre el vino y bebidas fermentadas
+
+###### Artículo 64. Bebidas fermentadas.
+
+A efectos de lo establecido en el párrafo b) del apartado 4 y en el párrafo c) del apartado 5, del artículo 27 de la Ley, no se tendrá en cuenta el alcohol que puedan contener los aromatizantes, extractos o esencias utilizados en la elaboración de las bebidas, con fines distintos a los de aumentar su grado alcohólico volumétrico adquirido. Se entenderá cumplida esta condición cuando dicho grado no experimente un incremento superior a 0,5 puntos porcentuales como consecuencia de la incorporación de tales aromatizantes, extractos o esencias y cuando el grado alcohólico volumétrico adquirido de la bebida resultante no exceda de 14 por 100 vol.
+
+###### Artículo 65. Instalación de fábricas.
+
+1\. Las bodegas elaboradoras de vino y bebidas fermentadas tendrán la consideración de fábrica a efectos de este Reglamento.
+
+2\. Los almacenes auxiliares a una bodega elaboradora de vino y demás bebidas fermentadas podrán considerarse como formando parte del establecimiento único que constituye la bodega elaboradora, a efectos de la inscripción en el registro territorial, siempre que se encuentren situados dentro de la misma provincia y no se realicen en ellos operaciones de fabricación.
+
+3\. En los supuestos a que se refiere el apartado anterior, al solicitarse la inscripción en el registro de la bodega elaboradora, deberá presentarse la documentación relativa a los almacenes auxiliares.
+
+4\. La oficina gestora, al practicar la inscripción en el registro, anotará en la tarjeta de inscripción los almacenes que se consideran integrados en el establecimiento censado.
+
+###### Artículo 66. Obligaciones específicas de los fabricantes.
+
+Los elaboradores de vino y demás bebidas fermentadas estarán obligados al cumplimiento de las siguientes normas:
+
+1\. Las primeras materias entradas en fábrica no podrán tener otro destino que el de su empleo en la elaboración de las bebidas que corresponden a la inscripción en el registro territorial, salvo autorización expresa de la oficina gestora.
+
+2\. En las bodegas elaboradoras de vino y demás bebidas fermentadas se llevará una contabilidad con las siguientes cuentas:
+
+a) De primeras materias: en el cargo se anotarán las primeras materias entradas en la fábrica, con indicación de su procedencia. En la data se anotarán las primeras materias utilizadas diariamente en el proceso de elaboración.
+
+b) Del proceso de elaboración. Constituirá el cargo las primeras materias empleadas en el proceso y la data el vino y las bebidas fermentadas obtenidas.
+
+c) De productos acabados. Constituirá el cargo el vino y las bebidas fermentadas obtenidas en la fábrica y la data las que salen de fábrica, con indicación de su destino y del documento de circulación expedido.
+
+3\. La contabilidad comprenderá los productos existentes en los almacenes auxiliares inscritos como tales en el registro territorial.
+
+4\. La oficina gestora, a petición del fabricante, podrá aceptar, a los efectos previstos en el apartado 2 anterior, la contabilidad que se lleve en virtud de lo establecido en el Reglamento (CE) 436/2009, de 26 de mayo, por el que se establecen disposiciones de aplicación del Reglamento (CE) 479/2008 del Consejo en lo que respecta al registro vitícola, a las declaraciones obligatorias y a la recopilación de información para el seguimiento del mercado, a los documentos que acompañan al transporte de productos y a los registros que se han de llevar en el sector vitivinícola.
+
+5\. Mientras el tipo impositivo del impuesto sea cero, los fabricantes y titulares de depósitos fiscales presentarán ante la oficina gestora y dentro de los veinte primeros días de los meses de enero, abril, julio y octubre un resumen sujeto al modelo aprobado por el centro gestor, del movimiento habido en el establecimiento durante el trimestre natural inmediatamente anterior
+
+> Se modifica el apartado 4 y se deroga el 6 por el art. único.52 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se añade el apartado 6 por el art. único.54 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 67. Porcentajes de pérdidas.
+
+1\. A los efectos de lo dispuesto en el artículo 6 de la Ley, los porcentajes reglamentarios de pérdidas admisibles sobre el volumen real de producto son los siguientes:
+
+a) Transformación del mosto en producto objeto del impuesto, el 1,5 por 100 del volumen de mosto puesto en fermentación.
+
+b) Almacenamiento de productos terminados o en curso de elaboración: el 0,5 por 100 de las existencias medias trimestrales. Este porcentaje se elevará al 1,5 por 100 cuando el almacenamiento se realice en envases de madera no revestidos ni exterior ni interiormente.
+
+c) Embotellado: el 0,5 por 100 de la cantidad a embotellar.
+
+d) En el transporte, incluida la descarga, en continentes de más de 200 litros de capacidad, el 0,5 por 100 de la cantidad transportada.
+
+2\. Se autoriza al Ministro de Economía y Hacienda a establecer porcentajes reglamentarios de pérdidas en los procedimientos de fabricación o elaboración distintos de los citados anteriormente.
+
+> Se modifica el apartado 1.b) por el art. único.55 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 1.b) por el art. único.13 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+###### Artículo 68. Normas especiales de circulación.
+
+1\. Tendrán la consideración de albaranes de circulación, a efectos de este reglamento, además de los establecidos con carácter general, los documentos a que se refiere la letra b) del apartado 1 del artículo 24 del Reglamento (CE) 436/2009, de 26 de mayo, por el que se establecen disposiciones de aplicación del Reglamento (CE) 479/2008 del Consejo en lo que respecta al registro vitícola, a las declaraciones obligatorias y a la recopilación de información para el seguimiento del mercado, a los documentos que acompañan al transporte de productos y a los registros que se han de llevar en el sector vitivinícola.
+
+2\. Las expediciones de vino y bebidas fermentadas, puestas en circulación por detallistas, en cantidades no superiores a 90 litros, no precisan ser amparadas, a efectos de este impuesto, por documento de circulación alguno.
+
+3\. La circulación entre las fábricas y sus almacenes auxiliares, se efectuará al amparo de un documento interno de la empresa, de acuerdo con las instrucciones que se dicten al efecto por la oficina gestora.
+
+> Se modifica el apartado 1 por el art. único.53 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+#### CAPITULO V — Impuesto sobre productos intermedios
+
+###### Artículo 69. Supuestos de no sujeción.
+
+1\. Para la aplicación del supuesto de no sujeción establecido en el artículo 32 de la Ley, el elaborador de los productos intermedios a que se refiere este supuesto, presentará en la oficina gestora correspondiente al establecimiento donde se va a efectuar la elaboración, un escrito descriptivo del programa de elaboración, indicando la cantidad y grado alcohólico volumétrico adquirido del vino y del alcohol que se van a emplear en la elaboración.
+
+2\. El escrito, a que se refiere el apartado anterior, deberá presentarse, al menos, quince días antes de aquel en que se proceda a la adición del alcohol al vino base y deberá ir acompañado de una certificación acreditativa de que el vino empleado en la elaboración reúne las condiciones exigidas para que el producto intermedio elaborado goce de alguna de las denominaciones de origen Moriles-Montilla, Tarragona, Priorato y Terra Alta.
+
+3\. Dentro del período de quince días a que se refiere el apartado 2 anterior, los servicios de intervención podrán tomar muestras del vino base que se va a emplear. La diligencia se firmará por el elaborador, conjuntamente con los servicios de intervención, expresando la conformidad con la representatividad de la muestra extraída, en relación con el conjunto del vino que se va a utilizar. Si llegada la fecha anunciada para la adición del alcohol, no se hubiesen personado los servicios de intervención, el elaborador podrá proceder a la citada adición.
+
+4\. La elaboración, almacenamiento y salida del establecimiento, de los productos intermedios a que se refiere este artículo, será contabilizada independientemente del resto de las operaciones efectuadas en el establecimiento. La salida del establecimiento de estos productos intermedios con destino al ámbito territorial interno no podrá efectuarse en régimen suspensivo.
+
+###### Artículo 70. Instalación de las fábricas.
+
+1\. Los almacenes auxiliares de una fábrica de productos intermedios podrán considerarse como formando parte de ésta a efectos de la inscripción en el registro territorial, siempre que se encuentren situados dentro de la misma provincia y no se realicen en ellos operaciones de fabricación.
+
+2\. En los supuestos a que se refiere el apartado anterior la documentación relativa a los almacenes auxiliares deberá presentarse con ocasión de la solicitud de inscripción de la fábrica en el registro territorial.
+
+3\. En la tarjeta que se expida con ocasión de la inscripción en el registro territorial la oficina gestora hará constar los almacenes auxiliares que se consideran integrados en la fábrica.
+
+4\. La circulación entre la fábrica y sus almacenes auxiliares se efectuará al amparo de un documento interno de la empresa, de acuerdo con las instrucciones que se dicten al efecto por la oficina gestora.
+
+###### Artículo 71. Contabilidad reglamentaria.
+
+1\. Con carácter general los elaboradores de productos intermedios llevarán los siguientes libros:
+
+a) De primeras materias. En el cargo se anotarán el alcohol, el vino, el mosto, los extractos y los productos en proceso de elaboración entrados u obtenidos con expresión de la fecha, número del documento de circulación, proveedor, volumen real, grado alcohólico volumétrico adquirido y contenido total de alcohol puro. En la data se anotarán diariamente las cantidades de primeras materias pasadas a proceso de elaboración con el mismo detalle que en el cargo.
+
+b) De productos en proceso de elaboración. En el cargo de esta cuenta se anotarán diariamente, por clases, los productos obtenidos a partir de las primeras materias empleadas con indicación del grado alcohólico volumétrico adquirido. En la data se anotarán los productos en proceso de elaboración que pasan a otra bodega con expresión del destinatario y del número de documento de circulación, así como los productos elaborados, indicando en ambos casos los mismos datos que en el cargo.
+
+c) De productos elaborados. Constituirán el cargo los productos intermedios que hayan finalizado el proceso de elaboración con expresión, separando por clases, de su volumen real y grado alcohólico volumétrico adquirido. En la data se sentarán las salidas de bodega de productos intermedios, por clases, con el detalle consignado en el cargo, separando en columnas distintas según el trato fiscal aplicable en razón de su destino.
+
+2\. Además de estos libros se llevarán los auxiliares que los servicios de intervención estimen necesarios para el debido control de proceso de elaboración.
+
+###### Artículo 72. Porcentajes de pérdidas.
+
+A) A los efectos de lo dispuesto en el artículo 6 de la Ley, los porcentajes reglamentarios de pérdidas admisibles, que se calcularán sobre el volumen de producto a la temperatura de 20 grados, son los siguientes:
+
+1\. En los procesos de elaboración y almacenamiento de productos intermedios:
+
+a) Elaboración que no implique maceración, el 1 por 100.
+
+b) Elaboración mediante maceración, el 3 por 100.
+
+c) Productos intermedios elaborados o en proceso de elaboración contenidos en envases de madera no revestidos ni exterior ni interiormente: El 1,5 por 100 de las existencias medias trimestrales.
+
+d) Dichos productos contenidos en otros envases: El 0,5 por 100 de la existencias medias trimestrales.
+
+e) Productos intermedios que se elaboren por el sistema de crianza bajo velo de flor: El 1,6 por 100 sobre el volumen de alcohol puro contenido en las existencias medias trimestrales. Este porcentaje reglamentario será aplicable con independencia de los demás porcentajes reglamentarios de pérdidas previstos en este apartado que, en su caso, puedan resultar aplicables.
+
+2\. En el embotellado, el 0,5 por 100 de la cantidad a embotellar.
+
+3\. En el transporte de productos intermedios, incluida la descarga, en continentes de más de 200 litros de capacidad, el 0,5 por 100.
+
+4\. Se autoriza al Ministro de Economía y Hacienda a establecer porcentajes reglamentarios de pérdidas en los procedimientos de fabricación o elaboración distintos de los citados anteriormente.
+
+B) No obstante, cuando se trate de los productos intermedios a que se refiere el artículo 32 de la Ley, se aplicarán, en lugar de los porcentajes previstos en el apartado A) anterior, los porcentajes reglamentarios que procedan de los establecidos en los artículos 67 y 90 de este Reglamento, en proporción a las respectivas cantidades de vino y alcohol que se empleen en su elaboración.
+
+> Se modifica la letra A) por el art. único.56 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifican las letras c) y d) y se añade la e) del apartado A).1 por el art. único.14 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+###### Artículo 72 bis. Obtención residual de alcohol en fábricas de productos intermedios.
+
+**(Derogado)**
+
+> Se deroga por el art. único.54 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se añade por el art. único.57 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+#### CAPITULO VI — Impuesto sobre el alcohol y bebidas derivadas
+
+##### Sección 1.ª Exenciones
+
+###### Artículo 73. Alcohol desnaturalizado. Normas generales.
+
+1\. Las operaciones de desnaturalización se llevarán a cabo en fábricas o depósitos fiscales de alcohol conforme a las siguientes normas:
+
+a) Las declaraciones de trabajo se ajustarán a lo dispuesto en el artículo 82 de este Reglamento y en ellas se hará constar el volumen y graduación del alcohol a desnaturalizar, así como la cantidad y clase de desnaturalizante a emplear.
+
+b) El establecimiento deberá disponer del número suficiente de depósitos para poder almacenar separadamente los ya desnaturalizados de los demás, así como de un dosificador homologado para el desnaturalizante y el alcohol, o de otros medios mecánicos que permitan su homogeneización, previamente aprobados por el centro gestor.
+
+c) Con carácter general cada operación de desnaturalización tendrá una duración máxima de ocho horas, comprenderá como mínimo 100.000 litros de alcohol, salvo autorización expresa de la oficina gestora, y se efectuará en días laborables en presencia de los servicios de intervención.
+
+No obstante, las normas previstas en el párrafo anterior no serán aplicables cuando la operación de desnaturalización se efectúe por medio de dosificador homologado y con aplicación del régimen de depósito precintado conforme a las reglas previstas en el apartado 8 del artículo 81 de este Reglamento.
+
+d) En todas las operaciones se deberán extraer muestras del alcohol, antes y después de realizada la desnaturalización, así como del desnaturalizante, para su análisis por los Laboratorios de Aduanas e Impuestos Especiales. La práctica de las extracciones y de los correspondientes análisis se regirá por la normativa que regule la realización de análisis y emisión de dictámenes por los Laboratorios de Aduanas e Impuestos Especiales.
+
+2\. No obstante lo dispuesto en el apartado 1 anterior, las operaciones de desnaturalización parcial con desnaturalizantes autorizados conforme a los apartados 1 y 2 del artículo 75 de este reglamento podrán llevarse a cabo en el propio establecimiento del usuario con arreglo a las siguientes normas:
+
+a) El alcohol sin desnaturalizar circulará directamente desde el establecimiento proveedor hasta el establecimiento del usuario con indicación en el correspondiente documento administrativo electrónico de que se trata de alcohol destinado a ser desnaturalizado en destino.
+
+b) La operación de desnaturalización se llevará a cabo en presencia de los servicios de inspección o de intervención en días laborables y con una duración máxima de ocho horas. A estos efectos se comunicará a dichos servicios, con 48 horas de antelación, la fecha elegida para la desnaturalización que deberá tener lugar antes de transcurridas 96 horas desde la recepción en el establecimiento del alcohol sin desnaturalizar.
+
+Si llegado el momento previsto para la operación de desnaturalización a que se refiere la comunicación del párrafo anterior, no se hubieran personado los servicios correspondientes, el titular del establecimiento procederá a efectuar la citada operación en las condiciones que indicó en el referido comunicado.
+
+*c)* En la operación de desnaturalización se aplicará lo dispuesto en la letra d) del apartado 1 de este artículo. Estas muestras, en todo caso, serán tomadas en presencia del servicio de intervención.
+
+3\. El centro gestor podrá autorizar que las operaciones de desnaturalización parcial con desnaturalizantes aprobados con carácter general se lleven a cabo en el propio establecimiento del usuario con arreglo a las normas contenidas en el apartado 2 anterior.
+
+4\. En los supuestos de circulación intracomunitaria, el alcohol podrá recibirse totalmente desnaturalizado en origen, parcialmente desnaturalizado en origen con los desnaturalizantes generales o específicos aprobados o sin desnaturalizar. En este último supuesto, y cuando no sea aplicable lo dispuesto en los apartados 1, 2 y 3 anteriores, el centro gestor podrá autorizar que la desnaturalización se lleve a cabo en el establecimiento receptor.
+
+5\. En los supuestos de importación, el derecho a la aplicación de la exención se acreditará con la tarjeta de inscripción. La desnaturalización podrá efectuarse en origen, en la aduana o en un establecimiento autorizado por ésta.
+
+6\. Queda prohibida la regeneración de alcohol sin perjuicio de lo establecido para las operaciones de fabricación en una fábrica de alcohol.
+
+> Se modifica el apartado 6 por el art. 3.20 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica el apartado 6 por el art. 1.14 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifican los apartados 2 y 5 por el art. único del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+###### Artículo 74. Utilización de alcohol totalmente desnaturalizado.
+
+1\. Las personas o entidades que precisen utilizar alcohol totalmente desnaturalizado en sus establecimientos solicitarán la inscripción del establecimiento en el que lo vayan a utilizar en el Registro territorial de la oficina gestora correspondiente a dicho establecimiento. En la solicitud harán constar el nombre o razón social y el número de identificación fiscal del proveedor o proveedores elegidos, así como el CAE del establecimiento o establecimientos desde los que se efectúe el suministro. Adicionalmente, se aportará una memoria técnica con el contenido establecido en el artículo 57 bis.
+
+2.**(Derogado)**
+
+3\. El alcohol totalmente desnaturalizado circulará directamente desde el establecimiento del proveedor hasta el de destino.
+
+4\. En el establecimiento donde se utilice el alcohol totalmente desnaturalizado, se llevará un libro-registro en el que, diariamente, anotarán, en el cargo el alcohol recibido y en la data el utilizado.
+
+5\. Lo dispuesto en los apartados anteriores se entiende sin perjuicio de lo establecido en el apartado 3 del artículo 19 de este Reglamento, a cuyo efecto los detallistas de alcohol estarán autorizados para vender alcohol totalmente desnaturalizado en cantidad no superior a cinco litros.
+
+Los detallistas de alcohol que vendan alcohol totalmente desnaturalizado en cantidad superior a cinco litros deberán inscribirse en la oficina gestora correspondiente a su demarcación.
+
+> Se modifica el apartado 1 por el art. 1.15 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se deroga el apartado 2 y se modifica el 5 por el art. único.58 y 59 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifican los apartados 1 a 3 por el art. único.13 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 75. Utilización de alcohol parcialmente desnaturalizado.
+
+1\. Los industriales que no puedan utilizar, por exigencias sanitarias, técnicas o comerciales, el alcohol totalmente desnaturalizado ni el que ha sido parcialmente desnaturalizado con las sustancias aprobadas con carácter general, solicitarán del centro gestor la aprobación como desnaturalizante de la sustancia o sustancias por ellos propuestas. En el escrito deberán hacerse constar las razones que hacen necesaria la aprobación de un desnaturalizante específico, así como la descripción de los componentes básicos del desnaturalizante propuesto y la declaración, bajo su responsabilidad, de que el resto de los componentes del producto en que se va a utilizar el alcohol no interfiere con las sustancias propuestas como desnaturalizantes.
+
+2\. El centro gestor resolverá la petición, autorizando, en su caso, la utilización de las sustancias propuestas como desnaturalizante.
+
+3\. Los industriales que deseen utilizar alcohol parcialmente desnaturalizado con los desnaturalizantes aprobados con carácter general, así como aquéllos a los que se haya autorizado la utilización de un desnaturalizante específico, según lo establecido en los apartados 1 y 2 anteriores, solicitarán la inscripción del establecimiento en que van a utilizar el alcohol parcialmente desnaturalizado, en el registro territorial de la oficina gestora correspondiente a dicho establecimiento.
+
+4\. Para la inscripción en el registro, será condición necesaria la prestación de una garantía por un importe del 1 por 100 de las cuotas que corresponderían a la cantidad de alcohol consumida o que se espera consumir, anualmente, aplicando el tipo establecido en el artículo 39 o en el apartado 6 del artículo 23, ambos de la Ley.
+
+5.**(Derogado)**
+
+6\. En el establecimiento donde se utilice el alcohol parcialmente desnaturalizado, se llevará un libro-registro en el que, diariamente, se anotarán, en el cargo el alcohol recibido y en la data el utilizado.
+
+7\. El alcohol parcialmente desnaturalizado únicamente podrá ser objeto de utilización, en las condiciones establecidas en este Reglamento, en un proceso industrial determinado para la obtención de productos no destinados al consumo humano por ingestión, excepto en aquellos casos en los que ni el alcohol ni el desnaturalizante se incorporen al producto final obtenido en el proceso, y siempre que el producto utilizado como desnaturalizante estuviese autorizado para dicho consumo por las autoridades sanitarias en la fabricación de dichos productos. La aplicación de la exención se considerará limitada a los procesos de fabricación de los productos que se describan en la memoria técnica presentada en los términos establecidos en el artículo 57 bis.
+
+Cualquier modificación de los datos contenidos en la memoria técnica aportada conforme al artículo 57 bis deberá ser comunicada a la oficina gestora tan pronto como se tenga conocimiento de la misma, surtiendo efectos a partir de dicha comunicación.
+
+8\. a 10. **(Derogados)**
+
+> Se modifica el apartado 7 por el art. 3.21 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica el apartado 7 y se derogan los apartados 8, 9 y 10 por el art. 1.16 y 17 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifican los apartados 3, 7 y 10 por el art. único.56 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se deroga el apartado 5, se modifica el 7 y se añaden el 8, 9 y 10 por el art. único.60 a 62 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifican los apartados 3 y 5 por el art. único.14 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 75 bis. Destrucción de residuos alcohólicos.
+
+1\. La oficina gestora podrá autorizar a los titulares de aquellos establecimientos donde se obtienen subproductos o residuos alcohólicos con un contenido alcohólico superior al 1,2 por 100, que por sus características organolépticas o por la naturaleza de los otros productos que acompañan al alcohol lo hagan impropio para el consumo humano, su destrucción, incluida la que se produzca mediante combustión y correspondiente aprovechamiento energético, con el cumplimiento de las medidas de control que se establezcan, considerándose que el alcohol se encuentra parcialmente desnaturalizado con el resto de los componentes que integran el residuo o el subproducto alcohólico.
+
+2\. La destrucción de residuos alcohólicos incluidos en el ámbito objetivo del Impuesto sobre el Alcohol y Bebidas Derivadas se comunicará a la oficina gestora correspondiente al establecimiento en el que vaya a tener lugar para que ésta decida acerca de la comprobación que resulte procedente. Si la destrucción se realiza fuera del establecimiento del usuario donde se han obtenido, se seguirá el siguiente procedimiento:
+
+a) El usuario pondrá en conocimiento de la oficina gestora el envío de los productos, para su destrucción en una fábrica, depósito fiscal o en una empresa debidamente autorizada para la gestión de residuos conforme a la normativa técnica aplicable e inscrita en el Registro territorial de la oficina gestora correspondiente a las instalaciones donde la destrucción vaya a realizarse.
+
+b) Los usuarios de alcohol, los titulares de fábricas y depósitos fiscales, sin perjuicio de las obligaciones que les correspondan como tales con carácter general, y los gestores de residuos, deberán llevar una contabilidad de existencias de aquellos productos o residuos sujetos al impuesto especial con indicación del contenido alcohólico y con cumplimiento de los requisitos establecidos en el artículo 50.
+
+c) La oficina gestora autorizará al usuario para que expida un documento que ampare la circulación de los residuos desde su establecimiento hasta aquel en que tenga lugar la destrucción. El documento indicará la cantidad de producto y el alcohol etílico contenido en la mezcla.
+
+d) La fábrica, el depósito fiscal o la empresa gestora de residuos formalizará la recepción y devolverá el documento al usuario.
+
+e) El destinatario comunicará a la oficina gestora, con una antelación mínima de un día hábil, la destrucción, para que ésta decida sobre la comprobación de la operación.
+
+f) En todos los supuestos de destrucción, el titular de la empresa en la que se ha realizado la destrucción formalizará un acta de destrucción que comunicará al usuario para que éste anote la operación en el libro correspondiente y enviará una copia al órgano gestor que la hubiera autorizado.
+
+3\. Si los residuos o los subproductos resultantes de la destrucción contienen productos sujetos a impuestos especiales y se desean trasladar a otro lugar donde van a tener un aprovechamiento energético, la oficina gestora, previa solicitud del interesado, podrá autorizar la operación considerando que el alcohol contenido en aquéllos se encuentra parcialmente desnaturalizado con el resto de los componentes que integran el residuo o el subproducto obtenido e indicando el documento de circulación que debe amparar la circulación, pudiendo tener dicha consideración la propia autorización de la oficina gestora.
+
+Una vez autorizada la operación, la oficina gestora correspondiente al lugar en el que vayan a utilizarse los residuos o subproductos resultantes de la destrucción, decidirá sobre la comprobación procedente.
+
+> Se modifican los apartados 2 y 3 por el art. 3.22 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se añade por el art. 1.18 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+###### Artículo 75 ter. Regeneración de residuos alcohólicos.
+
+1\. La oficina gestora podrá autorizar a los titulares de aquellos establecimientos donde se obtienen subproductos o residuos alcohólicos con un contenido alcohólico superior al 1,2 por 100, que por sus características organolépticas o por la naturaleza de los otros productos que acompañan al alcohol lo hagan impropio para el consumo humano, su envío a fábricas de alcohol para la regeneración del alcohol contenido en ellos o a gestores de residuos para su posterior envío a fábricas de alcohol también para su regeneración, con el cumplimiento de las medidas de control que se establezcan, considerándose que el alcohol se encuentra parcialmente desnaturalizado con el resto de los componentes que integran el residuo o el subproducto alcohólico.
+
+2\. En el supuesto de envío de los subproductos o residuos alcohólicos a fábricas de alcohol se seguirá el siguiente procedimiento:
+
+a) El usuario solicitará a la oficina gestora el envío de los subproductos o residuos, para la regeneración del alcohol contenido en ellos, a una fábrica de alcohol. La oficina gestora podrá autorizar la operación, en cuyo caso, en la autorización expedida se indicará la cantidad de producto, el alcohol contenido y el documento de circulación que debe amparar la expedición, pudiendo tener esta consideración la propia autorización de la oficina gestora.
+
+b) Los usuarios de alcohol y los titulares de fábricas de alcohol, sin perjuicio de las obligaciones que les correspondan como tales con carácter general, deberán llevar una contabilidad de existencias de aquellos subproductos o residuos.
+
+c) El titular de la fábrica de alcohol, cuando reciba los subproductos o residuos, formalizará la recepción y devolverá el documento al usuario.
+
+3\. En el supuesto de que se envíen los residuos o subproductos a un gestor de residuos para su posterior entrega a una fábrica de alcohol para su regeneración, la oficina gestora podrá autorizar la operación y, en su caso, indicará qué documento de circulación debe amparar la circulación, pudiendo tener dicha consideración la propia autorización de la oficina gestora.
+
+Una vez autorizada la operación, la oficina gestora correspondiente a la fábrica de alcohol en donde tenga lugar la regeneración, decidirá sobre la comprobación procedente.
+
+> Se añade por el art. 3.23 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+###### Artículo 76. Fabricación de medicamentos.
+
+La aplicación de la exención a que se refiere el apartado 4 del artículo 42 de la Ley se llevará a cabo conforme a las normas siguientes:
+
+1\. Los titulares de laboratorios farmacéuticos deberán solicitar la autorización de exención a la oficina gestora correspondiente a su lugar de ubicación. Al escrito de solicitud deberán adjuntar una memoria técnica con el contenido previsto en el artículo 57 bis e indicar el número de registro que les corresponde a los medicamentos obtenidos como especialidades farmacéuticas.
+
+2\. La oficina gestora tramitará el expediente. La aplicación de la exención se considerará limitada a los procesos de fabricación de aquellos medicamentos que se describan en la memoria presentada y a los que la oficina gestora hubiese dado su conformidad. Una vez autorizada la exención, se procederá a la inscripción del laboratorio en que se va a utilizar el alcohol, en el registro territorial de la oficina gestora correspondiente a dicho laboratorio. Para la expedición de la tarjeta será necesaria, además, la prestación de una garantía por un importe del 1,5 por 100 de las cuotas que corresponderían al alcohol recibido en el año anterior o, en su defecto, de las que corresponderían al que se puede recibir durante un año.
+
+3\. En el laboratorio farmacéutico se llevará un sistema contable, autorizado por la oficina gestora, que registre el alcohol recibido, el incorporado y el consumido en los procesos de obtención de los medicamentos. La aplicación de la exención queda condicionada, a que se acredite el consumo del alcohol y a que el medicamento distribuido como especialidad farmacéutica incorpore otros componentes distintos del alcohol indicados en la memoria explicativa a que se refiere el apartado 1.
+
+4\. A efectos de lo establecido en el apartado 3 del artículo 44 de la Ley, los componentes distintos del alcohol que forman parte de una especialidad farmacéutica, a los que se refiere el apartado anterior, conferirán al alcohol contenido en dicha especialidad la condición de alcohol parcialmente desnaturalizado. La circulación de especialidades farmacéuticas que contengan alcohol, con cumplimiento de lo dispuesto en este apartado, no estará sujeta a requisito formal alguno.
+
+> Se modifica el apartado 1 por el art. 1.19 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica por el art. único.56 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica el apartado 2 por el art.63 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 77. Utilización de alcohol en centros de atención médica.
+
+La aplicación de la exención a que se refiere el apartado 5 del artículo 42 de la Ley se llevará a cabo conforme a las normas siguientes:
+
+1\. Los directores de los centros de atención médica que precisen recibir alcohol para su utilización en fines sanitarios dentro de los referidos centros solicitarán la aplicación de la exención a la oficina gestora. Al escrito de inscripción se deberá adjuntar una memoria de las necesidades y previsiones de consumo de alcohol dentro del centro con fines sanitarios.
+
+2\. La oficina gestora, tomando en consideración lo manifestado en la solicitud así como el consumo del centro durante el año anterior, fijará la cantidad anual de alcohol que podrá recibir el centro con aplicación de la exención. Esta cantidad podrá ser variada dentro de cada período anual si sobreviene una modificación de las necesidades del centro. Una vez autorizada la exención, el centro de atención médica se inscribirá en el registro territorial de la oficina gestora correspondiente a su ubicación.
+
+3\. En el centro sanitario se llevará un libro-registro en cuyo cargo se anotará el alcohol recibido y en la data el utilizado.
+
+4\. El alcohol recibido con aplicación de la exención sólo podrá ser utilizado con fines sanitarios y dentro del centro respectivo, bajo la responsabilidad de su director.
+
+5\. La oficina gestora podrá autorizar que bajo un sistema de control adecuado el suministro de alcohol a los centros de la red sanitaria pública se canalice a nivel provincial o regional a través de un solo centro previamente designado a tal fin.
+
+> Se modifica por el art. único.58 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+###### Artículo 78. Fabricación de alcohol en centros docentes.
+
+La aplicación de la exención a que se refiere el apartado 7 del artículo 42 de la Ley se efectuará conforme a las siguientes reglas:
+
+1\. Los directores de estos centros declararán a la oficina gestora que corresponda las características y capacidad de producción de los alambiques o aparatos instalados.
+
+2\. El alcohol o productos alcohólicos obtenidos se emplearán exclusivamente en las prácticas y experimentos propios de los citados centros.
+
+3\. En el supuesto de que el alcohol obtenido vaya a salir de dichos centros, con cualquier destino, el director deberá ponerlo en conocimiento de la oficina gestora, que procederá a la expedición del documento de circulación correspondiente y, en su caso, a efectuar la liquidación del impuesto.
+
+###### Artículo 79. Utilización de alcohol en investigación científica.
+
+La aplicación de la exención establecida en el apartado 8 del artículo 42 de la Ley deberá solicitarse de la oficina gestora, en escrito en que se especificará el fin a que se destina, la forma en que el alcohol participa en el proceso, la cantidad de alcohol que se considera necesaria, y el proveedor o proveedores elegidos para el suministro, indicando el CAE del establecimiento o establecimientos desde los que se efectuará el suministro.
+
+La oficina gestora autorizará, en su caso, el suministro de una determinada cantidad de alcohol sin pago del impuesto, lo que comunicará al solicitante, a fin de que por ésta se proceda su inscripción en el registro territorial. A requerimiento de los servicios de inspección deberá justificarse el uso a que se ha destinado el alcohol recibido con aplicación de la exención.
+
+> Se modifica por el art. único.59 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.64 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica por el art. único.15 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+##### Sección 2.ª Devoluciones
+
+###### Artículo 80. Por utilización sin incorporación al producto final.
+
+La aplicación del derecho a la devolución establecido en el artículo 43 de la Ley, se efectuará de acuerdo con el procedimiento siguiente:
+
+a) La aplicación deberá ser solicitada, previamente a la adquisición del alcohol, a la oficina gestora, por el titular de la explotación industrial donde vaya a utilizarse el alcohol. A la solicitud deberá acompañarse una memoria técnica con la información requerida en el artículo 57 bis.
+
+b) La oficina gestora resolverá la solicitud presentada concediendo, en su caso, la autorización correspondiente por un plazo máximo de cinco años. La modificación del proceso industrial descrito en la memoria, así como los productos que intervienen o se obtienen en el mismo deberá ser comunicada a la oficina gestora que, en su caso, autorizará las modificaciones notificadas.
+
+c) Una vez concedida la autorización a que se refiere la letra anterior, el industrial deberá proceder a la inscripción en el registro territorial de la oficina gestora correspondiente al establecimiento donde se va a realizar el proceso.
+
+d) Dentro de los veinte primeros días naturales siguientes al vencimiento de cada trimestre natural, los titulares de explotaciones industriales, que dispongan de la autorización a que se refiere la letra b) anterior, presentarán en la oficina gestora correspondiente al establecimiento donde se ha utilizado el alcohol, una solicitud de devolución de las cuotas soportadas por el Impuesto sobre el Alcohol y Bebidas Derivadas, correspondientes al alcohol consumido hasta el último día del trimestre en el proceso descrito en la memoria. En dicha solicitud, que se ajustará al modelo que se establezca por el Ministro de Hacienda y Administraciones Públicas, se consignará el número de la autorización a que se refiere la letra b) anterior.
+
+e) La oficina gestora tramitará las solicitudes presentadas y dispondrá, en su caso, el pago de las cuotas a devolver.
+
+> Se modifica la letra a) por el art. 1.20 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica por el art. único.60 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica el primer párrafo por el art. único.65 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+##### Sección 3.ª Fabricación de alcohol
+
+###### Artículo 81. Instalación de fábricas.
+
+1\. Los diversos elementos de los aparatos de producción deberán ser montados en emplazamientos fijos, de forma que puedan comprobarse todas sus conducciones de entrada y salida y acondicionados para poder ser precintados. Los depósitos de alcohol deberán hallarse cubicados oficialmente con su capacidad marcada en litros de forma visible e indeleble y provistos de un tubo de nivel y escala graduada.
+
+2\. Todos los aparatos productores de alcohol deberán estar provistos de contadores sujetos a modelo aprobado por el organismo competente, los cuales se instalarán en condiciones que puedan ser precintados y de forma que no pueda interrumpirse su libre funcionamiento en el paso continuo de alcohol a través de ellos. Sus tuberías de descarga deberán tener el diámetro conveniente para evitar retenciones y estarán dispuestas de tal forma que su vaciado no pueda ser obstaculizado por llaves de paso o presiones superiores a la suya. Estos contadores dispondrán de totalizador con capacidad para registrar el volumen de diez días de producción o 100.000 litros como mínimo. Las fábricas estarán provistas de los contadores en uso más uno de repuesto. Las fábricas de alcohol de graduación inferior a 90 por 100 vol. estarán obligadas a trabajar en régimen de depósito precintado.
+
+3\. Los líquidos alcohólicos circularán libremente desde su salida de la columna a la llave de regulación de la producción de alcoholes, y desde ésta hasta los correspondientes contadores o depósitos precintados, por tuberías rígidas sin soldadura, derivaciones, ni llaves, que serán visibles en todo su recorrido; los empalmes de las tuberías se realizarán por medio de bridas de unión o tuercas que estarán dispuestas o preparadas para poder ser precintadas y recubiertas por una envoltura rígida también precintable.
+
+4\. Las llaves de degustación estarán siempre situadas después del contador y su diámetro no podrá ser superior a medio milímetro.
+
+5\. El almacén de primeras materias, cuyos depósitos podrán ser subterráneos, tendrá capacidad suficiente para recibir la cantidad de éstas correspondiente al período mínimo de trabajo establecido en el apartado 4 del artículo 82 de este Reglamento, suponiéndolas del menor grado alcohólico a utilizar. Estos depósitos deberán estar cubicados oficialmente y acondicionados para su precintado cuando el servicio de intervención lo estime necesario.
+
+6\. Una vez inscrita la fábrica en el registro territorial, por el servicio de intervención se procederá al precintado de los aparatos y la oficina gestora autorizará el funcionamiento en pruebas por un período de seis meses, prorrogable hasta el final de la campaña en la que entre en actividad.
+
+7\. Transcurrido el plazo de funcionamiento en pruebas a que se hace referencia en el apartado anterior, el fabricante comunicará a la oficina gestora la capacidad normal de producción en veinticuatro horas de trabajo continuo, según clases de primera materia utilizada.
+
+8\. En el régimen de depósito precintado mencionado anteriormente, se tendrán en cuenta las normas siguientes:
+
+a) Los depósitos deberán tener una capacidad suficiente para almacenar el volumen de alcohol producido en siete días de trabajo.
+
+b) Las tuberías de conducción hasta el depósito o conjunto de depósitos, las bridas de unión, las llaves y las bocas de los depósitos deberán estar precintadas por el servicio de intervención de modo que el alcohol fabricado en este régimen no pueda ser extraído de aquéllos sin previa autorización del servicio de intervención quien efectuará el desprecintado y verificará la operación, o bien, autorizará al interesado para que efectúe el desprecintado por sí mismo.
+
+> Se modifican los apartados 1 y 3 por el art. único.66 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifican los apartados 2, 3 y 8 por el art. único.15 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+###### Artículo 82. Declaración de trabajo.
+
+1\. Todo fabricante de alcohol, antes de poner en funcionamiento los aparatos de rectificación o destilación de su industria suscribirá una declaración de trabajo, sujeta al modelo aprobado por el centro gestor, que deberá numerar por años naturales, independientemente por cada aparato que tenga instalado.
+
+En esta declaración se hará constar la cantidad y clase de primera materia que va a utilizar en el proceso, que deberá hallarse en fábrica y figurar como existencia en la misma al momento de efectuar la declaración, su contenido en alcohol expresado en litros absolutos, los días y horas que van a estar en actividad los aparatos con expresión del día y hora de principio y fin de la operación.
+
+Dicha declaración deberá remitirse al servicio de intervención de la fábrica por vía telemática.
+
+2\. En el día y hora señalados en la declaración, si el servicio de intervención no estuviera presente, el fabricante procederá a realizar el desprecintado de las llaves necesarias para el funcionamiento de los aparatos y comenzará las operaciones en los términos prefijados en su declaración.
+
+Si por circunstancias imprevistas o de fuerza mayor no pudieran dar comienzo las operaciones en la fecha y hora señaladas en la declaración y no se hallara presente el servicio de intervención, se procederá con arreglo a lo establecido en el artículo siguiente, siempre que la demora sea superior a dos horas.
+
+3\. Las fábricas, salvo las que trabajen en régimen de depósito precintado, deberán funcionar sin interrupción durante las veinticuatro horas del día.
+
+Cuando el fabricante desee acogerse al descanso dominical o de días festivos, lo hará constar expresamente en su declaración, indicando fechas y horas de interrupción y reanudación de las operaciones.
+
+4\. El período señalado en la declaración no podrá ser inferior a dos días de trabajo o, en su defecto, al necesario para obtener, cuando menos, 25.000 litros de alcohol absoluto, salvo en fin de campaña.
+
+5\. El día, que finalice el período de actividad, el fabricante remitirá por vía telemática al servicio de intervención un parte de resultado de operaciones de trabajo, ajustado al modelo aprobado por el centro gestor.
+
+En dicho parte de resultado de operaciones de trabajo se consignarán las materias primas realmente utilizadas y el alcohol obtenido, con expresión en ambos casos de su riqueza alcohólica en litros absolutos. Por el servicio de intervención se procederá al precintado de los aparatos firmando con el fabricante la oportuna diligencia.
+
+6\. No podrán comenzarse nuevas operaciones de destilación o rectificación hasta transcurridas veinticuatro horas del cierre de la última fabricación, a menos que durante la misma se formule otra declaración, en la forma y plazo establecido en el presente artículo, para continuar el trabajo sin interrupción.
+
+7\. Si el fabricante necesitase levantar algún precinto para la limpieza o reparación de los aparatos, lo solicitará del servicio de intervención, en escrito duplicado, especificando el número de los mismos y situación. El servicio de intervención, previa la comprobación que estime oportuna, autorizará su levantamiento, procediendo a un nuevo precintado una vez concluida la operación que lo motivó. Asimismo, si por cualquier causa fortuita se rompiese alguno de los precintos colocados, el fabricante lo comunicará inmediatamente al servicio de intervención que comprobará las circunstancias concurrentes y determinará, en su caso, la colocación de nuevos precintos.
+
+8\. Los destiladores artesanales remitirán a la oficina gestora la declaración de trabajo y el parte de resultados por cualquier medio del que quede constancia de su presentación.
+
+> Se añade por el art. único.61 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifican los apartados 1 y 5 por el art. único.67 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 83. Interrupción de operaciones.
+
+1\. Cuando por avería o por causa de fuerza mayor se interrumpa el inicio o la marcha normal de las operaciones, el fabricante lo comunicará inmediatamente al servicio de intervención por vía telemática.
+
+En caso de avería de los contadores o sistema de control, deberán interrumpirse las operaciones de fabricación, comunicándose tal circunstancia al servicio de intervención de forma inmediata en los términos del párrafo anterior. El servicio de intervención podrá disponer la continuación de la operación hasta su ultimación en el régimen de depósito precintado al que se refiere el apartado 8 del artículo 81.
+
+2\. Reparada la avería, podrán reanudarse las operaciones, haciéndose constar el tiempo de inactividad en la declaración de trabajo y dando cuenta de la reanudación al servicio de intervención por vía telemática.
+
+No obstante, si la reparación exigiese un plazo superior al que reste para finalizar el período señalado en la declaración, se dará por ultimada la operación, tomando como fecha y hora de cierre las de interrupción, no computándose, a efectos de recuentos de existencias, las primeras materias no utilizadas.
+
+3\. Los destiladores artesanales comunicarán a la oficina gestora la interrupción y, en su caso, reanudación de las operaciones por cualquier medio del que quede constancia de su presentación.
+
+> Se añade el apartado 3 por el art. único.62 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.68 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 1 por el art. único.16 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+###### Artículo 84. Prevenciones generales en la fabricación de alcohol.
+
+1\. No se permite el uso de aparatos portátiles para la destilación de alcohol.
+
+2\. El repaso y, en su caso, el rebaje previo de alcoholes rectificados o destilados sólo podrá realizarse con autorización expresa del servicio de intervención.
+
+3\. Los productos entrados en fábrica como primeras materias y cargados como tales en el correspondiente libro, no podrán tener otro destino que el de la fabricación de alcohol, salvo autorización expresa de la oficina gestora.
+
+4\. Las cantidades de alcohol consignadas en los libros reglamentarios y en el resto de los documentos a que se refiere este Reglamento se expresarán en litros de alcohol puro referidos a la temperatura de 20 grados centesimales.
+
+5\. Los fabricantes de alcohol podrán envasar estos productos dentro del recinto de la propia fábrica. Los envases deberán ostentar las indicaciones exigidas por la normativa relativa al almacenamiento, transporte, etiquetado, presentación, publicidad de los productos alimenticios y cualquier otra que les resulte aplicable; cuando se trate de alcohol desnaturalizado o deshidratado figurará, además, la expresión «alcohol desnaturalizado con... (clase de desnaturalizante) o deshidratado. No apto para uso de boca.
+
+6\. Tendrán la consideración de primeras materias, tanto las melazas de remolacha o caña y demás sustancias azucaradas, como los cereales y sus maltas y demás sustancias amiláceas. En la declaración de trabajo correspondiente a las fábricas de alcohol a partir de estas sustancias se consignará, en cuanto a las mismas y en sustitución de su contenido en alcohol absoluto, su riqueza en almidón cuando se trate de sustancias amiláceas, o su riqueza en azúcares fermentescibles expresados en sacarosa en el caso de sustancias azucaradas. Por el Ministro de Economía y Hacienda se establecerán los métodos para determinar la riqueza en almidón de las sustancias amiláceas y la riqueza en azúcares fermentescibles, expresados en sacarosa, de las melazas y sustancias azucaradas.
+
+7\. La fabricación de alcohol por síntesis u otros procedimientos químicos deberá ser autorizada por el centro gestor el cual, a la vista del proceso, establecerá los requisitos especiales a cumplir en relación con el control contable.
+
+> Se modifican los apartados 2 y 5 por el art. único.69 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 85. Contabilidad de las fábricas de alcohol.
+
+A) Libros principales. En las fábricas de alcohol se llevarán, con carácter general, los siguientes libros principales:
+
+1\. Libro de primeras materias.
+
+Sin perjuicio de lo establecido en el apartado 6 del artículo 84 anterior, en este libro se contabilizará el movimiento, tanto de productos alcohólicos recibidos en fábrica, como de los caldos y mostos fermentados obtenidos en la misma.
+
+Constituirán el cargo las expediciones de materias primas entradas u obtenidas en fábrica, cuyos asientos se justificarán documentalmente:
+
+a) Con el documento que haya debido amparar su circulación de acuerdo con lo dispuesto en este Reglamento, si el producto recibido como primera materia es un producto objeto de los impuestos especiales de fabricación.
+
+b) Con un albarán expedido por el suministrador, en los demás casos.
+
+c) Con el simple pase de cuentas de otro libro si se trata de primeras materias obtenidas en la propia fábrica.
+
+Constituirán la data las salidas de primeras materias que se incorporen al proceso de fabricación.
+
+2\. Libro de fabricación.
+
+En él se reflejará el movimiento de alcohol. En el cargo se anotará diariamente la fecha, volumen real de alcohol obtenido, graduación, volumen de alcohol puro y la lectura que arrojen los contadores, con separación según clase de alcohol. No obstante cuando se trabaje en régimen de depósito precintado el asiento de cargo se efectuará el día en que se proceda al desprecintado del depósito y contabilización del alcohol producido. En la data se anotará, con el mismo detalle, el alcohol salido de fábrica y la referencia del documento con que se ampare su circulación, separando por grupos de destino según tratamiento fiscal.
+
+3\. Libro de desnaturalizante.
+
+En las fábricas y depósitos fiscales en que se obtenga alcohol desnaturalizado se llevará, además, un libro de desnaturalizante, en el que se anotarán las distintas clases de desnaturalizantes recibido, así como la fecha y proveedor, y las salidas por cada operación.
+
+B) Libros auxiliares:
+
+1\. Las fábricas de alcohol a partir de cereales u otras sustancias amiláceas o azucaradas, para el debido control de los productos que han servido de base para la preparación de los caldos y mostos fermentados, deberán llevar los siguientes libros auxiliares:
+
+a) Las fábricas de alcohol a partir de melazas de caña o de remolacha, un libro de cuenta corriente de estos productos y otro de fermentación.
+
+b) Las fábricas de alcohol de cereales u otras sustancias amiláceas, un libro que refleje el movimiento de estos productos, un libro de malta, si procede, y un libro de fermentación.
+
+En las fábricas a que se refiere este apartado, en la data del libro de fermentación se hará constar, entre otros datos, el volumen, densidad y grado alcohólico de los mostos o caldos obtenidos.
+
+2\. Cuando una fábrica de alcohol de melazas se halle instalada en recinto adyacente a una fábrica azucarera, siendo titular de ambas la misma persona, el cargo del libro de melazas se justificará con el pase de cuentas de las melazas de los depósitos de la fábrica azucarera a los de la fábrica de alcohol.
+
+3\. La oficina gestora, a propuesta del servicio de intervención y a la vista de los procesos productivos, podrá establecer la llevanza de otros libros de carácter auxiliar para un mejor control de las operaciones intermedias.
+
+###### Artículo 85 bis. Depuración y recuperación del alcohol utilizado en procesos industriales.
+
+1\. Sin perjuicio de lo establecido en el apartado 2 siguiente, la obtención de alcohol a partir de residuos alcohólicos requerirá que el establecimiento en el que se realice la operación se inscriba como fábrica de alcohol, siendo de aplicación las normas que regulan este tipo de establecimientos.
+
+2\. No obstante lo dispuesto en el apartado 1 anterior, la oficina gestora podrá autorizar a los usuarios de alcohol a que procedan a la depuración o recuperación, mediante aparatos aptos para la producción de alcohol de que dispongan en sus establecimientos, del alcohol recibido ya utilizado. Tal autorización, que deberá ser solicitada por los interesados, estará condicionada al cumplimiento de los siguientes requisitos:
+
+a) Los aparatos de producción de alcohol y los depósitos de alcohol figurarán declarados por el titular del establecimiento en la memoria descriptiva de la actividad y en la memoria técnica a las que hacen referencia el apartado 2 del artículo 40 y el artículo 57 bis, respectivamente. En dichas memorias se justificará específicamente la necesidad o conveniencia de proceder a la depuración o recuperación del alcohol recibido en relación con los procesos industriales que se desarrollen en el establecimiento.
+
+b) Los titulares de los establecimientos cumplirán las exigencias recogidas en los cuatro primeros apartados del artículo 81 y en el artículo 85. Igualmente, presentarán, en sustitución de la declaración de trabajo a la que se refiere el artículo 82, una declaración anual de obtención y reutilización del alcohol depurado o recuperado. A solicitud debidamente justificada del interesado, la oficina gestora podrá eximir del cumplimiento de alguna de las exigencias recogidas en los citados apartados del artículo 81.
+
+c) Los usuarios de alcohol total o parcialmente desnaturalizado, deberán proceder a la desnaturalización, total o parcial, según la naturaleza del alcohol de partida, del alcohol que obtengan como consecuencia de las operaciones de depuración o recuperación, con cumplimiento de las normas de desnaturalización establecidas en los apartados 2 y 3 del artículo 73.
+
+d) El alcohol depurado o recuperado de acuerdo con lo establecido en este apartado, no podrá ser enviado a otro establecimiento y deberá ser reutilizado dentro del mismo en el proceso industrial declarado en relación con la inscripción registral. Tratándose de alcohol recuperado de alcohol desnaturalizado, la utilización de aquél continuará sujeta a las prescripciones de los artículos 74 o 75, según proceda.
+
+3\. Las operaciones de desalcoholización de cerveza, vino y bebidas fermentadas, y productos intermedios, se regirán por lo establecido en el artículo 56 bis.
+
+> Se modifican la denominación y el apartado 2.b) por el art. 3.24 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se añade por el art. 1.21 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Téngase en cuenta para su aplicación la disposición transitoria primera del citado Real Decreto.
+
+##### Sección 4.ª Fabricación de bebidas derivadas y de extractos y concentrados alcohólicos
+
+###### Artículo 86. Prevenciones generales en la elaboración de bebidas derivadas.
+
+1\. La oficina gestora podrá autorizar la elaboración de bebidas por distintos fabricantes en una misma fábrica, siempre que éstos se obliguen solidariamente.
+
+2\. Las fábricas de bebidas derivadas por destilación directa deberán cumplir lo dispuesto en la sección 3.ª de este capítulo, en lo que sea de aplicación.
+
+3\. Las fábricas que elaboran bebidas derivadas por otros procedimientos emplearán como materia prima alcohol, extractos o concentrados alcohólicos, y la elaboración podrá efectuarse en la forma siguiente:
+
+a) Elaboración en caliente: se comprenden en este apartado las industrias que reciben alcohol como primera materia para su aromatización por destilación o infusión.
+
+En el caso de existencia de aparatos de destilación para la aromatización de la materia prima, su puesta en funcionamiento deberá ser comunicada a la oficina gestora en la forma que por ésta se determine.
+
+b) Elaboración en frío: Se incluye en este apartado la obtención de bebidas derivadas bien sea por disolución o mezcla con esencias u otras sustancias aromáticas, autorizadas, bien por maceración de materias vegetales. Se asimila a una operación de obtención de bebidas derivadas por disolución, la dilución de un destilado alcohólico con agua y trasegado a distintos depósitos, para su posterior filtrado y almacenado antes de su embotellado y salida de fábrica.
+
+c) Elaboración por añejamiento: se comprende en este apartado la obtención de bebidas por envejecimiento de productos alcohólicos en vasijas de madera, con capacidad marcada en litros y provistas del sistema de medición correspondiente.
+
+d) Elaboración por procedimientos mixtos: estas fábricas quedarán sometidas a las normas establecidas en los párrafos a) a c) de este apartado.
+
+4\. Las plantas embotelladoras independientes, que deberán inscribirse en el Registro Territorial, recibirán las bebidas derivadas con el impuesto devengado y sin aplicación de exenciones y no podrán someterlas a ninguna operación distinta del embotellado, debiendo figurar en sus etiquetas los datos que procedan de acuerdo con la normativa nacional y comunitaria en materia de etiquetado.
+
+> Se modifica el apartado 3.b) por el art. único.63 del Real Decreto 1715/2010, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+###### Artículo 87. Contabilidad en fábricas de bebidas derivadas y plantas embotelladoras independientes.
+
+1\. Los elaboradores de bebidas derivadas deberán llevar con carácter general los siguientes libros:
+
+a) De primeras materias. En el cargo se anotarán los alcoholes, bebidas derivadas y demás productos alcohólicos entrados en fábrica, con expresión de la fecha, referencia al documento que ha amparado su circulación, proveedor, volumen real, graduación y alcohol puro. En la data se anotarán diariamente las cantidades de primeras materias pasadas a proceso de elaboración con el mismo detalle que en el cargo.
+
+b) De productos elaborados. Constituirán el cargo las bebidas derivadas elaboradas cada día, con separación por clase y graduación, totalizando por el alcohol puro contenido en ellas. En la data se sentarán las salidas de fábrica por expediciones, indicando fecha, referencia del documento de circulación, clase de bebida, graduación y contenido en alcohol puro, separando en columnas distintas, según el trato fiscal aplicable en razón de su destino.
+
+2\. Además de estos libros, se llevarán, en cada caso, los auxiliares que la intervención estime necesario, a la vista del proceso productivo, para reflejar el movimiento de los productos en curso de elaboración que resulten de dicho proceso.
+
+3\. Las plantas embotelladoras independientes llevarán los libros siguientes:
+
+a) De bebidas derivadas recibidas.
+
+b) De movimiento de bebidas derivadas embotelladas.
+
+###### Artículo 88. Fabricación de extractos y concentrados alcohólicos.
+
+1\. A efectos de este Reglamento se consideran extractos y concentrados alcohólicos los productos clasificados en el código NC 21069020. Se considerarán igualmente extractos y concentrados alcohólicos los extractos, concentrados y aromatizantes que, sin clasificarse en el código NC 21069020, contengan alcohol y se destinen a la elaboración de bebidas alcohólicas.
+
+2\. La actividad de fabricante de extractos y concentrados alcohólicos constituirá una actividad independiente de la de fabricante de bebidas derivadas a los efectos de este Reglamento salvo cuando la obtención de dichos extractos y concentrados se produzca dentro de una fábrica de bebidas derivadas en el marco de un proceso integrado para la obtención de éstas.
+
+3\. En las fábricas de extractos y concentrados alcohólicos podrán también fabricarse otros productos que contengan alcohol, desnaturalizado o no. No obstante, deberá establecerse entre las secciones dedicadas a la elaboración de unos y otros una separación suficiente que haga posible el control a juicio de los servicios de intervención.
+
+4\. El alcohol o bebidas alcohólicas recibidos en régimen suspensivo para la elaboración de los extractos y concentrados alcohólicos así como estos últimos podrán ser utilizados para la obtención, dentro de la fábrica de extractos, de aromatizantes para la elaboración de productos alimenticios y bebidas analcohólicas. En el momento de la salida de la fábrica de extractos inscrita como tal en el correspondiente registro territorial, se operará respecto de las cuotas devengadas, por compensación automática en el correspondiente asiento de data, el derecho a la devolución previsto en el párrafo a) del artículo 22 de la Ley.
+
+5\. En estas fábricas se llevará una cuenta de primeras materias y otra de productos terminados. En la cuenta de primeras materias se contabilizarán independientemente el alcohol desnaturalizado y sin desnaturalizar. En la cuenta de productos terminados se contabilizarán separadamente los productos que contienen una u otra clase de alcohol; en el supuesto de productos que contengan alcohol no desnaturalizado se sentarán en forma diferenciada las salidas en régimen suspensivo, con exención del impuesto o con devolución por compensación automática, de las que se realicen con aplicación del mismo, haciendo constar el documento de circulación expedido.
+
+6\. Cuando se proceda, en la propia fábrica, a la desnaturalización parcial del alcohol recibido, en virtud de la autorización concedida al efecto, se efectuarán los necesarios asientos contables en la cuenta de primeras materias. La adición de los desnaturalizantes específicos aprobados conforme a lo dispuesto en el artículo 75 de este Reglamento deberá efectuarse en presencia del servicio de intervención que extenderá la oportuna diligencia que servirá de justificante al citado asiento contable.
+
+7\. **(Derogado)**.
+
+8\. En la fabricación, elaboración, envasado, almacenamiento y transporte de extractos y concentrados alcohólicos, se aplicarán los mismos porcentajes de pérdidas que los previstos para las bebidas derivadas en el artículo 90 de este Reglamento.
+
+> Se modifica el apartado 4 por el art. 4.24 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-179](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-179)
+
+> Se deroga el apartado 7 por el art. 1.18 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se actualizan las referencias al código NC del apartado1 por el apartado 3 de la Orden de 19 de diciembre de 1995. [Ref. BOE-A-1995-27714](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-27714).
+
+##### Sección 5.ª Deber de colaboración
+
+###### Artículo 89. Deber de colaboración.
+
+1\. Los fabricantes, vendedores o propietarios de aparatos o partes de los mismos aptos para la destilación o rectificación de alcoholes o líquidos alcohólicos, deberán poner en conocimiento de la oficina gestora correspondiente a su domicilio fiscal, antes de la salida del establecimiento, los nombres, NIF y domicilios de las personas a quienes se envíen.
+
+2\. Toda persona que obtenga por cualquier título la posesión de aparatos propios para elaborar, por destilación o rectificación, alcoholes o líquidos alcohólicos, deberá declararlos a la oficina gestora correspondiente al domicilio donde vaya a instalarse dentro del plazo de un mes, a contar desde la fecha de adquisición o de inicio de la posesión.
+
+3\. Los aparatos no declarados conforme a lo dispuesto en los apartados anteriores tendrán la consideración de artículos prohibidos, a efectos de lo previsto en la legislación vigente en materia de contrabando.
+
+4\. Quienes almacenen productos que constituyan primera materia para la fabricación de alcohol vínico estarán obligados a presentar, dentro de los veinte días siguientes a la terminación de cada trimestre natural, ante la oficina gestora, una relación sujeta a modelo aprobado por el Ministro de Economía y Hacienda, de aquellos enviados con destino a fábricas de destilación o de rectificación en el trimestre anterior, indicando fecha, destinatario e industria que ejerce, dirección, localidad de destino, cantidad y graduación. Cuando se trate de orujos, piquetas y demás residuos de la vinificación se incluirán en dicha relación, cualquiera que sea su destino.
+
+No obstante la presentación de dicha relación no será obligatoria cuando sea negativa.
+
+5\. Asimismo, estarán obligados a presentar la relación a que se refiere el apartado anterior en los mismos plazos, los fabricantes productores de azúcares cristalizados de cualquier clase o procedencia, los de isoglucosa y los almacenistas de melazas, respecto a las salidas de sus fábricas o almacenes, tanto de melaza como de isoglucosa, cualquiera que sea el destino de las mismas.
+
+6\. Los importadores y quienes realicen adquisiciones intracomunitarias de los productos citados en los apartados 4 y 5 anteriores estarán obligados al cumplimiento de las obligaciones señaladas en los mismos.
+
+7\. Las personas a que se refieren los apartados 4, 5 y 6 anteriores estarán obligadas a conservar y presentar, a requerimiento de la inspección, los justificantes de las ventas de los productos citados en el mismo durante un período de cuatro años.
+
+> Se modifica el apartado 7 por el art. único.64 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifican los apartados 1 y 4 por el art. único.70 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+##### Sección 6.ª Porcentajes de pérdidas
+
+###### Artículo 90. Porcentajes de pérdidas.
+
+1\. A los efectos de lo dispuesto en el artículo 6 de la Ley, los porcentajes reglamentarios de pérdidas admisibles en los procesos de fabricación, elaboración, envasado, almacenamiento y transporte son los siguientes:
+
+a) En el proceso de fermentación alcohólica de las melazas y demás sustancias azucaradas: El 10 por 100 de la cantidad de alcohol absoluto que constituiría el rendimiento químico teórico del 100 por 100 de los azúcares fermentescibles expresados en sacarosa contenidos en aquellas que hayan sido puestas en trabajo.
+
+b) En la rectificación y destilación de alcohol: El 3 por 100 y el 1,5 por 100, respectivamente, de las cantidades de alcohol puro puestas en trabajo. Cuando se trate de la destilación de orujos en aparatos de baja presión, este porcentaje se elevará al 5 por 100.
+
+c) En la elaboración de bebidas derivadas:
+
+1.º Fabricación por destilación directa: Los mismos porcentajes que en el apartado b) anterior.
+
+2.º Elaboración en frío que no implique maceración: El 1 por 100 de las cantidades de alcohol puro puestas en trabajo.
+
+3.º Elaboración en frío con maceración: El 3 por 100 de las cantidades de alcohol puro puestas en trabajo.
+
+4.º Elaboración en caliente: El 3 por 100 de las cantidades de alcohol puro puestas en trabajo.
+
+5.º Elaboración por añejamiento: Las establecidas en el apartado e) siguiente.
+
+d) En el embotellado o envasado en recipientes acondicionados para la venta al por menor: El 0,5 por 100 de las cantidades de alcohol puro a envasar.
+
+e) En el almacenamiento de alcohol y bebidas derivadas en envases distintos de botellas: El 0,50 por 100 de las existencias medias trimestrales. Cuando se realice en envases de madera no revestidos ni exterior ni interiormente, este porcentaje se elevará al 1,5 por 100.
+
+f) En el almacenamiento de primeras materias en fábricas de alcohol: El 1 por 100 de las existencias medias trimestrales; dicho porcentaje se elevará hasta el 5 por 100 cuando se trate de melazas, orujos y demás materias primas no líquidas.
+
+g) En el transporte de alcohol y bebidas derivadas, en continentes de más de 200 litros incluida su descarga: el 0,5 por 100 de la cantidad que consta como transportada en el correspondiente documento de circulación.
+
+2\. A los efectos de lo previsto en el apartado 11 del artículo 15 y en el apartado 2 del artículo 45, ambos de la Ley y en el apartado 2 del artículo 52 de este Reglamento, y respecto de los usuarios que reciban alcohol con aplicación de alguna de las exenciones previstas en aquélla, incluido el alcohol total o parcialmente desnaturalizado, se considerarán justificadas, sin necesidad de prueba, las pérdidas que se produzcan en los siguientes procesos y porcentajes:
+
+a) En la elaboración en frío de productos que contengan alcohol sin que implique maceración: el 1 por 100 de las cantidades de alcohol puro puestas en trabajo.
+
+b) En la elaboración, en frío con maceración y en caliente, de productos que contengan alcohol: El 3 por 100 de las cantidades de alcohol puro puestas en trabajo.
+
+c) En el embotellado o envasado de productos que contengan alcohol en recipientes acondicionados para la venta al por menor: el 0,5 por 100 de las cantidades de alcohol que se envasen.
+
+d) En el almacenamiento de alcohol en envases distintos de recipientes acondicionados para la venta al por menor: El 0,50 por 100 de las existencias medias trimestrales. Cuando se realice en envases de madera no revestidos ni exterior ni interiormente, este porcentaje se elevará al 1,5 por 100.
+
+e) En el transporte de alcohol en continentes de más de 200 litros incluida su descarga: el 0,5 por 100.
+
+3\. Se autoriza al Ministro de Economía y Hacienda a establecer porcentajes reglamentarios de pérdidas en los procedimientos de fabricación o elaboración distintos de los citados anteriormente.
+
+> Se modifica por el art. único.71 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifican los apartados 1.e) y f) y el 2.d) por el art. único.17 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Se modifica el apartado 2.b) por el art. único.16 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+##### Sección 7.ª Normas especiales de circulación
+
+###### Artículo 91. Requisitos de los envases.
+
+1\. La circulación de bebidas derivadas fuera de régimen suspensivo con un destino dentro del ámbito territorial interno distinto de una planta embotelladora independiente tendrá lugar en envases de cualquier capacidad, sin perjuicio de lo establecido en la normativa sobre gamas de cantidades y capacidades nominales para productos envasados.
+
+2\. Las cisternas que contengan alcohol o, en su caso, bebidas derivadas de cualquier clase deberán llevar precintadas todas sus llaves por el remitente. En cada cisterna o compartimento de la misma deberá figurar, de manera indeleble, su capacidad en litros. Igualmente, los bidones y otros envases de madera destinados al transporte de alcohol y, en su caso, bebidas derivadas llevarán las indicaciones exigidas por la normativa que en materia de trasporte, envasado, etiquetado y publicidad les resulte de aplicación.
+
+3\. Los envases de los alcoholes que no sean aptos para uso de boca indicarán, en caracteres bien visibles, esta circunstancia.
+
+> Se modifica por el art. 72 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 5 por el art. único.17 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+##### Sección 8.ª Regímenes de destilaciones artesanales y de cosecheros
+
+###### Artículo 92. Definiciones particulares.
+
+A efectos de esta sección se entenderá por:
+
+1\. Aguardiente de cosechero. El aguardiente al que resulta de aplicación el tipo reducido del Régimen de cosechero.
+
+2\. Orujos de cosechero. Los orujos de uva a partir de los cuales se obtiene el aguardiente de cosechero.
+
+3\. Precintas de cosechero. Las precintas de circulación de bebidas derivadas, especialmente establecidas para amparar la circulación del aguardiente de cosechero desde la fábrica en que se ha obtenido hasta el domicilio del cosechero.
+
+###### Artículo 93. Instalación de los aparatos de producción.
+
+1\. El local donde se instalen los aparatos de destilación tendrá la consideración de fábrica de bebidas derivadas por destilación directa con sometimiento al régimen de intervención previsto en el artículo 48, salvo en lo dispuesto en los párrafos d) y e) de su apartado 2.
+
+2\. Los aparatos de destilación, que estarán acondicionados para ser precintados, deberán ser montados en emplazamientos fijos dentro de locales que sean independientes tanto de cualquier domicilio particular como de aquellos otros locales en que se desarrollen actividades que supongan la tenencia o utilización de alcohol, bebidas derivadas u otros productos alcohólicos. Se considera que un local es independiente cuando no tiene comunicación con otro y dispone de acceso directo a la vía pública.
+
+3\. En la fábrica no podrán introducirse alcoholes o bebidas derivadas procedentes de otros establecimientos.
+
+> Se modifica el apartado 1 por el art. único.18 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+###### Artículo 94. Inscripción en el registro territorial.
+
+1\. En el escrito de solicitud de inscripción en el registro territorial, el destilador artesanal declarará la capacidad de la caldera del aparato de destilación.
+
+2\. El servicio de intervención procederá al precintado de los aparatos de destilación y la oficina gestora procederá a la inscripción del destilador artesanal en el registro territorial y a la habilitación de los libros reglamentarios correspondientes.
+
+###### Artículo 95. Autorización para destilar.
+
+1\. Antes de poner en funcionamiento los aparatos de destilación, el destilador artesanal suscribirá una solicitud de autorización para destilar, sujeta al modelo que se apruebe por el Ministro de Economía y Hacienda, en la que se harán constar los siguientes datos y circunstancias:
+
+a) Cantidad y clase de primera materia que se va a utilizar, con indicación de su grado alcohólico volumétrico adquirido, consignando, en su caso, los orujos de cosechero separadamente del resto de primeras materias.
+
+b) Período para el que se solicita autorización para destilar. Este período estará necesariamente compuesto por días completos y su duración no podrá ser inferior a cuatro días, salvo fin de campaña.
+
+2\. Cuando se destilen orujos de cosechero deberá unirse una relación, sujeta a modelo, de los cosecheros para los que se destilan aquéllos.
+
+3\. La solicitud de autorización, en la que constará la realización del ingreso de la cuota correspondiente a la tarifa primera del régimen de destilación artesanal, deberá presentarse directamente ante la oficina gestora con al menos setenta y dos horas de antelación al momento del inicio de la operación. En el momento de la presentación, las primeras materias comprendidas en la solicitud deberán hallarse en fábrica y figurar como existencias en el correspondiente libro.
+
+4 Si el período de destilación abarcara días naturales de dos períodos de liquidación, se presentarán dos solicitudes comprensivas, cada una de ellas, de los días naturales que correspondan a cada período de liquidación.
+
+5\. En la fecha y hora señalada en la solicitud para el inicio de las operaciones de destilación, el destilador artesanal podrá proceder al desprecintado de los aparatos y dar inicio a las operaciones incluso si el servicio de intervención no se hallase presente.
+
+6\. Finalizado el período autorizado para la destilación, el servicio de intervención podrá proceder el precintado de los aparatos, de lo que se dejará constancia mediante la correspondiente diligencia.
+
+> Se modifican los apartados 4 y 6 por el art. único.19 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+###### Artículo 96. Contabilidad reglamentaria.
+
+Los destiladores artesanales estarán obligados a la llevanza de los libros siguientes:
+
+1\. Libro de primeras materias, cuyo cargo estará constituido por las que se reciban en la fábrica y cuya data la constituirán aquellas que se sometan diariamente al proceso de destilación.
+
+2\. Libro de aguardiente, cuyo cargo estará constituido por los obtenidos diariamente y en cuya data se anotarán los aguardientes salidos de la fábrica, con la debida separación según su tratamiento fiscal.
+
+###### Artículo 97. Circulación.
+
+1\. Con independencia de los requisitos que hayan de cumplirse en materia técnico-sanitaria y de envasado y etiquetado, la circulación de los aguardientes obtenidos se regirá por lo dispuesto en este Reglamento, sin perjuicio de lo establecido en los apartados 3 y 4 de este artículo.
+
+2\. Cuando los aguardientes deban circular al amparo de un documento éste será expedido por el destilador artesanal, previa autorización de la oficina gestora.
+
+3\. A los aguardientes obtenidos por destiladores artesanales les será de aplicación lo previsto en el apartado 1 del artículo 26 de este Rglamento, excepto aquellos a que se refiere el apartado siguiente de este artículo.
+
+4\. Los aguardientes de cosechero se envasarán en botellas de un litro de capacidad que llevarán adheridas las correspondientes precintas de cosechero y no podrán circular más que desde la fábrica en que se han obtenido hasta el domicilio del cosechero.
+
+> Se modifica el apartado 2 por el art. único.66 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+###### Artículo 98. Entrega de precintas.
+
+1\. La oficina gestora entregará al destilador artesanal, previa comprobación de la realización del pago correspondiente a la tarifa 1.ª del régimen:
+
+a) Un número de precintas de cosechero igual al resultado de multiplicar por 2,2 el número de litros de alcohol puro correspondiente a los orujos de cosechero que figuran en la solicitud de autorización.
+
+b) Un número de precintas ordinarias igual al resultado de multiplicar por 2,2 el número de litros de alcohol puro correspondiente a los orujos distintos de los orujos de cosechero que figuran en la solicitud de autorización.
+
+2\. La oficina gestora entregará las precintas que sean necesarias para amparar la circulación de las bebidas derivadas que integran la base imponible de la tarifa 2.ª del régimen, según se deduzca del libro de aguardiente. Para esta entrega será condición necesaria que el destilador artesanal preste garantía por un importe igual al de las cuotas que corresponderían a dicha base.
+
+###### Artículo 99. Liquidación y pago.
+
+1\. Con carácter previo a la presentación ante la oficina gestora de la solicitud de autorización a que se refiere el artículo 95 de este Reglamento, el destilador artesanal deberá efectuar el pago de la cuota correspondiente a la tarifa 1.ªdel régimen.
+
+2\. La liquidación y pago de la cuota correspondiente a la tarifa 2.ª del régimen de destilación artesanal se efectuará de acuerdo con las normas establecidas, con carácter general, para el Impuesto sobre el Alcohol y Bebidas Derivadas.
+
+###### Artículo 100. Devolución del impuesto.
+
+1\. Los destiladores artesanales que deseen destinar las bebidas por ellos producidas, distintas del aguardiente de cosechero, a una fábrica de bebidas derivadas, lo solicitarán de su oficina gestora, indicando en la solicitud los datos relativos a la fábrica de destino y la clase, cantidad y grado alcohólico volumétrico adquirido de las bebidas a enviar.
+
+2\. La oficina gestora autorizará que el destilador artesanal formalice un documento de circulación en el que figurará como expedidor el destilador artesanal y como destinatario la fábrica de bebidas derivadas designada por éste. En el documento se hará constar que se trata de bebidas derivadas obtenidas en régimen de destilación artesanal.
+
+3\. Las bebidas circularán a granel. El destilador artesanal deberá devolver a la oficina gestora, junto con la solicitud de devolución, el número de precintas correspondiente a la cantidad de bebidas que se envían.
+
+4\. Una vez recibido por el destilador artesanal el certificado de recepción en la fábrica de destino, lo presentará en la oficina gestora para la ultimación del expediente. Dicha oficina determinará la cuota a devolver y ordenará su pago.
+
+> Se modifican los apartados 2 y 4 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+#### CAPITULO VII — Impuesto sobre hidrocarburos
+
+##### Sección 1.ª Exenciones y tipos reducidos y especiales
+
+> Se modifica por el art. 1.16 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+###### Artículo 101. Avituallamiento a aeronaves.
+
+1\. La exención establecida en el artículo 51.2.a) de la Ley se justificará mediante los comprobantes de entrega que se ajustarán al modelo que se apruebe por el Ministro de Hacienda, salvo que el avituallamiento se realice mediante el procedimiento de ventas en ruta, en cuyo caso dicho avituallamiento se ajustará a los requisitos formales recogidos en el artículo 27 de este Reglamento.
+
+Los comprobantes de entrega contendrán, como mínimo, los datos identificativos del suministrador, del destinatario y del avituallamiento.
+
+2\. Una vez efectuados los suministros, el suministrador numerará correlativamente los comprobantes de entrega expedidos. La numeración será única, cualquiera que sea el régimen fiscal o aduanero de las operaciones efectuadas. Dichas operaciones se registrarán en la contabilidad de existencias del establecimiento, con referencia a los números de los comprobantes de entrega que servirán de justificante.
+
+3\. El suministrador conservará durante un periodo de cuatro años los comprobantes de entrega y el resto de la documentación que acredite la realización de las operaciones.
+
+4\. Cuando los carburantes para navegación sean entregados por los obligados tributarios a titulares de aeronaves que habitualmente utilicen instalaciones privadas para su despegue y aterrizaje, los titulares de tales aeronaves deberán ser previamente autorizados, por las oficinas gestoras correspondientes a tales instalaciones, para recibir los carburantes con exención del impuesto. La oficina gestora expedirá, en su caso, la tarjeta de inscripción en el registro territorial que formaliza la autorización, que deberá presentarse al suministrador del carburante. Los citados titulares deberán llevar la contabilidad necesaria a efectos de justificar el destino dado a los carburantes adquiridos con exención del impuesto.
+
+En supuestos de fuerza mayor, el carburante recibido podrá ser cedido a otros titulares de aeronaves también autorizados que utilicen instalaciones privadas. El titular de la aeronave cedente deberá comunicarlo a la oficina gestora en un plazo máximo de 48 horas.
+
+5\. El suministrador presentará en el plazo y por los medios y procedimientos electrónicos, informáticos o telemáticos que determine el Ministro de Hacienda la información contenida en los comprobantes de entrega.
+
+> Se modifica por el art. 4.25 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-179](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-179)
+
+> Téngase en cuenta que esta modificación será de obligado cumplimiento a partir del 1 de octubre de 2019 según establece la disposición final 3 del Real Decreto 399/2021, de 8 de junio. [Ref. BOE-A-2021-9558](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9558)
+
+> Se modifica, con efectos de 1 de enero de 2019, por el art. 3.25 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Téngase en cuenta que esta modificación se deroga, con efectos de 1 de enero de 2019, por la disposición derogatoria única.3 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica por el art. único.67 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.73 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica por el art. 1.11 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+###### Artículo 102. Avituallamiento a embarcaciones.
+
+1\. El avituallamiento de carburantes a embarcaciones para beneficiarse de la exención establecida en el artículo 51.2.b) de la Ley deberá ajustarse al procedimiento descrito en el apartado 2 de la letra B del artículo 29 de este Reglamento, salvo que se utilice el procedimiento de ventas en ruta a que se refiere el artículo 27 de este Reglamento. Cuando se trate de buques de las Fuerzas Armadas no será precisa la incorporación de trazadores y marcadores.
+
+2\. El suministrador documentará la operación de avituallamiento con un documento administrativo electrónico que se ajustará al modelo que se apruebe por el Ministro de Hacienda y Función Pública y que deberá contener, al menos, los datos identificativos del suministrador, del destinatario y del avituallamiento.
+
+3\. Si el buque tuviera bandera no comunitaria, el suministro se documentará como exportación.
+
+4\. El expedidor conservará, durante el período de prescripción del impuesto, el albarán de circulación si el avituallamiento se realizó mediante el procedimiento de ventas en ruta a que se refiere el artículo 27 de este Reglamento.
+
+Si el avituallamiento se realizó al amparo del procedimiento descrito en el apartado 2 de la letra B del artículo 29 de este Reglamento, el expedidor deberá conservar el ejemplar del documento administrativo electrónico diligenciado por el receptor de los productos durante el periodo de prescripción del impuesto.
+
+> Se modifica por el art. 4.26 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-179](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-179)
+
+> Téngase en cuenta que esta modificación será de obligado cumplimiento a partir del 1 de octubre de 2019 según establece la disposición final 3 del Real Decreto 399/2021, de 8 de junio. [Ref. BOE-A-2021-9558](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9558)
+
+> Se modifica, con efectos de 1 de enero de 2019, por el art. 3.26 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Téngase en cuenta que esta modificación se deroga, con efectos de 1 de enero de 2019, por la disposición derogatoria única.3 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifica el apartado 6 por el art. 1.19 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica por el art. único.68 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifican los apartados 2 y 5 por el art. único.74 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 5 por el art. 1.12 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+> Se modifica el apartado 1 por el art. único.16 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+###### Artículo 103. Producción de electricidad, transporte ferroviario, construcción y mantenimiento de buques y aeronaves e inyección en altos hornos
+
+1\. La aplicación de las exenciones establecidas en las letras d), e) y g) del apartado 2 y en el apartado 4 del artículo 51 de la Ley, deberá ser solicitada previamente de la oficina gestora por el titular de las centrales de producción eléctrica o de las centrales combinadas de cogeneración de electricidad y energía térmica útil, de las empresas ferroviarias, de los centros de construcción y mantenimiento de buques y aeronaves o de los altos hornos.
+
+2\. La oficina gestora autorizará, en su caso, el suministro con exención del impuesto, con una validez máxima de cinco años.
+
+3\. Una vez concedida la autorización a que se refiere el apartado anterior, los titulares de las empresas solicitarán de las oficinas gestoras correspondientes a los lugares donde radiquen las centrales, altos hornos o depósitos de carburantes, la inscripción en el registro territorial de tales establecimientos. La oficina gestora expedirá la tarjeta de inscripción que deberá presentarse al suministrador de los combustibles o carburantes.
+
+4\. Las empresas beneficiarias de la exención deberán llevar la contabilidad necesaria a efectos de justificar la utilización de los combustibles y carburantes en los fines que han motivado la exención.
+
+5\. Para que sea de aplicación de la exención establecida en la letra c) del apartado 2 del artículo 51 de la Ley deberá ser solicitada previamente de la oficina gestora por el titular de las centrales de producción eléctrica o de las centrales combinadas de cogeneración de electricidad y energía térmica útil, y autorizada por dicha oficina gestora mediante la inscripción en el correspondiente registro territorial.
+
+> Se añade el apartado 5 por el art. 4.27 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-179](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-179)
+
+> Se modifica el apartado 1 por el art. 1.20 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica el apartado 2 por el art. único.69 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se anula el párrafo destacado del apartado 1, en la redacción dada por el art. único.17 del Real Decreto 1965/1999, de 23 de diciembre, por Sentencia del TS de 2 de octubre de 2001. [Ref. BOE-A-2001-23893](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-23893).
+
+> Se añade un párrafo al apartado 1 por el art. único.17 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+> Se modifica por el art. único.18 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 104. Operaciones de dragado.
+
+La aplicación de la exención establecida en la letra f) del apartado 2 del artículo 51 de la Ley se efectuará de acuerdo con el procedimiento establecido en los apartados 2 y siguientes del artículo 102, sustituyéndose los datos relativos al consignatario y al buque, por los relativos a la empresa que realiza las operaciones de dragado y a los artefactos utilizados.
+
+> Se modifica por el art. único.70 del Real Decreto 1714/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+###### Artículo 105. Proyectos piloto relativos a biocarburantes y biocombustibles.
+
+1\. La aplicación de la exención prevista en el artículo 51.3 de la Ley se regirá por lo dispuesto en este artículo.
+
+A los solos efectos de la aplicación de este artículo se entenderá que la expresión «biocarburantes» comprende tanto los biocarburantes, definidos en el apartado 1.m) del artículo 49 de la Ley, como los biocombustibles, definidos en el apartado 1.n) del mismo artículo que se destinen, como tales o previa modificación química, respectivamente a su uso como carburante o como combustible, directamente o mezclados con otros carburantes o combustibles.
+
+La aplicación de la exención requerirá la previa introducción de los biocarburantes en una fábrica o depósito fiscal situados en el ámbito territorial interno, si no se hallasen previamente en uno de estos establecimientos, o bien, tratándose de biocarburantes recibidos del ámbito territorial de la Unión no interno sin pasar por dichos establecimientos, que el receptor tenga la condición de destinatario registrado. En caso de importaciones de biocarburantes fuera de régimen suspensivo, el derecho a la aplicación de la exención se justificará ante la aduana de despacho a libre práctica.
+
+Cuando el biocarburante sea alcohol etílico deberá tener la condición de alcohol parcialmente desnaturalizado.
+
+2\. Las personas que deseen acogerse a la exención presentarán ante el centro gestor la correspondiente solicitud que deberá ir acompañada de una memoria descriptiva del proyecto piloto que se invoca y, en especial, de la utilización en éste de los biocarburantes. Cuando sean varias las personas o entidades que participen en el proyecto piloto, la solicitud deberá ser suscrita por todas ellas. La referida memoria versará, como mínimo, sobre los siguientes extremos:
+
+a) Acreditación del carácter experimental del proyecto y de que este se limita a demostrar la viabilidad técnica o tecnológica de su producción o utilización, con exclusión de la ulterior explotación industrial de sus resultados.
+
+b) Tipo de biocarburante que se va a utilizar, así como el lugar y el procedimiento para su obtención con descripción de los estadios intermedios de dicho procedimiento.
+
+c) Modo en que el producto de que se trate, como tal o previa modificación química, es susceptible de ser utilizado como carburante (directamente o mezclado con otros carburantes).
+
+d) Descripción de las características del proyecto piloto desde la obtención del producto hasta que éste es finalmente utilizado como carburante, con indicación de los establecimientos en que, en su caso, se desarrollan las distintas fases del proyecto.
+
+e) Previsión de la cantidad del biocarburante que comprende el proyecto piloto. La condición establecida en el párrafo a) anterior se considerará acreditada cuando dicha cantidad no exceda de 5.000 litros por año del biocarburante para el cual se solicita la aplicación de la exención.
+
+f) Duración del proyecto, que no podrá exceder del plazo señalado en el apartado 3.
+
+Además, el centro gestor podrá recabar de los interesados informaciones complementarias o aclaraciones en relación con la documentación presentada.
+
+3\. El centro gestor resolverá sobre la solicitud planteada con la expedición, en su caso, del correspondiente acuerdo de reconocimiento de la exención.
+
+Dicho acuerdo se expedirá, en su caso, con la vigencia solicitada por los interesados que no podrá exceder de cinco años. La aplicación de la exención se llevará a cabo, según los casos, del modo previsto en los apartados siguientes.
+
+4\. Cuando el biocarburante se destine a ser utilizado, como tal o previa modificación química, sin mezclar con otros carburantes, la exención se aplicará, una vez producido el devengo del impuesto y siempre que no concurra la aplicación de otro supuesto de exención, sobre dicho biocarburante.
+
+El biocarburante se enviará directamente desde el establecimiento que tenga la consideración de fábrica de hidrocarburos hasta los consumidores finales que como tales estén identificados en el proyecto piloto. No obstante, si así lo contempla el proyecto piloto, el envío de los biocarburantes a los consumidores finales identificados podrá tener lugar a través de un depósito fiscal o de un almacén fiscal con cumplimiento de lo previsto al respecto en la Ley y en este Reglamento.
+
+5\. Cuando se trate de biocarburantes destinados, como tales o previa modificación química, a mezclarse con un carburante antes de la ultimación del régimen suspensivo, se observarán las siguientes reglas:
+
+a) El biocarburante se enviará en régimen suspensivo desde el establecimiento que tenga la consideración de fábrica de hidrocarburos hasta aquél en que, como tal o previa modificación química, se incorpore al carburante. Si su modificación química se efectuase en un establecimiento distinto del de partida, el envío a este último, que también tendrá la consideración de fábrica de hidrocarburos, se efectuará también en régimen suspensivo.
+
+b) La contabilidad de existencias de la fábrica o depósito fiscal en el que se reciban reflejará en cuentas separadas el movimiento de los biocarburantes recibidos, como tales o químicamente modificados, de los biocarburantes modificados químicamente en el establecimiento, de los carburantes con los que se mezclan y de las mezclas finalmente obtenidas.
+
+c) La exención prevista en el artículo 51.3 de la Ley se aplicará sobre el biocarburante, como tal o previa modificación química, presente en la mezcla que lo contiene, siempre que respecto de dicha mezcla se produzca el devengo del impuesto y no concurra la aplicación de otro supuesto de exención. A la parte de la mezcla que no es biocarburante le será de aplicación el tipo impositivo que corresponda conforme a lo dispuesto en el artículo 50 de la Ley.
+
+d) Cuando la mezcla que contiene el biocarburante, como tal o previa modificación química, salga de fábrica o depósito fiscal con destino a otra fábrica o depósito fiscal situados en el ámbito territorial interno, el envío deberá ir acompañado de un documento administrativo electrónico en el que se hará referencia al volumen total de la mezcla y al volumen del biocarburante, como tal o previa modificación química, comprendido en aquélla en los términos del apartado 8 de este artículo. Este documento servirá de justificante al asiento que se practique en la contabilidad de existencias de la fábrica o depósito fiscal de recepción, que deberá cumplir con lo establecido en el párrafo b) de este apartado. Cuando la mezcla que contiene el biocarburante, como tal o previa modificación química, salga de esta fábrica o depósito fiscal con un destino diferente del de su envío a otra fábrica o depósito fiscal situado en el ámbito territorial interno, será de aplicación lo previsto en el párrafo c).
+
+6\. A los efectos de lo dispuesto en los dos apartados anteriores, tendrán la consideración de fábrica de hidrocarburos y deberán inscribirse como tales en el registro territorial los siguientes establecimientos:
+
+a) Cuando el biocarburante sea susceptible de ser utilizado directamente o bien se destine a ser mezclado sin modificación química con un carburante, tendrá la consideración de fábrica de hidrocarburos el establecimiento donde se obtenga el biocarburante.
+
+b) Con independencia de lo previsto en el párrafo a) anterior, cuando la utilización del biocarburante precise su previa modificación química tendrá también la consideración de fábrica de hidrocarburos el establecimiento donde se lleve a cabo dicha modificación. En particular, cuando el biocarburante se destine a su conversión en un aditivo, tendrán la consideración de fábrica de hidrocarburos tanto el establecimiento donde se obtiene el biocarburante como el establecimiento donde dicho aditivo se obtenga.
+
+c) Lo dispuesto en los párrafos a) y b) se entiende sin perjuicio de los casos en que el establecimiento donde se obtenga o procese el biocarburante tenga por sí mismo la consideración de fábrica de alcohol o de hidrocarburos.
+
+7\. Para la aplicación de la normativa del Impuesto sobre Hidrocarburos, los asientos en la contabilidad de existencias, los documentos de circulación y cualesquiera otros documentos que deban de cumplimentarse en relación al volumen de los biocarburantes, como tales o previa modificación química, se efectuarán siempre referidos a la temperatura de 15.º C.
+
+8\. En el documento de circulación que proceda expedir para amparar la circulación de los biocarburantes, como tales o previa modificación química, o de los productos que los contengan, se indicará el biocarburante de que se trate y, en su caso, la proporción en la que se incluye en la mezcla de la que forme parte.
+
+9\. Cuando el biocarburante producido sea alcohol etílico (bioetanol), y mientras mantenga su identidad como tal, será de aplicación lo dispuesto en el apartado 2 del artículo 108 bis.
+
+> Se modifica el apartado 1, tercer párrafo por el art. 41.35 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se modifica el apartado 9 por el art. 1.22 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifican los apartados 5.d) y 9 por el art. único.71 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.75 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el título y el apartado 1 por el art. único.20 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Se modifica por el art. 1.13 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+> Se modifica el apartado 1 por el art. único.19 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 106. Aplicación del tipo reducido del epígrafe 1.4.
+
+1\. La aplicación del tipo reducido fijado en el epígrafe 1.4 del apartado 1 del artículo 50 de la Ley queda condicionada, por lo que se refiere a la utilización del gasóleo, a las condiciones que se establecen en este artículo y a la adición de marcadores de acuerdo con lo establecido en el artículo 114 de este Reglamento.
+
+2\. Sólo podrán recibir gasóleo con aplicación del tipo reducido (en lo sucesivo denominado "gasóleo bonificado"), los almacenes fiscales, detallistas y consumidores finales autorizados, con arreglo a las normas que figuran en los apartados siguientes.
+
+A estos efectos tendrán la consideración de "consumidores finales" las personas y entidades que reciban el gasóleo bonificado para utilizarlo, bajo su propia dirección y responsabilidad, en los fines previstos en el apartado 2 del artículo 54 de la Ley o en un uso como combustible.
+
+3\. Detallistas.
+
+a) Los detallistas que deseen comercializar gasóleo bonificado deberán inscribirse en el registro territorial de la oficina gestora correspondiente a la instalación de venta al por menor desde la que pretenden efectuar tal comercialización.
+
+b) La condición de detallista autorizado para la recepción de gasóleo bonificado se acreditará mediante la correspondiente tarjeta de inscripción en el registro territorial.
+
+c) El suministro de gasóleo bonificado efectuado por un detallista a un consumidor final autorizado estará condicionado a que el pago se efectúe mediante la utilización de las tarjetas-gasóleo bonificado o cheques-gasóleo bonificado a que se refiere el artículo siguiente.
+
+Sin perjuicio de lo anterior y de lo establecido en el artículo 107 de este Reglamento, cuando el detallista sea una cooperativa agroalimentaria y el consumidor final sea socio de la misma, la oficina gestora podrá autorizar que el suministro del gasóleo bonificado pueda realizarse con condiciones particulares de utilización de la tarjeta-gasóleo bonificado o del cheque-gasóleo bonificado.
+
+Para tener derecho a la devolución del impuesto, en el supuesto previsto en el artículo 52 ter de la Ley, será requisito imprescindible, en el caso de que el pago del suministro del gasóleo se efectúe mediante la utilización de una tarjeta-gasóleo bonificado, que ésta esté expedida a nombre del solicitante de la devolución.
+
+d) Los detallistas deberán llevar un registro del gasóleo recibido con aplicación del tipo reducido y de los abonos efectuados en sus cuentas bancarias por las ventas efectuadas mediante tarjetas-gasóleo bonificado o por el ingreso de cheques-gasóleo bonificado, como medio para justificar el destino dado a dicho producto. Este registro deberá ser habilitado por la oficina gestora de acuerdo con lo establecido en el artículo 50 de este reglamento. Los asientos de cargo se justificarán con los ARC de los correspondientes documentos administrativos electrónicos y deberán efectuarse dentro de las veinticuatro horas siguientes a la recepción del gasóleo. Los asientos de data, que deberán efectuarse diariamente con indicación de la lectura que arroje el contador del surtidor de gasóleo, se justificarán con los extractos periódicos de abono remitidos por las entidades emisoras de las tarjetas-gasóleo bonificado y con los extractos periódicos de las cuentas de abono recibidos de las entidades de crédito. Tanto los registros como la documentación justificativa de los asientos efectuados estarán a disposición de la inspección de los tributos durante un período de cuatro años.
+
+4\. Consumidores finales.
+
+a) Los consumidores finales de gasóleo bonificado acreditarán, en cada suministro, su condición ante el proveedor mediante la aportación de la correspondiente declaración suscrita al efecto, que se ajustará al modelo que se apruebe por el Ministro de Hacienda.
+
+No obstante lo anterior, los consumidores finales podrán acreditar su condición ante el proveedor mediante la aportación de la correspondiente declaración previa referida a varios suministros, ajustada al modelo que se apruebe por el Ministro de Hacienda. A los efectos de los párrafos anteriores, se considerarán también ajustadas al modelo aprobado por el Ministro de Hacienda las declaraciones de consumidor final que se formalicen en soporte documental o electrónico que contengan, como mínimo, los mismos datos e información que los previstos en el modelo aprobado por el Ministro de Hacienda.
+
+Los consumidores finales que se inscriban en el registro de consumidores finales de la Agencia Estatal de Administración Tributaria, con los requisitos y el procedimiento que se determinen por el Ministro de Hacienda, acreditarán su condición de consumidor final mediante dicha inscripción. En el caso de personas y entidades obligadas a relacionarse a través de medios electrónicos con la Administración de acuerdo con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la inscripción en este registro será la única forma válida de acreditar la condición de consumidor final a los efectos establecidos en este Reglamento.
+
+Podrá hacerse cargo de la recepción del gasóleo bonificado cualquier persona distinta del consumidor final que se encuentre en el lugar señalado por este y haga constar su identidad y su relación con él.
+
+Cuando los consumidores finales reciban el gasóleo bonificado mediante importación o por procedimientos de circulación intracomunitaria deberán inscribirse previamente en el registro territorial de la oficina gestora correspondiente al lugar de consumo del gasóleo y acreditar su condición de «autorizados» mediante la correspondiente tarjeta de inscripción en el registro territorial.
+
+b) Los consumidores finales deberán justificar la utilización realmente dada al gasóleo recibido con aplicación del tipo reducido, cuando sean requeridos para ello por la inspección de los tributos.
+
+c) En el caso previsto en la letra e) del apartado 2 del artículo 22, la oficina gestora correspondiente al lugar donde radique la actividad empresarial del consumidor final y previa solicitud de éste, expedirá una autorización general que permitirá a aquél llevar a cabo el traslado del gasóleo, al amparo de los albaranes de circulación a que se refiere dicha excepción, a los distintos emplazamientos donde se encuentren las maquinarias que precisen ser repostadas.
+
+5\. Almacenes fiscales.
+
+La condición de almacén fiscal autorizado para recibir y comercializar gasóleo bonificado se acreditará mediante la correspondiente tarjeta de inscripción en el registro territorial.
+
+6\. La condición de detallista, almacén fiscal o consumidor final autorizados deberá ser acreditada ante la fábrica, depósito fiscal o almacén fiscal suministrador o ante la aduana de importación.
+
+Cuando los detallistas, consumidores finales o almacenes fiscales deseen recibir gasóleo por algún procedimiento de circulación intracomunitaria deberán cumplir además los requisitos que procedan en relación con el procedimiento de circulación intracomunitaria elegido.
+
+7\. De acuerdo con lo dispuesto en el artículo 22 de este reglamento y sin perjuicio de las excepciones contempladas en el mismo, la circulación de gasóleo bonificado se efectuará al amparo de un documento administrativo electrónico.
+
+> Se modifica el apartado 4.a) por el art. 4.28 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-179](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-179)
+
+> Se modifican los apartados 3.c) y 4.a) por el art. 3.27 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica el apartado 3 por el art. 1.21 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifican los apartados 3, 4 y 7 por el art. único.72 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica el apartado 2 y se añade la letra c) al apartado 4 por el art. único.18 y 19 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+###### Artículo 107. Medios de pago específicos.
+
+1\. A los efectos de lo dispuesto en el apartado 3 c) del artículo 106 anterior se entenderá por:
+
+a) “Tarjetas-gasóleo bonificado”. Las tarjetas de crédito, de débito o de compras, cuya emisión haya sido previamente aprobada por el centro gestor para ser utilizadas como medio de pago para la adquisición de gasóleo bonificado a detallistas en instalaciones de venta al por menor inscritas en el registro territorial. Será condición necesaria para su aprobación el cumplimiento de las siguientes condiciones:
+
+1.º Solo serán susceptibles de utilización para la adquisición de gasóleo bonificado a detallistas en instalaciones de venta al por menor inscritas en el registro territorial.
+
+2.º Deben quedar identificados tanto el vendedor como el comprador del gasóleo.
+
+3.º Debe quedar constancia del importe de la adquisición.
+
+4.º Deben quedar identificadas las cuentas de abono y de adeudo de los pagos efectuados mediante su utilización.
+
+5.º Los abonos solamente podrán efectuarse en las cuentas abiertas a nombre de aquellos detallistas que acrediten su inscripción en el registro territorial como titulares de la instalación de venta al por menor. En las notificaciones de abono deberá figurar claramente que corresponden a operaciones pagadas mediante la tarjeta-gasóleo bonificado.
+
+6.º La entidad emisora de la tarjeta debe estar capacitada para dar cumplimiento a lo que se establece en los apartados 2 y 4 de este artículo.
+
+El solicitante deberá adherir su etiqueta identificativa del número de identificación fiscal, en el modelo de solicitud de emisión que la entidad tenga establecido.
+
+b) “Cheques-gasóleo bonificado”. Los cheques carburante en los que figura, con caracteres destacados, la expresión “gasóleo bonificado”. Este cheque sólo podrá utilizarse como medio de pago para la adquisición de gasóleo bonificado a detallistas en instalaciones de venta al por menor inscritas en el registro territorial. La primera vez que se solicite a una entidad de crédito la expedición de estos cheques, el solicitante deberá adherir al documento de solicitud que aquélla tenga establecido, una etiqueta identificativa de su número de identificación fiscal. Los cheques-gasóleo bonificado se presentarán a las entidades de crédito, de forma separada del resto de los cheques, para su abono en cuenta. Las entidades de crédito únicamente podrán abonar el importe de estos cheques en las cuentas abiertas a nombre de aquellos detallistas que les acrediten su inscripción en el registro territorial, conforme se establece en el apartado siguiente.
+
+2\. Las entidades emisoras de tarjetas-gasóleo bonificado presentarán por los medios y procedimientos electrónicos, informáticos o telemáticos que determine el Ministro de Economía y Hacienda, en un plazo que finalizará el día 20 del mes siguiente a la terminación de cada trimestre, una relación con los siguientes datos:
+
+a) Apellidos y nombre o razón social, domicilio, número de identificación fiscal y código de la cuenta de cliente (c.c.c.) de cargo, correspondientes a los adquirentes del gasóleo.
+
+b) Importe total adeudado en el trimestre, correspondiente a los pagos efectuados mediante la utilización de las tarjetas-gasóleo bonificado expedidas a aquéllos.
+
+3\. Las entidades de crédito que hayan emitido cheques-gasóleo bonificado presentarán por los medios y procedimientos electrónicos, informáticos o telemáticos que determine el Ministro de Economía y Hacienda, en un plazo que terminará el día 20 del mes siguiente al de finalización de cada trimestre, una relación con los siguientes datos:
+
+a) Apellidos y nombre o razón social, domicilio, número de identificación fiscal y código de la cuenta de cliente (c.c.c.) de cargo, correspondientes al adquirente del gasóleo.
+
+b) Importe total adeudado en el trimestre, correspondiente a los pagos efectuados mediante cheques-gasóleo bonificado.
+
+4\. Las entidades emisoras de tarjetas y las entidades de crédito remitirán, igualmente, al centro gestor, una relación de los importes abonados trimestralmente por dichas entidades a los detallistas inscritos en el registro territorial, correspondientes a pagos efectuados mediante tarjetas-gasóleo bonificado o cheques-gasóleo bonificado, a partir de la fecha que determine el Ministro de Economía y Hacienda.
+
+5\. Las entidades emisoras de tarjetas-gasóleo bonificado y las entidades de crédito serán responsables de la correspondencia entre los datos contenidos en dichas relaciones y los que se deducen de los medios de pago utilizados. En particular, las entidades de crédito serán responsables de la identificación diferenciada en los extractos periódicos de los abonos correspondientes al ingreso de cheques-gasóleo bonificado.
+
+6\. La autorización para la emisión de las tarjetas a que se refiere la letra a) del apartado 1 de este artículo, será revocada por el centro gestor, cuando por las entidades emisoras de las tarjetas-gasóleo bonificado se incumplan las condiciones exigidas para su aprobación.
+
+> Se modifica por el art. único.76 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifican los apartados 2 y 3 por el art.1.14 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+###### Artículo 108. Aplicación de otros tipos reducidos.
+
+1\. La aplicación de los tipos reducidos establecidos en los epígrafes 1.8, 1.10.1, 1.10.2, 1.12, 2.10, 2.13.1 y 2.13.2 del artículo 50 de la Ley se efectuará en las mismas condiciones que las previstas en el artículo 106 anterior para el epígrafe 1.4, con las siguientes excepciones:
+
+a) La adición de marcadores sólo será exigible en relación con el queroseno, de acuerdo con lo establecido en el artículo 114. A estos efectos, bajo la expresión «queroseno» se incluirá tanto el queroseno comprendido en el epígrafe 1.12 como los aceites medios comprendidos en el epígrafe 2.10.
+
+b) No será de aplicación lo dispuesto en el artículo 106.3 y, a cambio, los detallistas deberán cumplir lo establecido en el apartado 2 de este artículo.
+
+c) No será de aplicación lo dispuesto en la letra a) del apartado 4 del artículo 106.
+
+2\. Los detallistas, que a efectos de lo dispuesto en el primer párrafo del artículo 106.6 acreditarán su condición mediante la tarjeta o etiqueta identificativa del número de identificación fiscal, deberán conservar a disposición de la inspección de los tributos, durante el plazo de prescripción del impuesto, la documentación justificativa de los productos recibidos y entregados.
+
+3\. No obstante lo establecido en los apartados anteriores, cuando se trate de almacenes fiscales o establecimientos detallistas desde los que se efectúen ventas de gas natural con aplicación de cualquiera de los tipos impositivos establecidos en los epígrafes 1.9, 1.10.1 ó 1.10.2, se observará, sin perjuicio de lo establecido en el artículo 13, lo siguiente:
+
+El almacén fiscal o establecimiento detallista deberá ser inscrito por su titular en el registro territorial de la oficina gestora. Dicho titular deberá llevar un registro del gas natural recibido en el establecimiento, en el que constarán las entregas que efectúe de aquél, separando las realizadas con aplicación de cualquiera de los tipos impositivos aplicables. Tanto el registro como la documentación justificativa de los asientos efectuados estarán a disposición de la inspección de los tributos durante el período de prescripción del impuesto.
+
+4\. Para que los sujetos pasivos puedan aplicar el tipo impositivo establecido en el epígrafe 1.10.2, los consumidores finales estarán obligados a comunicar a quienes realicen los suministros de gas natural a título oneroso en el supuesto previsto en el párrafo primero del apartado 14 del artículo 7 de la Ley o, en su caso, a los titulares de fábricas, depósitos fiscales o almacenes fiscales a través de cuyas instalaciones se efectúe el suministro, con anterioridad a que éste se produzca, el uso con fines profesionales del gas natural. Una copia de esta comunicación deberá ser también enviada por los consumidores finales a la oficina gestora correspondiente al domicilio donde esté ubicada la instalación en la que se consuma el gas natural.
+
+Cualquier modificación del destino del gas natural que suponga un cambio del tipo impositivo aplicable, deberá ser objeto de comunicación al sujeto pasivo y a la oficina gestora por cualquier medio del que quede constancia, bajo exclusiva responsabilidad de los consumidores finales.
+
+Mientras no tenga lugar una nueva comunicación, se tomará en consideración la información contenida en la comunicación inicial.
+
+5\. En los suministros de gas natural destinado a ser utilizado en una central de cogeneración de energía eléctrica y energía térmica útil, sujeta al requisito de acreditación del cumplimiento del rendimiento eléctrico equivalente a que se refiere la normativa de aplicación de la Ley del Sector Eléctrico, o en aquellas en las que dicho rendimiento haya sido debidamente auditado se aplicarán los tipos impositivos regulados en los epígrafes 1.10.1 y 1.10.2 del apartado 1 del artículo 50 de la Ley en función del porcentaje de gas natural que corresponda imputar a la producción de electricidad medida en bornes de alternador y a la obtención de energía térmica útil y siempre que el aprovechamiento final de esta se produzca en establecimientos industriales, conforme al procedimiento que se establece a continuación.
+
+Para que los sujetos pasivos puedan aplicar el tipo impositivo establecido en el epígrafe 1.10.2 del artículo 50.1 de la Ley, los titulares de las centrales estarán obligados a comunicarles el porcentaje provisional a aplicar sobre la cantidad suministrada de gas natural que va a utilizarse en la generación de electricidad y en la producción de energía térmica útil. Los sujetos pasivos deberán conservar dichas comunicaciones debidamente firmadas.
+
+A los efectos de lo establecido en el párrafo anterior, el porcentaje provisional aplicable cada año natural será el fijado como definitivo para el año precedente y determinado en función del valor del rendimiento eléctrico equivalente aportado a la Comisión Nacional de los Mercados y la Competencia o el valor auditado debidamente y de los consumos de gas natural realizados durante ese año.
+
+En el supuesto de que el suministro de gas natural se realice a una central de cogeneración con una planta industrial asociada y cuyo punto de suministro fuese único, el sujeto pasivo podrá aplicar el tipo impositivo establecido en el epígrafe 1.10.2, tanto a la cantidad de gas natural que deba imputarse a la producción de energía térmica útil como a la destinada directamente a la planta industrial siempre que el titular de la central de cogeneración incluya en la declaración escrita la información relativa al porcentaje que corresponde a dichos usos, en los términos que se indican en los párrafos anteriores.
+
+No obstante, cuando por circunstancias sobrevenidas o extraordinarias, el titular de la central de cogeneración justifique que la aplicación del porcentaje definitivo del año anterior en función del cual se le va a efectuar la repercusión de los tipos impositivos del gas natural difiere en gran medida del que efectivamente correspondería al año que esté en curso, podrá comunicar otro dato al sujeto pasivo previa autorización de la oficina gestora.
+
+Los titulares de centrales de cogeneración de electricidad y energía térmica útil presentarán dentro del primer cuatrimestre natural de cada año, por los medios que determine el Ministro de Hacienda y Función Pública mediante Orden Ministerial, todos los datos necesarios para la determinación de la cantidad de gas natural que corresponde imputar a la generación de electricidad medida en bornes de alternador y a la producción de energía térmica útil.
+
+6\. Los sujetos pasivos deberán efectuar la rectificación de las cuotas impositivas repercutidas cuando el importe de las mismas, determinado en función del porcentaje provisional comunicado por el consumidor final, no coincida con el importe de las cuotas que se hubieran debido repercutir conforme al porcentaje o cantidad definitiva utilizada.
+
+A estos efectos, en los cuatro primeros meses de cada año natural los consumidores finales deberán comunicar a los sujetos pasivos y a la oficina gestora el porcentaje definitivo de gas natural sujeto a cada uno de los tipos establecidos en los epígrafes 1.10.1 y 1.10.2 del apartado 1 del artículo 50 de la Ley. Si en el plazo de los cuatro meses no se comunicaran a los sujetos pasivos y a la oficina gestora nuevos datos, se considerará que no se ha producido variación alguna respecto de los porcentajes a aplicar sobre la cantidad suministrada de gas natural.
+
+La rectificación deberá efectuarse por los sujetos pasivos una vez que les sea comunicado el porcentaje definitivo, y la regularización de la situación tributaria se efectuará en la autoliquidación correspondiente al período en que debe efectuarse dicha rectificación.
+
+7\. En los supuestos de autoconsumo de gas natural en unidades de cogeneración incluidas en instalaciones registradas como fábricas y depósitos fiscales, será de aplicación, mutatis mutandis, el procedimiento descrito en los apartados anteriores de este artículo.
+
+8\. **(Suprimido).**
+
+9\. En los supuestos de autoconsumo y suministro de productos distintos del gas natural a los que les correspondan los mismos tipos impositivos será de aplicación, mutatis mutandis, el procedimiento descrito en los apartados anteriores de este artículo para el gas natural.
+
+> Se modifica el apartado 1 y se suprime el 8 por el art. 4.29 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-179](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-179)
+
+> Se modifican los apartados 1, 5, 6 y se añaden los apartados 8 y 9 por el art. 3.28 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifican los apartados 1, 4 y 6 y se añade el 7 por el art. 1.23 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifican los apartados 3, 4 y se añaden los apartados 5 y 6 por el art. 1.22 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica por el art. único.21 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Se modifica por el art. 1.15 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+###### Artículo 108 bis. Productos a los que se refieren los apartados f) y g) del artículo 46.1 de la Ley.
+
+1\. Las normas contenidas en este Reglamento y en su normativa de desarrollo relativas a la repercusión, contabilidad de existencias, circulación e inclusión separada en las preceptivas declaraciones y declaraciones-liquidaciones sólo serán de aplicación en relación con los biocombustibles y biocarburantes en tanto éstos permanezcan sin mezclar con combustibles o carburantes convencionales, o cuando, encontrándose mezclados con éstos, el tipo impositivo estatal aplicable sea distinto para unos y otros productos.
+
+Una vez mezclados los biocombustibles o biocarburantes con combustibles o carburantes convencionales, y siempre que el tipo impositivo estatal sea idéntico para ambos tipos de producto, la mezcla tendrá a efectos fiscales la consideración del producto cuyo código NC le corresponda.
+
+2\. Cuando el biocarburante sea alcohol etílico, deberá tener la condición de alcohol parcialmente desnaturalizado conforme al procedimiento y desnaturalizante aprobados previamente por la oficina gestora. Mientras no sea sometido a una transformación química que altere su composición, o bien mientras no sea mezclado con carburantes convencionales en una proporción de alcohol etílico igual o inferior a un 95 por 100 en volumen, regirán respecto del mismo las disposiciones de la Ley y de este Reglamento relativas al Impuesto sobre el Alcohol y Bebidas Derivadas que resulten aplicables.
+
+3\. **(Suprimido).**
+
+4\. Se considerará que los productos a los que hacen referencia las letras f) y g) del artículo 46.1 de la Ley se destinan a un uso como carburante o combustible en el momento en que se produzca su primera entrada en un establecimiento autorizado a fabricar o almacenar productos destinados a tales usos. En todo caso, tendrán esa consideración esos mismos productos cuando se mezclen con un carburante o combustible convencional, mezcla que solo podrá realizarse en una fábrica o en un depósito fiscal de hidrocarburos.
+
+Las personas o entidades que envíen desde el ámbito territorial interno estos productos a los establecimientos que determinan, conforme a lo dispuesto en el párrafo anterior, su inclusión en el ámbito objetivo del impuesto, deberán inscribirse en las oficinas gestoras en cuya demarcación se encuentre el establecimiento de envío y remitir un parte trimestral a la oficina gestora, exclusivamente por los envíos a que se refiere el párrafo anterior.
+
+Dicho parte trimestral se ajustará al modelo aprobado por la oficina gestora y se presentará telemáticamente dentro de los veinte días naturales siguientes a la terminación de cada trimestre, solamente en el caso de que haya habido envíos efectivos durante el mismo.
+
+En caso de adquisición intracomunitaria o de importación de los productos a los que se refieren las letras f) y g) del artículo 46.1 de la Ley, será el adquirente o importador que los envíe a una fábrica o depósito fiscal de hidrocarburos quién esté sujeto a las obligaciones de inscripción y remisión del parte trimestral a que se refiere el párrafo anterior.
+
+En caso de adquisición intracomunitaria o importación directa de estos productos por una fábrica o depósito fiscal no se exigirán al titular de estos establecimientos las obligaciones de inscripción y remisión de parte trimestral a que se refiere el párrafo anterior.
+
+Lo dispuesto en este apartado no será de aplicación al alcohol etílico a que se refiere la letra f) del artículo 46. 1 de la Ley mientras, de conformidad con la Ley y este Reglamento, se encuentre incluido en el ámbito objetivo del Impuesto sobre el Alcohol y Bebidas Derivadas o sometido a las reglas de este Impuesto.
+
+> Se suprime el apartado 3 por el art. 3.29 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica por el art. 1.23 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica por el art. único.73 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.77 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifican el título y los apartados 1, 4 y 7 por el art. único.22 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Se añade por el art. 1.16 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+###### Artículo 108 ter. Autorizaciones especiales para realizar mezclas de hidrocarburos.
+
+La oficina gestora podrá autorizar, cuando existan razones económicas que lo aconsejen y con las condiciones particulares que en cada caso se establezcan con motivo de la autorización, que las operaciones de mezcla en régimen suspensivo de productos incluidos en el ámbito objetivo del Impuesto sobre Hidrocarburos destinados a una fábrica o a un depósito fiscal para mezclarse en éstos con otros productos objeto del impuesto, o de productos objeto del impuesto almacenados en una fábrica o en un depósito fiscal, puedan realizarse en el buque que transportará la mezcla de los referidos productos. El otorgamiento de tal autorización estará condicionado a que la operación se lleve a cabo mientras el buque esté atracado en el puerto en el que radique la fábrica o el depósito fiscal.
+
+En aquellos casos en los que las instalaciones dispongan simultáneamente de autorización para regímenes aduaneros especiales, las operaciones indicadas en el párrafo anterior deberán respetar las disposiciones establecidas en la normativa aduanera y las condiciones fijadas en la respectiva autorización para los regímenes aduaneros de que se trate.
+
+> Se modifica por el art. 4.30 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se añade por el art. 3.30 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se deroga por el art. 1.24 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se añade por el art. único.78 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 67, de 18 de marzo de 2010. [Ref. BOE-A-2010-4506](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4506)
+
+###### Artículo 108 quáter. Depósito fiscal logístico.
+
+**(Derogado)**.
+
+> Se deroga por el art. 1.25 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se añade por el art. único.79 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Redactado el apartado 1.a) conforme a la corrección de errores publicada en BOE núm. 67, de 18 de marzo de 2010. [Ref. BOE-A-2010-4506](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4506)
+
+##### Sección 2.ª Devoluciones
+
+###### Artículo 109. Uso distinto a combustible y carburante.
+
+La aplicación del beneficio de devolución, establecido en el párrafo a) del artículo 52 de la Ley, en relación con los combustibles y carburantes comprendidos en la tarifa 1.ªdel Impuesto sobre Hidrocarburos que van a utilizarse en usos distintos a los de combustible y carburante, se efectuará de acuerdo con el procedimiento siguiente:
+
+1\. La aplicación deberá ser solicitada, previamente a la adquisición de los productos, al centro gestor, por el titular de la explotación industrial donde vayan a utilizarse. A la solicitud deberá acompañarse una memoria descriptiva del proceso industrial en la que se detalle la forma en que intervienen los productos en el mismo, así como los productos resultantes de dicho proceso. Igualmente se incluirá en la memoria una previsión del consumo anual de los productos objeto del impuesto.
+
+2\. El centro gestor resolverá la solicitud presentada concediendo, en su caso, la autorización correspondiente por un plazo máximo de cinco años. Cuando se modifique el proceso industrial descrito en la memoria, así como los productos que intervienen o se obtienen en el mismo, la autorización concedida perderá su validez, debiendo efectuarse una nueva solicitud, acompañada de una memoria descriptiva que recoja las modificaciones habidas.
+
+3\. Una vez concedida la autorización a que se refiere el apartado anterior, el industrial deberá proceder a la inscripción en el registro territorial de la oficina gestora correspondiente al establecimiento donde se va a realizar el proceso.
+
+4\. Dentro de los veinte primeros días naturales siguientes al vencimiento de cada trimestre natural, los titulares de explotaciones industriales, que dispongan de la autorización a que se refiere el número 2 anterior, presentarán en la oficina gestora correspondiente al establecimiento donde se han utilizado los productos una solicitud de devolución de las cuotas soportadas por el Impuesto sobre Hidrocarburos, correspondientes a los productos consumidos durante el trimestre en el proceso descrito en la memoria. En dicha solicitud, que se ajustará al modelo que se establezca por el Ministro de Hacienda y Administraciones Públicas, se consignará el número de la autorización a que se refiere el número 2 anterior.
+
+5\. La oficina gestora correspondiente al establecimiento donde se han utilizado los productos tramitará las solicitudes presentadas y dispondrá, si procede, el pago de las cuotas a devolver. El resultado de estas actuaciones lo comunicará a la oficina gestora correspondiente al domicilio fiscal del solicitante.
+
+> Se modifica el apartado 5 por el art. 1.26 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica el apartado 4 por el art. único.74 del real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+###### Artículo 110. Avituallamiento de gasóleo a embarcaciones.
+
+1\. La devolución del impuesto establecida en el párrafo b) del artículo 52 de la Ley está limitada al avituallamiento de gasóleo que lleve incorporados, de acuerdo con lo expuesto en el artículo 114, los marcadores exigibles para la aplicación del tipo reducido establecido en el epígrafe 1.4 del apartado 1 del artículo 50 de la Ley y haya sido recibido por el suministrador con repercusión del impuesto de acuerdo con el tipo establecido para dicho epígrafe. El punto de suministro deberá estar inscrito en el registro territorial de la oficina gestora correspondiente a su emplazamiento.
+
+2\. Se considerará cumplida la condición necesaria para la aplicación del tipo reducido, por lo que respecta al suministrador del gasóleo, mediante los recibos de entrega que se ajustarán al modelo que se apruebe por el Ministro de Hacienda y Función Pública.
+
+3\. Si el buque tuviera bandera no comunitaria, el suministro se documentará como exportación.
+
+4\. Una vez efectuados los suministros, el suministrador numerará correlativamente los recibos de entrega. La numeración será única, cualquiera que sea el régimen fiscal o aduanero de las operaciones efectuadas.
+
+5\. El suministrador deberá llevar una cuenta en la que se haga constar: en el cargo, el gasóleo recibido, con referencia al ARC del documento administrativo electrónico que amparó su circulación; en la data los suministros efectuados, con referencia a los recibos de entrega expedidos. Un ejemplar de estos documentos deberá conservarse por el suministrador a disposición de los servicios de inspección.
+
+6\. La solicitud de devolución se efectuará por mediación de los sujetos pasivos proveedores del gasóleo, aunque éstos no sean los propietarios del gasóleo suministrado. Con este fin, los suministradores facilitarán a los proveedores del gasóleo la información necesaria para que éstos puedan formalizar la solicitud de devolución a que se refiere el apartado siguiente.
+
+7\. Los sujetos pasivos proveedores solicitarán de la oficina gestora en los plazos y por los medios y procedimientos electrónicos, informáticos o telemáticos que determine el Ministro de Hacienda y Función Pública la devolución del impuesto.
+
+> Se modifica por el art. 4.31 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Téngase en cuenta que esta modificación será de obligado cumplimiento a partir del 1 de octubre de 2019 según establece la disposición final 3 del Real Decreto 399/2021, de 8 de junio. [Ref. BOE-A-2021-9558](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9558)
+
+> Se modifica, con efectos de 1 de enero de 2019, por el art. 3.31 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Téngase en cuenta que esta modificación se deroga, con efectos de 1 de enero de 2019, por la disposición derogatoria única.3 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifican los apartados 3 y 6 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica el apartado 8 por el art. 1.17 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+###### Artículo 111. Experimentos tecnológicos.
+
+1\. Las personas que vayan a realizar proyectos piloto para el desarrollo tecnológico de productos menos contaminantes, en particular, de los combustibles y carburantes obtenidos a partir de recursos renovables, solicitarán del centro gestor el reconocimiento del derecho a la devolución de los impuestos especiales de fabricación establecido en el párrafo c) del artículo 52 de la Ley. La solicitud deberá ir acompañada de una memoria explicativa del proyecto piloto, con el detalle de los productos objeto de los impuestos especiales que intervienen en el mismo, de los productos finales que se obtienen y de la cuantificación del consumo previsto.
+
+2\. El centro gestor resolverá la solicitud, reconociendo, en su caso, el derecho a la devolución, siempre que los productos se utilicen conforme al proyecto descrito en la memoria presentada. Cuando se modifique el proceso industrial descrito en la memoria, así como los productos que intervienen o se obtienen en el mismo, la autorización concedida perderá su validez, debiendo efectuarse una nueva solicitud, acompañada de una memoria descriptiva que recoja las modificaciones habidas.
+
+3\. Las modificaciones sobrevenidas de las condiciones originarias de la solicitud serán resueltas por el centro gestor conforme a lo dispuesto en el apartado 2 anterior.
+
+4\. Una vez concedida la autorización de devolución, los industriales solicitarán, de las oficinas gestoras correspondientes a los establecimientos donde se realice el proyecto que genera el derecho a la devolución, la inscripción en el registro territorial.
+
+5\. Dentro de los veinte primeros días siguientes al vencimiento de cada trimestre natural, los titulares de las autorizaciones de devolución presentarán en la oficina gestora correspondiente al establecimiento donde se ha efectuado el consumo de los productos objeto del impuesto una solicitud de devolución, sujeta al modelo que se apruebe por el Ministro de Economía y Hacienda, de las cuotas soportadas correspondientes a los productos objeto del Impuesto sobre Hidrocarburos consumidos durante el trimestre en el proyecto descrito en la memoria. En dicha solicitud se consignará el número de la autorización a que se refiere el apartado 2 anterior.
+
+6\. La oficina gestora tramitará las solicitudes presentadas y dispondrá, en su caso, el pago de las cuotas a devolver.
+
+###### Artículo 112. Devolución por productos mezclados o contaminados.
+
+La aplicación del derecho a la devolución a que se refiere el párrafo d) del artículo 52 de la Ley, respecto de productos objeto del impuesto que hayan resultado accidentalmente contaminados o mezclados con otros se efectuará de acuerdo con el siguiente procedimiento:
+
+1\. El propietario de los productos solicitará la aplicación de la devolución a la oficina gestora correspondiente al lugar donde se encuentren los productos contaminados o mezclados, en escrito en el que se hará constar:
+
+a) Datos identificativos del solicitante y del establecimiento donde se encuentran los productos.
+
+b) Cantidad, expresada en la unidad fiscal correspondiente, de los productos por los que se solicita la devolución.
+
+c) Circunstancias en las que se produjo la mezcla o contaminación accidental.
+
+d) Datos relativos al proveedor de los productos y su fecha de adquisición, debiéndose adjuntar fotocopia del documento de circulación correspondiente.
+
+e) Datos identificativos de la fábrica o depósito fiscal al que se devuelven los productos, debiendo aportarse el documento acreditativo de la conformidad de su titular para recibirlos.
+
+2\. La oficina gestora a que se refiere el apartado 1 anterior, tras efectuar las comprobaciones que estime oportunas, resolverá la solicitud, autorizando, en su caso, la devolución de los productos a la fábrica o depósito fiscal señalado en la solicitud. Asimismo, dicha oficina gestora determinará el importe de la cuota a devolver. De todo ello dará cuenta a la oficina gestora correspondiente al establecimiento al que se envían los productos contaminados o mezclados.
+
+3\. El depositario autorizado titular de la fábrica o depósito fiscal donde se han recibido los productos cargará éstos en su contabilidad de existencias, justificando el asiento con el acuerdo de la oficina gestora que autorizó la devolución. Dicho depositario podrá deducir, de la cuota correspondiente al período impositivo de que se trate, el importe de la cuota cuya devolución se ha acordado.
+
+4\. El depositario autorizado hará efectivo, al solicitante de la devolución, el importe de la misma.
+
+###### Artículo 112 bis. Devolución del impuesto soportado en la adquisición de gas natural que se envía fuera del ámbito territorial interno con destino al ámbito territorial de la Unión Europea.
+
+1\. Sin perjuicio de lo establecido en el artículo 6, los empresarios que hayan soportado el impuesto en el ámbito territorial interno en la adquisición de gas natural y que sea enviado con destino a otro Estado miembro, podrán solicitar la devolución de las cuotas satisfechas en el ámbito territorial interno siempre que se acredite el pago de las mismas.
+
+2\. Para ello presentarán, en la oficina gestora correspondiente a cada establecimiento desde el que se ha efectuado la entrega, una solicitud de devolución, ajustada al modelo que se apruebe por la persona titular del Ministerio de Hacienda y Función Pública, comprensiva de las entregas por las que se haya pagado el impuesto en el ámbito territorial de la Unión no interno, durante cada trimestre.
+
+3\. La solicitud se presentará dentro de los veinte primeros días del mes siguiente al de finalización del trimestre natural y en ella se anotarán, por cada operación:
+
+a) La fecha de salida de la expedición en virtud de la cual se realiza la entrega,
+
+b) el Estado miembro de destino,
+
+c) el nombre, apellidos o razón social y domicilio del destinatario, así como su número de identificación fiscal a efectos del IVA,
+
+d) la cantidad de producto entregado por el que se solicita la devolución,
+
+e) la fecha de recepción por el destinatario,
+
+f) la fecha y referencia del pago del impuesto en el Estado miembro de destino o de la garantía de su pago,
+
+g) la fecha y referencia del pago del impuesto en el ámbito territorial interno, y
+
+h) el importe de la devolución que se solicita.
+
+4\. La devolución del impuesto se efectuará a quien haya soportado las cuotas del impuesto. No obstante, en el supuesto de que el empresario que haya soportado el impuesto no coincida con quien realice el envío del gas natural fuera del ámbito territorial interno, se podrá efectuar la devolución a este último siempre que el solicitante de aquella así lo indique.
+
+5\. El procedimiento de devolución de cuotas satisfechas por el Impuesto sobre Hidrocarburos en este supuesto tendrá, para su resolución, un plazo máximo de seis meses contado a partir de la fecha en que tenga entrada en la oficina gestora la solicitud.
+
+> Se modifica el apartado 2 por el art. 41.36 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se añade por el art. 1.24 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+##### Sección 3.ª Fabricación de hidrocarburos
+
+###### Artículo 113. Establecimientos productores de hidrocarburos.
+
+En los establecimientos productores de hidrocarburos en los que la recepción o expedición de productos se realice a través de conducciones o tuberías, habrán de instalarse en los puntos de bombeo de entrada o de salida elementos o sistemas de medición oficialmente contrastados, que deberán conectarse con el sistema informático de la planta cuando la misma cuente con este sistema para el control del movimiento de productos.
+
+###### Artículo 114. Adición de marcadores.
+
+1\. A los efectos del presente artículo y de los artículos 106, 107 y 108 de este Reglamento, se entenderá por marcadores los agentes marcadores o trazadores aprobados por el Ministro de Economía y Hacienda para su adición al gasóleo y al queroseno en las condiciones previstas en el presente artículo.
+
+2\. Sin perjuicio de lo establecido en los apartados 3 y 4 siguientes relativos a los supuestos de circulación intracomunitaria e importación, la adición de los marcadores se llevará a cabo en fábricas y depósitos fiscales conforme a las siguientes reglas:
+
+a) A todo gasóleo que salga de fábrica o depósito fiscal con el impuesto devengado a tipo reducido o con aplicación de alguna de la exenciones previstas en el apartado 2 del artículo 51 de la Ley, le deberán haber sido incorporados previamente los marcadores en las proporciones y condiciones establecidas.
+
+b) A todo queroseno que salga de fábrica o depósito fiscal con el impuesto devengado a tipo reducido, le deberán haber sido incorporados previamente los marcadores en las proporciones y condiciones establecidas.
+
+c) Las operaciones de adición de marcadores deberán ser notificadas con la suficiente antelación a los servicios de intervención para, si lo estiman oportuno, presenciarlas y verificar su desarrollo y conclusión. No obstante, cuando en las fábricas y depósitos fiscales se disponga de sistemas automáticos de marcado que garanticen el control de las operaciones, previamente aprobados por el centro gestor, éste podrá dispensar de la obligación de notificación previa.
+
+3\. En los supuestos de circulación intracomunitaria, toda expedición de gasóleo o queroseno destinada al ámbito territorial interno para beneficiarse en el mismo de la aplicación de un tipo reducido o bien, si se trata de gasóleo, de las exenciones a que se refiere el apartado 2 anterior, deberá incorporar los marcadores desde el Estado miembro de origen salvo cuando el receptor sea una fábrica o depósito fiscal, que lo podrá incorporar en las condiciones establecidas en el apartado 2 anterior.
+
+No obstante, el requisito del marcado en origen podrá ser dispensado por la oficina gestora, que, con las garantías necesarias, podrá autorizar la adición de los marcadores en el momento de producirse el devengo del impuesto con ocasión de la recepción.
+
+4\. En los supuestos de importaciones que no tengan lugar en régimen suspensivo, los marcadores habrán de incorporarse al gasóleo y al queroseno antes de que se produzca el devengo con aplicación, bien de un tipo reducido, o bien, si se trata de gasóleo, de las exenciones a que se refiere el apartado 2 anterior. Por la aduana de importación se ordenará la extracción de muestras para la realización del correspondiente análisis.
+
+5\. En el documento de circulación que proceda expedir para amparar la circulación de gasóleo y queroseno se hará constar, en su caso, la circunstancia de que dichos productos incorporan marcadores.
+
+###### Artículo 115. Contabilidad reglamentaria.
+
+1\. Los establecimientos productores de hidrocarburos llevarán los siguientes libros para el registro de las operaciones diarias:
+
+a) De primeras materias. Constituirá el cargo según la clase y especificaciones de cada producto, la cantidad en peso o volumen, con expresión de su densidad, de cada materia prima recibida en la fábrica, cuyos asientos se justificarán mediante el documento de circulación o, en su caso, de régimen interior que proceda.
+
+Constituirá la data la cantidad de primeras materias, con análogas especificaciones que en el cargo, que diariamente pase al respectivo proceso de fabricación, así como, en su caso, las minoraciones por devoluciones o reenvíos que se produzcan con justificación documental de los respectivos asientos.
+
+Como complemento de este libro se llevarán otros auxiliares que reflejen el movimiento interno entre los diferentes depósitos de materias primas.
+
+b) De productos finales. Constituirá el cargo según la clase y especificaciones de cada producto, la cantidad en peso o volumen, con expresión de su densidad, que pase a depósitos o almacenes de salida por no precisar de ulteriores tratamientos que modifiquen sus características físico-químicas.
+
+El asiento de cargo se producirá también en aquellos casos en que la salida a destino se haga directamente desde el proceso productivo, sin pasar por el almacén de salida.
+
+Constituirá la data la cantidad de productos que salgan del establecimiento separándolos por grupos de destino según su tratamiento fiscal. Igualmente se datarán las partidas de productos que, por haber sufrido alteración durante su almacenamiento u otra causa no previsible, previo conocimiento del interventor, hayan de ser objeto de nuevo tratamiento, consignando en el respectivo asiento la unidad de proceso a que se destinan. Los asientos de data se justificarán con el documento de circulación o, en su caso, de régimen interior que proceda.
+
+En los casos en que mediante la adición de marcadores, alguno de los productos terminados dé origen a otro producto con tratamiento fiscal diferente, se datará la cuenta del producto original procediéndose simultáneamente a cargar la del nuevo producto resultante.
+
+Como complemento de este libro se llevarán otros auxiliares que reflejen el movimiento interno entre los diferentes depósitos de productos finales.
+
+c) De productos autoconsumidos. Las distintas secciones o unidades de fabricación reflejarán en partes diarios las cantidades de productos que sean objeto de autoconsumo en el establecimiento. Las cantidades autoconsumidas se consignarán separadamente según su tratamiento fiscal. En los casos en que no sea posible precisar las cantidades que se aplican a cada destino con tratamiento fiscal diferenciado, los interesados presentarán una propuesta para el establecimiento de coeficientes que será resuelta por el centro gestor previo informe del interventor respectivo.
+
+Estos partes diarios se resumirán para originar extractos mensuales valorando en termias los autoconsumos energéticos de cada producto aplicado al proceso fabril.
+
+2\. Además de los libros a que se refiere el apartado anterior, en las refinerías de petróleo y en aquellos establecimientos industriales que, para destilación y tratamiento de productos, cuenten con unidades de proceso que se autoalimenten sucesivamente en forma continua o discontinua, se llevarán los registros y/o partes de fabricación necesarios para reflejar, con periodicidad no superior a un mes, el movimiento de los productos de carácter intermedio obtenidos en los procesos de fabricación.
+
+3\. Los servicios de la Administración tributaria prestarán la debida asistencia para establecer en cada caso el adecuado sistema contable que permita y facilite la gestión del impuesto, teniendo en cuenta las peculiaridades de la respectiva actividad.
+
+###### Artículo 116. Porcentajes de pérdidas admisibles en los procesos de producción, almacenamiento y transporte.
+
+1\. A los efectos de lo dispuesto en el artículo 6 de la Ley, los porcentajes reglamentarios de pérdidas serán los que se expresan en este artículo. La aplicación de las tablas de porcentajes de pérdidas que figuran en los apartados 2 y 3 siguientes tendrá lugar conforme a lo establecido con carácter general en los apartados 10 y 12 del artículo 1 y en los artículos 15, 16 y 17 de este Reglamento, tomándose la kilocaloría como unidad de medida para los porcentajes de pérdidas térmicos.
+
+No obstante, por excepción a lo dispuesto en el artículo 1.12 y en el artículo 16 de este Reglamento, cuando se trate de productos que circulen por redes de oleoductos autorizadas como depósitos fiscales de hidrocarburos, las pérdidas admisibles se fijarán, por todos los conceptos, en un porcentaje sobre el volumen de productos introducidos semestralmente en dicha red. Si la red de oleoductos no está autorizada como depósito fiscal de hidrocarburos o la circulación se produce por tuberías fijas, se considerarán pérdidas las diferencias en menos entre la suma de las cantidades de productos que durante un período de liquidación inician la circulación desde el establecimiento de expedición y la suma de las cantidades de productos que, en igual período, son recibidas en el establecimiento de destino procedente de aquél; este mismo régimen será aplicable cuando los hidrocarburos circulen por medios distintos del transporte por carretera.
+
+2\. Tabla de porcentajes reglamentarios de pérdidas:
+
+a) Destilación atmosférica, comprendiendo otras operaciones auxiliares como estabilización, separación de gases licuables, etc. (sin incluir agua y sedimentos): 0,7.
+
+b) Destilación a vacío del crudo reducido: 0,3.
+
+c) Refinación de naftas por el proceso merox: 0,1
+
+d) Hidrocraqueo: 1,0.
+
+e) Craqueo con reducción de viscosidad: 0,9.
+
+f) Craqueo catalítico (FCC), incluido el coque: 7,0.
+
+g) Reformado catalítico (Platforming, Powerforming, Ultraforming, etc.): 0,5.
+
+h) Hidrodesulfuración de gasolinas, gasóleos y queroseno: 1,0.
+
+i) Alquilación: 0,5.
+
+j) Isomerización: 0,5.
+
+k) Obtención de hidrocarburos aromáticos a partir de gasolinas de pirólisis o de gasolinas de reformado: 1,0.
+
+l) Obtención de aceites base para lubricantes a partir de aceites pesados: 0,8.
+
+m) Mezcla de productos volátiles para obtener disolventes: 0,2.
+
+n) Craqueo de nafta para la obtención de olefinas: 3,0.
+
+ñ) Almacenamientos, sobre las existencias medias del trimestre, de productos cuya tributación se produciría a los tipos previstos en los siguientes epígrafes de la tarifa 1.ª del impuesto:
+
+Epígrafes 1.1, 1.2.1, 1.2.2 y 1.13: 0,95.
+
+Epígrafes 1.11 y 1.12: 0,55.
+
+Epígrafes 1.3, 1.4, 1.5, 1.14, 1.15, 1.16 y 1.17: 0,35.
+
+Epígrafes 1.6, 1.8, 1.9, 1.10.1 y 1.10.2: 2,05.
+
+o) Carga, transporte y descarga de productos cuya tributación se produciría a los tipos previstos en los siguientes epígrafes de la tarifa 1.ª del impuesto:
+
+Epígrafes 1.1, 1.2.1, 1.2.2 y 1.13: 1,0.
+
+Epígrafes 1.11 y 1.12: 0,6.
+
+Epígrafes 1.3, 1.4, 1.5, 1.14, 1.15, 1.16 y 1.17: 0,4.
+
+Epígrafes 1.6, 1.8, 1.9,1.10.1 y 1.10.2: 2,1.
+
+p) Red de oleoductos autorizada como depósito fiscal de hidrocarburos, sobre el volumen introducido semestralmente: 0,035.
+
+q) Red de gasoductos autorizada como depósito fiscal de gas natural: Los porcentajes de mermas establecidos en la normativa de gestión técnica del sistema gasista
+
+r) En la producción de ETBE destinado a la aditivación de las gasolinas sin plomo: el porcentaje de pérdida de bioetanol es del 0,5 por 100 del bioetanol puesto en producción.
+
+3\. Tabla de porcentajes reglamentarios de pérdidas térmicos:
+
+En el reformado de naftas con vapor de agua para la obtención de gas ciudad:
+
+a) En procesos cíclicos: 12.
+
+b) En procesos continuos: 7.
+
+4\. Cuando en un proceso se obtengan uno o más productos químicos aislados mediante una transformación química y el coeficiente real de conversión sea inferior al coeficiente reglamentario de conversión, la diferencia entre ambos deberá ser objeto de justificación o prueba a satisfacción de la Administración. A estos efectos dicha diferencia tendrá la misma consideración que las diferencias en menos que excedan del porcentaje reglamentario de pérdidas.
+
+5\. A efectos de lo dispuesto en el apartado anterior se entenderá por:
+
+a) Coeficiente reglamentario de conversión, la cantidad mínima, expresada en kilogramos de producto final que, en un proceso determinado y conforme a la tabla que figura en el apartado 6 siguiente, debe obtenerse de un kilogramo de otro producto o primera materia.
+
+b) Coeficiente real de conversión, la cantidad expresada en kilogramos de producto final que realmente se obtiene, en un proceso determinado, a partir de un kilogramo de otro producto o primera materia.
+
+6\. Tabla de coeficientes reglamentarios de conversión:
+
+a) Obtención de ciclohexano por hidrogenación del benceno: 1,07.
+
+b) Obtención del benceno por desalquilación:
+
+A partir de una mezcla de benceno, tolueno y xileno (BTX): 0,65.
+
+A partir de un concentrado bencénico: 0,76.
+
+c) Obtención de hidrógeno a partir del reformado de hidrocarburos:
+
+A partir de gases licuados de petróleo (GLP): 0,388.
+
+A partir de hidrocarburos superiores: 0,363.
+
+A partir de gas natural: 0,306.
+
+A partir de nafta ligera: 0,317.
+
+d) Obtención de gas de síntesis (GS) a partir de hidrocarburos:
+
+A partir de gases licuados de petróleo (GLP): 1,59.
+
+A partir de hidrocarburos superiores: 1,80.
+
+e) Obtención del metanol a partir de hidrocarburos vía gas de síntesis:
+
+A partir de gases licuados de petróleo (GLP): 1,51.
+
+A partir de hidrocarburos superiores: 1,71.
+
+f) Obtención de anhídrido ftálico a partir de oxileno: 1,02.
+
+g) Obtención de anhídrido maleico a partir de benceno: 0,80.
+
+h) Obtención de ácido fumárico a partir de benceno, vía anhídrido maleico: 0,91.
+
+i) Obtención del fenol a partir de benceno:
+
+Vía sulfonación: 1,00.
+
+Vía cloración: 0,96.
+
+Vía cumeno: 1,10.
+
+j) Obtención de estireno a partir de benceno: 1,16.
+
+7\. Corrección contable por gasolinas evaporadas y recuperadas en fábricas y depósitos fiscales.
+
+En concepto de corrección contable, los titulares de fábricas y depósitos fiscales en los que estén instalados dispositivos de recuperación de vapores apropiados podrán efectuar, al final de cada período de liquidación, un asiento de cargo en el libro de productos finales comprensivo del 0,16 por ciento del volumen total de gasolinas sin plomo, bioetanol y biometanol que han salido de la fábrica o depósito fiscal en el indicado período con devengo del impuesto y sin aplicación de exenciones. Correlativamente podrán deducir de las cuotas devengadas en el mismo período un importe igual al de las cuotas correspondientes al volumen de los productos objeto del referido asiento de cargo. Dicho importe se determinará aplicando los tipos establecidos en los epígrafes 1.2.1, 1.2.2 y 1.13 de la tarifa 1.ª del impuesto en proporción a la parte del referido volumen que haya tributado a cada uno de dichos tipos.
+
+> Se modifican las letras ñ) y o) del apartado 2 por el art. 1.25 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifican las letras ñ) y o) del apartado 2 y el apartado 7 por el art. 1.27 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica el apartado 1 por el art. único.76 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica la letra ñ) y se añade la r) por el art. único.80 y 81 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifican los apartados 1 y 2 y se añade el 7 por el art. único.23 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Se modifican los apartados 1 y 2 por el art. único.20 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+##### Sección 4.ª Normas de gestión
+
+###### Artículo 116 bis. Productos comprendidos en la tarifa 2.ª y gas natural.
+
+1\. Definiciones: A efectos de este artículo se denominan:
+
+a) "Productos de la tarifa 2.ª".-Los productos relacionados en la tarifa 2.ª del apartado 1 del artículo 50 de la Ley.
+
+b) "Productos sensibles".-Los productos de la tarifa 2.ª incluidos en las definiciones del aparta do 1 del artículo 49 de la Ley.
+
+c) "Productos no sensibles".-Los productos de la tarifa 2.ª no incluidos en las definiciones del apartado 1 del artículo 49 de la Ley.
+
+2\. Normas comunes aplicables a todos los productos de la tarifa 2.ª y al gas natural.
+
+a) En los casos a que se refiere el artículo 53.5.a) de la Ley, los productos de la tarifa 2.ª que se obtengan continuarán amparados por la exención prevista en el artículo 51.1 de la Ley mientras no se destinen a un uso como combustible o carburante. Cuando, en los mismos casos, los productos obtenidos sean productos sensibles se aplicarán las normas previstas en el apartado 4 de este artículo y el establecimiento donde se obtengan deberá ser inscrito en el Registro Territorial como almacén fiscal.
+
+b) Cuando, conforme a lo establecido en el artículo 53.5.b) de la Ley, el gas natural o los productos de la tarifa 2.ª a los que se haya aplicado la exención prevista en el artículo 51.1 de la Ley se destinen sobrevenidamente a un uso como combustible o carburante, quienes los destinen o comercialicen con destino a tales fines estarán obligados a presentar un escrito ante la oficina gestora en el plazo de 20 días a contar desde aquel en que se produjo el referido uso sobrevenido, dando cuenta de tal circunstancia. A dicho escrito acompañarán una copia de la autoliquidación que habrán practicado y que será comprensiva de las cuotas correspondientes a los productos sobrevenidamente destinados a los referidos usos.
+
+3\. Normas aplicables a los productos no sensibles y al gas natural.
+
+a) Una vez que salgan de la fábrica donde se han obtenido o se importen, la circulación, tenencia y utilización de los productos no sensibles o del gas natural no estarán sometidas a requisitos formales específicos en relación con el Impuesto sobre Hidrocarburos. Lo dispuesto en este párrafo se entiende, en cuanto al gas natural, sin perjuicio de la aplicación de las normas de este Reglamento vinculadas al cumplimiento de la obligación de autoliquidar e ingresar las cuotas del impuesto devengadas cuando el impuesto resulte exigible.
+
+b) En los supuestos de importación, el destino a un uso distinto del de combustible o carburante deberá declararse ante la Aduana para la aplicación de la exención prevista en el artículo 51.1 de la Ley.
+
+c) La situación fiscal en que los productos no sensibles o el gas natural puedan encontrarse en cada momento (régimen suspensivo, o impuesto devengado con o sin aplicación de exenciones) se acreditará por los medios de prueba admisibles en Derecho, especialmente por la documentación de índole comercial relativa a aquéllos de que se trate y por la condición fiscal que, en su caso, tenga el establecimiento en el que se encuentren o desde el que hayan sido expedidos y al que vayan a ir destinados.
+
+4\. Normas aplicables a los productos sensibles:
+
+a) Con carácter general se aplicarán las normas previstas en los capítulos I y VII del título I de este Reglamento para los productos objeto de los Impuestos Especiales de Fabricación.
+
+b) Cuando se trate de productos sensibles a los que se aplique la exención prevista en el apartado 1 del artículo 51 de la Ley, las normas a que se refiere el párrafo a) anterior les serán de aplicación teniendo en cuenta lo siguiente:
+
+1.ª Las instalaciones desde las que se efectúen movimientos comerciales al por mayor y que no sean fábricas o depósitos fiscales tendrán la consideración de almacenes fiscales y deberán ser inscritas en el registro territorial. A efectos de este precepto, y de los párrafos c) y e) del apartado 1 del artículo 49 de la Ley, tendrán, en todo caso, la consideración de movimientos comerciales al por mayor aquellos envíos que, con independencia de la condición del destinatario, se efectúen sin otro envase que la cisterna, tanque o continente similar integrado en el medio de transporte que efectúa el suministro.
+
+2.ª Los detallistas y consumidores finales no estarán obligados a inscribirse en el registro territorial, si bien estarán obligados a justificar documentalmente el origen y destino de los productos recibidos y utilizados. En particular, el origen se justificará con los documentos de circulación que hayan amparado las expediciones que hayan recibido.
+
+3.ª La circulación se amparará con un albarán de circulación. No obstante, cuando estos productos se encuentren ya acondicionados para su venta al por menor en envases de capacidad no superior a 5 litros, la circulación de los mismos entre almacenes fiscales, detallistas y consumidores finales no requerirá documento de circulación.
+
+4ª Los titulares de las fábricas, depósitos fiscales y almacenes fiscales deberán remitir a la oficina gestora correspondiente al lugar del establecimiento, dentro del primer trimestre de cada año, una relación de destinatarios a los que se hayan enviado, durante el año anterior, productos sensibles con aplicación de la exención contemplada en el apartado 1 del artículo 51 de la Ley, en cantidad igual o superior a 50.000 litros. En dicha relación se indicará, por productos, la cantidad enviada a cada destinatario.
+
+c) No obstante lo dispuesto en los párrafos a) y b) del presente apartado, el Ministro de Economía y Hacienda podrá simplificar o dispensar del cumplimiento de todos o algunos de los requisitos formales y condiciones que, por lo establecido en aquéllos, sean exigibles en la circulación, tenencia y utilización de todos o algunos de los productos sensibles, siempre que, en lo que se refiere a requisitos formales y controles de la circulación intracomunitaria, se cumplan las circunstancias previstas en la normativa comunitaria para efectuar dicha simplificación o dispensa.
+
+> Se modifica la letra c) del apartado 3 por el art. 1.26 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica el título y los apartados 2 y 3 por el art. único.24 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+> Se añade la 4ª regla al apartado 4.b) por el art. único.20 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+> Redactado conforme a la corrección de erratas publicada en BOE, núm. 19 de 22 de enero de 2000. [Ref. BOE-A-2000-1348](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1348)
+
+> Se añade por el art. único.21 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 117. Declaración de pequeñas fabricaciones.
+
+1\. Los empresarios que obtengan productos objeto de los impuestos especiales de fabricación como resultado residual de sus procesos industriales cuyo valor no exceda del 1 por 1.000 del correspondiente al conjunto de su producción y siempre que las cuotas que correspondan por el Impuesto sobre Hidrocarburos a la producción anual no excedan de 600 euros, no estarán obligados a inscribir como fábrica en el registro territorial el establecimiento en que se obtienen los productos.
+
+2\. No obstante lo establecido en el apartado anterior, tales empresarios estarán obligados a dar cuenta a la oficina gestora de la existencia de tales obtenciones y expediciones de productos gravados y a practicar una autoliquidación de las cuotas correspondientes a los productos obtenidos o expedidos, en la forma, plazos e impresos que se establezcan por el Ministro de Economía y Hacienda.
+
+> Se modifica el apartado 1 por el art. único.77 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+##### Sección 5.ª Prohibiciones de uso
+
+###### Artículo 118. Prohibiciones de uso.
+
+1\. A efectos de lo dispuesto en el apartado 2 del artículo 54 de la Ley se considerarán:
+
+a) "Motores de tractores y maquinaria agrícola utilizados en agricultura, incluida la horticultura, ganadería y silvicultura". Los motores de tractores agrícolas, motocultores, tractocarros, maquinaria agrícola automotriz y portadores a que se refieren las definiciones del anexo II del Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos y que se utilicen en las actividades indicadas. A estos efectos no tendrá la consideración de actividad propia de la agricultura, incluida la horticultura, ganadería y silvicultura, el transporte por cuenta ajena incluso realizado mediante tractores o maquinaria agrícola dotados de remolque.
+
+b) "Motores de maquinaria minera no apta para circular por vías públicas que se utilice en actividades reguladas por la Ley 22/1973, de 21 de julio, de Minas y por la Ley 54/1980, de 5 de noviembre, de modificación de la anterior". Los motores de aquella maquinaria que no haya sido autorizada para su circulación por vías públicas por los órganos competentes en materia de tráfico, circulación y seguridad vial y que se encuentre afecta, de modo exclusivo, a su utilización en las actividades mineras de aprovechamiento, investigación y explotación incluido el transporte de mineral y estéril dentro del recinto de una explotación minera. A estos efectos, se considerarán actividades mineras o actividades reguladas por la citada legislación minera, aquellas cuyo objetivo es la investigación y explotación de los recursos minerales a que se refiere dicha legislación y que estén respaldadas por la correspondiente autorización administrativa de aprovechamiento, investigación o explotación de dichos recursos. ***En ningún caso podrán utilizar gasóleo como carburante, con aplicación del tipo establecido en el epígrafe 1.4 de la tarifa 1.ª los motores de aquellos artefactos o aparatos que tengan la condición de vehículos distintos de los vehículos especiales con arreglo a lo establecido en las definiciones del anexo II del Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos.***
+
+2\. A efectos de lo dispuesto en el apartado 4 del artículo 54 de la Ley, se considerarán vehículos automóviles de servicio público aquellos vehículos automóviles destinados al transporte retribuido de pasajeros o de mercancías, dentro de un ámbito local, siempre que se encuentren en posesión de la correspondiente licencia o autorización de transporte.
+
+> Se declara la nulidad del inciso destacado del apartado 1.b), en la redacción dada por el Real Decreto 1965/1999, por Sentencia del TS de 16 de marzo de 2001. [Ref. BOE-A-2001-9553](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-9553).
+
+> Se modifica el apartado 1 por el art. único.21 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+###### Artículo 119. Criterios de graduación de las sanciones especiales.
+
+**(Derogado)**
+
+> Se deroga por el art. 1.27 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica por el art. único.83 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se convierten a euros las cuantías contempladas en el apartado 1 por el punto 1 y anexo I de la Resolución de 20 de noviembre de 2001. [Ref. BOE-A-2001-22447](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-22447)
+
+> Redactado conforme a la corrección de errores y erratas publicadas en BOE núm. 2, de 2 de enero de 2002. [Ref. BOE-A-2002-36](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-36)
+
+###### Artículo 120. Órganos administrativos competentes.
+
+1\. Los servicios dependientes del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria serán competentes para dirigir, coordinar y realizar en el respectivo ámbito territorial los servicios y actuaciones encaminadas al descubrimiento de las infracciones tipificadas en el artículo 55 de la Ley. La realización de dichos servicios y actuaciones podrá también ser llevada a cabo por agentes de las Fuerzas y Cuerpos de Seguridad del Estado.
+
+2\. En la práctica de los referidos servicios y actuaciones dichos agentes gozarán de las facultades establecidas en los artículos 142 y siguientes de la Ley General Tributaria así como de las establecidas en el Real Decreto 1065/2007, de 27 de julio, hallándose facultados para detener e inspeccionar cualquier vehículo o embarcación y tomar muestras de los combustibles y carburantes contenidos en sus depósitos, carburadores y conducciones.
+
+3\. La imposición de las sanciones corresponde al jefe de la oficina gestora con competencia en el territorio en que sea descubierta la infracción, mediante resolución motivada y previa instrucción del oportuno expediente en el que se dará audiencia a cada uno de los inculpados.
+
+4\. A efectos de la apreciación de la comisión repetida de infracciones, en el centro gestor se llevará un registro especial de personas sancionadas por la comisión de las infracciones a que se refiere el artículo 55 de la Ley.
+
+> Se modifica el apartado 1 por el art. único.78 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.84 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica el apartado 1 por el art. único.22 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+###### Artículo 121. Expedientes de infracción.
+
+En la instrucción del procedimiento sancionador serán de aplicación las normas contenidas en los artículos 209 y siguientes de la Ley General Tributaria, y en las normas reglamentarias de desarrollo, en el Reglamento General del régimen sancionador tributario, y en el Real Decreto 1065/2007, de 27 de julio, además de lo dispuesto en los apartados siguientes:
+
+1\. La incoación del expediente para la determinación de responsabilidades e imposición de las sanciones a que se refiere el artículo 55 de la Ley, se iniciará siempre de oficio por el jefe de la oficina gestora a la que se refiere el apartado 3 del artículo 120 anterior, por propia iniciativa o en virtud de orden superior o petición razonada de otros órganos.
+
+2\. Los agentes de las Fuerzas y Cuerpos de Seguridad que hayan descubierto la comisión de una infracción procederán a dejar constancia de la misma, con el siguiente detalle:
+
+a) Lugar y fecha de actuación.
+
+b) Matrícula y otros datos de identificación del vehículo o embarcación, con expresión, en caballos fiscales, de la potencia del motor.
+
+c) Nombre, apellidos, domicilio, N.I.F. y documento nacional de identidad o pasaporte del conductor del vehículo o del patrón de la embarcación, así como del propietario, indicando el código de identificación si la titularidad correspondiera a persona jurídica.
+
+d) Constancia de la clase y característica del carburante o combustible utilizado, indicando coloración y, en su caso, resultado del ensayo con reactivo químico.
+
+e) Diligencia de toma de muestras debidamente autentificada, en el supuesto de que el interesado mostrara su disconformidad respecto de la clase y características del producto reseñadas en la diligencia.
+
+f) Declaración del interesado sobre fecha, lugar y suministrador del último aprovisionamiento realizado, reseñándose los datos del documento acreditativo si así lo justificare.
+
+g) Cualquier otra circunstancia de interés para la apreciación y calificación de los hechos.
+
+h) Firma de los agentes actuarios y del conductor o usuario del vehículo o del patrón de la embarcación, quienes podrán manifestar cuanto estimen oportuno respecto de los hechos reseñados en la diligencia.
+
+Si fueran funcionarios de la Administración tributaria quienes hubieran descubierto la comisión de la infracción, extenderán diligencia en la que constarán, al menos, los datos indicados anteriormente.
+
+El documento en el que se hayan recogido los datos anteriores, en unión de las muestras que hubieran sido extraídas se remitirá el mismo día, o el más próximo si ello no fuera posible, al Jefe de la oficina gestora competente para iniciar el procedimiento sancionador.
+
+3\. Recibida la documentación anterior, el jefe de la oficina gestora dispondrá la incoación del oportuno expediente, designando al efecto instructor del mismo.
+
+El acuerdo de iniciación del procedimiento sancionador se notificará a los interesados para que formulen, con anterioridad al trámite de audiencia, las alegaciones y aporten los documentos, justificaciones y pruebas que estimen convenientes.
+
+El instructor podrá recabar los informes y actuaciones complementarias que estime oportunos. Asimismo, remitirá una de las muestras extraídas a alguno de los Laboratorios de Aduanas e Impuestos Especiales para su análisis, quedando las restantes bajo su custodia.
+
+4\. El plazo máximo en que debe notificarse la resolución será de seis meses y se contará desde la fecha de notificación del acuerdo de inicio. Para el cómputo de los plazos máximos de resolución se tendrá en cuenta lo dispuesto en el artículo 104 de la Ley General Tributaria, y en los artículos 102 a 104 del Real Decreto 1065/2007, de 27 de julio, en relación con los periodos de interrupción justificada y dilaciones no imputables a la Administración. En particular, el periodo transcurrido desde la fecha de remisión de las muestras al Laboratorio de Aduanas hasta la de recepción del dictamen se considerará periodo de interrupción justificada.
+
+5\. **(Derogado)**
+
+6\. Concluidas las actuaciones y el plazo de alegaciones, se formulará propuesta de resolución que será notificada a los interesados en el procedimiento sancionador, indicándoles la puesta de manifiesto del expediente, así como la posibilidad de alegar cuanto consideren conveniente y presenten los documentos, justificantes y pruebas que estimen oportunos.
+
+7\. A la vista de la propuesta formulada por el instructor del procedimiento sancionador y de los documentos, pruebas y alegaciones que obren en el expediente, el jefe de la oficina gestora dictará resolución motivada del procedimiento sancionador.
+
+8\. **(Derogado)**
+
+9\. Contra el acuerdo del Jefe de la oficina gestora podrá interponerse recurso de reposición o reclamación en la vía económico-administrativa, en los términos legalmente previstos.
+
+> Se derogan los apartados 5 y 8 por el art. 1.28 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica por el art. único.85 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se modifica por el art. único.23 del Real Decreto 1965/1999, de 23 de diciembre. [Ref. BOE-A-1999-24787](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787)
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 19, de 22 de enero. [Ref. BOE-A-2000-1348](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1348)
+
+#### CAPITULO VIII — Impuesto sobre las labores del tabaco
+
+##### Sección 1.ª Supuestos de no sujeción, exenciones y devoluciones
+
+###### Artículo 122. Destrucción y desnaturalización de labores del tabaco.
+
+1\. La destrucción y desnaturalización de labores del tabaco, para que surta los efectos previstos en el artículo 57 y en el apartado 1.a) del artículo 61, ambos de la Ley, se solicitará de las oficinas gestoras correspondientes a las fábricas o depósitos fiscales.
+
+2\. En la solicitud se harán constar las causas que hacen aconsejable la destrucción o desnaturalización, las clases y cantidades de labores que se pretende destruir o desnaturalizar, así como el procedimiento que se propone para la práctica de tales operaciones. Cuando se trate de desnaturalizaciones se indicará el desnaturalizante a utilizar y los fines industriales o agrícolas en que se piensa utilizar las labores desnaturalizadas.
+
+3\. La oficina gestora autorizará, en su caso, la destrucción o desnaturalización, comunicándolo al solicitante y al servicio de intervención, a fin de que por este último se presencien las operaciones y se instruyan las correspondientes diligencias que justificarán los oportunos asientos en la contabilidad reglamentaria.
+
+4\. Las oficinas gestoras podrán autorizar la destrucción o desnaturalización de labores del tabaco, en existencia en fábricas o depósitos fiscales, fuera de estas instalaciones, cuando existan razones que no hagan posible su realización dentro de las mismas, surtiendo los efectos previstos en el apartado 1 anterior. En estos supuestos, la destrucción o desnaturalización se efectuará, igualmente, bajo control de los servicios de intervención.
+
+5\. No será necesario el cumplimiento de lo establecido en los apartados anteriores cuando las cantidades que se pretenden destruir o desnaturalizar, junto con las pérdidas habidas en la fábrica o depósito fiscal, no excedan de los porcentajes reglamentarios de pérdidas.
+
+> Se modifica el apartado 1 por el art. único.22 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 123. Análisis científicos o de calidad.
+
+1\. La aplicación de la exención establecida en el párrafo b) del apartado 1 del artículo 61 de la Ley, se solicitará del servicio de intervención de la fábrica o depósito fiscal, indicando en la solicitud el centro donde se van a realizar los análisis, la naturaleza de éstos y la clase y cantidad de labores que es necesario enviar para la práctica del análisis.
+
+2\. El interventor del establecimiento autorizará, en su caso, el envío de las labores necesarias que circularán amparadas por un albarán de circulación en el que se haga referencia a la autorización concedida.
+
+3\. No será necesario el cumplimiento de lo establecido en los apartados anteriores, cuando las cantidades necesarias para el análisis, junto con las pérdidas habidas en la fábrica o depósito fiscal, no excedan de los porcentajes reglamentarios de pérdidas.
+
+###### Artículo 123 bis. Exención para tiendas libres de impuestos.
+
+La aplicación de la exención a que se refiere el apartado 3 del artículo 61 de la Ley, se llevará a cabo conforme a las normas siguientes:
+
+1\. Las tiendas libres de impuestos, que deberán estar inscritas en los registros territoriales de las oficinas gestoras correspondientes como depósitos fiscales de los previstos en el artículo 11. 2. 10.º 2’ de este Reglamento, exigirán a los adquirentes de labores del tabaco que exhiban el título de transporte, por vía aérea o marítima, en el que figure como destino final un aeropuerto o puerto situado en un tercer país o territorio tercero.
+
+2\. Las mencionadas tiendas deberán conservar los justificantes de las ventas de labores del tabaco a las que se ha aplicado la exención, en los que deberán constar la fecha de la venta, el número del vuelo o de la travesía marítima a realizar, el puerto o aeropuerto de destino final y la cantidad de labores de tabaco vendidas.
+
+3\. En el supuesto de labores del tabaco, los envases deberán llevar adherida la marca fiscal a la que se refiere el artículo 26, sin que en ningún caso deba ser retirada o destruida en el momento de la salida del ámbito territorial interno.
+
+> Téngase en cuenta que esta actualización del apartado 3, establecida por el apartado 3 por el art. 2.5 del Real Decreto 1171/2023, de 27 de diciembre, [Ref. BOE-A-2023-26454](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26454), entra en vigor el 20 de mayo de 2024, según establece la disposición final 4 del citado Real Decreto.
+
+> Redacción anterior:
+
+> "3. Si entre las labores de tabaco vendidas hubiera cigarrillos y picadura para liar, los envases deberán llevar adherida la marca fiscal a la que se refiere el artículo 26, sin que en ningún caso deba ser retirada o destruida en el momento de la salida del ámbito territorial interno."
+
+> Se modifica el apartado 3 por el art. 2.5 del Real Decreto 1171/2023, de 27 de diciembre. [Ref. BOE-A-2023-26454](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26454)
+
+> Esta modificación entra en vigor el 20 de mayo de 2024, según establece la disposición final 4 del citado Real Decreto.
+
+> Se modifica el apartado 3 por el art. 4.32 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se añade por el art. único.86 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+###### Artículo 124. Reciclado y destrucción.
+
+La aplicación del beneficio de devolución a que se refieren los párrafos a) y b) del artículo 62 de la Ley, se efectuará de acuerdo con el siguiente procedimiento:
+
+1\. El propietario de las labores del tabaco solicitará la aplicación del beneficio a la oficina gestora correspondiente al establecimiento donde se encuentran dichas labores. En el escrito se harán constar los siguientes extremos:
+
+a) Datos identificativos del solicitante y del establecimiento donde se encuentran las labores.
+
+b) Clase y cantidad de labores por las que se solicita la devolución.
+
+c) Causa por la cual se solicita la destrucción o devolución de las labores.
+
+d) Datos relativos al proveedor de las labores y fecha en que se adquirieron, debiéndose adjuntar fotocopias del documento de circulación correspondiente y de la factura.
+
+e) Datos identificativos del depositario autorizado a quien, en su caso, se devuelven las labores, así como de la fábrica o depósito fiscal a donde se pretende enviar, debiéndose adjuntar documento acreditativo de la conformidad del depositario autorizado con respecto a la devolución de las labores.
+
+f) Procedimiento que se propone para la destrucción, así como local en que tal operación pueda efectuarse.
+
+2\. La oficina gestora, tras efectuar las comprobaciones que estime oportunas, resolverá la solicitud, autorizando, en su caso, la devolución de las labores a la fábrica o depósito fiscal señalada en la solicitud, determinando la cuota a devolver. De esta autorización dará cuenta a la oficina gestora correspondiente al establecimiento de destino.
+
+3\. El depositario autorizado cargará en su contabilidad de existencias las labores del tabaco entradas, justificando el asiento con el acuerdo de la oficina gestora que autorizó la devolución. Dicho depositario podrá deducir, de la cuota correspondiente al período impositivo en que ha tenido lugar la entrada de las labores devueltas, el importe de la cuota cuya devolución se ha acordado.
+
+4\. El depositario autorizado hará efectivo, al solicitante de la devolución, el importe de la misma.
+
+5\. Cuando se haya optado por la destrucción de las labores, ésta tendrá lugar, una vez autorizada por la oficina gestora, en presencia de los servicios de inspección que instruirán la correspondiente diligencia. La oficina gestora, si procede, determinará la cuota a devolver y acordará su pago.
+
+###### Artículo 125. Exenciones y devoluciones en relación con Ceuta y Melilla.
+
+**(Derogado)**
+
+> Se deroga por el art. único.23 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+##### Sección 2.ª Fabricación de labores del tabaco
+
+###### Artículo 126. Contabilidad reglamentaria.
+
+En las fábricas de labores del tabaco se llevarán los siguientes libros:
+
+1\. Libro de tabaco en rama.
+
+En el cargo se anotará: fecha de entrada, peso neto del tabaco a 14 por 100 de humedad uniforme, remitente y localidad.
+
+En la data se anotará: fecha, peso neto de la hebra, clases y marcas de labores del tabaco a cuya fabricación se destinan.
+
+2\. Libro de labores del tabaco.
+
+Se llevarán cuentas separadas para cada uno de los distintos tipos, clases y marcas de labores del tabaco que se vayan a elaborar.
+
+En el cargo se anotarán: el tabaco que se va a destinar al proceso de elaboración, con expresión de la fecha y peso neto del mismo.
+
+En la data se anotarán: las labores del tabaco elaboradas, con expresión de la fecha, peso neto y número de unidades de labores del tabaco obtenidas en esta fase. Los cigarrillos se expresarán en millares de unidades, los cigarros puros y cigarritos en unidades y la picadura y las demás labores del tabaco en unidades de envase acondicionados para su venta al público, según peso neto contenido.
+
+3\. Libro de almacén.
+
+Se llevarán tantas cuentas como labores del tabaco se fabriquen, distinguiendo por tipos, clases y marcas.
+
+En el cargo se anotarán: las labores del tabaco entradas en almacén, con expresión de la fecha de entrada y cantidad, en las unidades utilizadas en la data del libro de labores del tabaco.
+
+En la data se anotarán: las labores salidas de almacén, con expresión de la fecha de salida, cantidad en las mismas unidades que en el cargo y referencia del documento que amparó la circulación, destinatario y localidad.
+
+###### Artículo 127. Porcentajes de pérdidas admisibles.
+
+A) A efectos de lo dispuesto en el artículo 6.º de la Ley, los porcentajes reglamentarios de pérdidas serán los siguientes:
+
+|  | Porcentaje |
+|---|---|
+| 1. Cigarrillos negros: |  |
+| a) Batido | 6 |
+| b) Picado | 6 |
+| c) Elaboración del cigarrillo | 7 |
+| 2. Cigarrillos rubios: |  |
+| a) Batido | 6 |
+| b) Preparación de ligas | 5 |
+| c) Picado | 4 |
+| d) Elaboración del cigarrillo | 4 |
+| 3. Cigarros puros o cigarritos: |  |
+| a) Elaboración de la tripa (batido) | 30 |
+| b) Obtención de capas o subcapas de tabaco natural | 30 |
+| c) Obtención de capas o de subcapas a partir de tabaco homogeneizado | 30 |
+| d) Elaboración del cigarro puro o cigarrito | 9 |
+
+B) Se autoriza al Ministerio de Economía y Hacienda para establecer los porcentajes reglamentarios de pérdidas aplicables a los procesos no contemplados en este artículo.
+
+C) En los recuentos las mediciones se efectuarán tomando como base una humedad tipo del 14 por 100.
+
+> Se modifica por el art. único.87 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+##### Sección 3.ª Normas de gestión
+
+###### Artículo 128. Comunicaciones de fabricantes e importadores.
+
+1\. Sin perjuicio de lo establecido en la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria, y en sus disposiciones de desarrollo, los fabricantes de labores del tabaco establecidos en el territorio de la Unión o, en su caso, sus representantes o mandatarios en la Unión, así como los importadores de países terceros, comunicarán con anterioridad a la oficina gestora las labores que van a comercializar o importar en el ámbito territorial interno.
+
+2\. En la comunicación a que se refiere el apartado 1 anterior, se efectuará una descripción de la labor, indicando clase de labor, de acuerdo con los conceptos definidos en el artículo 59 de la Ley, número de cigarrillos, cigarros o cigarritos, contenido en cada paquete, o peso neto para las demás labores, marca, nombre del fabricante y país de fabricación. Igualmente indicarán en la citada comunicación el precio máximo de venta al público que han fijado para dichas labores.
+
+3\. Cuando los citados fabricantes o importadores decidan modificar los precios máximos fijados para las labores que comercializan o alguna de las características contenidas en la comunicación a que se refiere el apartado 2 anterior, deberán comunicar al centro gestor la modificación antes de que ésta tenga lugar.
+
+> Se modifica el apartado 1 por el art. 41.37 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se deroga el apartado 4 por el art. 1.28 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+###### Artículo 129. Normas específicas sobre la primera transformación de tabaco crudo.
+
+1\. Los establecimientos en los que se lleve a cabo la primera transformación del tabaco crudo deberán inscribirse en el registro territorial de la oficina gestora en cuya demarcación se instalen. A estos efectos, se entiende por «primera transformación del tabaco crudo» el conjunto de primeras operaciones que se realizan sobre la hoja de tabaco tras su curado que incluyan su corte o fraccionamiento, de forma que el producto resultante sea susceptible de ser fumado sin transformación industrial ulterior.
+
+2\. Respecto de los establecimientos a que se refiere el apartado 1 en los que exclusivamente se realicen operaciones de primera transformación del tabaco crudo en los términos definidos en el apartado anterior y en los que, sin perjuicio de lo establecido en el artículo 122 de este Reglamento, la totalidad de los productos obtenidos sean objeto de entrega a depositarios autorizados, sean exportados o sean recibidos en el ámbito territorial comunitario no interno, se aplicarán las siguientes reglas:
+
+a) Sus titulares no estarán obligados a la constitución de una garantía.
+
+b) En los referidos establecimientos se llevará únicamente un libro de almacén en soporte informático que presentará las siguientes características:
+
+En el cargo de dicho libro se anotarán las entradas de tabaco crudo en la instalación con indicación de la fecha de entrada, cantidades en kilogramos y suministrador identificado con su número de identificación fiscal y CAE, si dispusiera de él, o, en su caso, el código de identificación a efectos de impuestos especiales en el país de origen y el número de identificación a efectos del Impuesto sobre el Valor Añadido.
+
+En la data se anotarán las salidas de producto con indicación de su fecha, cantidad en kilogramos y comprador identificado con su número de identificación fiscal y CAE, si dispusiera de él, o, en su caso, el código de identificación a efectos de impuestos especiales en el país de destino y el número de identificación a efectos del Impuesto sobre el Valor Añadido.
+
+c) No deberán presentar autoliquidaciones cuando el importe a ingresar sea de cero euros, ni presentar declaraciones recapitulativas de operaciones.
+
+d) Sin perjuicio de lo que establezca la normativa comunitaria, la circulación de los productos salidos de estas instalaciones se efectuará al amparo de un albarán de circulación.
+
+3\. Salvo las especialidades recogidas en el apartado 2 de este artículo, a los demás establecimientos referidos en el apartado 1 les serán de aplicación todas las normas previstas en la Ley y en este Reglamento para las fábricas de labores del tabaco.
+
+> Se añade por el art. 3.32 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+#### CAPÍTULO IX — Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco
+
+> Téngase en cuenta que este capítulo, añadido por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. [Ref. BOE-A-2025-1136](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1136)
+
+> Se añade por la disposición final 5.6 de la Ley 7/2024, de 20 de diciembre. [Ref. BOE-A-2024-26694](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26694)
+
+> Téngase en cuenta que esta actualización tendrá efectos desde el 1 de abril de 2025, según determina el art. 10.4 del Real Decreto-ley 9/2024, de 23 de diciembre. [Ref. BOE-A-2024-26915](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26915)
+
+###### Artículo 130. Destrucción de los productos objeto del impuesto.
+
+1\. La destrucción de los productos objeto del impuesto para que surta los efectos previstos en el artículo 64 ter de la Ley, se solicitará de las oficinas gestoras correspondientes a las fábricas o depósitos fiscales.
+
+2\. En la solicitud se harán constar las causas que hacen aconsejable la destrucción, las clases y cantidades de productos que se pretende destruir, así como el procedimiento que se propone para la práctica de tales operaciones.
+
+3\. La oficina gestora autorizará, en su caso, la destrucción comunicándolo al solicitante y al servicio de intervención, a fin de que por este último se presencien las operaciones y se instruyan las correspondientes diligencias que justificarán los oportunos asientos en la contabilidad reglamentaria.
+
+4\. Las oficinas gestoras podrán autorizar la destrucción de los productos, en existencia en fábricas o depósitos fiscales, fuera de estas instalaciones, cuando existan razones que no hagan posible su realización dentro de las mismas, surtiendo los efectos previstos en el apartado 1 anterior. En estos supuestos, la destrucción se efectuará, igualmente, bajo control de los servicios de intervención.
+
+5\. No será necesario el cumplimiento de lo establecido en los apartados anteriores cuando las cantidades que se pretenden destruir, junto con las pérdidas habidas en la fábrica o depósito fiscal, no excedan de los porcentajes reglamentarios de pérdidas.
+
+> Téngase en cuenta que este artículo, añadido por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. [Ref. BOE-A-2025-1136](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1136)
+
+> Se añade por la disposición final 5.6 de la Ley 7/2024, de 20 de diciembre. [Ref. BOE-A-2024-26694](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26694)
+
+> Téngase en cuenta que esta actualización tendrá efectos desde el 1 de abril de 2025, según determina el art. 10.4 del Real Decreto-ley 9/2024, de 23 de diciembre. [Ref. BOE-A-2024-26915](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26915)
+
+> Se deroga por el art. 1.29 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se añade el apartado 3 por el art. 1.30 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica por el art. único.25 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 131. Análisis científicos o de calidad.
+
+1\. La aplicación de la exención establecida en la letra d) del apartado 1 del artículo 64 octies de la Ley, se solicitará del servicio de intervención de la fábrica o depósito fiscal, indicando en la solicitud el centro donde se van a realizar los análisis, la naturaleza de éstos y la clase y cantidad los productos que es necesario enviar para la práctica del análisis.
+
+2\. El interventor del establecimiento autorizará, en su caso, el envío de los productos necesarios que circularán amparados por un albarán de circulación en el que se haga referencia a la autorización concedida.
+
+3\. No será necesario el cumplimiento de lo establecido en los apartados anteriores, cuando las cantidades necesarias para el análisis, junto con las pérdidas habidas en la fábrica o depósito fiscal, no excedan de los porcentajes reglamentarios de pérdidas.
+
+> Téngase en cuenta que este artículo, añadido por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. [Ref. BOE-A-2025-1136](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1136)
+
+> Se añade por la disposición final 5.6 de la Ley 7/2024, de 20 de diciembre. [Ref. BOE-A-2024-26694](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26694)
+
+> Téngase en cuenta que esta actualización tendrá efectos desde el 1 de abril de 2025, según determina el art. 10.4 del Real Decreto-ley 9/2024, de 23 de diciembre. [Ref. BOE-A-2024-26915](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26915)
+
+> Se deroga por el art. 1.29 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se añade una letra c) al apartado 1 y se modifica el apartado 4 por el art. 1.31 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica el apartado 4 por el art. único.80 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica por el art. único.25 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 132. Exención para tiendas libres de impuestos.
+
+La aplicación de la exención a que se refiere el apartado 2 del artículo 64 octies de la Ley, se llevará a cabo conforme a las normas siguientes:
+
+1\. Las tiendas libres de impuestos, que deberán estar inscritas en los registros territoriales de las oficinas gestoras correspondientes como depósitos fiscales, exigirán a los adquirentes de los productos objeto del impuesto que exhiban el título de transporte, por vía aérea o marítima, en el que figure como destino final un aeropuerto o puerto situado fuera del ámbito territorial interno.
+
+2\. Las mencionadas tiendas deberán conservar los justificantes de las ventas de los productos a los que se ha aplicado la exención, en los que deberán constar la fecha de la venta, el número del vuelo o de la travesía marítima a realizar, el puerto o aeropuerto de destino final y la cantidad de productos vendidos.
+
+> Téngase en cuenta que este artículo, añadido por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. [Ref. BOE-A-2025-1136](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1136)
+
+> Se añade por la disposición final 5.6 de la Ley 7/2024, de 20 de diciembre. [Ref. BOE-A-2024-26694](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26694)
+
+> Téngase en cuenta que esta actualización tendrá efectos desde el 1 de abril de 2025, según determina el art. 10.4 del Real Decreto-ley 9/2024, de 23 de diciembre. [Ref. BOE-A-2024-26915](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26915)
+
+> Se deroga por el art. 1.29 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica por el art. 1.19 del Real Decreto 1739/2003, de 19 de diciembre. [Ref. BOE-A-2004-614](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-614)
+
+> Se añade por el art. único.25 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 133. Reciclado y destrucción.
+
+La aplicación del beneficio de devolución a que se refieren las letras a) y b) del artículo 64 nonies de la Ley, se efectuará de acuerdo con el siguiente procedimiento:
+
+1\. El propietario de los productos solicitará la aplicación del beneficio a la oficina gestora correspondiente al establecimiento donde se encuentran dichos productos. En el escrito se harán constar los siguientes extremos:
+
+a) Datos identificativos del solicitante y del establecimiento donde se encuentran los productos.
+
+b) Clase y cantidad de productos por los que se solicita la devolución.
+
+c) Causa por la cual se solicita la destrucción o devolución de los productos.
+
+d) Datos relativos al proveedor de las labores y fecha en que se adquirieron, debiéndose adjuntar fotocopias del documento de circulación correspondiente y de la factura.
+
+e) Datos identificativos del depositario autorizado a quien, en su caso, se devuelven los productos, así como de la fábrica o depósito fiscal a donde se pretende enviar, debiéndose adjuntar documento acreditativo de la conformidad del depositario autorizado con respecto a la devolución de los productos.
+
+f) Procedimiento que se propone para la destrucción, así como local en que tal operación pueda efectuarse.
+
+2\. Cuando se haya solicitado la devolución de los productos a fábrica para su reciclado, la oficina gestora, tras efectuar las comprobaciones que estime oportunas, resolverá la solicitud, autorizando, en su caso, la devolución de los productos a la fábrica señalada en la solicitud, determinando la cuota a devolver. De esta autorización dará cuenta a la oficina gestora correspondiente al establecimiento de destino.
+
+3\. El depositario autorizado cargará en su contabilidad de existencias los productos entrados, justificando el asiento con el acuerdo de la oficina gestora que autorizó la devolución. Dicho depositario podrá deducir, de la cuota correspondiente al período impositivo en que ha tenido lugar la entrada de los productos devueltos, el importe de la cuota cuya devolución se ha acordado.
+
+4\. El depositario autorizado hará efectivo, al solicitante de la devolución, el importe de la misma.
+
+5\. Cuando se haya optado por la destrucción de los productos, esta tendrá lugar, una vez autorizada por la oficina gestora, en presencia de los servicios de inspección que instruirán la correspondiente diligencia. La oficina gestora, si procede, determinará la cuota a devolver y acordará su pago.
+
+> Téngase en cuenta que este artículo, añadido por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. [Ref. BOE-A-2025-1136](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1136)
+
+> Se añade por la disposición final 5.6 de la Ley 7/2024, de 20 de diciembre. [Ref. BOE-A-2024-26694](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26694)
+
+> Téngase en cuenta que esta actualización tendrá efectos desde el 1 de abril de 2025, según determina el art. 10.4 del Real Decreto-ley 9/2024, de 23 de diciembre. [Ref. BOE-A-2024-26915](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26915)
+
+> Se deroga por el art. 1.29 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica el apartado 2 por el art. 1.32 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se modifica el apartado 1 por el art. único.81 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+> Se modifica el apartado 2 por el art. único.88 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se añade por el art. único.25 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 39, de 14 de enero de 1998.
+
+###### Artículo 134. Normas particulares de gestión.
+
+1\. Quienes ostenten la condición de contribuyentes conforme a lo dispuesto en el apartado 1 del artículo 64 quinquies estarán obligados a inscribirse en el registro territorial de la oficina gestora competente que corresponda a su domicilio fiscal o establecimiento, en los términos del artículo 40.
+
+2\. Los contribuyentes del impuesto no estarán obligados a presentar la autoliquidación en aquellos periodos de liquidación en los que no resulten cuotas a ingresar.
+
+> Téngase en cuenta que este artículo, añadido por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. [Ref. BOE-A-2025-1136](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1136)
+
+> Se añade por la disposición final 5.6 de la Ley 7/2024, de 20 de diciembre. [Ref. BOE-A-2024-26694](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26694)
+
+> Téngase en cuenta que esta actualización tendrá efectos desde el 1 de abril de 2025, según determina el art. 10.4 del Real Decreto-ley 9/2024, de 23 de diciembre. [Ref. BOE-A-2024-26915](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26915)
+
+> Se deroga por el art. 1.29 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica la regla 1 por el art. 1.33 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se añade por el art. único.25 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+###### Artículo 134 bis. Disposiciones especiales.
+
+1\. No serán de aplicación al Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco:
+
+a) Las disposiciones relativas a las devoluciones reguladas en los artículos 8, 9, 10 y 23 de este Reglamento.
+
+b) La regulación de los depósitos de recepción y almacenes fiscales contenida en los artículos 12 y 13 de este Reglamento.
+
+c) Respecto las exportaciones amparadas en documentos administrativos electrónicos de los productos objeto del impuesto no será de aplicación lo dispuesto en el apartado 9 del artículo 14 de este Reglamento.
+
+d) Lo regulado en relación con la circulación intracomunitaria en los artículos 16 A, 17, 29 A, 31 A y 33 a 33 septies de este Reglamento.
+
+2\. A efectos de lo dispuesto en el artículo 6 de la Ley, la persona titular del Ministerio de Hacienda podrá establecer los porcentajes admisibles de pérdidas.
+
+> Téngase en cuenta que este artículo, añadido por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. [Ref. BOE-A-2025-1136](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1136)
+
+> Se añade por la disposición final 5.6 de la Ley 7/2024, de 20 de diciembre. [Ref. BOE-A-2024-26694](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26694)
+
+> Téngase en cuenta que esta actualización tendrá efectos desde el 1 de abril de 2025, según determina el art. 10.4 del Real Decreto-ley 9/2024, de 23 de diciembre. [Ref. BOE-A-2024-26915](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26915)
+
+### TITULO II — Impuesto especial sobre determinados medios de transporte
+
+###### Artículo 135. Reconocimiento previo de supuestos de no sujeción y de exención.
+
+La aplicación de los supuestos de no sujeción a que se refieren los números 9.º) y 10.º) de la letra a) del apartado 1 del artículo 65 de la Ley y de los supuestos de exención a que se refieren las letras a), b), c), d), f), g), h), k), m) y ñ) del apartado 1 del artículo 66 de la Ley, estará condicionada a su previo reconocimiento por la Administración tributaria conforme a lo dispuesto en el presente Título. La matriculación definitiva del medio de transporte estará condicionada a la acreditación ante el órgano competente en materia de matriculación del referido reconocimiento previo de la Administración tributaria.
+
+> Se modifica por el art. 1.30 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica por el art. 1.34 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se añade por el art. único.24 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+> Su anterior numeración era art. 129.
+
+###### Artículo 136. Solicitud de reconocimiento previo.
+
+A efectos de lo dispuesto en el artículo anterior, las personas o entidades a cuyo nombre se pretenda efectuar la primera matriculación definitiva del medio de transporte o a las que se refiere la disposición adicional primera de la Ley, presentarán, con anterioridad, ante la Delegación o Administración de la Agencia Estatal de Administración Tributaria correspondiente a su domicilio fiscal, un escrito, sujeto al modelo que determine el Ministro de Hacienda y Administraciones Públicas, solicitando la aplicación de tales supuestos. En dicho escrito se hará constar, como mínimo, el nombre, número de identificación fiscal y domicilio fiscal del solicitante, la clase, marca y modelo del medio de transporte y el supuesto de no sujeción o de exención cuyo reconocimiento se solicita.
+
+> Se modifica por el art. 1.31 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se añade por el art. único.24 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+> Su anterior numeración era art. 130.
+
+###### Artículo 137. Documentación a aportar.
+
+1\. Al escrito al que se refiere el artículo anterior se acompañará copia de la ficha de inspección técnica del vehículo, o en el caso de embarcaciones o aeronaves, certificación de sus características técnicas, expedidas por el vendedor y, además, según los casos, la siguiente documentación:
+
+a) Cuando se trate de vehículos destinados a ser utilizados en funciones de defensa, vigilancia y seguridad por las Fuerzas Armadas, por los Cuerpos y Fuerzas de Seguridad del Estado, Comunidades Autónomas y Corporaciones Locales o por el Resguardo Aduanero, una declaración suscrita por el órgano o autoridad competentes para contratar la adquisición de aquéllos, en la que se haga constar que tales vehículos se destinarán de forma efectiva a las funciones indicadas.
+
+b) Cuando se trate de los medios de transporte a que se refieren las letras a), b), c), g), h), k) y m) del artículo 66 de la Ley, el recibo corriente del Impuesto sobre Actividades Económicas que acredite que el solicitante desempeña la actividad a que se va a afectar el medio de transporte y que justifica la aplicación de la exención.
+
+Cuando se trate de los medios de transporte a que se refiere la letra c) del artículo 66 de la Ley de Impuestos Especiales, se aportará, además, la documentación que acredite que el solicitante cumple los requisitos necesarios para ejercer la actividad de arrendamiento de vehículos conforme a lo dispuesto en la Ley 16/1987, de 30 de julio, de Ordenación de Transportes Terrestres, y en el capítulo IV del Título V de su Reglamento, aprobado por el Real Decreto 1211/1990, de 28 de septiembre, y modificado por el Real Decreto 858/1994, de 29 de abril.
+
+c) Cuando se trate de vehículos automóviles que se matriculen a nombre de minusválidos para su uso exclusivo, el certificado de la minusvalía o de la invalidez emitido por el Instituto Nacional de Servicios Sociales o por las entidades gestoras competentes.
+
+Por la propia Administración tributaria se verificará, como requisito para el reconocimiento de la exención, que han transcurrido al menos cuatro años desde la matriculación de otro vehículo en análogas condiciones a efectos de la aplicación del tipo normal del Impuesto sobre el Valor Añadido o del disfrute de la exención en el Impuesto Especial sobre Determinados Medios de Transporte.
+
+d) Cuando se trate de los vehículos a que se refiere la letra f) del apartado 1 del artículo 66 de la Ley, la copia del contrato laboral que justifica la aplicación de la exención.
+
+e) Cuando se trate de los medios de transporte a que se refiere la letra ñ) del apartado 1 del artículo 66 de la Ley, la copia del contrato de arrendamiento del medio de transporte que acredite la duración del mismo y que justifica la aplicación de la exención.
+
+2\. Los órganos gestores podrán requerir la presentación de cualquier otra documentación que deba obrar en poder del solicitante en razón de la no sujeción o exención cuya aplicación solicita, así como efectuar comprobaciones de los vehículos para constatar la adecuación de los mismos a su destino o finalidad.
+
+> Se modifican las letras c) y e) del apartado 1 por el art. 3.33 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se añaden las letras d) y e) al apartado 1 por el art. 1.32 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253).
+
+> Se modifica la letra b) del apartado 1 por el art. 1.35 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+> Se añade por el art. único.24 del Real Decreto 112/1998, de 30 de enero. [Ref. BOE-A-1998-2233](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2233)
+
+> Su anterior numeración era art. 131.
+
+### TÍTULO III — Impuesto Especial sobre el Carbón
+
+> Se añade por el art. único.25 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+###### Artículo 138. Inscripción en el Registro Territorial.
+
+1\. Los obligados a presentar las autoliquidaciones y las declaraciones anuales de operaciones a que se refiere el artículo 140, los beneficiarios de la aplicación del tipo impositivo establecido en el epígrafe 1.1 del artículo 84.1 de la Ley y de las exenciones establecidas en los apartados 1 y 2 del artículo 79 de la Ley, así como en las letras b), c) y e) del apartado 3 de dicho artículo 79, deberán solicitar la inscripción en el registro territorial correspondiente a la oficina gestora de impuestos especiales del lugar donde radique el correspondiente establecimiento o, en su caso, su domicilio fiscal conforme al procedimiento previsto por el Ministro de Hacienda.
+
+A los efectos indicados se entenderá por establecimiento, cuando se trate de adquirentes de producto comunitario y de revendedores de este producto el lugar de consumo de carbón o de su almacenamiento, respectivamente. En el supuesto de que los revendedores no posean instalaciones de almacenamiento de producto tendrá la consideración de establecimiento su domicilio fiscal. En el caso de productores o extractores de carbón, se entenderá por establecimiento la unidad de producción, constituida por el conjunto de los lugares de extracción de carbón y de las infraestructuras que les dan servicio, subterráneas o a cielo abierto, que pueden producir carbón bruto de forma independiente de otras unidades.
+
+2\. Una vez efectuada la inscripción, la oficina gestora a la que se refiere el artículo 1.9 de este Reglamento entregará al interesado una tarjeta identificativa de la inscripción, sujeta al modelo que apruebe el Ministro de Hacienda y Administraciones Públicas, en la que constará el «Código de Actividad del Carbón» (CAC) al que se refiere el apartado siguiente, que deberá consignarse en las autoliquidaciones y en las declaraciones anuales de operaciones.
+
+3\. El “Código de Actividad del Carbón” es el código, configurado en la forma que se establece en este apartado, que identifica la actividad de los obligados tributarios por este impuesto y que consta de trece caracteres distribuidos de la forma siguiente:
+
+a) Las letras ES configurarán los dos primeros caracteres.
+
+b) En tanto el Ministro de Economía y Hacienda no disponga su sustitución por otros caracteres, los caracteres tercero, cuarto y quinto serán ceros.
+
+c) Los caracteres sexto y séptimo identifican el ámbito territorial de la oficina gestora del establecimiento.
+
+d) Los caracteres octavo y noveno identifican la actividad del obligado tributario.
+
+e) Los caracteres décimo, undécimo y duodécimo expresarán un número secuencial de inscripción en el ámbito territorial al que se refiere la letra c).
+
+f) Finalmente, una letra de control.
+
+Por el Ministro de Economía y Hacienda se establecerá el repertorio de las actividades a que se refiere el primer párrafo de este apartado y se determinarán los dígitos y los caracteres identificativos a que se refiere la letra d) anterior.
+
+> Se modifica el primer párrafo del apartado 1 por el art. 4.33 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se modifican los apartados 1 y 2 por el art. 1.33 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253)
+
+> Se modifica el apartado 3 por el art. único.89 del Real Decreto 191/2010, de 26 de febrero. [Ref. BOE-A-2010-3369](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3369)
+
+> Se añade por el art. único.25 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+###### Artículo 139. Devolución del impuesto.
+
+1\. En los supuestos de devolución establecidos en el artículo 80 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, el importe de las cuotas que se devuelvan será el mismo que el de las cuotas soportadas.
+
+2\. No obstante lo dispuesto en el apartado anterior, cuando no fuera posible determinar tal importe, las cuotas se determinarán aplicando el tipo vigente tres meses antes de la fecha en que se realiza la operación que origina el derecho a la devolución.
+
+3\. La devolución del impuesto podrá autorizarse con carácter provisional. Las liquidaciones provisionales se convertirán en definitivas como consecuencia de la comprobación efectuada por la inspección o bien cuando no hubieran sido comprobadas dentro del plazo de cuatro años, contados a partir de la fecha en que se realiza la operación que origina el derecho a la devolución.
+
+4\. En todos los casos la devolución se solicitará, dentro de los 20 primeros días siguientes a la finalización de cada trimestre natural, ante la oficina gestora de los impuestos especiales correspondiente al domicilio fiscal del titular del beneficio. Dicha oficina podrá, antes de acordar la devolución con carácter provisional, requerir la acreditación de haberse satisfecho las cuotas cuya devolución se solicita, así como de haberse realizado la operación que origina tal derecho. Esta acreditación se efectuará principalmente mediante:
+
+a) la factura en que conste la repercusión del impuesto, de acuerdo con lo establecido en el artículo 85 de la citada Ley 38/1992;
+
+b) la factura, albarán, conduce o demás documentos comerciales utilizados por el vendedor, cuando se trate de adquisiciones dentro del ámbito territorial de aplicación del impuesto, diferentes a las que se refiere la letra anterior;
+
+c) los justificantes de haberse efectuado el pago del impuesto, cuando el solicitante sea sujeto pasivo del impuesto con ocasión de operaciones de importación o de recepciones de los productos procedentes del ámbito territorial de la Unión.
+
+d) En los supuestos de exportación, el documento de despacho aduanero.
+
+5\. Los procedimientos de devolución de cuotas satisfechas por el Impuesto Especial sobre el Carbón tendrán, para su resolución, un plazo máximo de seis meses computado a partir de la fecha en que tenga entrada en el registro la solicitud de devolución.
+
+Sin perjuicio de la obligación de la Administración de dictar resolución expresa, en los supuestos regulados en este apartado las solicitudes de devolución se entenderán desestimadas cuando no haya recaído resolución expresa en el indicado plazo.
+
+> Se modifica la letra c) del apartado 4 por el art. 41.38 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se añade por el art. único.25 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+###### Artículo 140. Liquidación y pago del impuesto.
+
+1\. Salvo en los casos de importación, los sujetos pasivos del Impuesto Especial sobre el Carbón están obligados a presentar una autoliquidación comprensiva de las cuotas devengadas dentro de los plazos que se indican en el apartado 3, así como a efectuar, simultáneamente, el pago de las cuotas líquidas.
+
+No será necesaria la presentación de autoliquidaciones cuando en el período de liquidación de que se trate no resulten cuotas a ingresar.
+
+2\. La presentación de la autoliquidación y, en su caso, el pago simultáneo de la deuda tributaria se efectuará, con carácter general, por cada uno de los establecimientos o lugares de recepción. La oficina gestora podrá autorizar a los contribuyentes la centralización de la presentación de las autoliquidaciones y el ingreso simultáneo de la deuda tributaria, mediante la presentación de una única autoliquidación tributaria en una entidad colaboradora autorizada.
+
+3\. El período de liquidación y el plazo para la presentación de la autoliquidación y, en su caso, ingreso simultáneo de las cuotas serán los siguientes:
+
+Periodo de liquidación: un trimestre natural.
+
+Plazo: Los 20 primeros días naturales siguientes a aquél en que finaliza el trimestre en que se hayan producido los devengos.
+
+4\. Los modelos de autoliquidaciones o, en su caso, los medios y procedimientos electrónicos, informáticos o telemáticos que pudieran sustituirlas para la determinación e ingreso de la deuda tributaria, serán aprobados por el Ministro de Hacienda y Administraciones Públicas.
+
+5\. Además, los sujetos pasivos estarán obligados a presentar una declaración anual que comprenda las operaciones realizadas dentro de cada ejercicio, incluso cuando sólo tengan existencias, en los casos y conforme a los modelos o procedimientos que establezca el Ministro de Hacienda y Administraciones Públicas.
+
+> Se modifica el apartado 2 por el art. 3.34 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se modifica por el art. 1.34 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253)
+
+> Se añade por el art. único.25 del Real Decreto 774/2006, de 23 de junio. [Ref. BOE-A-2006-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11286)
+
+###### Artículo 140 bis. Autoliquidaciones rectificativas.
+
+1\. Los sujetos pasivos deberán rectificar, completar o modificar las autoliquidaciones presentadas por el impuesto especial sobre el carbón mediante la presentación de una autoliquidación rectificativa, utilizando el modelo de declaración aprobado por la persona titular del Ministerio de Hacienda.
+
+No obstante lo dispuesto en el párrafo anterior, cuando el motivo de la rectificación del obligado tributario sea exclusivamente la alegación razonada de una eventual vulneración por la norma aplicada en la autoliquidación previa de los preceptos de otra norma de rango superior legal, constitucional, de Derecho de la Unión Europea o de un Tratado o Convenio internacional se podrá instar la rectificación a través del procedimiento previsto en el artículo 120.3 de la Ley 58/2003, de 17 de diciembre, General Tributaria, y desarrollado en los artículos 126 a 128 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio. Si este motivo concurriese con otros de distinta naturaleza, por estos últimos el obligado tributario deberá presentar una autoliquidación rectificativa.
+
+Lo establecido en este apartado no se aplicará a las rectificaciones de cuotas indebidamente repercutidas a otros obligados tributarios a las que se refiere el artículo 129 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio.
+
+2\. La autoliquidación rectificativa de una autoliquidación previa se podrá presentar antes de que haya prescrito el derecho de la Administración para determinar la deuda tributaria mediante liquidación o el derecho a solicitar la devolución que, en su caso, proceda. Cuando se presente fuera del plazo de declaración tendrá el carácter de extemporánea.
+
+3\. En la autoliquidación rectificativa constará expresamente esta circunstancia y la obligación tributaria y período a que se refiere, así como la totalidad de los datos que deban ser declarados y otros que puedan establecerse en la Orden Ministerial reguladora del modelo de declaración aprobada por la persona titular del Ministerio de Hacienda, como los motivos de rectificación. A estos efectos, se incorporarán los datos incluidos en la autoliquidación presentada con anterioridad que no sean objeto de modificación, los que sean objeto de modificación y los de nueva inclusión.
+
+4\. La autoliquidación rectificativa podrá rectificar, completar o modificar la autoliquidación presentada con anterioridad. En particular:
+
+a) Cuando de la rectificación efectuada resulte un importe a ingresar superior al de la autoliquidación anterior o una cantidad a devolver inferior a la anteriormente autoliquidada, se aplicará el régimen previsto para las autoliquidaciones complementarias en el artículo 122.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria, y su normativa de desarrollo.
+
+b) En los casos no contemplados en la letra anterior, cuando del cálculo efectuado en la autoliquidación rectificativa resulte una cantidad a devolver, con la presentación de la autoliquidación rectificativa se entenderá solicitada la devolución, que se tramitará conforme al régimen del procedimiento previsto en los artículos 124 a 127 de la Ley 58/2003, de 17 de diciembre, General Tributaria, y su normativa de desarrollo, sin perjuicio de la obligación de abono de intereses de demora conforme a lo establecido en el apartado 3 del artículo 120 de dicha Ley.
+
+El plazo para efectuar la devolución será de seis meses contados desde la finalización del plazo reglamentario para la presentación de la autoliquidación o, si éste hubiese concluido, desde la presentación de la autoliquidación rectificativa.
+
+Si con la presentación de la autoliquidación previa se hubiera solicitado una devolución y ésta no se hubiera efectuado al tiempo de presentar la autoliquidación rectificativa, con la presentación de esta última se considerará finalizado el procedimiento iniciado mediante la presentación de la autoliquidación previa.
+
+c) Cuando de la rectificación efectuada resulte una minoración del importe a ingresar de la autoliquidación previa y no proceda una cantidad a devolver, se mantendrá la obligación de pago hasta el límite del importe a ingresar resultante de la autoliquidación rectificativa.
+
+Si la deuda resultante de la autoliquidación previa estuviera aplazada o fraccionada, con la presentación de la autoliquidación rectificativa se entenderá solicitada la modificación en las condiciones del aplazamiento o fraccionamiento conforme a lo previsto en el segundo párrafo del apartado 3 del artículo 52 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio.
+
+5\. La autoliquidación rectificativa no producirá efectos respecto a aquellos elementos que hayan sido regularizados mediante liquidación definitiva o provisional en los términos a que se refieren los apartados 2 y 3 del artículo 126 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, respectivamente.
+
+> Téngase en cuenta que este artículo, añadido por la disposición final 6.2 del Real Decreto 117/2024, de 30 de enero, [Ref. BOE-A-2024-1771](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1771), entra en vigor cuando lo haga la orden ministerial aprobada por la persona titular del Ministerio de Hacienda por la que se aprueben los correspondientes modelos de declaración, según establece su disposición final 11.d).
+
+> Se añade por la disposición final 6.2 del Real Decreto 117/2024, de 30 de enero. [Ref. BOE-A-2024-1771](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1771)
+
+> Téngase en cuenta que este artículo entra en vigor cuando lo haga la orden ministerial aprobada por la persona titular del Ministerio de Hacienda por la que se aprueben los correspondientes modelos de declaración, según establece la disposición final 11.d) del citado Real Decreto.
+
+###### Artículo 141. Aplicación del tipo impositivo reducido.
+
+1\. Para que los sujetos pasivos puedan aplicar el tipo impositivo establecido en el epígrafe 1.1 del apartado 1 del artículo 84 de la Ley, los consumidores finales deberán haberse inscrito en el registro territorial de la oficina gestora correspondiente al lugar de consumo del carbón y acreditar a su proveedor que se destina a usos con fines profesionales mediante la exhibición de su CAC.
+
+Cualquier modificación del destino del carbón que suponga un cambio del tipo impositivo, deberá ser objeto de comunicación, bajo la exclusiva responsabilidad de los consumidores finales, tanto a la oficina gestora como a quienes realicen la puesta a consumo del carbón.
+
+Mientras no tenga lugar una nueva comunicación, se tomará en consideración la información contenida en la comunicación inicial.
+
+2\. En los suministros de carbón destinado a ser utilizado en una central de cogeneración de energía eléctrica y energía térmica útil, sujeta al requisito de acreditación del cumplimiento del rendimiento eléctrico equivalente a que se refiere la normativa de aplicación de la Ley del Sector Eléctrico, o en aquella en las que dicho rendimiento haya sido debidamente auditado se aplicarán los tipos impositivos regulados en el artículo 84 de la Ley en función del porcentaje de carbón que corresponda imputar a la producción de electricidad medida en bornes de alternador y a la obtención de energía térmica útil y siempre que el aprovechamiento final de esta se produzca en establecimientos industriales, conforme al procedimiento que se establece a continuación.
+
+Para que los sujetos pasivos puedan aplicar el tipo impositivo establecido en el epígrafe 1.1 del artículo 84.1 de la Ley, los titulares de las centrales estarán obligados a comunicarles, además de lo establecido en el apartado 1 de este artículo, el porcentaje provisional a aplicar sobre la cantidad suministrada de carbón que va a utilizarse en la generación de electricidad y en la producción de energía térmica útil. Los sujetos pasivos deberán conservar dichas comunicaciones debidamente firmadas.
+
+A los efectos de lo establecido en el párrafo anterior, el porcentaje provisional aplicable cada año natural será el fijado como definitivo para el año precedente y determinado en función del valor del rendimiento eléctrico equivalente aportado a la Comisión Nacional de los Mercados y de la Competencia o el valor auditado debidamente y de los consumos de carbón realizados durante ese año.
+
+En el supuesto de que el suministro de carbón se realice a una central de cogeneración con una planta industrial asociada y cuyo punto de suministro fuese único, el sujeto pasivo podrá aplicar el tipo impositivo establecido en el epígrafe 1.1, tanto a la cantidad de carbón que deba imputarse a la producción de energía térmica útil como a la destinada directamente a la planta industrial siempre que el titular de la central de cogeneración incluya en la declaración escrita la información relativa al porcentaje que corresponde a dichos usos, en los términos que se indican en los párrafos anteriores.
+
+No obstante, cuando por circunstancias sobrevenidas o extraordinarias, el titular de la central de cogeneración justifique que la aplicación del porcentaje definitivo del año anterior en función del cual se le va a efectuar la repercusión de los tipos impositivos del carbón difiere en gran medida del que efectivamente correspondería al año que esté en curso, podrá comunicar otro dato al sujeto pasivo previa autorización de la oficina gestora.
+
+Los titulares de centrales de cogeneración de electricidad y energía térmica útil presentarán dentro del primer cuatrimestre natural de cada año, por los medios que determine el Ministro de Hacienda y Administraciones Públicas, todos los datos necesarios para la determinación de la cantidad de carbón que corresponde imputar a la generación de electricidad medida en bornes de alternador y a la producción de energía térmica útil.
+
+3\. Los sujetos pasivos deberán efectuar la rectificación de las cuotas impositivas repercutidas cuando el importe de las mismas, determinado en función del porcentaje provisional comunicado por el consumidor final, no coincida con el importe de las cuotas que se hubieran debido repercutir conforme al porcentaje o cantidad definitiva utilizada.
+
+A estos efectos, en los cuatro primeros meses de cada año natural, los consumidores finales deberán comunicar a los sujetos pasivos el porcentaje definitivo de carbón sujeto a cada uno de los tipos establecidos en el apartado 1 del artículo 84 de la Ley. Si en el plazo de los cuatro meses no se comunicaran a los sujetos pasivos, y a la oficina gestora, nuevos datos, se considerará que no se ha producido variación alguna respecto de los porcentajes a aplicar sobre la cantidad suministrada de carbón.
+
+La rectificación deberá efectuarse por los sujetos pasivos una vez que les sea comunicado el porcentaje definitivo y la regularización de la situación tributaria se efectuará en la autoliquidación correspondiente al periodo en que debe efectuarse dicha rectificación.
+
+> Se modifican los apartados 1 y 3 por el art. 4.34 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+> Se añade por el art. 1.36 del Real Decreto 1041/2013, de 27 de diciembre. [Ref. BOE-A-2013-13758](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13758).
+
+###### Artículo 141 bis. Aplicación de exenciones.
+
+Los beneficiarios de las exenciones del artículo 79 de la Ley deberán conservar durante el plazo de prescripción, toda la documentación acreditativa del destino que motive la exención incluyendo en todo caso las facturas justificativas de la venta o entrega.
+
+La aplicación de las exenciones a las que hacen referencia los apartados 1 y 2 del artículo 79 de la Ley estará condicionada a que, quienes realicen la primera venta o entrega de carbón a revendedores en el ámbito territorial de aplicación del Impuesto o a empresarios que lo envíen fuera del ámbito territorial de aplicación del Impuesto, soliciten a tales revendedores o empresarios la presentación o exhibición de la tarjeta acreditativa de la inscripción en el registro territorial. La misma solicitud deberán hacer quienes realicen la puesta a consumo de carbón, con aplicación de la exención, a quienes lo empleen en los usos recogidos en las letras b), c) y e) del apartado 3 del artículo 79 de la Ley.
+
+> Se añade por el art. 4.35 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+### TÍTULO IV — Impuesto Especial sobre la Electricidad
+
+> Se añade por el art. 1.35 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253)
+
+###### Artículo 142. Conceptos y definiciones.
+
+A efectos de este impuesto se entenderá por:
+
+1\. Ley: La Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+
+2\. Oficina gestora: El órgano que, de acuerdo con las normas de estructura orgánica de la Agencia Estatal de Administración Tributaria, sea competente en materia de impuestos especiales.
+
+> Se añade por el art. 1.35 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253)
+
+###### Artículo 143. Procedimiento para la aplicación de determinadas exenciones.
+
+1\. Para la aplicación de las exenciones en el marco de las relaciones internacionales a que se refieren los números 1, 2 y 4 del artículo 94 de la Ley, los interesados presentarán ante el Ministerio de Asuntos Exteriores y de Cooperación una solicitud comprensiva de la electricidad, expresada en kilovatios hora (kWh), que precisan que les sea suministrada al amparo de la exención. Las solicitudes podrán abarcar los consumos de un año o los correspondientes al período de aplicación del beneficio, si éste fuera menor. Dicho departamento ministerial, una vez comprobado el cumplimiento de las condiciones fijadas en los respectivos Convenios internacionales, incluido, en su caso, el de la reciprocidad, trasladará dicha solicitud a la oficina gestora para su resolución. La oficina gestora expedirá, en su caso, la autorización para la aplicación de la exención respecto del suministro de energía eléctrica que se considere adecuado a las necesidades de consumo justificadas.
+
+Cuando se produzca un aumento sobrevenido, debidamente justificado, de las necesidades de consumo en función de las cuales se expidió la autorización para la aplicación de la exención, la oficina gestora podrá ampliar dicha autorización en la cuantía correspondiente al referido aumento.
+
+Sin perjuicio de lo anteriormente establecido, la aplicación de las exenciones a que se refieren los números 1 y 2 del artículo 94 de la Ley se efectuará de acuerdo con lo previsto en el Real Decreto 3485/2000, de 29 de diciembre, sobre franquicias y exenciones en régimen diplomático, consular y de organismos internacionales, y de modificación del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre.
+
+2\. En el supuesto de la exención relativa a la electricidad suministrada a las Fuerzas Armadas a que se refieren los números 3 y 10 del citado artículo 94 de la Ley, el procedimiento para la aplicación del beneficio se iniciará con la petición al Ministerio de Defensa de la acreditación del cumplimiento de las condiciones fijadas en los respectivos Convenios internacionales suscritos por España en el ámbito de la OTAN o en las disposiciones aplicables del Derecho de la Unión según proceda en cada caso. Una vez obtenida dicha acreditación, el beneficiario de la exención solicitará su aplicación a la oficina gestora. En esta solicitud, a la que se acompañará la referida acreditación, se indicará la cantidad de energía eléctrica, expresada en kilovatios hora (kWh), que se precisa que sea suministrada al amparo de la exención, de acuerdo con las necesidades previstas. La oficina gestora expedirá, en su caso, la autorización para la aplicación de la exención respecto del suministro de energía eléctrica que se considere adecuado a las necesidades de consumo justificadas.
+
+Cuando se produzca un aumento sobrevenido, debidamente justificado, de las necesidades de consumo en función de las cuales se expidió la autorización para la aplicación de la exención, la oficina gestora podrá ampliar dicha autorización en la cuantía correspondiente al referido aumento.
+
+> Se modifica el apartado 2, párrafo primero por el art. 41.39 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Se añade por el art. 1.35 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253)
+
+###### Artículo 144. Obligación de rectificar los datos del suministro en el disfrute de exenciones.
+
+En los dos primeros meses de cada año natural, los consumidores deberán comunicar a los contribuyentes y a la oficina gestora la cantidad de energía efectivamente consumida durante el año natural anterior que se ha beneficiado, por carecer de los datos exactos en el momento de realizar el suministro, de alguna de las exenciones previstas en la Ley.
+
+Los contribuyentes deberán efectuar la rectificación de las cuotas impositivas repercutidas cuando el importe de las mismas, determinado en función de los datos comunicados, no coincida con el de las cuotas que se hubieran debido repercutir conforme a la energía efectivamente utilizada en las actividades que generan el derecho a la exención.
+
+La rectificación deberá efectuarse por los contribuyentes una vez que les sea comunicada la cantidad definitiva de electricidad con derecho a la exención, y la regularización de la situación tributaria se efectuará en la autoliquidación correspondiente al período en que debe efectuarse dicha rectificación.
+
+> Se añade por el art. 1.35 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253)
+
+###### Artículo 145. Procedimiento para la aplicación de la reducción de la base imponible.
+
+1\. Para la aplicación de la reducción establecida en el artículo 98 de la Ley, los titulares de los establecimientos donde se desarrollen las actividades con derecho a la reducción presentarán a la oficina gestora correspondiente al lugar de ubicación de cada establecimiento una comunicación por cada una de las actividades que cumplen los requisitos para poder gozar de dicho beneficio fiscal.
+
+El Ministro de Hacienda y Función Pública podrá establecer el modelo y demás requisitos para la presentación de la comunicación a que se refiere el párrafo anterior.
+
+Cuando la electricidad suministrada para riegos agrícolas se realice a través de contratos cuyo titular sea una comunidad de regantes o una Confederación Hidrográfica, serán éstas quienes realicen la comunicación para beneficiarse de la reducción. La comunicación se presentará a la oficina gestora donde radique el domicilio fiscal de la comunidad de regantes o de la Confederación Hidrográfica.
+
+En el supuesto de que el establecimiento no disponga de puntos de suministro individualizados por actividades, en la comunicación se deberá indicar el porcentaje de energía eléctrica que en cada suministro va a ser consumida en la actividad que cumple los requisitos para la reducción.
+
+2\. Una vez recibida la comunicación, la oficina gestora expedirá la tarjeta de inscripción en el Registro territorial que deberá ser exhibida al suministrador de la electricidad para que éste pueda efectuar dicho suministro con la correspondiente reducción.
+
+3\. En los dos primeros meses de cada año natural, los beneficiarios de la reducción deberán comunicar a los contribuyentes y a la oficina gestora la cantidad de energía efectivamente consumida o, en su caso, el porcentaje definitivo de la electricidad consumida con derecho a la reducción durante el año natural anterior. Este porcentaje definitivo es el que será tenido en cuenta para los nuevos suministros. Si en el plazo de los dos primeros meses de cada año natural no se comunicaran a la oficina gestora y a los contribuyentes nuevos datos, se considerará que no se ha producido variación alguna respecto de los datos inicialmente comunicados.
+
+Los contribuyentes deberán efectuar la rectificación de las cuotas impositivas repercutidas cuando el importe de las mismas, determinado en función de los datos comunicados, no coincida con el importe de las cuotas que se hubieran debido repercutir conforme a la energía efectivamente utilizada en las actividades que generan el derecho a la reducción.
+
+La rectificación deberá efectuarse por los contribuyentes una vez que les sea comunicado el porcentaje o cantidad definitiva, y la regularización de la situación tributaria se efectuará en la autoliquidación correspondiente al período en que debe efectuarse dicha rectificación.
+
+4\. En los supuestos de rescisión del contrato de suministro de energía eléctrica con un suministrador, durante el mes siguiente a dicha rescisión el consumidor final deberá comunicarle la cantidad de energía efectivamente consumida o, en su caso, el porcentaje definitivo de la electricidad consumida con derecho a la reducción hasta el momento de la rescisión.
+
+Si procede, el suministrador deberá efectuar la rectificación de las cuotas impositivas repercutidas en función de los datos definitivos una vez que estos le sean comunicados. La regularización de la situación tributaria se efectuará en la autoliquidación correspondiente al período en que debe efectuarse dicha rectificación.
+
+5\. Cuando se efectúen suministros directos de electricidad las regularizaciones que correspondiera efectuar, conforme a lo señalado en los apartados anteriores, se realizarán en proporción al importe de las adquisiciones realizadas por los agentes intervinientes en cada tramo horario en función de los datos que proporcione el operador de mercado.
+
+6\. Cuando se dejen de cumplir los requisitos que dan lugar a la aplicación de la reducción o se produzca cualquier otra circunstancia excepcional en virtud de la cual no se pueda aplicar dicho beneficio fiscal, en el plazo de un mes desde el incumplimiento de dichos requisitos o, en su caso, desde la producción de las circunstancias excepcionales, dichos hechos se pondrán en conocimiento de la oficina gestora y del suministrador de la electricidad por cualquier medio del que quede constancia.
+
+A estos efectos, se considera una circunstancia excepcional la que conlleve durante más de tres meses consecutivos un aumento o disminución en más del 10 por ciento en el último porcentaje de consumo comunicado.
+
+> Se modifica el apartado 1 por el art. 3.35 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se añade por el art. 1.35 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253)
+
+###### Artículo 146. Inscripción en el Registro territorial.
+
+1\. Los obligados a solicitar la inscripción en el registro territorial, de acuerdo con lo establecido en el artículo 102.2 de la Ley y, en su caso, las comunidades de regantes, deberán figurar de alta en el Censo de Empresarios, Profesionales y Retenedores en el epígrafe correspondiente a la actividad a desarrollar y quienes pretendan el disfrute de exenciones o de reducciones de la base imponible deberán acreditar que se encuentran al corriente en el cumplimiento de sus obligaciones tributarias.
+
+La inscripción en el Censo de Empresarios, Profesionales y Retenedores no será precisa para aquellas Confederaciones Hidrográficas cuya electricidad suministrada se destine a riegos agrícolas.
+
+2\. El incumplimiento de las normas, limitaciones y condiciones establecidas en la Ley y en este Reglamento dará lugar a la revocación de la inscripción en el Registro territorial. El expediente de revocación será tramitado por la oficina gestora correspondiente al Registro territorial en el que esté inscrito el establecimiento o, en su caso, por el órgano que otorgó la inscripción.
+
+Una vez incoado el expediente de revocación, el Delegado de la Agencia Estatal de Administración Tributaria podrá acordar la baja provisional en el Registro territorial de la oficina gestora, previo informe del órgano proponente.
+
+3\. Cualquier modificación ulterior de los datos consignados en la solicitud o que figuren en la documentación aportada deberá ser comunicada a la oficina gestora.
+
+4\. Una vez efectuada la inscripción, la oficina gestora entregará al interesado una tarjeta acreditativa de la inscripción en el registro, sujeta al modelo aprobado por Resolución de la Agencia Estatal de Administración Tributaria, en la que constará el «Código de Identificación de la Electricidad» (CIE) que deberá consignarse en las autoliquidaciones y demás declaraciones que se debieran presentar por este impuesto.
+
+> Se modifica el apartado 1 por el art. 3.36 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se añade por el art. 1.35 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253)
+
+###### Artículo 147. Liquidación y pago del impuesto.
+
+1\. Los contribuyentes y demás obligados tributarios por este impuesto estarán obligados a presentar las correspondientes autoliquidaciones, así como a efectuar, simultáneamente, el pago de la deuda tributaria.
+
+El Ministro de Hacienda y Función Pública establecerá el procedimiento para la presentación de las autoliquidaciones a que se refiere el párrafo anterior.
+
+Los contribuyentes que no sean comercializadores o distribuidores no estarán obligados a presentar autoliquidaciones en aquellos períodos de liquidación en los que no resulten cuotas a ingresar.
+
+2\. La presentación de la autoliquidación tributaria y, en su caso, el pago simultáneo de la deuda tributaria se efectuará, con carácter general, por cada uno de los establecimientos o, en su caso, lugares de recepción. La oficina gestora podrá autorizar a los contribuyentes la centralización de la presentación de las autoliquidaciones y el ingreso simultáneo de la deuda tributaria mediante la presentación de una única autoliquidación tributaria en una entidad colaboradora autorizada.
+
+3\. El período de liquidación será el correspondiente a cada trimestre natural; salvo que se trate de contribuyentes cuyo período de liquidación en el ámbito del Impuesto sobre el Valor Añadido sería, atendiendo a su volumen de operaciones u otras circunstancias previstas en la normativa de dicho impuesto, mensual, en cuyo caso será también mensual el período de liquidación de este impuesto, o que se trate de un supuesto de los establecidos en el apartado 3 del artículo 96 de la Ley, en cuyo caso será el correspondiente al año natural anterior.
+
+La presentación de la correspondiente autoliquidación se efectuará durante los primeros veinte días naturales siguientes al periodo de liquidación que corresponda.
+
+Los contribuyentes a que se refiere el artículo 96.3 de la Ley deberán presentar la autoliquidación en el plazo de los veinte primeros días naturales del mes de abril.
+
+4\. Los contribuyentes por la energía eléctrica suministrada o consumida deberán presentar una declaración informativa periódica. La declaración informativa periódica se presentará con el contenido, en el lugar, forma, plazos, y modelo que establezca el Ministro de Hacienda y Administraciones Públicas.
+
+> Se modifica el apartado 1 por el art. 3.37 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+> Se añade por el art. 1.35 del Real Decreto 1074/2014, de 19 de diciembre. [Ref. BOE-A-2014-13253](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13253)
+
+###### Artículo 147 bis. Autoliquidaciones rectificativas.
+
+1\. Los contribuyentes deberán rectificar, completar o modificar las autoliquidaciones presentadas por el impuesto especial sobre la electricidad mediante la presentación de una autoliquidación rectificativa, utilizando el modelo de declaración aprobado por la persona titular del Ministerio de Hacienda.
+
+No obstante lo dispuesto en el párrafo anterior, cuando el motivo de la rectificación del obligado tributario sea exclusivamente la alegación razonada de una eventual vulneración por la norma aplicada en la autoliquidación previa de los preceptos de otra norma de rango superior legal, constitucional, de Derecho de la Unión Europea o de un Tratado o Convenio internacional se podrá instar la rectificación a través del procedimiento previsto en el artículo 120.3 de la Ley 58/2003, de 17 de diciembre, General Tributaria, y desarrollado en los artículos 126 a 128 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio. Si este motivo concurriese con otros de distinta naturaleza, por estos últimos el obligado tributario deberá presentar una autoliquidación rectificativa.
+
+Lo establecido en este apartado no se aplicará a las rectificaciones de cuotas indebidamente repercutidas a otros obligados tributarios a las que se refiere el artículo 129 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio.
+
+2\. La autoliquidación rectificativa de una autoliquidación previa se podrá presentar antes de que haya prescrito el derecho de la Administración para determinar la deuda tributaria mediante liquidación o el derecho a solicitar la devolución que, en su caso, proceda. Cuando se presente fuera del plazo de declaración tendrá el carácter de extemporánea.
+
+3\. En la autoliquidación rectificativa constará expresamente esta circunstancia y la obligación tributaria y período a que se refiere, así como la totalidad de los datos que deban ser declarados y otros que puedan establecerse en la Orden Ministerial reguladora del modelo de declaración aprobada por la persona titular del Ministerio de Hacienda, como los motivos de rectificación. A estos efectos, se incorporarán los datos incluidos en la autoliquidación presentada con anterioridad que no sean objeto de modificación, los que sean objeto de modificación y los de nueva inclusión.
+
+4\. La autoliquidación rectificativa podrá rectificar, completar o modificar la autoliquidación presentada con anterioridad. En particular:
+
+a) Cuando de la rectificación efectuada resulte un importe a ingresar superior al de la autoliquidación anterior o una cantidad a devolver inferior a la anteriormente autoliquidada, se aplicará el régimen previsto para las autoliquidaciones complementarias en el artículo 122.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria, y su normativa de desarrollo.
+
+b) En los casos no contemplados en la letra anterior, cuando del cálculo efectuado en la autoliquidación rectificativa resulte una cantidad a devolver, con la presentación de la autoliquidación rectificativa se entenderá solicitada la devolución, que se tramitará conforme al régimen del procedimiento previsto en los artículos 124 a 127 de la Ley 58/2003, de 17 de diciembre, General Tributaria, y su normativa de desarrollo, sin perjuicio de la obligación de abono de intereses de demora conforme a lo establecido en el apartado 3 del artículo 120 de dicha Ley.
+
+El plazo para efectuar la devolución será de seis meses contados desde la finalización del plazo reglamentario para la presentación de la autoliquidación o, si éste hubiese concluido, desde la presentación de la autoliquidación rectificativa.
+
+Si con la presentación de la autoliquidación previa se hubiera solicitado una devolución y ésta no se hubiera efectuado al tiempo de presentar la autoliquidación rectificativa, con la presentación de esta última se considerará finalizado el procedimiento iniciado mediante la presentación de la autoliquidación previa.
+
+c) Cuando de la rectificación efectuada resulte una minoración del importe a ingresar de la autoliquidación previa y no proceda una cantidad a devolver, se mantendrá la obligación de pago hasta el límite del importe a ingresar resultante de la autoliquidación rectificativa.
+
+Si la deuda resultante de la autoliquidación previa estuviera aplazada o fraccionada, con la presentación de la autoliquidación rectificativa se entenderá solicitada la modificación en las condiciones del aplazamiento o fraccionamiento conforme a lo previsto en el segundo párrafo del apartado 3 del artículo 52 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio.
+
+5\. La autoliquidación rectificativa no producirá efectos respecto a aquellos elementos que hayan sido regularizados mediante liquidación definitiva o provisional en los términos a que se refieren los apartados 2 y 3 del artículo 126 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, respectivamente.
+
+> Téngase en cuenta que este artículo, añadido por la disposición final 6.3 del Real Decreto 117/2024, de 30 de enero, [Ref. BOE-A-2024-1771](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1771), entra en vigor cuando lo haga la orden ministerial aprobada por la persona titular del Ministerio de Hacienda por la que se aprueben los correspondientes modelos de declaración, según establece su disposición final 11.d).
+
+> Se añade por la disposición final 6.3 del Real Decreto 117/2024, de 30 de enero. [Ref. BOE-A-2024-1771](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1771)
+
+> Téngase en cuenta que este artículo entra en vigor cuando lo haga la orden ministerial aprobada por la persona titular del Ministerio de Hacienda por la que se aprueben los correspondientes modelos de declaración, según establece la disposición final 11.d) del citado Real Decreto.
+
+###### Disposición adicional primera. Referencias a determinados órganos administrativos.
+
+Las referencias al centro gestor contenidas en el Reglamento de los Impuestos Especiales y en su normativa de desarrollo, se entenderán hechas a la oficina gestora definida en el apartado 9 del artículo 1 del Reglamento de los Impuestos Especiales.
+
+> Se añade por el art. único.82 del Real Decreto 1715/2012, de 28 de diciembre. [Ref. BOE-A-2012-15700](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15700).
+
+###### Disposición transitoria primera. Plazo de inscripción en el registro territorial para determinados consumidores finales de gasóleo.
+
+Los consumidores finales del gasóleo al que le resulte de aplicación el tipo reducido del epígrafe 1.16 del artículo 50 de la Ley deberán inscribirse en el registro territorial de la oficina gestora correspondiente al lugar en el que dicho gasóleo vaya a ser utilizado en la producción de energía eléctrica o en la cogeneración de energía eléctrica y de calor, en el plazo de los tres primeros meses del año 2018.
+
+> Se añade por el art. 3.38 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+###### Disposición transitoria segunda. Plazo de inscripción en el registro territorial para los establecimientos en los que se lleve a cabo la primera transformación del tabaco crudo.
+
+Los establecimientos en los que se lleve a cabo la primera transformación del tabaco crudo deberán inscribirse en el registro territorial de la oficina gestora en cuya demarcación se instalen durante el primer mes del ejercicio 2018.
+
+> Se añade por el art. 3.39 del Real Decreto 1075/2017, de 29 de diciembre. [Ref. BOE-A-2017-15843](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15843)
+
+###### Disposición transitoria tercera. Régimen transitorio para cigarrillos y picadura para liar.
+
+Los cigarrillos y la picadura para liar fabricados o importados en la Unión Europea con anterioridad al 20 de mayo de 2019 cuyos envases no lleven adheridas las marcas fiscales que incorporan las medidas de seguridad previstas en el artículo 16 de la Directiva 2014/40/UE del Parlamento Europeo y del Consejo, de 3 de abril de 2014, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros en materia de fabricación, presentación y venta de los productos del tabaco y los productos relacionados y por la que se deroga la Directiva 2001/37/CE, podrán seguir en circulación hasta el 20 de mayo de 2020.
+
+> Se añade por el art. 4.36 del Real Decreto 1512/2018, de 28 de diciembre. [Ref. BOE-A-2018-17995](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17995)
+
+###### Disposición transitoria cuarta. Recepción de productos mediante el sistema de envíos garantizados.
+
+Hasta el 31 de diciembre de 2023 se permitirá la recepción de productos sujetos a impuestos especiales con arreglo a los trámites establecidos en los artículos 33, 34 y 35 de la Directiva 2008/118/CE del Consejo, de 16 de diciembre de 2008, relativa al régimen general de los impuestos especiales, y por la que se deroga la Directiva 92/12/CEE.
+
+> Se añade por el art. 41.40 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+###### Disposición transitoria quinta. Régimen transitorio para labores del tabaco distintas de los cigarrillos o de la picadura para liar.
+
+Las labores del tabaco, distintas de los cigarrillos o de la picadura para liar, fabricados o importados en la Unión Europea con anterioridad al 20 de mayo de 2024 cuyos envases no lleven adheridas las marcas fiscales que incorporan las medidas de seguridad previstas en el artículo 16 de la Directiva 2014/40/UE del Parlamento Europeo y del Consejo, de 3 de abril de 2014, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros en materia de fabricación, presentación y venta de los productos del tabaco y los productos relacionados y por la que se deroga la Directiva 2001/37/CE, podrán seguir en circulación hasta el 20 de mayo de 2026.
+
+> Téngase en cuenta que esta disposición, añadida por el art. 2.6 del Real Decreto 1171/2023, de 27 de diciembre, [Ref. BOE-A-2023-26454](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26454), entra en vigor el 20 de mayo de 2024, según establece la disposición final 4 del citado Real Decreto.
+
+> Se añade por el art. 2.6 del Real Decreto 1171/2023, de 27 de diciembre. [Ref. BOE-A-2023-26454](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26454)
+
+> Esta disposición entra en vigor el 20 de mayo de 2024, según establece la disposición final 4 del citado Real Decreto.

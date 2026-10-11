@@ -1,0 +1,1489 @@
+---
+title: "Real Decreto 2611/1996, de 20 de diciembre, por el que se regulan los programas nacionales de erradicación de enfermedades de los animales"
+identifier: "BOE-A-1996-28539"
+eli: "https://www.boe.es/eli/es/rd/1996/12/20/2611"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1996-12-20
+published: 1996-12-21
+in_force_from: 1996-12-22
+last_amended: 2026-09-30
+consolidated: 2026-10-01
+gazette: "Boletín Oficial del Estado núm. 307"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-28539"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2611/1996, de 20 de diciembre, por el que se regulan los programas nacionales de erradicación de enfermedades de los animales
+
+Incluye la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+La Ley de 20 de diciembre de 1952 sobre Epizootias tiene como orientación y finalidad implantar un sistema de lucha antiepizoótica que permita la conservación y fomento de la cabaña nacional, inspirándose en el progreso científico logrado en la profilaxis y técnicas de lucha contra las enfermedades del ganado y articulándose, especialmente, a través de las campañas de saneamiento ganadero.
+
+Dichas campañas se confirmaron desde el principio como el instrumento idóneo para llevar a cabo los trabajos de saneamiento de la ganadería, imponiendo tratamientos sanitarios obligatorios, profilácticos o curativos, para combatir, con carácter periódico u ocasional, focos de enfermedades infecciosas o parasitarias que pudieran afectar a los animales.
+
+La Unión Europea, en el marco de la Política Agrícola Común, establece como mecanismo esencial para lograr la conservación y fomento de la cabaña de los Estados miembros los programas de erradicación de enfermedades animales, que serán elaborados y presentados por los distintos Estados, aprobados por la Comisión de la Unión Europea y cofinanciados por los fondos comunitarios.
+
+El Reglamento de 4 de febrero de 1955 de Epizootias y sucesivas Ordenes ministeriales desarrollaron normas y medidas complementarias para la ejecución de las campañas de saneamiento y de diversos programas de erradicación. Esta pluralidad de normas sirvieron para ampliar el desarrollo de estas campañas y generalizar su apoyo por parte del sector productor, a la vez que adecuaban la normativa a los criterios que la Comunidad Europea establecía respecto a programas nacionales para la erradicación de determinadas enfermedades animales.
+
+La importancia de los programas de erradicación de enfermedades animales en el saneamiento de la cabaña nacional y la necesidad de dotarles de mayor eficacia en su aplicación y desarrollo hacen necesaria la promulgación de este Real Decreto. Con él se pretende establecer las bases para la planificación, coordinación, seguimiento y evaluación de dichos programas, recogiendo en una única disposición las distintas normas sobre esta materia, de acuerdo con las directrices establecidas en la Decisión 90/638/CEE, de 27 de noviembre, por la que se establecen los criterios comunitarios aplicables a las medidas de erradicación y vigilancia de determinadas enfermedades de los animales.
+
+Una de las medidas esenciales de este Real Decreto es la creación de un Comité Nacional de Cooperación y Seguimiento de los Programas Nacionales de Erradicación de Enfermedades Animales, con la representación de las Comunidades Autónomas competentes para la ejecución de los mismos, en su caso.
+
+En la elaboración del presente Real Decreto han sido consultadas las Comunidades Autónomas y los sectores afectados.
+
+El presente Real Decreto se dicta de acuerdo con lo dispuesto en el artículo 149.1.16.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación general de la sanidad.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Pesca y Alimentación, previa aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 20 de diciembre de 1996,
+
+D I S P O N G O :
+
+## TÍTULO I — Disposiciones generales
+
+##### Artículo 1. Objeto.
+
+El presente Real Decreto establece las normas para la elaboración, planificación, coordinación, seguimiento y evaluación de los programas nacionales de erradicación de enfermedades de los animales que serán de obligado cumplimiento en todo el territorio del Estado.
+
+##### Artículo 2. Ámbito de aplicación.
+
+Se someterán a programas nacionales de erradicación de las enfermedades de los animales las siguientes enfermedades: La brucelosis bovina, la tuberculosis bovina, la leucosis enzoótica bovina, la perineumonía contagiosa bovina y la brucelosis ovina y caprina por «brucella melitensis».
+
+Asimismo, se podrán establecer programas nacionales de erradicación para cualquier otra enfermedad infecciosa o parasitaria que determine el Comité Nacional de Cooperación y Seguimiento de los Programas Nacionales de Erradicación de las Enfermedades de los Animales, regulado en el título II de este Real Decreto.
+
+##### Artículo 3. Definiciones.
+
+A efectos de lo dispuesto en este real decreto, se entenderá por:
+
+A) En lo que se refiere a la brucelosis en los bovinos:
+
+a) Explotaciones bovinas del tipo B<sub>1</sub>: las explotaciones en las que se desconocen los antecedentes clínicos y la situación en cuanto a la vacunación y a los controles serológicos en los dos últimos años.
+
+b) Explotaciones bovinas del tipo B<sub>2</sub>: las explotaciones en las que se conocen los antecedentes clínicos, la situación en cuanto a la vacunación y a los controles serológicos, y en las que se efectúan pruebas de control de rutina para hacer pasar a dichas ganaderías a los tipos B<sub>3</sub> y B<sub>4</sub>.
+
+Se considerará explotación bovina del tipo B<sub>2</sub> negativa aquella que, sin haber alcanzado aún la calificación de indemne u oficialmente indemne de brucelosis bovina, todo el censo de la explotación, susceptible por su edad de ser examinado, haya superado, con resultado favorable, al menos una de las baterías de pruebas de diagnóstico previstas en el Real Decreto 1716/2000.
+
+Se considerará explotación bovina del tipo B<sub>2</sub> positiva aquella que, sin haber alcanzado aún la calificación de indemne u oficialmente indemne de brucelosis bovina, al menos un animal, susceptible por su edad de ser examinado, no haya sido sometido a la totalidad de las baterías de pruebas de diagnóstico previstas en el Real Decreto 1716/2000, o no las haya superado con resultado favorable.
+
+c) Explotaciones bovinas del tipo B<sub>3</sub>: las explotaciones indemnes de brucelosis según lo establecido en el Real Decreto 1716/2000.
+
+d) Explotaciones bovinas del tipo B<sub>4</sub>: las explotaciones oficialmente indemnes de brucelosis, según lo establecido en el Real Decreto 1716/2000.
+
+e) Explotaciones bovinas del tipo B<sub>S</sub>: las explotaciones de tipo B<sub>3</sub> o B<sub>4</sub> a las que se les ha suspendido la calificación sanitaria, de conformidad con lo dispuesto en el Real Decreto 1716/2000.
+
+f) Explotaciones bovinas del tipo B<sub>R</sub>: las explotaciones de tipo B<sub>3</sub> o B<sub>4</sub> a las que se les ha retirado la calificación sanitaria, de conformidad con lo dispuesto en el Real Decreto 1716/2000.
+
+B) En lo que se refiere a tuberculosis bovina:
+
+a) Explotaciones bovinas del tipo T<sub>1</sub>: las explotaciones en las que se desconocen los antecedentes clínicos y la situación en cuanto a la reacción a la tuberculina, en los dos últimos años.
+
+b) Explotaciones bovinas del tipo T<sub>2</sub>: las explotaciones en las que se conocen los antecedentes clínicos, la situación en cuanto a la reacción de la tuberculina y en las que se efectúan pruebas de control de rutina para hacer pasar a dichas explotaciones al tipo T<sub>3</sub>.
+
+Se considerará explotación bovina del tipo T<sub>2</sub> negativa aquella que, sin haber alcanzado aún la calificación de oficialmente indemne de tuberculosis bovina, todo el censo de la explotación, susceptible por su edad de ser examinado, haya superado, con resultado favorable, al menos una de las pruebas de diagnóstico previstas en el Real Decreto 1716/2000.
+
+Se considerará explotación bovina del tipo T<sub>2</sub> positiva aquella que, sin haber alcanzado aún la calificación de oficialmente indemne de tuberculosis bovina, al menos un animal, susceptible por su edad de ser examinado, no haya sido sometido a la totalidad de las pruebas de diagnóstico previstas en el Real Decreto 1716/2000, o no las haya superado con resultado favorable.
+
+c) Explotaciones bovinas del tipo T<sub>3</sub>: las explotaciones oficialmente indemnes de tuberculosis, según lo establecido en el Real Decreto 1716/2000.
+
+d) Explotaciones bovinas del tipo T<sub>S</sub>: las explotaciones de tipo T<sub>3</sub> a las que se les ha suspendido la calificación sanitaria, de conformidad con lo dispuesto en el Real Decreto 1716/2000.
+
+e) Explotaciones bovinas del tipo T<sub>R</sub>: las explotaciones de tipo T<sub>3</sub> a las que se les ha retirado la calificación sanitaria, de conformidad con lo dispuesto en el Real Decreto 1716/2000.
+
+C) En lo que se refiere a brucelosis ovina y caprina por brucella melitensis:
+
+a) Explotaciones ovinas y caprinas del tipo M<sub>1</sub>: las explotaciones en las que se desconocen los antecedentes clínicos y la situación en cuanto a la vacunación y a los controles serológicos, en los dos últimos años.
+
+b) Explotaciones ovinas y caprinas del tipo M<sub>2</sub>: las explotaciones en las que se conocen los antecedentes clínicos, la situación en cuanto a la vacunación y a los controles serológicos, y en las que se efectúan pruebas de control de rutina para hacer pasar a dichas ganaderías a los tipos M<sub>3</sub> y M<sub>4</sub>.
+
+Se considerarán explotaciones ovinas y caprinas del tipo M<sub>2</sub> negativa aquellas que, sin haber alcanzado aún la calificación de indemne u oficialmente indemne de brucelosis, todo el censo de la explotación, susceptible por su edad de ser examinado, haya superado, con resultado favorable, al menos una de las pruebas de diagnóstico previstas en el Real Decreto 2121/1993.
+
+Se considerarán explotaciones ovinas y caprinas del tipo M<sub>2</sub> positiva aquellas que, sin haber alcanzado aún la calificación de indemne u oficialmente indemne de brucelosis, al menos un animal, susceptible por su edad de ser examinado, no haya sido sometido a la totalidad de las pruebas de diagnóstico previstas en el Real Decreto 2121/1993, o no las haya superado con resultado favorable.
+
+c) Explotaciones ovinas y caprinas del tipo M<sub>3</sub>: las explotaciones indemnes de brucelosis según lo establecido en el Real Decreto 2121/1993, de 3 de diciembre.
+
+d) Explotaciones ovinas y caprinas del tipo M<sub>4</sub>: las explotaciones oficialmente indemnes de brucelosis, según lo establecido en el Real Decreto 2121/1993, de 3 de diciembre.
+
+e) Explotaciones ovinas y caprinas del tipo M<sub>S</sub>: las explotaciones de tipo M<sub>3</sub> o M<sub>4</sub> a las que se les ha suspendido la calificación sanitaria, de conformidad con lo dispuesto en el Real Decreto 1716/2000.
+
+f) Explotaciones ovinas y caprinas del tipo M<sub>R</sub>: las explotaciones de tipo M<sub>3</sub> o M<sub>4</sub> a las que se les ha retirado la calificación sanitaria, de conformidad con lo dispuesto en el Real Decreto 1716/2000.
+
+D) Animal sospechoso: todo bovino que presente síntomas que permitan sospechar la presencia de brucelosis, tuberculosis, leucosis enzoótica o perineumonía contagiosa, y todo ovino y caprino que presente síntomas que permitan sospechar la existencia de brucelosis por brucella melitensis, y respecto de los cuales no se ha confirmado oficialmente un diagnóstico apropiado, o no se ha confirmado oficialmente la existencia de una o más de estas enfermedades, o bien por otras razones de carácter epidemiológico, a juicio de la autoridad competente, no se puede descartar la presencia de cualquiera de las citadas enfermedades.
+
+E) Autoridades competentes: La Dirección General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación será la autoridad competente en materia de elaboración, planificación y coordinación de los programas nacionales de erradicación de enfermedades de los animales e informará a la Comisión de la Unión Europea de la incidencia y evolución de estas enfermedades, según se establece en la normativa comunitaria.
+
+Los órganos competentes de las comunidades autónomas serán los responsables de la ejecución y desarrollo de dichos programas en el ámbito de sus respectivos territorios.
+
+F) Medios de transportes: los vehículos automóviles, los vehículos que circulen por raíles, las aeronaves, así como las bodegas de los barcos o contenedores para el transporte de animales vivos por tierra, mar o aire.
+
+G) Explotación de cebo o cebadero: aquella que está dedicada al engorde de animales de la especie bovina, o de las especies ovina o caprina, y cuyo destino directo posterior sólo puede ser otra u otras explotaciones de cebo o centros de concentración o un matadero, siempre que la explotación de cebo de origen esté calificada, o exclusiva y directamente el matadero, si no está calificada.
+
+Serán explotaciones de cebo calificadas aquellas de ganado bovino con estatuto de oficialmente indemnes de brucelosis bovina, oficialmente indemnes de tuberculosis bovina y oficialmente indemnes de leucosis enzoótica bovina, o de ganado ovino o caprino indemnes u oficialmente indemnes de brucelosis, de acuerdo con lo previsto en el anexo 6.
+
+En las mismas instalaciones de la misma explotación de cebo no podrán mezclarse animales de la especie bovina con animales de las especies ovina y/o caprina.
+
+H)**(Suprimida)**
+
+I) Explotación bovina de reproducción: aquella que dispone de hembras reproductoras, destinadas a la producción de leche o de terneros para ser vendidos al destete, o ser cebados. Sólo se abastecerán de explotaciones de reproducción o de recría de novillas. Las explotaciones de reproducción podrán tener las siguientes orientaciones:
+
+a) Explotación para producción de leche: la que tiene por objeto la producción y, en su caso, comercialización de leche o productos lácteos, y en las que se somete a las vacas a ordeño con tal finalidad.
+
+b) Explotación para producción de carne: la que tiene por objeto la producción de terneros destinados a la producción de carne, de manera que las vacas no son sometidas a ordeño con la finalidad de comercializar leche o productos lácteos.
+
+c) Explotación mixta: la que reúne varias orientaciones productivas.
+
+J) Explotación bovina de recría de novillas: la dedicada a la cría de bovinos hembra, que serán destinados posteriormente sólo a la reproducción en una explotación bovina de reproducción.
+
+> Se modifica la letra G) y se suprime la H) por el art. único.1 del Real Decreto 727/2011, de 20 de mayo. [Ref. BOE-A-2011-10458](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10458).
+
+> Se modifican las letras G), H) e I) por el art. único.1 del Real Decreto 51/2004, de 19 de enero. [Ref. BOE-A-2004-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1071)
+
+> Se modifica por el art. único.1 del Real Decreto 1047/2003, de 1 de agosto. [Ref. BOE-A-2003-17233](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-17233)
+
+> Redactados los apartados 1.C.b), e) y f) conforme a la corrección de errores publicada en BOE núm. 311, de 29 de diciembre de 2003. [Ref. BOE-A-2003-23755](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23755)
+
+##### Artículo 4. Criterios de elaboración de los programas.
+
+Los programas nacionales de erradicación de las enfermedades contempladas en el ámbito de aplicación de este Real Decreto, deberán ajustarse a los criterios establecidos en el Decisión 90/638/CEE, del Consejo, de 27 de noviembre, por la que se establecen los criterios comunitarios aplicables a las medidas de erradicación y vigilancia de determinadas enfermedades de los animales.
+
+##### Artículo 5. Deber de información.
+
+1\. Todas las autoridades competentes deberán emplear la infraestructura, el material y el personal necesario para la coordinación y ejecución de los programas nacionales de erradicación de las enfermedades de los animales.
+
+2\. Los órganos competentes de las Comunidades Autónomas deberán comunicar a la Subdirección General de Sanidad Animal de la Dirección General de Sanidad de la Producción Agraria las previsiones necesarias para la elaboración de los programas nacionales de erradicación, así como los resultados de su aplicación.
+
+3\. Los ganaderos o personas que tengan a su cargo los animales, a requerimiento de los órganos competentes de las Comunidades Autónomas, deberán facilitar toda clase de información sobre el estado sanitario de los animales, así como consentir y prestar la colaboración necesaria para la ejecución de los programas nacionales de erradicación contemplados en este Real Decreto.
+
+Asimismo, los ganaderos o personas que tengan a su cargo los animales, comunicarán a los órganos competentes de las Comunidades Autónomas la sospecha de la existencia en los animales de alguna de las enfermedades contempladas en el ámbito de aplicación del presente Real Decreto.
+
+## TÍTULO II — El Comité Nacional de Cooperación y Seguimiento de los Programas Nacionales de Erradicación de Enfermedades de los Animales
+
+##### Artículos 6 a 8.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única del Real Decreto 1440/2001, de 21 de diciembre. [Ref. BOE-A-2002-799](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-799)
+
+> Téngase en cuenta para su aplicación la disposición transitoria única.
+
+## TÍTULO III — Ejecución de los programas nacionales de erradicación de enfermedades de los animales
+
+### CAPÍTULO I — Disposiciones relativas al diagnóstico
+
+##### Artículo 9. Laboratorios autorizados.
+
+1\. Los laboratorios oficiales en materia de sanidad animal de las Comunidades Autónomas y los laboratorios autorizados, a tal efecto, por los órganos competentes de dichas Comunidades, son los únicos que realizarán el diagnóstico laboratorial, mediante la utilización de técnicas analíticas oficialmente aprobadas, de las muestras destinadas al diagnóstico de las enfermedades contempladas en el ámbito de aplicación de este Real Decreto, y que hayan sido obtenidas en dichas Comunidades Autónomas. Los citados órganos competentes remitirán a la Subdirección General de Sanidad Animal la lista de los laboratorios oficiales y autorizados.
+
+2\. Los laboratorios nacionales de referencia en el ámbito de aplicación de este real decreto son los previstos en la Orden por la que se designan los laboratorios nacionales de referencia en materia agroalimentaria y de sanidad de la producción primaria.
+
+3\. Los resultados analíticos de las muestras recibidas en los laboratorios contemplados en los apartados 1 y 2 del presente artículo, deberán comunicarse exclusivamente a los órganos competentes de las Comunidades Autónomas para que por los mismos se adopten las medidas legales previstas en su caso.
+
+4\. Los laboratorios que exclusivamente con fines docentes o de investigación, manipulen los agentes causales de las enfermedades contempladas en el ámbito de aplicación de este Real Decreto, deberán informar regularmente del resultado de sus actividades a los órganos competentes de las Comunidades Autónomas, quienes a su vez remitirán dicha información a la Subdirección General de Sanidad Animal.
+
+> Se modifica el apartado 2 por la disposición final 1.2 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+##### Artículo 10. Métodos de diagnóstico.
+
+El diagnóstico de la brucelosis bovina, la tuberculosis bovina, leucosis enzoótica bovina, perineumonía contagiosa bovina y brucelosis ovina y caprina por «brucella melitensis», se realizará siguiendo lo dispuesto en los anexos 1, 2, 3, 4 y 5, respectivamente, del presente Real Decreto.
+
+##### Artículo 11. Prohibición de tratamientos y control de antígenos de diagnóstico.
+
+1\. Queda prohibido todo tratamiento terapéutico, desensibilizante o aquellas prácticas que pudieran alterar o interferir en el diagnóstico de las enfermedades contempladas en el ámbito de aplicación de este Real Decreto.
+
+2\. El control de la distribución de los antígenos utilizados para el diagnóstico de las enfermedades contempladas en el ámbito de aplicación del presente Real Decreto, se realizará exclusivamente y con carácter gratuito por los órganos competentes de las Comunidades Autónomas.
+
+Queda prohibida la comercialización y venta de estos productos, así como su tenencia, con excepción de las entidades elaboradoras y los laboratorios contemplados en el artículo 9 del presente Real Decreto.
+
+La utilización de estos antígenos queda reservada exclusivamente a los laboratorios citados en el párrafo anterior.
+
+3\. Los lotes de antígenos y reactivos específicos de diagnóstico utilizados para la ejecución de estos programas, deberán ser previamente contrastados por el laboratorio nacional de referencia correspondiente a cada enfermedad.
+
+> Se sustituye la referencia a "centro nacional de referencia" por "laboratorio nacional de referencia" por la disposición final 1.1 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+### CAPÍTULO II — Disposiciones generales sobre el desarrollo de los programas nacionales de erradicación
+
+##### Artículo 12. Notificación obligatoria.
+
+La sospecha y la confirmación de las enfermedades contempladas en el ámbito de aplicación del presente Real Decreto deberán ser obligatoriamente notificadas a través del cauce correspondiente.
+
+##### Artículo 13. Identificación.
+
+1\. Se establece como obligatoria la identificación individual de los animales que se sometan a los programas nacionales de erradicación de enfermedades de los animales, sin perjuicio de lo establecido en la legislación aplicable.
+
+2\. Los animales reaccionantes positivos a cualquiera de las enfermedades contempladas en el artículo 2 del presente Real Decreto, serán marcados obligatoriamente bajo control de los órganos competentes de las Comunidades Autónomas, con una marca oficialmente aprobada en forma de «T» en la oreja.
+
+##### Artículo 14. Vacunación.
+
+1\. Queda prohibida la vacunación contra la leucosis enzoótica bovina, la perineumonía contagiosa bovina, la brucelosis bovina y la tuberculosis.
+
+2\. Serán objeto de vacunación obligatoria contra la brucelosis por brucella melitensis los ovinos y caprinos comprendidos entre los tres y seis meses de edad. Para esta inmunización se utilizará la vacuna Rev-1 en concentraciones comprendidas entre 1 y 2 por 10<sub>9</sub> U.F.C., u otra vacuna oficialmente aprobada.
+
+Los animales de explotaciones calificadas oficialmente indemnes de brucelosis o indemnes de brucelosis que tiendan a la consecución de la calificación de oficialmente indemnes quedan excluidos de la obligatoriedad de la vacunación.
+
+3\. No obstante lo anterior, podrán establecerse las siguientes excepciones:
+
+a) En relación con lo dispuesto en el apartado 1 en lo referente a la brucelosis bovina, cuando la situación epidemiológica de la enfermedad valorada en cada región así lo aconseje, se podrá autorizar la vacunación de hembras de edad comprendida entre tres y seis meses, en determinadas áreas o explotaciones, con la vacuna B-19 u otra vacuna oficialmente aprobada y autorizada a tal efecto.
+
+b) Se podrá eximir de la obligatoriedad de vacunación establecida en el apartado 2 de este mismo artículo, cuando la prevalencia anual en rebaños alcance unos niveles tales que así lo aconsejen.
+
+c) En las áreas con alta incidencia de brucelosis en la especie humana, o en áreas o explotaciones aisladas donde exista alto riesgo de transmisión del agente etiológico, podrá realizarse una vacunación de emergencia en todos los animales de la especie ovina y caprina situados en aquéllas, como medida excepcional.
+
+En todos estos casos, los órganos competentes de las comunidades autónomas que deseen acogerse a estas excepciones lo someterán a la aprobación del Comité Nacional del Sistema de Alerta Sanitaria Veterinaria regulado en la Ley 8/2003, de 24 de abril, de sanidad animal.
+
+4\. Las condiciones para la vacunación de los ovinos y caprinos entre tres y seis meses, contra la brucelosis por brucella melitensis, y para la vacunación contra la brucelosis bovina de hembras entre tres y seis meses, previstas respectivamente, en el apartado 2 y en el párrafo a) del apartado 3, serán, sin perjuicio de las derivadas, en su caso, de la autorización de comercialización de la vacuna de que se trate, las siguientes:
+
+a) El almacenamiento, suministro, distribución y entrega de las vacunas se realizará exclusivamente bajo control de los órganos competentes de las comunidades autónomas.
+
+b) La distribución de las vacunas antibrucelares se realizará exclusivamente y con carácter gratuito por los órganos competentes de las comunidades autónomas, de lotes oficialmente contrastados por el Laboratorio Nacional de Referencia para la brucelosis en animales, y queda prohibida fuera de los laboratorios fabricantes su tenencia, comercialización y venta.
+
+c) Todos los lotes de vacunas antibrucelares producidas por entidades situadas en el territorio español deberán estar contrastadas por el Laboratorio Nacional de Referencia para brucelosis en animales. Si tras la contrastación de dichos lotes de vacunas el dictamen fuera no apto, se procederá a su destrucción bajo supervisión oficial.
+
+d) Los animales vacunados deberán ser marcados de forma que en todo momento se disponga, como mínimo, de su identificación y de la fecha de vacunación.
+
+> Se sustituyen las referencias a "centro nacional de referencia" por "laboratorio nacional de referencia" por la disposición final 1.1 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+> Se modifica por el art. único.2 del Real Decreto 1047/2003, de 1 de agosto. [Ref. BOE-A-2003-17233](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-17233)
+
+### CAPÍTULO III — Sacrificio e indemnización
+
+##### Artículo 15. Sacrificio.
+
+1\. Todos los animales reaccionantes positivos serán sacrificados en los plazos que determinen las disposiciones especiales establecidas para cada enfermedad.
+
+2\. El sacrificio de los reaccionantes positivos podrá realizarse:
+
+a) En mataderos autorizados para tal fin,
+
+b) En la propia explotación,
+
+c) En lugares expresamente autorizados para ello,
+
+En la opción del párrafo a), después del sacrificio se deberá proceder a la utilización de las carnes para el consumo humano, siempre de acuerdo con lo dispuesto en el Real Decreto 147/1993, de 29 de enero.
+
+En las opciones contempladas en los párrafos b) y c) de este apartado, después del sacrificio se deberá proceder al: Enterramiento, destrucción higiénica de los cadáveres, o traslado a centros de eliminación y transformación de animales muertos y desperdicios de origen animal, regulados en el Real Decreto 2224/1993, de 17 de diciembre.
+
+Los órganos competentes de las Comunidades Autónomas determinarán los lugares donde podrá procederse al sacrificio de los animales contaminados, así como el procedimiento a utilizar en cada caso.
+
+##### Artículo 16. Sacrificio en mataderos.
+
+1\. Los mataderos interesados en el sacrificio de estos animales lo deberán solicitar a los órganos competentes de la Comunidad Autónoma donde se hallen ubicados.
+
+Los órganos competentes de las Comunidades Autónomas enviarán a la Dirección General de Sanidad de la Producción Agraria una relación de los mataderos autorizados para sacrificar animales reaccionantes positivos procedentes de los programas nacionales de erradicación de enfermedades de los animales, la cual confeccionará una lista de los mismos, que será comunicada para su conocimiento general a todas las Comunidades Autónomas.
+
+2\. El traslado de los animales a los mataderos autorizados deberá ir amparado por un documento sanitario específico, cumplimentado por el órgano competente de la Comunidad Autónoma donde esté ubicada la explotación.
+
+En el caso del ganado bovino, el documento de traslado será individual, y en el caso del ganado ovino y caprino, será único para cada expedición de una misma explotación. En ambos casos, en dicho documento se harán constar todos los datos necesarios para la identificación del animal, el ganadero y el transportista.
+
+3\. Los servicios veterinarios oficiales de los mataderos comprobarán, previo al sacrificio, que los documentos que amparan a los animales y su identificación son correctos. En el supuesto de observación de anomalías, se procederá a la inmovilización cautelar de los animales, comunicándolo inmediatamente a los órganos competentes de la Comunidad Autónoma donde esté ubicado el matadero, quien, a su vez, en su caso, lo comunicará al órgano competente de la Comunidad Autónoma de donde procedan los animales.
+
+4\. Una vez sacrificados los animales, los servicios veterinarios oficiales de los mataderos recogerán los crotales de identificación custodiándolos durante, al menos, quince días, y se asegurarán de su posterior destrucción.
+
+5\. Los servicios veterinarios oficiales de los mataderos cumplimentarán la parte correspondiente del documento sanitario contemplado en el apartado 2, en un plazo no superior a cinco días para su remisión por correo a los órganos competentes de las Comunidades Autónomas en materia de Sanidad Animal.
+
+6\. Los servicios veterinarios oficiales de los mataderos controlarán que los vehículos automóviles que transportan animales procedentes de planes nacionales de erradicación sean correctamente limpiados y desinfectados, en las instalaciones previstas para tal fin en los mataderos por el Real Decreto 147/1993, de 29 de enero.
+
+7\. Los órganos competentes de las Comunidades Autónomas comprobarán que los animales que entran en los mataderos autorizados procedentes de los programas nacionales de erradicación de enfermedades de los animales se corresponden con la documentación que les ampara.
+
+> Redactados los apartados 1 y 5 conforme a la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+##### Artículo 17. Indemnización por sacrificio.
+
+1\. Los ganaderos que como resultado de las actuaciones llevadas a cabo en cumplimiento de lo dispuesto en el presente Real Decreto hayan tenido que sacrificar sus animales, tendrán derecho a percibir una indemnización por cada uno de ellos de acuerdo con el baremo establecido al efecto que se encuentre en vigor en el momento del sacrificio.
+
+2\. Se perderá el derecho a la indemnización por sacrificio de animales reaccionantes positivos en el marco de la ejecución de los programas nacionales de erradicación contemplados en el ámbito de aplicación del presente Real Decreto cuando, previa audiencia del interesado, se compruebe la concurrencia de alguna de las siguientes circunstancias:
+
+a) Cuando aparezcan en los establos reses bovinas, ovinas y caprinas sin identificar, no existiendo causa justificada para ello.
+
+b) Existencia de muestras de manipulación en la documentación sanitaria o marcas de identificación.
+
+c) Cuando exista evidencia de cualquier manipulación que pueda alterar la fiabilidad de los resultados en las pruebas prácticas o laboratoriales.
+
+d) Si se han vendido o adquirido animales quebrantando las medidas cautelares de inmovilización adoptadas.
+
+e) Cuando se haya incorporado a la explotación algún animal sin las garantías sanitarias dispuestas en el presente Real Decreto, se desconozca su origen o carezca de acreditación sanitaria suficiente.
+
+f) Cuando el sacrificio se lleve a cabo en mataderos no autorizados.
+
+g) La omisión del sacrificio de animales reaccionantes positivos pasado el plazo de treinta días, a partir de la notificación de la positividad.
+
+h) La deficiente higiene y desinfección del establo, así como el no seguimiento de las normas que en cada caso se establezcan.
+
+3\. En estas circunstancias, la pérdida de indemnización comprenderá todos los animales de la explotación que hayan dado positivo a las pruebas de los programas nacionales de erradicación.
+
+4\. Cuando a petición de parte se realicen pruebas de control en animales procedentes de explotaciones de cebo o cebaderos con destino a sacrificio, y como resultado de ello se diagnostiquen animales con resultados desfavorables, será obligatorio su sacrificio aunque no serán indemnizados por ello.
+
+> Se modifica el apartado 4 por el art. único.2 del Real Decreto 727/2011, de 20 de mayo. [Ref. BOE-A-2011-10458](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10458).
+
+> Se modifica el apartado 4 por el art. único.2 del Real Decreto 51/2004, de 19 de enero. [Ref. BOE-A-2004-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1071)
+
+> Redactado el apartado 2.a) conforme a la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+## TÍTULO IV — Disposiciones especiales relativas a determinadas enfermedades
+
+### CAPÍTULO I — Disposiciones especiales relativas a la brucelosis en los bovinos
+
+##### Artículo 18. Sospecha de la enfermedad.
+
+1\. Cuando en una explotación se encuentre un animal sospechoso de brucelosis, los órganos competentes de las Comunidades Autónomas adoptarán las medidas oportunas para que en el plazo más breve posible se realicen las investigaciones oficiales encaminadas a confirmar la presencia o la ausencia de dicha enfermedad.
+
+A la espera del resultado de estas investigaciones, las autoridades competentes ordenarán:
+
+a) La puesta bajo vigilancia oficial de la explotación.
+
+b) La prohibición de todo movimiento hacia dicha explotación o a partir de la misma, salvo autorización de los órganos competentes de las Comunidades Autónomas para la salida de dichos bovinos, destinados a ser sacrificados sin demora. No obstante, el movimiento de los bovinos castrados de dicha explotación podrá ser autorizado por las autoridades competentes, previo aislamiento de los animales sospechosos, sin perjuicio de que los bovinos sean trasladados a explotaciones de engorde y después al matadero.
+
+c) El aislamiento dentro de la explotación de los animales sospechosos.
+
+2\. Las medidas contempladas en el apartado anterior únicamente se levantarán cuando se confirme oficialmente la inexistencia de brucelosis en la explotación afectada.
+
+> Redactado el apartado 1.b) conforme a la correción de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+##### Artículo 19. Confirmación de la enfermedad.
+
+Cuando se confirme oficialmente la presencia de brucelosis, los órganos competentes de las Comunidades Autónomas adoptarán las medidas apropiadas para evitar la propagación de dicha enfermedad y, en particular, para:
+
+a) Prohibir todo movimiento hacia dicha explotación o a partir de la misma, salvo autorización de los órganos competentes de las Comunidades Autónomas para la salida de los bovinos destinados a ser sacrificados sin demora. No obstante, el movimiento de los bovinos castrados de dicha explotación podrá ser autorizado por dichos órganos previo aislamiento y marcado, para su sacrificio, de los bovinos reaccionantes positivos y de los bovinos considerados como infectados por los órganos competentes de las Comunidades Autónomas, sin perjuicio que los bovinos castrados sean trasladados hacia explotaciones de engorde y después al matadero.
+
+b) Aislar dentro de la explotación a los bovinos en los que se haya confirmado oficialmente la existencia de la enfermedad, así como los bovinos que puedan haber sido contagiados por aquéllos.
+
+c) Proceder sin demora a los exámenes de investigación de la brucelosis en la totalidad de la explotación, y repetir las pruebas hasta que se obtengan en explotaciones no calificadas dos resultados favorables con un intervalo mínimo de tres meses y un máximo de doce, y en explotaciones calificadas con un intervalo mínimo de seis semanas y un máximo de ocho.
+
+d) Aislar y marcar, hasta el sacrificio previsto en el artículo 15, los bovinos en los que se haya confirmado oficialmente la existencia de la enfermedad, así como los bovinos reaccionantes positivos a uno de los exámenes previstos en el párrafo c).
+
+e) Utilizar únicamente la leche procedente de los bovinos infectados y/o reaccionantes positivos, para la alimentación de los animales de la explotación afectada, después de un tratamiento térmico adecuado, sin perjuicio de lo dispuesto en el Real Decreto 1679/1994, de 22 de julio, por el que se establecen las condiciones sanitarias aplicables a la producción y comercialización de leche cruda, leche tratada térmicamente y productos lácteos.
+
+f) Entregar, únicamente y sin perjuicio de lo dispuesto en la normativa aplicable a la alimentación humana, la leche procedente de bovinos de una explotación infectada y/o con animales seropositivos, a una industria láctea para ser en ella objeto de tratamiento térmico adecuado.
+
+g) Tratar, de acuerdo con lo establecido en el Real Decreto 2224/1993, las canales, medias canales, cuartos, trozos y despojos procedentes de bovinos destinados a la alimentación de los animales y que no han sido declarados aptos para el consumo humano, de acuerdo con lo establecido en el apartado 2 del párrafo b) del apartado 1 del artículo 5 del Real Decreto 147/1993.
+
+h) Eliminar o destruir, salvo que estén destinados a ser analizados, los fetos, los terneros que nazcan muertos, los terneros muertos como consecuencia de la infección brucélica después de su nacimiento y las placentas.
+
+i) Destruir inmediatamente, quemar o enterrar después de haber sido rociadas con un producto desinfectante, la paja, la cama o toda materia y sustancia que hayan estado en contacto con los animales infectados o, en su caso, las placentas.
+
+j) Controlar las industrias para la transformación de animales muertos de acuerdo con lo establecido en el Real Decreto 2224/1993, de manera que se garantice que el producto fabricado no representa ningún peligro para la propagación de la brucelosis bovina.
+
+k) Almacenar y rociar con un desinfectante adecuado y conservado por lo menos durante tres semanas, el estiércol procedente de los alojamientos o demás locales utilizados para los animales. No será necesario rociar el estiércol con desinfectante si se recubre de una capa de estiércol o de tierra no infectada. Los fluidos procedentes de los alojamientos o demás locales utilizados para el ganado deberán ser desinfectados si no han sido retirados al mismo tiempo que el estiércol.
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+##### Artículo 20. Sacrificio.
+
+Los bovinos en los que se haya comprobado oficialmente la existencia de brucelosis, como consecuencia de un examen bacteriológico, anatomopatológico o serológico, así como los animales considerados infectados por los órganos competentes de las Comunidades Autónomas, serán sacrificados bajo control oficial, lo más rápidamente posible, y, a más tardar, treinta días después de la notificación oficial, al propietario o al poseedor, de los resultados de las pruebas y de la obligación que le incumbe, en virtud del plan de erradicación, de sacrificar en dicho plazo a los bovinos afectados.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+##### Artículo 21. Medidas profilácticas.
+
+1\. Después de la eliminación, mediante sacrificio, de los bovinos reaccionantes positivos, los alojamientos o demás locales en los que sean alojados los animales y el conjunto de los recipientes, instalaciones y demás objetos utilizados para el ganado deberán ser limpiados y desinfectados bajo control oficial, con arreglo a las instrucciones dadas por los órganos competentes de las Comunidades Autónomas.
+
+La ejecución y coste de estas acciones correrán a cargo del propietario de la explotación, propietario del ganado o tenedor del mismo.
+
+2\. La reutilización de los pastos en los que hayan anteriormente permanecido dichos animales, no podrá tener lugar antes de la expiración de un plazo de sesenta días, después de su retirada de tales pastos. No obstante, los órganos competentes de las Comunidades Autónomas podrán conceder una excepción a esta prohibición para los bovinos siempre que tales bovinos únicamente puedan salir de dichos pastos para el sacrificio o para el traslado hacia instalaciones de engorde y después al matadero.
+
+3\. Los medios de transporte, recipientes y utensilios deberán ser limpiados y desinfectados después del transporte de bovinos de una explotación infectada. Las áreas de carga de dichos animales deberán ser limpiadas y desinfectadas después de su utilización.
+
+4\. El desinfectante que deba utilizarse y las concentraciones del mismo serán oficialmente aprobados por los órganos competentes de las Comunidades Autónomas.
+
+##### Artículo 22. Movimiento y reposición.
+
+1\. Después de la eliminación de los bovinos reaccionantes positivos, los órganos competentes de las comunidades autónomas adoptarán las medidas necesarias para que:
+
+a) Ningún bovino pueda salir de la explotación afectada, salvo autorización de las autoridades competentes para la salida de los bovinos destinados a ser sacrificados sin demora.
+
+b) Se efectúen en la explotación de que se trate exámenes de detección de brucelosis, con objeto de confirmar la eliminación de la enfermedad, de acuerdo con lo establecido en el artículo 19.1.c).
+
+c) La repoblación de la explotación únicamente puede llevarse a cabo después de que los bovinos de más de 12 meses que queden en dicha explotación hayan presentado un resultado favorable a uno o varios exámenes de investigación de la brucelosis. No obstante, para los bovinos vacunados, dicho examen únicamente podrá efectuarse a la edad de 18 meses.
+
+2\. Los órganos competentes de las comunidades autónomas realizarán los controles oficiales, previstos en la normativa vigente, a las explotaciones de los tipos B<sub>1</sub> y B<sub>2</sub> hasta que alcancen el estatuto sanitario del tipo B<sub>3</sub> o B<sub>4</sub>.
+
+3\. Los órganos competentes de las comunidades autónomas adoptarán las medidas necesarias para que se lleven a cabo únicamente los siguientes movimientos de animales, dentro del territorio nacional, estando prohibidos el resto de movimientos con excepción de lo dispuesto en los apartados 4, 5, 6 y 7:
+
+a) Los animales procedentes de explotaciones del tipo B<sub>4</sub>, siempre que además sean del tipo T<sub>3</sub>, y oficialmente indemnes de leucosis enzoótica bovina, podrán tener sólo los siguientes destinos:
+
+1.º Explotaciones del tipo B<sub>4</sub>, siempre que además sean del tipo T<sub>3</sub>, y oficialmente indemnes de leucosis enzoótica bovina, siempre que, en los 30 días anteriores al traslado, los animales de más de 12 meses objeto de traslado hayan presentado un resultado favorable a una de las pruebas previstas en el anexo 2.
+
+2.º Explotaciones del tipo B<sub>3</sub>, siempre que además sean del tipo T<sub>3</sub>, y oficialmente indemnes de leucosis enzoótica bovina, siempre que, en los 30 días anteriores al traslado, los animales de más de 12 meses objeto de traslado hayan presentado un resultado favorable a una de las pruebas previstas en el anexo 2.
+
+3.º Explotaciones del tipo B<sub>2</sub> negativas, que además sean del tipo T<sub>2</sub> negativas o T<sub>3</sub>, siempre que, en los 30 días anteriores al traslado, los animales de más de 12 meses objeto de traslado hayan presentado un resultado favorable a una de las pruebas previstas en el anexo 2.
+
+4.º Ferias y mercados calificados, entendiendo como tales los calificados como oficialmente indemnes de brucelosis, que también lo estén como oficialmente indemnes de tuberculosis y de leucosis enzoótica bovina. En el supuesto de que el destino posterior a la feria o mercado sea para explotación de reproducción o de recría de novillas, en los 30 días anteriores al traslado los animales de más de 12 meses objeto de traslado deberán haber presentado un resultado favorable a una de las pruebas previstas en el anexo 2.
+
+5.º Ferias y mercados no calificados, siempre que el destino inmediatamente posterior de los animales sea exclusiva y directamente para matadero.
+
+6.º Certámenes ganaderos, siempre que se cumplan las condiciones sanitarias previstas en la normativa correspondiente, y se cumplan las siguientes condiciones:
+
+En los 30 días anteriores al traslado, los animales de más de 12 meses objeto de traslado habrán presentado un resultado favorable a una de las pruebas previstas en el anexo 2.
+
+En los 30 días anteriores al traslado, los animales de más de seis semanas objeto de traslado habrán presentado un resultado favorable a una prueba de detección de la tuberculosis, de acuerdo con un método aprobado al efecto según lo dispuesto en el anexo 1.
+
+b) Los animales procedentes de explotaciones del tipo B<sub>3</sub>, siempre que además sean del tipo T<sub>3</sub>, y oficialmente indemnes de leucosis enzoótica bovina, podrán tener sólo los siguientes destinos:
+
+1.º Explotaciones del tipo B<sub>3</sub>, siempre que además sean del tipo T<sub>3</sub>, y oficialmente indemnes de leucosis enzoótica bovina, siempre que:
+
+En el caso de los bovinos de más de 12 meses, hayan dado, en los 30 días previos al traslado, un resultado inferior a 30 unidades internacionales aglutinantes por mililitro en una seroaglutinación, y un resultado negativo en una prueba de fijación del complemento con arreglo a la legislación vigente.
+
+O tienen menos de 30 meses y han sido vacunados con vacuna viva de la cepa 19, si dan un resultado en la prueba de seroaglutinación superior a 30 pero inferior a 80 unidades internacionales aglutinantes por mililitro, siempre que en la prueba de fijación del complemento den un resultado inferior a 20 unidades CEE en todos los demás casos.
+
+2.º Explotaciones del tipo B<sub>2</sub> negativas, que además sean del tipo T<sub>2</sub> negativas o T<sub>3</sub>, siempre que:
+
+En el caso de los bovinos de más de 12 meses, hayan dado, en los 30 días previos al traslado, un resultado inferior a 30 unidades internacionales aglutinantes por mililitro en una seroaglutinación, y un resultado negativo en una prueba de fijación del complemento con arreglo a la legislación vigente.
+
+Tengan menos de 30 meses y han sido vacunados con vacuna viva de la cepa 19, si dan un resultado en la prueba de seroaglutinación superior a 30 pero inferior a 80 unidades internacionales aglutinantes por mililitro, siempre que en la prueba de fijación del complemento den un resultado inferior a 20 unidades CEE en todos los demás casos.
+
+3.º Ferias y mercados del tipo B<sub>3</sub>, que también sean del tipo T<sub>3</sub> y oficialmente indemnes de leucosis enzoótica bovina, siempre que todos los animales que concurran en ese mismo día procedan de explotaciones radicadas en la misma comunidad autónoma en que se ubica la feria o mercado, y el destino inmediatamente posterior de los animales sea exclusivamente:
+
+Dentro de dicha comunidad autónoma.
+
+O cebadero no calificado, o de forma directa a matadero, radicados en otra comunidad autónoma.
+
+4.º El resto de ferias y mercados no calificados, siempre que el destino posterior de los animales sea exclusiva y directamente para matadero.
+
+5.º Certámenes ganaderos, siempre que se cumplan las condiciones sanitarias previstas en la normativa correspondiente, y se cumplan las siguientes condiciones:
+
+En los 30 días anteriores al traslado, los animales objeto de traslado habrán presentado un resultado favorable a una de las pruebas previstas en el anexo 2.
+
+En los 30 días anteriores al traslado, los animales objeto de traslado habrán presentado un resultado favorable a una prueba de detección de la tuberculosis, de acuerdo con un método aprobado al efecto según lo dispuesto en el anexo 1.
+
+Todos los animales que concurran en ese mismo día procedan de explotaciones radicadas en la misma comunidad autónoma en que se ubica el certamen, y el destino inmediatamente posterior de los animales sea exclusivamente dentro de dicha comunidad autónoma.
+
+4\. Los órganos competentes de las comunidades autónomas adoptarán las medidas necesarias para que se lleven a cabo únicamente los siguientes movimientos de animales con destino a cebaderos, quedando prohibidos el resto de movimientos:
+
+a) Los animales procedentes de explotaciones del tipo B<sub>4</sub>, siempre que además sean del tipo T<sub>3</sub>, y oficialmente indemnes de leucosis enzoótica bovina, podrán tener como destino cualquier cebadero, con independencia de su calificación.
+
+b) Los animales procedentes de explotaciones del tipo B<sub>4</sub>, siempre que además sean del tipo T<sub>2</sub> negativo, y oficialmente indemnes de leucosis enzoótica bovina, podrán tener como destino sólo cebaderos no calificados.
+
+c) Los animales procedentes de explotaciones del tipo B<sub>3</sub>, siempre que además sean del tipo T<sub>3</sub> o T<sub>2</sub> negativo, y oficialmente indemnes de leucosis enzoótica bovina, podrán tener como destino sólo cebaderos no calificados.
+
+d) Los animales procedentes de explotaciones del tipo B<sub>2</sub> negativas, que además sean del tipo T<sub>3</sub> o T<sub>2</sub> negativas, podrán tener como destino sólo cebaderos no calificados.
+
+5\. Los órganos competentes de las comunidades autónomas adoptarán las medidas necesarias para que se permita el movimiento directo a matadero de animales procedentes de cualquier tipo de explotación, salvo que por dichos órganos se haya prohibido el citado movimiento. No obstante, los mencionados órganos competentes podrán exigir que se realicen, con carácter previo, pruebas de detección de la brucelosis, la tuberculosis y/o la leucosis enzoótica bovinas.
+
+6\. **(Suprimido)**
+
+7\. El movimiento intracomunitario de los animales se regirá por lo dispuesto en el Real Decreto 1716/2000.
+
+> Se modifica el apartado 3 por la disposición final 1 del Real Decreto 526/2014, de 20 de junio. [Ref. BOE-A-2014-7291](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7291).
+
+> Se modifica el apartado 4 y se suprime el 6 por el art. único.3 del Real Decreto 727/2011, de 20 de mayo. [Ref. BOE-A-2011-10458](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10458).
+
+> Se modifica por el art. único.3 del Real Decreto 1047/2003, de 1 de agosto. [Ref. BOE-A-2003-17233](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-17233)
+
+### CAPÍTULO II — Disposiciones especiales relativas a la tuberculosis bovina
+
+##### Artículo 23. Sospecha de la enfermedad.
+
+1\. Cuando en una explotación se encuentre un animal sospechoso de tuberculosis, los órganos competentes de las Comunidades Autónomas adoptarán las medidas oportunas para que en el plazo más breve posible se realicen las investigaciones oficiales encaminadas a confirmar la presencia o la ausencia de dicha enfermedad.
+
+A la espera del resultado de estas investigaciones, las autoridades competentes ordenarán:
+
+a) La puesta bajo vigilancia oficial de la explotación.
+
+b) La prohibición de todo movimiento hacia dicha explotación o a partir de la misma, salvo autorización de los órganos competentes de las Comunidades Autónomas para la salida de dichos bovinos, destinados a ser sacrificados sin demora.
+
+c) El aislamiento dentro de la explotación de los animales sospechosos.
+
+2\. Las medidas contempladas en el apartado anterior únicamente se levantarán cuando se confirme oficialmente la no existencia de tuberculosis en la explotación afectada.
+
+##### Artículo 24. Confirmación de la enfermedad.
+
+Cuando se confirme oficialmente la presencia de tuberculosis, los órganos competentes de las Comunidades Autónomas adoptarán las medidas apropiadas para evitar la propagación de dicha enfermedad y, en particular, para:
+
+a) Prohibir todo movimiento hacia dicha explotación o a partir de la misma, salvo autorización de los órganos competentes de las Comunidades Autónomas para la salida de los bovinos destinados a ser sacrificados sin demora.
+
+b) Aislar dentro de la explotación a los bovinos en los que se haya confirmado oficialmente la existencia de la enfermedad, así como los bovinos que puedan haber sido contagiados por aquéllos.
+
+c) Proceder sin demora a los exámenes de investigación de la tuberculosis en la totalidad de los animales de la explotación.
+
+d) Aislar y marcar, hasta el sacrificio previsto en el artículo 15, los bovinos en los que se haya confirmado oficialmente la existencia de la enfermedad, así como los bovinos reaccionantes positivos a uno de los exámenes previstos en el párrafo c).
+
+e) Utilizar únicamente la leche procedente de los bovinos infectados y/o reaccionantes positivos, para la alimentación de los animales de la explotación afectada, después de un tratamiento térmico adecuado.
+
+f) Entregar, únicamente y sin perjuicio de lo dispuesto en la normativa aplicable a la alimentación humana, la leche procedente de bovinos de una explotación infectada y/o con animales seropositivos, a una industria láctea para ser en ella objeto de tratamiento térmico adecuado.
+
+g) Tratar, de acuerdo con lo establecido en el Real Decreto 2224/1993, las canales, medias canales, cuartos, trozos y despojos procedentes de bovinos destinados a la alimentación de los animales y que no han sido declarados aptos para el consumo humano, de acuerdo con lo establecido en el apartado 1 del párrafo b) del apartado 1 del artículo 5 del Real Decreto 147/1993.
+
+h) Controlar las industrias para la transformación de animales muertos de acuerdo con lo establecido en el Real Decreto 2224/1993, de manera que se garantice que el producto fabricado no representa ningún peligro para la propagación de la tuberculosis bovina.
+
+i) Almacenar y rociar con un desinfectante adecuado, y conservado por lo menos durante tres semanas, el estiércol procedente de los alojamientos o demás locales utilizados para los animales. No será necesario rociar el estiércol con desinfectante si se recubre de una capa de estiércol o de tierra no infectada. Los fluidos procedentes de los alojamientos o demás locales utilizados para el ganado deberán ser desinfectados si no han sido retirados al mismo tiempo que el estiércol.
+
+##### Artículo 25. Sacrificio.
+
+Los bovinos en los que se haya comprobado oficialmente la existencia de tuberculosis, como consecuencia de un examen bacteriológico, anatomopatológico, serológico o tuberculínico así como los animales considerados infectados por los órganos competentes de las Comunidades Autónomas, serán sacrificados bajo control oficial, lo más rápidamente posible, y, a más tardar, treinta días después de la notificación oficial, al propietario o al poseedor, de los resultados de las pruebas y de la obligación que le incumbe en virtud del plan de erradicación, de sacrificar en dicho plazo a los bovinos afectados.
+
+No obstante, para los animales que hayan presentado un resultado desfavorable a un examen de investigación de la tuberculosis sin presentar síntomas clínicos de tal enfermedad, las autoridades competentes podrán ampliar a tres meses como máximo el plazo previsto en el párrafo anterior para los siguientes supuestos:
+
+a) El sacrificio de una hembra cuyo parto se espera para antes del final de dicho plazo de tres meses.
+
+b) El sacrificio de todos los bovinos pertenecientes a una ganadería de más de veinte bovinos, en una región en la que por razones de orden técnico derivadas de las capacidades de sacrificio de los mataderos reservados a este uso, dicho sacrificio no pueda realizarse en el plazo de treinta días.
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+##### Artículo 26. Medidas profilácticas.
+
+1\. Después de la eliminación, mediante sacrifico, de los bovinos reaccionantes positivos, los alojamientos o demás locales en los que sean alojados los animales y el conjunto de los recipientes, instalaciones y demás objetos utilizados para el ganado, deberán ser limpiados y desinfectados bajo control oficial, con arreglo a las instrucciones dadas por los órganos competentes de las Comunidades Autónomas.
+
+La ejecución y coste de estas acciones correrán a cargo del propietario de la explotación, propietario del ganado o tenedor del mismo.
+
+2\. Los medios de transporte, recipientes y utensilios deberán ser limpiados y desinfectados después del transporte de bovinos de una explotación infectada. Las áreas de carga de dichos animales deberán ser limpiadas y desinfectadas después de su utilización.
+
+3\. El desinfectante que deba utilizarse y las concentraciones del mismo serán oficialmente aprobadas por los órganos competentes de las Comunidades Autónomas.
+
+##### Artículo 27. Movimiento y reposición.
+
+1\. Después de la eliminación de los bovinos reaccionantes positivos, los órganos competentes de las comunidades autónomas adoptarán las medidas necesarias para que:
+
+a) Ningún bovino pueda salir de la explotación afectada, salvo autorización de las autoridades competentes para la salida de los bovinos destinados a ser sacrificados sin demora.
+
+b) Se efectúen en la explotación de que se trate exámenes de detección de la tuberculosis, con un intervalo de seis meses tras el sacrificio del último animal de la explotación positivo a las pruebas diagnósticas, al objeto de confirmar la eliminación de la enfermedad.
+
+c) La repoblación de la explotación únicamente puede llevarse a cabo después de que los bovinos de más de seis semanas que queden en dicha explotación hayan presentado un resultado favorable en uno o más exámenes de investigación de tuberculosis.
+
+2\. Los órganos competentes de las comunidades autónomas adoptarán las medidas necesarias para que, en el marco del plan de erradicación de la tuberculosis, la prueba de detección de la tuberculosis, oficialmente controlada, y de acuerdo con un método aprobado al efecto según lo dispuesto en el anexo 1, sea efectuada cada seis meses, en todos los bovinos de más de seis semanas de edad, en las explotaciones de los tipos T<sub>1</sub> y T<sub>2</sub>, hasta que alcancen el estatuto sanitario de explotación del tipoT<sub>3</sub>.
+
+3\. El movimiento de animales se regirá por lo dispuesto en los apartados 3 a 7, ambos inclusive, del artículo 22.
+
+> Se modifica por el art. único.4 del Real Decreto 1047/2003, de 1 de agosto. [Ref. BOE-A-2003-17233](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-17233)
+
+### CAPÍTULO III — Disposiciones especiales relativas a la leucosis bovina enzoótica
+
+##### Artículo 28. Sospecha de la enfermedad.
+
+1\. Cuando en una explotación se encuentre un animal sospechoso de leucosis enzoótica bovina, los órganos competentes de las Comunidades Autónomas adoptarán las medidas oportunas para que en el plazo más breve posible se realicen las investigaciones oficiales encaminadas a confirmar la presencia o la ausencia de dicha enfermedad.
+
+A la espera del resultado de estas investigaciones, los órganos competentes de las Comunidades Autónomas ordenarán:
+
+a) La puesta bajo vigilancia oficial de la explotación.
+
+b) La prohibición de todo movimiento hacia dicha explotación o a partir de la misma, salvo autorización de los órganos competentes de las Comunidades Autónomas para la salida de dichos bovinos, destinados a ser sacrificados sin demora.
+
+c) El aislamiento, dentro de la explotación, de los animales sospechosos.
+
+2\. Las medidas contempladas en el apartado anterior únicamente se levantarán cuando se confirme oficialmente la no existencia de leucosis enzoótica bovina en la explotación afectada.
+
+##### Artículo 29. Confirmación de la enfermedad
+
+Cuando se confirme oficialmente la presencia de leucosis enzoótica bovina, los órganos competentes de las Comunidades Autónomas adoptarán las medidas apropiadas para evitar la propagación de dicha enfermedad y, en particular, para que:
+
+a) Se prohíba todo movimiento de los bovinos de dicha explotación, salvo autorización de los órganos competentes de las Comunidades Autónomas para la salida de los bovinos destinados a ser sacrificados sin demora.
+
+b) Se aísle la explotación de que se trate, de modo que los bovinos no puedan entrar en contacto con los bovinos que no pertenezcan a dicha explotación.
+
+c) Se utilice únicamente la leche procedente de vacas infectadas para la alimentación de los animales después de recibir un tratamiento térmico adecuado o para ser entregada a una industria láctea para recibir en ella dicho tratamiento. La alimentación de los animales con leche que no haya recibido tratamiento térmico podrá autorizarse en las explotaciones cuyos bovinos se destinen a ser sacrificados.
+
+d) Se traten, de acuerdo con lo establecido en el Real Decreto 2224/1993, las canales, medias canales, cuartos, trozos y despojos procedentes de bovinos destinados a la alimentación de los animales y que no han sido declarados aptos para el consumo humano, de acuerdo con lo establecido en el artículo 5 del Real Decreto 147/1993.
+
+e) Se controlen las industrias para la transformación de animales muertos, de acuerdo con lo establecido en el Real Decreto 2224/1993, de manera que se garantice que el producto fabricado no representa ningún peligro para la propagación de la leucosis enzoótica bovina.
+
+f) La explotación notifique al veterinario oficial la muerte o el sacrificio urgente de todo bovino de su explotación.
+
+##### Artículo 30. Sacrificio.
+
+Cuando se prevea, en el marco de un plan de erradicación, el sacrificio de todos los bovinos pertenecientes a una ganadería en la que se haya comprobado oficialmente la existencia de leucosis, dichos bovinos serán sacrificados en el plazo que fije el órgano competente de la Comunidad Autónoma de que se trate.
+
+Asimismo, cuando dicho plan prevea el sacrificio únicamente de los bovinos en los que se haya comprobado oficialmente la existencia de leucosis, así como, en su caso, de los considerados infectados por los órganos competentes de las Comunidades Autónomas, dicho sacrificio tendrá lugar en un plazo de treinta días después de la notificación oficial al propietario o al poseedor de los resultados de las pruebas y de la obligación que le incumbe, en virtud del plan de erradicación, de sacrificar los bovinos afectados en ese plazo.
+
+##### Artículo 31. Medidas profilácticas.
+
+1\. Después de la eliminación, mediante sacrificio, de los bovinos reaccionantes positivos, los alojamientos o demás locales en los que sean alojados los animales y el conjunto de los recipientes, instalaciones y demás objetos utilizados para el ganado, deberán ser limpiados y desinfectados bajo control oficial, con arreglo a las instrucciones dadas por los órganos competentes de las Comunidades Autónomas.
+
+La ejecución y coste de estas acciones correrán a cargo del propietario de la explotación, propietario del ganado o tenedor del mismo.
+
+2\. Los medios de transporte, recipientes y utensilios deberán ser limpiados y desinfectados después del transporte de bovinos de una explotación infectada. Las áreas de carga de dichos animales deberán ser limpiadas y desinfectadas después de su utilización.
+
+3\. El desinfectante que deba utilizarse y las concentraciones del mismo serán oficialmente aprobadas por los órganos competentes de las Comunidades Autónomas.
+
+##### Artículo 32. Movimiento y reposición.
+
+1\. Después de la eliminación de los bovinos reaccionantes positivos, el órgano competente de la comunidad autónoma correspondiente adoptará las medidas necesarias para que:
+
+a) Ningún bovino pueda salir de la explotación afectada, salvo autorización de los órganos competentes de las comunidades autónomas para la salida de los bovinos destinados a ser sacrificados sin demora.
+
+b) Se efectúen en la explotación de que se trate exámenes de detección de la leucosis enzoótica bovina, con objeto de confirmar la eliminación de la enfermedad.
+
+c) La repoblación de la explotación únicamente puede llevarse a cabo a partir de bovinos procedentes de explotaciones oficialmente indemnes de leucosis.
+
+2\. El movimiento de animales se regirá por lo dispuesto en los apartados 3 a 7, ambos inclusive, del artículo 22.
+
+> Se modifica por el art. único.5 del Real Decreto 1047/2003, de 1 de agosto. [Ref. BOE-A-2003-17233](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-17233)
+
+### CAPÍTULO IV — Disposiciones especiales relativas a la perineumonía contagiosa bovina
+
+##### Artículo 33. Sospecha de la enfermedad.
+
+1\. Cuando en una explotación se encuentre un animal sospechoso de perineumonía contagiosa bovina, los órganos competentes de las Comunidades Autónomas adoptarán las medidas oportunas para que en el plazo más breve posible se realicen las investigaciones oficiales encaminadas a confirmar la presencia o la ausencia de dicha enfermedad.
+
+A la espera del resultado de estas investigaciones, los órganos competentes de las Comunidades Autónomas ordenarán:
+
+a) La puesta bajo vigilancia oficial de la explotación.
+
+b) La prohibición de todo movimiento hacia dicha explotación o a partir de la misma, salvo autorización de los órganos competentes de las Comunidades Autónomas para la salida de dichos bovinos, destinados a ser sacrificados sin demora en mataderos autorizados para tal fin, donde se realizará un primer examen anatomopatológico. En caso de que se detecten lesiones sospechosas, se efectuará la remisión de muestras a los laboratorios contemplados en el artículo 9 y al Laboratorio Nacional de Referencia.
+
+c) El aislamiento dentro de la explotación de los animales sospechosos.
+
+2\. Las medidas contempladas en el apartado anterior únicamente se levantarán cuando se confirme oficialmente la inexistencia de perineumonía contagiosa bovina en la explotación afectada.
+
+> Se sustituye la referencia a "centro nacional de referencia" por "laboratorio nacional de referencia" por la disposición final 1.1 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+##### Artículo 34. Confirmación de la enfermedad.
+
+Cuando se confirme oficialmente la presencia de perineumonía contagiosa bovina, los órganos competentes de las Comunidades Autónomas adoptarán las medidas apropiadas para evitar la propagación de dicha enfermedad y, en particular, para:
+
+a) Aislar y marcar a todos los bovinos de la explotación para proceder inmediatamente a su traslado para el sacrificio de los mismos en los mataderos autorizados a tal fin.
+
+b) Marcar y poner bajo cuarentena a todos los bovinos de las explotaciones situadas en un área de 3 kilómetros de diámetro alrededor del foco, o epizootiológicamente relacionadas con el mismo. Esta cuarentena podrá ser levantada cuando todos los bovinos de cada explotación hayan mostrado resultados favorables a dos pruebas serológicas, con un intervalo de dos meses.
+
+c) Autorizar únicamente, durante el período de cuarentena, el traslado de los bovinos de las explotaciones contempladas en el párrafo b), a mataderos autorizados donde se procederá a su examen anatomopatológico y se tomarán muestras para el análisis serológico en los laboratorios contemplados en el artículo 9.
+
+En presencia de lesiones características o sospechosas de la enfermedad se tomarán muestras de las citadas lesiones y se congelarán inmediatamente para su envío al Laboratorio Nacional de Referencia para esta enfermedad.
+
+d) Llevar a cabo un sistema de vigilancia en los mataderos sobre los animales procedentes de las zonas afectadas y sospechosas. Todas las lesiones sospechosas serán examinadas microbiológicamente, y se realizarán investigaciones epidemiológicas sobre los animales que se trasladaron dentro y fuera de las explotaciones afectadas, durante un período de seis meses previo a la detección del foco.
+
+e) Tratar, de acuerdo con lo establecido en el Real Decreto 2224/1993, las canales, medias canales, cuartos, trozos y despojos procedentes de bovinos destinados a la alimentación de los animales y que no han sido declarados aptos para el consumo humano, de acuerdo con lo establecido en el artículo 5 del Real Decreto 147/1993.
+
+f) Controlar las industrias para la transformación de animales muertos, de acuerdo con lo establecido en el Real Decreto 2224/1993, de manera que se garantice que el producto fabricado no representa ningún peligro para la propagación de la leucosis enzoótica bovina.
+
+> Se sustituye la referencia a "centro nacional de referencia" por "laboratorio nacional de referencia" por la disposición final 1.1 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+##### Artículo 35. Sacrificio.
+
+Los bovinos en los que se haya comprobado la existencia de perineumonía, como consecuencia de un examen bacteriológico, anatomopatológico o serológico, así como los animales considerados infectados por los órganos competentes de las Comunidades Autónomas, serán sacrificados bajo control oficial, lo más rápidamente posible, y, a más tardar, treinta días después de la notificación oficial al propietario o al poseedor de los resultados de las pruebas y de la obligación que le incumbe en virtud del plan de erradicación, de sacrificar en dicho plazo a los bovinos afectados.
+
+No obstante, los órganos competentes de las Comunidades Autónomas podrán ampliar este plazo de acuerdo con especiales circunstancias que así lo exijan.
+
+##### Artículo 36. Medidas profilácticas.
+
+1\. Después de la eliminación, mediante sacrificio, de los bovinos reaccionantes positivos, los alojamientos o demás locales en los que sean alojados los animales y el conjunto de los recipientes, instalaciones y demás objetos utilizados para el ganado, deberán ser limpiados y desinfectados bajo control oficial, con arreglo a las instrucciones dadas por los órganos competentes de las Comunidades Autónomas.
+
+La ejecución y coste de estas acciones correrán a cargo del propietario de la explotación, propietario del ganado o tenedor del mismo.
+
+2\. Los medios de transporte, recipientes y utensilios deberán ser limpiados y desinfectados después del transporte de bovinos de una explotación infectada. Las áreas de carga de dichos animales deberán ser limpiadas y desinfectadas después de su utilización.
+
+3\. El desinfectante que deba utilizarse y las concentraciones del mismo serán oficialmente aprobadas por los órganos competentes de las Comunidades Autónomas.
+
+##### Artículo 37. Movimiento y reposición.
+
+1\. Después de la eliminación de los bovinos, el órgano competente de la Comunidad Autónoma correspondiente adoptará las medidas necesarias para que la repoblación de la explotación únicamente puede llevarse a cabo con animales bovinos procedentes de explotaciones libres de enfermedad.
+
+2\. Los órganos competentes de las Comunidades Autónomas adoptarán las medidas necesarias para que a todos los bovinos procedentes de áreas con antecedentes de esta enfermedad, se les realicen antes de cualquier traslado dos controles serológicos y clínicos, con un intervalo mínimo de 30 días, con resultados favorables.
+
+3\. Los órganos competentes de las Comunidades Autónomas adoptarán las medidas necesarias para que los bovinos de explotaciones libres de perineumonía contagiosa bovina, no entren en contacto con bovinos procedentes de explotaciones afectadas o sospechosas.
+
+### CAPÍTULO V — Disposiciones especiales relativas a la brucelosis ovina y caprina por «brucella melitensis»
+
+##### Artículo 38. Sospecha de la enfermedad.
+
+1\. Cuando en una explotación se encuentre un animal sospechoso de brucelosis por «brucella melitensis», los órganos competentes de las Comunidades Autónomas adoptarán las medidas oportunas para que en el plazo más breve posible se realicen las investigaciones oficiales encaminadas a confirmar la presencia o la ausencia de dicha enfermedad.
+
+A la espera del resultado de estas investigaciones, los órganos competentes de las Comunidades Autónomas ordenarán:
+
+a) La puesta bajo vigilancia oficial de la explotación.
+
+b) La prohibición de todo movimiento hacia dicha explotación o a partir de la misma, salvo autorización de los órganos competentes de las Comunidades Autónomas para la salida de dichos ovinos y caprinos, destinados a ser sacrificados sin demora. No obstante, el movimiento de los ovinos y caprinos de dicha explotación podrá ser autorizado por los órganos competentes de las Comunidades Autónomas, previo aislamiento de los animales sospechosos, sin perjuicio de que los ovinos y caprinos sean trasladados a explotaciones de engorde y después al matadero.
+
+c) El aislamiento dentro de la explotación de los animales sospechosos.
+
+2\. Las medidas contempladas en el apartado anterior únicamente se levantarán cuando se confirme oficialmente la no existencia de brucelosis por «brucella melitensis» en la explotación afectada.
+
+##### Artículo 39. Confirmación de la enfermedad.
+
+Cuando se confirme oficialmente la presencia de brucelosis por «brucella melitensis», los órganos competentes de las Comunidades Autónomas adoptarán las medidas apropiadas para evitar la propagación de dicha enfermedad y, en particular, para:
+
+a) Prohibir todo movimiento hacía dicha explotación o a partir de la misma, salvo autorización de los órganos competentes de las Comunidades Autónomas para la salida de los ovinos y caprinos destinados a ser sacrificados sin demora. No obstante, el movimiento de los ovinos y caprinos de dicha explotación podrá ser autorizado por dichos órganos previo aislamiento y marcado, para su sacrificio, de los ovinos y caprinos reaccionantes positivos y de los ovinos y caprinos considerados como infectados por los órganos competentes de las Comunidades Autónomas, sin perjuicio que dichos animales sean trasladados hacia explotaciones de engorde y después al matadero.
+
+b) Aislar dentro de la explotación a los ovinos y caprinos en los que se haya confirmado oficialmente la existencia de la enfermedad, así como los que puedan haber sido contagiados por aquéllos.
+
+c) Proceder sin demora a las pruebas serológicas de brucelosis por «brucella melitensis», y repetir las mismas hasta que se obtengan dos resultados favorables a las pruebas serológicas con un intervalo de seis meses como mínimo en el caso de explotaciones no calificadas y de tres meses como mínimo en el caso de explotaciones calificadas, sobre los ovinos y caprinos de más de seis meses de edad o más de dieciocho meses en el caso de que hayan sido vacunados.
+
+d) Aislar y marcar hasta el sacrificio previsto en el artículo 15, los ovinos y caprinos en los que se haya confirmado oficialmente la existencia de la enfermedad, así como los reaccionantes positivos a uno de los exámenes previstos en el párrafo c).
+
+e) Utilizar únicamente la leche procedente de los ovinos y caprinos infectados y/o reaccionantes positivos, para la alimentación de los animales de la explotación afectada, después de un tratamiento térmico adecuado o a la producción de queso, sin perjuicio de lo dispuesto en el Real Decreto 1679/1994, de 22 de julio, por el que se establecen las condiciones sanitarias aplicables a la producción y comercialización de leche cruda, leche tratada térmicamente y productos lácteos.
+
+f) Entregar, únicamente y sin perjuicio de lo dispuesto en la normativa aplicable a la alimentación humana, la leche procedente de ovinos y caprinos de una explotación infectada y/o con animales seropositivos, a una industria láctea para ser en ella objeto de tratamiento térmico adecuado.
+
+g) Tratar, de acuerdo con lo establecido en el Real Decreto 2224/1993, las canales, medias canales, cuartos, trozos y despojos procedentes de ovinos y caprinos destinados a la alimentación de los animales y que no han sido declarados aptos para el consumo humano, de acuerdo con lo establecido en el artículo 5 del Real Decreto 147/1993.
+
+h) Eliminar o destruir, salvo que estén destinados a ser analizados, los fetos, los corderos y/o cabritos que nazcan muertos, los corderos o cabritos muertos como consecuencia de la infección brucélica después de su nacimiento y las placentas, excepto si están destinados a ser analizados.
+
+i) Destruir inmediatamente, quemar o enterrar después de haber sido rociadas con un producto desinfectante, la paja, la cama o toda materia y sustancia que hayan estado en contacto con los animales infectados o, en su caso, las placentas.
+
+j) Controlar las industrias para la transformación de animales muertos de acuerdo con lo establecido en el Real Decreto 2224/1993, de manera que se garantice que el producto fabricado no representa ningún peligro para la propagación de la brucelosis por la «brucella melitensis».
+
+k) Almacenar y rociar con un desinfectante adecuado y conservado por lo menos durante tres semanas, el estiércol procedente de los alojamientos o demás locales utilizados para los animales. No será necesario rociar el estiércol con desinfectante si se recubre de una capa de estiércol o de tierra no infectada. Los fluidos procedentes de los alojamientos o demás locales utilizados para el ganado, deberán ser desinfectados si no han sido retirados al mismo tiempo que el estiércol.
+
+##### Artículo 40. Sacrificio.
+
+Los ovinos y caprinos en los que se haya comprobado la existencia de brucelosis por «brucella melitensis», como consecuencia de un examen bacteriológico, anatomopatológico o serológico, así como los animales considerados infectados por los órganos competentes de las Comunidades Autónomas, serán sacrificados bajo control oficial, lo más rápidamente posible, y, a más tardar, treinta días después de la notificación oficial, al propietario o al poseedor, de los resultados de las pruebas y de la obligación que le incumbe en virtud del plan de erradicación, de sacrificar en dicho plazo a los bovinos afectados.
+
+No obstante, los órganos competentes de las Comunidades Autónomas podrán ampliar este plazo de acuerdo con especiales circunstancias que así lo exijan.
+
+> Redactado el primer párrafo conforme la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+##### Artículo 41. Medidas profilácticas.
+
+1\. Después de la eliminación, mediante sacrifico, de los ovinos y caprinos reaccionantes positivos, los alojamientos o demás locales en los que sean alojados los animales y el conjunto de los recipientes, instalaciones y demás objetos utilizados para el ganado, deberán ser limpiados y desinfectados bajo control oficial, con arreglo a las instrucciones dadas por los órganos competentes de las Comunidades Autónomas.
+
+La ejecución y coste de estas acciones correrán a cargo del propietario de la explotación, propietario del ganado o tenedor del mismo.
+
+2\. La reutilización de los pastos en los que hayan anteriormente permanecido dichos animales, no podrá tener lugar antes de la expiración de un plazo de 60 días, después de su retirada de tales pastos. No obstante, los órganos competentes de las Comunidades Autónomas podrán conceder una excepción a esta prohibición, después de un pormenorizado estudio epizotiológico. Las explotaciones beneficiarias de tal excepción únicamente podrán trasladar sus animales hacia instalaciones de engorde y después al matadero.
+
+3\. Los medios de transporte, recipientes y utensilios deberán ser limpiados y desinfectados después del transporte de ovinos y caprinos de una explotación infectada. Las áreas de carga de dichos animales deberán ser limpiadas y desinfectadas después de su utilización.
+
+4\. El desinfectante que deba utilizarse y las concentraciones del mismo serán oficialmente aprobadas por los órganos competentes de las Comunidades Autónomas.
+
+##### Artículo 42. Movimiento y reposición.
+
+1\. Después de la eliminación de los ovinos y caprinos, el órgano competente de la comunidad autónoma adoptará las medidas necesarias para que:
+
+a) Ningún ovino y caprino pueda salir de la explotación afectada, salvo autorización de las autoridades competentes para los ovinos y caprinos destinados a ser sacrificados sin demora. No obstante, el movimiento de los ovinos y caprinos de dicha explotación podrá ser autorizado por las autoridades competentes, siempre que los ovinos y caprinos sean trasladados hacia cebadero y después exclusiva y directamente al matadero.
+
+b) Se efectúen en la explotación de que se trate exámenes de detección de la brucelosis por brucella melitensis, con objeto de confirmar la eliminación de la enfermedad.
+
+c) La repoblación de las explotaciones únicamente puede llevarse a cabo después de que los ovinos y caprinos de más de seis meses o, en caso de ser vacunados, de más de 18 meses que queden en dicha explotación hayan presentado uno o varios resultados favorables a las pruebas serológicas según lo establecido en el artículo 39.c).
+
+2\. Los órganos competentes de las comunidades autónomas realizarán los controles serológicos oficiales a las explotaciones de los tipos M<sub>1</sub> y M<sub>2</sub> hasta que alcancen el estatuto sanitario del tipo M<sub>3</sub> o M<sub>4</sub>.
+
+3\. Los órganos competentes de las comunidades autónomas adoptarán las medidas necesarias para que se lleven a cabo únicamente los siguientes movimientos de animales, dentro del territorio nacional, y quedarán prohibidos el resto de movimientos con excepción de lo dispuesto en los apartados 4 y 5:
+
+a) Los animales procedentes de explotaciones del tipo M<sub>4</sub> podrán tener sólo los siguientes destinos:
+
+1.º Explotaciones del tipo M<sub>4</sub>.
+
+2.º Explotaciones del tipo M<sub>3</sub>.
+
+3.º Explotaciones del tipo M<sub>2</sub> negativas.
+
+4.º Ferias y mercados calificados, entendiendo como tales los calificados como oficialmente indemnes de brucelosis.
+
+5.º Ferias y mercados no calificados, siempre que el destino inmediatamente posterior de los animales sea exclusiva y directamente para matadero.
+
+6.º Certámenes ganaderos, siempre que se cumplan las condiciones sanitarias previstas en la normativa correspondiente, y en los 30 días anteriores al traslado los animales objeto de traslado, en función de la edad prevista en la normativa vigente, hayan presentado un resultado favorable a una de las pruebas previstas en el anexo 5.
+
+b) Los animales procedentes de explotaciones del tipo M<sub>3</sub> podrán tener sólo los siguientes destinos:
+
+1.º Explotaciones M<sub>4</sub>, siempre que los animales estén identificados individualmente según lo dispuesto en el artículo 4.1.a) del Real Decreto 2121/1993, de 3 de diciembre, no hayan estado vacunados nunca contra la brucelosis o, si lo han estado, que haya sido más de dos años antes. No obstante, podrán también ser introducidas hembras de más de dos años que hayan sido vacunadas antes de la edad de siete meses, siempre que hayan sido aisladas en la explotación de origen bajo control oficial y durante ese período hayan sufrido dos pruebas, con un intervalo de seis semanas como mínimo, con arreglo al anexo C del citado real decreto, con resultados negativos.
+
+2.º Explotaciones del tipo M<sub>3</sub>.
+
+3.º Explotaciones del tipo M<sub>2</sub> negativas.
+
+4.º Ferias y mercados del tipo M<sub>3</sub>, siempre que todos los animales que concurran en ese mismo día procedan de explotaciones radicadas en la misma comunidad autónoma en que se ubica la feria o mercado, y el destino inmediatamente posterior de los animales sea exclusivamente dentro de dicha comunidad autónoma. No obstante, el destino posterior podrá ser a otra comunidad autónoma en los siguientes supuestos:
+
+Si se cumplen los requisitos previstos en este párrafo b).1.º
+
+O a cebaderos no calificados, o de forma directa a matadero.
+
+5.º El resto de ferias y mercados no calificados, siempre que los animales tengan como destino posterior exclusiva y directamente matadero.
+
+6.º Certámenes ganaderos, siempre que se cumplan las condiciones sanitarias previstas en la normativa correspondiente, y se cumplan las siguientes condiciones:
+
+Que en los 30 días anteriores al traslado, los animales objeto de traslado, en función de la edad prevista en la normativa vigente, hayan presentado un resultado favorable a una de las pruebas previstas en el anexo 5.
+
+Que todos los animales que concurran en ese mismo día deberán estar identificados individualmente según lo dispuesto en el párrafo a) del apartado 1 del artículo 4 del Real Decreto 2121/1993, no habrán estado vacunados nunca contra la brucelosis o, si lo han estado, deberá haberlo sido más de 2 años antes. No obstante, podrán participar también en los certámenes las hembras de más de 2 años, de explotaciones M<sub>3</sub>, que hayan sido vacunadas antes de la edad de 7 meses, siempre que hayan sido aislados en la explotación de origen bajo control oficial y durante ese período hayan sufrido dos pruebas, con un intervalo de 6 semanas como mínimo, con arreglo al anexo C del citado real decreto, con resultados negativos.
+
+4\. Los órganos competentes de las comunidades autónomas adoptarán las medidas necesarias para que se lleven a cabo únicamente los siguientes movimientos directos de animales con destino a explotaciones de cebo o cebaderos, o entre éstos:
+
+a) Los animales procedentes de explotaciones de tipo M<sub>4</sub> o M<sub>3</sub> podrán tener como destino cualquier explotación de cebo o cebadero, y los de explotaciones del tipo M<sub>2</sub> negativas sólo explotaciones de cebo o cebaderos no calificadas.
+
+b) No obstante, los animales procedentes de una explotación calificada como M<sub>3 </sub>o de un cebadero calificado como indemne de brucelosis sólo podrá tener como destino otra explotación de cebo o cebadero calificada como oficialmente indemne de brucelosis siempre que no hayan estado nunca vacunados contra la brucelosis o, si lo han estado, que haya sido más de dos años antes.
+
+5\. Los órganos competentes de las comunidades autónomas adoptarán las medidas necesarias para que se permita el movimiento directo a matadero de animales procedentes de cualquier tipo de explotación, salvo que por dichos órganos se haya prohibido el citado movimiento. No obstante, los mencionados órganos competentes podrán exigir que se realicen, con carácter previo, pruebas de detección de la brucelosis ovina y caprina.
+
+6\. El movimiento intracomunitario de los animales se regirá por lo dispuesto en el Real Decreto 2121/1993, de 3 de diciembre.
+
+> Se modifica el apartado 4 por el art. único.4 del Real Decreto 727/2011, de 20 de mayo. [Ref. BOE-A-2011-10458](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10458).
+
+> Se modifica el apartado 4 por el art. único.3 del Real Decreto 51/2004, de 19 de enero. [Ref. BOE-A-2004-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1071)
+
+> Se modifica por el art. único.6 del Real Decreto 1047/2003, de 1 de agosto. [Ref. BOE-A-2003-17233](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-17233)
+
+> Redactados los apartados 1.c) y 3.a) conforme la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+## TÍTULO V — Régimen sancionador
+
+> Se añade por el art. único.7 del Real Decreto 1047/2003, de 1 de agosto. [Ref. BOE-A-2003-17233](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-17233)
+
+##### Artículo 43. Infracciones y sanciones.
+
+En el caso de incumplimiento de lo dispuesto en este real decreto, será de aplicación el régimen de infracciones y sanciones establecido en la Ley 8/2003, de 24 de abril, de sanidad animal, sin perjuicio de las posibles responsabilidades civiles, penales o de otro orden que pudieran concurrir.
+
+> Se añade por el art. único.7 del Real Decreto 1047/2003, de 1 de agosto. [Ref. BOE-A-2003-17233](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-17233)
+
+##### Disposición adicional primera. Carácter básico.
+
+Lo dispuesto en el presente Real Decreto tendrá carácter de normativa básica estatal, al amparo de lo dispuesto en el artículo 149.1.16.ª de la Constitución que atribuye al Estado la competencia en materia de bases y coordinación general de la sanidad.
+
+> Se numera por el art. único.5 del Real Decreto 727/2011, de 20 de mayo. [Ref. BOE-A-2011-10458](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10458).
+
+> Anteriormente era la disposición adicional única.
+
+##### Disposición adicional segunda. Aplicabilidad de los programas nacionales.
+
+Sin perjuicio de lo previsto en esta norma, será de aplicación el contenido de los programas nacionales de erradicación de la brucelosis bovina, tuberculosis bovina y brucelosis ovina y caprina, aprobados anualmente a nivel nacional por el Comité Nacional del Sistema de Alerta Sanitaria Veterinaria, y a nivel de la Unión Europea mediante Decisión comunitaria para su cofinanciación, y a los cuales se dará publicidad mediante resolución de la Dirección General de Recursos Agrícolas y Ganaderos y a través de la página web del Ministerio de Medio Ambiente, y Medio Rural y Marino.
+
+> Se añade por el art. único.6 del Real Decreto 727/2011, de 20 de mayo. [Ref. BOE-A-2011-10458](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10458).
+
+##### Disposición transitoria primera. Plazo para la vacunación de la brucelosis bovina.
+
+A partir de la entrada en vigor del presente Real Decreto se concede un plazo de doce meses para el cumplimiento de lo establecido en el apartado 1 del artículo 14, en lo referente a la vacunación de la brucelosis bovina.
+
+##### Disposición transitoria segunda. Plazo máximo para el traslado de bovinos no afectados por la tuberculosis y brucelosis a otras Comunidades Autónomas.
+
+No obstante lo dispuesto en el párrafo a) de los artículos 19 y 24, y en el párrafo a) del apartado 1 de los artículos 22 y 27, los órganos competentes de las Comunidades Autónomas podrán autorizar, hasta el 31 de diciembre de 2003, previo aislamiento de los animales sospechosos y sacrificio de los reaccionantes positivos de tuberculosis y brucelosis, el movimiento de los otros bovinos procedentes de la explotación afectada, siempre y cuando su destino sea exclusivamente una única explotación de engorde para su posterior traslado a matadero, previa comunicación a la Comunidad Autónoma de destino.
+
+> Se modifica por el art. único del Real Decreto 480/2002, de 31 de mayo. [Ref. BOE-A-2002-10574](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10574)
+
+> Se amplía el plazo establecido por el art. único del Real Decreto 3478/2000, de 29 de diciembre. [Ref. BOE-A-2001-1432](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-1432)
+
+> Se amplía el plazo establecido por el art. único del Real Decreto 602/1999, de 16 de abril. [Ref. BOE-A-1999-9946](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-9946)
+
+> Se amplía el plazo establecido por el art. único del Real Decreto 175/1998, de 16 de febrero. [Ref. BOE-A-1998-3565](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3565)
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+##### Disposición transitoria tercera. Movimiento de reses de lidia dentro del territorio nacional.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1939/2004, de 27 de septiembre. [Ref. BOE-A-2004-17234](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17234)
+
+> Se modifica por el art. único.4 del Real Decreto 51/2004, de 19 de enero. [Ref. BOE-A-2004-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1071)
+
+> Se añade por el art. único.8 del Real Decreto 1047/2003, de 1 de agosto. Ref. BOE-A-2003-17233
+
+##### Disposición transitoria cuarta. Vacunación contra la brucelosis.
+
+1\. Sin perjuicio de lo dispuesto en el artículo 14.1, hasta el 31 de diciembre de 2018 podrá autorizarse, como excepción en lo referente a la brucelosis bovina, cuando la situación epidemiológica de la enfermedad valorada en cada región así lo aconseje, la vacunación de hembras, en determinadas áreas o explotaciones, con la vacuna RB-51 respecto de la infección con *Brucella abortus*, o con la vacuna REV-1 respecto de la infección con *Brucella melitensis*.
+
+2\. Los órganos competentes de las comunidades autónomas que deseen acogerse a estas excepciones lo someterán a la aprobación del Comité Nacional del Sistema de Alerta Sanitaria Veterinaria regulado en el Real Decreto 1440/2001, de 21 de diciembre, por el que se establece el sistema de alerta sanitaria veterinaria, en función de la competencia que le corresponde según lo establecido en el artículo 5 de dicho real decreto.
+
+3\. Las condiciones para dicha vacunación serán, sin perjuicio de las derivadas, en su caso, de la autorización de comercialización de la vacuna de que se trate, las siguientes:
+
+a) El almacenamiento, suministro, distribución y entrega de las vacunas se realizará exclusivamente bajo control de los órganos competentes de las comunidades autónomas.
+
+b) La distribución de las vacunas antibrucelares se realizará exclusivamente y con carácter gratuito por los órganos competentes de las comunidades autónomas, de lotes oficialmente contrastados por el Laboratorio Nacional de Referencia para la brucelosis en animales, y queda prohibida fuera de los laboratorios fabricantes su tenencia, comercialización y venta.
+
+c) **(Suprimida)**
+
+d) Los animales vacunados deberán ser marcados de forma que en todo momento se disponga, como mínimo, de su identificación y de la fecha de vacunación.
+
+e) Las vacunas sólo podrán ser utilizadas por veterinarios oficiales o autorizados en el marco de un programa de erradicación de brucelosis bovina aprobado por la Comisión Europea de acuerdo con el artículo 24 de la Decisión del Consejo 90/424/CEE.
+
+f) Los órganos competentes de las comunidades autónomas informarán periódicamente y de modo detallado al Ministerio de Agricultura, Pesca y Alimentación, para su envío a la Comisión de la Unión Europea y al resto de Estados miembros, respecto del programa de vacunación, en particular del área de vacunación, de la edad de los animales vacunados y del sistema que se aplique para la identificación de los animales vacunados.
+
+g) En la base de datos SIMOGAN se marcará a los animales vacunados.
+
+h) Los órganos competentes de las comunidades autónomas velarán porque los animales vacunados no sean objeto de comercio intracomunitario, en particular mediante la aplicación de métodos adicionales de marcaje y registro de dichos animales.
+
+i)**(Suprimido)**
+
+j) Los órganos competentes en materia de sanidad animal de las comunidades autónomas informarán a los órganos competentes en materia de salud pública de la respectiva comunidad acerca del uso de las vacunas y de los sistemas disponibles de diagnóstico y terapéuticos que se apliquen.
+
+> Se suprime la letra c) del apartado 3 y se sustituye la referencia a "centro nacional de referencia" por "laboratorio nacional de referencia" por la disposición final 1.1 y 3 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+> Se modifica el apartado 1 por el art. 1 del Real Decreto 71/2016, de 19 de febrero. [Ref. BOE-A-2016-1738](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1738).
+
+> Esta modificación es de aplicación desde el 1 de enero de 2016, según establece la disposición final única.
+
+> Se modifica el apartado 1 y se suprime el 3.i) por el art. único.7 del Real Decreto 727/2011, de 20 de mayo. [Ref. BOE-A-2011-10458](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10458).
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 908/2008, de 30 de mayo. [Ref. BOE-A-2008-10204](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10204)
+
+> Esta modificación surte efectos desde el 1 de enero de 2008, según establece la disposición final única.
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 1616/2005, de 30 de diciembre. [Ref. BOE-A-2005-21613](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21613)
+
+> Se añade por el art. único.9 del Real Decreto 1047/2003, de 1 de agosto. [Ref. BOE-A-2003-17233](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-17233)
+
+##### Disposición transitoria quinta. Explotaciones de precebo de ganado bovino no calificadas.
+
+No obstante lo establecido en este real decreto, las explotaciones de precebo de ganado bovino no calificadas definidas en el Real Decreto 51/2004, de 19 de enero, por el que se modifica este real decreto, y que venían operando como tales hasta la entrado en vigor del presente real decreto, podrán enviar transitoriamente, hasta el 31 de octubre de 2011, animales de edad inferior a ocho meses hacia explotaciones de cebo no calificadas, para lo cual será necesaria la realización, en el caso de animales de la especie bovina mayores de seis semanas, de pruebas de diagnóstico de tuberculosis en los treinta días anteriores a la realización del movimiento, con resultado negativo.
+
+> Se modifica por el art. único.8 del Real Decreto 727/2011, de 20 de mayo. [Ref. BOE-A-2011-10458](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10458).
+
+> Se añade por el art. único.5 del Real Decreto 51/2004, de 19 de enero. [Ref. BOE-A-2004-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1071)
+
+##### Disposición derogatoria única. Derogación normativa.
+
+Queda derogadas las siguientes disposiciones:
+
+a) El capítulo XVII del título II del Decreto de 4 de febrero de 1955, por el que se aprueba el Reglamento de Epizootías.
+
+b) La Orden de 25 de noviembre de 1978 por la que se establecen normas para el desarrollo de campañas de saneamiento ganadero.
+
+c) La Orden de 28 de febrero de 1986 por la que se establecen normas para el desarrollo de las campañas de saneamiento ganadero, así como las Órdenes de 1 de febrero de 1990 y de 1 de diciembre de 1992, que la modifican.
+
+d) La Orden de 3 de febrero de 1987 por la que se establecen normas complementarias para el desarrollo de campañas de saneamiento contra la leucosis bovina enzoótica.
+
+e) La Orden de 9 de febrero de 1990 por la que se establecen medidas complementarias en campañas de saneamiento ganadero.
+
+f) La Orden de 19 de febrero de 1991 por la que se establecen normas en campañas de saneamiento ganadero, para la erradicación de la brucelosis en el ganado ovino y caprino.
+
+Asimismo, quedarán derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este Real Decreto.
+
+##### Disposición final primera. Facultad de desarrollo.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para dictar las disposiciones necesarias para el cumplimiento de lo dispuesto en el presente Real Decreto y, en particular, para modificar los anexos.
+
+Sin perjuicio de lo previsto en el apartado anterior, por orden del Ministerio de Agricultura, Pesca y Alimentación se podrán adoptar las medidas necesarias para hacer efectivos los respectivos programas nacionales de prevención, control, lucha o erradicación, respecto de las enfermedades a que se refiere el segundo párrafo del artículo 2 del presente real decreto.
+
+> Se modifica por la disposición final 1.4 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+##### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 20 de diciembre de 1996.
+
+JUAN CARLOS R.
+
+La Ministra de Agricultura, Pesca y Alimentación,
+
+LOYOLA DE PALACIO DEL VALLE-LERSUNDI
+
+## ANEXO 1 — Diagnóstico de tuberculosis bovina
+
+1\. Identificación del agente.
+
+La presencia de Mycobacterium bovis (M. bovis), agente de la tuberculosis bovina, en muestras clínicas y de autopsia puede demostrarse examinando frotis teñidos o mediante técnicas de inmunoperoxidasa y confirmarse mediante cultivo del organismo en medio de aislamiento primario.
+
+El material patológico para la confirmación de M. bovis debe tomarse de ganglios linfáticos anormales y órganos parenquimatosos, como los pulmones, el hígado, el bazo, etc. Cuando el animal no presente lesiones patológicas, deberán recogerse muestras de los ganglios linfáticos retrofaríngeos, bronquiales, mediastínicos, supramamarios y mandibulares, así como de algunos ganglios linfáticos mesentéricos y del hígado, para su examen y cultivo.
+
+La identificación de las cepas aisladas podrá realizarse habitualmente determinando las propiedades bioquímicas y de cultivo. También podrá emplearse la reacción en cadena de la polimerasa para la detección del complejo de M. tuberculosis.
+
+Las técnicas de análisis del ADN pueden resultar más rápidas y fiables que los métodos bioquímicos para la diferenciación de M. bovis de otros miembros del complejo de M. tuberculosis. La huella genética permite distinguir entre diferentes cepas de M. bovis y posibilitará la descripción de patrones del origen, transmisión y propagación de M. bovis.
+
+Las técnicas y medios utilizados, su normalización y la interpretación de los resultados deben ajustarse a los que se precisan en el capítulo 2.3.3 (tuberculosis bovina) de la cuarta edición (2000) del Manual de normas para las pruebas de diagnóstico y las vacunas de la OIE.
+
+2\. Intradermotuberculinización.
+
+Los derivados proteínicos purificados de la tuberculina que cumplan las normas establecidas en el apartado 2.1 se utilizarán para realizar la intradermotuberculinización oficial con arreglo a los procedimientos mencionados en el apartado 2.2.
+
+2.1 Normas aplicables a la tuberculina (bovina y aviar).
+
+2.1.1 Definición.
+
+El derivado proteínico purificado de la tuberculina (bovina o aviar) es un preparado que se obtiene, previo calentamiento, de productos del crecimiento y la lisis de Mycobacterium bovis o Mycobacterium avium (M. avium), según corresponda, capaz de poner de manifiesto hipersensibilidad retardada en un animal sensibilizado a los microorganismos de la misma especie.
+
+2.1.2 Producción.
+
+Se obtiene a partir de fracciones hidrosolubles preparadas calentando en vapor libre y filtrando posteriormente cultivos de M. bovis o M. avium (según corresponda) en un medio líquido sintético. La fracción activa del filtrado, consistente principalmente en proteínas, se aísla mediante precipitación, se lava y se vuelve a disolver. Puede añadirse un conservante antimicrobiano que no produzca reacciones positivas falsas, como el fenol. La preparación estéril final, libre de micobacterias, se distribuye asépticamente en recipientes de vidrio inviolables que se cierran después para evitar que se contaminen. El preparado puede liofilizarse.
+
+2.1.3 Identificación del producto.
+
+Inyectar por vía intradérmica en puntos diferentes varias dosis graduadas a cobayas albinos sensibilizados convenientemente, cada uno de los cuales debe pesar al menos 250 g. Al cabo de un período de 24 a 28 horas, se producen reacciones en forma de hinchazones edematosas con eritema, acompañadas o no de necrosis en el punto de inyección. El tamaño e importancia de las reacciones varía de acuerdo con la dosis. Los cobayas que no se hayan sensibilizado no presentan reacción a inyecciones de este tipo.
+
+2.1.4 Pruebas.
+
+2.1.4.1 pH: el pH debe oscilar entre 6,5 y 7,5.
+
+2.1.4.2 Fenol: si el preparado que vaya a examinarse contiene fenol, su concentración no debe ser superior a 5 g/l.
+
+2.1.4.3 Efecto sensibilizante: emplear un grupo de tres cobayas que no hayan sido tratados con ningún material que pueda interferir con la prueba. En tres ocasiones, a intervalos de cinco días, inyectar por vía intradérmica a cada cobaya una dosis del preparado que se vaya a examinar, equivalente a 500 UI en 0,1 ml. Entre 15 y 21 días después de la tercera inyección, inyectar la misma dosis (500 UI) por vía intradérmica a esos animales y a un grupo de control de tres cobayas del mismo peso a los que no se les haya inyectado previamente tuberculina. Entre 24 y 28 horas después de las últimas inyecciones, las reacciones de los dos grupos no son muy diferentes.
+
+2.1.4.4 Toxicidad: emplear dos cobayas, cada uno de los cuales debe pesar al menos 250 g, que no hayan sido tratados previamente con ningún material que pueda interferir con la prueba. Inyectar por vía subcutánea a cada animal 0,5 ml del preparado que se vaya a examinar. Observar los animales durante siete días. En el período de observación no se producen efectos anormales.
+
+2.1.4.5 Esterilidad: se debe cumplir la prueba de esterilidad prescrita en la monografía sobre vacunas de uso veterinario de la cuarta edición (2002) de la Farmacopea Europea.
+
+2.1.5. Actividad.
+
+La actividad del derivado proteínico purificado de la tuberculina (bovina y aviar) se determina comparando las reacciones producidas en cobayas sensibilizados mediante la inyección intradérmica de una serie de diluciones del preparado que se vaya a examinar con las producidas por concentraciones conocidas de un preparado de referencia de derivado proteínico purificado de tuberculina (bovina o aviar, según corresponda), calibrado en unidades internacionales.
+
+Para probar la actividad, sensibilizar como mínimo nueve cobayas albinos, cada uno de los cuales debe pesar entre 400 y 600 g, mediante una inyección intramuscular profunda de 0,0001 mg de masa húmeda de M. bovis vivo de la cepa AN5, suspendida en 0,5 ml de una solución de 9 g/l de cloruro de sodio R, en el caso de la tuberculina bovina, o una dosis adecuada de M. avium inactivado o vivo, en el de la tuberculina aviar. Transcurridas al menos cuatro semanas tras la sensibilización de los cobayas, afeitar los costados de los animales para disponer de espacio para un máximo de cuatro puntos de inyección en cada lado. Preparar diluciones del preparado que se vaya a examinar y del preparado de referencia utilizando una solución salina isotónica amortiguadora de fosfatos (pH 6,5-7,5) que contenga 0,005 g/l de polisorbato 80 R. Utilizar al menos tres dosis del preparado de referencia y otras tantas del preparado que vaya a examinarse. Escoger las dosis de modo que las lesiones producidas tengan un diámetro comprendido entre 8 y 25 mm. Distribuir aleatoriamente las diluciones entre los puntos valiéndose de un cuadrado latino. Inyectar cada dosis intradérmicamente en un volumen constante de 0,1 o 0,2 ml. Transcurridas entre 24 y 28 horas, medir los diámetros de las lesiones y calcular el resultado de la prueba utilizando los métodos estadísticos habituales, basándose en el supuesto de que los diámetros de las lesiones son directamente proporcionales al logaritmo de la concentración de las tuberculinas.
+
+La prueba no será válida a menos que los límites de error (con una confianza P = 0,95) estén entre el 50 y el 200 % de la actividad calculada. La actividad calculada estará entre el 66 y el 150 % de la actividad declarada de la tuberculina bovina. La actividad calculada estará entre el 75 y el 133 % de la actividad declarada de la tuberculina aviar. La actividad declarada será al menos igual a 20000 UI/ml para ambas tuberculinas (bovina y aviar).
+
+2.1.6 Almacenamiento.
+
+Almacenar al abrigo de la luz, a una temperatura de 5 ± 3 º C.
+
+2.1.7 Etiquetado.
+
+La etiqueta debe indicar:
+
+a) La actividad en unidades internacionales por mililitro.
+
+b) El nombre y la cantidad de las eventuales sustancias añadidas.
+
+c) En el caso de preparados liofilizados:
+
+1.º El nombre y volumen del líquido reconstituyente que debe añadirse.
+
+2.º Que el producto debe utilizarse inmediatamente después de la reconstitución.
+
+2.2 Procedimientos de prueba.
+
+2.2.1 Se considerarán intradermotuberculinizaciones oficiales:
+
+a) La intradermotuberculinización sencilla: esta prueba requiere una única inyección de tuberculina bovina.
+
+b) La intradermotuberculinización de comparación: esta prueba requiere una inyección de tuberculina bovina y una inyección de tuberculina aviar, administradas simultáneamente.
+
+2.2.2 La dosis de tuberculina inyectada será:
+
+a) Igual o superior a 2000 UI de tuberculina bovina.
+
+b) Igual o superior a 2000 UI de tuberculina aviar.
+
+2.2.3 El volumen de cada inyección no rebasará los 0,2 ml.
+
+2.2.4 Las tuberculinizaciones se realizarán inyectando tuberculina en la piel del cuello. Los puntos de inyección estarán situados en el límite de los tercios anterior y medio del cuello. Cuando se inyecte tuberculina aviar y bovina al mismo animal, el punto de inyección de la tuberculina aviar estará situado a unos 10 cm del borde superior del cuello y el de la tuberculina bovina, unos 12,5 cm más abajo en una línea aproximadamente paralela a la del hombro o en lados diferentes del cuello ; tratándose de animales jóvenes en los que no haya espacio para separar suficientemente los puntos de inyección en un lado del cuello, se administrará una inyección a cada lado del cuello en puntos idénticos, en el centro del tercio medio de éste.
+
+2.2.5 La técnica de la tuberculinización y la interpretación de las reacciones serán las siguientes:
+
+2.2.5.1 Técnica.
+
+Los puntos de inyección se rasurarán y limpiarán. En cada zona rasurada se tomará un pliegue de piel entre el índice y el pulgar, se medirá con un compás y se anotará el resultado. A continuación se inyectará la dosis de tuberculina siguiendo un método que garantice que aquélla se administra intradérmicamente. Podrá utilizarse una aguja corta estéril, con la parte biselada hacia fuera, de una jeringuilla graduada que contenga tuberculina, que se insertará oblicuamente en las capas más profundas de la piel. Para confirmar si una inyección se ha efectuado correctamente deberá palparse una hinchazón del tamaño de un guisante en cada punto de inyección. El grosor del pliegue de piel de cada punto de inyección se medirá de nuevo 72 horas (+/- 4 h) después de la inyección y se anotará el resultado.
+
+2.2.5.2 Interpretación de las reacciones.
+
+La interpretación de las reacciones se basará en observaciones clínicas y en el aumento de grosor de los pliegues de piel en los puntos de inyección, anotados 72 horas después de haber inyectado la tuberculina.
+
+a) Reacción negativa: sólo se observa una hinchazón limitada, con un aumento del grosor del pliegue de piel no superior a 2 mm, sin signos clínicos tales como edema difuso o extensivo, exudación, necrosis, dolor o inflamación de los conductos linfáticos de esa región o de los ganglios linfáticos.
+
+b) Reacción dudosa: no se observa ninguno de los signos clínicos mencionados en el párrafo a) y el aumento de grosor del pliegue de piel es superior a 2 mm e inferior a 4.
+
+c) Reacción positiva: se observan signos clínicos de los mencionados en el párrafo a) o el grosor del pliegue de piel del punto de inyección aumenta 4 mm o más.
+
+2.2.5.3 La interpretación de las intradermotuberculinizaciones oficiales será la siguiente:
+
+2.2.5.3.1 Intradermotuberculinización sencilla:
+
+a) Positiva: reacción bovina positiva como la descrita en el párrafo c) del apartado 2.2.5.2.
+
+b) Dudosa: reacción dudosa como la descrita en el párrafo b) del apartado 2.2.5.2.
+
+c) Negativa: reacción bovina negativa como la descrita en el párrafo a) del apartado 2.2.5.2.
+
+Los animales en los que la intradermotuberculinización sencilla haya dado resultados dudosos serán sometidos a otra tuberculinización después de un plazo mínimo de 42 días.
+
+Los animales en los que esta segunda prueba no dé resultados negativos se considerarán positivos.
+
+Los animales en los que la intradermotuberculinización sencilla dé resultados positivos podrán someterse a una intradermotuberculinización de comparación si se sospecha la existencia de una reacción positiva falsa o una reacción de interferencia.
+
+2.2.5.3.2 Intradermotuberculinización de comparación para la determinación y el mantenimiento de la calificación de explotación oficialmente libre de tuberculosis:
+
+a) Positiva: reacción bovina positiva que sea superior en más de 4 mm a la reacción aviar, o presencia de signos clínicos.
+
+b) Dudosa: reacción bovina positiva o dudosa que sea de 1 a 4 mm superior a la reacción aviar, y ausencia de signos clínicos.
+
+c) Negativa: reacción bovina negativa, o reacción bovina positiva o dudosa pero que sea igual o inferior a una reacción aviar positiva o dudosa, y ausencia de signos clínicos en ambos casos.
+
+Los animales en los que la intradermotuberculinización de comparación haya dado resultados dudosos deberán ser sometidos a otra tuberculinización transcurrido un plazo mínimo de 42 días. Los animales en los que esta segunda prueba no dé resultados negativos se considerarán positivos.
+
+2.2.5.3.3 La calificación de explotación oficialmente libre de tuberculosis podrá suspenderse y los animales procedentes de ella no podrán ser objeto de intercambios comerciales intracomunitarios mientras no se determine la calificación de los animales siguientes:
+
+a) Animales que se hayan considerado dudosos en la intradermotuberculinización sencilla.
+
+b) Animales que se hayan considerado positivos en la intradermotuberculinización sencilla, pero que deban someterse de nuevo a una prueba por intradermotuberculinización de comparación.
+
+c) Animales que se hayan considerado dudosos en la intradermotuberculinización de comparación.
+
+2.2.5.3.4 Cuando la legislación comunitaria exija que los animales se sometan a una intradermotuberculinización antes de su traslado, se interpretará la prueba para que ningún animal que muestre un aumento del grosor del pliegue de la piel superior a 2 mm o la presencia de signos clínicos sea objeto de intercambios comerciales intracomunitarios.
+
+2.2.5.3.5 Para permitir la detección del máximo número de animales infectados o enfermos de una explotación o una región, los Estados miembros podrán modificar los criterios para la interpretación de la prueba con el fin de mejorar la sensibilidad de ésta considerando que todas las reacciones dudosas mencionadas en el párrafo b) de los apartados 2.2.5.3.1 y 2.2.5.3.2 son reacciones positivas.
+
+3\. Pruebas suplementarias.
+
+Para permitir la detección del máximo número de animales infectados o enfermos de una explotación o una provincia, podrá autorizarse el empleo de la prueba de interferón gamma a que se refiere el capítulo 2.3.3 (tuberculosis bovina) de la cuarta edición (2000) del Manual de normas para las pruebas de diagnóstico y las vacunas de la Oficina Internacional de Epizootias, además de la tuberculinización.
+
+4\. Laboratorio Nacional de Referencia.
+
+El Laboratorio Nacional de Referencia se encargará, sin perjuicio de lo dispuesto en los artículos 9, 11 y 14, de la comprobación oficial de las tuberculinas o los reactivos a que se refieren los apartados 2 y 3, dentro de España, para garantizar que se ajustan a las normas anteriormente mencionadas.
+
+> Se modifica el apartado 4 por la disposición final 1.5 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+> Se modifica por el art. único.10 del Real Decreto 1047/2003, de 1 de agosto. [Ref. BOE-A-2003-17233](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-17233)
+
+> Redactado el apartado 3 conforme la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+## ANEXO 2 — Diagnóstico de brucelosis bovina
+
+1\. Identificación del agente.–La demostración, mediante tinción inmunoespecífica o acidorresistente modificada, de la presencia de organismos con morfología de brucela en material procedente de abortos, flujo vaginal o leche implica una presunción de brucelosis, especialmente si se corrobora con pruebas serológicas. Los métodos de reacción en cadena de la polimerasa ofrecen métodos de detección adicionales.
+
+En la medida de lo posible, las bacterias del género brucela deben aislarse con medios simples o selectivos, por cultivo a partir de flujos uterinos, fetos abortados, secreciones mamarias o tejidos seleccionados, como ganglios linfáticos y órganos reproductores masculinos y femeninos.
+
+Una vez aisladas las bacterias, deben identificarse la especie y la biovariedad mediante lisis por fagos o pruebas del metabolismo oxidativo y criterios de cultivo, bioquímicos y serológicos. La reacción en cadena de la polimerasa puede ofrecer un método complementario y biotipológico basado en secuencias genómicas específicas.
+
+Las técnicas y los medios utilizados, su normalización, así como la interpretación de los resultados deben ajustarse a lo dispuesto en el capítulo 2.4.3 (brucelosis bovina), 2.7.2 (brucelosis caprina y ovina) y 2.8.5 (brucelosis porcina) del Manual de las Pruebas de Diagnóstico y de las Vacunas para los Animales Terrestres de la OIE, sexta edición, de 2008.
+
+2\. Pruebas inmunológicas.
+
+2.1 Estándares.
+
+2.1.1 Para la preparación de todos los antígenos utilizados en las pruebas del rosa de Bengala, de seroaglutinación, de fijación del complemento y del anillo de leche se utilizarán las cepas Weybridge 99 o USDA 1119-3 de la biovariedad 1 de Brucella abortus.
+
+2.1.2 Para las pruebas del rosa de Bengala, de seroaglutinación, de fijación del complemento y del anillo de leche se utilizará el suero estándar de referencia internacional de la OIE, anteriormente denominado segundo suero anti-Brucella abortus internacional de la OMS (ISAbS).
+
+2.1.3 Los sueros estándar de referencia para los enzimoinmunoanálisis de adsorción (ELISA) serán los siguientes:
+
+El suero estándar de referencia internacional de la OIE.
+
+El suero estándar débilmente positivo de la OIE para ELISA.
+
+El suero estándar fuertemente positivo de la OIE para ELISA.
+
+El suero estándar negativo de la OIE para ELISA.
+
+2.1.4 Los sueros estándar de referencia para los ensayos de fluorescencia polarizada serán los siguientes:
+
+El suero estándar débilmente positivo de la OIE para ELISA.
+
+El suero estándar fuertemente positivo de la OIE para ELISA.
+
+El suero estándar negativo de la OIE para ELISA.
+
+2.1.5 Los sueros estándar mencionados en los puntos 2.1.3 y 2.1.4 pueden obtenerse en el laboratorio comunitario de referencia para la brucelosis o la Veterinary Laboratories Agency (VLA), Weybridge, Reino Unido.
+
+2.1.6 El suero estándar de referencia internacional de la OIE y los sueros estándar débilmente positivo, fuertemente positivo y negativo de la OIE para ELISA son estándares primarios internacionales a partir de los cuales deben establecerse sueros estándar nacionales secundarios de referencia (en lo sucesivo, estándares de trabajo) para cada prueba mencionada en el punto 2.1.1.
+
+2.2 Enzimoinmunoanálisis de adsorción (ELISA) u otros análisis de saturación para la detección de la brucelosis bovina en suero o leche.
+
+2.2.1 Material y reactivos.–La técnica empleada y la interpretación de los resultados deberán haberse validado de conformidad con los principios establecidos en el capítulo 1.1.4 del Manual de las Pruebas de Diagnóstico y de las Vacunas para los Animales Terrestres de la OIE, sexta edición, de 2008, e incluirán al menos estudios de laboratorio y de diagnóstico.
+
+2.2.2 Normalización de la prueba.
+
+2.2.2.1 Normalización del procedimiento de prueba para muestras individuales de suero:
+
+a) Una predilución al 1/150 <sub>(1)</sub> de suero estándar de referencia internacional de la OIE, una predilución al 1/2 de suero estándar débilmente positivo de la OIE para ELISA o una predilución al 1/16 de suero estándar fuertemente positivo de la OIE para ELISA en un suero negativo (o en una mezcla de sueros negativos) deberán dar una reacción positiva;
+
+b) Una predilución al 1/600 de suero estándar de referencia internacional de la OIE, una predilución al 1/8 de suero estándar débilmente positivo de la OIE para ELISA o una predilución al 1/64 de suero estándar fuertemente positivo de la OIE para ELISA en un suero negativo (o en una mezcla de sueros negativos) deberán dar una reacción negativa;
+
+c) El suero estándar negativo de la OIE para ELISA deberá dar siempre una reacción negativa.
+
+2.2.2.2 Normalización del procedimiento de prueba para muestras mezcladas de suero:
+
+a) Una predilución al 1/150 de suero estándar de referencia internacional de la OIE, una predilución al 1/2 de suero estándar débilmente positivo de la OIE para ELISA o una predilución al 1/16 de suero estándar fuertemente positivo de la OIE para ELISA en un suero negativo (o en una mezcla de sueros negativos) y diluidas de nuevo en sueros negativos por el número de muestras que componen la mezcla deberán dar una reacción positiva;
+
+b) El suero estándar negativo de la OIE para ELISA deberá dar siempre una reacción negativa;
+
+c) La prueba deberá ser adecuada para detectar indicios de infección en un solo animal del grupo de animales cuyas muestras de suero se han mezclado.
+
+2.2.2.3 Normalización del procedimiento de prueba para muestras mezcladas de leche o de lactosuero:
+
+a) Una predilución al 1/1000 de suero estándar de referencia internacional de la OIE, una predilución al 1/16 de suero estándar débilmente positivo de la OIE para ELISA o una predilución al 1/125 de suero estándar fuertemente positivo de la OIE para ELISA en un suero negativo (o en una mezcla de sueros negativos) y diluidas de nuevo al 1/10 en leche negativa deberán dar una reacción positiva;
+
+b) El suero estándar negativo de la OIE para ELISA diluido al 1/10 en leche negativa deberá dar siempre una reacción negativa;
+
+c) La prueba deberá ser adecuada para detectar indicios de infección en un solo animal del grupo de animales cuyas muestras de leche o de lactosuero se hayan mezclado.
+
+2.2.3 Condiciones para la utilización de las pruebas ELISA en el diagnóstico de la brucelosis bovina.
+
+2.2.3.1 En las condiciones de calibración para las pruebas ELISA indicadas en los puntos 2.2.2.1 y 2.2.2.2 sobre las muestras de suero, la sensibilidad de diagnóstico de dichas pruebas deberá ser igual o superior a la de la prueba del rosa de Bengala o a la de la prueba de fijación del complemento, teniendo en cuenta la situación epidemiológica en que se realicen.
+
+2.2.3.2 En las condiciones de calibración para las pruebas ELISA indicadas en el punto 2.2.2.3 sobre muestras mezcladas de leche, la sensibilidad de diagnóstico de dichas pruebas deberá ser igual o superior a la de la prueba del anillo de leche, teniendo en cuenta no solo la situación epidemiológica, sino también los sistemas de cría de ganado medios y previsiblemente extremos.
+
+2.2.3.3 Si las pruebas ELISA se emplean para la certificación de conformidad con el artículo 6.1 del Real Decreto 1716/2000, de 13 de octubre, o para el establecimiento y mantenimiento del estatuto de un rebaño de conformidad con el punto 11 de la parte II del anexo I de dicho real decreto, la mezcla de las muestras de suero deberá realizarse de forma que los resultados de las pruebas puedan vincularse sin ningún género de duda a los distintos animales cuyas muestras se hayan mezclado. Toda prueba de confirmación deberá efectuarse con muestras de suero tomadas de animales por separado.
+
+2.2.3.4 Las pruebas ELISA podrán utilizarse con una muestra de la leche recogida en una explotación que tenga al menos un 30% de vacas lecheras en fase de producción de leche. Si se emplea ese método, deberán aplicarse medidas para que las muestras examinadas puedan vincularse sin ningún género de duda a los distintos animales de los que procede la leche. Toda prueba de confirmación deberá efectuarse con muestras de suero tomadas de animales por separado.
+
+2.3. Prueba de fijación del complemento (FdC).
+
+2.3.1 El antígeno consiste en una suspensión bacteriana en solución salina de fenol [NaCl al 0,85% (m/v) y fenol al 0,5% (v/v)] o en una solución amortiguadora de veronal. Los antígenos podrán presentarse en forma concentrada, siempre que en la etiqueta del frasco se indique el factor de dilución que debe utilizarse. El antígeno se almacenará a 4 °C y no se congelará.
+
+2.3.2 Los sueros se inactivarán de la manera siguiente:
+
+Suero bovino: 56 a 60 °C durante 30 a 50 minutos.
+
+Suero porcino: 60 °C durante 30 a 50 minutos.
+
+2.3.3 Con objeto de provocar la reacción genuina en el procedimiento de la prueba, se utilizará una dosis de complemento superior a la mínima necesaria para lograr una hemolisis completa.
+
+2.3.4 Al realizar la prueba de fijación del complemento, se efectuarán, cada vez, los controles siguientes:
+
+a) Control del efecto anticomplementario del suero.
+
+b) Control del antígeno.
+
+c) Control de los eritrocitos sensibilizados.
+
+d) Control del complemento.
+
+e) Control de la sensibilidad, mediante un suero positivo, al principio de la reacción.
+
+f) Control de la especificidad de la reacción, mediante un suero negativo.
+
+2.3.5 Cálculo de los resultados.–El suero estándar de referencia internacional de la OIE (OIEISS) contiene 1000 unidades internacionales de prueba FdC por mililitro. Si este suero se somete a prueba con un método concreto, el resultado se expresará mediante un título (dilución directa más alta del suero estándar de referencia internacional de la OIE que permita obtener una hemolisis del 50%, TOIEISS). El resultado de la prueba con el suero problema indicado como título (TSUERO PROBLEMA) se expresará en unidades internacionales de prueba FdC por mililitro. El factor de conversión (F) necesario para pasar del título de un suero problema desconocido (TSUERO PROBLEMA) examinado por dicho método a su expresión en unidades internacionales de prueba FdC podrá determinarse con la fórmula siguiente:
+
+### F = 1 000 × 1/TOIEISS
+
+y el contenido de unidades internacionales de prueba FdC por mililitro de suero problema (UIPFdCSUERO PROBLEMA) podrá determinarse con la fórmula siguiente:
+
+### UIPFdC<sub>SUERO PROBLEMA</sub> = F × T<sub>SUERO PROBLEMA</sub>
+
+2.3.6 Interpretación de los resultados.–Se considerará positivo un suero que contenga 20 o más unidades internacionales de prueba FdC por mililitro.
+
+2.4 Prueba del anillo de leche.
+
+2.4.1 El antígeno consiste en una suspensión bacteriana en solución salina de fenol [NaCl al 0,85% (m/v) y fenol al 0,5% (v/v)] marcada con hematoxilina. El antígeno se almacenará a 4 °C y no se congelará.
+
+2.4.2 La sensibilidad del antígeno deberá estar normalizada con relación al suero estándar de referencia internacional de la OIE, de forma que el antígeno dé una reacción positiva con una dilución al 1/500 de dicho suero estándar en leche negativa, mientras que con una dilución al 1/1000 la reacción deberá ser negativa.
+
+2.4.3 La prueba del anillo se hará con muestras que representen el contenido de cada lechera o depósito a granel de la explotación.
+
+2.4.4 Las muestras de leche no se habrán congelado, calentado ni agitado fuertemente.
+
+2.4.5 La reacción se provocará con uno de los métodos siguientes:
+
+En una columna de leche de al menos 25 mm de altura y un volumen de leche de 1 ml al que se habrán añadido 0,03 ml o 0,05 ml de uno de los antígenos estándar marcados.
+
+En una columna de leche de al menos 25 mm de altura y un volumen de leche de 2 ml al que se habrán añadido 0,05 ml de uno de los antígenos estándar marcados.
+
+En un volumen de leche de 8 ml al que se habrán añadido 0,08 ml de uno de los antígenos estándar marcados.
+
+2.4.6 La mezcla de leche y antígenos deberá incubarse a 37 °C durante 60 minutos, junto con estándares de trabajo positivos y negativos. Posteriormente, una incubación de entre 16 y 24 horas a 4 °C aumentará la sensibilidad de la prueba.
+
+2.4.7 Interpretación de los resultados:
+
+a) Reacción negativa: leche coloreada, nata incolora.
+
+b) Reacción positiva: leche y nata de idéntica coloración, o leche incolora y nata coloreada.
+
+2.5 Prueba del antígeno de brucela amortiguado (prueba del rosa de Bengala).
+
+2.5.1 El antígeno consiste en una suspensión bacteriana en diluyente de antígeno de brucela amortiguado a un pH de 3,65 ± 0,05, marcado con el colorante rosa de Bengala. El antígeno se suministrará listo para su uso, se almacenará a 4 °C y no se congelará.
+
+2.5.2 El antígeno se preparará sin tener en cuenta la concentración celular, pero su sensibilidad deberá estar normalizada con relación al suero estándar de referencia internacional de la OIE de forma que el antígeno dé una reacción positiva con una dilución de suero al 1/45 y una reacción negativa con una dilución al 1/55.
+
+2.5.3 La prueba del rosa de Bengala se realizará de la manera siguiente:
+
+a) Se mezclan 20-30 μl de suero con el mismo volumen de antígeno en una placa blanca de porcelana o de esmalte para obtener una zona de un diámetro aproximado de 2 cm; se agita suavemente la muestra durante 4 minutos a temperatura ambiente y a continuación se observa con buena iluminación si se ha producido aglutinación.
+
+b) Podrá utilizarse un método automatizado, pero deberá ser al menos tan sensible y exacto como el método manual.
+
+2.5.4 Interpretación de los resultados.–Toda reacción visible deberá considerarse positiva, a menos que haya un exceso de sequedad alrededor de los bordes. En cada serie de pruebas se incluirán estándares de trabajo positivos y negativos.
+
+2.6 Prueba de seroaglutinación.
+
+2.6.1 El antígeno consistirá en una suspensión bacteriana en una solución salina de fenol [NaCl al 0,85% (m/v) y fenol al 0,5% (v/v)].
+
+No se utilizará formaldehído.
+
+Los antígenos podrán presentarse en forma concentrada, siempre que en la etiqueta del frasco se indique el factor de dilución que deberá utilizarse.
+
+Se podrá añadir EDTA a la suspensión de antígeno hasta alcanzar una dilución final de prueba de 5 mM para reducir el nivel de falsos positivos en la prueba de seroaglutinación. Posteriormente, se reajustará el pH de 7,2 en la suspensión de antígeno.
+
+2.6.2 El suero estándar de referencia internacional de la OIE contiene 1000 unidades internacionales de aglutinación.
+
+2.6.3 El antígeno se preparará sin tener en cuenta la concentración celular, pero su sensibilidad deberá normalizarse con relación al suero estándar de referencia internacional de la OIE de forma que el antígeno produzca una aglutinación del 50% con una dilución final del suero del 1/600 al 1/1000, o una aglutinación del 75% con una dilución final del suero del 1/500 al 1/750.
+
+También puede ser recomendable comparar la reactividad entre lotes de antígeno nuevos y previamente normalizados utilizando un grupo de sueros definidos.
+
+2.6.4 La prueba se realizará en tubos o en microplacas. La mezcla de antígeno y diluciones de suero se incubará durante 16 a 24 horas a 37 °C.
+
+Se prepararán al menos tres diluciones para cada suero. Las diluciones de suero sospechoso se realizarán de forma que la lectura de la reacción al límite de positividad se haga en el tubo intermedio (o en el pocillo intermedio en el caso del método con microplaca).
+
+2.6.5 Interpretación de los resultados.–El grado de aglutinación de brucela en un suero se expresará en UI/ml. Se considerará positivo un suero que contenga 30 o más UI/ml.
+
+2.7 Ensayo de fluorescencia polarizada.
+
+2.7.1 El ensayo de fluorescencia polarizada podrá efectuarse en un tubo de cristal o una placa de 96 pocillos. La técnica utilizada, su normalización y la interpretación de los resultados deberán ser conformes a lo especificado en el capítulo 2.4.3 (brucelosis bovina) del Manual de las Pruebas de Diagnóstico y de las Vacunas para los Animales Terrestres de la OIE, sexta edición, de 2008.
+
+2.7.2 Normalización de la prueba.–El ensayo de fluorescencia polarizada se normalizará de tal manera que:
+
+a) El suero estándar fuertemente positivo de la OIE para ELISA y el suero estándar débilmente positivo de la OIE para ELISA den constantemente resultados positivos.
+
+b) Una predilución al 1/8 de suero estándar débilmente positivo de la OIE para ELISA o una predilución al 1/64 de suero estándar fuertemente positivo de la OIE para ELISA en un suero negativo (o en una mezcla de sueros negativos) den siempre una reacción negativa.
+
+c) El suero estándar negativo de la OIE para ELISA dé siempre una reacción negativa.
+
+En cada batería de pruebas se incluirá suero estándar de trabajo fuertemente positivo, débilmente positivo y negativo (calibrados respecto a los sueros estándar de la OIE para ELISA).
+
+3\. Pruebas complementarias.
+
+3.1 Prueba cutánea de la brucelosis.
+
+3.1.1 Condiciones para el uso de la prueba cutánea de la brucelosis.
+
+a) La prueba cutánea de la brucelosis no se utilizará con fines de certificación para el comercio intracomunitario.
+
+b) La prueba cutánea de la brucelosis es una de las más específicas para la detección de la presencia de brucelosis en animales no vacunados; no obstante, el diagnóstico no deberá realizarse únicamente a partir de reacciones intradérmicas positivas.
+
+c) Se considerarán infectados o sospechosos de estarlo los animales de la especie bovina que hayan dado un resultado negativo en una de las pruebas serológicas definidas en el presente anexo y que reaccionen positivamente a la prueba cutánea de la brucelosis.
+
+d) Los animales de la especie bovina que hayan dado un resultado positivo en una de las pruebas serológicas definidas en este anexo podrán someterse a una prueba cutánea de la brucelosis para corroborar la interpretación de los resultados de las pruebas serológicas, especialmente cuando no pueda excluirse una reacción cruzada con anticuerpos de otras bacterias en el caso de los rebaños indemnes de brucelosis u oficialmente indemnes de brucelosis.
+
+3.1.2 La prueba se realizará mediante un preparado alérgeno de la brucelosis normalizado y definido que no contenga el antígeno lipopolisacárido liso, dado que este último puede provocar reacciones inflamatorias inespecíficas o interferir con pruebas serológicas posteriores. Las condiciones de producción de brucelina serán conformes a lo dispuesto en la sección C1 del capítulo 2.4.3 del Manual de las Pruebas de Diagnóstico y de las Vacunas para los Animales Terrestres de la OIE, sexta edición, de 2008.
+
+3.1.3 Procedimiento de la prueba.
+
+3.1.3.1 Se inyectará por vía intradérmica un volumen de 0,1 ml de alérgeno de la brucelosis en el pliegue caudal, en la piel de la ijada o en un lado del cuello.
+
+3.1.3.2 La prueba se leerá una vez transcurridas entre 48 y 72 horas.
+
+3.1.3.3 Antes de la inyección y en el momento de la lectura, se medirá con un pie de rey el grosor de la piel en el lugar de la inyección.
+
+3.1.3.4 Interpretación de los resultados.–Las reacciones fuertes se reconocen fácilmente por la inflamación y la induración locales. Se considerará que la reacción a la prueba cutánea de la brucelosis es positiva si se produce un aumento del grosor de la piel de entre 1,5 y 2 mm.
+
+3.2 Enzimoinmunoanálisis de adsorción competitivo (ELISAc).
+
+3.2.1 Condiciones para el uso del ELISAc.–El ELISAc no se utilizará con fines de certificación para el comercio intracomunitario.
+
+Los animales de la especie bovina que hayan dado un resultado positivo en una de las pruebas serológicas definidas en este anexo podrán someterse a un ELISAc para corroborar la interpretación de los resultados de esa otra prueba serológica, especialmente cuando no pueda excluirse una reacción cruzada con anticuerpos de otras bacterias en el caso de los rebaños indemnes de brucelosis u oficialmente indemnes de brucelosis o para eliminar las reacciones causadas por anticuerpos residuales producidos en respuesta a la vacunación con B19.
+
+3.2.2 Procedimiento de la prueba.–La prueba se efectuará según lo prescrito en la sección B(2) del capítulo 2.4.3 del Manual de las Pruebas de Diagnóstico y de las Vacunas para los Animales Terrestres de la OIE, sexta edición, de 2008.
+
+4\. Laboratorio nacional de referencia.
+
+4.1**(Suprimido)**
+
+4.2 Tareas y responsabilidades.–Las tareas y responsabilidad del Laboratorio Nacional de Referencia, sin perjuicio de lo dispuesto en los artículos 9, 11 y 14 y en la disposición transitoria cuarta, del presente real decreto, y en el artículo 29 de la Ley 8/2003, de 24 de abril, son las siguientes:
+
+a) La aprobación de los resultados de los estudios de validación que demuestren la fiabilidad del método de prueba utilizado en España.
+
+b) La determinación del número máximo de muestras que deben mezclarse en las baterías de ELISA utilizadas.
+
+c) La calibración de los estándares de trabajo contemplados en el punto 2.1.6.
+
+d) los controles de calidad de todos los lotes de antígenos y de baterías de ELISA utilizados en España.
+
+e) La aplicación de las recomendaciones del laboratorio comunitario de referencia para la brucelosis y la cooperación con dicho Laboratorio comunitario.
+
+(1) A efectos de este anexo, las diluciones para preparar los reactivos líquidos se expresan con una fracción, por ejemplo 1/150, que indica una dilución de 1 en 150.
+
+> Se suprime el apartado 4.1 por la disposición final 1.5 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+> Se modifica por el art. único de la Orden ARM/2166/2009, de 29 de julio. [Ref. BOE-A-2009-13174](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13174)
+
+> Se modifica por el art. único.11 del Real Decreto 1047/2003, de 1 de agosto. [Ref. BOE-A-2003-17233](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-17233)
+
+> Redactadas las secciones C) y D) conforme la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+## ANEXO 3 — Diagnóstico de leucosis bovina enzoótica
+
+1\. La detección de la leucosis enzoótica bovina se realizará mediante las pruebas previstas en la Decisión 2009/976/UE, de la Comisión, de 15 de diciembre de 2009, por la que se modifica el anexo D de la Directiva 64/432/CEE del Consejo en lo relativo a las pruebas de diagnóstico de la leucosis enzoótica bovina.
+
+2\. **(Suprimido)**
+
+> Se suprime el apartado 2 por la disposición final 1.5 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+> Se modifica por el art. único.9 del Real Decreto 727/2011, de 20 de mayo. [Ref. BOE-A-2011-10458](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10458).
+
+> Redactado el apartado 1.A).5 conforme la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+## ANEXO 4 — Diagnóstico de perineumonía contagiosa bovina
+
+#### A) Reacción de fijación del complemento de Campbell y Turner para la detección de anticuerpos en muestras de suero sanguíneo
+
+1\. Se trata de una técnica de fijación de complemento en caliente que requiere los siguientes elementos:
+
+a) Sistema hemolítico obtenido por la mezcla de volúmenes iguales de un suero hemolítico que contiene 12 unidades hemolíticas 50 por 100 y una suspensión de hematíes de carnero al 6 por 100.
+
+b) Solución de complemento de cobaya que contiene 2,5 unidades.
+
+c) Solución de antígeno de Campbell y Turner que contiene dos unidades.
+
+d) Diluciones de los sueros en prueba (1/10, 1/20, etcétera).
+
+2\. Los sueros deben ser inactivados como se detalla en el apartado 3 de la sección sección B del anexo 2 del presente Real Decreto.
+
+3\. Cada vez que se realice la prueba se efectuarán los siguientes controles:
+
+a) Control del efecto anticomplementario del suero.
+
+b) Control del antígeno.
+
+c) Control del sistema hemolítico.
+
+d) Control del complemento de cobaya.
+
+e) Control, con la ayuda de un suero positivo, de la sensibilidad al desencadenamiento de la reacción.
+
+f) Control, con la ayuda de un suero negativo, de la especificidad.
+
+4\. Criterio de interpretación:
+
+a) Se considerará positivo todo suero que diluido a 1/10 fije completamente el complemento (1/10++++).
+
+b) Los sueros que diluidos a 1/10 fijen parcialmente el complemento, se considerarán sospechosos.
+
+5\. El suero patrón positivo a la prueba de Reacción de Fijación de Complemento de Campbell y Turner será preparado por el Laboratorio Nacional de Referencia de micoplasmosis animales, de acuerdo con las recomendaciones del Laboratorio Europeo de Referencia.
+
+#### B) (suprimido)
+
+> Se suprime el apartado B) y se sustituye la referencia a "centro nacional de referencia" por "laboratorio nacional de referencia" por la disposición final 1.1 y 5 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+> Redactado el apartado A).2 conforme la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+## ANEXO 5 — Diagnóstico serológico de la brucelosis ovina y caprina por «brucella melitensis»
+
+La detección de la brucelosis (B. melitensis) se efectuará por medio de la prueba rosa bengala o por medio de la prueba de fijación del complemento que se describe a continuación o por cualquier otro método reconocido con arreglo al procedimiento comunitario previsto.
+
+#### A) Prueba del antígeno brucelar tamponado
+
+La prueba rosa bengala pueda ser utilizada como prueba de serodiagnóstico en las explotaciones de animales de las especies ovina o caprina con el fin de concederles el título de explotación oficialmente indemne o indemne de brucelosis.
+
+En caso de utilizar para la detección de brucelosis («brucella melitensis») la prueba de rosa bengala y obtener más de un 5 por 100 de los animales de la explotación con reacción positiva, se efectuará un control complementario de cada animal de la explotación mediante una prueba de fijación del complemento.
+
+1.º Método manual:
+
+1\. El suero patrón es el segundo suero patrón internacional «antibrucella abortus» suministrado por el Laboratorio Central Veterinario de Weybridge, Surrey, Inglaterra.
+
+2\. El antígeno se preparará sin referencia a la concentración celular, pero su sensibilidad debe ser contratada en relación con el suero patrón internacional de manera que el antígeno produzca una reacción positiva para una dilución de suero de 1:47,5 y una reacción negativa para una dilución de 1:55.
+
+3\. El antígeno tamponado a pH 3,65 ± 0,5y coloreado con rosa bengala.
+
+4\. Para preparar el antígeno se utilizará la cepa número 99 Weybridge a la cepa USDA 1119 u otra cepa de sensibilidad equivalente.
+
+5\. El antígeno será testado frente a ocho sueros liofilizados identificados como positivos y negativos.
+
+6\. La prueba deberá realizarse de la forma siguiente:
+
+a) Poner una gota (0,03 ml) de antígeno y una gota (0,03 ml) de suero sobre una placa blanca.
+
+b) Con la ayuda de un agitador proceder a la mezcla.
+
+c) Agitar a continuación la placa con movimientos alternativos de delante a atrás (alrededor de 10 movimientos por minuto, durante cuatro minutos).
+
+d) Efectuar la lectura bajo luz suficiente; en ausencia de aglutinación la prueba se considerará como negativa; toda aglutinación permite considerar la prueba como positiva a menos que se haya producido un secado excesivo sobre los bordes.
+
+2.º Método automático:
+
+El método automático deber tener al menos igual sensibilidad y precisión que el método manual.
+
+#### B) Reacción de fijación de complemento
+
+1\. El suero patrón contendrá por milímetro 1.000 unidades sensibilizadoras; estas unidades se denominan unidades sensibilizadoras CEE.
+
+2\. La tasa de anticuerpos fijadores de complemento en un suero se expresará en unidades CEE.
+
+3\. Los sueros deben ser inactivados de 56 a 60 .ºC durante treinta a cincuenta minutos.
+
+4\. Para la preparación de antígeno se utilizarán las copas Weybridge número 99 y USDA 1119.
+
+5\. Cuando se efectúe la reacción de fijación de complemento, es necesario proceder cada vez a los controles siguientes:
+
+a) Control del efecto anticomplementario del suero.
+
+b) Control del antígeno.
+
+c) Control de los hematíes sensibilizados.
+
+d) Control de complemento.
+
+e) Control con la ayuda de un suero positivo, de la sensibilidad al desencadenamiento de la reacción.
+
+f) Control de la especificidad de la reacción con la ayuda de un suero negativo.
+
+#### C) Criterios de interpretación
+
+La prueba de fijación del complemento queda reservada para las pruebas efectuadas individualmente a los animales la prueba de fijación del complemento podrá ser utilizada en las explotaciones de animales de las especies ovina o caprina con el fin de concederlas al título de explotación oficialmente indemne o indemne de brucelosis.
+
+Para la prueba de fijación del complemento, se considerará positivo al suero que contenga como mínimo 20 unidades UCE por mililitro.
+
+> Redactados los apartados A).1º.3 y C) conforme la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. [Ref. BOE-A-1997-8673](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8673)
+
+## ANEXO 6 — Calificación sanitaria de explotaciones de precebo y de cebaderos
+
+Todas las pruebas se realizarán a solicitud del titular del cebadero, corriendo de su cargo el coste de su realización.
+
+La obtención, mantenimiento, suspensión, recuperación o retirada del estatuto de cebadero calificado se regirá por lo dispuesto en los apartados I y II del anexo I del Real Decreto 1716/2000, de 13 de octubre, para el ganado vacuno, y en el capítulo I o el capítulo II del anexo A del Real Decreto 2121/1993, de 3 de diciembre, para el ovino o caprino, con las siguientes especialidades:
+
+a) Para la obtención del título, en el ganado vacuno, será preciso que la explotación se componga exclusivamente con animales procedentes de rebaños oficialmente indemnes de tuberculosis, oficialmente indemnes de brucelosis y oficialmente indemnes de leucosis enzoótica bovina, y que tras su composición se hayan realizado las pruebas previstas en el citado anexo I del Real Decreto 1716/2000, de 13 de octubre, con resultado favorable.
+
+b) Para el mantenimiento del título, las pruebas efectuadas para la obtención del título tendrán una validez de un año a los efectos de la realización de las pruebas anuales exigidas dentro de los programas nacionales de erradicación de la tuberculosis y la brucelosis bovina, o de la brucelosis ovina y caprina, que se ejecutan en la comunidad autónoma correspondiente.
+
+> Se modifica por el art. único.10 del Real Decreto 727/2011, de 20 de mayo. [Ref. BOE-A-2011-10458](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10458).
+
+> Se añade por el art. único.6 del Real Decreto 51/2004, de 19 de enero. [Ref. BOE-A-2004-1071](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1071)

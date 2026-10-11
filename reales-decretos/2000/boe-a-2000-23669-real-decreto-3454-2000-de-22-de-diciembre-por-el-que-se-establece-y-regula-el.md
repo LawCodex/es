@@ -1,0 +1,849 @@
+---
+title: "Real Decreto 3454/2000, de 22 de diciembre, por el que se establece y regula el Programa Integral coordinado de vigilancia y control de las encefalopatías espongiformes transmisibles de los animales"
+identifier: "BOE-A-2000-23669"
+eli: "https://www.boe.es/eli/es/rd/2000/12/22/3454"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2000-12-22
+published: 2000-12-23
+in_force_from: 2000-12-24
+last_amended: 2026-09-30
+consolidated: 2026-10-01
+gazette: "Boletín Oficial del Estado núm. 307"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-23669"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 3454/2000, de 22 de diciembre, por el que se establece y regula el Programa Integral coordinado de vigilancia y control de las encefalopatías espongiformes transmisibles de los animales
+
+Incluye la corrección de erratas publicada en BOE núm. 99, de 25 de abril de 2001. [Ref. BOE-A-2001-7998](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7998).
+
+Desde 1997, España ha realizado, siguiendo los criterios de la Oficina Internacional de Epizootías, y en aplicación de la normativa comunitaria, programas de control y vigilancia de las encefalopatías espongiformes transmisibles basados en una vigilancia pasiva.
+
+Se hace ahora preciso establecer las condiciones en que se va a desarrollar el Programa Integral coordinado de vigilancia y control de las encefalopatías espongiformes transmisibles de los animales, que incluye, como actuaciones concretas, los programas de vigilancia, de control de sustancias empleadas en la alimentación de animales, de inspección de establecimientos de transformación de subproductos y animales muertos y de control de los materiales especificados de riesgo.
+
+El presente Real Decreto ha sido sometido a consulta de las Comunidades Autónomas y de los sectores afectados.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación y de la Ministra de Sanidad y Consumo, con la aprobación del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 22 de diciembre de 2000,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+1\. El presente Real Decreto tiene por objeto establecer y regular el Programa Integral Coordinado de vigilancia y control de las encefalopatías espongiformes transmisibles de los animales (EET).
+
+2\. El Programa Integral Coordinado se articula en:
+
+a) Programa de vigilancia de las EET.
+
+b) Programa de control de las sustancias empleadas en la alimentación de los animales.
+
+c) Programa de inspección de los establecimientos de transformación de subproductos y animales muertos.
+
+d) Programa de control de los materiales especificados de riesgo.
+
+3\. En ningún caso la aplicación del programa podrá ir en detrimento del cumplimiento de las funciones específicas que los veterinarios oficiales tienen asignadas (inspección «antemortem» y «postmortem», así como la supervisión del resto de actividades) en el matadero.
+
+### Artículo 2. Definiciones.
+
+A los efectos del presente Real Decreto se entenderá por:
+
+a) Encefalopatías espongiformes transmisibles (EET): todas aquellas que no afectan a los seres humanos.
+
+b) Animales de producción: todo animal que se críe, mantenga o engorde para la producción de alimento.
+
+c) Productos de origen animal: todos los productos procedentes de cualquier animal o que contengan un producto de este tipo.
+
+d) Materias primas: los productos de origen vegetal o animal, en estado natural, frescos o conservados, y los productos derivados de su transformación industrial, así como las sustancias orgánicas o inorgánicas, con o sin aditivos, destinados a la alimentación de los animales por vía oral, transformadas o sin transformación alguna, a la preparación de piensos compuestos o como vehículos de premezclas.
+
+e) Proteínas animales elaboradas: las harinas de carne y hueso, la harina de carne, la harina de huesos, la harina de sangre, el plasma seco u otros productos derivados de la sangre, las proteínas hidrolizadas, la harina de pezuñas, la harina de asta, la harina de desechos de aves de corral, las harinas de pluma, los chicharrones desecados y los frescos, la harina de pescado, el fosfato dicálcico, la gelatina y otros productos similares, incluidas las mezclas, los piensos, los aditivos destinados a la alimentación animal y las premezclas que contengan estos productos.
+
+f) Materiales especificados de riesgo (MER): los definidos en el apartado 2 del artículo 1 del Real Decreto 1911/2000, de 24 de noviembre, por el que se regula la destrucción de los materiales especificados de riesgo en relación con las encefalopatías espongiformes transmisibles.
+
+## CAPÍTULO II — Laboratorios de referencia y autorizados
+
+### Artículo 3. Laboratorios Nacionales de Referencia.
+
+1\. Los laboratorios nacionales de referencia en el ámbito de aplicación de este real decreto son los previstos en la Orden por la que se designan los laboratorios nacionales de referencia en materia agroalimentaria y de sanidad de la producción primaria.
+
+2\. Además de las funciones previstas en el Reglamento (UE) 2017/625 del Parlamento Europeo y del Consejo, de 15 de marzo de 2017, relativo a los controles y otras actividades oficiales realizados para garantizar la aplicación de la legislación sobre alimentos y piensos, y de las normas sobre salud y bienestar de los animales, sanidad vegetal y productos fitosanitarios, y por el que se modifican los Reglamentos (CE) n.º 999/2001, (CE) n.º 396/2005, (CE) n.º 1069/2009, (CE) n.º 1107/2009, (UE) n.º 1151/2012, (UE) n.º 652/2014, (UE) 2016/429 y (UE) 2016/2031 del Parlamento Europeo y del Consejo, los Reglamentos (CE) n.º 1/2005 y (CE) n.º 1099/2009 del Consejo, y las Directivas 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE y 2008/120/CE del Consejo, y por el que se derogan los Reglamentos (CE) n.º 854/2004 y (CE) n.º 882/2004 del Parlamento Europeo y del Consejo, las Directivas 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE y 97/78/CE del Consejo y la Decisión 92/438/CEE del Consejo (Reglamento sobre controles oficiales), llevarán a cabo las siguientes:
+
+a) Coordinar los métodos y protocolos de diagnóstico entre los laboratorios autorizados para realizar las pruebas de detección de la presencia de las EET, y comprobar periódicamente el uso de dichos métodos y protocolos de diagnóstico.
+
+b) Elaboración de los protocolos oficiales de toma de muestras, a desarrollar por las comunidades autónomas.
+
+c) Elaboración de protocolos oficiales de técnicas analíticas para su desarrollo en los laboratorios autorizados de las comunidades autónomas y organización periódica de ensayos colaborativos con los mismos.
+
+d) Confirmación de los casos positivos o dudosos diagnosticados en los laboratorios autorizados de las comunidades autónomas.
+
+3\. Sin perjuicio de lo previsto en los apartados anteriores, el Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA) podrá participar en las tareas de investigación sobre EETs y, en su caso, podrá llevar a cabo las funciones previstas en el apartado 2 del presente artículo.
+
+> Se modifican los apartados 1 y 2 por la disposición final 2.1 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+### Artículo 4. Laboratorios autorizados o reconocidos.
+
+1\. Los órganos competentes de las Comunidades Autónomas designarán, en su ámbito territorial, los laboratorios responsables del control analítico de encefalopatías, incluidas las pruebas rápidas «post-mortem» y las técnicas de diagnóstico definidas en el manual de diagnóstico de la Organización Internacional de Epizootías, y de las sustancias destinadas a la alimentación de animales de producción. Estos laboratorios podrán tener carácter público o privado.
+
+2\. Los laboratorios autorizados deberán remitir al Laboratorio Central de Veterinaria de Algete (Madrid) las muestras dudosas o positivas de las pruebas rápidas «post-mortem».
+
+3\. Los órganos competentes de las Comunidades Autónomas comunicarán a la Comisión Nacional del Programa Integral Coordinado vigilancia y control de las EET, la relación de dichos laboratorios, así como cualquier variación que se produzca en la misma.
+
+## CAPÍTULO III — Programa de vigilancia de EET
+
+### Artículo 5. Objeto y contenido.
+
+1\. El programa de vigilancia de EET tiene por objeto la detección de la encefalopatía espongiforme bovina (EEB) y de la Tembladera, así como el establecimiento de medidas de erradicación que, en su caso, hubieran de adoptarse.
+
+2\. El programa de vigilancia de la EEB y de la Tembladera comprende la vigilancia de los animales sospechosos contemplados en el artículo siguiente, y la vigilancia activa que se establece en los anexos II.A. y II.B del presente Real Decreto.
+
+### Artículo 6. Sospecha de la enfermedad.
+
+1\. Se sospechará la existencia de EEB en el caso de bovinos, y de Tembladera en el caso de ovinos y caprinos, en animales de más de veinte meses de edad, que presenten síntomas neurológicos y de comportamiento, cuando la enfermedad no pueda excluirse basándose en la respuesta al tratamiento o bien tras un examen de laboratorio.
+
+Los propietarios o responsables de los animales y el veterinario responsable de la explotación, ante la presencia de alguno de los síntomas clínicos que se detallan en el modelo 3 del anexo VII y siempre que no exista un diagnóstico alternativo basado en el examen clínico o laboratorial, tendrán la obligación de comunicar la sospecha de aparición de EET a los órganos competentes de la Comunidad Autónoma.
+
+2\. Los órganos competentes de las Comunidades Autónomas, en caso de comunicación de sospecha, así como en los casos en que dispongan de datos que hagan presumir la posible existencia de la enfermedad, adoptarán las siguientes medidas:
+
+a) Visita de comprobación por parte de los Servicios Veterinarios Oficiales.
+
+b) Aislamiento inmediato de los animales sospechosos e inmovilización de los animales presentes en la explotación afectada.
+
+3\. Si los órganos competentes de las Comunidades Autónomas no pudiesen descartar la existencia de la enfermedad, se procederá a:
+
+a) Sacrificio del animal sospechoso.
+
+b) Toma de muestras. En caso de muerte del animal en la propia explotación, se realizará la toma de muestras «in situ».
+
+c) Remisión de las muestras al laboratorio autorizado de la comunidad autónoma o, en su caso, al Laboratorio Nacional de Referencia, previsto en la Orden por la que se designan los laboratorios nacionales de referencia en materia agroalimentaria y de sanidad de la producción primaria, de acuerdo con el procedimiento que se detalla en el anexo III.
+
+4\. Todas las partes del cuerpo del animal sospechoso, incluida la piel, se conservarán bajo vigilancia oficial en la forma que determinen los órganos competentes de las Comunidades Autónomas, hasta que se haya efectuado el diagnóstico o hasta que se haya procedido a su destrucción higiénica mediante incineración u otro método autorizado.
+
+En caso que los resultados analíticos descarten la existencia de la enfermedad, los órganos competentes de las Comunidades Autónomas levantarán las medidas de aislamiento e inmovilización de la explotación.
+
+5\. Cuando la sospecha se produzca en el matadero, durante la inspección «antemortem», se actuará en la explotación de origen del animal o animales siguiendo las pautas definidas en los apartados 2 y 3 de este artículo.
+
+6\. Se comunicará, asimismo, a los órganos competentes de las Comunidades Autónomas, la sospecha de otras EETs diferentes a la EEB y a la Tembladera.
+
+> Se modifica la letra c) del apartado 3 por la disposición final 2.2 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+### Artículo 7. Confirmación de la enfermedad.
+
+Si el resultado analítico confirmase o no pudiese descartar la presencia de la enfermedad, se adoptarán las siguientes actuaciones:
+
+1\. En el caso de EEB se sacrificarán los animales que se especifican en la letra a) del anexo X.
+
+2\. En el caso de Tembladera se sacrificarán todos los ovinos y caprinos que se especifican en el párrafo b) del anexo X.
+
+3\. En ambos casos, además, se actuará de la siguiente manera:
+
+a) Destrucción higiénica de los cadáveres de forma que se asegure su destrucción total mediante incineración u otro método autorizado, que en ningún caso podrá ser mediante enterramiento.
+
+b) Destrucción, según criterio de los órganos competentes de las Comunidades Autónomas de que se trate, de los piensos, harinas y componentes alimenticios de origen animal existentes en la explotación.
+
+c) Limpieza y desinfección con hipoclorito de todas las zonas de riesgo de la explotación.
+
+d) Realización de la correspondiente encuesta epidemiológica, según el anexo IX, de la cual se puede derivar el sacrificio de los animales sospechosos o enfermos.
+
+4\. La reintroducción de animales en la explotación se efectuará previa autorización de los órganos competentes de las Comunidades Autónomas.
+
+### Artículo 8. Declaración oficial de la enfermedad.
+
+1\. La declaración oficial de la enfermedad se efectuará de conformidad con lo dispuesto en el Real Decreto 2459/1996, de 2 de diciembre, por el que se establece la lista de las enfermedades de los animales de declaración obligatoria y se da la normativa para su comunicación.
+
+2\. En dicha declaración constarán, al menos, los datos que se relacionan en el anexo IV.
+
+### Artículo 9. Indemnización.
+
+El sacrificio de los animales, por sospecha o confirmación de la enfermedad, dará derecho a la correspondiente indemnización por sacrificio obligatorio, de acuerdo con los baremos oficialmente establecidos. Únicamente tendrán derecho a indemnización aquellos propietarios de ganado que hayan cumplido con la normativa vigente en materia de sanidad animal.
+
+### Artículo 10. Normas relativas al control de animales objeto del programa.
+
+1\. **(Derogado)**
+
+2\. En los sacrificios de los animales sospechosos contemplados en el artículo 6 así como los previstos en el anexo X y cuantos otros se destinen para destrucción directa, se observarán los siguientes requisitos:
+
+a) Serán sacrificados en instalaciones o establecimientos específicos para este fin. Los requisitos que deberán cumplir estos establecimientos se determinarán mediante norma específica.
+
+b) Hasta que se disponga de estas instalaciones o establecimientos los sacrificios podrán realizarse en determinadas instalaciones de los mataderos expresamente autorizados por los órganos competentes en materia de salud pública de las Comunidades Autónomas y notificados al Ministerio de Sanidad y Consumo que elaborará la lista de los mismos para su conocimiento y difusión.
+
+c) Para que un matadero sea autorizado a realizar estos sacrificios habrá de presentar, al menos, un plano de las instalaciones que va a utilizar y un protocolo de actuación, en el que se harán constar, como mínimo, los siguientes datos:
+
+1.º Los días en que se llevarán a cabo los sacrificios, que siempre han de ser distintos de los días en que se sacrifiquen animales cuya carne vaya a ser destinada al consumo humano.
+
+2.º Métodos de limpieza y de desinfección utilizados en las instalaciones tras estas operaciones y antes de comenzar los sacrificios de animales destinados al consumo humano.
+
+d) Los órganos competentes, en materia de sanidad animal, serán los encargados de la supervisión de estos sacrificios y de la retirada de animales y otros restos. Los responsables de estos mataderos deberán comunicar a estos servicios competentes de su Comunidad Autónomas los días y horas previstos en que se van a llevar a cabo estas actuaciones, con una antelación de, al menos, veinticuatro horas.
+
+Lo anterior se entenderá sin perjuicio de las competencias que tenga atribuidas la Corporación local correspondiente.
+
+3\. Las autoridades competentes de las Comunidades Autónomas adoptarán las medidas necesarias para garantizar que ninguna parte de los cuerpos de los animales en los que se hayan tomado muestras en la ejecución de los programas que se detallan en el artículo 5, se utilicen en la alimentación humana o animal ni como fertilizante, cosmético, medicamento o productos sanitarios hasta que haya terminado el examen del laboratorio con resultados negativos.
+
+> Se deroga el apartado 1 por la disposición derogatoria única del Real Decreto 361/2009, de 20 de marzo. [Ref. BOE-A-2009-5129](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5129).
+
+### Artículo 11. Toma de muestras y métodos de diagnóstico.
+
+1\. Los protocolos de toma y remisión de muestras serán los que se contienen en el anexo III.
+
+2\. Para el diagnóstico de las muestras del programa de vigilancia de EEB que se establece en el anexo II.A se utilizarán los test rápidos «post-morten» autorizados por la normativa comunitaria.
+
+Para el diagnóstico de las muestras de animales sospechosos de EEB o Tembladera y para la confirmación de los positivos o dudosos del Programa de vigilancia activa de EEB, se utilizarán las técnicas definidas en el manual de diagnóstico de la Oficina Internacional de Epizootias de su última edición.
+
+3\. Las muestras irán acompañadas de la documentación a la que se refiere el apartado 2 del anexo III.
+
+### Artículo 12. Seguimiento y control de los animales procedentes de países de riesgo.
+
+1\. Las autoridades competentes efectuarán los controles establecidos en el Real Decreto 1316/1992, de 30 de octubre, por el que se establecen los controles veterinarios y zootécnicos aplicables en los intercambios intracomunitarios de determinados animales vivos y productos con vistas a la realización del mercado interior, y en el Real Decreto 1430/1992, de 27 de noviembre, por el que se establecen los principios relativos a la organización de controles veterinarios y de identidad de los animales que se introduzcan en la Comunidad procedentes de países terceros, prestando especial atención a los animales procedentes de países de riesgo.
+
+2\. En este control se comprobará:
+
+a) La identificación.
+
+b) La notificación por el sistema ANIMO.
+
+c) La documentación sanitaria.
+
+d) El destino: Vida o sacrificio.
+
+3\. También se llevarán a cabo los controles para todos los animales de más de veinte meses introducidos en el territorio nacional originarios o procedentes de países con casos nativos de encefalopatía espongiforme bovina.
+
+### Artículo 13. Programa de formación y divulgación.
+
+1\. Las Administraciones públicas desarrollarán un programa continuo de formación y de divulgación, al objeto de informar a todos los sectores implicados de los signos clínicos y datos epidemiológicos más significativos de las EET. El objetivo de este programa será propiciar e incentivar la declaración de todos los casos de enfermedad neurológica.
+
+2\. El programa irá dirigido al personal de las Administraciones Públicas que esté relacionado con el sector, a los veterinarios, a los productores, a los tratantes o comerciantes de ganado, a las universidades o institutos de investigación y en general a cualquier persona vinculada a la producción ganadera de rumiantes.
+
+## CAPÍTULO IV — Programa de control de las sustancias empleadas en la alimentación de los animales
+
+### Artículo 14. Objetivo y prohibiciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.e) del Real Decreto 1002/2012, de 29 de junio. [Ref. BOE-A-2012-9327](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9327).
+
+### Artículo 15. Controles.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.e) del Real Decreto 1002/2012, de 29 de junio. [Ref. BOE-A-2012-9327](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9327).
+
+### Artículo 16. Toma de muestras.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.e) del Real Decreto 1002/2012, de 29 de junio. [Ref. BOE-A-2012-9327](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9327).
+
+### Artículo 17. Positividad.
+
+Ante un resultado analítico favorable a la presencia de las sustancias investigadas se procederá a:
+
+1\. Prohibir cautelarmente fabricar, comercializar y distribuir cualquier pienso animal.
+
+2\. Realizar las investigaciones necesarias para marcar la trazabilidad del producto, tanto del origen como de sus otros posibles destinos.
+
+3\. Analizar si la presencia de proteínas de animales se debió a una contaminación cruzada o a una adición voluntaria.
+
+4\. Localizar e inmovilizar las partidas afectadas e investigar y registrar las explotaciones y animales que pudieran haberse visto expuestos a este producto.
+
+5\. Finalmente, se adoptarán las medidas sancionadoras que procedan.
+
+6\. Las medidas cautelares contempladas en el apartado 1 se levantarán cuando la autoridad competente comprueba que se han tomado las medidas correctoras para evitar la presencia de las proteínas de animales elaboradas en los piensos de animales de producción.
+
+7\. La obtención de un primer resultado que detecte la presencia de proteínas animales se considerará positivo a los efectos de comunicación a la Comisión europea, sin perjuicio, ante un eventual procedimiento sancionador, del derecho del ciudadano a la realización de un análisis contradictorio y, en su caso, otro dirimente, de acuerdo con lo que dispone el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria.
+
+> Se añade el apartado 7 por el art. único del Real Decreto 251/2006, de 3 de marzo. [Ref. BOE-A-2006-4586](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-4586).
+
+### Artículo 18. Visitas y controles.
+
+1\. Los órganos competentes de las Comunidades Autónomas llevarán a cabo visitas de inspección a las fábricas, almacenes, distribuidores, lugares de venta de alimentos para animales y granjas. El número de muestras será proporcional al número de establecimientos que existan en la Comunidad Autónoma, así como al volumen de producción de los mismos.
+
+2\. Los técnicos responsables de la inspección fronteriza de los productos de origen animal que se definen en el apartado 1 del artículo primero de la Orden de 8 de noviembre de 1994, por la que se determinan los veterinarios oficiales competentes para realizar los controles de animales y productos de origen animal previstos en los Reales Decretos 1430/1992, de 27 de noviembre, y 2022/1993, de 19 de noviembre, efectuarán los controles en las importaciones y exportaciones.
+
+## CAPÍTULO V — Programa de control de los establecimientos de transformación de subproductos animales y animales muertos
+
+### Arts. 19 a 21.
+
+**(Derogados)**
+
+> Se derogan por la disposición derotoria única.b) del Real Decreto 1528/2012, de 8 de noviembre. [Ref. BOE-A-2012-14165](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14165).
+
+## CAPÍTULO VI — Programa de control de los materiales especificados de riesgo
+
+### Artículo 22. Controles.
+
+Los órganos competentes de las Comunidades Autónomas llevarán a cabo los controles que se establecen en el artículo 10 del Real Decreto 1911/2000, de 24 de noviembre, por el que se regula la destrucción de los materiales especificados de riesgo en relación con las encefalopatías espongiformes transmisibles.
+
+## CAPÍTULO VII — Régimen sancionador
+
+### Artículo 23. Infracciones y sanciones.
+
+1\. Sin perjuicio de la posible responsabilidad criminal por delitos contra la salud pública, serán de aplicación en caso de incumplimiento de lo dispuesto en el presente Real Decreto las infracciones y sanciones previstas en el artículo 103 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, y en la Ley 10/1998, de 21 de abril, de Residuos, y en todo lo no dispuesto por éstas, las establecidas en la Ley de Epizootias, de 20 de diciembre de 1952, y su Reglamento, de 4 de febrero de 1955, y en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria.
+
+2\. La gravedad de la infracción podrá suponer, de acuerdo con la normativa aplicable, la suspensión temporal, anulación o pérdida de la autorización para el ejercicio de la actividad de que se trate, o el cierre por el período que proceda de la empresa, instalaciones, establecimiento, explotación o industria infractora.
+
+3\. Si de las infracciones cometidas se desprendieran responsabilidades penales, se pasarán las mismas a los Tribunales correspondientes.
+
+### Artículo 24. Procedimiento.
+
+Serán aplicables los principios del procedimiento sancionador establecidos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+A los procedimientos que competan a la Administración General del Estado les será de aplicación el Reglamento de procedimiento para el ejercicio de la potestad sancionadora, aprobado por Real Decreto 1398/1993, de 4 de agosto.
+
+## CAPÍTULO VIII — Disposiciones organizativas
+
+### Artículo 25. Deber de información.
+
+Los órganos competentes de las Comunidades Autónomas remitirán, semestralmente, al Ministerio de Agricultura, Pesca y Alimentación, a través de la Dirección General de Ganadería, la información a la que se refiere el anexo I.
+
+### Artículo 26. Comisión Nacional del Programa Integral Coordinado de vigilancia y control.
+
+1\. Se crea la Comisión Nacional del Programa Integral Coordinado de vigilancia y control de las encefalopatías espongiformes transmisibles de los animales, como órgano colegiado de carácter multidisciplinar, adscrito al Ministerio de Agricultura, Pesca y Alimentación.
+
+2\. Funciones:
+
+a) El seguimiento y coordinación del Programa Integral Coordinado.
+
+b) La revisión periódica de la evolución de dicho Programa, proponiendo las modificaciones precisas para un eficaz cumplimiento de los objetivos.
+
+c) Elevar a las autoridades competentes propuestas que permitan una mejor ejecución del programa o una vigilancia y control más adecuados de las encefalopatías espongiformes transmisibles.
+
+d) Asesorar a las autoridades competentes en materia de dichas enfermedades, especialmente la encefalopatía espongiforme bovina.
+
+e) Proponer la realización de estudios y trabajos científicos en relación con las citadas encefalopatías.
+
+3\. Composición:
+
+La Comisión Nacional del Programa Integral Coordinado de vigilancia y control de las encefalopatías espongiformes transmisibles de los animales estará compuesta por los siguientes miembros:
+
+A) Presidente: El Director general de Ganadería del Ministerio de Agricultura, Pesca y Alimentación.
+
+B) Vocales:
+
+Diez Vocales en representación de la Administración General del Estado, pertenecientes a los siguientes Ministerios:
+
+a) Cuatro en representación del Ministerio de Agricultura, Pesca y Alimentación, con rango de Subdirector general.
+
+b) Dos en representación del Ministerio de Sanidad y Consumo, con rango de Subdirector general.
+
+c) Dos en representación del Ministerio de Medio Ambiente, con rango de Subdirector general.
+
+d) Dos representantes del Ministerio de Ciencia y Tecnología, con rango de Subdirector general.
+
+Dichos Vocales serán designados por el Subsecretario del Departamento correspondiente, y en los casos de ausencia o enfermedad y, en general, cuando concurra alguna otra causa justificada, podrán ser sustituidos por otra persona al servicio de la Unidad de la que dependan, que será designada del mismo modo.
+
+En representación de las Comunidades Autónomas, dos representantes por cada una de aquellas que deseen participar en la Comisión, de entre los Departamentos con competencias en agricultura, medio ambiente y sanidad.
+
+C) Actuará como Secretario de la Comisión, con voz y voto, el Subdirector general de Sanidad Veterinaria, del Ministerio de Agricultura, Pesca y Alimentación.
+
+D) Asimismo, podrán asistir a las reuniones de la Comisión, en calidad de Vocales asesores, con voz pero sin voto, aquellas personas que, en consideración a su competencia profesional, sean expresamente convocados por el Presidente.
+
+4\. Funcionamiento:
+
+a) La Comisión aprobará sus propias normas de funcionamiento y, en todo lo no previsto expresamente en dichas normas y en el presente Real Decreto, será de aplicación lo establecido en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en materia de órganos colegiados.
+
+b) En todo caso, la Comisión se reunirá, al menos, una vez cada semestre y tantas veces como la situación lo requiera, mediante convocatoria de su Presidente, a solicitud de cualquiera de sus miembros.
+
+### Artículo 27. Registros.
+
+1\. Las Comunidades Autónomas serán las competentes para llevar un registro administrativo en los términos previstos en la Decisión 98/272/CE, de la Comisión, de 23 de abril, relativa a la vigilancia epidemiológica de las encefalopatías espongiformes transmisibles, y por la que se modifica la Decisión 94/474/CE, y en el cual constarán, al menos, los datos que se relacionan en el anexo VIII y que serán comunicados con la periodicidad establecida en el mismo anexo a la Comisión Nacional del Programa Integral Coordinado de vigilancia y control de las encefalopatías espongiformes transmisibles de los animales.
+
+2\. El laboratorio que realice los exámenes llevará un registro completo de las pruebas, donde se conservarán en particular los cuadernos de trabajo, los bloques de parafina y, cuando proceda, las fotografías de los borrones de «Western».
+
+3\. Estos registros se conservarán durante siete años.
+
+4\. Adscrito a la Dirección General de Ganadería, del Ministerio de Agricultura, Pesca y Alimentación, existirá un registro central de carácter informativo, que se nutrirá con los datos que le proporcionen las Comunidades Autónomas.
+
+### Disposición adicional primera. Carácter básico.
+
+El presente Real Decreto tiene carácter básico y se dicta al amparo de la habilitación contenida en el artículo 149.1.16.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación general de la sanidad.
+
+### Disposición adicional segunda. Contratos de consultoría y asistencia.
+
+Para facilitar el cumplimiento de los objetivos de formación y divulgación establecidos en el artículo 5 del presente Real Decreto, se podrán celebrar los contratos de consultoría, asistencia y servicios, en los casos en que se considere necesario, y de conformidad con lo dispuesto en el título IV del Real Decreto Legislativo 2/2000, de 16 de junio, por el que se aprueba el texto refundido de la Ley de Contratos de las Administraciones Públicas.
+
+### Disposición adicional tercera. Convenios de colaboración.
+
+Por el Ministerio de Agricultura, Pesca y Alimentación podrán suscribirse Convenios de colaboración con las Comunidades Autónomas para colaborar en la financiación de las actuaciones precisas para el cumplimiento del Programa Integral Coordinado que se regula en este Real Decreto, especialmente para facilitar el cumplimiento de los objetivos de formación del personal de los laboratorios autorizados por las Comunidades Autónomas para el diagnóstico de las EET, la dotación de medios a los laboratorios responsables del control analítico de encéfalos y de las sustancias destinadas a la alimentación de rumiantes a que se refiere el artículo 11 del presente Real Decreto, así como de los costes de la recogida y retirada de los MER y de los animales muertos.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas normas de igual o inferior rango se opongan a lo establecido en el presente Real Decreto.
+
+### Disposición final primera. Facultad de desarrollo.
+
+Se faculta a los Ministros de Agricultura, Pesca y Alimentación, de Sanidad y Consumo y de Medio Ambiente para dictar, en el ámbito de sus respectivas competencias, cuantas disposiciones sean necesarias para el desarrollo y aplicación del presente Real Decreto.
+
+### Disposición final segunda. Facultad de modificación.
+
+Se faculta a los Ministros de Agricultura, Pesca y Alimentación y de Sanidad y Consumo a modificar, en el ámbito de sus respectivas competencias y previa consulta con las Comunidades Autónomas, el contenido de los anexos del presente Real Decreto.
+
+### Disposición final tercera. Habilitación normativa.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 1429/2003, de 21 de noviembre. [Ref. BOE-A-2003-21343](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-21343).
+
+### Disposición final cuarta. Modificación del Real Decreto 1911/2000, de 24 de noviembre, por el que se regula la destrucción de los materiales especificados de riesgo en relación con las encefalopatías espongiformes transmisibles.
+
+1\. Se modifica el apartado 2, párrafo a), del artículo 1 del Real Decreto 1911/2000, al que se da la siguiente redacción:
+
+«a) El cráneo, incluido el encéfalo, los ojos, las amígdalas, la médula espinal de los bovinos de más de doce meses de edad y el intestino, del duodeno al recto, de los bovinos de cualquier edad.»
+
+2\. Se modifica el apartado 2, párrafo c), del artículo 1 del Real Decreto 1911/2000, al que se da la siguiente redacción: «c) Los cadáveres de los bovinos, ovinos y caprinos de cualquier edad.»
+
+### Disposición final quinta. Entrada en vigor.
+
+1\. El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+2\. No obstante lo previsto en el apartado anterior, la prohibición que recoge el artículo 14.2 de la presente disposición no será de aplicación antes del 1 de enero de 2001 y las prohibiciones que recogen los artículos 14.3 y 19.3 no serán de aplicación antes del 1 de marzo de 2001.
+
+3\. Asimismo, lo previsto en la disposición final cuarta no será de aplicación antes del 1 de enero de 2001.
+
+Dado en Madrid a 22 de diciembre de 2000.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno
+
+y Ministro de la Presidencia,
+
+MARIANO RAJOY BREY
+
+## ANEXO I — Información
+
+Las Comunidades Autónomas remitirán, en soporte informático, los siguientes datos y documentación:
+
+A. Programa de vigilancia de las EET
+
+1\. Número de casos sospechosos de cada especie animal sujetos a restricción de movimientos en virtud del apartado 2 del artículo 6.
+
+2\. Número de casos sospechosos de cada especie animal sujetos a examen de laboratorio en virtud del apartado 3 del artículo 6 y resultado final del examen.
+
+3\. Número de rebaños con casos sospechosos de animales ovinos y caprinos de los que se haya informado y que hayan sido investigados en virtud de los apartados 2 y 3 del artículo 6.
+
+4\. Tamaño calculado de la subpoblación a que hace referencia el número 3 del anexo II.A.
+
+5\. Número de animales bovinos a los que se han realizado pruebas dentro de cada subpoblación, a las que hacen referencia los números 2 y 3 del anexo II.A, el método de selección de muestras y el resultado de las pruebas.
+
+6\. Tamaño estimado de dichas subpoblaciones a que se refieren los puntos 2 y 3 del anexo II.B, que han sido seleccionadas para el muestreo.
+
+7\. Número de animales ovinos y caprinos y de rebaños de cada subpoblación a que se han realizado pruebas en cada subpoblación a que se refieren los números 2 y 3 del anexo II.B, método para la selección de muestras y resultados de las pruebas.
+
+8\. Número, distribución por edad y distribución geográfica de los casos positivos de EEB y tembladera. El país de origen, si no es España, de los casos positivos de EEB y tembladera. Número y distribución geográfica de los rebaños con casos positivos de tembladera. Para cada caso notificado de la EEB, deberán comunicarse el año y, en la medida de lo posible, el mes de nacimiento del animal.
+
+9\. Casos positivos y confirmados de EET entre animales de especies distintas de la bovina, ovina y caprina.
+
+10\. El genotipo, y cuando sea posible, la raza de cada animal de la muestra para cada subpoblación en virtud de lo dispuesto en las letras a) y b) del punto 5 del anexo II.B.
+
+B. Controles de la alimentación animal
+
+1\. Relación de establecimientos que elaboran piensos destinados a la alimentación de animales de granja mantenidos, cebados o criados para la producción de alimentos y relación de establecimientos que elaboran piensos para animales de compañía.
+
+2\. Número de visitas de inspección realizadas y resultados.
+
+3\. Relación nominal de establecimientos visitados, con expresión del número de muestras tomadas en cada uno de ellos.
+
+4\. Número de muestras remitidas al laboratorio, indicando el centro de análisis y los resultados obtenidos.
+
+5\. Incidencias: Se hará constar el tipo y causa de la incidencia.
+
+6\. Igualmente, se remitirán los datos relativos a las inspecciones realizadas en granjas.
+
+C. **(Derogada)**
+
+> Se deroga la letra C) por la disposición derotoria única.b) del Real Decreto 1528/2012, de 8 de noviembre. [Ref. BOE-A-2012-14165](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14165).
+
+> Se modifica por el art. único y anexo de la Orden APA/718/2002, de 2 de abril. [Ref. BOE-A-2002-6474](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-6474).
+
+> Esta modificación tiene efectos a partir del 1 de abril de 2002, según establece la disposición final única.
+
+> Se modifica por el art. único y anexo de la Orden de 26 de julio de 2001. [Ref. BOE-A-2001-14641](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-14641).
+
+> Esta modificación es aplicable a partir del 1 de julio de 2001, según establece la disposición final única.
+
+## ANEXO II — Vigilancia activa de las EETs
+
+## ANEXO II.A PROGRAMA DE VIGILANCIA DE EEB
+
+1\. Los controles en el ganado bovino se llevarán a cabo de conformidad con los métodos de laboratorio establecidos en la vigente normativa.
+
+2\. Controles de animales sacrificados para el consumo humano. Se realizarán pruebas de EEB a todos los animales bovinos de los siguientes grupos de edad:
+
+a) Animales nacidos en países incluidos en el anexo de la Decisión 2009/719/CE, de la Comisión, de 28 de septiembre de 2009, por la que se autoriza a determinados Estados miembros a revisar su programa anual de seguimiento de la EEB:
+
+a.1) Mayores de cuarenta y ocho meses siempre que se trate de:
+
+1.º Animales sometidos a un sacrificio de urgencia.
+
+2.º Animales que durante la inspección ante-mortem sean sospechosos de sufrir una enfermedad o hallarse en un estado de salud que pueda perjudicar a la salud de las personas, salvo los animales sacrificados en el marco de una campaña de erradicación que no presenten signos clínicos de la enfermedad.
+
+a.2) Todos los animales nacidos con anterioridad al 1 de enero de 2001, siempre que procedan de explotaciones en las que se hayan diagnosticado focos de EEB. Dicha condición será recogida en la documentación prevista en el artículo 6 del Real Decreto 728/2007, de 13 de junio, por el que se establece y regula el Registro general de movimientos de ganado y el Registro general de identificación individual de animales.
+
+b) Animales nacidos en países no incluidos en el anexo de la Decisión 2009/719/CE de la Comisión, de 28 de septiembre de 2009, y que por lo tanto son países no autorizados a revisar su programa anual de seguimiento de la EEB:
+
+b.1) Mayores de treinta meses de edad siempre que se trate de:
+
+1.º Animales sacrificados de manera normal para el consumo humano.
+
+2.º Animales sacrificados en el marco de la ejecución del Real Decreto 2611/1996, de 20 de diciembre, por el que se regulan los programas nacionales de erradicación de enfermedades de los animales, siempre que no presenten signos clínicos de la enfermedad.
+
+b.2) Mayores de veinticuatro meses de edad si se trata de:
+
+1.º Animales sometidos a un sacrificio de urgencia.
+
+2.º Animales que, durante la inspección ante-mortem sean sospechosos de sufrir una enfermedad o hallarse en un estado de salud que pueda perjudicar a la salud de las personas, salvo los animales sacrificados en el marco de una campaña de erradicación que no presenten signos clínicos de la enfermedad.
+
+3\. Controles en animales muertos o cuyo sacrificio no está destinado al consumo humano: Se realizarán pruebas de EEB a todos los animales bovinos:
+
+a) De cualquier edad, si han sido sacrificados como medida de erradicación de un foco de EEB.
+
+b) Mayores de cuarenta y ocho meses de edad que hayan muerto o hayan sido sacrificados, pero que no fueron sacrificados en el marco de una epidemia, como es el caso de la fiebre aftosa. No obstante, si se trata de animales nacidos en países no recogidos en el anexo de la Decisión 2009/719/CE, de la Comisión, de 28 de septiembre de 2009, se realizarán pruebas de EEB a todos los animales mayores de veinticuatro meses de edad.
+
+c) El operador del establecimiento o planta de subproductos, inscritos en el Registro de establecimientos SANDACH que reciba los animales deberá comunicar, a la autoridad competente en materia de sanidad animal de la comunidad autónoma en la que esté ubicado, en un plazo no superior a 24 horas, la identificación individual (crotal) de cualquier animal de ganado vacuno que reciba, independientemente de que la explotación de origen del animal este ubicada en la misma o en diferente comunidad autónoma.
+
+Dicha comunicación se realizará a través del registro nacional de movimientos de subproductos animales y los productos derivados no destinados a consumo humano, creado en el artículo 3 del Real Decreto 476/2014, de 13 de junio, por el que se regula el registro nacional de movimientos de subproductos animales y los productos derivados no destinados a consumo humano.
+
+d) Con el fin de garantizar una correcta ejecución del muestreo, el operador del establecimiento o planta que reciba los animales colaborará en la correcta identificación y trazabilidad de las cabezas de los animales objeto de muestreo poniéndolas a disposición de la autoridad competente o personal designado para la toma de muestras de la comunidad autónoma en la que esté ubicado el establecimiento.
+
+e) La autoridad competente en materia de sanidad animal de la comunidad autónoma en donde se ubica el establecimiento o planta será la responsable de realizar las analíticas correspondientes.
+
+4\. Medidas posteriores a la realización de pruebas:
+
+a) Cuando se realicen las pruebas de la EEB a un animal sacrificado para el consumo humano, no se llevará a cabo el marcado sanitario en la canal de dicho animal, establecido en el Real Decreto 147/1993, de 29 de enero, por el que se establecen las condiciones sanitarias de producción y comercialización de carnes frescas, hasta que se haya obtenido un resultado negativo de la prueba de diagnóstico rápido.
+
+b) Se retendrán bajo control oficial todas las partes del cuerpo de un animal al que se estén realizando pruebas de la EEB, incluyendo la piel, hasta que se haya obtenido un resultado negativo de las pruebas de diagnóstico rápido, siempre y cuando no se destruyan con arreglo a lo dispuesto en la vigente normativa sobre eliminación de materiales especificados de riesgo en relación con las encefalopatías espongiformes transmisibles de los animales.
+
+c) Todas las partes del cuerpo de un animal que dé positivo en las pruebas de diagnóstico rápido, incluyendo la piel, serán destruidas, con excepción del material que deberá conservarse a efectos de los registros previstos en el anexo VIII.
+
+d) En los casos en que las pruebas de diagnóstico rápido den positivo en animales sacrificados para el consumo humano, por lo menos la canal inmediatamente anterior a la que haya dado positivo en las pruebas y las dos canales inmediatamente posteriores a ésta en la misma cadena de sacrificio, serán destruidas con arreglo a lo dispuesto en el párrafo anterior, además de la propia canal que haya dado positivo. No obstante, ello no será obligatorio si se dispone de un sistema de prevención de la contaminación entre canales en el matadero.
+
+## ANEXO II.B PROGRAMA DE VIGILANCIA EN ANIMALES OVINOS Y CAPRINOS
+
+1\. Los controles en el ganado ovino y caprino se llevarán a cabo de conformidad con los métodos de laboratorio establecidos en la vigente normativa.
+
+2\. Control de animales sacrificados para el consumo humano: Se realizarán pruebas a los animales ovinos y caprinos de más de dieciocho meses de edad o en cuya encía hayan hecho erupción dos incisivos definitivos, con el tamaño mínimo de muestra anual y distribución por Comunidades Autónomas indicados en el cuadro. La muestra será representativa para cada provincia y estación. La selección de la muestra estará destinada a evitar una representación excesiva de cualquier grupo por lo que se refiere al origen, la especie, la edad, la raza, el tipo de producción o cualquier otra característica. La edad del animal se estimará en función de la dentadura, signos evidentes de madurez u otra información fiable. Se evitará, siempre que sea posible, realizar un muestreo múltiple en el mismo rebaño.
+
+| Comunidad Autónoma | Tamaño mínimo de muestra |
+|---|---|
+| Andalucía | 7.373 |
+| Aragón | 5.072 |
+| Asturias | 862 |
+| Baleares | 250 |
+| Canarias | 4.927 |
+| Cantabria | 7 |
+| Castilla y León | 16.123 |
+| Castilla-La Mancha | 4.169 |
+| Cataluña | 5.354 |
+| Extremadura | 2.598 |
+| Galicia | 21 |
+| La Rioja | 1.596 |
+| Madrid | 545 |
+| Murcia | 3.114 |
+| Navarra | 706 |
+| País Vasco | 6.788 |
+| Valenciana | 495 |
+| Total | 60.000 |
+
+3\. Control de animales no sacrificados para el consumo humano: Se realizarán controles, a los animales ovinos y caprinos de más de dieciocho meses de edad, o en cuya encía hayan hecho erupción dos incisivos definitivos, que hayan muerto o hayan sido sacrificados, pero que no fueron sacrificados en el marco de una epidemia (como la fiebre aftosa) ni fueron sacrificados para el consumo humano, de acuerdo con el tamaño mínimo de la muestra anual y distribución por Comunidades Autónomas indicados en el cuadro. La muestra será representativa de cada provincia y estación. La selección de la muestra estará destinada a evitar una representación excesiva de cualquier grupo por lo que se refiere al origen, la especie, la edad, la raza, el tipo de producción o cualquier otra característica. La edad del animal se estimará en función de la dentadura, signos evidentes de madurez u otra información fiable. Se evitará, siempre que sea posible, realizar un muestreo múltiple en el mismo rebaño.
+
+| Comunidad Autónoma | Tamaño mínimo de muestra |
+|---|---|
+| Andalucía | 919 |
+| Aragón | 701 |
+| Asturias | 33 |
+| Baleares | 74 |
+| Canarias | 85 |
+| Cantabria | 23 |
+| Castilla y León | 1.124 |
+| Castilla-La Mancha | 894 |
+| Cataluña | 251 |
+| Extremadura | 1.035 |
+| Galicia | 68 |
+| La Rioja | 56 |
+| Madrid | 50 |
+| Murcia | 232 |
+| Navarra | 205 |
+| País Vasco | 95 |
+| Valenciana | 155 |
+| Total | 6.000 |
+
+4\. Medidas posteriores a la realización de pruebas.
+
+a) Se retendrán bajo control oficial todas las partes del cuerpo de un animal al que se estén realizando las pruebas, incluyendo la piel, hasta que se haya obtenido un resultado negativo de la prueba de diagnóstico rápido, siempre y cuando no se destruyan con arreglo a lo dispuesto en la vigente normativa sobre eliminación de materiales especificados de riesgo en relación con las encefalopatías espongiformes transmisibles de los animales.
+
+b) Todas las partes del cuerpo de un animal que dé positivo en las pruebas de diagnóstico rápido, incluyendo la piel, serán destruidas, con excepción del material que deberá conservarse a efectos de los registros previstos en el anexo VIII.
+
+5\. Genotipos.
+
+a) Se determinará el genotipo de la proteína del prión por cada caso positivo de EET en el ganado ovino. En los casos de EET en que se encuentren genotipos resistentes (ovinos de genotipos que codifican alanina en ambos alelos en el codon 136, arginina en los dos alelos en el codon 154 y arginina en ambos alelos en el codon 171), se informará de inmediato a la Dirección General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación, para su traslado a la Comisión de las Comunidades Europeas. En la medida de lo posible, los casos de este tipo se someterán a la caracterización de cepas. Cuando no sea posible identificar las cepas de tales casos, el rebaño de origen y todos los otros rebaños en los que haya estado el animal se someterán a un control más intensivo por si pudieran encontrarse otros casos de la enfermedad para la caracterización de las cepas.
+
+b) Además de los animales a los que se determine el genotipo conforme a lo dispuesto en el punto 5.1 anterior, deberá determinarse también el genotipo de la proteína del prión de una submuestra aleatoria de los animales ovinos a los que se realicen pruebas con arreglo a lo dispuesto en el punto 2 de este anexo II.B. Esta submuestra será representativa de, al menos, el 1 por 100 de la muestra total anual para cada Comunidad Autónoma. Como excepción, la Comunidad Autónoma podrá optar por determinar el genotipo de un número equivalente de animales vivos de la misma edad.
+
+> Se modifica el apartado 3 por el art. único de la Orden AAA/2504/2015, de 17 de noviembre. [Ref. BOE-A-2015-12817](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12817).
+
+> Se modifican los apartados 2 y 3 del Anexo II.A por el art. único de la Orden PRE/1550/2013, de 2 de agosto. [Ref. BOE-A-2013-8929](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8929).
+
+> Se modifican los apartados A.2 y 3 por el art. único de la Orden PRE/2493/2011, de 16 de septiembre. [Ref. BOE-A-2011-14954](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-14954).
+
+> Se modifican los apartados A.2 y 3 por el art. único de la Orden PRE/1431/2009, de 29 de mayo. [Ref. BOE-A-2009-9180](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-9180).
+
+> Esta modificación tiene efectos desde el 1 de enero de 2009, según establece la disposición final única.
+
+> Se modifica por el art. único y anexo de la Orden APA/718/2002, de 2 de abril. [Ref. BOE-A-2002-6474](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-6474).
+
+> Esta modificación tiene efectos a partir del 1 de abril de 2002, según establece la disposición final única.
+
+> Se modifica por el art. único y anexo de la Orden de 26 de julio de 2001. [Ref. BOE-A-2001-14641](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-14641).
+
+> Esta modificación es aplicable a partir del 1 de julio de 2001, según establece la disposición final única.
+
+> Redactado el apartado A).c) conforme a la corrección de erratas publicada en BOE núm. 99, de 25 de abril de 2001. [Ref. BOE-A-2001-7998](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7998).
+
+## ANEXO III — Protocolo de toma y remisión de muestras
+
+1\. La toma de muestra en bovinos consistirá en la disección del tronco encefálico (unos 8 cm) de acuerdo con el siguiente esquema:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2000/307/23669_001.png)
+
+En el caso de ovinos y caprinos se podrá remitir el encéfalo completo o el tronco encefálico siguiendo el mismo esquema mencionado anteriormente.
+
+2\. Todas las muestras se remitirán refrigeradas a 4 ºC y por un sistema que garantice la llegada de la muestra al laboratorio en un plazo máximo de veinticuatro-cuarenta y ocho horas desde el momento de la toma de muestra.
+
+Las muestras irán acompañadas de la siguiente documentación:
+
+a) Animales procedentes del Programa de EEB:
+
+Todos los animales irán acompañados por la documentación establecida como modelo 1 del anexo VII.
+
+Además, para los animales sospechosos se adjuntará la encuesta según el modelo 3 del anexo VII, que recoge los síntomas detectados.
+
+b) Animales procedentes del Programa de Tembladera:
+
+Todos los animales irán acompañados de la documentación establecida como modelo 2 del anexo VII.
+
+Además, para los animales sospechosos de EEB y Tembladera se adjuntará la encuesta según el modelo 3 del anexo VII, que recoge los síntomas detectados.
+
+La Hoja de remisión de muestras y el recipiente que contenga la muestra irán identificados de tal forma que permita relacionarlos en todo momento. Preferentemente esta identificación corresponderá al número de crotal del animal.
+
+## ANEXO IV — Notificación de la enfermedad
+
+1\. *Declaración de la enfermedad*
+
+Comunidad Autónoma.
+
+Provincia afectada.
+
+Municipio afectado.
+
+Enfermedad que se sospecha.
+
+Fecha de aparición del primer enfermo o sospechoso.
+
+¿Se trata de foco primario o secundario?
+
+Número de foco.
+
+Número de explotaciones afectadas.
+
+Especies afectadas.
+
+Por cada foco o explotación (1): Censo de la explotación por especies; número de animales afectados, por especie; número de animales muertos, por especie; número de animales sacrificados, por especie; número de animales destruidos, por especie; número de canales destruidas, por especie.
+
+Fecha de confirmación de la enfermedad.
+
+Método diagnóstico usado.
+
+Centro que realizó las pruebas y conformidad.
+
+Medidas de control adoptadas.
+
+Distancia a otras explotaciones receptibles.
+
+Origen de la enfermedad.
+
+2\. *Información semanal*
+
+Semana de que se trate (día inicial y día final).
+
+Comunidad Autónoma.
+
+Provincia.
+
+Municipio.
+
+Enfermedad diagnosticada.
+
+Número de foco.
+
+Especies afectadas.
+
+Evolución del foco.
+
+Censo de explotaciones/especies: Número de animales afectados/especies; número de animales muertos/por especie; número de animales sacrificados/por especie; número de animales destruidos, por especie, número de canales destruidas, por especie.
+
+Medidas de control adoptadas.
+
+Pronóstico sobre la evolución del foco.
+
+3\. *Extinción del foco*
+
+Comunidad Autónoma.
+
+Provincia afectada.
+
+Municipio.
+
+Enfermedad declarada.
+
+Fecha de declaración.
+
+Número de foco.
+
+Fecha de extinción.
+
+Fecha de levantamiento de restricciones.
+
+## ANEXO V — Excepciones a la prohibición de sustancias en la alimentación animal
+
+Excepciones a la prohibición:
+
+1\. Proteínas autorizadas para animales de producción distintos de los rumiantes:
+
+a) Harina de pescado.
+
+b) Fosfato dicálcico.
+
+c) Proteínas hidrolizadas.
+
+2\. Proteínas autorizadas para todas las especies:
+
+a) Leche y productos lácteos.
+
+b) Gelatina de no rumiantes para los recubrimientos de aditivos de acuerdo con la Directiva 70/524/CEE, del Consejo, sobre aditivos en la alimentación animal.
+
+## ANEXO VI — Industrias de transformación de cadáveres, despojos y subproductos
+
+**(Derogado)**
+
+> Se deroga por la disposición derotoria única.b) del Real Decreto 1528/2012, de 8 de noviembre. [Ref. BOE-A-2012-14165](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14165).
+
+## ANEXO VII — Modelos de documentación
+
+a) Modelo 1: hoja de campo, programa de vigilancia EEB.
+
+b) Modelo 2: hoja de campo, programa de vigilancia Scrapie.
+
+c) Modelo 3: encuesta de cuadro clínico de animales sospechosos de EEB y Tembladera.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2000/307/23669_002.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2000/307/23669_003.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2000/307/23669_004.png)
+
+## ANEXO VIII — Registros
+
+Los datos mínimos que contendrán los registros mencionados el apartado 1 del artículo 27, y que serán remitidos con una periodicidad quincenal, serán los siguientes:
+
+a) Número y tipos de animales sujetos a restricción de movimientos en virtud del apartado 2 del artículo 6.
+
+b) Número y resultados de los exámenes clínicos y epidemiológicos efectuados en aplicación de lo dispuesto en el apartado 2 artículo 6.
+
+c) Número y resultados de los exámenes de laboratorio efectuados en aplicación del apartado 3 del artículo 6.
+
+d) Número, identidad y origen de los animales tomados como muestras en el contexto de los programas de vigilancia contemplados en el anexo II y, cuando sea posible, edad, raza e información anamnéstica.
+
+e) El genotipo de la proteína del prión en casos positivos de EET en ganado ovino.
+
+> Se modifica por el art. único y anexo de la Orden APA/718/2002, de 2 de abril. [Ref. BOE-A-2002-6474](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-6474).
+
+> Esta modificación tiene efectos a partir del 1 de abril de 2002, según establece la disposición final única.
+
+## ANEXO IX — Investigación epizootiológica
+
+Cuando se diagnostique una encefalopatía espongiforme transmisible se llevará a cabo una investigación que deberá identificar los siguientes puntos:
+
+1\. En el caso de los animales de la especie bovina:
+
+a) Todos los demás rumiantes presentes en la explotación en que se halle el animal en el que se haya confirmado la enfermedad.
+
+b) En los casos en que se haya confirmado la enfermedad en una hembra, todos sus embriones, óvulos y descendientes, que hayan sido recogidos o que hayan nacido en los dos años anteriores o tras la aparición clínica de la enfermedad.
+
+c) Todos los animales del mismo grupo de edad del animal en que se haya confirmado la enfermedad. A estos efectos, se entenderá por grupo de edad el conjunto de animales que comprende todos los bovinos nacidos durante los doce meses anteriores o posteriores al nacimiento de un bovino afectado y en el mismo rebaño que éste, o que durante sus primeros doce meses de vida fueron criados en algún momento con un bovino afectado y que pudieron consumir el mismo pienso que consumió el bovino afectado durante sus doce primeros meses de vida.
+
+d) El origen posible de la enfermedad.
+
+e) Otros animales, embriones u óvulos, en la explotación del animal en el que se haya confirmado la enfermedad o en otras explotaciones, que puedan haber resultado infectados por el agente causante de la EET, haber recibido los mismos piensos o haber estado expuestos a la misma fuente de contaminación.
+
+f) La circulación de piensos potencialmente contaminados, de otros materiales o de cualquier otro medio de transmisión que puedan haber transmitido el agente de la EET a la explotación de que se trate o desde la misma.
+
+2\. En el caso de los animales de las especies ovina y caprina:
+
+a) Todos los rumiantes que no sean animales de las especies ovina y caprina de la explotación del animal en el que se haya confirmado la enfermedad.
+
+b) Cuando puedan ser identificados, los genitores, todos los embriones, óvulos y los descendientes de última generación del animal en el que se haya confirmado la enfermedad.
+
+c) Todos los demás animales de las especies ovina y caprina de la explotación del animal en que se haya confirmado la enfermedad, además de los mencionados en la letra anterior.
+
+d) El posible origen de la enfermedad y la identificación de otras explotaciones en las que haya animales, embriones u óvulos que puedan haber resultado infectados por el agente causante de la encefalopatía espongiforme transmisible, haber recibido los mismos piensos o haber estado expuestos a la misma fuente de contaminación.
+
+e) La circulación de piensos y otros materiales o cualquier otro medio de transmisión potencialmente contaminados que puedan haber transmitido el agente de la encefalopatía espongiforme bovina la explotación de que se trate o desde la misma.
+
+> Se modifica el apartado 2 por el art. único.1 de la Orden APA/3187/2003, de 10 de noviembre. [Ref. BOE-A-2003-20936](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20936).
+
+> Se modifica por el art. único y anexo de la Orden de 26 de julio de 2001. [Ref. BOE-A-2001-14641](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-14641).
+
+> Esta modificación es aplicable a partir del 1 de julio de 2001, según establece la disposición final única.
+
+## ANEXO X — Medidas de erradicación
+
+En el caso de diagnosticarse una EET, o en el caso de sospecha en la que no se pueda descartar la presencia de una EET tras la realización de los oportunos análisis laboratoriales, se procederá al sacrificio de los siguientes animales:
+
+a) En el caso de EEB:
+
+1\. Si es en un animal de la especie bovina, la muerte y la destrucción completa de los bovinos y la destrucción de los embriones y óvulos de dicha especie identificados mediante la investigación indicada en las letras a), b) y c) del punto 1 del anexo IX.
+
+No obstante, respecto de los animales indicados en la letra a) del punto 1 del anexo IX, se eximirá del sacrificio de dichos animales de la especie bovina a los siguientes:
+
+Todos los que se hayan incorporado a la explotación de que se trate en los doce últimos meses anteriores a la aparición del caso, siempre que procedieran de otra explotación, así como su posible descendencia en dicho período.
+
+En aquellas explotaciones en las que el animal afectado hubiese entrado en la misma durante los doce últimos meses, no se procederá al sacrificio total del efectivo de ganado bovino presente en la explotación. En este caso, se deberá proceder al sacrificio y destrucción completa de los animales de la especie bovina de la explotación de nacimiento del animal afectado, así como todos aquellos relacionados epidemiológicamente.
+
+Asimismo, la autoridad competente podrá eximir del sacrificio a los animales indicados en la letra a) del punto 1 del anexo IX, siempre que esté garantizada la identificación y trazabilidad perfecta, mediante sistemas informáticos o registros de nacimiento de las poblaciones de riesgo definidas por la Oficina Internacional de Epizootias (los animales nacidos durante los doce meses anteriores o posteriores al nacimiento del animal afectado, así como toda la descendencia nacida en los dos últimos años).
+
+2\. Si es en un animal de las especies ovina o caprina, la muerte y la destrucción completa de todos los animales, embriones y óvulos identificados mediante la investigación indicada en las letras b), c), d) y e) del punto 2 del anexo IX.
+
+b) En caso de encefalopatía espongiforme transmisible en un animal de las especies ovina y caprina, serán de aplicación las medidas establecidas en el anexo VII del Reglamento (CE) n.º 999/2001, del Parlamento Europeo y del Consejo, de 22 de mayo de 2001, y además:
+
+Tras la confirmación de un caso de encefalopatía espongiforme transmisible en una explotación y tras descartar que se trate de EEB, podrán destinarse a sacrificio para consumo humano los animales de cualquier edad siempre y cuando se cumplan los siguientes requisitos:
+
+1\. Se autorice la salida de la explotación por la autoridad competente y en la guía de traslado de los animales se indique que proceden de una explotación en la que se ha diagnosticado algún caso de tembladera.
+
+2\. Se sacrifiquen en un matadero ubicado en el territorio español.
+
+3\. Se sometan a análisis para detectar la presencia de EET todos los animales de más de 18 meses de edad o con la dentición de más de dos incisivos definitivos.
+
+Sin perjuicio de lo anterior, los corderos y cabritos podrán enviarse a otra explotación, que sólo contenga ovinos o caprinos que se estén cebando, únicamente para su engorde previo al sacrificio, respetando los términos y condiciones previstos en el anexo VII del Reglamento (CE) n.º 999/2001.
+
+> Se modifica la letra b) por el art. único de la Orden PRE/1642/2013, de 9 de septiembre. [Ref. BOE-A-2013-9537](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9537).
+
+> Se modifican los apartados a).2 y b) por el art. único.2 de la Orden APA/3187/2003, de 10 de noviembre. [Ref. BOE-A-2003-20936](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20936).
+
+> Se modifica por el art. único y anexo de la Orden de 26 de julio de 2001. [Ref. BOE-A-2001-14641](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-14641).
+
+> Esta modificación es aplicable a partir del 1 de julio de 2001, según establece la disposición final única.
+
+## ANEXO XI — Documentación sobre animales de la especie bovina, ovina o caprina, destinados a matadero
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 361/2009, de 20 de marzo. [Ref. BOE-A-2009-5129](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5129).
+
+> Se modifica por el art. único y anexo de la Orden PRE/2893/2007, de 5 de octubre. [Ref. BOE-A-2007-17496](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17496).
+
+> Se modifica por el art. único y anexo de la Orden de 12 de enero de 2001. [Ref. BOE-A-2001-944](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-944).

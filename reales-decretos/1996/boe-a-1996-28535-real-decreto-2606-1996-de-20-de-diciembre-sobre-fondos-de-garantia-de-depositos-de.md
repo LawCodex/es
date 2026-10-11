@@ -1,0 +1,746 @@
+---
+title: "Real Decreto 2606/1996, de 20 de diciembre, sobre fondos de garantía de depósitos de entidades de crédito"
+identifier: "BOE-A-1996-28535"
+eli: "https://www.boe.es/eli/es/rd/1996/12/20/2606"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1996-12-20
+published: 1996-12-21
+in_force_from: 1996-12-22
+last_amended: 2026-10-08
+consolidated: 2026-10-08
+gazette: "Boletín Oficial del Estado núm. 307"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-28535"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2606/1996, de 20 de diciembre, sobre fondos de garantía de depósitos de entidades de crédito
+
+El presente Real Decreto tiene por objeto desarrollar el régimen jurídico de los fondos de garantía de depósitos en establecimientos bancarios, cajas de ahorro y cooperativas de crédito.
+
+La nueva regulación, que ahora se establece, trae causa de la Directiva 94/19/CE del Parlamento Europeo y del Consejo de 30 de mayo, relativa a los sistemas de garantía de depósitos, que ya fue objeto de transposición parcial, fundamentalmente a través del Real Decreto-ley 12/1995, de 28 de diciembre, sobre medidas urgentes en materia presupuestaria, tributaria y financiera, en el que se introdujeron las primeras novedades importantes tales como la obligatoria adhesión de las entidades de crédito españolas a un fondo de garantía de depósitos, los supuestos de exención de tal obligación, así como las causas de exclusión.
+
+Otra de las novedades del citado Real Decreto-ley fue la determinación del sistema de aportaciones a los fondos así como su reducción y suspensión, de manera que los fondos se nutren a través de las aportaciones anuales de las entidades de crédito integradas en cada uno de ellos y, excepcionalmente, se prevén contribuciones del Banco de España, determinándose que su cuantía debe fijarse por Ley.
+
+Por otra parte se ampliaron los supuestos que dan lugar al pago de las indemnizaciones (incluyéndose, además de la suspensión de pagos y la quiebra, la declaración administrativa de impago de depósitos). Finalmente, queda perfilado el régimen de adhesión de las sucursales de entidades de crédito extranjeras.
+
+El presente Real Decreto, en el que se completa la transposición de la Directiva 94/19/CE, viene a desarrollar lo anterior, siendo uno de sus rasgos más sobresalientes el integrar en un único texto normativo la regulación de los distintos fondos, singularizada, hasta el momento presente por una profusa dispersión.
+
+En nuestro país, los fondos de garantía de depósitos se han caracterizado, tradicionalmente, por su doble finalidad de asegurar los depósitos y la del saneamiento y reflotamiento de entidades de crédito en dificultades. Ambos rasgos no se abandonan en la ordenación actual.
+
+Lo más novedoso que presenta la regulación actual se centra en las siguientes cuestiones:
+
+En primer lugar, y respecto de los órganos de gobierno de los fondos, se precisa el régimen de elección por las asociaciones representativas de las entidades de crédito de sus representantes en la comisión gestora de los respectivos fondos de garantía de depósitos. El concepto de la representatividad de las asociaciones queda fijado según dos criterios: representar más del 80 por 100 de las entidades adheridas al fondo correspondiente y más del 90 por 100 de los depósitos constituidos en dichas entidades. De no alcanzarse tales porcentajes, la designación de los representantes se realizará mediante votación directa de todas las entidades adheridas al fondo concerniente.
+
+En segundo lugar, y en lo referente a los aspectos materiales del fondo, merecen destacarse varios temas. Así, en la definición de los depósitos garantizados se lleva a cabo una delimitación tanto positiva como negativa, conforme a las pautas previstas en la Directiva que se transpone. Se distinguen los depósitos no garantizados por su propia naturaleza y que, por tanto, no computan para el cálculo de las aportaciones, de aquellos otros que, si bien, en principio están cubiertos y, en consecuencia, se tienen en cuenta para dicho cómputo, pueden quedar excluidos de la obligación de pago por la concurrencia de determinadas circunstancias.
+
+Por otra parte, el importe garantizado de los depósitos tiene como límite el equivalente en pesetas de 20.000 ECUs, si bien hasta el 31 de diciembre de 1999 queda fijado en 15.000 ECUs.
+
+En este sentido, se produce la asunción del denominado «principio de garantía por parte del país de origen» que implica la obligatoria cobertura por parte de los fondos de los depósitos de sucursales de entidades de crédito españolas en otros países de la Unión Europea. No obstante, se incluye la limitación conocida como «cláusula de prohibición de exportación de los regímenes más favorables», que impide que el nivel y el alcance de la cobertura exceda de lo máximo que ofrezca el sistema de garantía del Estado miembro de acogida.
+
+También queda determinado el sistema de adhesión de las sucursales de entidades de crédito extranjeras al fondo de Garantía de Depósitos en Establecimientos Bancarios, llevándose a cabo una distinción necesaria. Respecto de las comunitarias, se admite una adscripción voluntaria y ello por la simple razón de que puedan ofrecer a sus depositantes una garantía complementaria de la suya propia.
+
+Por contra, el régimen de las sucursales de entidades de crédito no comunitarias varía en cuanto a su obligatoriedad en función de si existe o no cobertura en el país de origen, así como de si se produce o no diferencia en el nivel o alcance.
+
+En tercer lugar, destaca la regulación de aspectos procedimentales relacionados tanto con las causas o supuestos que dan origen a la obligación del pago como con el pago propiamente dicho.
+
+La segunda finalidad clásica de nuestros fondos ha sido garantizar la estabilidad del sistema financiero, evitando que la crisis de una entidad de crédito repercuta en el resto de entidades operantes en el mercado. Destaca en la nueva regulación el denominado «Plan de actuación» que podrá contener tanto medidas preventivas como de saneamiento, pudiendo éstas implicar toda una serie de acciones de reestructuración del capital de la entidad entre las que destaca la suscripción por el fondo de ampliaciones de capital y diversos tipos de ayudas financieras como medidas de gestión.
+
+El Real Decreto delimita las funciones del Banco de España y de las comisiones gestoras de los fondos en relación tanto con la aprobación del plan de actuación como con la adopción de las medidas ejecutivas y de saneamiento concretas. Esta regulación pretende evitar solapamientos competenciales y sistematizar las actuaciones públicas o privadas tendentes a superar las situaciones de crisis de naturaleza financiera de las entidades de crédito.
+
+En su virtud, a propuesta del Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 20 de diciembre de 1996,
+
+## D I S P O N G O :
+
+### Artículo 1. Objeto y personalidad jurídica.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto-ley 16/2011, de 14 de octubre. [Ref. BOE-A-2011-16173](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-16173).
+
+> Se modifica el apartado 2 por el art. 23 del Real Decreto 948/2001, de 3 de agosto. [Ref. BOE-A-2001-15221](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15221).
+
+### Artículo 2. Órganos de gobierno de los fondos.
+
+1\. Si en el momento de proceder a la elección de representantes en la comisión gestora de los respectivos fondos de garantía de depósitos, las entidades de crédito miembros de alguna de las asociaciones mencionadas representasen más del 80 por 100 de las adheridas al fondo correspondiente, y los depósitos en las entidades miembros de aquéllas supusiesen más del 90 por 100 de los constituidos en éstas, las asociaciones representativas serán las encargadas de realizar las propuestas de nombramientos de los representantes al Ministro de Economía y Hacienda. El Banco de España verificará el cumplimiento de los porcentajes de representación anteriormente mencionados y, en caso de cumplimiento, se notificará a la asociación en cuestión. En el caso de que no se alcanzasen los porcentajes señalados, se designarán mediante votación directa de todas las entidades adheridas al fondo y se propondrá el nombramiento por las mismas. Cada entidad tendrá tantos votos como depósitos expresados en millones de pesetas, pudiendo designarse únicamente personas que reúnan el 20 por 100 o más de los votos emitidos. El Banco de España organizará y fijará los criterios de las votaciones. A los efectos de este artículo, se considerarán depósitos los pasivos que puedan beneficiarse de la garantía de los fondos, de acuerdo con la regulación vigente, con independencia de su importe por titular.
+
+2\. Las comisiones gestoras se reunirán por convocatoria de su Presidente, a propia iniciativa o a instancia de cualquiera de sus miembros. Estarán, asimismo, facultadas para establecer su propio régimen de convocatorias.
+
+3\. Las comisiones gestoras determinarán las normas de su propio funcionamiento y podrán acordar las delegaciones que consideren convenientes para el debido ejercicio de sus funciones.
+
+4\. Cada comisión gestora tendrá, además de las funciones que se contemplan en otros preceptos del presente Real Decreto, las siguientes:
+
+a) Información y asesoramiento al Banco de España en las materias de la competencia de los fondos.
+
+b) Aprobación de las cuentas que los fondos deberán rendir anualmente a sus miembros y al Banco de España.
+
+5\. Las comisiones gestoras recabarán del Banco de España cuanta información necesiten respecto de las entidades adheridas para el desempeño de sus funciones. En particular, serán informadas por aquel de las que se encuentren en dificultades económicas que puedan determinar la necesidad de actuación de los fondos respectivos.
+
+6\. **(Derogado)**
+
+7\. Los miembros de la comisión gestora estarán obligados a guardar secreto de cuanta información conozcan en virtud de su participación en las tareas del fondo, no pudiendo hacer uso de la misma para finalidades distintas de las relacionadas con el ejercicio de su cargo en esa comisión. A estos efectos, se estará a lo que dispone el artículo 6 del Real Decreto legislativo 1298/1986, de 28 de junio, sobre adaptación del derecho vigente en materia de entidades de crédito al de las Comunidades Europeas, en la redacción dada al mismo por el artículo 5 de la Ley 3/1994, de 14 de abril, por la que se adapta la legislación española en materia de entidades de crédito a la Segunda Directiva de Coordinación Bancaria y se introducen otras modificaciones relativas al sistema financiero.
+
+> Se derogan los apartados 1, a excepción del párrafo cuarto y 6 por la disposición derogatoria única del Real Decreto-ley 16/2011, de 14 de ocutbre. [Ref. BOE-A-2011-16173](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-16173).
+
+> Se modifica el apartado 6 por el art. 24 del Real Decreto 948/2001, de 3 de agosto. [Ref. BOE-A-2001-15221](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15221).
+
+### Artículo 3. Patrimonio del Fondo de Garantía de Depósitos de Entidades de Crédito.
+
+1\. Las entidades adscritas al Fondo de Garantía de Depósitos de Entidades de Crédito están obligadas a cumplir con el régimen económico de aportaciones anuales y derramas regulado en los apartados 2 y 5, de forma que el Fondo pueda cumplir con las obligaciones frente a los depositantes e inversores impuestas en esta norma.
+
+2\. La Comisión Gestora determinará las aportaciones anuales de las entidades adscritas al Fondo de Garantía de Depósitos de Entidades de Crédito, atendiendo a los criterios establecidos en el artículo 6 del Real Decreto-ley 16/2011, de 14 de octubre, por el que se crea el Fondo de Garantía de Depósitos de Entidades de Crédito. A tal fin, las bases de cálculo de las aportaciones que las entidades deben realizar a cada compartimento del Fondo serán:
+
+a) En el caso de las aportaciones al compartimento de garantía de depósitos, los depósitos garantizados, según se definen en el artículo 4.1.
+
+b) En el caso de las aportaciones al compartimento de garantía de valores, el valor de cotización de los valores garantizados, según lo definido en el artículo 4.2. Cuando entre estos últimos figuren valores e instrumentos financieros no negociados en un mercado secundario, español o extranjero, su base de cálculo vendrá dada por su valor nominal o por el de reembolso, el que resulte más propio del tipo de valor o instrumento financiero de que se trate, salvo que se haya declarado o conste otro valor más significativo a efectos de su depósito o registro.
+
+3\. Las aportaciones anuales de las entidades adscritas irán destinadas a cubrir las necesidades derivadas de las funciones atribuidas a los compartimentos del Fondo y se ingresarán en las cuentas que designe la Comisión Gestora, en uno o más desembolsos, a la vista de las necesidades del Fondo y en los plazos que fije la Comisión Gestora.
+
+No obstante, y sin perjuicio de lo dispuesto en el apartado siguiente, el eventual excedente anual y cualquier otro excedente en el patrimonio del Fondo sobre la cuantía necesaria para el cumplimiento de sus fines permanecerá en dicho patrimonio sin que quepa su distribución o devolución a las entidades adheridas.
+
+4\. Cuando los recursos financieros disponibles de un compartimento del Fondo alcancen una cuantía suficiente para el cumplimiento de sus fines, el Ministro de Economía y Competitividad, a propuesta del Banco de España, podrá acordar la disminución de las aportaciones mencionadas en el apartado 1 de este artículo. En todo caso, de conformidad con el artículo 6.6 del Real Decreto-ley 16/2011, de 14 de octubre, las aportaciones a un compartimento se suspenderán cuando los recursos financieros disponibles del compartimento igualen o superen el 1 por ciento del importe garantizado por dicho compartimento. Esta circunstancia será comunicada por la Comisión Gestora en la forma que la misma establezca.
+
+No obstante lo previsto en el párrafo anterior, las aportaciones al compartimento de garantía de depósitos no podrán suspenderse cuando los recursos financieros disponibles de este compartimento sean inferiores al nivel objetivo establecido en el artículo 6.4 del Real Decreto-ley 16/2011, de 14 de octubre.
+
+5\. Cuando los recursos financieros disponibles sean insuficientes para efectuar los pagos a los depositantes o a los inversores, la Comisión Gestora acordará la realización de derramas entre las entidades adscritas, que se distribuirán atendiendo a los criterios y a la base de cálculo de las aportaciones prevista en el apartado 2. Igualmente, la Comisión Gestora podrá acordar la realización de derramas en caso de considerarlo necesario para poner en práctica cualquiera de las medidas previstas en el artículo 11 del Real Decreto-ley 16/2011, de 14 de octubre.
+
+No obstante lo previsto en el párrafo anterior, el importe total de las aportaciones no podrá exceder de:
+
+a) En el caso del compartimento de garantía de depósitos, el 0,5 por ciento de los depósitos garantizados por año natural, salvo que el Banco de España lo autorice. Asimismo, el Banco de España podrá aplazar total o parcialmente la obligación de una entidad de crédito del pago de la derrama cuando esta contribución ponga en peligro la liquidez o la solvencia de la entidad. Esta prórroga no podrá concederse por más de seis meses pero podrá ser renovada a petición de la entidad. En todo caso, el Banco de España no concederá el aplazamiento o la prórroga cuando prevea que tras la misma la entidad no podrá hacer frente a sus aportaciones.
+
+b) En el caso del compartimento de garantía de valores, la cuantía necesaria para eliminar la insuficiencia de recursos.
+
+6\. Las aportaciones realizadas al compartimento de garantía de depósitos en virtud del apartado 2 en los últimos doce meses por una entidad de crédito que transfiera su actividad a otro Estado miembro de la Unión Europea y que quede adscrita a otro sistema de garantía de depósitos, se transferirán a dicho sistema de garantía de depósitos en proporción al importe de los depósitos garantizados transferidos.
+
+No obstante lo dispuesto en el párrafo anterior, en ningún caso se transferirán las aportaciones realizadas al compartimento de garantía de depósitos en virtud del apartado 5.
+
+7\. El patrimonio no comprometido del Fondo deberá estar invertido de forma diversificada y en activos de las categorías primera o segunda del cuadro 1 del artículo 336 del Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo, de 26 de junio de 2013, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012, o por activos considerados seguros y líquidos por la Comisión Gestora.
+
+8\. El Fondo de Garantía de Depósitos de Entidades de Crédito informará a la Autoridad Bancaria Europea anualmente, antes del 31 de marzo, del importe a que ascienden, a 31 de diciembre del año anterior, los depósitos garantizados y los recursos financieros disponibles del compartimento de garantía de depósitos del Fondo.
+
+> Se modifica el apartado 2.b) por el art. 3 del Real Decreto 813/2026, de 7 de octubre. [Ref. BOE-A-2026-20915](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20915)
+
+> Se modifica el primer párrafo de los apartados 3 y 5 por el art. 1.1 del Real Decreto 1041/2021, de 23 de noviembre. [Ref. BOE-A-2021-19307](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19307)
+
+> Se modifica por la disposición final 1.1 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+> Se derogan los apartados 2 bis y 2 ter por la disposición derogatoria.b) de la Ley 9/2012, de 14 de noviembre. [Ref. BOE-A-2012-14062](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14062).
+
+> Téngase en cuenta que estos apartados ya fueron derogados por el Real Decreto-ley 24/2012.
+
+> Se derogan los apartados 2 bis y 2 ter por la disposición derogatoria única.b) del Real Decreto-ley 24/2012, de 31 de agosto. [Ref. BOE-A-2012-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-11247).
+
+> Se añaden los apartados 2 bis y 2 ter por la disposición final.1 del Real Decreto 771/2011, de 3 de junio. [Ref. BOE-A-2011-9731](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9731).
+
+> Se modifica el apartado 3 por el art. 1.1 del Real Decreto 628/2010, de 14 de mayo. [Ref. BOE-A-2010-8821](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8821).
+
+> Se modifica por el art. 25 del Real Decreto 948/2001, de 3 de agosto. [Ref. BOE-A-2001-15221](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15221).
+
+> Téngase en cuenta para su aplicación la disposición adicional 1.
+
+### Artículo 3 bis. Atribución a cada compartimento de los costes, gastos y obligaciones generales.
+
+De conformidad con lo previsto en el artículo 6.2 del Real Decreto-ley 16/2011, de 14 de octubre, los costes, gastos y obligaciones que no hayan sido atribuidos a ningún compartimento se distribuirán del siguiente modo:
+
+a) Corresponderá al compartimento de garantía de depósitos una cuantía igual al importe total de esos costes, gastos u obligaciones multiplicado por la base de cálculo de las contribuciones a este compartimento y dividida por la suma de las bases de cálculo de las contribuciones a los dos compartimentos.
+
+b) Corresponderá al compartimento de garantía de valores una cuantía igual al importe total de esos costes, gastos u obligaciones multiplicado por la base de cálculo de las contribuciones a este compartimento y dividida por la suma de las bases de cálculo de las contribuciones a los dos compartimentos.
+
+> Se añade por la disposición final 1.2 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+### Artículo 4. Definición de los depósitos garantizados.
+
+1\. A efectos de este real decreto, tendrán la consideración de depósitos admisibles los saldos acreedores mantenidos en cuenta, incluidos los fondos procedentes de situaciones transitorias por operaciones de tráfico y excluidos aquellos depósitos mencionados en el apartado 4, que la entidad tenga obligación de restituir en las condiciones legales y contractuales aplicables, cualquiera que sea la moneda en que estén nominados y siempre que estén constituidos en España o en otro Estado miembro de la Unión Europea, incluidos los depósitos a plazo fijo y los depósitos de ahorro. La parte de estos depósitos que no supere los niveles de cobertura establecidos en el artículo 7 se considerarán depósitos garantizados.
+
+Entre los fondos procedentes de situaciones transitorias, a que se refiere el párrafo precedente, se incluirán, en todo caso, los recursos dinerarios que se hayan confiado a la entidad para la realización de algún servicio de inversión, de acuerdo con el texto refundido de la Ley del Mercado de Valores, o que provengan de la prestación de dichos servicios o actividades.
+
+No tendrán la consideración de depósitos a efectos de este real decreto los saldos acreedores en los que concurra alguna de las circunstancias siguientes:
+
+a) Su existencia solo puede probarse mediante un instrumento financiero de los previstos en el artículo 2 del texto refundido de la Ley del Mercado de Valores, aprobado por el Real Decreto Legislativo 4/2015,, de 23 de octubre. No tienen, por tanto, la consideración de depósitos las cesiones temporales de activos y los certificados de depósito al portador.
+
+b) Si el principal no es reembolsable por su valor nominal.
+
+c) Si el principal solo es reembolsable por su valor nominal con una garantía o acuerdo especial de la entidad de crédito o de un tercero.
+
+2\. A efectos del presente Real Decreto, tendrán la consideración de valores garantizados los valores negociables e instrumentos financieros previstos en el artículo 2 de la Ley del Mercado de Valores, que hayan sido confiados a la entidad de crédito en España o en cualquier otro país, para su depósito o registro o para la realización de algún servicio de inversión. Dentro de los valores garantizados se incluirán, en todo caso, los que hayan sido objeto de cesión temporal y sigan anotados o registrados en la entidad cedente.
+
+No gozarán de garantía los valores e instrumentos financieros confiados a la entidad de crédito para realizar servicios de inversión y actividades complementarias en territorios definidos como paraísos fiscales por la legislación vigente o en un país o territorio que carezca de órgano supervisor de los mercados de valores, o cuando, aun existiendo, se niegue a intercambiar información con la Comisión Nacional del Mercado de Valores.
+
+Los países o territorios que se encuentran en este último supuesto serán especificados por el Ministro de Economía, a propuesta de la Comisión Nacional del Mercado de Valores.
+
+Tampoco gozarán de garantía los valores e instrumentos financieros confiados a sucursales de entidades de crédito españolas localizadas en países no comunitarios que dispongan de sistemas nacionales de indemnización de los inversores equivalentes a los españoles.
+
+3\. En lo concerniente a la garantía referida en los apartados anteriores para servicios de inversión o actividades de depósito o registro de valores, los fondos cubrirán la no restitución de los valores o instrumentos pertenecientes al inversor perjudicado como consecuencia de las situaciones previstas en el artículo 8.2 del presente Real Decreto. En el presente supuesto, en ningún caso se cubrirán pérdidas del valor de la inversión o cualquier riesgo de crédito.
+
+4\. No se considerarán depósitos admisibles a los efectos de este real decreto y, por tanto, estarán excluidos de la cobertura del Fondo de Garantía de Depósitos de Entidades de Crédito:
+
+a) Los depósitos realizados por las siguientes entidades:
+
+1.º Las entidades de crédito.
+
+2.º Las sociedades y agencias de valores.
+
+3.º Las entidades aseguradoras.
+
+4.º Las sociedades de inversión mobiliaria.
+
+5.º Las sociedades gestoras de instituciones de inversión colectiva, así como las sociedades gestoras de fondos de pensiones, de los fondos de titulización y de capital-riesgo y los depósitos de las entidades que gestionan.
+
+6.º Las sociedades gestoras de carteras y las empresas de asesoramiento financiero.
+
+7.º Las sociedades de capital riesgo y sus correspondientes sociedades gestoras.
+
+8.º Cualquier otra entidad financiera definida en el artículo 4.1.26) del Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo, de 26 de junio de 2013.
+
+b) Los fondos propios de la entidad según la definición del artículo 4.1.118 del Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo, de 26 de junio de 2013, independientemente del importe por el que se computen como tales.
+
+c) Los valores representativos de deuda emitidos por la entidad de crédito, incluso los pagarés y efectos negociables.
+
+d) Los depósitos cuyo titular no haya sido identificado, conforme a lo dispuesto en la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo, o que tengan su origen en operaciones que hayan sido objeto de una sentencia penal condenatoria por delito de blanqueo de capitales.
+
+e) Los depósitos constituidos en la entidad por las Administraciones Públicas con la excepción de los constituidos por entidades locales con un presupuesto anual igual o inferior a 500.000 euros.
+
+No se considerarán valores garantizados a los efectos de este real decreto aquellos de los que sean titulares las personas mencionadas en los párrafos a) y e) precedentes.
+
+5\. Asimismo, y sin perjuicio de que sean tenidos en cuenta para el cómputo de las aportaciones, la obligación de pagar los importes garantizados no comprenderá a los constituidos:
+
+a) Con quebrantamiento de las disposiciones vigentes, en particular, los originados en operaciones en relación con las cuales haya habido una condena penal por delitos resultantes de operaciones de blanqueo de capitales.
+
+b) Por clientes que hayan obtenido, a título personal, condiciones financieras que hayan contribuido a agravar la situación de la entidad, siempre que tal circunstancia haya sido determinada por sentencia firme.
+
+c) Aquellas personas que actúen por cuenta de cualquiera de los depositantes excluidos en virtud del anterior y de este apartado, o en concierto con los mencionados en los párrafos a) y b) precedentes.
+
+6\. No obstante, los plazos establecidos en el artículo 9.1 de este Real Decreto, cuando a juicio de la Comisión Gestora existan circunstancias que permitan presumir la relación o participación de algún depositante con las causas motivadoras de la obligación de indemnizar, podrá suspenderse el pago de las indemnizaciones correspondientes mientras no se declare judicialmente, a instancia de parte, la inexistencia de aquella relación o participación. Los fondos dispondrán de igual facultad cuando un depositante o cualquier otra persona con derecho o interés sobre un depósito haya sido procesado o se hubiera dictado apertura de juicio oral por delitos relacionados con operaciones de blanqueo de capitales, cuando se hubiere incoado el procedimiento abreviado que se regula en el Título III del Libro IV de la Ley de Enjuiciamiento Criminal y hasta tanto finalice el procedimiento.
+
+Lo establecido en este apartado y en el precedente se aplicará, igualmente, a los titulares de valores garantizados.
+
+> Se modifica la letra a) del apartado 4 por el art. 1.2 del Real Decreto 1041/2021, de 23 de noviembre. [Ref. BOE-A-2021-19307](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19307)
+
+> Se modifican los apartados 1 y 4 por la disposición final 1.3 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+> Se modifica por el art. 26 del Real Decreto 948/2001, de 3 de agosto. [Ref. BOE-A-2001-15221](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15221).
+
+### Artículo 5. Adscripción al Fondo de Garantía de Depósitos de Entidades de Crédito.
+
+1\. Las entidades de crédito españolas, con la excepción del Instituto de Crédito Oficial, deberán adherirse a los compartimentos del Fondo de Garantía de Depósitos de Entidades de Crédito.
+
+2\. Las sucursales de entidades de crédito extranjeras tendrán el siguiente régimen:
+
+a) Las sucursales de entidades de crédito autorizadas en otro país miembro de la Unión Europea podrán adherirse al compartimento de garantía de valores.
+
+b) Las sucursales de entidades de crédito autorizadas en un país no miembro de la Unión Europea tendrán el siguiente régimen:
+
+1.° Su adscripción al compartimento de garantía de depósitos o de valores del Fondo de Garantía de Depósitos de Entidades de Crédito será obligatoria cuando los depósitos garantizados o cuando los valores garantizados constituidos o confiados a la sucursal respectivamente no estén cubiertos por un sistema de garantía en el país de origen.
+
+2.° Deberán adscribirse al correspondiente compartimento del Fondo de Garantía de Depósitos de Entidades de Crédito para cubrir la diferencia en nivel o alcance cuando la garantía del sistema del país de origen sea inferior a la cubierta por aquel, ya sea respecto a los depósitos, ya respecto a los valores garantizados.
+
+3.° No será obligatoria su adscripción al correspondiente compartimento del Fondo de Garantía de Depósitos de Entidades de Crédito cuando los depósitos o los valores garantizados gocen de un nivel de cobertura igual o superior en el país de origen. Tampoco será obligatoria la adscripción al compartimento de garantía de valores cuando la entidad no preste en España servicios de inversión.
+
+A los efectos de determinar el supuesto que corresponda a cada sucursal, estas acreditarán, en su caso, la cobertura dispensada por el sistema de garantía de su país de origen.
+
+3\. El Fondo de Garantía de Depósitos de Entidades de Crédito deberá cooperar con los sistemas de garantía de depósitos de otros países al objeto de organizar, en su caso, el pago de los importes garantizados. A tal efecto, podrá establecer los convenios y mecanismos de colaboración que considere oportunos.
+
+El Fondo notificará a la Autoridad Bancaria Europea los acuerdos alcanzados con sistemas de garantía de depósitos de otros Estados miembros de la Unión Europea y el contenido de los mismos. Asimismo, el Fondo podrá solicitar asistencia a la Autoridad Bancaria Europea para resolver los impedimentos para alcanzar acuerdos o las divergencias en cuanto a la interpretación de los acuerdos de conformidad con el artículo 19 del Reglamento (UE) n.º 1093/2010 del Parlamento Europeo y del Consejo de 24 de noviembre de 2010 por el que se crea una Autoridad Europea de Supervisión (Autoridad Bancaria Europea), se modifica la Decisión n.º 716/2009/CE y se deroga la Decisión 2009/78/CE de la Comisión.
+
+4\. La Comisión Gestora insertará en el "Boletín Oficial del Estado", anualmente, la relación de las entidades adscritas a cada compartimento del Fondo.
+
+5\. Con excepción de lo dispuesto en el artículo 3.6, las entidades que por cualquier causa causen baja como miembros del Fondo, deberán abonar al Fondo las cuantías pendientes de pago por aportaciones anuales y derramas aprobadas y no tendrán derecho a la devolución de las cantidades aportadas a los mismos.
+
+> Se modifica por la disposición final 1.4 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+> Se modifica el párrafo octavo del apartado 2 y el apartado 4 por el art. 1.2 y 3 del Real Decreto 628/2010, de 14 de mayo. [Ref. BOE-A-2010-8821](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8821).
+
+> Se modifican los apartados 2.b) y 4 por el art. 27.1 del Real Decreto 948/2001, de 3 de agosto. [Ref. BOE-A-2001-15221](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15221).
+
+### Artículo 5 bis. Información a los depositantes.
+
+1\. Las entidades de crédito que operen en España deberán poner a disposición de sus depositantes e inversores reales y potenciales, en todas sus oficinas y en su página web en forma fácilmente comprensible y accesible, la información necesaria para identificar al fondo de garantía de depósitos al que pertenecen. Dicha información comprenderá en todo caso su denominación, sede, número de teléfono, dirección de Internet y de correo electrónico, así como las disposiciones aplicables al mismo, especificando el importe y alcance de la cobertura ofrecida. Para informar sobre la garantía de los depósitos, se utilizará la hoja informativa del anexo.
+
+Las entidades de crédito que operen bajo diferentes denominaciones comerciales informarán claramente a sus depositantes de este hecho y de que el nivel de cobertura establecido en el artículo 7.1 se aplica a los depósitos agregados que el depositante mantiene en la entidad de crédito. Dicha información se incluirá en la información al depositante mencionada en este artículo y en el anexo.
+
+En el caso de los depósitos o valores que no estén garantizados en virtud de lo previsto en el artículo 4.4, las entidades deberán informar al respecto a sus depositantes e inversores.
+
+Si el depositante o inversor lo solicita, se le informará, asimismo, de las condiciones necesarias para que se produzca el pago del importe garantizado y de las formalidades necesarias para su pago.
+
+Asimismo, las entidades mantendrán a disposición del público información sobre las características del fondo al que estén adscritas e indicarán, en su caso, de las coberturas ofrecidas por sistemas o fondos extranjeros. En particular, precisarán el régimen de cobertura para los supuestos de depósito o registro de valores en otras entidades financieras.
+
+Sin perjuicio de lo establecido en los párrafos anteriores de este mismo apartado, las entidades integradas en el Fondo no podrán utilizar su pertenencia al mismo en su publicidad, si bien podrán incluir una mención a aquella sin añadir otros datos o informaciones sobre el Fondo.
+
+2\. Antes de la celebración de un contrato de depósito, las entidades proporcionarán a los depositantes la información indicada en el apartado anterior y estos acusarán recibo de dicha información.
+
+3\. La confirmación de que los depósitos no están excluidos de la garantía se transmitirá a los depositantes en sus extractos de cuenta, que incluirán una referencia a la hoja informativa que figura en el anexo. Esta hoja informativa será transmitida al depositante al menos una vez al año.
+
+4\. En el sitio web del Fondo de Garantía de Depósitos de Entidades de Crédito se recogerá la información necesaria para los depositantes, en especial la relativa a las disposiciones sobre el procedimiento y las condiciones de las garantías de depósito.
+
+5\. En caso de fusión, escisión, transformación de filiales en sucursales u operaciones similares, las entidades de crédito informarán a los depositantes al menos un mes antes de que la operación surta efecto legal, salvo que el Banco de España permita un plazo más corto por motivos de secreto comercial o de estabilidad financiera.
+
+Los depositantes dispondrán de un plazo de tres meses tras la notificación de la fusión o transformación u operación similar, para retirar o transferir a otra entidad de crédito, sin ningún tipo de costes, sus depósitos admisibles, incluidos todos los intereses devengados y beneficios obtenidos hasta el momento de la operación.
+
+6\. Si una entidad de crédito se retira o es excluida de un sistema de garantía de depósitos, dicha entidad de crédito informará al respecto a sus depositantes en el plazo de un mes tras su retirada o exclusión.
+
+7\. Si un depositante efectúa sus operaciones bancarias a través de internet, la información que ha de facilitarse en virtud de este artículo podrá comunicársele electrónicamente, salvo que el depositante expresamente solicite que se le comunique en papel impreso.
+
+> Se añade por la disposición final 1.5 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+### Artículo 6. Exclusión de los fondos.
+
+1\. Las entidades de crédito que no realicen debidamente sus aportaciones al fondo de garantía de depósitos al que estén adheridas, no contribuyan a las derramas o incumplan las obligaciones previstas en el apartado 4 del artículo anterior, podrán ser excluidas del fondo una vez que, requeridas al efecto, no hayan regularizado su situación en el plazo que se les confiera, que no podrá ser inferior a un mes. Será competente para acordar la exclusión el Ministro de Economía, a propuesta del Banco de España, previo informe de la comisión gestora del fondo afectado y previa audiencia del interesado, de conformidad con lo dispuesto en el artículo 84 de la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+2\. Cuando una sucursal de una entidad de crédito de un país de la Unión Europea no cumpliera las obligaciones que le incumban como miembro del fondo, éste, a través del Banco de España, lo comunicará a la autoridad supervisora del Estado de origen de la entidad, para que adopte las medidas oportunas. Si a pesar de ello, la entidad continuase incumpliendo dichas obligaciones, el fondo podrá proponer a dicha autoridad la exclusión de la sucursal. Obtenida la autorización expresa de la mencionada autoridad, el fondo notificará a la sucursal su exclusión, que será efectiva a los doce meses de la notificación.
+
+3\. Los depósitos realizados, tanto en entidades de crédito españolas como en sucursales de entidades de crédito extranjeras, antes de que la exclusión sea efectiva, seguirán amparados por el fondo hasta su vencimiento. En el caso de las cuentas corrientes, el saldo amparado no excederá del existente a la fecha de la exclusión, menos los adeudos que hayan tenido lugar entre la citada fecha y la de la declaración del supuesto que dé lugar al pago de la indemnización.
+
+Los valores e instrumentos financieros confiados a la entidad antes de que su exclusión sea efectiva dejarán de estar garantizados por el fondo transcurridos tres meses desde la fecha de exclusión.
+
+La retirada de la cobertura será comunicada a los depositantes a través del "Boletín Oficial del Estado" y de dos periódicos de ámbito nacional.
+
+> Se modifica por el art. 28 del Real Decreto 948/2001, de 3 de agosto. [Ref. BOE-A-2001-15221](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15221).
+
+### Artículo 7. Alcance del importe de los depósitos garantizados.
+
+1\. El importe garantizado de los depósitos tendrá como límite las cuantías establecidas en el artículo 10.1 del Real Decreto-ley 16/2011, de 14 de octubre. La garantía alcanzará los intereses devengados pero sin abonar hasta la fecha en que se produzcan los hechos contemplados en el artículo 8.1 sin que, en ningún caso, se sobrepasen los límites del citado artículo 10.1.
+
+2\. Las deudas del depositante frente a la entidad de crédito no se tendrán en cuenta para calcular el importe reembolsable salvo que la fecha de exigibilidad de dichas deudas sea anterior o igual a las fechas de referencia previstas en el apartado anterior y las disposiciones legales y contractuales por las que se rija el contrato entre la entidad de crédito y el depositante así lo contemplen.
+
+En todo caso, las entidades de crédito informarán debidamente a los depositantes, antes de la celebración del contrato, de cuándo sus deudas frente a la entidad se tendrán o no en cuenta a la hora de calcular el importe garantizado de acuerdo con lo establecido en el párrafo anterior.
+
+3\. En el caso de depósitos no nominados en euros, el importe garantizado será su equivalente aplicando los tipos de cambio del día en que se produzca alguno de los hechos citados en el artículo 8.1 de este real decreto o al día anterior hábil cuando fuese festivo.
+
+4\. Las garantías previstas en este artículo se aplicarán por depositante, sea persona natural o jurídica y cualesquiera que sean el número y clase de depósitos de efectivo en que figure como titular en la misma entidad. Dicho límite se aplicará también a los depositantes titulares de depósitos de importe superior al máximo garantizado.
+
+5\. Cuando una cuenta tenga más de un titular, su importe se dividirá entre los titulares, de acuerdo con lo previsto en el contrato de depósito y, en su defecto, a partes iguales.
+
+6\. Cuando los titulares de un depósito actúen como representantes o agentes de terceros, siempre que el beneficiario legal haya sido identificado o sea identificable antes de que se produzcan las circunstancias descritas en el artículo 8, la cobertura del Fondo se aplicará a los terceros beneficiarios del depósito en la parte que les corresponda.
+
+No obstante, lo anterior, cuando quien actúe como representante o agente sea una entidad de las excluidas de cobertura del Fondo de las recogidas en los numerales 3.º, 4.º, 5.º, 7.º y 8.º del artículo 4.4.a), se considerará que el depósito pertenece a dicha entidad y no será cubierta por el Fondo.
+
+7\. Los depósitos existentes en el momento de la revocación de la autorización a una entidad adscrita al Fondo seguirán cubiertos hasta la disolución o liquidación de la entidad y la entidad seguirá obligada a realizar las aportaciones legalmente exigibles. En el caso de las cuentas corrientes, el saldo amparado será el existente a la fecha de la revocación menos los adeudos que tengan lugar entre la citada fecha y la de declaración del supuesto que dé lugar al pago de la indemnización.
+
+> Se modifica el apartado 6 por el art. 1.3 del Real Decreto 1041/2021, de 23 de noviembre. [Ref. BOE-A-2021-19307](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19307)
+
+> Se modifica por la disposición final 1.6 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+> Se modifica el apartado 1 por el art. 1.4 del Real Decreto 628/2010, de 14 de mayo. [Ref. BOE-A-2010-8821](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8821).
+
+> Se actualizan los importes garantizados del apartado 1 por el art. único del Real Decreto 1642/2008, de 10 de octubre. [Ref. BOE-A-2008-16384](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-16384).
+
+> Se modifica por el art. 29 del Real Decreto 948/2001, de 3 de agosto. [Ref. BOE-A-2001-15221](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15221).
+
+### Artículo 7 bis. Alcance del importe de los valores garantizados.
+
+1\. El importe garantizado a los inversores que hayan confiado a la entidad de crédito valores o instrumentos financieros será independiente del previsto en el artículo anterior y alcanzará como máximo la cuantía de 100.000 euros.
+
+El importe se calculará al valor de mercado de dichos valores e instrumentos en el día en que se produzca alguno de los hechos citados en el artículo 8.2 de este real decreto o en el día anterior hábil cuando fuese festivo, aplicando en su caso el tipo de cambio del día. Los importes garantizados se abonarán en su equivalente dinerario.
+
+2\. En el caso de que los valores e instrumentos no se negocien en un mercado secundario oficial, español o extranjero, para determinar el importe garantizado, una vez que se haya producido alguno de los hechos previstos en el artículo 8 y únicamente para este proceso, su valor se calculará atendiendo a los siguientes criterios:
+
+a) Valores de renta variable: valor teórico calculado sobre el último balance auditado a la entidad emisora; en el caso de que no exista balance auditado o éste contenga salvedades con ajustes que puedan determinar un valor teórico menor del que resulte de las cuentas, el valor de mercado se determinará pericialmente.
+
+b) Valores de renta fija: valor nominal más el cupón corrido, cuando el tipo de interés sea explícito, o valor de reembolso actualizado al tipo implícito de emisión, en el caso de valores tipo cupón cero o emitidos al descuento.
+
+c) Instrumentos financieros: valor estimado de mercado calculado con arreglo a los procedimientos de valoración generalmente aceptados respecto al instrumento de que se trate.
+
+d) En los casos de valores o instrumentos emitidos por empresas que se encuentren en concurso de acreedores, el valor a restituir se determinará pericialmente, pudiendo posponerse su determinación hasta la conclusión del procedimiento concursal correspondiente.
+
+3\. Las garantías previstas en este artículo se aplicarán por inversor, sea persona natural o jurídica y cualesquiera que sean el número y clase de los valores e instrumentos financieros en que figure como titular en la misma entidad.
+
+4\. Cuando los valores o instrumentos financieros sean propiedad de más de un titular, su importe se dividirá entre los titulares, de acuerdo con lo previsto en el contrato de custodia de valores y, en su defecto, a partes iguales.
+
+5\. Cuando los titulares de un depósito de valores actúen como representantes o agentes de terceros, siempre que esta condición existiera antes de que se produzcan las circunstancias descritas en el artículo 8, la cobertura del Fondo se aplicará a los terceros beneficiarios del depósito de valores en la parte que les corresponda.
+
+No obstante lo anterior, cuando quien actúe como representante o agente sea una entidad de las excluidas de cobertura del Fondo en virtud del artículo 4.4.a), se considerará que el depósito de valores pertenece a dicha entidad y no será cubierta por el Fondo.
+
+6\. Los valores o instrumentos financieros confiados a la entidad en el momento en que se produzca la revocación de la autorización para prestar servicios de inversión dejarán de estar cubiertos por el Fondo transcurridos tres meses desde la fecha de la revocación. Durante este plazo, la entidad seguirá obligada a realizar las aportaciones legalmente exigibles.
+
+> Se añade por la disposición final 1.7 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+### Artículo 8. Causas para la ejecución de la garantía.
+
+1\. El Fondo, con cargo al compartimento de garantía de depósitos, satisfará a sus titulares el importe garantizado de los depósitos cuando se produzca alguno de los siguientes hechos:
+
+a) Que la entidad haya sido declarada o se tenga judicialmente por solicitada la declaración en concurso de acreedores.
+
+b) Que, no habiéndose declarado el concurso de la entidad conforme a lo indicado en el párrafo anterior y habiéndose producido impago de depósitos vencidos y exigibles, el Banco de España determine que, en su opinión y por razones directamente derivadas de la situación financiera de la entidad de que se trate, ésta se encuentra en la imposibilidad de restituirlos y no parece tener perspectivas de poder hacerlo en un futuro inmediato. El Banco de España, oída la comisión gestora del Fondo, deberá resolver a la mayor brevedad y, a más tardar, dentro de los cinco días hábiles siguientes a haber comprobado por primera vez que la entidad no ha logrado restituir depósitos vencidos y exigibles, tras haber dado audiencia a la entidad interesada, sin que ésta suponga interrupción del plazo señalado.
+
+2\. El Fondo, con cargo al compartimento de garantía de valores, satisfará a sus titulares el importe garantizado de los valores e instrumentos financieros susceptibles de cobertura cuando se produzca alguno de los siguientes hechos:
+
+a) Que se haya dictado auto declarando el concurso de la entidad de crédito y esa situación conlleve la suspensión de la restitución de los valores o instrumentos financieros; no obstante, no procederá el pago de esos importes si, dentro del plazo previsto para iniciar su desembolso, se levantase la suspensión mencionada.
+
+b) Que el Banco de España declare que la entidad de crédito no puede, a la vista de los hechos de los que ha tenido conocimiento el propio Banco de España y por razones directamente relacionadas con su situación financiera, cumplir las obligaciones contraídas con los inversores.
+
+Para que el Banco de España pueda realizar esta declaración será necesario que se produzcan las siguientes circunstancias:
+
+a) Que el inversor hubiera solicitado a la entidad de crédito la devolución de los valores e instrumentos financieros que le hubiera confiado y no hubiera obtenido satisfacción en un plazo máximo de veintiún días hábiles por parte de aquélla.
+
+b) Que la entidad de crédito no se encuentre en la situación prevista en el párrafo a) del apartado 1 de este artículo.
+
+c) Que se dé previa audiencia a la entidad de crédito.
+
+3\. Cuando la entidad afectada fuese una sucursal de una entidad de crédito con sede social en otro Estado de la Unión Europea, la declaración de incumplimiento se adoptará con la colaboración de la autoridad competente de dicho Estado.
+
+> Se modifican los apartados 1 y 2 por la disposición final 1.8 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+> Se modifica por el art. 1.5 del Real Decreto 628/2010, de 14 de mayo. [Ref. BOE-A-2010-8821](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8821).
+
+> Se modifica por el art. 30 del Real Decreto 948/2001, de 3 de agosto. [Ref. BOE-A-2001-15221](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15221).
+
+### Artículo 9. El pago y sus efectos.
+
+1\. Sin perjuicio de lo establecido en el artículo 4.4:
+
+a) El compartimento de garantía de depósitos del Fondo de Garantía de Depósitos de Entidades de Crédito deberá satisfacer las reclamaciones debidamente comprobadas dentro de los siete días hábiles siguientes a las fechas de referencia establecidas en el artículo 7 bis.1.
+
+La recopilación y transmisión por las entidades de crédito de la información exacta sobre los depositantes y los depósitos garantizados, necesaria para comprobar las reclamaciones, deberá efectuarse dentro de los plazos previstos en el párrafo anterior.
+
+El pago de los depósitos previsto en el primer párrafo de esta letra podrá aplazarse en cualquiera de los siguientes casos:
+
+1.º Cuando no exista certeza acerca de si una persona tiene derechos legales para recibir un pago o cuando el depósito sea objeto de litigio.
+
+2.º Cuando el depósito sea objeto de sanciones que restrinjan las facultades de disposición por sus titulares.
+
+3.º Cuando no se haya producido ninguna operación en relación con el depósito en los últimos 24 meses.
+
+4.º Cuando, con arreglo al segundo párrafo del artículo 10.1 del Real Decreto-ley 16/2011, de 14 de octubre, el importe que ha de reembolsarse exceda de 100.000 euros.
+
+5.º Cuando, de conformidad con el apartado 6, el importe deba ser pagado por el sistema de garantía de depósitos del Estado miembro de la Unión Europea de origen de la sucursal de una entidad de crédito que opere en España.
+
+No obstante lo previsto en esta letra, los depósitos contemplados en el artículo 7.6, estarán sujetos a un período de pago de hasta tres meses a partir de las fechas de referencia previstas en el artículo 7 bis.1.
+
+El compartimento de garantía de depósitos del Fondo de Garantía de Depósitos de Entidades de Crédito efectuará los correspondientes pagos sin que los depositantes lo soliciten. A tal efecto, las entidades de crédito transmitirán toda la información necesaria sobre los depósitos y los depositantes en cuanto el Fondo lo requiera. No obstante lo anterior, el compartimento de garantía de depósitos no realizará pago alguno si no ha habido ninguna operación relacionada con el depósito en los últimos 24 meses y el valor del depósito es inferior a los gastos administrativos que supondría el pago para el Fondo.
+
+b) Asimismo, el compartimento de garantía de valores del Fondo de Garantía de Depósitos de Entidades de Crédito deberá satisfacer las reclamaciones de los inversores lo más pronto posible y, a más tardar, tres meses después de haber determinado la posición del inversor y su importe.
+
+Cuando el Fondo de Garantía de Depósitos de Entidades de Crédito prevea que no puede efectuar los pagos previstos en la letra b) en el plazo establecido, podrá solicitar al Banco de España la concesión de una prórroga no superior a tres meses, indicando las razones de la solicitud. El Banco de España podrá autorizarla cuando aprecie que concurren motivos excepcionales que justifiquen el retraso, tales como el elevado número de inversores, la existencia de valores confiados a la entidad en otros países o la constatación de dificultades extraordinarias, técnicas o jurídicas, para comprobar el saldo efectivo de los valores garantizados o si procede o no satisfacer el importe garantizado.
+
+2\. El pago de los importes garantizados de los depósitos de dinero y valores o instrumentos no se extenderá a los efectuados con posterioridad a la fecha en que se hayan producido los hechos señalados en el artículo anterior ni a los depósitos, inversiones o importes que se hayan retirado con posterioridad a dicha fecha, sin perjuicio de lo establecido en el artículo 7.1.
+
+3\. El Fondo de Garantía de Depósitos de Entidades de Crédito no podrá acogerse a los plazos a que se refieren los apartados anteriores para denegar el beneficio de una garantía a un depositante o inversor que no haya podido hacer valer a tiempo su derecho. Los importes no satisfechos, dentro de los plazos establecidos o de sus prórrogas, quedarán en el Fondo de Garantía de Depósitos de Entidades de Crédito a disposición de sus titulares, sin perjuicio de su prescripción con arreglo a Derecho. No obstante, si las reclamaciones a realizar por los depositantes o inversores en ejecución de la garantía se efectuasen con posterioridad a la satisfacción a los mismos de cualquier cantidad que fuese acordada en un eventual procedimiento concursal, la determinación del importe a satisfacer en virtud de la garantía deberá tomar en consideración el importe ya percibido en dicho procedimiento, con el fin de que los citados depositantes o inversores no obtengan ventaja ni sufran detrimento económicos en relación con aquellos que ejecutaron la garantía en un momento anterior.
+
+4\. Por el mero hecho del pago de los importes garantizados, el Fondo de Garantía de Depósitos de Entidades de Crédito se subrogará, por ministerio de la Ley, en los derechos de los depositantes o inversores, hasta un importe equivalente al de los pagos realizados, siendo suficiente título el documento en que conste el pago.
+
+5\. En el supuesto de que los valores u otros instrumentos financieros confiados a la entidad fuesen restituidos por aquella con posterioridad al pago de un importe garantizado, el Fondo de Garantía de Depósitos de Entidades de Crédito podrá resarcirse del importe satisfecho, total o parcialmente, si lo restituido, valorado conforme establece el artículo 7.1 en el momento de la restitución, fuese mayor que la diferencia entre el importe de los valores u otros instrumentos que fueron confiados a la entidad, valorados en el momento en que se produjeron los hechos citados en el artículo 8.2, y el importe pagado al inversor. Cuando el valor de lo restituido fuese superior al de los valores e instrumentos, calculado en la fecha citada en el artículo 8.2, el exceso se distribuirá entre el Fondo y el inversor a prorrata de sus respectivos créditos.
+
+La restitución se realizará al Fondo de Garantía de Depósitos de Entidades de Crédito, quien entregará al inversor las cantidades que correspondan con arreglo a lo previsto en el párrafo precedente, estando el Fondo facultado, a tal fin, para enajenar los valores en la cuantía que resulte procedente.
+
+6\. El Fondo de Garantía de Depósitos de Entidades de Crédito efectuará, por cuenta del sistema de garantía de depósitos del Estado de la Unión Europea de origen y de conformidad con las instrucciones de este, los pagos que correspondan a los depositantes de sucursales de entidades de crédito de otros Estados miembros de la Unión Europea establecidas en España. Asimismo, el Fondo informará a los depositantes afectados en nombre del sistema de garantía de depósitos del Estado miembro de la Unión Europea de origen, y podrá recibir la correspondencia de tales depositantes en nombre del sistema de garantía de depósitos del Estado miembro de origen.
+
+No obstante lo anterior, el Fondo de Garantía de Depósitos de Entidades de Crédito no efectuará ningún pago hasta haber recibido los fondos necesarios del sistema de garantía de depósitos del Estado miembro de origen.
+
+Adicionalmente, el Fondo exigirá al sistema de garantía de depósitos del Estado miembro de origen una compensación por los gastos en que incurra durante el pago.
+
+7\. El Fondo de Garantía de Depósitos de Entidades de Crédito no tendrá ninguna responsabilidad respecto a los actos llevados a cabo de conformidad con las instrucciones del sistema de garantía de depósitos del Estado miembro de origen.
+
+8\. El Fondo de Garantía de Depósitos de Entidades de Crédito recurrirá a los sistemas de garantía de depósitos de los Estados miembros de la Unión Europea en que se encuentren establecidas las sucursales de entidades de crédito españolas para efectuar los pagos correspondientes a los depósitos de esas sucursales.
+
+A los efectos del párrafo anterior, el Fondo de Garantía de Depósitos de Entidades de Crédito enviará los fondos al sistema de garantía de depósitos del Estado miembro de acogida junto con las instrucciones oportunas para efectuar los pagos y compensará al sistema de garantía de depósitos del Estado miembro de acogida por los gastos incurridos durante el pago.
+
+Asimismo, el Fondo de Garantía de Depósitos de Entidades de Crédito comunicará periódicamente al sistema de garantía de depósitos del Estado miembro de acogida la información prevista en el artículo 9 bis y los resultados de las pruebas de resistencia realizadas de conformidad con el artículo 12 del Real Decreto-ley 16/2011, de 14 de octubre.
+
+> Se modifica por la disposición final 1.9 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+> Se modifican los apartados 1 y 3 por el art.1.6 y 7 del Real Decreto 628/2010, de 14 de mayo. [Ref. BOE-A-2010-8821](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8821).
+
+> Se modifica por el art. 31 del Real Decreto 948/2001, de 3 de agosto. [Ref. BOE-A-2001-15221](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15221).
+
+### Artículo 9 bis. Información que deben proporcionar las entidades de crédito.
+
+1\. Las entidades de crédito tendrán identificados en todo momento los depósitos admisibles y garantizados de cada depositante con el nivel de detalle que determine el Banco de España.
+
+Esta información podrá ser solicitada por el Fondo de Garantía de Depósitos de Entidades de Crédito en cualquier momento.
+
+Adicionalmente, las entidades de crédito colaborarán con el Fondo de Garantía de Depósitos de Entidades de Crédito y le facilitarán toda la información, documentación y aclaraciones que éste considere necesarias para comprobar la información mencionada en este artículo así como de la utilizada para determinar la base de cálculo de las aportaciones al Fondo de Garantía de Depósitos de Entidades de Crédito. El Fondo de Garantía de Depósitos de Entidades de Crédito informará al Banco de España de los resultados de sus comprobaciones.»
+
+2\. El Fondo de Garantía de Depósitos de Entidades de Crédito garantizará la confidencialidad y la protección de los datos relativos a las cuentas de los depositantes. A tales efectos, el tratamiento de tales datos se efectuará de conformidad con la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+
+> Se modifica el apartado 1 por el art. 1.4 del Real Decreto 1041/2021, de 23 de noviembre. [Ref. BOE-A-2021-19307](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19307)
+
+> Se añade por la disposición final 1.10 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+### Artículo 10. Otras actuaciones del Fondo de Garantía de Depósitos de Entidades de Crédito.
+
+1\. De conformidad con el artículo 11.5 del Real Decreto-ley 16/2011, de 14 de octubre, excepcionalmente, cuando la situación de una entidad de crédito, según la información facilitada por el Banco de España, sea tal que haga previsible que el Fondo quede obligado al pago, conforme a las causas previstas en el artículo 8.1.b), el Fondo, con cargo al compartimento de garantía de depósitos, podrá adoptar medidas preventivas y de saneamiento previstas en el artículo siguiente con objeto de impedir la liquidación de la entidad. Estas medidas deberán enmarcarse en un plan acordado por la entidad y aprobado por el supervisor competente, previa consulta al FROB.
+
+No obstante lo anterior, el Fondo no adoptará estas medidas si las autoridades de resolución competentes previstas en la Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades de crédito y empresas de servicios de inversión, consideran que se reúnen las condiciones para la resolución.
+
+2\. Todo plan que contenga medidas que requieran la aprobación de la Junta o Asamblea general de la entidad afectada, se considerará condicional y no se ejecutará hasta que recaigan los acuerdos que lo hagan posible. Entretanto, si lo requiriese la situación de la entidad, el Fondo podrá prestar ayudas provisionales, siempre que se encuentren debidamente garantizadas, a juicio de la comisión gestora.
+
+3\. Los recursos utilizados por el Fondo en virtud de este artículo deberán ser proporcionados de inmediato por las entidades de crédito adscritas al compartimento de garantía de depósitos en los siguientes casos:
+
+a) Si, de conformidad con el artículo 9.1.a), el compartimento de garantía de depósitos debe satisfacer depósitos garantizados y sus recursos financieros disponibles no alcanzan dos tercios del nivel objetivo establecido en virtud del artículo 6.4 del Real Decreto-ley 16/2011, de 14 de octubre.
+
+b) Cuando el compartimento de garantía de depósitos no deba satisfacer depósitos garantizados, siempre que los recursos financieros disponibles de este compartimento se sitúen por debajo del 25 por ciento del nivel objetivo establecido en virtud del artículo 6.4 del Real Decreto-ley 16/2011, de 14 de octubre.
+
+> Se modifica por la disposición final 1.11 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+> Se modifica el apartado 3 por el art. 32 del Real Decreto 948/2001, de 3 de agosto. [Ref. BOE-A-2001-15221](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15221).
+
+### Artículo 11. Medidas preventivas y de saneamiento.
+
+1\. El Fondo de Garantía de Depósitos de Entidades de Crédito podrá adoptar, de conformidad con el artículo anterior, alguna de las siguientes medidas preventivas y de saneamiento con respecto a una entidad:
+
+a) Concesión de ayudas a fondo perdido.
+
+b) Concesión de garantías, préstamos en condiciones favorables o financiaciones subordinadas.
+
+c) Adquisición de activos dañados o no rentables que figuren en el balance de la entidad.
+
+d) Suscripción de ampliaciones de capital, conforme a lo dispuesto en los apartados siguientes.
+
+e) Cualesquiera otros apoyos financieros.
+
+2\. El Fondo podrá suscribir las ampliaciones de capital que aprueben las entidades para restablecer su situación patrimonial en el supuesto de que las mismas no sean cubiertas por los accionistas de la entidad.
+
+Se entenderá, en todo caso, que las ampliaciones de capital a que se refiere el párrafo anterior no son cubiertas por los accionistas de la entidad cuando la Junta General de esta haya acordado la exclusión total o parcial del derecho de suscripción preferente, conforme a lo previsto en la legislación aplicable.
+
+En el plazo máximo de dos años el Fondo ofrecerá en venta las acciones suscritas en las ampliaciones a que se refiere el apartado anterior. Dicho ofrecimiento de venta se efectuará de forma que puedan concurrir a él, al menos, las entidades de crédito integradas en el Fondo que por sus condiciones de capacidad económica, actividad y otras exigibles, en relación con la importancia y dimensión de la entidad en saneamiento, aseguren el definitivo restablecimiento de la solvencia y normal funcionamiento de ésta.
+
+En caso de que en el plazo de dos años previsto en el apartado anterior no pueda asegurarse la concurrencia al ofrecimiento de entidades que aseguren el restablecimiento de la solvencia y el normal funcionamiento de la entidad en saneamiento, el Fondo podrá ampliar dicho plazo por uno o varios periodos adicionales de un año. La decisión de ampliar el plazo deberá estar motivada y contendrá una evaluación detallada de la situación que justifique la ampliación, incluidas las condiciones y perspectivas del mercado.
+
+En el ofrecimiento se especificarán los compromisos mínimos que deba aceptar la eventual entidad adjudicataria.
+
+La adjudicación se efectuará por el Fondo en favor de la entidad que presente las condiciones de adquisición más ventajosas. A tal efecto podrán tomarse en cuenta, además de las condiciones económicas, la capacidad y medios económicos y organizativos de cada entidad oferente.
+
+El ofrecimiento en venta de las acciones y sus condiciones, así como la decisión de adjudicación de aquéllas, deberán publicarse en el “Boletín Oficial del Estadoˮ.
+
+3\. Con el fin de posibilitar la adjudicación de las acciones, el Fondo podrá asumir pérdidas, prestar garantías y adquirir activos que figuren en el balance de las entidades afectadas, así como responsabilizarse del balance económico de los expedientes o procedimientos de diverso orden que estén en curso o puedan incoarse posteriormente a aquéllas.
+
+El Fondo también podrá adquirir activos a aquellas entidades en los que, a juicio de la comisión gestora, dicha adquisición contribuya substancialmente a evitar otras medidas del restablecimiento de la situación patrimonial de una entidad integrada en el Fondo.
+
+Las actuaciones previstas en los párrafos anteriores no implicarán en ningún caso la exclusión del requerimiento a los administradores de la entidad para la adopción de otras medidas que contribuyan al reforzamiento patrimonial y a la solvencia, así como al necesario equilibrio de la cuenta de pérdidas y ganancias.
+
+4\. En ningún caso serán de aplicación al Fondo las limitaciones estatutarias del derecho a voto respecto de las acciones que adquiera o suscriba conforme a este artículo.
+
+> Se modifica por la disposición final 1.12 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+### Artículo 12. Pruebas de resistencia.
+
+**(Sin contenido).**
+
+> Se deja sin contenido por el art. 1.5 del Real Decreto 1041/2021, de 23 de noviembre. [Ref. BOE-A-2021-19307](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19307)
+
+> Se añade por la disposición final 1.13 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+### Artículo 13. Comunicación y cooperación.
+
+Sin perjuicio de los artículos 82 y 83 de la Ley 10/2014, de 26 de junio, el Fondo de Garantía de Depósitos de Entidades de Crédito podrá compartir información y mantener una comunicación eficaz con otros sistemas de garantías de depósitos, con las entidades de crédito adscritas, con el Banco de España, el FROB y las autoridades correspondientes de otros Estados miembros de la Unión Europea.
+
+> Se añade por la disposición final 1.13 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+### Disposición transitoria primera. Régimen aplicable a las sucursales en España de entidades de crédito de otros Estados de la Unión Europea que dejen de pertenecer al fondo.
+
+A la entrada en vigor del presente Real Decreto, las sucursales en España de entidades de crédito de otros Estados de la Unión Europea podrán dejar de pertenecer al Fondo de Garantía de Depósitos en Establecimientos Bancarios, sin que tengan derecho a devolución de las aportaciones ya efectuadas ni obligación de continuar realizando aportaciones por razón alguna.
+
+### Disposición transitoria segunda. Importe garantizado hasta el 31 de diciembre de 1999.
+
+Hasta el 31 de diciembre de 1999, el importe garantizado en virtud del artículo 7, apartado 1, será el equivalente en pesetas de 15.000 ECUS.
+
+### Disposición transitoria tercera. Designación y renovación de representantes de las entidades de crédito en las comisiones gestoras de los fondos de garantía de depósito.
+
+Los fondos de garantía de depósitos designarán o renovarán los representantes de las entidades de crédito en sus comisiones gestoras dentro de los tres meses siguientes a la entrada en vigor del presente Real Decreto. A este efecto, y en relación con lo previsto en el artículo 2, apartado 1, párrafo tercero, se considerarán como asociaciones representativas: de los Bancos, la Asociación Española de Banca Privada (AEB); de las Cajas de Ahorro, la Confederación Española de Cajas de Ahorros (CECA), y de las Cooperativas de Crédito, la Unión Nacional de Cooperativas de Crédito (UNACC).
+
+### Disposición transitoria cuarta. Consideración como depósito garantizado de los certificados de depósito nominativos.
+
+Hasta su fecha inicial de vencimiento, los certificados de depósito nominativos emitidos antes del 2 de julio de 2014 tendrán la consideración de depósitos garantizados a efectos de este real decreto.
+
+> Se añade por la disposición final 1.14 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+### Disposición transitoria quinta. Obligación de informar sobre depósitos que dejarán de estar garantizados.
+
+Los depositantes cuyos depósitos dejen de estar garantizados después del 3 de julio de 2015 con motivo de las modificaciones introducidas en este real decreto por el Real Decreto 1012/2015, de 6 de noviembre, por el que se desarrolla la Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades de crédito y empresas de servicios de inversión, habrán de ser informados por su entidad de crédito antes de transcurridos dos meses desde la entrada en vigor de este real decreto.
+
+> Se añade por la disposición final 1.15 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+### Disposición transitoria sexta. Plazos de pago.
+
+1\. El plazo máximo de pago de siete días hábiles previsto en el artículo 9.1.a) no entrará en vigor hasta el 1 de enero de 2024. Hasta entonces, los plazos máximos de pago serán los siguientes:
+
+a) Veinte días hábiles, hasta el 31 de diciembre de 2018.
+
+b) Quince días hábiles, entre el 1 de enero de 2019 y el 31 de diciembre de 2020.
+
+c) Diez días hábiles, entre el 1 de enero de 2021 y el 31 de diciembre de 2023.
+
+2\. Hasta el 31 de diciembre de 2023, cuando el Fondo de Garantía de Depósitos de Entidades de Crédito no pueda restituir el importe reembolsable en un plazo de siete días hábiles, pagará a los depositantes, en un plazo máximo de cinco días hábiles tras su solicitud, un importe adecuado de sus depósitos garantizados con el fin de cubrir su sustento. Dicho importe se deducirá de la suma reembolsable a que se refiere el artículo 7.1.Primer párrafo.
+
+El Fondo de Garantía de Depósitos de Entidades de Crédito solo concederá acceso al importe adecuado a que se refiere el párrafo anterior sobre la base de los datos del propio Fondo o de los datos proporcionados por la entidad de crédito.
+
+3\. El pago contemplado en el apartado anterior podrá aplazarse en cualquiera de los casos contemplados en el artículo 9.1.a).Tercer párrafo.
+
+> Se añade por la disposición final 1.16 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).
+
+### Disposición derogatoria única. Alcance de la derogación normativa.
+
+A la entrada en vigor de este Real Decreto quedan derogadas todas las disposiciones de igual e inferior rango que se opongan a lo dispuesto en él y, en particular, quedan derogados:
+
+a) Real Decreto 567/1980, de 28 de marzo, por el que se perfecciona y amplía el fondo de garantía de depósitos en establecimientos bancarios.
+
+b) Real Decreto 1620/1981, de 13 de julio, por el que se modifican parcialmente los Reales Decretos 567/1980 y 2860/1980 sobre fondos de garantía de depósitos en establecimientos bancarios y en cajas de ahorros, respectivamente.
+
+c) Real Decreto 2575/1982, de 1 de octubre, sobre el fondo de garantía de depósitos en las cajas de ahorro, desarrollando el Real Decreto-ley 18/1982, de 24 de septiembre.
+
+d) Real Decreto 2576/1982, de 1 de octubre, sobre fondo de garantía de depósitos en cooperativas de crédito, desarrollando el Real Decreto-ley 18/1982, de 24 de septiembre.
+
+e) Real Decreto 740/1985, de 24 de abril, sobre fondo de garantía de depósitos en establecimientos bancarios.
+
+f) El artículo 2 del Real Decreto 437/1994, de 11 de marzo, por el que se modifican los Reales Decretos 1197/1991, de 26 de julio, sobre régimen de las ofertas públicas de adquisición de valores, y 567/1980, de 28 de marzo, sobre fondo de garantía de depósitos en establecimientos bancarios.
+
+g) La disposición adicional única del Real Decreto 2024/1995, de 22 de diciembre, por el que se modifica parcialmente el Real Decreto 1343/1992, de 6 de noviembre, por el que se desarrolla la Ley 13/1992, de 1 de junio, de Recursos Propios y Supervisión en Base Consolidada de las Entidades Financieras, y se incluye un nuevo Título V sobre las reglas especiales de vigilancia aplicables a los grupos mixtos no consolidables de entidades financieras.
+
+### Disposición final primera. Facultad de desarrollo.
+
+Se faculta al Ministro de Economía para dictar las normas que sean precisas para el desarrollo del presente real decreto y, en particular, para actualizar, previo informe del Banco de España, las cuantías de indemnización contempladas, de conformidad con la normativa vigente de la Unión Europea. Asimismo, se le faculta para, teniendo en consideración la evolución del precio del dinero y del coste medio del pasivo de las entidades adheridas a los fondos, modificar los límites establecidos en el apartado 2 bis del artículo 3, y reducir o elevar la ponderación prevista en el apartado 2 ter del mismo artículo.
+
+Se autoriza al Banco de España para desarrollar el procedimiento de elección de sus representantes en las comisiones gestoras de los fondos, así como las cuestiones técnico contable de los conceptos depósitos y valores garantizados, de patrimonio neto no comprometido, y del valor de mercado de los valores garantizados. Asimismo, se la faculta para dictar las normas necesarias para la aplicación de lo previsto en los apartados 2 bis y 2 ter del artículo 3.
+
+> Se modifica por la disposición final.2 del Real Decreto 771/2011, de 3 de junio. [Ref. BOE-A-2011-9731](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9731).
+
+> Se modifica por el art. 33 del Real Decreto 948/2001, de 3 de agosto. [Ref. BOE-A-2001-15221](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-15221).
+
+### Disposición final segunda. Carácter básico.
+
+Las disposiciones contenidas en el presente Real Decreto se declaran básicas de conformidad con lo dispuesto en el artículo 149.1.11.ª y 13.ª de la Constitución.
+
+### Disposición final tercera. Entrada en vigor.
+
+La presente disposición entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 20 de diciembre de 1996.
+
+JUAN CARLOS R.
+
+El Vicepresidente Segundo del Gobierno
+
+y Ministro de Economía y Hacienda,
+
+RODRIGO DE RATO Y FIGAREDO
+
+## ANEXO — Impreso de información a los depositantes
+
+<table class="tabla" border="0" summary="Tabla de datos">
+<tbody>
+<tr>
+<th colspan="2">
+<p class="cabeza_tabla">Información básica sobre la cobertura de los depósitos</p>
+</th>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Los depósitos mantenidos en [insertar nombre de la entidad de crédito] están garantizados por</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">[insertar nombre del correspondiente sistema de garantía de depósitos](1)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Límite de la cobertura</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">100.000 euros por depositante y entidad de crédito (2)</p>
+<p class="cuerpo_tabla_izq">[sustituir por el importe adecuado en caso de que la moneda no sea el euro]</p>
+<p class="cuerpo_tabla_izq">[cuando proceda:] Las siguientes denominaciones comerciales forman parte de su entidad de crédito [insertar todas las marcas comerciales que operan bajo la misma licencia]:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Si tiene usted más depósitos en la misma entidad de crédito:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Todos sus depósitos en la misma entidad de crédito se suman y el total está sujeto al límite de 100.000 euros [sustituir por el importe adecuado en caso de que la moneda no sea el euro] (2).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Si tiene una cuenta en participación con otra(s) persona(s):</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">El límite de 100 000 EUR [sustituir por el importe adecuado en caso de que la moneda no sea el EUR] se aplica a cada depositante por separado (3).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Período de reembolso en caso de concurso de la entidad de crédito:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">7 días hábiles [sustituir por otra fecha si procede] (4)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Moneda en que se realiza el reembolso:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Euros [sustituir por otra moneda cuando proceda]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Contacto:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">[insertar los datos de contacto del SGD correspondiente (dirección, teléfono, correo electrónico, etc.)]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Para más información:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">[insertar el sitio web del correspondiente SGD]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Acuse de recibo del depositante:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="cuerpo_tabla_izq">Información adicional (toda o parte de la información que aparece más abajo)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) Sistema responsable de la cobertura de su depósito.
+
+[Solo cuando proceda]: Su depósito está garantizado por un sistema contractual reconocido oficialmente como Sistema de Garantía de Depósitos. En caso de insolvencia de su entidad de crédito, su depósito se le reembolsará hasta los 100 000 EUR [sustituir por el importe adecuado en caso de que la moneda no sea el EUR].
+
+[Solo cuando proceda]: Su entidad de crédito forma parte de un Sistema Institucional de Protección reconocido oficialmente como Sistema de Garantía de Depósitos. Esto significa que todas las entidades que son miembros de este sistema se respaldan mutuamente con el fin de evitar la insolvencia. En caso de insolvencia de su entidad de crédito, su depósito se le reembolsará hasta los 100 000 EUR [sustituir por el importe adecuado en caso de que la moneda no sea el EUR].
+
+[Solo cuando proceda]: Su depósito está garantizado por un Sistema de Garantía de Depósitos creado por disposición legal y por un Sistema de Garantía de Depósitos contractual. En caso de insolvencia de su entidad de crédito, su depósito se le reembolsará de todos modos hasta los 100 000 EUR [sustituir por el importe adecuado en caso de que la moneda no sea el EUR].
+
+[Solo cuando proceda]: Su depósito está garantizado por un Sistema de Garantía de Depósitos creado por disposición legal. Además, su entidad de crédito forma parte de un Sistema Institucional de Protección en el que todos los afiliados se respaldan mutuamente con el fin de evitar la insolvencia. En caso de insolvencia, el Sistema de Garantía de Depósitos le reembolsará su depósito hasta los 100 000 EUR [sustituir por el importe adecuado en caso de que la moneda no sea el EUR].
+
+(2) Límite general de la protección.
+
+Si no pudiera disponerse de un depósito debido a que una entidad de crédito no esté en condiciones de cumplir sus obligaciones financieras, un Sistema de Garantía de Depósitos reembolsará a los depositantes. El reembolso asciende como máximo a 100 000 EUR [sustituir el importe adecuado en caso de que la moneda no sea el EUR] por entidad de crédito. Esto significa que se suman todos sus depósitos efectuados en la misma entidad de crédito para determinar el nivel de cobertura. Si, por ejemplo, un depositante posee una cuenta de ahorro con 90 000 EUR y una cuenta corriente con 20 000 EUR, solo se le reembolsarán 100 000 EUR.
+
+[Solo cuando proceda]: Este método se utilizará también si una entidad de crédito opera con diferentes denominaciones comerciales. [Nombre de la entidad de crédito donde está abierta la cuenta] opera comercialmente también con las denominaciones [demás denominaciones comerciales de la entidad de crédito]. Ello significa que todos los depósitos en una o más de tales denominaciones comerciales están garantizados por un total de 100 000 EUR.
+
+(3) Límite de la protección para las cuentas en participación.
+
+En el caso de cuentas en participación, el límite de 100 000 EUR se aplicará a cada depositante.
+
+[Solo cuando proceda]: Sin embargo, los depósitos en una cuenta sobre la que tengan derechos dos o más personas como socios o miembros de una sociedad, una asociación o cualquier agrupación de índole similar, sin personalidad jurídica, se agregan y tratan como si los hubiera efectuado un depositante único a efectos del cálculo del límite de 100 000 EUR [sustituir por el importe adecuado en caso de que la moneda no sea el EUR].
+
+En algunos casos [insértense los casos determinados en la normativa nacional] los depósitos están garantizados por encima de los 100 000 EUR [sustituir por el importe adecuado en caso de que la moneda no sea el EUR]. Puede obtenerse más información en [insertar el sitio web del correspondiente SGD].
+
+(4) Reembolso.
+
+El sistema de garantía de depósitos responsable es [insértese el nombre, dirección, teléfono, dirección electrónica y sitio web]. Le reembolsará sus depósitos (hasta un máximo de 100 000 EUR) [sustituir por el importe adecuado en caso de que la moneda no sea el EUR] el [insértese el período de reembolso exigido por la normativa nacional] a más tardar, y a partir del [31 de diciembre de 2023] en un plazo de [7 días hábiles].
+
+[Añádase información sobre reembolsos de emergencia o provisionales en caso de que no se haya podido disponer de ninguna cantidad en un plazo de 7 días hábiles.] Si en este plazo no se le ha reembolsado, debe ponerse en contacto con el sistema de garantía de depósitos, ya que el tiempo durante el cual puede reclamarse el reembolso puede estar limitado. Para más información, sírvase consultar [insértese sitio web del SGD responsable].
+
+Otra información importante.
+
+En general, todos los depositantes minoristas y las empresas están cubiertos por sistemas de garantía de depósitos. Las excepciones aplicables a ciertos depósitos pueden consultarse en el sitio web del sistema de garantía de depósitos responsable. Su entidad de crédito le informará también, si así lo solicita, de si determinados productos están cubiertos o no. Si los depósitos están cubiertos, la entidad de crédito se lo confirmará también en los extractos de cuenta.
+
+> Se añade por la disposición final 1.17 del Real Decreto 1012/2015, de 6 de noviembre. [Ref. BOE-A-2015-12056](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12056).

@@ -1,0 +1,207 @@
+---
+title: "Real Decreto 229/2008, de 15 de febrero, por el que se regulan los Centros de Referencia Nacional en el ámbito de la formación profesional"
+identifier: "BOE-A-2008-3526"
+eli: "https://www.boe.es/eli/es/rd/2008/02/15/229"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2008-02-15
+published: 2008-02-25
+in_force_from: 2008-02-26
+last_amended: 2023-07-22
+consolidated: 2026-09-25
+gazette: "Boletín Oficial del Estado núm. 48"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-3526"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 229/2008, de 15 de febrero, por el que se regulan los Centros de Referencia Nacional en el ámbito de la formación profesional
+
+Véase, en cuanto a la revisión de determinadas referencias contenidas en el presente Real Decreto, la disposición adicional 14 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+El Consejo Europeo de Lisboa de 2000, destacó el conocimiento y la innovación como los motores del progreso económico, incluyendo el crecimiento del empleo. En esta línea, se ha defendido la educación y el capital humano como factores básicos para el crecimiento económico y se establece como objetivo primordial de los países de la Unión Europea la necesidad de mejorar la calidad, la equidad y la eficacia de los sistemas de educación y formación.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, tiene por objeto «la ordenación de un sistema integral de formación profesional, cualificaciones y acreditación, que responda con eficacia y transparencia a las demandas sociales y económicas a través de las diversas modalidades formativas».
+
+El artículo 11 de la Ley Orgánica 5/2002 regula los centros de formación profesional y en su apartado 1 habilita al Gobierno para establecer los requisitos básicos que deben reunir los centros que impartirán ofertas de formación profesional conducentes a la obtención de títulos de formación profesional y certificados de profesionalidad. Asimismo, el mismo artículo 11, en su apartado 7, establece que «la innovación y experimentación en materia de formación profesional se desarrollará a través de una Red de Centros de Referencia Nacional, con implantación en todas las comunidades autónomas, especializados en los distintos sectores productivos. A tales efectos, dichos centros podrán incluir acciones formativas dirigidas a estudiantes, trabajadores ocupados y desempleados, así como a empresarios y formadores».
+
+El Centro de Referencia Nacional, que se concibe como una institución al servicio de los sistemas de formación profesional, debe facilitar una formación profesional más competitiva y responder a los cambios en la demanda de cualificación de los sectores productivos. Su trabajo debe ser, por lo tanto, un referente orientador para el sector productivo y formativo.
+
+Así, los Centros de Referencia Nacional se distinguen por programar y ejecutar actuaciones de carácter innovador, experimental y formativo en materia de formación profesional, de modo que sirvan de referente al conjunto del Sistema Nacional de Cualificaciones y Formación Profesional para el desarrollo de la formación profesional. Estarán organizados en una Red de Centros de Referencia Nacional de formación profesional.
+
+La Red de Centros de Referencia Nacional en el ámbito de la formación profesional asegurará la participación de todas las comunidades autónomas y estará organizada por las familias profesionales establecidas en el Real Decreto 1128/2003, de 5 de septiembre, por el que se regula el Catálogo Nacional de Cualificaciones Profesionales, modificado por el Real Decreto 1416/2005, de 25 de noviembre.
+
+Las actuaciones de estos centros se llevarán a cabo, en el marco legislativo del Sistema Nacional de Cualificaciones y Formación Profesional, mediante convenios de colaboración entre la Administración General del Estado y las comunidades autónomas, y se atendrán, en todo caso, al ámbito de sus respectivas competencias. Las competencias de ejecución en esta materia corresponden a las comunidades autónomas. La Administración General del Estado ejercerá las funciones ejecutivas en el ámbito de la innovación y experimentación en materia de formación profesional en aquellos supuestos en los que la legislación vigente se las haya reservado o en relación con los Centros de Referencia Nacional de titularidad estatal.
+
+Los fines y funciones de los Centros de Referencia Nacional en el ámbito de la formación profesional, las características de su funcionamiento, las condiciones de su creación y autorización, la definición de sus órganos de gobierno y participación, así como las condiciones de su gestión y financiación, son aspectos cuya regulación básica aborda la presente norma.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas y las organizaciones empresariales y sindicales y ha emitido informe el Consejo General de la Formación Profesional y el Consejo Escolar del Estado.
+
+En su virtud, a propuesta conjunta del Ministro de Trabajo y Asuntos Sociales y de la Ministra de Educación y Ciencia, previa aprobación de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 15 de febrero de 2008,
+
+DISPONGO:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+1\. El presente real decreto tiene por objeto desarrollar, de conformidad con lo previsto en la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, la regulación de los Centros de Referencia Nacional en el ámbito de la formación profesional y de la Red de Centros de Referencia Nacional.
+
+2\. La colaboración entre la Administración General del Estado y la Administración autonómica, para todo lo previsto en este real decreto, se articulará a través de convenios de colaboración.
+
+## Artículo 2. Definición.
+
+1\. Serán considerados Centros de Referencia Nacional aquellos centros públicos que, reuniendo las condiciones establecidas en el presente real decreto, realicen acciones de innovación y experimentación en materia de formación profesional, especializados en los diferentes sectores productivos, a través de las familias profesionales reguladas en el Real Decreto 1128/2003, de 5 de septiembre, por el que se regula el Catálogo Nacional de Cualificaciones Profesionales, modificado por Real Decreto 1416/2005, de 25 de noviembre, sin perjuicio de las competencias en materia de innovación y experimentación que tengan otras Administraciones públicas.
+
+2\. Estos Centros servirán de referencia, a nivel estatal, en el ámbito de la familia profesional asignada y a través del ejercicio de las funciones previstas en el artículo 4, al conjunto del Sistema de Cualificaciones y Formación Profesional y a los distintos sectores productivos.
+
+3\. Los Centros de Referencia Nacional podrán incluir acciones formativas dirigidas a estudiantes, trabajadores ocupados y desempleados, así como a empresarios, formadores y profesores, relacionadas con la innovación y la experimentación en formación profesional, vinculadas al Catálogo Nacional de Cualificaciones Profesionales.
+
+## Artículo 3. Fines.
+
+Los fines de los Centros de Referencia Nacional, en el ámbito de la familia profesional en el que desarrollen su actividad, son:
+
+a) Observar la evolución y las necesidades de cualificación del sistema productivo, y contribuir a la actualización y desarrollo de la formación profesional para adaptarla a dichas necesidades.
+
+b) Aplicar y experimentar proyectos de innovación en materia de formación profesional en lo referido a la impartición de acciones formativas, información y orientación profesional, evaluación y acreditación de competencias profesionales y otras con valor para el Sistema Nacional de Cualificaciones y Formación Profesional.
+
+c) Servir de enlace entre las instituciones de formación e innovación y los sectores productivos, promoviendo la comunicación y difusión del conocimiento en el ámbito de la formación profesional.
+
+d) Proporcionar al Sistema Nacional de Cualificaciones y Formación Profesional la información que requiera para su funcionamiento y mejora.
+
+## Artículo 4. Funciones.
+
+Las funciones de los Centros de Referencia Nacional, en el ámbito de la familia profesional asignada, son:
+
+1\. Observar y analizar, a nivel estatal, la evolución de los sectores productivos, para realizar propuestas de adecuación de la oferta de formación del Sistema de Formación Profesional a las necesidades del mercado de trabajo.
+
+2\. Colaborar en la actualización del Catálogo Nacional de Estándares de Competencias Profesionales, así como en el diseño y actualización de currículos de las ofertas del Sistema de Formación Profesional.
+
+3\. Experimentar acciones de innovación formativa vinculadas al Catálogo Nacional de Estándares de Competencias Profesionales, en colaboración con los centros de la red estatal de excelencia, incluyendo la gestión de redes virtuales que pudiera encomendárseles.
+
+4\. Elaborar propuestas metodológicas activas y materiales didácticos, así como participar en la realización, custodia, mantenimiento y actualización de pruebas de evaluación de ofertas del sistema, en los términos que las Administraciones competentes establezcan.
+
+5\. Establecer vínculos de colaboración con centros del Sistema de Formación Profesional, en particular centros integrados, centros especializados y centros de la red estatal de excelencia, organizaciones empresariales y sindicales más representativas del sector productivo de referencia, agencias de cualificaciones autonómicas, universidades, centros tecnológicos y de investigación, empresas, y otras entidades, para fomentar la innovación e investigación aplicada, y desarrollo del Sistema de Formación Profesional.
+
+6\. Diseñar y proponer planes de perfeccionamiento técnico y metodológico dirigidos al personal docente o formador, expertos y orientadores profesionales, actuando como centros de formación del profesorado y formadores del Sistema de Formación Profesional.
+
+7\. Colaborar en el desarrollo del procedimiento de acreditación de las competencias profesionales, así como del sistema de orientación profesional, diseñando un banco de recursos que mejoren la prestación de ambos elementos del Sistema de Formación Profesional.
+
+8\. Participar en programas e iniciativas internacionales en su ámbito de actuación.
+
+9\. Realizar cuantas otras funciones análogas les sean asignadas relacionadas con los fines descritos.
+
+> Se modifica por la disposición final 2.1 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+## Artículo 5. Creación, calificación y titularidad.
+
+1\. La Red de Centros de Referencia Nacional será única y coordinada por la Administración General del Estado, con la colaboración de las comunidades autónomas y las organizaciones empresariales y sindicales más representativas que se articulará a través del Consejo General de la Formación Profesional.
+
+2\. La Red de Centros de Referencia Nacional dará cobertura a todas las familias profesionales en las que se estructura el Catálogo Nacional de Cualificaciones Profesionales, abarcando a todos los sectores productivos.
+
+3\. Existirá, al menos, un Centro de Referencia Nacional en cada comunidad autónoma. También, en su caso, podrán existir Centros de Referencia Nacional en la Ciudad de Ceuta y en la Ciudad de Melilla.
+
+4\. La creación de los Centros de Referencia Nacional o la calificación de los ya existentes, en el ámbito del Sistema de Formación Profesional, se realizará por real decreto, a propuesta del Ministerio de Educación y Formación Profesional, en el que se publicará como anexo el convenio de colaboración con la comunidad autónoma en la que vayan a estar o estén ubicados, previo informe del Consejo General de la Formación Profesional. En el supuesto de que se califique más de un Centro de Referencia Nacional para una misma familia profesional, cada uno estará especializado en un subsector productivo o área profesional de la correspondiente familia profesional, y sus actuaciones serán coordinadas por el Ministerio de Educación y Formación Profesional a través de los planes de trabajo de cada centro.
+
+5\. La titularidad de estos Centros será de la Administración autonómica o, en su caso, de la Administración General del Estado.
+
+6\. En la consecución de los objetivos de cada Centro de Referencia Nacional podrán colaborar, como entidades asociadas al mismo, centros integrados, centros especializados, centros de la red estatal de excelencia, institutos o entidades de innovación educativa y entidades relacionadas con la innovación tecnológica del sector.
+
+7\. Con una periodicidad de cuatro años, y teniendo en cuenta las evaluaciones anuales de las actuaciones de estos centros podrá revocarse, previo informe favorable del Consejo General de la Formación Profesional, la condición de los Centros de Referencia Nacional.
+
+8\. El Ministerio de Educación y Formación Profesional podrá autorizar colaboraciones de los centros de referencia nacional en aspectos externos al Sistema de Formación Profesional y vinculados a la formación de trabajadores mediante convenios entre el citado ministerio, la comunidad autónoma, el centro de referencia nacional y el organismo demandante.
+
+> Se modifican los apartados 4, 6 y se añade el 8 por la disposición final 2.2 a 4 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+> Se modifica el apartado 4 por la disposición final 2.1 del Real Decreto 694/2017, de 3 de julio. [Ref. BOE-A-2017-7769](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7769)
+
+## Artículo 6. Condiciones.
+
+1\. Los Centros de Referencia Nacional deberán reunir las condiciones que se determinan en esta norma, así como las establecidas en la normativa de carácter general que les afecte.
+
+2\. Los Centros de Referencia Nacional deberán disponer de instalaciones adecuadas que reúnan las condiciones exigidas por la legislación vigente, de equipamientos y de espacios, vinculados con la familia profesional o área profesional que tengan asignada, a efectos de que puedan realizar las funciones descritas en el artículo 4 de la presente norma.
+
+Los convenios de colaboración, correspondientes a la creación o calificación de los Centros de Referencia Nacional, establecerán los requisitos básicos que deben reunir para el cumplimiento de sus funciones y finalidades.
+
+3\. Para llevar a cabo las diferentes actuaciones que se encomienden a los Centros de Referencia Nacional, la Administración pública titular del Centro podrá autorizar el uso de ciertos espacios e instalaciones singulares, así como, en su caso, aquellas instalaciones y equipamientos propios de entornos profesionales que, siendo necesarios para llevar a cabo las acciones de innovación y experimentación, se encuentren ubicados en un recinto distinto de las instalaciones del centro, siempre que sean adecuados y se acredite documentalmente que se tiene concedida la autorización para su uso preferente durante el tiempo en que tengan lugar las actividades correspondientes.
+
+4\. De igual forma y siguiendo los procedimientos correspondientes de acuerdo a la normativa de la Administración pública titular del Centro, en su caso, los Centros de Referencia Nacional podrán establecer acuerdos de colaboración con entidades, organismos o empresas del sector productivo de referencia, para que las instalaciones, aulas y equipamientos de los mismos puedan ser utilizados por los trabajadores en la realización de acciones formativas.
+
+5\. Los Centros de Referencia Nacional deberán incorporar procedimientos e indicadores de calidad, de acuerdo con los establecidos en el Plan de Actuación plurianual.
+
+## Artículo 7. Funcionamiento.
+
+1\. El Ministerio de Educación y Formación Profesional elaborará un plan de actuación plurianual, de carácter estatal, para el desarrollo de las funciones de los Centros de Referencia Nacional en el marco del Sistema de Formación Profesional, en colaboración con las comunidades autónomas y las organizaciones empresariales y sindicales más representativas. Dicha colaboración se articulará a través del Consejo General de la Formación Profesional.
+
+2\. El Plan de Actuación establecerá los objetivos prioritarios, los procedimientos y mecanismos de coordinación, seguimiento y evaluación de la Red, así como las Comisiones de Coordinación correspondientes.
+
+En función del Plan de Actuación, la Administración General del Estado, en colaboración con las comunidades autónomas, establecerá los criterios de distribución presupuestaria para la ejecución del mismo.
+
+Asimismo, incluirá los procedimientos e indicadores de calidad que permitan evaluar el cumplimiento de los fines y objetivos de los Centros.
+
+3\. Para cada uno de los Centros de Referencia Nacional se acordará un Plan de actuación plurianual, con la misma duración del Plan de Actuación plurianual de carácter estatal al que se refiere el apartado 1, a partir de la propuesta del Consejo Social del Centro, que será reflejado en un convenio de colaboración entre la Administración General del Estado y la Administración autonómica. Anualmente, y en el seno de las Comisiones de Coordinación y Seguimiento de los convenios para la calificación o creación de los Centros de Referencia Nacional, se aprobará un Plan de Trabajo anual en el que se concretarán las actuaciones a realizar y la aportación económica de la Administración General del Estado.
+
+4\. El plan de trabajo incorporará las acciones a realizar en función del plan de actuación y su aplicación concreta al funcionamiento general del Sistema de Formación Profesional, al sector productivo correspondiente, a la red de centros del Sistema de Formación Profesional y a las funciones establecidas en este real decreto. Asimismo, en el plan de trabajo se establecerán las acciones a ejecutar por las entidades asociadas a las que se hace mención en el artículo 5.6 de la presente norma.
+
+5\. En el desarrollo y ejecución del Plan de Trabajo, los Centros dispondrán de autonomía organizativa, pedagógica y de gestión económica, de acuerdo con lo establecido en la normativa propia de cada Administración competente.
+
+6\. Las comunidades autónomas podrán desarrollar, en los Centros de Referencia Nacional de los que sean titulares, cuantas otras actividades consideren adecuadas, siempre que sean compatibles con el desarrollo de los fines y las funciones que tienen asignados, y cuenten con el acuerdo del Ministerio de Educación y Formación Profesional. Estas actividades serán financiadas con cargo a sus propios presupuestos de gasto y no estarán incluidas en el plan de trabajo.
+
+7\. Sin perjuicio del ejercicio de la función inspectora de los centros que corresponde a las Administraciones públicas competentes, la Administración General del Estado y la comunidad autónoma correspondiente evaluarán y revisarán anualmente el cumplimiento del Plan de Trabajo de cada Centro, así como los requisitos y funciones para mantener la calificación como Centro de Referencia Nacional.
+
+> Se modifican los apartados 1, 4, y 6 por la disposición final 2.5 a 7 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+> Se modifica el apartado 3 por la disposición final 2.2 del Real Decreto 694/2017, de 3 de julio. [Ref. BOE-A-2017-7769](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7769)
+
+## Artículo 8. Financiación.
+
+1\. La Administración General del Estado garantizará los recursos económicos suficientes para el desempeño de las funciones asignadas a los Centros de Referencia Nacional y de las actividades establecidas en el Plan de Actuación plurianual. Para ello, y en función del Plan de actuación plurianual acordado para cada Centro de Referencia Nacional, la Administración General del Estado financiará un Plan de Trabajo anual para las acciones de ámbito nacional a través de subvenciones de concesión directa. En las resoluciones por las que se otorguen estas subvenciones se establecerán las condiciones y compromisos aplicables y el régimen de justificación de la aplicación dada a las subvenciones de conformidad con lo dispuesto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones. Asimismo, facilitará, en su caso, las inversiones requeridas para la actualización de los equipamientos que se consideren necesarios para su adecuado funcionamiento.
+
+No obstante, los convenios de colaboración entre la Administración General del Estado y las comunidades autónomas respectivas podrán contener compromisos de estas últimas para la financiación de los Centros de los que sean titulares.
+
+2\. Las Administraciones competentes podrán regular el procedimiento que permita a los Centros de Referencia Nacional obtener recursos complementarios mediante la oferta de servicios, de acuerdo con su normativa presupuestaria y con la autorización del Ministerio de Educación y Formación Profesional.
+
+> Se modifica el apartado 2 por la disposición final 2.8 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+> Se modifica el apartado 1 por la disposición final 2.3 del Real Decreto 694/2017, de 3 de julio. [Ref. BOE-A-2017-7769](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7769)
+
+## Artículo 9. Organización.
+
+1\. Los Centros de Referencia Nacional, en el ámbito de la familia profesional asignada, contarán con el personal necesario para realizar las acciones de innovación, experimentación y formación. Además de la Dirección y de la Secretaría del Centro, contarán con Departamentos o Unidades con contenido propio, relativas a la observación e investigación, al desarrollo, innovación, experimentación y formación y, finalmente, a la acreditación y el reconocimiento de cualificaciones profesionales. Todo ello en los términos y con los contenidos que se determinen en el correspondiente convenio de colaboración.
+
+2\. El nombramiento de la Dirección del Centro corresponderá a la Administración pública titular del mismo, de acuerdo con lo que establezcan sus normas de organización, una vez oído su Consejo Social.
+
+3\. Los Centros de Referencia Nacional contarán con un Consejo Social u órgano de participación social. El Consejo Social es el órgano de planificación y participación del sector productivo en dichos centros y será presidido por la Administración titular de los mismos.
+
+El Consejo Social estará compuesto por representantes de las Administraciones competentes en el ámbito estatal y autonómicas y de las organizaciones empresariales y sindicales más representativas. La mitad de los mismos se designarán paritariamente por las organizaciones empresariales y sindicales más representativas. De la otra mitad, existirá una representación paritaria de la Administración del Estado y de la Administración autonómica.
+
+En todo caso será miembro del Consejo Social el Director del Centro, y el Secretario del Centro asistirá a las reuniones del mismo, con voz, pero sin voto.
+
+El Consejo Social tendrá, al menos, las funciones de proponer las directrices plurianuales y el Plan de Trabajo del Centro; informar la propuesta de presupuesto y el balance anual y la de nombramiento del Director del Centro; aprobar la memoria anual de actividades y su propio reglamento de funcionamiento, así como conocer el informe anual de evaluación del centro, supervisar la eficacia de sus servicios y colaborar en la búsqueda de financiación complementaria o de equipamiento del centro.
+
+> Se modifica el apartado 3 por la disposición final 2.9 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+## Disposición adicional única. Centros Integrados de Formación Profesional.
+
+Los Centros Integrados de Formación Profesional que pudieran ser calificados como Centros de Referencia Nacional, en virtud de lo dispuesto en este real decreto, podrán mantener todas o algunas de las funciones que vinieran desempeñando y adaptarán su estructura a las exigencias de su nueva condición, en los términos y plazos que se especifiquen en las respectivas normas de calificación.
+
+## Disposición transitoria única. Centros Nacionales de Formación Profesional Ocupacional.
+
+Los Centros Nacionales de Formación Profesional Ocupacional, regulados en el artículo 17 del Real Decreto 631/1993, de 3 de mayo, por el que se regula el Plan Nacional de Formación e Inserción Profesional, podrán ser calificados como Centros de Referencia Nacional, a efectos de lo dispuesto en el artículo 5.4 del presente real decreto, siempre que, en el plazo de doce meses, a partir de la entrada en vigor del mismo, se adapten a las condiciones y requisitos establecidos en la presente norma. La solicitud para la calificación de un Centro Nacional como Centro de Referencia Nacional corresponderá a la Administración titular del mismo.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta en virtud de las competencias que atribuye al Estado el artículo 149.1, 7.<sup>a</sup> y 30.<sup>a</sup> de la Constitución y al amparo de las disposiciones finales primera y tercera de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 15 de febrero de 2008.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ

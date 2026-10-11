@@ -1,0 +1,137 @@
+---
+title: "Real Decreto 2665/1998, de 11 de diciembre, por el que se completa el Real Decreto 487/1998, de 27 de marzo, sobre reconocimiento, como cotizados a la Seguridad Social, de los períodos de actividad sacerdotal o religiosa a los sacerdotes y religiosos o religiosas de la Iglesia Católica secularizados"
+identifier: "BOE-A-1999-345"
+eli: "https://www.boe.es/eli/es/rd/1998/12/11/2665"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Asuntos Sociales"
+date: 1998-12-11
+published: 1999-01-08
+in_force_from: 1999-01-09
+last_amended: 2026-09-25
+consolidated: 2026-09-25
+gazette: "Boletín Oficial del Estado núm. 7"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-345"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2665/1998, de 11 de diciembre, por el que se completa el Real Decreto 487/1998, de 27 de marzo, sobre reconocimiento, como cotizados a la Seguridad Social, de los períodos de actividad sacerdotal o religiosa a los sacerdotes y religiosos o religiosas de la Iglesia Católica secularizados
+
+La disposición adicional décima de la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, previó que por el Gobierno se aprobarán las disposiciones normativas que sean necesarias a los efectos de computar, para los sacerdotes y religiosos o religiosas de la Iglesia Católica secularizados, el tiempo que estuvieron ejerciendo su ministerio o religión, y en que no les fue permitido cotizar por su falta de inclusión en el sistema de la Seguridad Social, con objeto de que se les reconozca el derecho a la percepción de la pensión de jubilación o, en su caso, a una cuantía superior a la pensión que tienen reconocida.
+
+En desarrollo de las previsiones legales mencionadas, el Real Decreto 487/1998, de 27 de marzo, ha establecido normas específicas en orden al cómputo del tiempo desarrollado por las personas indicadas, en el ejercicio de su actividad ministerial o de religión, al objeto de posibilitar que a los mismos les pudiera ser reconocida pensión de jubilación en el sistema de la Seguridad Social.
+
+Ahora bien, como ya anunciaba el Real Decreto mencionado, el mismo no agotaba el desarrollo reglamentario de la disposición adicional décima de la Ley 13/1996, sino que únicamente constituía un primer paso, que pretendía atender las situaciones de mayor necesidad, y que debería ser complementado posteriormente por otra norma de igual rango, que permitiera llevar a la práctica en su totalidad el mandato legal señalado.
+
+A tal finalidad, responde el contenido del presente Real Decreto mediante el cual se establece la consideración, como cotizados a la Seguridad Social, de los períodos de ejercicio sacerdotal o de religión con fecha anterior a la integración de los correspondientes colectivos en el sistema de la Seguridad Social, por parte de los sacerdotes o religiosos de la Iglesia Católica secularizados con anterioridad al 1 de enero de 1997.
+
+La finalidad del cómputo de tales períodos es la de permitir, en los términos señalados en la disposición adicional décima citada, una mayor cuantía de pensión a los interesados de la que correspondería en función de los años realmente cotizados al sistema de la Seguridad Social.
+
+A su vez, y como contrapartida de los beneficios que el cómputo de los períodos indicados supone para los interesados y, correlativamente, de las obligaciones que nacen para el sistema de la Seguridad Social, el Real Decreto prevé las correspondientes compensaciones económicas por parte de aquéllos, siguiendo el precedente, entre otros, del Real Decreto 487/1998.
+
+En su virtud, a propuesta del Ministro de Trabajo y Asuntos Sociales, de acuerdo con el dictamen del Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de diciembre de 1998,
+
+DISPONGO:
+
+## Artículo 1. Ámbito subjetivo.
+
+Lo establecido en el presente Real Decreto será de aplicación a quienes ostentaron la condición de sacerdotes o religiosos y religiosas de la Iglesia Católica y que, en la fecha de 1 de enero de 1997, se hubiesen secularizado o hubiesen cesado en la profesión religiosa.
+
+> Véase el art. 3 del Real Decreto 1512/2009, de 2 de octubre, respecto a la ampliación del ámbito subjetivo. [Ref. BOE-A-2009-16770](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-16770).
+
+## Artículo 2. Períodos reconocidos como cotizados a la Seguridad Social.
+
+1\. A quienes reúnan los requisitos señalados en el artículo precedente, y previa su solicitud, se les reconocerán como cotizados a la Seguridad Social los períodos de ejercicio sacerdotal o de profesión religiosa acreditados con anterioridad a:
+
+a) En el caso de sacerdotes secularizados: 1 de enero de 1978.
+
+b) En el caso de personas que abandonaron la profesión religiosa: 1 de mayo de 1982.
+
+2\. En ningún caso los periodos a reconocer, sumados a los años de cotización efectiva a la Seguridad Social, podrán superar el número de años que determine la aplicación en el cálculo de la pensión de un porcentaje del 100 por 100.»
+
+> Téngase en cuenta que la actualización de este párrafo, establecida por la disposición final 4.1 del Real Decreto 737/2026, de 23 de septiembre. [Ref. BOE-A-2026-19846](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-19846), entra en vigor el 25 de diciembre de 2025, según determina su disposición final 6.
+
+> Redacción anterior:
+
+> "2. En ningún caso los períodos a reconocer, sumados a los años de cotización efectiva a la Seguridad Social, podrán superar el número de 35."
+
+Asimismo, no podrán ser objeto de nuevo reconocimiento como períodos cotizados a la Seguridad social los de ejercicio de actividad sacerdotal o religiosa que hayan sido objeto de asimilación, en virtud de lo previsto en el Real Decreto 487/1998, de 27 de marzo.
+
+3\. Los períodos asimilados a cotizados a la Seguridad Social serán reconocidos, en el caso de sacerdotes secularizados, en el Régimen General y, en el supuesto de personas que abandonaron la profesión religiosa en el Régimen Especial de trabajadores por cuenta propia o autónomos.
+
+4\. A los efectos previstos en los apartados anteriores, los interesados deberán acreditar el tiempo de ejercicio sacerdotal o de profesión de religión, mediante certificación expedida, en el caso de los sacerdotes secularizados, por el Ordinario respectivo y, en los supuestos de religiosos o religiosas, por la autoridad competente de la correspondiente Congregación.
+
+> Se modifica, con efectos de 25 de diciembre de 2026, el apartado 2 por la disposición final 4.1 del Real Decreto 737/2026, de 23 de septiembre. [Ref. BOE-A-2026-19846](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-19846)
+
+> Téngase en cuenta la disposición transitoria única del citado Real Decreto para los hechos causantes anteriores a su entrada en vigor.
+
+## Artículo 3. Cálculo de la pensión.
+
+1\. Los períodos objeto de asimilación a cotizados a la Seguridad Social, de conformidad con lo previsto en el artículo anterior, se computarán para el reconocimiento de la pensión de jubilación, siempre que los interesados reúnan los requisitos exigidos con carácter general.
+
+2\. En los casos en que ya se viniese percibiendo pensión de jubilación, se procederá a efectuar un nuevo cálculo de la cuantía de aquélla, aplicando a la correspondiente base reguladora el porcentaje que corresponda en función de los años de cotización, considerando tanto los efectivamente cotizados, como los ulteriormente reconocidos, de conformidad con la escala vigente en la fecha de solicitud de reconocimiento de los períodos de ejercicio sacerdotal o religioso.
+
+En ningún caso, la aplicación de lo previsto en el párrafo anterior podrá dar lugar a una reducción del porcentaje de la base reguladora que hubiese sido reconocida.
+
+La cuantía resultante será objeto de actualización, aplicando las revalorizaciones que hubieren tenido lugar desde la fecha de efectos de la pensión que viniesen percibiendo hasta la fecha en que deba surtir efectos la modificación de la cuantía.
+
+La modificación de la cuantía de la pensión de jubilación surtirá efectos a partir del día siguiente al de la solicitud del reconocimiento, como cotizados a la Seguridad Social, de los períodos de ejercicio sacerdotal o religioso.
+
+## Artículo 4. Obligaciones de los interesados.
+
+1\. En los supuestos de reconocimiento inicial de la pensión de jubilación, los interesados deberán abonar el capital coste de la parte de pensión que se derive de los años de ejercicio sacerdotal o religioso, que hayan sido reconocidos como cotizados a la Seguridad Social. A tal fin, la parte de pensión a capitalizar será el resultado de aplicar a la correspondiente base reguladora el porcentaje que, de acuerdo con la normativa que resulte aplicable en el cálculo de la pensión, corresponda por el tiempo reconocido como cotizado.
+
+> Téngase en cuenta que la actualización de este apartado, establecida por la disposición final 4.2 del Real Decreto 737/2026, de 23 de septiembre. [Ref. BOE-A-2026-19846](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-19846), entra en vigor el 25 de diciembre de 2026, según determina su disposición final 6.
+
+> Redacción anterior:
+
+> "1. En los supuestos de reconocimiento inicial de la pensión de jubilación, los interesados deberán abonar el capital coste de la parte de pensión que se derive de los años de ejercicio sacerdotal o religioso, que hayan sido reconocidos como cotizados a la Seguridad Social.
+
+> A tal fin, la parte de pensión a capitalizar será el resultado de aplicar a la correspondiente base reguladora los porcentajes siguientes:
+
+> a) Por los años reconocidos que se sitúen dentro de los quince primeros: el 3,33 por 100 por cada año reconocido.
+
+> Por los años reconocidos que se sitúen entre el decimosexto y el vigésimo quinto: el 3 por 100 por cada año reconocido.
+
+> c) Por los años reconocidos a partir del vigésimo sexto: el 2 por 100 por cada año reconocido."
+
+2\. En los supuestos a que se refiere el apartado 2 del artículo anterior, la parte de pensión a capitalizar será la diferencia entre la cuantía de la pensión que se viniese percibiendo y la que corresponda por aplicación de los períodos de ejercicio sacerdotal o religioso, asimilados a cotizados a la Seguridad Social.
+
+3\. El abono del capital coste a que se refieren los apartados anteriores podrá ser diferido por un período máximo de veinte años y fraccionado en pagos mensuales, deducibles de cada mensualidad de pensión.
+
+El período de veinte años podrá ser ampliado en la medida necesaria para que, en ningún caso, la amortización del capital coste suponga una cuantía mensual superior a la adicional recibida, en función de los años de ejercicio sacerdotal o religioso reconocidos.
+
+> Se modifica, con efectos de 25 de diciembre de 2026, el apartado 1 por la disposición final 4.2 del Real Decreto 737/2026, de 23 de septiembre. [Ref. BOE-A-2026-19846](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-19846)
+
+> Téngase en cuenta la disposición transitoria única del citado Real Decreto para los hechos causantes anteriores a su entrada en vigor.
+
+> Se modifica el apartado 3 por el art. 2 del Real Decreto 1512/2009, de 2 de octubre. [Ref. BOE-A-2009-16770](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-16770).
+
+## Disposición adicional primera. Aplicación supletoria.
+
+En lo no previsto en el presente Real Decreto serán de aplicación las disposiciones comunes de los regímenes en que se hayan reconocido los períodos asimilados a cotizados, de conformidad con lo previsto en el artículo 2.
+
+## Disposición adicional segunda. Régimen de Clases Pasivas del Estado.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 432/2000, de 31 de marzo. [Ref. BOE-A-2000-6747](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-6747).
+
+## Disposición final primera. Facultades de desarrollo.
+
+Se faculta a los Ministros de Trabajo y Asuntos Sociales y de Economía y Hacienda, en el ámbito de sus respectivas competencias, para dictar las disposiciones generales que sean necesarias para la aplicación y desarrollo del presente Real Decreto.
+
+## Disposición final segunda. Entrada en vigor.
+
+Lo previsto en el presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 11 de diciembre de 1998.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Asuntos Sociales,
+
+JAVIER ARENAS BOCANEGRA

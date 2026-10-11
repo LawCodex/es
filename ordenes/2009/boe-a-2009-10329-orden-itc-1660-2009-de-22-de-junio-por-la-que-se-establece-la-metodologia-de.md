@@ -1,0 +1,564 @@
+---
+title: "Orden ITC/1660/2009, de 22 de junio, por la que se establece la metodología de cálculo de la tarifa de último recurso de gas natural"
+identifier: "BOE-A-2009-10329"
+eli: "https://www.boe.es/eli/es/o/2009/06/22/itc1660"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2009-06-22
+published: 2009-06-23
+in_force_from: 2009-06-24
+last_amended: 2024-09-25
+consolidated: 2026-10-01
+gazette: "Boletín Oficial del Estado núm. 151"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-10329"
+retrieved: 2026-10-11
+---
+
+# Orden ITC/1660/2009, de 22 de junio, por la que se establece la metodología de cálculo de la tarifa de último recurso de gas natural
+
+La Ley 12/2007, de 2 de julio, por la que se modifica la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, con el fin de adaptarla a lo dispuesto en la Directiva 2003/55/CE del Parlamento Europeo y del Consejo, de 26 de junio de 2003, sobre normas comunes para el mercado interior del gas natural, modificó el artículo 93 de la referida Ley del sector de hidrocarburos, definiendo la tarifa de último recurso.
+
+El Acuerdo del Consejo de Ministros de 3 de abril de 2009, mediante el que se modifica el calendario previsto inicialmente en la disposición transitoria quinta de la Ley 12/2007, de 2 de julio, por la que se modifica la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, con el fin de adaptarla a lo dispuesto en la Directiva 2003/55/CE del Parlamento Europeo y del Consejo, de 26 de junio de 2003, sobre normas comunes para el mercado interior del gas natural, establece que a partir del 1 de julio de 2009 tendrán derecho al suministro de último recurso los consumidores conectados a presiones inferiores a 4 bar, con consumos anuales no superiores a 50.000 kWh/año.
+
+Por su parte, el Real Decreto-ley 6/2009, de 30 de abril, por el que se adoptan medidas en el sector energético y se aprueba el bono social, designa, en su disposición adicional segunda a las empresas comercializadoras que debían asumir la obligación de suministro de último recurso en el territorio peninsular y Baleares.
+
+En desarrollo de la Ley del sector de hidrocarburos, el Real Decreto 949/2001, de 3 de agosto, por el que se regula el acceso de terceros a las instalaciones gasistas y se establece un sistema económico integrado del sector de gas natural, establece en su artículo 25.1 que el Ministro, mediante orden y previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dictará las disposiciones necesarias para el establecimiento de las tarifas de venta de gas natural. Asimismo, este artículo dispone que en dichas órdenes se establecerán los valores concretos de las tarifas y precios o un sistema de determinación y actualización de los mismos.
+
+En cumplimiento de lo anterior, el Ministro de Industria Turismo y Comercio dictó la Orden ITC/2857/2008, de 10 de octubre, por la que se establece la tarifa del suministro de último recurso de gas natural, donde se determina la forma de cálculo de dicha tarifa a partir del 12 de octubre de 2008, la cual debía adaptarse conforme se desarrollara el procedimiento de subasta para la determinación del coste del gas natural considerado. Asimismo, dispone en sus artículos 4 y 5 las condiciones generales aplicables al suministro y las unidades de facturación y medida.
+
+La presente orden establece la forma de cálculo de la tarifa de último recurso, incorporando los resultados del referido procedimiento de subasta, junto con referencias internacionales indicativas del coste de aprovisionamiento de gas natural.
+
+La Ley 34/1998, de 7 de octubre, dispone el régimen transitorio de los gases manufacturados en territorios insulares, de manera que hasta la finalización y puesta en marcha de las instalaciones que permitan el suministro de gas natural las empresas distribuidoras podrán efectuar el suministro de gases manufacturados. La presente orden determina las tarifas aplicables al suministro de gases manufacturados en territorios insulares hasta la llegada del gas natural, en aplicación de lo dispuesto en el artículo 25.1 del Real Decreto 949/2001, de 3 de agosto.
+
+Se ha evacuado el trámite de audiencia a través del Consejo Consultivo de Hidrocarburos, cuyas observaciones y comentarios, de acuerdo con lo establecido en el 5.5 del Real Decreto 1339/1999, de 31 de julio, por el que se aprueba el Reglamento de la Comisión Nacional de Energía, se han tomado en consideración para la elaboración del correspondiente informe de dicha Comisión, elaborado de conformidad con la disposición adicional undécima, apartado tercero, 1, funciones segunda y cuarta de la Ley 34/1998, de 7 de octubre.
+
+Mediante acuerdo de 18 de junio de 2009, la Comisión Delegada del Gobierno para Asuntos Económicos ha autorizado al Ministro de Industria, Turismo y Comercio a dictar la presente orden.
+
+En su virtud, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dispongo:
+
+## CAPÍTULO I — Disposiciones Generales
+
+### Artículo 1. Objeto.
+
+Constituye el objeto de esta orden la determinación de la metodología para el cálculo de la tarifa de último recurso.
+
+### Artículo 2. Ámbito de aplicación.
+
+La presente orden será de aplicación al suministro de gas natural que realicen los comercializadores de último recurso a los consumidores que cumplan los requisitos establecidos en la disposición transitoria quinta de la Ley 12/2007, de 2 de julio, por la que se modifica la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, con el fin de adaptarla a lo dispuesto en la Directiva 2003/55/CE del Parlamento Europeo y del Consejo, de 26 de junio de 2003, sobre normas comunes para el mercado interior del gas natural.
+
+## CAPÍTULO II — Definición y estructura de las tarifas de último recurso
+
+### Artículo 3. Tarifas de último recurso.
+
+Las tarifas de último recurso se aplicarán en función del consumo anual, teniendo en cuenta la estructura de los peajes de acceso a redes locales establecidos por la normativa vigente.
+
+> Se modifica por el art. único.1 de la Orden TED/902/2020, de 25 de septiembre. [Ref. BOE-A-2020-11358](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-11358)
+
+### Artículo 4. Estructura general de las tarifas de último recurso.
+
+1\. Las tarifas de último recurso se componen de un término de facturación fijo, expresado en €/mes, y un término de facturación variable por unidad de energía, expresado en cts/kWh.
+
+2\. Las tarifas de último recurso se determinarán sin incluir los impuestos, recargos y gravámenes sobre el consumo y suministro, ni tampoco los alquileres de equipos de medida, los derechos de acometida, derechos de alta, ni aquellos otros servicios cuya repercusión sobre el usuario esté autorizada por la normativa vigente.
+
+## CAPÍTULO III — Procedimiento de cálculo de las tarifas de último recurso
+
+### Artículo 5. Determinación de la tarifa de último recurso.
+
+1\. De acuerdo con lo establecido en el artículo 93.4 de la Ley 34/1998, de 7 de octubre, y el artículo 26.2 del Real Decreto 949/2001, de 3 de agosto, por el que se regula el acceso de terceros a las instalaciones gasistas y se establece un sistema económico integrado del gas natural, el sistema de cálculo de la tarifa de último recurso incluirá de forma aditiva el coste de la materia prima, los peajes, cánones y cargos en vigor, los costes de comercialización, los costes derivados de la seguridad de suministro, el coste del Gestor Técnico del Sistema y las tasas aplicables a la prestación de servicios y realización de actividades en relación con el sector de hidrocarburos gaseosos conforme el anexo de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia.
+
+2\. En cada término de las tarifas y en los puntos donde sean de aplicación cargos, estos se adicionarán a los peajes y cánones en vigor.
+
+3\. Al inicio del año de gas se adicionará al término fijo de cada peaje la media de las primas resultantes de las subastas de capacidad anual correspondientes al año de gas de aplicación, celebradas con anterioridad, ponderando cada una de las primas por la capacidad adjudicada en cada subasta.
+
+En el caso de los procesos anuales de asignación de slots para descarga de buques, se tomará el valor medio de las primas de cada mes del año de gas de aplicación, ponderadas por el número de slots asignados cada mes.
+
+4\. El término fijo de la tarifa se determinará como la suma de los siguientes términos:
+
+a) Término fijo del peaje de red local aplicable en función del escalón de consumo de la tarifa.
+
+b) Coste del término fijo del peaje de entrada a la red de transporte troncal.
+
+c) Término fijo del peaje de salida de la red de transporte troncal.
+
+d) Coste del término fijo del peaje de regasificación.
+
+e) Coste del término fijo del peaje de almacenamiento de GNL.
+
+f) Término fijo del peaje de otros costes de regasificación.
+
+g) Coste fijo de comercialización.
+
+5\. El término variable de la tarifa se determinará como la suma de los siguientes términos:
+
+a) Término variable del peaje de red local en función del nivel de consumo de la tarifa.
+
+b) Coste del término variable del peaje de entrada a la red de transporte troncal.
+
+c) Coste del término variable del peaje de salida de la red de transporte troncal.
+
+d) Coste del término variable del peaje de regasificación.
+
+e) Coste del término variable del peaje de almacenamiento de GNL.
+
+f) Coste del término variable del peaje de otros costes de regasificación (TV<sub>OCR</sub>).
+
+g) Coste del peaje de descarga de buques.
+
+h) Coste del canon del almacenamiento subterráneo.
+
+i) Coste variable de comercialización.
+
+j) Coste de la materia prima, que incluirá el coste asociado a las mermas y al riesgo de cantidad.
+
+> Se modifica el apartado 1 por la disposición final 1.1 de la Orden TED/1022/2021, de 27 de septiembre. [Ref. BOE-A-2021-15776](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-15776)
+
+> Se modifica por el art. único.2 de la Orden TED/902/2020, de 25 de septiembre. [Ref. BOE-A-2020-11358](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-11358)
+
+> Se añade el apartado 4 por el art. único.1 de la Orden ITC/1506/2010, de 8 de junio. [Ref. BOE-A-2010-9236](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9236).
+
+### Artículo 6. Metodología de cálculo de los peajes, cargos y cánones imputados.
+
+1\. Coste del peaje de regasificación.
+
+a) Término fijo, expresado en €/mes:
+
+![1](https://www.boe.es/datos/imagenes/disp/2020/258/11358_5196.png)
+
+b) Término variable, expresado en cts/kWh:
+
+![2](https://www.boe.es/datos/imagenes/disp/2020/258/11358_5242.png)
+
+2\. Coste del peaje de descarga de buques, expresado en cts/kWh:
+
+![3](https://www.boe.es/datos/imagenes/disp/2020/258/11358_5301.png)
+
+3\. Coste del canon de almacenamiento subterráneo, expresado en cts/kWh:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/76/4972_11369737_1.png)
+
+4\. Coste del peaje de almacenamiento de GNL.
+
+a) Término fijo, expresado en €/mes:
+
+![5](https://www.boe.es/datos/imagenes/disp/2020/258/11358_5419.png)
+
+b) Término variable, expresado en cts/kWh:
+
+![6](https://www.boe.es/datos/imagenes/disp/2020/258/11358_5484.png)
+
+5\. Coste del peaje de entrada a la red de transporte troncal.
+
+a) Término fijo, expresado en €/mes:
+
+![7](https://www.boe.es/datos/imagenes/disp/2020/258/11358_5554.png)
+
+b) Término variable, expresado en cts/kWh:
+
+![8](https://www.boe.es/datos/imagenes/disp/2020/258/11358_5632.png)
+
+6\. Coste del término variable del peaje de salida de la red de transporte troncal, expresado en cts/kWh.
+
+![9](https://www.boe.es/datos/imagenes/disp/2020/258/11358_5714.png)
+
+7\. A continuación, se definen los parámetros empleados en los apartados anteriores:
+
+– TC<sub>R</sub> y TV<sub>R</sub>: términos fijo y variable del peaje de regasificación en vigor, expresados en €/(kWh/día)/año y €/kWh, respectivamente.
+
+– Tf<sub>eGNL</sub>: término fijo medio del peaje de entrada a la red de transporte troncal por plantas de regasificación, expresado en €/(kWh/día)/año.
+
+– Tf<sub>eNo_GNL</sub>: término fijo medio de los peajes de entrada a la red de transporte troncal excluidas las entradas desde plantas de regasificación, ponderado por los volúmenes de entrada en los distintos puntos de la red, expresado en €/(kWh/día)/año.
+
+– Tv<sub>eRT</sub>: término variable del peaje de entrada a la red de transporte troncal, expresado en €/kWh.
+
+– Tf<sub>sRT</sub>: término fijo del peaje de salida de la red de transporte troncal, expresado en €/(kWh/dia)/año.
+
+– Tv<sub>sRT</sub>: término variable del peaje de salida de la red de transporte troncal, expresado en €/kWh.
+
+– TF<sub>descarga</sub>: término fijo medio de descarga de buques, calculado como la media de los términos fijos del peaje de descarga de buques para todos los tamaños, ponderada por el número de buques en cada tamaño, expresado en €/buque.
+
+– TV<sub>descarga</sub>: término variable de descarga de buques correspondiente al tamaño medio de buque (Tmbuque), expresado en €/kWh.
+
+– Tmbuque: tamaño medio de buque, expresado en m3.
+
+– *CMas, Tvi, Tve*: donde CMas es el coste medio de almacenamiento anual, calculado multiplicando el volumen por el coste promedio de almacenamiento expresado en €/(kWh/dia)/año, mientras que Tvi y Tve son los cánones de inyección y extracción expresados en €/(kWh/día)/día. El término CMas se actualizará conjuntamente con las revisiones de peajes y cánones, excepcionalmente en el año 2022 el valor se actualizará en la revisión de la tarifa de último recurso de 1 de julio.
+
+– TF<sub>GNL</sub>: término fijo del peaje de almacenamiento de GNL, expresado en €/(kWh/dia)/año.
+
+– TV<sub>GNL</sub>: término variable del peaje de almacenamiento de GNL, expresado en €/kWh.
+
+– Tf<sub>oc</sub>: Término fijo del peaje de otros costes de regasificación, expresado en €/(kWh/día)/año.
+
+– TV<sub>oc</sub>: Término variable del peaje de otros costes de regasificación, expresado en €/kWh.
+
+– C<sub>mi</sub>: consumo anual medio por cliente de cada tarifa, expresado en kWh.
+
+– f<sub>c</sub>: factor de carga de los consumidores TUR.
+
+– mT, mD, mA, mR: mermas de transporte, distribución, almacenamiento subterráneo y regasificación en vigor, expresadas en tanto por uno.
+
+– % GNL: porcentaje de aprovisionamientos en forma de GNL.
+
+– f<sub>conv</sub>: factor de conversión de m3 de GNL a kWh.
+
+– E<sub>MAX</sub>: emisión máxima diaria de los almacenamientos subterráneos, expresada en kWh.
+
+– n<sub>i</sub>: número de consumidores correspondientes a cada tarifa
+
+– GNd: cantidad diaria de gas abastecida mediante gas natural en estado gaseoso.
+
+> Se modifican la fórmula del apartado 3 y el apartado 7 por la disposición final 12.1 y 2 del Real Decreto-ley 6/2022, de 29 de marzo. [Ref. BOE-A-2022-4972](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4972)
+
+> Se modifica por la disposición final 1.3 de la Orden TED/1022/2021, de 27 de septiembre. [Ref. BOE-A-2021-15776](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-15776)
+
+> Se modifica por el art. único.3 de la Orden TED/902/2020, de 25 de septiembre. [Ref. BOE-A-2020-11358](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-11358)
+
+> Redactado el apartado 3 conforme a la corrección de errores, publicada por Orden TED/65/2021, de 11 de enero. [Ref. BOE-A-2021-1270](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1270)
+
+> Téngase en cuenta, a los efectos de la aplicación de las fórmulas, lo establecido en la Disposición transitoria única de la citada Orden, que será de aplicación desde la entrada en vigor de la misma hasta el 30 de septiembre de 2021, incluido.
+
+> Se modifica el apartado 3.a por la disposición final 2.1 de la Orden IET/2736/2015, de 17 de diciembre. [Ref. BOE-A-2015-13783](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13783).
+
+> Se sustituyen las fórmulas de los apartados 3.a y 3.b por el art. único.2 y 3 de la Orden ITC/1506/2010, de 8 de junio. [Ref. BOE-A-2010-9236](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9236).
+
+### Artículo 7. Costes de comercialización.
+
+Los términos fijo y variable del coste de comercialización aplicable a todas las tarifas de último recurso se establecen en 1,42 €/mes y 0,083 cts/kWh, respectivamente.
+
+> Se modifica por la disposición final 1.2 de la Orden TED/1022/2021, de 27 de septiembre. [Ref. BOE-A-2021-15776](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-15776)
+
+### Artículo 8. Determinación del coste de la materia prima.
+
+El coste de la materia prima Cn se calculará de acuerdo con la siguiente fórmula:
+
+Cn (cts / kWh) = [α × REn + (1 – α)× RBn] × (1 + PRQ)×(1 + MERM)
+
+donde:
+
+– α: Ponderación del gas estacional, tendrá valor de 0,579 en el primer trimestre, 0,467 en el cuarto y 0 en los trimestres segundo y tercero.
+
+– REn: Referencia internacional del gas estacional, expresada en cent€/kWh, que se determina como promedio de las cotizaciones de los futuros mensuales del “National Balancing Point” (NBP) del Reino Unido para entregas en los tres meses del trimestre “n”. Se tomarán los valores publicados por el Intercontinental Exchange (ICE) “UK Natural Gas (monthly)” desde el día 6 al día 20 del mes anterior al trimestre “n”, ambos incluidos, y para cada día se tomará la media aritmética de los “settlement prices” publicados para cada uno de los tres meses del trimestre. Las cotizaciones de cada uno de los días se convertirán de pence/therm a cent€/kWh utilizando el tipo de cambio diario, o el del último día disponible, publicado por el Banco Central Europeo, y aplicando el factor de conversión de 29,307 kWh/therm.
+
+– RBn: Referencia internacional del gas de base, expresada en cts€/kWh y calculada mediante la siguiente fórmula:
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/308/17608_4826.png)
+
+donde:
+
+– Brentn: Media semestral expresada en $/barril de las cotizaciones del crudo Brent en el semestre anterior al trimestre de referencia “n”. Para su cálculo se utilizarán las medias mensuales expresadas en $/Bbl y publicadas en el “Platts Oilgram Price Report” o en el “Platts nPLCrude”. En ausencia de valores mensuales publicados, se tomará la media diaria de las cotizaciones baja y alta del “Brent Dated” publicada diariamente en el “Platts POM” o “nPLCRUDE”. Para el último mes se tomarán las cotizaciones correspondientes a los días 1 a 20 inclusive.
+
+– En: Cambio medio $/€ en el trimestre anterior al del mes de cálculo, calculado a partir de las cotizaciones diarias Dólar/Euro publicadas por el Banco de España o el Banco Central Europeo. Para el último mes del período se considerarán exclusivamente las cotizaciones del día 1 al 20 inclusive.
+
+– MERM: Coeficiente de mermas se determinará de acuerdo con la siguiente fórmula, en la que se utilizan parámetros definidos en el artículo seis:
+
+MERM = mD + mT+ mR × % GNL.
+
+– PRQ: Prima por riesgo de cantidad, calculada de acuerdo con lo establecido en el artículo 9.
+
+> Se modifica por el art. único de la Orden TEC/1368/2018, de 20 de diciembre. [Ref. BOE-A-2018-17608](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17608)
+
+> Se modifica por la disposición final 2.2 de la Orden IET/2736/2015, de 17 de diciembre. [Ref. BOE-A-2015-13783](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13783).
+
+> Se modifican las definiciones de los términos β<sub>SI </sub>y β<sub>SB </sub>por la disposición final 4.1 de la Orden IET/2812/2012, de 27 de diciembre. [Ref. BOE-A-2012-15767](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15767).
+
+> Se modifican las definiciones de los términos BR6<sub>O</sub> y T<sub>O</sub> por la disposición final 3 de la Orden ITC/3354/2010, de 28 de diciembre. [Ref. BOE-A-2010-20003](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20003).
+
+> Se modifican las definiciones de los términos α, β<sub>SI</sub>, β<sub>SB</sub>, P<sub>i n</sub> y P<sub>b n</sub> por el art. único.4 de la Orden ITC/1506/2010, de 8 de junio. [Ref. BOE-A-2010-9236](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9236).
+
+### Artículo 9. Prima por riesgo de cantidad.
+
+La prima por riesgo de cantidad (PRQ) refleja el sobrecoste que para los comercializadores de último recurso supone la existencia de una correlación positiva entre el volumen real de gas natural que tienen obligación de suministrar y el precio de la energía en el mercado.
+
+Tomará el valor de 0 para el segundo y tercer trimestre del año y se determinará para el primer y cuarto trimestre del año de acuerdo con la siguiente fórmula:
+
+PRQ = (MD<sub>p</sub> x CO<sub>c</sub> + MD<sub>n </sub>x CO<sub>p</sub>) / F3
+
+Siendo:
+
+– MDp: Máximo desvío positivo histórico respecto a la demanda estimada. Tendrá el valor de 0,26.
+
+– MDn: Máximo desvío negativo histórico respecto a la demanda estimada. Tendrá el valor de 0,34.
+
+– COc: Media aritmética del coste de la opción call del gas natural del “National Balancing Point” (NBP) del Reino Unido para entregas en los tres meses del trimestre de referencia del día 6 al día 20 del mes anterior al trimestre de referencia y calculada como sigue:
+
+![Imagen: img/disp/2015/302/13783_003.png](https://www.boe.es/datos/imagenes/disp/2015/302/13783_003.png)
+
+Siendo:
+
+▪ CO el coste de la opción call.
+
+▪ Futn: La cotización del futuro de gas natural NBP para el mes n del trimestre de referencia en el día de cálculo en el “Intercontinental Exchange” (ICE).
+
+▪ Tsupn: El precio de ejecución de la opción call del mes n del trimestre de referencia inmediatamente superior al valor de Futn para el día de cálculo en el “Intercontinental Exchange” (ICE).
+
+▪ Tinfn: El precio de ejecución de la opción call del mes n del trimestre de referencia inmediatamente inferior al valor de Futn para el día de cálculo en el “Intercontinental Exchange” (ICE).
+
+▪ COsupn: La cotización de la opción call del mes n del trimestre de referencia a un precio de ejecución Tsupn para el día de cálculo en el “Intercontinental Exchange” (ICE).
+
+▪ COinfn: La cotización de la opción call del mes n del trimestre de referencia a un precio de ejecución Tinfn para el día de cálculo en el “Intercontinental Exchange” (ICE).
+
+– COp: Media aritmética del coste de la opción put del gas natural del “National Balancing Point” (NBP) del Reino Unido para entregas en los tres meses del trimestre de referencia del día 6 al día 20 del mes anterior al trimestre de referencia y calculada como sigue:
+
+![Imagen: img/disp/2015/302/13783_004.png](https://www.boe.es/datos/imagenes/disp/2015/302/13783_004.png)
+
+Siendo:
+
+▪ CO el coste de la opción put.
+
+▪ Futn: La cotización del futuro de gas natural NBP para el mes n del trimestre de referencia en el día de cálculo en el “Intercontinental Exchange” (ICE).
+
+▪ Tsupn: El precio de ejecución de la opción put del mes n del trimestre de referencia inmediatamente superior al valor de Futn para el día de cálculo en el “Intercontinental Exchange” (ICE).
+
+▪ Tinfn: El precio de ejecución de la opción put del mes n del trimestre de referencia inmediatamente inferior al valor de Futn para el día de cálculo en el “Intercontinental Exchange” (ICE).
+
+▪ COsupn: La cotización de la opción put del mes n del trimestre de referencia a un precio de ejecución Tsupn para el día de cálculo en el “Intercontinental Exchange” (ICE).
+
+▪ COinfn: La cotización de la opción put del mes n del trimestre de referencia a un precio de ejecución Tinfn para el día de cálculo en el “Intercontinental Exchange” (ICE).
+
+– F3: valor medio de los futuros del gas natural del “National Balancing Point” (NBP) del Reino Unido para entregas en los tres meses del trimestre de referencia. Se tomarán los valores publicados por el Intercontinental Exchange (ICE) desde el día 6 al día 20 del mes anterior al trimestre de referencia, ambos incluidos.
+
+> Se modifica por la disposición final 2.3 de la Orden IET/2736/2015, de 17 de diciembre. [Ref. BOE-A-2015-13783](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13783).
+
+> Se modifica la definición del término m por el art. único.5 de la Orden ITC/1506/2010, de 8 de junio. [Ref. BOE-A-2010-9236](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9236).
+
+### Artículo 10. Actualización de los términos de la tarifa.
+
+1\. Los términos fijos y variables de las tarifas se actualizarán en el momento en que se produzca alguna modificación en los términos fijos y variables de los peajes y cánones de acceso al sistema y cargos o en los coeficientes de mermas en vigor.
+
+Asimismo, el término variable se actualizará con carácter trimestral, desde el día 1 de los meses de enero, abril, julio y octubre de cada año, siempre que el coste de la materia prima Cn, de acuerdo al valor obtenido de la aplicación de la fórmula del artículo 8, experimente una variación al alza o a la baja superior al 2 por ciento.
+
+El valor promedio de las primas de las subastas de asignación de capacidad se actualizará el 1 de octubre de cada año.
+
+2\. Las revisiones se realizarán mediante resolución de la Dirección General de Política Energética y Minas. Las condiciones generales aplicables al suministro, así como las unidades de facturación y medida, son las establecidas en los artículos 4 y 5 de la Orden ITC/2857/2008, de 10 de octubre.
+
+3\. Los siguientes parámetros definidos en el apartado 5 del artículo 6: Tmbuque, Cmi, f<sub>c</sub>, %GNL, f<sub>conv</sub>, E<sub>MAX</sub>, GNd, número de consumidores TUR.1, TUR.2 y TUR.3 (ni) se actualizarán con carácter anual, antes del 1 de octubre, mediante resolución de la Dirección General de Política Energética y Minas.
+
+4\. Las resoluciones de actualización de los términos de la tarifa de último recurso deberán incluir la publicación de los valores de todos los términos que componen la fórmula del coste de la materia prima empleados para su actualización: referencia internacional del gas de base (RBn), media semestral del crudo Brent (Brent<sub>n</sub>), tipo de cambio euro-dólar considerado (En), así como el valor final resultante del coste de materia prima (Cn). En el caso de los trimestres primero y cuarto se publicarán los valores de la referencia internacional del gas estacional (REn), la prima de riesgo por cantidad (PRQ) y el promedio de las cotizaciones del National Balancing Point (NBP) utilizadas.
+
+> Se modifica por el art. único.4 de la Orden TED/902/2020, de 25 de septiembre. [Ref. BOE-A-2020-11358](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-11358)
+
+> Se suspende la vigencia, a partir del 18 de marzo de 2020, para los siguientes dos trimestres, en la forma y con los efectos indicados por el art. 4.3.b) del Real Decreto-ley 8/2020, de 17 de marzo, en la redacción dada por la disposición final 1.1 del Real Decreto-ley 11/2020, de 31 de marzo. [Ref. BOE-A-2020-4208](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4208)
+
+> Se suspende la vigencia, a partir del 18 de marzo de 2020, para los siguientes dos trimestres, en la forma y con los efectos indicados por el art. 4.3.b del Real Decreto-ley 8/2020, de 17 de marzo. [Ref. BOE-A-2020-3824](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3824)
+
+> Se modifica el apartado 3 por la disposición final 4.3 de la Orden IET/2812/2012, de 27 de diciembre. [Ref. BOE-A-2012-15767](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15767).
+
+> Se añaden los apartados 3 y 4 por el art. único.6 y 7 de la Orden ITC/1506/2010, de 8 de junio. [Ref. BOE-A-2010-9236](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9236).
+
+### Artículo 11. Remisión de información.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.5 de la Orden TED/902/2020, de 25 de septiembre. [Ref. BOE-A-2020-11358](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-11358)
+
+> Se añade por la disposición final 4.2 de la Orden IET/2812/2012, de 27 de diciembre. [Ref. BOE-A-2012-15767](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15767).
+
+### Artículo 12. Declaración responsable.
+
+Lo titulares de puntos de suministro incluidos en los apartados 1.b y 1.c del artículo 93 de la Ley 34/1998, de 7 de octubre, que se quieran acoger a la tarifa de último recurso, deberán presentar en el momento de la solicitud la declaración responsable que se adjunta en el anexo III, firmada por el titular del punto de suministro.
+
+El incumplimiento de los requisitos establecidos en la presente documentación o la falsedad en la declaración responsable dará lugar a una refacturación del consumo efectuado desde la contratación de la tarifa de último recurso, aplicando un recargo igual a la tarifa en vigor.
+
+> Se añade por la disposición final 2 de la Orden TED/1013/2024, de 20 de septiembre. [Ref. BOE-A-2024-19173](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19173)
+
+### Disposición adicional única. Tarifas de gases manufacturados por canalización en territorios insulares.
+
+1\. Las tarifas a aplicar por las empresas distribuidoras de gases manufacturados por canalización en territorios insulares seguirán la estructura de los peajes de red local definidos en la Circular 6/2020, de 22 de julio, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología para el cálculo de los peajes de transporte, redes locales y regasificación de gas natural.
+
+2\. Las tarifas se determinarán por parte de la Dirección General de Política Energética y Minas conforme con la metodología establecida en la presente orden, aplicándose a los clientes con consumo anual superior a 50.000 kWh/año los parámetros GNd, Emax, ni y Cmi siguientes:
+
+|  | GNd (MWh) | Emax (MWh/dia) | ni | Cmi (kWh/año) |
+|---|---|---|---|---|
+| RL.4 | 8.063 | 12.625 | 54.243 | 112.240,80 |
+| RL.5 | 14.244 | 22.305 | 22.296 | 566.984,40 |
+| RL.6 | 6.229 | 9.753 | 3.276 | 2.408.509,80 |
+| RL.7 | 9.181 | 14.376 | 1.179 | 8.471.416,50 |
+| RL.8 | 19.215 | 30.087 | 712 | 25.385.287,90 |
+| RL.9 | 26.669 | 41.760 | 328 | 79.223.170,70 |
+| RL.10 | 49.221 | 77.074 | 170 | 301.804.941,20 |
+| RL.11 | 173.878 | 272.270 | 100 | 2.062.650.930,00 |
+
+En los escalones en que sea necesario se sustituirá el término fijo expresado en caudal por el equivalente en €/cliente/año que garantice ingresos equivalentes de acuerdo a las previsiones de demanda.
+
+3\. La empresa distribuidora responsable del suministro de gas manufacturado remitirá a los clientes a los que vaya a comenzar a suministrar gas natural la carta que se indica en el anexo de la presente orden, con una antelación mínima de dos meses respecto al momento en que sea efectivo el suministro de gas natural en una determinada zona.
+
+> Se modifica por la disposición final 1.4 de la Orden TED/1022/2021, de 27 de septiembre. [Ref. BOE-A-2021-15776](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-15776)
+
+> Se suspende la vigencia del apartado 2, a partir del 18 de marzo de 2020, para los siguientes dos trimestres, en la forma y con los efectos indicados por el art. 4.3.b del Real Decreto-ley 8/2020, de 17 de marzo, en la redacción dada por la disposición final 1.1 del Real Decreto-ley 11/2020, de 31 de marzo. [Ref. BOE-A-2020-4208](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4208)
+
+> Se suspende la vigencia del apartado 2, a partir del 18 de marzo de 2020, para los siguientes dos trimestres, en la forma y con los efectos indicados por el art. 4.3.b del Real Decreto-ley 8/2020, de 17 de marzo. [Ref. BOE-A-2020-3824](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3824)
+
+### Disposición transitoria única. Modificación del calendario de aplicación del suministro de último recurso.
+
+Desde el 1 de julio, en caso de que un consumidor con consumo anual superior a 50.000 kWh/año e inferior a 3 GWh/año no haya negociado con un comercializador un precio de suministro, se le aplicará el precio que se indica en la siguiente tabla:
+
+Consumo superior a 50.000 kWh/año e inferior o igual a 100.000 kWh/año:
+
+<table class="tabla">
+<tr>
+<td colspan="2" rowspan="2">
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td colspan="2">
+<p class="cabeza_tabla">2009</p>
+</td>
+<td>
+<p class="cabeza_tabla">2010</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cabeza_tabla">12 julio al 30 </p>
+<p class="cabeza_tabla">de septiembre</p>
+</td>
+<td>
+<p class="cabeza_tabla">del 1 de octubre</p>
+<p class="cabeza_tabla"> al 31 de diciembre</p>
+</td>
+<td>
+<p class="cabeza_tabla">del 1 de enero al 31 de marzo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">T. Fijo</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">€/Cliente/mes</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">46,14</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">48,44</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">50,87</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">T. Variable</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">cts/kWh</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">3,721758</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">3,907845</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">4,103238</p>
+</td>
+</tr>
+</table>
+
+Consumo superior a 100.000 kWh/año e inferior a 3 GWh/año:
+
+<table class="tabla">
+<tr>
+<td colspan="2" rowspan="2">
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td colspan="2">
+<p class="cabeza_tabla">2009</p>
+</td>
+<td>
+<p class="cabeza_tabla">2010</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cabeza_tabla">12 julio al 30 </p>
+<p class="cabeza_tabla">de septiembre</p>
+</td>
+<td>
+<p class="cabeza_tabla">del 1 de octubre</p>
+<p class="cabeza_tabla"> al 31 de diciembre</p>
+</td>
+<td>
+<p class="cabeza_tabla">del 1 de enero al 31 de marzo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">T. Fijo</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">€/Cliente/mes</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">68,79</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">72,22</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">75,84</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">T. Variable</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">cts/kWh</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">3,447925</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">3,620321</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">3,801337</p>
+</td>
+</tr>
+</table>
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta orden.
+
+### Disposición final única. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 22 de junio de 2009.–El Ministro de Industria, Turismo y Comercio, Miguel Sebastián Gascón.
+
+## ANEXO — Carta a remitir a los consumidores de gas manufacturado o gas natural en las Islas Baleares
+
+Estimado cliente,
+
+Una vez que se inicie el suministro de gas natural en su zona de distribución y como consecuencia de la aplicación de la normativa europea, las empresas distribuidoras debemos proceder a transferir nuestra cartera de clientes a una empresa comercializadora de gas natural, quien será a partir de ahora su suministrador de gas.
+
+El cambio de suministrador en ningún caso tendrá un coste adicional para usted, ni modificará las condiciones de calidad de las que ha disfrutado hasta ahora.
+
+Usted tiene derecho a elegir la empresa comercializadora de gas que desee que le suministre. Adicionalmente, de todas las anteriores, le indicamos a continuación las empresas comercializadoras que tienen la obligación de suministrarle a un precio establecido por el Ministerio de Industria, Turismo y Comercio, a las que podrá dirigirse para solicitar información:
+
+|  | Teléfono | Página web |
+|---|---|---|
+| Endesa Energia, S.A. | 902 502 040 | www.endesaonline.com |
+| Gas Natural Servicios SDG, S.A. | 900 700 365 | www.gasnatural.com |
+| Iberdrola, S.A | 901 202 020 | www.iberdrola.es |
+| Naturgas Energía Comercializadora, S.A.U. | 902 860 860 | www.naturgasenergia.com |
+| Union Fenosa Comercial, S.L. | 901 380 220 | www.unionfenosa.es |
+
+Si usted no ha procedido a contratar con alguna comercializadora, el día en que se inicie el suministro de gas natural su suministro será automáticamente asumido por nuestra empresa comercializadora. En este caso, le comunicamos que sus datos personales serán transferidos a esta empresa con el fin de que pueda continuar con el servicio, tal y como veníamos ofreciéndoselo hasta ahora desde nuestra empresa de distribución.
+
+A partir de ese momento, la empresa comercializadora será responsable de enviarle las facturas y gestionar los cobros por el suministro de gas natural. Por su parte, la empresa distribuidora seguirá a cargo de la lectura de contadores y de los servicios de emergencia 24 horas.
+
+A la espera de ofrecerle el mejor servicio.
+
+Reciba un cordial saludo.
+
+Fdo.: ………………………………………
+
+(Nombre de la empresa distribuidora)
+
+NOTA: El listado que aparece en la tabla anterior se actualizará en función de los cambios que se produzcan.

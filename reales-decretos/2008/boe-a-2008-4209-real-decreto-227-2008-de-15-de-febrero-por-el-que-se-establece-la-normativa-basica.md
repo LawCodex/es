@@ -1,0 +1,227 @@
+---
+title: "Real Decreto 227/2008, de 15 de febrero, por el que se establece la normativa básica referente a los paneles de catadores de aceite de oliva virgen"
+identifier: "BOE-A-2008-4209"
+eli: "https://www.boe.es/eli/es/rd/2008/02/15/227"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2008-02-15
+published: 2008-03-05
+in_force_from: 2008-03-06
+last_amended: 2026-09-30
+consolidated: 2026-09-30
+gazette: "Boletín Oficial del Estado núm. 56"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-4209"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 227/2008, de 15 de febrero, por el que se establece la normativa básica referente a los paneles de catadores de aceite de oliva virgen
+
+El aceite de oliva virgen, como producto de elevada calidad que el sector oleícola ofrece a los consumidores, está sujeto a diferentes controles oficiales con objeto de garantizar su calidad y su carácter genuino frente a otro tipo de aceites.
+
+Como tal producto y siendo el único que presenta características organolépticas, que son presentadas al consumo como exponente de producto natural con personalidad propia, es necesario proceder a su control desde un punto de vista sensorial.
+
+El Reglamento (CEE) n.º 2568/91, de la Comisión, de 11 de julio de 1991, relativo a las características de los aceites de oliva y de los aceites de orujo de oliva sobre sus métodos de análisis, establece los requisitos para controlar los diferentes tipos de aceite, y en especial las características organolépticas de los aceites vírgenes, a fin de garantizar al consumo la calidad de estos productos.
+
+Este real decreto establece un sistema de control anual que permitirá asegurar el adecuado cumplimiento de los requisitos exigidos por el mencionado reglamento, relativos a los paneles de catadores autorizados para la realización del control oficial.
+
+En la elaboración de este real decreto han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados y ha sido informado por la Comisión Interministerial para la Ordenación Alimentaria (CIOA).
+
+En su virtud, a propuesta de la Ministra de Agricultura, Pesca y Alimentación, previa deliberación del Consejo de Ministros, en su reunión del día 15 de febrero de 2008,
+
+D I S P O N G O :
+
+### Artículo 1. Objeto y autoridad competente.
+
+1\. Este real decreto tiene por objeto establecer la normativa básica sobre las condiciones que deben cumplir los paneles de catadores de aceite de oliva virgen, autorizados para la realización del control oficial, por las comunidades autónomas y la Administración General del Estado y los criterios de seguimiento y control del rendimiento de los mismos. Además se constituye el sistema de control anual de dichos paneles así como el procedimiento de comunicación a la Unión Europea de la lista de éstos.
+
+2\. La autorización de los paneles de catadores se efectuará por el órgano competente de las comunidades autónomas y por los órganos competentes de la Administración General del Estado en el caso de importaciones y exportaciones. Corresponde igualmente a los órganos competentes de la Administración General del Estado la coordinación de los controles de los paneles autorizados, y la designación del Laboratorio Nacional de Referencia.
+
+> Se declara que el apartado 2, en la interpretación que se realiza en el fundamento jurídico 5, no invade las competencias de la Comunidad Autónoma de Cataluña, por Sentencia 74/2014, de 8 de mayo. [Ref. BOE-A-2014-5903](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5903)
+
+### Artículo 2. Paneles de catadores.
+
+1\. Un panel de catadores es un grupo de personas seleccionadas, entrenadas y con conocimientos acreditados para percibir y cuantificar de manera objetiva sus impresiones sensoriales al evaluar un producto.
+
+2\. Los paneles de catadores deben estar constituidos por un jefe de panel y un número de catadores de acuerdo con lo establecido en el Reglamento (CEE) n.º 2568/91, de la Comisión, de 11 de julio de 1991, relativo a las características de los aceites de oliva y de los aceites de orujo de oliva sobre sus métodos de análisis.
+
+3\. Los paneles de catadores deberán proceder de acuerdo con la normativa actualmente vigente para la realización de las sesiones de cata y poseer la infraestructura necesaria para ello: método de análisis y normas que lo complementan, sala de catas suficientemente equipada, sala de preparación de muestras y lugar de almacenamiento de muestras en condiciones tales que eviten su deterioro sensorial.
+
+### Artículo 3. Paneles de catadores autorizados para la realización del control oficial.
+
+1\. Los paneles de catadores autorizados para la realización del control oficial que se comunican por España a la Unión Europea deberán cumplir los siguientes requisitos:
+
+a) Cumplir las condiciones y requisitos establecidos en el artículo 4 y anexo XII del Reglamento (CEE) n.º 2568/91, de la Comisión, de 11 de julio de 1991, y en este real decreto.
+
+b) Poseer la autorización para ello de la comunidad autónoma donde se ubique el panel y, en caso de la determinación de las características organolépticas del aceite de oliva como operación propia de la aplicación del régimen aduanero y arancelario, del órgano competente de la Administración General del Estado. Asimismo, deberá poseer la designación por parte de la autoridad competente para la que vaya a realizar tareas de control oficial.
+
+c) Acreditar el cumplimiento de la norma EN ISO/IEC 17025 de acuerdo con la letra e) del apartado 4 del Artículo 37, del Reglamento (UE) 2017/625 del Parlamento Europeo y del Consejo, de 15 de marzo de 2017, relativo a los controles y otras actividades oficiales realizados para garantizar la aplicación de la legislación sobre alimentos y piensos, y de las normas sobre salud y bienestar de los animales, sanidad vegetal y productos fitosanitarios, y por el que se modifican los Reglamentos (CE) n.º 999/2001, (CE) n.º 396/2005, (CE) n.º 1069/2009, (CE) n.º 1107/2009, (UE) n.º 1151/2012, (UE) n.º 652/2014, (UE) 2016/429 y (UE) 2016/2031 del Parlamento Europeo y del Consejo, los Reglamentos (CE) n.º 1/2005 y (CE) n.º 1099/2009 del Consejo, y las Directivas 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE y 2008/120/CE del Consejo, y por el que se derogan los Reglamentos (CE) n.º 854/2004 y (CE) Nº 882/2004 del Parlamento Europeo y del Consejo, las Directivas 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/ 496/CEE, 96/23/CE, 96/93/CE y 97/78/CE del Consejo y la Decisión 92/438/CEE del Consejo (Reglamento sobre controles oficiales).
+
+d) Participar en los ensayos de aptitud a los que se hace referencia en el artículo 6 y haber sido calificados como aptos por la autoridad competente en dichos ensayos a tenor de los resultados obtenidos.
+
+2\. Las autoridades competentes realizarán cuantas acciones y controles consideren necesarios para evaluar la idoneidad de los referidos paneles de cata autorizados así como la vigencia de su autorización. En particular, realizarán auditorías ad hoc a los paneles de cata para evaluar el cumplimiento de las disposiciones establecidas en este real decreto.
+
+3\. Los paneles de catadores autorizados deben estar libres de conflicto de interés y cumplir los principios de imparcialidad y de confidencialidad requeridos. A efectos de este real decreto, se entiende que surge un conflicto de intereses cuando no puede prestarse un servicio imparcial o su objetividad puede verse afectada para realizar la función encomendada o bien se presume que pueda existir falta de independencia en su labor por existir intereses secundarios, bien económicos bien por el hecho de poder manejar información relacionada con la competencia.
+
+> Se modifica por el art. único.2 del Real Decreto 83/2021, de 9 de febrero. [Ref. BOE-A-2021-2980](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2980)
+
+### Artículo 4. Formación de los componentes de los paneles de catadores.
+
+1\. Los jefes de panel y los catadores deberán poseer, y mantener debidamente actualizada, una formación básica mediante la asistencia a cursos de formación con el contenido mínimo que se establece en el anexo.
+
+Se recomienda que el jefe de panel, con carácter previo a su designación, haya formado parte de un panel de cata autorizado de aceite de oliva virgen y haya estado cualificado como catador durante al menos un periodo de dos años.
+
+2\. Con independencia de los cursos que organicen las comunidades autónomas, el Ministerio de Agricultura, Pesca y Alimentación podrá organizar cursos de formación de jefes de panel de aceite de oliva virgen.
+
+3\. Los jefes de panel deberán evaluar el rendimiento de los catadores que componen el panel a lo largo del tiempo, y realizar un seguimiento de las acciones formativas en las que éstos participan anualmente.
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 83/2021, de 9 de febrero. [Ref. BOE-A-2021-2980](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2980)
+
+### Artículo 5. Comunicaciones.
+
+1\. Las comunidades autónomas comunicarán al Ministerio de Agricultura, Pesca y Alimentación, al menos una vez al año, su composición y el número de análisis realizados por los paneles autorizados para la realización del control oficial.
+
+2\. Dicha comunicación se realizará, al menos, anualmente con inclusión de la lista de paneles autorizados para la realización del control oficial, y expresión de su composición, y el número de valoraciones realizadas por los mismos en calidad de panel autorizado para la realización del control oficial.
+
+3\. Dicha información deberá ser comunicada al Ministerio de Agricultura, Pesca y Alimentación antes del día 31 de marzo de cada año.
+
+4\. Asimismo, comunicarán al Ministerio de Agricultura, Pesca y Alimentación la lista de paneles creados por las organizaciones profesionales o interprofesionales que comprueben las características organolépticas en el ámbito de las transacciones comerciales entre operadores privados, de acuerdo con el apartado 3 del artículo 4 del Reglamento (CEE) n.º 2568/91, de la Comisión, de 11 de julio de 1991.
+
+### Artículo 6. Sistema de coordinación y control anual de verificación de paneles autorizados para la realización del control oficial.
+
+1\. Por razones de coordinación y con el fin de verificar y garantizar que el control de las características organolépticas es realizado por instrumentos técnicamente válidos, y evaluar anualmente el comportamiento de todos los paneles autorizados para la realización del control oficial, el Ministerio de Agricultura, Pesca y Alimentación organizará un sistema de coordinación y control de los paneles autorizados para la realización del control oficial, consistente en ensayos de aptitud.
+
+2\. Para que un panel pueda ser evaluado, deberá participar en dos de estos ensayos al año. Además deberá participar en todos aquellos ensayos, que se organicen a nivel estatal, comunitario o internacional, en los que sea obligatoria dicha participación.
+
+### Artículo 7. Ensayos de aptitud.
+
+1\. En los ensayos que vayan a ser realizados se evaluarán cinco muestras de aceite de oliva virgen cada vez.
+
+2\. Los ensayos se ajustarán a lo dispuesto en las normas ISO 13528:2005 «Métodos estadísticos para ser usados en los ensayos de aptitud por comparaciones interlaboratorios» y Guía ISO/IEC 43-1:1997 «Ensayos de aptitud por comparaciones interlaboratorios-Parte 1: Desarrollo y funcionamiento de programas de ensayos de aptitud» sobre métodos estadísticos para ser utilizados en ensayos de aptitud.
+
+3\. El Ministerio de Agricultura, Pesca y Alimentación organizará los ensayos y comunicará a las comunidades autónomas el calendario anual de éstos.
+
+4\. Las comunidades autónomas comunicarán al Ministerio de Agricultura, Pesca y Alimentación la lista de los paneles autorizados para la realización del control oficial que desean que participen en cada ensayo.
+
+### Articulo 8. Resultados de los ensayos de aptitud.
+
+1\. Los resultados de los ensayos de aptitud, serán elaborados y tratados estadísticamente de acuerdo con las directrices de la norma ISO 13528:2005 sobre métodos estadísticos para ser utilizados en ensayos de aptitud.
+
+2\. Las comunidades autónomas respecto de los paneles que participen en los ensayos, efectuarán un análisis de los resultados de los mismos y propuestas para la organización del siguiente ensayo y, en su caso, de acciones formativas futuras, en función de la problemática detectada, que remitirán al Ministerio de Agricultura, Pesca y Alimentación.
+
+3\. El Ministerio de Agricultura, Pesca y Alimentación elaborará un informe con los resultados de los ensayos que comunicará a las comunidades autónomas, junto con los códigos identificativos de los paneles de su ámbito de participación.
+
+4\. Salvo excepciones debidamente justificadas y previa aprobación por la Mesa de jefes de panel, para que un panel de cata sea considerado apto deberá haber calificado adecuadamente al menos el setenta por ciento del total de muestras consensuadas en los ensayos de aptitud en los que haya participado, y como mínimo tres quintas partes de las muestras analizadas en cada uno de los ensayos de aptitud a los que se refiere el artículo 6.
+
+> Téngase en cuenta que lo dispuesto en el apartado 4, añadido por el art. único.4 del Real Decreto 83/2021, de 9 de febrero. [Ref. BOE-A-2021-2980](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2980), será exigible a partir del 1 de enero de 2022, según establece su disposición transitoria única.
+
+> Se añade el apartado 4 por el art. único.4 del Real Decreto 83/2021, de 9 de febrero. [Ref. BOE-A-2021-2980](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2980)
+
+> Téngase en cuenta que lo dispuesto en el apartado 4 será exigible a partir del 1 de enero de 2022, según establece la disposición transitoria única del citado Real Decreto.
+
+### Artículo 9. Comunicaciones a la Comisión Europea.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, a través del cauce correspondiente, comunicará anualmente a la Comisión Europea la lista de paneles autorizados para la realización del control oficial, y su composición, que han superado los ensayos de aptitud, así como las valoraciones realizadas en calidad de panel autorizado para la realización del control oficial. Dicha lista se publicará anualmente por el Ministerio de Agricultura, Pesca y Alimentación, en su página Web.
+
+2\. Asimismo, el Ministerio de Agricultura, Pesca y Alimentación comunicará anualmente a la Comisión Europea la lista de paneles de catadores creados por las organizaciones profesionales o interprofesionales autorizados para la realización del control oficial, así como la lista de los paneles de éstas que comprueben las características organolépticas en el ámbito de las transacciones comerciales entre operadores privados.
+
+### Disposición adicional única. Coordinación.
+
+1\. Adscrita al Ministerio de Agricultura Pesca y Alimentación existirá una mesa de coordinación de análisis de aceite de oliva, presidida por el Director General de Industria Agroalimentaria y Alimentación, integrada por representantes de la Administración General del Estado con competencias en esta materia y de las comunidades autónomas que decidan participar, cuya composición y funciones se establecerá reglamentariamente.
+
+2\. **(Derogado)**
+
+3\. Adscrita al Ministerio de Agricultura, Pesca y Alimentación se crea la Mesa de jefes de panel, presidida por el titular de la Secretaría General de Agricultura y Alimentación al que podrá suplir el titular de la Subdirección General de Control de la Calidad Alimentaria y Laboratorios Agroalimentarios e integrada por todos los jefes de panel autorizados para hacer controles oficiales, que se encargará entre otros cometidos de:
+
+a) Dar las orientaciones pertinentes y definir los procedimientos para la preparación de los ensayos de aptitud en lo que se refiere al tipo de muestras a analizar, categorías, descriptores y todos aquellos aspectos técnicos que deban ser tenidos en cuenta en dicha preparación;
+
+b) Garantizar el correcto análisis de los resultados de los ensayos de aptitud realizados, así como de realizar las recomendaciones necesarias en relación con los resultados de estos ensayos y el consenso de las muestras, y de atender a las reclamaciones y sugerencias que puedan surgir en relación con los mismos;
+
+c) Planificar estudios que puedan mejorar, a través de los ensayos de aptitud, la homogeneidad del comportamiento analítico de los paneles así como actividades relacionadas con la formación continuada de los paneles, promoviendo el intercambio de información y muestras entre estos;
+
+d) Elaborar notas técnicas interpretativas de todos aquellos asuntos que puedan surgir en el ámbito del control oficial de las características organolépticas de los paneles oficiales, con objeto de unificar los criterios de actuación de aquéllos.
+
+> Se deroga el apartado 2 por la disposición derogatoria única del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+> Se añade el apartado 3 por el art. único.5 del Real Decreto 83/2021, de 9 de febrero. [Ref. BOE-A-2021-2980](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2980)
+
+### Disposición transitoria primera. Adecuación de paneles autorizados.
+
+Los paneles que se encuentren autorizados a la entrada en vigor de este real decreto deberán adaptarse al mismo en el plazo de un año.
+
+### Disposición transitoria segunda. Autorización temporal de paneles.
+
+No obstante lo dispuesto en el artículo 3.c), se podrá autorizar a paneles de catadores no acreditados hasta el día 31 de diciembre de 2009, de acuerdo con el artículo 18 del Reglamento (CE) n.º 2076/2005, de la Comisión, de 5 de diciembre de 2005, por el que se establecen disposiciones transitorias para la aplicación de los Reglamentos (CE) n.º 853/2004, (CE) n.º 854/2004 y (CE) n.º 882/2004, del Parlamento Europeo y del Consejo y se modifican los Reglamentos (CE) n.º 853/2004 y (CE) n.º 854/2004.
+
+### Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica.
+
+No obstante, las competencias para autorizar determinados paneles de catadores previstas en los artículos 1.2 y 3.1 b) se dictan al amparo de lo dispuesto en el artículo 149.1.10.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre régimen aduanero y arancelario.
+
+> Se añade el segundo párrafo por el art. único.6 del Real Decreto 83/2021, de 9 de febrero. [Ref. BOE-A-2021-2980](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2980)
+
+### Disposición final segunda. Habilitación normativa.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para que, en el ámbito de sus competencias, dicte cuantas disposiciones sean necesarias para modificar el anexo con el fin de adecuarlo a lo dispuesto en las normas comunitarias.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 15 de febrero de 2008.
+
+JUAN CARLOS R.
+
+La Ministra de Agricultura, Pesca y Alimentación,
+
+ELENA ESPINOSA MANGANA
+
+## ANEXO
+
+## A. Contenido mínimo de los cursos de formación de los jefes de panel
+
+1\. La formación básica que los jefes de panel autorizados deben poseer para la realización del control oficial, debe abarcar los siguientes temas:
+
+a) Concepto de análisis sensorial y su aplicación al aceite de oliva.
+
+b) La figura del jefe de panel y sus funciones.
+
+c) El catador y sus funciones.
+
+d) Selección, entrenamiento y cualificación de catadores.
+
+e) Tipos de umbrales y su determinación.
+
+f) Herramientas estadísticas básicas:
+
+1.º Medidas de tendencia central.
+
+2.º Medidas de dispersión de datos.
+
+3.º Análisis de la varianza.
+
+4.º Tests estadísticos propios del análisis sensorial.
+
+5.º Análisis de resultados. Criterios de aceptación y rechazo.
+
+g) Evaluación del rendimiento de los catadores.
+
+h) Evaluación del rendimiento del panel.
+
+i) Sesiones de cata. Organización y control mediante análisis de muestras de diferentes variedades, diferentes grado de madurez, diferente tipo de defectos y diferentes categorías de aceites.
+
+j) La acreditación y las normas básicas que la componen.
+
+## B. Otros cursos
+
+El Ministerio de Agricultura, Pesca y Alimentación, podrá organizar un curso periódicamente con objeto de abordar el proceso de acreditación de los paneles autorizados para la realización del control oficial con objeto de dar cumplimiento a lo especificado en el artículo 3.c) de este real decreto.
+
+## C. Cursos de las comunidades autónomas
+
+Los cursos de jefes de panel autorizado para la realización del control oficial que organicen las comunidades autónomas en el ámbito de sus competencias, deberán tener el contenido mínimo señalado en el apartado A de este anexo.
+
+> Se modifica la letra i) de la sección A por el art. único.7 del Real Decreto 83/2021, de 9 de febrero. [Ref. BOE-A-2021-2980](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2980)

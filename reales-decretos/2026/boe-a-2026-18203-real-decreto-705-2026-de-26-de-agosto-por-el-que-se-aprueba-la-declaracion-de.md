@@ -1,0 +1,112 @@
+---
+title: "Real Decreto 705/2026, de 26 de agosto, por el que se aprueba la Declaración de Recursos a emplear en la situación de interés para la Seguridad Nacional en la ciudad de Ceuta, en aplicación de lo dispuesto en el artículo 29 de la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional"
+identifier: "BOE-A-2026-18203"
+eli: "https://www.boe.es/eli/es/rd/2026/08/26/705"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 2026-08-26
+published: 2026-08-26
+last_amended: 2026-09-30
+consolidated: 2026-10-01
+gazette: "Boletín Oficial del Estado núm. 210"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2026-18203"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 705/2026, de 26 de agosto, por el que se aprueba la Declaración de Recursos a emplear en la situación de interés para la Seguridad Nacional en la ciudad de Ceuta, en aplicación de lo dispuesto en el artículo 29 de la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional
+
+La entrada irregular de personas migrantes en la ciudad de Ceuta los días 30 y 31 de julio ha generado una presión inédita sobre las capacidades de control fronterizo, identificación, atención humanitaria y acogida de las distintas Administraciones públicas y ha afectado al funcionamiento ordinario de los servicios públicos, entre ellos los sociales, de protección de menores, seguridad, transporte y gestión administrativa.
+
+Desde el inicio de la crisis, el Gobierno de España ha movilizado todos los recursos necesarios para reforzar la frontera, impulsar el retorno de las personas migrantes que accedieron irregularmente, y apoyar a la población ceutí. Estas actuaciones han permitido reducir drásticamente la presión inicial y mantener el orden público en la ciudad.
+
+En efecto, hasta ahora, la Administración General del Estado, a través de los distintos departamentos ministeriales, dada la transversalidad de las medidas necesarias para su resolución, ha desplegado en territorio ceutí medios y recursos para la implementación de medidas que permitieran la resolución de la situación y retorno de la normalidad. El Presidente del Gobierno, y hasta ocho titulares de departamentos ministeriales, han visitado la ciudad para una evaluación in situ, y tomado medidas de urgencia dentro de su ámbito competencial.
+
+Esta evaluación ha permitido constatar que la respuesta desplegada por el Gobierno necesitaba evolucionar en los términos expuestos, con arreglo a lo previsto en los artículos 23 y 24 de la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional.
+
+A tal efecto, el Presidente del Gobierno, previo informe del Consejo de Seguridad Nacional, y de conformidad con el artículo 24 de la Ley 36/2015, de 28 de septiembre, mediante Real Decreto 681/2026, de 25 de agosto, ha declarado la situación de interés para la seguridad nacional en la ciudad de Ceuta, definiendo su ámbito de aplicación, duración y la autoridad funcional que se encargará de dirigir y coordinar las actuaciones. Igualmente, mediante la referida declaración se determinan los recursos humanos y materiales necesarios para afrontar la situación.
+
+Una vez declarada la situación de interés para la seguridad nacional, a fin de desplegar toda su eficacia y de poder emplear los medios ya previamente determinados por el Presidente del Gobierno, el artículo 29.1 de la Ley 36/2015, de 28 de septiembre, mandata al Gobierno a aprobar mediante real decreto la Declaración de Recursos que se podrán emplear en la situación de interés para la seguridad nacional.
+
+En su virtud, previo informe del Consejo de Seguridad Nacional, a propuesta del Presidente del Gobierno, y previa deliberación del Consejo de Ministros en su reunión del día 25 de agosto de 2026,
+
+DISPONGO:
+
+## Artículo único. Declaración de Recursos a emplear en la situación de interés para la seguridad nacional en la ciudad de Ceuta.
+
+Se aprueba la Declaración de Recursos a emplear en la situación de interés para la seguridad nacional declarada en la ciudad de Ceuta, que figura como anexo en el presente real decreto, de conformidad con lo previsto en el artículo 29.1 de la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional, y de acuerdo con el Real Decreto 681/2026, de 25 de agosto, por el que se declara la situación de interés para la seguridad nacional en la ciudad de Ceuta.
+
+## Disposición final única. Eficacia.
+
+El presente real decreto producirá efectos el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Dado el 26 de agosto de 2026.
+
+FELIPE R.
+
+El Presidente del Gobierno,
+
+PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
+
+## ANEXO — Declaración de Recursos a emplear en la situación de interés para la Seguridad Nacional declarada en la ciudad de Ceuta
+
+En la situación de interés para la Seguridad Nacional en la ciudad de Ceuta se podrán emplear los siguientes recursos:
+
+I. Recursos de la Administración General del Estado y del sector público institucional estatal:
+
+1\. Del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación: los recursos destinados a la acción exterior relacionada con la crisis, incluida la cooperación diplomática y consular con el Reino de Marruecos y terceros Estados, la coordinación con instituciones de la Unión Europea y organizaciones internacionales y el apoyo, dentro de sus competencias, a los procedimientos de identificación, documentación, readmisión y retorno.
+
+2\. Del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes: los recursos destinados al apoyo jurídico, normativo y las medidas que deban de elevarse al Consejo de Seguridad Nacional, impulso de medidas e iniciativas legislativas que afecten a la situación de la ciudad de Ceuta, así como los proporcionados para el funcionamiento de la Administración de Justicia y el Ministerio Fiscal en el ámbito de la ciudad.
+
+3\. Del Ministerio de Defensa: las capacidades humanas, logísticas, sanitarias, de transporte, vigilancia, infraestructura, alojamiento, comunicaciones y apoyo general.
+
+4\. Del Ministerio de Hacienda y de la Agencia Estatal de Administración Tributaria: las capacidades y los recursos destinados a vigilancia y control aduanero, prevención y persecución del contrabando y de los tráficos ilícitos y demás apoyos directamente relacionados con la crisis dentro de sus competencias.
+
+5\. Del Ministerio del Interior: los recursos destinados al control de las fronteras terrestres, marítimas y aéreas; seguridad ciudadana y mantenimiento del orden público; extranjería, identificación y documentación; protección internacional en el ámbito de sus competencias; prevención e investigación de la inmigración irregular, el tráfico ilícito de personas y los delitos conexos; policía judicial; protección de infraestructuras y servicios esenciales; gestión de centros e instalaciones dependientes del departamento; y las demás capacidades ordinarias directamente necesarias para prevenir, contener o resolver los efectos de la crisis. Quedan comprendidos los recursos de las Fuerzas y Cuerpos de Seguridad del Estado desplegados o funcionalmente vinculados a Ceuta, así como los refuerzos que, dentro de estas capacidades, dispongan las autoridades competentes del departamento.
+
+6\. Del Ministerio de Transportes y Movilidad Sostenible y de los organismos y entidades adscritos o dependientes del mismo: las capacidades vinculadas al transporte marítimo, aéreo y terrestre; gestión y operación de puertos e infraestructuras de transporte; salvamento y seguridad marítima; apoyo a movimientos y traslados; y utilización de infraestructuras logísticas.
+
+7\. Del Ministerio de Política Territorial y Memoria Democrática: las capacidades de coordinación territorial de la Administración General del Estado, a través de la Delegación del Gobierno en Ceuta, y los recursos necesarios para facilitar la actuación integrada de los servicios estatales en el territorio y la cooperación con las autoridades de la ciudad de Ceuta.
+
+8\. Del Ministerio de Economía, Comercio y Empresa: los recursos necesarios para desarrollar las medidas económicas necesarias de apoyo a empresas y el crecimiento potencial de la economía en Ceuta.
+
+9\. Del Ministerio de Sanidad: los recursos necesarios para las funciones de coordinación sanitaria, salud pública, sanidad exterior, disponibilidad de productos sanitarios y apoyo extraordinario que pueda resultar necesario para garantizar la continuidad de la respuesta sanitaria.
+
+10\. Del Ministerio de Inclusión, Seguridad Social y Migraciones: los recursos destinados a recepción y atención humanitaria, acogida temporal, alojamiento, alimentación, cobertura de necesidades básicas, gestión de centros y dispositivos, traslados dentro del sistema estatal de acogida, información y orientación social y las demás capacidades vinculadas a sus competencias en materia migratoria necesarias para recuperar y mantener la capacidad ordinaria del sistema.
+
+11\. Del Ministerio de Juventud e Infancia: los recursos del sistema de protección de menores y capacidad de acogida.
+
+12\. De los restantes departamentos ministeriales y organismos públicos estatales: los recursos identificados en sus ámbitos competenciales que resulten directamente necesarios para garantizar la continuidad de los servicios esenciales, proporcionar apoyo logístico, técnico, tecnológico, administrativo o de comunicaciones, o contribuir a la gestión de respuesta.
+
+De manera específica, las siguientes infraestructuras en la ciudad de Ceuta:
+
+1\. Terrenos cedidos por el Ministerio de Defensa en Loma Margarita.
+
+2\. Terrenos del Ministerio de Defensa en instalaciones de la Hípica.
+
+3\. Terrenos del Ministerio de Defensa en antiguo campo de fútbol del cuartel de caballería.
+
+4\. Terrenos del Ministerio para la Transición Ecológica y el Reto Demográfico de la explanada del Guano (antigua fábrica del Guano).
+
+5\. Terrenos del Ministerio de Defensa en el Acuartelamiento K8.
+
+6\. Terrenos del Ministerio de Transportes y Movilidad Sostenible en dos parcelas de la ampliación de poniente fase I del Puerto de Ceuta.
+
+7\. Terrenos del Ministerio de Vivienda y Agenda Urbana en Loma Colmenar D5 y E5. Casa 47.
+
+8\. Parcela perteneciente al Centro Penitenciario de Ceuta, cedida por el Ministerio del Interior.
+
+II. Recursos de la ciudad de Ceuta:
+
+En el ámbito de la ciudad de Ceuta quedan comprendidos, dentro de sus respectivas competencias, los recursos destinados a servicios sociales y asistenciales; protección y atención de menores y otras personas vulnerables; policía local; protección civil; prevención y extinción de incendios; servicios sanitarios de su competencia; abastecimiento, saneamiento y servicios urbanos; alojamiento e instalaciones de titularidad propia; y demás servicios esenciales cuya continuidad pueda verse afectada.
+
+De manera específica, queda comprendida la infraestructura dependiente del Gobierno de la ciudad de Ceuta consistente en los terrenos cedidos en parking el embolsamiento en Loma Colmenar.
+
+La utilización, en su caso, de los recursos previstos en este anexo se ajustará a los principios del artículo 8.1 del Real Decreto 681/2026, de 25 de agosto, por el que se declara la situación de interés para la seguridad nacional en la ciudad de Ceuta.
+
+> Se modifica por el art. único del Real Decreto 795/2026, de 30 de septiembre. [Ref. BOE-A-2026-20384](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20384)
+
+> Se modifica por el art. único del Real Decreto 718/2026, de 2 de septiembre. [Ref. BOE-A-2026-18508](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18508)

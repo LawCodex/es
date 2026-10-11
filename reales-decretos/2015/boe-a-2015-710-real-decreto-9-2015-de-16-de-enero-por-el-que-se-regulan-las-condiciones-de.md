@@ -1,0 +1,207 @@
+---
+title: "Real Decreto 9/2015, de 16 de enero, por el que se regulan las condiciones de aplicación de la normativa comunitaria en materia de higiene en la producción primaria agrícola"
+identifier: "BOE-A-2015-710"
+eli: "https://www.boe.es/eli/es/rd/2015/01/16/9"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2015-01-16
+published: 2015-01-28
+in_force_from: 2015-01-29
+last_amended: 2026-09-30
+consolidated: 2026-10-01
+gazette: "Boletín Oficial del Estado núm. 24"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-710"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 9/2015, de 16 de enero, por el que se regulan las condiciones de aplicación de la normativa comunitaria en materia de higiene en la producción primaria agrícola
+
+En las últimas décadas, la Unión Europea (UE) ha llevado a cabo un extenso desarrollo normativo en lo referente a legislación alimentaria, con el objeto, entre otros, de garantizar la seguridad y la inocuidad de los productos alimentarios de la Unión Europea. En este sentido, el Reglamento (CE) n.º 178/2002, del Parlamento Europeo y del Consejo, de 28 de enero de 2002, por el que se establecen los principios y los requisitos generales de la legislación alimentaria, se crea la Autoridad Europea de Seguridad Alimentaria y se fijan procedimientos relativos a la seguridad alimentaria, establece el marco comunitario de regulación en materia alimentaria.
+
+El Reglamento (CE) n.º 178/2002, del Parlamento Europeo y del Consejo, de 28 de enero de 2002, ha sido desarrollado y complementado por varias otras disposiciones, a las que se denominan en conjunto «Paquete de higiene», de entre las que interesan, por afectar a la producción primaria agrícola, el Reglamento (CE) n.º 852/2004, del Parlamento Europeo y del Consejo, de 29 de abril, relativo a la higiene de los productos alimenticios, y el Reglamento (CE) n.º 183/2005, del Parlamento Europeo y del Consejo, de 12 de enero, por el que se fijan requisitos en materia de higiene de los piensos.
+
+Además de las obligaciones establecidas en materia de registro para las explotaciones agrícolas, el Reglamento (CE) n.º 852/2004, del Parlamento Europeo y del Consejo, de 29 de abril, establece las condiciones que deben cumplir las explotaciones agrarias en materia de higiene. Los Estados Miembros deberán supervisar el correcto cumplimiento de dichas obligaciones mediante programas de control oficial, dichos programas deberán cumplir con los requisitos recogidos en el Reglamento (CE) n.º 882/2004, del Parlamento Europeo y del Consejo, de 29 de abril de 2004, sobre los controles oficiales efectuados para garantizar la verificación del cumplimiento de la legislación en materia de piensos y alimentos y la normativa sobre salud animal y bienestar de los animales.
+
+Sin perjuicio de la eficacia y aplicabilidad directa de la reglamentación mencionada, es preciso dictar disposiciones específicas para la aplicación en España de la misma, en los aspectos mencionados.
+
+En este sentido, desde la publicación de los reglamentos conocidos como «paquete de higiene», no se interpretaba claramente por los Estados Miembros ni por la Comisión Europea que la producción primaria agrícola se encontrara incluida en el ámbito de aplicación del antes citado Reglamento (CE) n.º 852/2004, del Parlamento Europeo y del Consejo, de 29 de abril, pues la definición de alimento excluía específicamente a las plantas antes de la cosecha de dicha definición. Dado que se consideraba que el mencionado reglamento se aplicaba únicamente a alimentos, no se asumió de manera clara que la producción primaria agrícola estuviera incluida en el mismo. Una serie de auditorías llevadas a cabo por la FVO (Oficina Alimentaria y Veterinaria de la Comisión, en sus siglas en inglés), a raíz de la conocida como «crisis del E. Coli», erróneamente atribuida en un principio al pepino, han dejado patentes la falta de implementación del Reglamento (CE) n.º 852/2004, del Parlamento Europeo y del Consejo, de 29 de abril, en la producción primaria agrícola en toda la Unión Europea, motivos por los cuales se procedió a crear un grupo de trabajo específico, y a la puesta en marcha de un programa de formación específico para aplicar el mencionado reglamento en toda la cadena alimentaria.
+
+Así, este real decreto crea y regula el Registro General de la Producción Agrícola, que, además de ser imprescindible para el cumplimiento de la normativa comunitaria sobre seguridad alimentaria, constituyendo un elemento esencial para los servicios de inspección de cualquier ámbito territorial, será un instrumento válido y conveniente para otros fines de la política agraria.
+
+El Registro General de la Producción Agrícola se constituirá como una suma de los distintos Registros Autonómicos, creándose además una base de datos nacional, la cual redundará en la mejora de la unidad de mercado prevista en la Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado. Este Registro General de la Producción Agrícola complementará al Registro General Sanitario de Empresas Alimentarias y Alimentos creado mediante el Real Decreto 191/2011, de 18 de febrero, sobre Registro General Sanitario de Empresas Alimentarias y Alimentos, al Registro General de establecimientos en el sector de la alimentación animal previsto en el artículo 4 del Real Decreto 821/2008, de 16 de mayo, por el que se regulan las condiciones de aplicación de la normativa comunitaria en materia de higiene de los piensos y se establece el registro general de establecimientos en el sector de la alimentación animal, y al Registro General de Explotaciones Ganaderas establecido en el artículo 3 del Real Decreto 479/2004, de 26 de marzo, por el que se establece y regula el Registro general de explotaciones ganaderas, de manera que los operadores de todas las fases de la cadena alimentaria constarán en bases de datos informatizadas a nivel nacional.
+
+Además el presente real decreto también tiene como objetivo la creación y regulación de los programas de control oficial de la higiene en la producción primaria agrícola.
+
+El presente real decreto se dicta al amparo de lo previsto en la disposición final quinta de la Ley 17/2011, de 5 de julio, de seguridad alimentaria y nutrición.
+
+En la elaboración de este real decreto han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados, habiendo emitido su preceptivo informe la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Alimentación y Medio Ambiente, y del Ministro de Sanidad, Servicios Sociales e Igualdad, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros, en su reunión del día 16 de enero de 2015,
+
+DISPONGO:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+1\. Este real decreto tiene por objeto regular las condiciones de aplicación de la normativa en materia de higiene de los productos alimenticios en la producción primaria agrícola, previstas en el Reglamento (CE) n.º 852/2004, del Parlamento Europeo y del Consejo, de 29 de abril, relativo a la higiene de los productos alimenticios, y en el Reglamento (CE) n.º 183/2005, del Parlamento Europeo y del Consejo, de 12 de enero, por el que se fijan requisitos en materia de higiene de los piensos.
+
+2\. El presente real decreto será de aplicación a las explotaciones que realicen su actividad en el ámbito de la producción primaria agrícola.
+
+3\. Este real decreto no se aplicará a las explotaciones que destinen íntegramente sus producciones al consumo doméstico privado.
+
+4\. Aquellas explotaciones en las que se produzcan, o bien productos agrícolas y ganaderos, o bien productos agrícolas u otros productos alimenticios que excedan las fases de la producción primaria, deberán cumplir con todas las obligaciones establecidas en el presente real decreto en el ámbito de la producción primaria agrícola, sin perjuicio del resto de obligaciones establecidas, tanto en la normativa nacional como comunitaria, para los ámbitos diferentes a la producción agrícola, incluidas las previstas en el Real Decreto 191/2011, de 18 de febrero, sobre Registro General Sanitario de Empresas Alimentarias y Alimentos; en el Real Decreto 379/2014, de 30 de mayo, por el que se regulan las condiciones de aplicación de la normativa comunitaria en materia de autorización de establecimientos, higiene y trazabilidad, en el sector de los brotes y de las semillas destinadas a la producción de brotes; en el Real Decreto 479/2004, de 26 de marzo, por el que se establece y regula el registro general de explotaciones ganaderas; y en el Real Decreto 821/2008 de 16 de mayo, por el que se regulan las condiciones de aplicación de la normativa comunitaria en materia de higiene de los piensos y se establece el registro general de establecimientos en el sector de la alimentación animal.
+
+## Artículo 2. Definiciones.
+
+1\. A los efectos de este real decreto serán de aplicación las definiciones previstas en los artículos 2 y 3 del Reglamento (CE) n.º 178/2002, del Parlamento Europeo y del Consejo, de 28 de enero de 2002, por el que se establecen los principios y los requisitos generales de la legislación alimentaria, se crea la Autoridad Europea de Seguridad Alimentaria y se fijan los procedimientos relativos a la seguridad alimentaria, en el artículo 2 del Reglamento (CE) n.º 852/2004, en el artículo 2 del Reglamento (CE) n.º 882/2004, del Parlamento Europeo y del Consejo, de 29 de abril de 2004, sobre controles oficiales de alimentos y piensos, en el artículo 3 del Reglamento (CE) n.º 183/2005, del Parlamento Europeo y el Consejo, de 12 de enero de 2005, en el artículo 3 del Reglamento (CE) n.º 396/2005, del Parlamento Europeo y del Consejo, de 23 de febrero de 2005, relativo a los límites de residuos de plaguicidas en alimentos y piensos de origen vegetal y animal y que modifica la Directiva 91/414/CEE del Consejo, y en el artículo 2 de la Ley 43/2002 de 20 de noviembre, de sanidad vegetal.
+
+2\. Asimismo, se entenderá como:
+
+a) Agricultor: persona o agrupación de personas con independencia de la forma jurídica de la agrupación o de sus miembros, cuya explotación se encuentre en el territorio español y que ejerza una actividad agrícola. El término «agricultor» se corresponde, en cuanto concierne a la producción primaria agrícola o forestal, con los términos «explotador de empresa alimentaria», definido en el Reglamento (CE) n.º 178/2002, del Parlamento Europeo y del Consejo de 28 de enero de 2002, y «explotador de empresa de pienso» definido en el Reglamento (CE) n.º 183/2005, del Parlamento Europeo y del Consejo, de 12 de enero.
+
+b) Explotación agrícola: el conjunto de unidades de producción administradas por un mismo agricultor, en cada campaña, que se encuentren en el territorio español.
+
+## Artículo 3. Administraciones competentes.
+
+1.La Dirección General de Sanidad de la Producción Agraria del Ministerio de Agricultura, Alimentación y Medio Ambiente, es el órgano nacional competente designado para la coordinación de las acciones que se regulan por este real decreto, y el punto focal de información sobre esta materia, sin perjuicio de aquellos aspectos relacionados con la seguridad alimentaria, que corresponden al Ministerio de Sanidad, Servicios Sociales e Igualdad a través de la Agencia Española de Consumo, Seguridad Alimentaria y Nutrición.
+
+2\. A efectos de la necesaria coordinación con el Ministerio de Agricultura, Alimentación y Medio Ambiente (MAGRAMA), del cumplimiento de las disposiciones del presente real decreto, y de la planificación y ejecución de las acciones y acuerdos que se adopten de conformidad con el mismo, cada comunidad autónoma y las ciudades con Estatuto de Autonomía de Ceuta y Melilla comunicará un órgano o ente competente que actuará como punto focal en su ámbito territorial, sin perjuicio de las competencias que puedan tener los distintos órganos de la comunidad autónoma en relación con las disposiciones de este real decreto.
+
+3\. En el plazo máximo de un mes desde la entrada en vigor del presente real decreto, cada comunidad autónoma y las ciudades con Estatuto de Autonomía de Ceuta y Melilla, notificarán a la Dirección General de Sanidad de la Producción Agraria, del Ministerio de Agricultura, Alimentación y Medio Ambiente, el órgano o ente competente al que se refiere el anterior apartado. Cualquier cambio de este órgano se comunicará de forma inmediata a la citada Dirección General del Ministerio de Agricultura, Alimentación y Medio Ambiente. A los efectos previstos en el presente real decreto, el Ministerio de Agricultura, Alimentación y Medio Ambiente estará asistido por el Comité Fitosanitario Nacional, en adelante el Comité, cuya composición y funciones se encuentran reguladas en el artículo 18 del Real Decreto 58/2005, de 21 de enero, por el que se adoptan medidas de protección contra la introducción y difusión en el territorio nacional y de la Comunidad Europea de organismos nocivos para los vegetales o productos vegetales, así como para la exportación y tránsito hacia países terceros.
+
+## Artículo 4. Obligaciones de los agricultores.
+
+1\. Anualmente los agricultores deberán notificar al órgano competente de la comunidad autónoma toda la información recogida en el anexo I del presente Real Decreto a efectos de su inscripción en el Registro General de la Producción Agrícola (REGEPA). Dicha declaración deberá producirse en el mismo periodo en el que se presenten las Solicitudes Únicas de ayuda de la Política Agrícola Común (PAC), o del Programa de Opciones Específicas por la Lejanía e Insularidad (POSEI) en cada campaña.
+
+2\. Las explotaciones agrícolas de nueva constitución deberán notificar la información referida en el apartado 1, dentro del mes siguiente al inicio de su actividad. Las explotaciones agrícolas que abandonen la actividad, deberán igualmente notificar dicha situación dentro del mes siguiente al cese de su actividad.
+
+3\. Los agricultores que notifiquen dicha información por cualquier otra vía, estarán exentos de cumplir las obligaciones previstas en los apartados 1 y 2. A tal efecto la Solicitud Única de ayudas de la PAC o POSEI tendrá consideración de notificación para la inscripción en el REGEPA.
+
+4\. Los agricultores deberán cumplir con las obligaciones en materia de higiene establecidas en el anexo I del Reglamento (CE) n.º 852/2004, del Parlamento Europeo y del Consejo, de 29 de abril, y en el anexo I del Reglamento (CE) n.º 183/2005, del Parlamento Europeo y del Consejo, de 12 de enero, según sea de aplicación.
+
+5\. Los datos previstos en este artículo se proporcionarán por el agricultor a la autoridad competente de manera electrónica, de acuerdo con lo previsto en el Real Decreto 1054/2022, de 27 de diciembre, por el que se establece y regula el Sistema de información de explotaciones agrícolas y ganaderas y de la producción agraria, así como el Registro autonómico de explotaciones agrícolas y el Cuaderno digital de explotación agrícola.
+
+> Téngase en cuenta que el apartado 5, añadido por la disposición final 1.1 del Real Decreto 1054/2022, de 27 de diciembre, [Ref. BOE-A-2022-23054](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23054), produce efectos el 1 de julio de 2023, según establece la disposición final 8 del citado Real Decreto.
+
+> Se añade, con efectos de 1 de julio de 2023, el apartado 5 por la disposición final 1.1 del Real Decreto 1054/2022, de 27 de diciembre. [Ref. BOE-A-2022-23054](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23054)
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 578/2017, de 12 de junio. [Ref. BOE-A-2017-6948](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-6948)
+
+## Artículo 5. Registro General de la Producción Agrícola.
+
+1.Se crea el Registro General de la Producción Agrícola, en lo sucesivo el REGEPA, en el que se inscribirán las explotaciones agrícolas que se encuentren dentro del ámbito de aplicación del presente real decreto. Dicho Registro se nutrirá de los datos de los diferentes Registros autonómicos ya creados.
+
+2\. El intercambio de información entre los sistemas informáticos de las autoridades competentes se realizará de acuerdo con lo previsto en el Real Decreto 1054/2022, de 27 de diciembre.
+
+3\. A cada explotación agrícola inscrita en REGEPA se le asignará un “código SIEX” de acuerdo con lo previsto en el artículo 4.3 del Real Decreto 1054/2022, de 27 de diciembre.
+
+> Se añade el apartado 3 por el art. 2 del Real Decreto 34/2025, de 21 de enero. [Ref. BOE-A-2025-998](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-998)
+
+> Se suprimen, con efectos de 1 de julio de 2023, los apartados 3 a 6 y se modifica el 2, por la disposición final 1.2 y 3 del Real Decreto 1054/2022, de 27 de diciembre. [Ref. BOE-A-2022-23054](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23054)
+
+> Se añade el apartado 6 por la disposición final 1 del Real Decreto 1378/2018, de 8 de noviembre. [Ref. BOE-A-2018-15349](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15349)
+
+## Artículo 6. Programa de Control Oficial de la Producción Primaria Agrícola.
+
+1.El Programa de Control Oficial de la Producción Primaria Agrícola, comprenderá la verificación de las obligaciones establecidas en el Reglamento (CE) n.º 882/2004, del Parlamento Europeo y del Consejo, de 29 de abril de 2004, en el Reglamento (CE) n.º 852/2004, del Parlamento Europeo y del Consejo, de 29 de abril de 2004, en el Reglamento (CE) n.º 183/2005, del Parlamento Europeo y del Consejo, de 12 de enero de 2005, en el Reglamento (CE) n.º 1107/2009, del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, relativo a la comercialización de productos fitosanitarios y por el que se derogan las Directivas 79/117/CEE y 91/414/CEE del Consejo, en el Reglamento (UE) n.º 208/2013, de la Comisión, de 11 de marzo de 2013, sobre requisitos en materia de trazabilidad de los brotes y de las semillas destinadas a la producción de brotes, en el Reglamento (UE) n.º 209/2013, de la Comisión, de 11 de marzo de 2013, que modifica el Reglamento (CE) n.º 2073/2005 en lo que respecta a los criterios microbiológicos para los brotes y las normas de muestreo para las canales de aves de corral y la carne fresca de aves de corral, en el Reglamento (UE) n.º 210/2013, de la Comisión, de 11 de marzo de 2013, sobre la autorización de los establecimientos que producen brotes en virtud del Reglamento (CE) n.º 852/2004 del Parlamento Europeo y del Consejo, y en el Reglamento (UE) n.º 211/2013, de la Comisión, de 11 de marzo de 2013, relativo a los requisitos de certificación aplicables a las importaciones en la Unión de brotes y semillas destinadas a la producción de brotes, así como con cualquier otra normativa nacional o comunitaria relacionada con la higiene de los productos vegetales.
+
+2\. Anualmente, antes del 31 de octubre de cada año, la Dirección General de Sanidad de la Producción Agraria del Ministerio de Agricultura, Alimentación y Medio Ambiente, asistida por el Comité, elaborará, en coordinación con las comunidades autónomas y ciudades con Estatuto de Autonomía de Ceuta y Melilla, el Programa Nacional de Control Oficial de la Producción Primaria Agrícola, donde se marcarán los objetivos, las pautas y las directrices para el año siguiente, con la finalidad de que los órganos o entes competentes de las comunidades autónomas elaboren los suyos propios.
+
+3\. A más tardar el 1 de abril de cada año, los órganos o entes competentes de las comunidades autónomas y ciudades con Estatuto de Autonomía de Ceuta y Melilla, deberán informar de los resultados de los controles realizados el año anterior, a la Dirección General de Sanidad de la Producción Agraria del Ministerio de Agricultura, Alimentación y Medio Ambiente, en el formato previsto al efecto en el Programa Nacional regulado en los apartados 1 y 2.
+
+## Artículo 6 bis. Laboratorios Nacionales de Referencia.
+
+Los laboratorios nacionales de referencia en el ámbito de aplicación de este real decreto son los previstos en la Orden por la que se designan los laboratorios nacionales de referencia en materia agroalimentaria y de sanidad de la producción primaria.
+
+> Se modifica por la disposición final 12.1 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+> Se añade por el art. único.2 del Real Decreto 578/2017, de 12 de junio. [Ref. BOE-A-2017-6948](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-6948)
+
+## Artículo 6 ter. Laboratorios para el programa de vigilancia de la comercialización de los productos fitosanitarios y para el Programa de Control Oficial de la Producción Primaria Agrícola.
+
+Corresponde a las distintas Administraciones Públicas, en el ámbito de sus respectivas competencias, la designación de los laboratorios oficiales u oficialmente reconocidos para la realización de los análisis de las muestras tomadas en el marco de estos Programas.
+
+Cuando proceda, y como apoyo a la realización de los análisis de las muestras oficiales efectuados por las comunidades autónomas en el ámbito de los citados Programas, el laboratorio contemplado en la parte A del anexo II realizará los análisis y ensayos cualitativos y cuantitativos de sustancias activas y sus preparados, realizado en cumplimiento del artículo 68 del Reglamento (CE) n.º 1107/2009, del Parlamento Europeo y del consejo, de 21 de octubre de 2009, relativo a la comercialización de productos fitosanitarios y por el que se derogan las Directivas 79/117/CEE y 91/414/CEE del Consejo, además de realizar los análisis arbitrales, y participará en los programas coordinados de la Unión Europea, en la selección y elaboración de métodos y otros cometidos que, conforme a la Ley 43/2002, de 20 de noviembre, le puedan ser encomendados.
+
+> Se añade por el art. único.3 del Real Decreto 578/2017, de 12 de junio. [Ref. BOE-A-2017-6948](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-6948)
+
+## Artículo 7. Régimen sancionador.
+
+En caso de incumplimiento de lo previsto en este real decreto o en la reglamentación de la Unión Europea, será de aplicación, en función de la materia, el régimen de infracciones y sanciones previsto en la Ley 43/2002, de 20 de noviembre, en la Ley 17/2011, de 5 de julio, de seguridad alimentaria y nutrición, en la Ley 33/2011, de 4 de octubre, General de Salud Pública, o en la Ley 14/1986, de 25 de abril, General de Sanidad, sin perjuicio de las responsabilidades civiles, penales o de otro orden que pudieran concurrir.
+
+## Disposición transitoria única. Registro de las explotaciones agrícolas en funcionamiento.
+
+Los agricultores que ya estuvieran desarrollando su actividad antes de la entrada en vigor del presente real decreto, deberán facilitar al órgano o ente competente de la comunidad autónoma o de las ciudades con Estatuto de Autonomía de Ceuta y Melilla, la información recogida en el anexo, según lo establecido en los apartados 1, 2 y 3 del artículo 4 del presente real decreto, en el plazo máximo de 6 meses desde la entrada en vigor del presente real decreto, con objeto de que los mismos procedan a su inscripción en el REGEPA. A estos efectos, si el agricultor hubiese presentado una solicitud de las previstas en el artículo 4.1 en el año de publicación de este real decreto se considerará la declaración efectuada en dicha solicitud única como declaración a efectos de su inscripción en el REGEPA.
+
+## Disposición final primera. Modificación del Real Decreto 971/2014, de 21 de noviembre, por el que se regula el procedimiento de evaluación de productos fitosanitarios.
+
+La letra ñ) de la disposición derogatoria única del Real Decreto 971/2014, de 21 de noviembre, por el que se regula el procedimiento de evaluación de productos fitosanitarios, queda suprimida.
+
+## Disposición final segunda. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª y 16.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica, y de bases y coordinación general de la sanidad, respectivamente.
+
+## Disposición final tercera. Facultad de modificación.
+
+Se faculta a las personas titulares de los Ministerios de Agricultura y Pesca, Alimentación y Medio Ambiente, y de Sanidad, Servicios Sociales e Igualdad, para modificar, en el ámbito de sus respectivas atribuciones, el contenido del anexo I para su adaptación a las modificaciones que introduzca la normativa comunitaria.
+
+Asimismo, se faculta al titular del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, para modificar, en el ámbito de sus competencias, el contenido del anexo II.
+
+> Se modifica por el art. único.4 del Real Decreto 578/2017, de 12 de junio. [Ref. BOE-A-2017-6948](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-6948)
+
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 16 de enero de 2015.
+
+FELIPE R.
+
+La Vicepresidenta del Gobierno y Ministra de la Presidencia,
+
+SORAYA SÁENZ DE SANTAMARÍA ANTÓN
+
+## ANEXO I — Información mínima que deberá notificar el agricultor
+
+Nombre y apellidos, o denominación social.
+
+NIF del agricultor de la explotación.
+
+Dirección postal.
+
+Datos de contacto. Al menos una de las siguientes vías de comunicación serán obligatorias: Teléfono, fax o dirección de correo electrónico.
+
+Relación de parcelas o recintos SIGPAC que componen la explotación, de las que se deberá notificar, al menos, la siguiente información:
+
+Código SIGPAC de las mismas. *
+
+Superficie (Has).
+
+Cultivo presente en las mismas.
+
+Autocontroles. De manera voluntaria se podrá indicar si la explotación agrícola realiza algún tipo de autocontrol.
+
+Venta directa al consumidor final **. Se indicará si la explotación agrícola vende directamente al consumidor, pudiendo notificarse esta información de manera independiente a la indicada en el artículo 4.3.
+
+Código o códigos del Registro General de Explotaciones Ganaderas (REGA): este campo solo será necesario para aquellas explotaciones con producción mixta agrícola y ganadera.
+
+\* En aquellos términos municipales en los que se hayan producido modificaciones territoriales u otras cuestiones debidamente justificadas (como por ejemplo en el caso de concentraciones parcelarias) que impidan utilizar el código SIGPAC, las Comunidades Autónomas y ciudades con Estatuto de Autonomía de Ceuta y Melilla podrán determinar la autorización temporal de otras referencias oficiales.
+
+** Facilitarán esta información aquellas explotaciones que realicen cualquier forma de transferencia, a título oneroso o gratuito, realizada directamente por el productor a la persona consumidora final.
+
+> Se numera y modifica por el art. único.5 del Real Decreto 578/2017, de 12 de junio. [Ref. BOE-A-2017-6948](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-6948)
+
+> Téngase en cuenta para su aplicación a las explotaciones en funcionamiento lo dispuesto en la disposición transitoria única del citado Real Decreto.
+
+## ANEXO II
+
+## (Suprimido)
+
+> Se suprime por la disposición final 12.2 del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+> Se modifica la parte B por la disposición final 2 del Real Decreto 1054/2021, de 30 de noviembre. [Ref. BOE-A-2021-20730](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20730)
+
+> Se añade por el art. único.6 del Real Decreto 578/2017, de 12 de junio. [Ref. BOE-A-2017-6948](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-6948)

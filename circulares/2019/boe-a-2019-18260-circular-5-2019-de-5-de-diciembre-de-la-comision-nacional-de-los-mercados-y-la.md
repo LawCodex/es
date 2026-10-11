@@ -1,0 +1,1809 @@
+---
+title: "Circular 5/2019, de 5 de diciembre, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología para el cálculo de la retribución de la actividad de transporte de energía eléctrica"
+identifier: "BOE-A-2019-18260"
+eli: "https://www.boe.es/eli/es/cir/2019/12/05/5"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Comisión Nacional de los Mercados y la Competencia"
+date: 2019-12-05
+published: 2019-12-19
+in_force_from: 2019-12-20
+last_amended: 2025-12-26
+consolidated: 2026-09-30
+gazette: "Boletín Oficial del Estado núm. 304"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2019-18260"
+retrieved: 2026-10-11
+---
+
+# Circular 5/2019, de 5 de diciembre, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología para el cálculo de la retribución de la actividad de transporte de energía eléctrica
+
+La actividad de transporte tiene carácter de monopolio natural y cuenta con un transportista único desde la aprobación de la Ley 17/2007, de 4 de julio, por la que se modifica la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, para adaptarla a lo dispuesto en la Directiva 2003/54/CE del Parlamento Europeo y del Consejo, de 26 de junio de 2003, sobre normas comunes para el mercado interior de la electricidad, salvo las excepciones previstas en el artículo 34.2 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+
+La Ley 24/2013, de 26 de diciembre, en la redacción dada por el Real Decreto-ley 1/2019, de 11 de enero, de medidas urgentes para adecuar las competencias de la Comisión Nacional de los Mercados y la Competencia a las exigencias derivadas del derecho comunitario en relación a las Directivas 2009/72/CE y 2009/73/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, sobre normas comunes para el mercado interior de la electricidad y del gas natural, establece en su artículo 14.8 que las metodologías de retribución de las actividades de transporte y distribución se establecerán atendiendo a los costes necesarios para construir, operar y mantener las instalaciones, de acuerdo al principio de realización de la actividad al menor coste para el sistema eléctrico según lo dispuesto en el artículo 1.1.
+
+El Real Decreto-ley 1/2019, de 11 de enero, ya mencionado, establece en su disposición transitoria segunda:
+
+«Las metodologías, parámetros y la base de activos de la retribución de las instalaciones de transporte y distribución de energía eléctrica y gas natural y de las plantas de gas natural licuado aprobados por la Comisión Nacional de los Mercados y la Competencia resultarán de aplicación una vez finalizado el primer periodo regulatorio.
+
+La fijación de las cuantías de la retribución de las instalaciones de transporte y distribución de energía eléctrica, regasificación, transporte y distribución de gas recogidas en el artículo 7.1 bis de la Ley 3/2013, de 4 de junio, pasarán a ser ejercidas por la Comisión Nacional de los Mercados y la Competencia y serán aplicables a partir del 1 de enero de 2020.»
+
+El artículo 14.12 de la Ley 24/2013, de 26 de diciembre, establece que «corresponderá a la Comisión Nacional de los Mercados y la Competencia la aprobación la retribución para cada año de las empresas titulares de instalaciones de transporte y distribución de conformidad con lo previsto en la Ley 3/2013, de 4 de junio».
+
+Según el artículo 7.1.g) de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, esta Comisión establecerá mediante circular la metodología para la retribución de las instalaciones de transporte de energía eléctrica.
+
+Por otro lado, con fecha 9 de abril de 2019 se ha publicado la Orden TEC/406/2019, de 5 de abril, por la que se establecen orientaciones de política energética a la Comisión Nacional de los Mercados y la Competencia, cuyo apartado sexto hace referencia a la circular de la metodología de retribución del transporte de electricidad.
+
+Según el artículo 1.2 de la Orden IET/2659/2015, de 11 de diciembre, por la que se aprueban las instalaciones tipo y los valores unitarios de referencia de inversión y de operación y mantenimiento por elemento de inmovilizado que se emplearán en el cálculo de la retribución de las empresas titulares de instalaciones de transporte de energía eléctrica, el primer período regulatorio termina el 31 de diciembre de 2019.
+
+Por todo ello, a partir del ejercicio 2020 corresponde a la Comisión Nacional de los Mercados y la Competencia establecer una metodología de retribución de la actividad de transporte de energía eléctrica, la cual debe contemplar los principios legales introducidos en dicha actividad por la Ley 24/2013, de 26 de diciembre, de manera clara, estable y predecible, que contribuya a aportar estabilidad regulatoria, reduciendo sus costes de financiación y, con ellos, los del sistema eléctrico.
+
+El modelo que establece esta circular, aun siendo continuista en lo principal con la metodología anterior, trata de cumplir con los objetivos en materia de eficiencia energética, maximizando la integración de las energías renovables y la reducción de emisiones, priorizando la mejora y actualización de la red existente, contemplando nuevas inversiones en redes inteligentes, posibilitando la extensión de la vida útil de las instalaciones, de forma que se rentabilicen las inversiones y gastos necesarios de las empresas transportistas, lo que supone un ahorro para el consumidor y para el sistema en su conjunto.
+
+La circular se adecua a los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dado que responde a los principios de necesidad y eficiencia, siendo el instrumento más adecuado para garantizar la consecución de los objetivos que persigue. Asimismo, para las modificaciones pretendidas, se ha dado aplicación al principio de proporcionalidad.
+
+De acuerdo con todos estos principios, en materia de retribución por inversión, se establece una retribución basada en la amortización de las inversiones y una retribución financiera a la inversión. Aquellas inversiones que tienen un valor real de inversión superior al resultante de aplicar los valores unitarios de referencia, además de exigirles la aportación de una auditoría técnica que justifique los costes por las especiales características o problemática, se les limita el valor con derecho a retribución a cargo del sistema.
+
+En materia de retribución por operación y mantenimiento, se calcula la retribución por familia de instalaciones, con base en la clasificación establecida en el anexo de la circular. Además, se establece un factor de eficiencia con el objetivo de adaptar la retribución por operación y mantenimiento de las empresas transportistas a las revisiones de costes unitarios realizadas en atención a los costes realmente incurridos por las mismas.
+
+Se modifica el término retributivo referido a los costes de extensión de vida útil de las instalaciones, con el objetivo de incentivar la extensión del funcionamiento de aquellas instalaciones que hayan superado su vida útil retributiva.
+
+Asimismo, se aclaran los criterios aplicables a las instalaciones singulares y su régimen retributivo, con el objeto de adaptar su retribución a los costes realmente incurridos por las empresas transportistas.
+
+Finalmente, se modifica el incentivo a la mejora de la disponibilidad, con el objeto de incentivar una gestión más eficiente por parte de las empresas transportistas.
+
+Esta circular desplaza las disposiciones anteriores al Real Decreto-ley 1/2019, de 11 de enero, que regulaban la metodología retributiva de la actividad de transporte de electricidad, disposiciones que, en las materias que son objeto de regulación en esta circular, devienen ahora inaplicables, conforme a lo establecido en el citado Real Decreto-ley. Dado que la Comisión Nacional de los Mercados y la Competencia ejerce esta competencia por primera vez, la circular no incluye una disposición derogatoria.
+
+Por todo lo anterior, de conformidad con lo establecido en el artículo 14. 8 y 12 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, y en el artículo 7.1.g) de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, previo trámite de audiencia, y de acuerdo con las orientaciones de política energética establecidas en la Orden TEC/406/2019, de 5 de abril, según las conclusiones alcanzadas a este respecto en la Comisión de Cooperación prevista en el artículo 2 del Real Decreto-ley 1/2019, de 11 de enero, el Pleno del Consejo de la Comisión Nacional de los Mercados y la Competencia, en su sesión de 5 de diciembre de 2019, ha acordado emitir, de acuerdo con el Consejo de Estado, la presente circular.
+
+## CAPÍTULO I — Principios generales
+
+### Artículo 1. Objeto.
+
+La presente circular tiene por objeto establecer la metodología para determinar la cuantía a retribuir a las empresas titulares de instalaciones de transporte de energía eléctrica por la construcción, operación y mantenimiento de estas, con criterios homogéneos en todo el territorio español y al menor coste posible para el sistema.
+
+### Artículo 2. Ámbito de aplicación.
+
+La metodología definida en la presente circular será de aplicación a todos los activos de transporte que a la entrada en vigor de la presente circular cuenten con autorización de explotación, y que por sus características sean catalogados como red de transporte de acuerdo con los criterios establecidos en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico. Asimismo, se aplicará a los activos que sean catalogados de igual modo y que se pongan en servicio con posterioridad a la entrada en vigor de esta circular.
+
+### Artículo 3. Criterios generales de retribución de la actividad de transporte.
+
+1\. La metodología que se desarrolla en la presente circular para la retribución de la actividad de transporte tiene por objeto determinar los criterios de remuneración de las instalaciones de la red de transporte y su operación y mantenimiento, incentivando la mejora continua de la eficacia de la gestión y de la disponibilidad de las mismas, así como la eficiencia económica y técnica, todo ello, con criterios homogéneos para todo el territorio español y al menor coste posible para el sistema eléctrico.
+
+2\. Antes del inicio de cada periodo regulatorio, la Comisión Nacional de los Mercados y la Competencia, previa audiencia pública antes del 1 de junio, establecerá el conjunto de parámetros técnicos y económicos que se utilizarán para el cálculo de la retribución de la actividad de transporte para todo el periodo regulatorio.
+
+3\. El devengo y el cobro de la retribución generada por instalaciones de transporte que cuenten con autorización de explotación en el año n se iniciará desde el 1 de enero del año n+2.
+
+4\. A efectos retributivos, únicamente se considerarán los costes necesarios para realizar la actividad de transporte por una empresa eficiente y bien gestionada.
+
+5\. Los pagos en concepto de retribuciones serán liquidados de conformidad con lo establecido por el Real Decreto 2017/1997, de 26 diciembre, por el que se organiza y regula el procedimiento de liquidación de los costes de transporte, distribución y comercialización a tarifa, de los costes permanentes del sistema y de los costes de diversificación y seguridad de abastecimiento, o norma que lo sustituya.
+
+6\. El cobro de dicha retribución se realizará con cargo a las liquidaciones del ejercicio para el que se haya establecido.
+
+### Artículo 4. Periodos regulatorios.
+
+De acuerdo con lo establecido en el artículo 14.4 de la Ley 24/2013, de 26 de diciembre, la retribución de la actividad de transporte se determinará por periodos regulatorios de seis años de duración.
+
+## CAPÍTULO II — Retribución de las empresas titulares de activos de la red de transporte
+
+### Artículo 5. Retribución de una empresa transportista.
+
+1\. La Comisión Nacional de los Mercados y la Competencia, previo trámite de audiencia, establecerá anualmente mediante resolución la retribución reconocida a cada empresa titular de instalaciones de transporte de energía eléctrica.
+
+A estos efectos, la Comisión Nacional de los Mercados y la Competencia, someterá a audiencia la propuesta de retribución para el año siguiente. Dicha propuesta deberá contener la retribución total a percibir por cada una de las empresas transportistas y el desglose de la retribución de cada una de las instalaciones de la misma en función del año de puesta en servicio, de acuerdo con la metodología prevista en la presente circular.
+
+2\. La retribución para el año n de cada empresa transportista se calculará de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16465829_1.png)
+
+Donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16465829_2.png)es la retribución por inversión en el año n que recibe una empresa transportista i vinculada a las instalaciones de su titularidad en servicio el año n−2.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16465829_3.png)es la retribución en concepto de operación y mantenimiento en el año n que percibe una empresa transportista i vinculada a las instalaciones de su titularidad en servicio el año n−2.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16465829_4.png)es la retribución en concepto de extensión de vida útil en el año n, que percibe una empresa transportista i vinculada a las instalaciones de su titularidad que continúen en servicio el año n−2, habiendo superado su vida útil regulatoria.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16465829_5.png)es el término del incentivo de calidad repercutido a la empresa transportista i en el año n asociado al grado de disponibilidad ofrecido por sus instalaciones de transporte el año n−2 y a la reducción del tiempo medio de interrupción en el año n−2.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16465829_6.png) es la retribución de la obra en curso en el año n que percibe una empresa transportista i vinculada a los costes del periodo de construcción de las instalaciones singulares, que no sean despachos de maniobra y telecontrol de la red de transporte, de su titularidad, puestas en servicio en el año n−2.
+
+3\. Una vez determinada la retribución anual de cada empresa transportista conforme a lo establecido en el apartado anterior, se realizará el ajuste retributivo previsto en el artículo 18 y se aplicará, en su caso, la penalización relativa a la prudencia financiera prevista en el artículo 19.
+
+> Se modifica el apartado 2 por el art. 2.1 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación de la modificación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+### Artículo 6. Retribución por inversión de cada una de las instalaciones de la red de transporte.
+
+1\. La retribución a la inversión de una instalación j de la red de transporte en el año n, por estar en servicio en el año n−2, se calculará de acuerdo con la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16465831_1.png)
+
+Donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16465831_2.png) es la retribución por amortización de la inversión de la instalacón j en el año n.
+
+La retribución por amortización de la inversión de la instalación j, se obtendrá a partir de los valores de inversión, de acuerdo con la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16465831_3.png)
+
+Siendo VI<sup>j</sup> el valor reconocido de la inversión de la instalación j en el primer año de cálculo de la retribución de la misma. Para su cálculo se distinguen tres grupos de instalaciones:
+
+a) Para las instalaciones puestas en servicio desde el 1 de enero de 1998 hasta el 31 de diciembre de 2017, su valor es el valor reconocido de la inversión a cada instalación de manera individual, de acuerdo con el valor de la inversión con derecho a retribución a cargo del sistema asignado en la orden de retribución del año correspondiente.
+
+b) Para las instalaciones puestas en servicio desde el 1 de enero de 2018 hasta el ejercicio 2023, su valor será el valor reconocido a cada instalación de manera individual, de acuerdo con el valor de la inversión con derecho a retribución asignado en la resolución de retribución, de la Comisión Nacional de los Mercados y la Competencia, del año correspondiente.
+
+c) Para las instalaciones puestas en servicio desde el 1 de enero de 2024 hasta el ejercicio n−2, su valor será el valor reconocido de la inversión a cada instalación de manera individual, de acuerdo a lo establecido en el artículo 7. Para las instalaciones singulares se calculará de acuerdo con lo establecido en el artículo 9.
+
+d) Para las instalaciones puestas en servicio en cada semiperiodo de 3 años a partir del 1 de enero de 2024, al final de cada semiperiodo se llevará a cabo un ajuste, de acuerdo a lo establecido en al artículo 7.bis.
+
+VU<sup>j</sup> es la vida útil regulatoria de la instalación j expresada en años. Con carácter general, tomará un valor de 40 años, salvo para las siguientes tipologías:
+
+a) Los despachos de maniobra y telecontrol tendrán una vida útil regulatoria de 12 años.
+
+b) Los aumentos de capacidad de líneas eléctricas aéreas de transporte, o repotenciaciones de líneas, tendrán una vida útil regulatoria de 8 años.
+
+c) Los compensadores estáticos síncronos tendrán una vida útil regulatoria de 25 años.
+
+d) Los sistemas de capacidad dinámica de línea (DLR) tendrán una vida útil regulatoria de 12 años.
+
+e) Los sistemas de almacenamiento (baterías integradas en la red de transporte) tendrán una vida útil regulatoria de 20 años.
+
+f) Los equipos de autonomía tendrán una vida útil regulatoria de 12 años.
+
+En cualquier caso, la vida útil regulatoria de una instalación será aquella que establezca la normativa de referencia que le sea de aplicación, en función del momento de obtención de la autorización de explotación para una instalación de igual tipología. Para posibles nuevas tipologías de instalaciones que puedan establecerse, la Comisión Nacional de los Mercados y la competencia determinará, mediante circular, la vida útil regulatoria que corresponda.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466878_1.png) es la retribución financiera de la inversión de la instalación j en el año n. Este término se calculará cada año n aplicando la tasa de retribución al valor neto de la inversión, conforme a la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466878_2.png);
+
+Donde:
+
+TRF<sub>p</sub> es la tasa de retribución financiera a aplicar en el cálculo retributivo del periodo regulatorio p. Dicha tasa será la fijada al inicio del periodo regulatorio por circular de la Comisión Nacional de los Mercados y la Competencia.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466878_3.png) es el valor neto de la inversión de la instalación j con derecho a retribución a cargo del sistema el año n. Este valor se calculará de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466878_4.png)
+
+Siendo k el número de años transcurridos desde la puesta en servicio.
+
+2\. Una vez establecido el valor de inversión con derecho a retribución de la instalación j, el mismo podrá ser modificado en caso de detectarse errores materiales, de hecho o aritméticos, derivados de las declaraciones efectuadas por las empresas transportistas o de los cálculos llevados a cabo por la Comisión Nacional de los Mercados y la Competencia. Asimismo, y a través del procedimiento correspondiente, dicho valor podrá ser modificado si se detectaran errores en la información considerada como consecuencia de las inspecciones o comprobaciones realizadas por la Comisión Nacional de los Mercados y la Competencia, ello sin perjuicio de la posibilidad de incoación de los expedientes que correspondan a fin de determinar si los errores detectados constituyen infracción según el Título X de la Ley 24/2013, de 26 de diciembre.
+
+3\. La retribución en concepto de inversión a percibir por la empresa transportista i por el conjunto de instalaciones de su red de transporte el año n se calculará de acuerdo a la expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466878_5.png)
+
+> Se modifican los apartados 1 y 3 por el art. 2.2 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación de la modificación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+### Artículo 7. Reconocimiento del valor de inversión con derecho a retribución a cargo del sistema de las instalaciones cuya puesta en servicio es posterior al 31 de diciembre de 2023, que no estén catalogadas como instalaciones singulares.
+
+1\. El valor de inversión con derecho a retribución a cargo del sistema de los nuevos elementos puestos en servicio por la empresa transportista i desde el 1 de enero de 2024 hasta el 31 de diciembre del año n−2, ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467069_1.png) que no hayan sido catalogados como singulares, se establecerá para las nuevas instalaciones puestas en servicio el año n−2 con carácter anual, junto con la retribución de cada empresa, por la Comisión Nacional de los Mercados y la Competencia y se calculará como:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467069_2.png)
+
+Donde:
+
+VI<sup>j</sup> es el valor de la inversión con derecho a retribución a cargo del sistema de la instalación j perteneciente a la empresa transportista i, que será calculado según los criterios establecidos en la presente circular y en sus disposiciones de desarrollo, el primer año que perciba retribución.
+
+2\. El valor VI<sup>j</sup> de inversión con derecho a retribución a cargo del sistema de la instalación j que ha obtenido autorización de explotación el año n−2 se calculará como:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467069_3.png)
+
+Donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467069_4.png) es un coeficiente en base uno que refleja el complemento a uno del valor total de inversión de dicha instalación financiado y cedido por terceros.
+
+AY<sup>j</sup> es el 90 por ciento del importe percibido del valor de las ayudas públicas percibidas por la instalación j. En ningún caso el margen del 10 por ciento a considerar respecto a las empresas transportistas podrá ser superior a 10 millones de euros.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467069_5.png) es el valor auditado de inversión de la instalación j que ha obtenido la autorización de explotación el año n−2.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466880_1.png) es el factor de retardo retributivo de la inversión de la instalación j que ha obtenido la autorización de explotación el año n−2. Este factor es derivado del coste financiero motivado por el retraso entre la obtención de la autorización de explotación de la instalación j y el inicio del devengo de la retribución por inversión. Este valor se calculará como:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466880_2.png)
+
+Donde:
+
+TRF<sub>APS</sub> es la tasa de retribución financiera en vigor el año en que ha obtenido la autorización de explotación la instalación j.
+
+tr<sub>j</sub> es el tiempo de retardo retributivo de la instalación j expresado en años, con una precisión de dos decimales, que mide el tiempo transcurrido desde la obtención de la autorización de explotación de la instalación j hasta que comienza el devengo de la retribución de la misma.
+
+3\. Para el cálculo de los valores de inversión reales, se descontarán aquellos impuestos indirectos cuya exención o devolución esté prevista en la normativa fiscal y aquellos tributos a los que se hace referencia en el artículo 16.4 de la Ley 24/2013, de 26 de diciembre.
+
+4\. Con carácter general, aquellas instalaciones que deban ser construidas o financiadas por consumidores o productores de energía eléctrica y hayan sido o hubieran debido ser cedidas a la red de transporte de acuerdo a la normativa estatal solo percibirán retribución en concepto de operación y mantenimiento, considerándose nulo su valor de inversión a efectos retributivos.
+
+5\. Para que una línea de transporte sea retribuida como soterrada, deberá discurrir por suelo urbanizado. Para la consideración de suelo urbanizado, se estará a lo establecido en el Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana.
+
+No obstante lo señalado en el párrafo anterior, si una disposición normativa estatal o comunitaria, aprobada por la Unión Europea, obligase expresamente al soterramiento de una línea en terreno rural, esta podrá ser retribuida como soterrada.
+
+En todo caso, para que una línea de la red de transporte sea retribuida como soterrada, esta deberá haber sido recogida expresamente con dicha característica en el instrumento de planificación de la red de transporte que se encuentre en vigor.
+
+> Se modifica por el art. 2.3 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación de la modificación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+### Artículo 7 bis. Ajuste de los valores reales de inversión al final de cada semiperiodo regulatorio para las instalaciones puestas en servicio con posterioridad al 31 de diciembre de 2023.
+
+1\. Cada tres años, es decir, a mitad y al final de cada periodo regulatorio, se calculará el resultado de aplicar los nuevos valores unitarios de inversión vigentes, al conjunto de instalaciones puestas en servicio en los años n−4, n−3 y n−2 que disponen de valores unitarios de inversión. El ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466881_1.png) se obtiene conforme a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466881_2.png)
+
+Siendo ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466881_3.png) el valor de inversión con derecho a retribución a cargo del sistema de la instalación j perteneciente a la empresa transportista i, calculado a costes unitarios de inversión.
+
+En el caso de que para una instalación j la ayuda AY<sup>j</sup> percibida sea superior al valor ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466881_3.png), entonces dicha instalación j no se tendrá en cuenta en la aplicación del presente artículo.
+
+2\. Dicho valor, obtenido por aplicación del apartado anterior, se comparará con la suma del valor de inversión retribuible obtenido por aplicación del punto 2 artículo 7 para las instalaciones que disponen de valor unitario de inversión, para los tres ejercicios n−4→n−2. Tras la comparación, se distinguirán los siguientes supuestos:
+
+– Si ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466881_5.png), no se realizará ningún ajuste.
+
+– Si ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466881_6.png), el valor de inversión final correspondiente al periodo n−4→n−2 se calculará de la siguiente manera:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466881_7.png)
+
+En el caso de que ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466882_1.png) sea superior a 1,15 ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466882_2.png), ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466882_3.png) no podrá ser superior a 1,10 ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466882_4.png).
+
+– Si ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466882_5.png), el valor de inversión final correspondiente al periodo n−4→n−2 se calculará de la siguiente manera:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466882_6.png)
+
+En el caso de que ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466882_7.png) sea inferior a ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466882_8.png) el valor ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466882_9.png) no podrá ser superior al 1,10 ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466882_10.png).
+
+4\. El ajuste correspondiente al semiperiodo n−4→n−2 será el siguiente:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466882_11.png)
+
+Dicho ajuste ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466882_12.png), de signo negativo o positivo, se incorporará al cálculo de la retribución a la inversión como si fuera una instalación con vida de 40 años, de forma que las cantidades correspondientes al ajuste se descontarán o añadirán a la retribución por inversión de las instalaciones puestas en servicio en dicho año n−2, considerando que su amortización se realiza a 40 años.
+
+> Se añade por el art. 2.4 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+### Artículo 8. Retribución por operación y mantenimiento de cada una de las instalaciones de la red de transporte.
+
+1\. La retribución en concepto de operación y mantenimiento de una instalación j de la red de transporte en el año n, por estar en servicio en el año n-2, se calculará de acuerdo con la siguiente fórmula:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_7871.png)
+
+Donde:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_7914.png) es el valor unitario de referencia de operación y mantenimiento vigente en el periodo regulatorio p, aplicable a la instalación j por sus características técnicas.
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_7956.png) es el número de unidades físicas de la instalación j.
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8000.png) es el factor de retardo retributivo de la operación y mantenimiento de la instalación j, en el periodo regulatorio p. Este factor obedece al coste financiero debido al retraso entre la puesta en servicio de la instalación j y el inicio del devengo de la retribución por operación y mantenimiento. Este valor se calculará como:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8044.png)
+
+Donde:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8083.png) es la tasa de retribución financiera del periodo regulatorio p. Dicha tasa será la fijada al inicio del periodo regulatorio según la circular de la Comisión Nacional de los Mercados y la Competencia por la que se establece la metodología de cálculo de la tasa de retribución financiera de las actividades de transporte y distribución.
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8125.png) es el tiempo de retardo retributivo de la operación y mantenimiento de la instalación j expresado en años. Este parámetro tomará los siguientes valores:
+
+a) Para todas las instalaciones puestas en servicio antes del 1 de enero de 2011, su valor será 0.
+
+b) Para las instalaciones puestas en servicio desde el 1 de enero de 2011, su valor será 1.
+
+2\. La retribución en concepto de operación y mantenimiento a percibir por la empresa transportista i por el conjunto de instalaciones no singulares de su red de transporte el año n, se calculará de acuerdo a la expresión:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8165.png)
+
+Donde:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8206.png) es la retribución en concepto de operación y mantenimiento a percibir por el conjunto de las instalaciones no singulares de cada familia F, conforme se definen en el anexo, de la empresa transportista i en el año n, por haber estado en servicio cada una de las instalaciones j en el año n-2. Se calculará de acuerdo a la siguiente expresión:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8252.png)
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8297.png) es un factor de eficiencia para cada empresa transportista i que tiene el objetivo de adaptar la retribución por operación y mantenimiento de las empresas transportistas, calculada conforme a los valores unitarios de referencia del periodo anterior, a la retribución por operación y mantenimiento calculada con los nuevos valores unitarios obtenidos a partir de los costes reales incurridos por las empresas transportistas en el periodo anterior. Dicho factor se calculará el primer año de cada periodo regulatorio y se mantendrá constante a lo largo del mismo. Será calculado conforme a la siguiente expresión:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8340.png)
+
+Donde:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8384.png) es el valor de retribución por operación y mantenimiento para la empresa transportista i en el año k-1, siendo k el año de inicio del periodo regulatorio p, valorado según los valores unitarios de referencia vigentes en el año k-1.
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8427.png) es el valor de retribución por operación y mantenimiento para la empresa transportista i en el año k-1, siendo k el año de inicio del periodo regulatorio p, valorado según los valores unitarios de referencia vigentes en el año k.
+
+α es un parámetro que representa el reparto entre las empresas transportistas y el sistema de la diferencia entre los costes de operación y mantenimiento calculados según los valores unitarios de referencia del periodo regulatorio precedente y los vigentes en el nuevo periodo regulatorio. Será fijado por resolución de la Comisión Nacional de los Mercados y la Competencia al inicio de cada periodo regulatorio.
+
+3\. Las instalaciones que cesen su operación de forma definitiva en el año n-2, percibirán el año n, en concepto de operación y mantenimiento, la parte proporcional al número de días que hubieran estado en servicio dicho año, dejando de percibir retribución a partir de ese momento.
+
+4\. Asimismo, las empresas que pongan en servicio instalaciones en el año n-2, percibirán en concepto de operación y mantenimiento, en el año n, la parte proporcional al número de días que hubieran estado en servicio dicho año.
+
+### Artículo 9. Cálculo de la retribución de instalaciones singulares.
+
+1\. Se entenderá por instalaciones singulares aquellas instalaciones de transporte que tengan condiciones de diseño, configuración, operativas o técnicas que difieran de los estándares considerados en los valores unitarios de referencia de inversión y operación y mantenimiento recogidos en la circular de la Comisión Nacional de los Mercados y la Competencia que se apruebe a tal efecto.
+
+2\. A estos efectos, tendrán la consideración de inversiones singulares en todo caso, los tendidos submarinos, los tendidos desarrollados en corriente continua y las estaciones conversoras de corriente alterna a corriente continua, así como los despachos de maniobra y telecontrol de la red de transporte, dado que carecen de un valor unitario de referencia.
+
+3\. Asimismo, podrán tener la consideración de inversiones singulares aquellas inversiones efectuadas por las empresas transportistas en proyectos piloto. No obstante, la empresa transportista deberá garantizar que la ejecución de las citadas inversiones supone un beneficio cuantificable para el sistema en términos de seguridad, calidad, eficiencia, objetividad y transparencia, para lo que la solicitud de reconocimiento de este tipo de inversiones deberá acompañarse de un análisis coste-beneficio y una memoria técnica. En el caso de que el proyecto piloto pueda afectar a la seguridad del suministro, se solicitará informe preceptivo al operador del sistema.
+
+La aprobación de las citadas inversiones estará supeditada, en todo caso, al mantenimiento de la estabilidad financiera del sistema eléctrico, y no incluirá la retribución por conceptos ya contemplados en la metodología establecida en la presente circular.
+
+4\. En ningún caso se considerarán inversiones singulares aquellas cuyo coste sea superior al que resulta de aplicar los valores unitarios de referencia debido a que los trazados por los que discurran o las ubicaciones de las mismas supongan un coste superior al de referencia o aquellas cuyo sobrecoste venga motivado por sentencias judiciales o por aplicación de normativa no uniforme en todo el territorio español.
+
+Tampoco tendrán carácter singular aquellas instalaciones cuyos costes hayan sido considerados en el cálculo de los valores unitarios de referencia de inversión o de operación y mantenimiento.
+
+De la misma manera, no se considerarán instalaciones singulares aquellas que tengan previsto un código específico en la circular informativa que, según se indica en el artículo 16.2, apruebe la Comisión Nacional de los Mercados y la Competencia a los efectos del cálculo de la retribución de transporte, pese a no disponer de un valor unitario de referencia, por tratarse de instalaciones novedosas para las cuales no existe muestra suficiente en el momento de la elaboración de la misma.
+
+5\. El carácter singular de una inversión se determinará por resolución de la Comisión Nacional de los Mercados y la Competencia.
+
+6\. A estos efectos, la empresa transportista deberá detallar y justificar la singularidad de la inversión, incluyendo todas aquellas razones de gestión técnica del sistema, motivos técnicos, de seguridad y calidad industrial, así como la sostenibilidad económica y financiera de la misma.
+
+Asimismo, deberá aportar una estimación del valor de inversión y de los costes de operación y mantenimiento para la infraestructura en cuestión, así como de las ayudas previstas en el momento de la solicitud y del volumen de la inversión que se prevé que sea financiado por terceros. Dicho valor de inversión no deberá venir afectado por el factor de retardo retributivo.
+
+En cualquier caso, la insuficiencia, o falta de fundamentación, de la sostenibilidad económica y financiera de la inversión, o de la necesidad de la instalación para el cumplimiento de la normativa técnica, de seguridad, de calidad industrial, de las normas de gestión técnica del sistema o cualquier otra de carácter estatal que le fuera de aplicación, implicará la no inclusión en el régimen retributivo de las instalaciones de transporte.
+
+7\. Con carácter general, la vida útil regulatoria de las instalaciones singulares tomará un valor de 40 años, salvo que en la resolución por la que se reconoce a una instalación su carácter singular se disponga otro valor.
+
+8\. Cuando hubiera transcurrido un periodo superior a un año desde que se otorgó el carácter singular a la instalación, y se hubieran producido circunstancias o hechos que alterasen las condiciones bajo las cuales se dictó la resolución de singularidad, la empresa transportista podrá solicitar la modificación de los parámetros de dicha resolución, siempre que no se hubiera dictado aún autorización administrativa de la instalación.
+
+A tal efecto, la empresa transportista remitirá a la Comisión Nacional de los Mercados y la Competencia, solicitud motivada aportando en su caso una nueva estimación del valor de inversión del proyecto, junto con las ayudas o porcentaje de financiación previsto, así como de los costes de operación y mantenimiento estimados para la infraestructura.
+
+9\. Para la determinación del valor de inversión con derecho a retribución a cargo del sistema de aquellas inversiones que sean clasificadas como singulares, su valor será calculado conforme a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466883_1.png);
+
+En la expresión anterior se incluirán los valores definitivos de las ayudas recibidas, así como el porcentaje de la instalación que haya sido financiado por terceros.
+
+AY<sup>j</sup> es el 90 por ciento del importe percibido del valor de las ayudas públicas percibidas por la instalación j. En ningún caso el margen del 10 por ciento a considerar con respecto a las empresas transportistas podrá ser superior a 10 millones de euros.
+
+10\. Se define como retribución por operación y mantenimiento base de una instalación singular la retribución por operación y mantenimiento establecida en la resolución de singularidad, sin considerar ningún tipo de coste financiero asociado al retardo que se produce en el cobro de la misma.
+
+Una vez puesta en servicio la instalación, la retribución por operación y mantenimiento de cada instalación singular se calculará por la Comisión Nacional de los Mercados y la Competencia de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466883_2.png)
+
+Donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466883_3.png) es la retribución por operación y mantenimiento base de una instalación singular que se recoge en la resolución de declaración de singularidad establecida en el apartado 5.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466883_4.png) es un factor de retardo retributivo de la operación y mantenimiento, tal y como se ha definido en el artículo 8 para las instalaciones no singulares.
+
+β es el coeficiente que permitirá ajustar el valor de retribución por operación y mantenimiento a los costes reales de explotación una vez puesta en servicio cada instalación singular. Dicho valor se calculará por primera vez para cada instalación a partir del tercer año en el que perciba retribución, en base a la información de costes aportada por la empresa transportista en sus declaraciones a la Comisión Nacional de los Mercados y la Competencia, siendo los dos primeros años desde su puesta en servicio igual a 1. En el primer año de cada periodo regulatorio se calculará el parámetro β para cada instalación singular, tomando como base los costes de los tres últimos años del anterior periodo regulatorio. Dicho parámetro β, establecido para cada instalación singular, permanecerá constante hasta la mitad del periodo regulatorio, donde se analizará de nuevo la información de costes y, si procede, se actualizará el parámetro β de cada instalación singular, que se mantendrá constante hasta el fin del periodo regulatorio. Asimismo, el valor del coeficiente β no podrá ser nunca superior a 1.
+
+En ningún caso la cuantía de la retribución por operación y mantenimiento base podrá superar el 25 por ciento de la estimación de la retribución de operación y mantenimiento establecida en la resolución de singularidad.
+
+11\. ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466884_1.png) es la retribución de la obra en curso en el año n que percibe una empresa transportista i vinculada a los costes del periodo de construcción de las instalaciones singulares, que no sean despachos de maniobra y telecontrol, de su titularidad, puestas en servicio en el año n−2. Se calculará de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466884_2.png)
+
+Donde:
+
+j es cada instalación singular, que no sea despacho de maniobra y telecontrol, titularidad de la empresa i, puesta en servicio en el año n−2.
+
+CC<sup>j</sup> son los costes del periodo de construcción de la instalación j. Se calcularán conforme a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466884_3.png)
+
+Donde:
+
+IIOC<sub>a</sub> son los importes invertidos en la obra en curso en cada año a, descontados los importes financiados y cedidos por terceros, y el valor de las ayudas públicas percibidas por la instalación j en ese mismo año, donde a es un año comprendido entre el año de inicio de la construcción y el año n−3, siendo n−2 el año de puesta en servicio de la instalación.
+
+RD<sub>a</sub> es el coste de la deuda en cada año a, desde el año n−7 hasta el año n−3, siendo n−2 el año de puesta en servicio de la instalación. El coste de la deuda se define conforme lo establecido en el artículo 10 de la Circular 2/2019, de 12 de noviembre, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología de cálculo de la tasa de retribución financiera de las actividades de transporte y distribución de energía eléctrica, y regasificación, transporte y distribución de gas natural. Se aplicará el valor que se haya fijado para R<sub>D</sub> en la circular que establezca la tasa de retribución financiera para transporte de energía eléctrica en el periodo regulatorio al que el año a pertenezca.
+
+TRF<sub>APS</sub> es la tasa de retribución financiera en vigor el año en que ha obtenido la autorización de explotación la instalación j.
+
+> Se modifican los apartados 3, 9 y 10 y se añade el 11 por el art. 2.5 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación de la modificación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+### Artículo 10. Extensión de la vida útil de las instalaciones de la red de transporte.
+
+1\. Una vez finalizada la vida útil regulatoria de la instalación de transporte, la retribución devengada por dicha instalación en concepto de retribución por inversión será nula.
+
+2\. En el caso de que una empresa i realizase actuaciones de renovación y mejora sobre una instalación j, que haya superado o esté próxima a superar su vida útil según su fecha de puesta en servicio, dichas actuaciones deberán estar recogidas previamente en la planificación de la red de transporte, para poder ser retribuidas como si de una nueva inversión se tratara.
+
+3\. No obstante, la Comisión Nacional de los Mercados y la Competencia realizará un seguimiento de las inversiones en renovación y mejora relativas a dichas actuaciones. Para ello, la empresa i, que vaya a realizar dichas inversiones sobre una instalación j, deberá presentar un informe a la Comisión Nacional de los Mercados y la Competencia, que incluya un análisis económico que justifique el ahorro de inversión y de retribución anual para el sistema que suponen dichas actuaciones respecto a la construcción de una nueva instalación, así como el valor de inversión previsto y la vida útil estimada de las nuevas actuaciones.
+
+Asimismo, la información aportada deberá acreditar la realización previa por parte de la empresa i de las tareas de operación y mantenimiento necesarias para el correcto funcionamiento de la citada instalación j.
+
+En todo caso, la Comisión Nacional de los Mercados y la Competencia establecerá, mediante la circular que se menciona en el artículo 16.2, las instrucciones para la declaración de la información necesaria para el cálculo de la retribución correspondiente a las citadas actuaciones de renovación y mejora.
+
+4\. No obstante lo anterior, aquellas instalaciones de transporte j sobre las que no se hayan realizado actuaciones de renovación y mejora, conforme a lo señalado en el apartado anterior, y que, aun habiendo superado su vida útil, continúen en servicio el año n-2, verán incrementada su retribución por operación y mantenimiento en el año n por su extensión de vida útil que será calculada de acuerdo a la expresión:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8692.png)
+
+Donde:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8735.png) es la retribución por costes de operación y mantenimiento que le correspondería a la instalación j en el año n, de acuerdo a la formulación del apartado 1 del artículo 8.
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8782.png) es el coeficiente de extensión de vida útil que tomará diferente valor en función de los años transcurridos (X) desde el final de la vida útil regulatoria de la instalación «j». De acuerdo con las siguientes etapas:
+
+a) Durante los cinco primeros años en que se haya superado la vida útil regulatoria de la instalación, el valor del coeficiente de extensión de la vida útil será:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8915.png)
+
+b) Cuando la instalación haya superado su vida útil regulatoria entre 6 y 10 años, el valor del coeficiente de extensión de la vida útil será:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_8958.png)
+
+c) Cuando la instalación haya superado su vida útil regulatoria entre 11 y 15 años, el valor del coeficiente de extensión de la vida útil será:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_9018.png)
+
+d) Cuando la instalación haya superado su vida útil regulatoria en más de 15 años, el valor del coeficiente de extensión de la vida útil será:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_9155.png)
+
+El parámetro ![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_9201.png) no podrá tomar un valor superior a 1.
+
+5\. La retribución en concepto de extensión de vida útil a percibir en el año n por la empresa transportista i por el conjunto de instalaciones de su red de transporte, sobre las que no se hayan realizado actuaciones de renovación y mejora, y que continúen en servicio, aun habiendo superado su vida útil, se calculará de acuerdo a la expresión:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_9246.png)
+
+6\. En cualquier caso, aquellas instalaciones que cesen su operación durante un ejercicio, deberán declararse como baja en el inventario a 31 de diciembre de dicho año.
+
+## CAPÍTULO III — Supervisión y control de los planes de inversión
+
+### Artículo 11. Supervisión del cumplimiento de los planes de la inversión.
+
+De conformidad con el artículo 7.7 de la Ley 3/2013, de 4 de junio, la Comisión Nacional de los Mercados y la Competencia supervisará el cumplimiento de los planes de inversión de los gestores de red de transporte, aprobados de conformidad con lo previsto en el Real Decreto 1047/2013, de 27 de diciembre.
+
+### Artículo 12. Evaluación de la ejecución de los planes de inversión.
+
+1\. Anualmente las empresas titulares de instalaciones de transporte presentarán ante la Comisión Nacional de los Mercados y la Competencia, antes del 1 de junio del año n-1, un informe en el que se acredite el grado de cumplimiento del plan de inversión ejecutado el año n-2.
+
+En dicho informe se deberán motivar las causas que hubieran provocado que aquellas instalaciones incluidas en el citado plan de inversión no se hayan puesto en servicio o en las que se esté incurriendo en retrasos significativos respecto a los plazos previstos, así como el riesgo que esto supone para la seguridad de suministro y las incidencias que pudiera tener sobre otros agentes.
+
+2\. Para la evaluación del volumen de inversión con derecho a retribución a cargo del sistema finalmente ejecutado se empleará la siguiente formulación:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_9287.png)
+
+a) Para la evaluación del volumen de inversión de las instalaciones no singulares, ![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_9326.png) se emplearán los valores unitarios de referencia de inversión aprobados por la Comisión Nacional de los Mercados y la Competencia, salvo aquellos que, transitoriamente, no dispongan de un valor unitario, para los que se empleará el valor auditado declarado por las empresas transportistas.
+
+b) Para la evaluación del volumen de inversión de las instalaciones singulares, ![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_9367.png) se emplearán las cantidades recogidas en el proyecto de ejecución.
+
+c) Se descontarán del volumen de inversión total las cesiones y las inversiones financiadas por terceros que se prevea percibir ![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_9409.png).
+
+d) ![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_9454.png) es el valor de las ayudas públicas percibidas por la instalación j. En el caso de que estas ayudas públicas provengan de organismos de la Unión Europea, este valor será el 90 por ciento del importe percibido. En ningún caso el margen del 10 por ciento a considerar con respecto a las empresas transportistas podrá ser superior a 10 millones de euros.
+
+e) ![1](https://www.boe.es/datos/imagenes/disp/2019/304/18260_9498.png) es el factor de retardo retributivo de la inversión. Este parámetro se calculará de acuerdo a la formulación recogida en el artículo 7, suponiendo un retardo en el devengo y cobro desde la obtención de la autorización de explotación de un año y medio.
+
+3\. En el caso de que una empresa i superase el volumen máximo de inversión con derecho a retribución a cargo del sistema el año n debido a los elementos puestos en servicio el año n-2, se actuará del modo siguiente:
+
+a) Si fuera en una cantidad inferior al 15 por ciento, durante dos o más años consecutivos, el devengo de todas las retribuciones de dicho exceso puesto en servicio el año n-2 se verá minorado en un 5 por ciento durante el año n.
+
+b) Si se hubiera superado el volumen aprobado en una cuantía igual o superior al 15 por ciento y menor al 25 por ciento, el devengo de todas las retribuciones de dicho exceso puesto en servicio el año n-2 se verá minorado en un 25 por ciento durante el año n.
+
+c) Si se superase el volumen señalado en el párrafo anterior en una cantidad superior al 25 por ciento el devengo de todas las retribuciones de dicho exceso puesto en servicio el año n-2, se verá minorado en un 75 por ciento durante el año n.
+
+### Artículo 13. Contenido y formato detallado para el seguimiento de los planes de inversión.
+
+Previo trámite de audiencia, la Comisión Nacional de los Mercados y la Competencia establecerá mediante resolución el contenido y formato en el que se deberá presentar la información para el seguimiento de los planes de inversión anuales de las empresas propietarias de instalaciones de transporte.
+
+## CAPÍTULO IV — Situaciones especiales
+
+### Artículo 14. Incorporación de instalaciones existentes a la red de transporte.
+
+1\. Para la inclusión en la base retributiva de instalaciones existentes, la empresa transportista deberá remitir a la Comisión Nacional de los Mercados y la Competencia, la siguiente información:
+
+a) Acuerdo entre transmitente y adquirente para la transmisión de la titularidad de la instalación.
+
+b) Autorizaciones administrativas de la instalación a transferir.
+
+c) Auditoría de la instalación que recoja los costes de inversión en que se incurrió y los costes proporcionales al tramo de la instalación que se desea incorporar a la red de transporte.
+
+d) Años transcurridos desde la obtención de la autorización de explotación.
+
+e) Costes de adecuación si estos fueran necesarios.
+
+f) Un análisis coste-beneficio de la propuesta presentada por la empresa transportista de incorporación de una infraestructura de evacuación, de generación o infraestructuras particulares de consumidores a la red de transporte incluyendo los costes de adecuación necesarios. El análisis deberá incluir una valoración de los costes evitados al sistema.
+
+2\. El valor reconocido por la Comisión Nacional de los Mercados y la Competencia incluirá los parámetros de valor de la inversión VIj, así como su vida útil regulatoria.
+
+La fecha de transmisión de la titularidad de la instalación será la equivalente a los efectos retributivos, a la de la obtención de autorización de explotación, por lo que dicha infraestructura comenzará a devengar la correspondiente retribución el 1 de enero del año n+2, siendo n el año de integración en la red de transporte.
+
+3\. Si las infraestructuras antes señaladas tuvieran o hubieran que ser cedidas al titular de la red de transporte, la retribución por inversión de las mismas a cargo del sistema será nula.
+
+## CAPÍTULO V — Incentivo a la disponibilidad
+
+### Artículo 15. Establecimiento de un incentivo de calidad.
+
+1\. Se establece un incentivo de calidad que combina un subincentivo a la disponibilidad de la red de transporte y un subincentivo a la reducción del tiempo de interrupción medio que se aplicará a cada una de las empresas titulares de instalaciones de transporte.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466885_1.png)
+
+Donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466885_2.png) es el incentivo de calidad repercutido a la empresa transportista i el año n que está asociado al grado de disponibilidad y al tiempo medio de interrupción de sus instalaciones de transporte en el año n−2.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466886_1.png) es el subincentivo a la disponibilidad ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466886_1.png) repercutido a la empresa transportista i el año n que está asociado al grado de disponibilidad ofrecido por sus instalaciones de transporte el año n−2.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466886_2.png) es el subincentivo a la reducción del tiempo de interrupción medio para la empresa transportista i en el año n, definido como la relación entre la energía no suministrada y la potencia media del sistema, dada por el transportista en el año n−2.
+
+PPI es el peso, en tanto por uno, que se le asigna a cada uno de los incentivos que conforman el incentivo de calidad.
+
+2\. En relación al subincentivo a la disponibilidad, la cuantía máxima que podrá tomar la bonificación a la disponibilidad obtenida por la empresa i el año n se denominará CMAX<sub>n</sub> y la cuantía máxima que podrá tomar la penalización vinculada a la disponibilidad obtenida por la empresa i el año n, si incumple los valores objetivos, será CMin<sub>n</sub>. Asimismo, el D<sub>objetivo_periodo</sub> es el valor del índice ponderado de disponibilidad establecido como objetivo. Este parámetro podrá ser modificado al inicio de cada periodo regulatorio por la Comisión Nacional de los Mercados y la Competencia. Si no se llevara a cabo esta revisión, se entenderá prorrogado su valor para todo el periodo regulatorio siguiente.
+
+A los efectos del subincentivo a la disponibilidad de la red de transporte resultarán de aplicación las siguientes definiciones:
+
+a) F: familia de instalaciones. Son las instalaciones de transporte de energía eléctrica que, por su función y por sus características técnicas, tienen tasas de fallos similares y un tratamiento homogéneo a los efectos del incentivo de disponibilidad. Las familias serán las establecidas en el anexo I.
+
+b) t<sub>j</sub>: tiempo de indisponibilidad de una instalación. Es el número de horas que la instalación de transporte de energía eléctrica j no está disponible para su correcto funcionamiento durante el año n−2.
+
+c) ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466886_3.png): índice de indisponibilidad anual de una instalación j el año n−2. Es el cociente entre el número de horas tj que una instalación está indisponible y el número de horas del periodo en estudio Tj expresado en tanto por ciento:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466886_4.png)
+
+Donde:
+
+T<sub>j</sub> es el número de horas del periodo en que es analizada la disponibilidad de la instalación j. A los efectos del cálculo del presente incentivo, este periodo será un año, salvo que la instalación haya obtenido autorización de explotación a lo largo de ese año, en cuyo caso será el número de horas que dicha instalación j ha estado en servicio.
+
+d) ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466887_1.png): índice de disponibilidad de una instalación j el año n−2. Expresa el porcentaje del tiempo total que dicha instalación ha estado disponible para el servicio a lo largo del año n−2, siendo por tanto el complemento a 100 del índice de indisponibilidad:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466887_2.png)
+
+e) ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466887_3.png): índice de indisponibilidad de una familia de instalaciones F de la empresa i el año n−2. Expresa la indisponibilidad durante el año n de las instalaciones de transporte j de la empresa i que se incluyen en la familia F y se calculará de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466887_4.png)
+
+Donde PNj es la potencia nominal de la instalación j perteneciente a la empresa i.
+
+f) ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466887_5.png): índice de disponibilidad de una familia de instalaciones F de la empresa i el año n−2. Expresa la disponibilidad durante el año n−2 de las instalaciones de transporte j de la empresa i que se incluyen en la familia F y se calculará de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466887_6.png)
+
+A los efectos del cálculo del incentivo de disponibilidad de la presente circular, se define como índice de disponibilidad ponderado de la red de transporte propiedad de la empresa i el año n−2 la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16466887_7.png)
+
+Donde:
+
+k<sub>F, n−2</sub> es el índice que pondera el peso de cada una de las familias el año n−2 en el cálculo de la disponibilidad total de la red de una empresa. Este índice se calculará en función del número de unidades físicas y del coste de la operación y mantenimiento. Se hará de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467636_1.png)
+
+Donde:
+
+VOM<sub>j</sub> es el valor medio de los valores unitarios de referencia de operación y mantenimiento del año n−2 para las instalaciones de la familia F.
+
+UF<sub>j</sub> son las unidades físicas de la instalación j.
+
+El subincentivo de disponibilidad que la empresa i percibirá el año n asociado a la disponibilidad de su red de transporte el año n−2 se denomina ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467636_2.png) y se calculará de acuerdo con la siguiente expresión:
+
+Si ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467636_3.png)
+
+con un límite de ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467636_4.png)
+
+Si ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467636_5.png)
+
+Si ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467636_6.png)
+
+con un límite de ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467636_7.png)
+
+3\. En relación con el subincentivo del tiempo medio de interrupción, la cuantía máxima que podrá tomar la bonificación a este incentivo se denominará ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467636_8.png) y la cuantía máxima que podrá tomar la penalización se denomina ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467636_9.png) obtenida por la empresa i el año n.
+
+Asimismo, el TIM<sub>objetivo_periodo</sub> es el valor objetivo a cumplir en el periodo. Este parámetro podrá ser modificado al inicio de cada periodo regulatorio por la Comisión Nacional de los Mercados y la Competencia. Si no se llevara a cabo esta revisión, se entenderá prorrogado su valor para todo el periodo regulatorio siguiente.
+
+El subincentivo de reducción del tiempo medio de interrupción que la empresa i percibirá el año n asociado al TIM el año n−2 se denomina ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467856_1.png) y se calculará de acuerdo con la siguiente expresión:
+
+Si ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467856_2.png)
+
+Entonces:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467856_3.png)
+
+Si ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467856_4.png)
+
+Entonces:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467856_5.png)
+
+Si ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467856_6.png)
+
+Entonces:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467856_7.png)
+
+Si ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467856_8.png)
+
+Entonces:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467856_9.png)
+
+Si ![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467856_10.png)
+
+Entonces:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467857_1.png)
+
+> Se modifica por el art. 2.6 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación de la modificación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+## CAPÍTULO VI — Información y Auditoría
+
+### Artículo 16. Obligaciones de información.
+
+1\. Los titulares de instalaciones de transporte deberán:
+
+a) Para la inclusión de nuevas instalaciones de transporte en el régimen retributivo, remitir a la Comisión Nacional de los Mercados y la Competencia un informe sometido a auditoría externa, con la siguiente información para todas las instalaciones puestas en servicio el año n-2, y para aquellas cuya capacidad hubiera sido ampliada:
+
+1.º Autorización administrativa previa, autorización de construcción y autorización de explotación.
+
+En el caso de instalaciones de transporte secundario, el informe favorable previsto en el artículo 36.3 de la Ley 54/1997, de 27 de noviembre, o el previsto en el artículo 35.2 de la Ley 24/2013, de 26 de diciembre.
+
+2.º Valor de inversión real realizada, debidamente auditada, desglosada por conceptos de coste y detallando las características técnicas relevantes para el cálculo de la retribución.
+
+3.º Declaración expresa de ayudas y aportaciones de fondos públicos o medidas de efecto equivalente.
+
+4.º Declaración de instalaciones cedidas y financiadas total o parcialmente por terceros.
+
+b) Comunicar a la Comisión Nacional de los Mercados y la Competencia aquellas instalaciones que sean objeto de transmisión de titularidad o causen baja, a efectos de su consideración en el régimen retributivo.
+
+c) Llevar una contabilidad individualizada para todas aquellas instalaciones que sean objeto de reconocimiento expreso de retribución.
+
+d) Remitir a la Comisión Nacional de Mercados y Competencia, antes del 1 de julio de cada ejercicio, el inventario auditado de instalaciones a fecha 31 de diciembre del año n-2 en formato electrónico de XML debidamente actualizado con altas, bajas y previsiones de las instalaciones que hayan entrado en servicio en ese año n-2. Este inventario actualizado deberá contener todos los parámetros técnicos y económicos necesarios para el cálculo de la retribución individualizada de cada una de las instalaciones que se encuentren en servicio, señalando si son nuevas, si han sufrido modificaciones respecto al inventario facilitado el año anterior o si no han sufrido modificación alguna. Asimismo, se remitirá fichero electrónico aparte en el que deberá constar qué instalaciones han causado baja respecto al inventario electrónico remitido el año anterior.
+
+2\. La Comisión Nacional de los Mercados y la Competencia dictará la circular pertinente para el desarrollo de la información regulatoria de costes y para la obtención de toda aquella información relativa a instalaciones de transporte que resulte necesaria para el cálculo de la retribución.
+
+Asimismo, las empresas titulares de instalaciones de transporte estarán obligadas a aportar información, en las condiciones que se determinen, con la finalidad de establecer los parámetros que se definen en esta circular y permitir la adecuada supervisión y control de su actividad.
+
+3\. Con carácter general, la información requerida que tenga efectos en el cálculo de la retribución estará sujeta a auditoría.
+
+4\. Con el fin de que toda la información aportada sobre la inversión realizada presente un carácter homogéneo, la Comisión Nacional de los Mercados y la Competencia establecerá mediante resolución los criterios que deberán seguirse para elaborar el informe de auditoría externa a que se hace referencia en el apartado 3 y toda aquella información auditada que resulte necesaria para el cálculo de la retribución.
+
+5\. El pago de los servicios de la empresa auditora será sufragado por cada una de las empresas auditadas.
+
+### Artículo 17. Inspecciones.
+
+De conformidad con el artículo 7.39 de la Ley 3/2013, de 4 de junio, la Comisión Nacional de los Mercados y la Competencia podrá realizar las inspecciones que considere oportunas con el fin de confirmar la veracidad de la información que, en cumplimiento de la presente circular, le sea aportada.
+
+Si como consecuencia de las inspecciones se detectan diferencias en la caracterización de las infraestructuras, sus parámetros básicos o en el cumplimiento de la admisibilidad de los costes declarados, se podrán modificar, a través del procedimiento correspondiente, los parámetros retributivos relativos a esas instalaciones mediante resolución de la Comisión Nacional de los Mercados y la Competencia.
+
+## CAPÍTULO VII — Otras disposiciones
+
+### Artículo 18. Ajuste retributivo por empleo de activos y recursos regulados en otras actividades.
+
+1\. En el caso de que los activos que son objeto de retribución conforme a esta circular sean empleados en la realización de actividades diferentes al transporte de electricidad, la retribución anual a percibir por parte de los sujetos transportistas se minorará teniendo en cuenta la contribución de tales activos a las referidas actividades.
+
+2\. A los efectos de esta minoración de la retribución, la Comisión Nacional de los Mercados y la Competencia determinará mediante resolución, adoptada previo trámite de audiencia, la metodología de ajuste retributivo a realizar. Esta metodología tendrá en cuenta, en todo caso, los costes directos e indirectos de los activos empleados, así como el coste en que, de no mediar el empleo de estos activos, se habría incurrido para poder realizar esas otras actividades. Asimismo, podrán tenerse en cuenta, entre otros factores, el ingreso por las actividades diferentes al transporte, la contribución a dicho ingreso realizada por los activos regulados o las circunstancias que puedan concurrir respecto de las cesiones del uso de los activos entre sociedades de un mismo grupo o terceras sociedades.
+
+3\. En ningún caso la realización de actividades diferentes al transporte puede suponer un coste adicional para las actividades con una metodología retributiva regulada.
+
+### Artículo 19. Prudencia financiera requerida a los titulares de activos de red de transporte.
+
+1\. A efectos de incorporar un principio de prudencia financiera requerido a los titulares de activos de red de transporte, se establece una penalización para las empresas cuyos ratios se sitúen fuera de los rangos de valores recomendables enunciados en el apartado quinto de la Comunicación 1/2019, de 23 de octubre, de la Comisión Nacional de los Mercados y la Competencia, de definición de ratios para valorar el nivel de endeudamiento y la capacidad económico-financiera de las empresas que realizan actividades reguladas, y de rangos de valores recomendables de los mismos.
+
+2\. La penalización será el resultado de aplicar la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/311/26676_16467857_2.png)
+
+Donde:
+
+n: es cada año del periodo regulatorio.
+
+PPF<sub>n</sub>: es el valor de la penalización en el año n, en euros.
+
+RA<sub>n</sub>: es la retribución anual del titular de activos de red en el año n, en euros, en los términos en los que se define en el artículo 5.
+
+IGR<sub>n</sub>: es el índice global de ratios del año n, definido en el apartado sexto de la Comunicación 1/2019, de 23 de octubre, de la Comisión Nacional de los Mercados y la Competencia, de definición de ratios para valorar el nivel de endeudamiento y la capacidad económico-financiera de las empresas que realizan actividades reguladas, y de rangos de valores recomendables de los mismos.
+
+3\. La penalización no será aplicable si se deriva de la existencia de saldos pendientes de liquidar al sistema eléctrico o de fianzas y depósitos pendientes de devolver a clientes que se hayan computado como deuda.
+
+4\. La penalización no será aplicable si el titular de activos de red de transporte forma parte de un grupo de sociedades en el que la matriz de dicho grupo también es titular de tales activos, y a nivel agregado o consolidado de dicha matriz y sus filiales titulares de activos de red, el IGR es superior o igual a 0,90.
+
+5\. El índice global de ratios del año n se determinará, para cada titular de activos de red de transporte, sobre sus datos relativos al ejercicio n-2, por resolución de la CNMC, previa audiencia a los interesados, en la que podrán alegar sobre los cálculos realizados y sobre la concurrencia de los supuestos recogidos en los apartados 3 y 4.
+
+> Se modifica el apartado 2 por el art. 2.7 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación de la modificación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+> Véase también la disposición adicional 2.3 en cuanto a la penalización establecida por este artículo en los tres primeros años del periodo regulatorio 2026-2031.
+
+### Artículo 20. Adelanto de inversiones previstas en la planificación.
+
+1\. Los sujetos previstos en el artículo 18.2 del Real Decreto 1047/2013, de 27 de diciembre, que por motivos sobrevenidos deseasen una fecha de puesta en servicio más temprana que la señalada en el instrumento de planificación o en su caso en el plan de inversiones aprobado por la Dirección General de Política Energética y Minas, y soliciten el adelanto de la construcción de dicha instalación, de acuerdo con lo establecido en el mencionado artículo, deberán hacerse cargo de la retribución de la instalación que le correspondería al transportista durante el periodo correspondiente derivado de la anticipación de la puesta en servicio. Esta retribución en ningún caso será superior a la que corresponda por aplicación de los valores unitarios vigentes a esta instalación.
+
+La instalación puesta en servicio en ningún caso, podrá percibir una retribución con cargo al sistema en una fecha anterior a la prevista para su puesta en servicio en el instrumento de planificación de la red de transporte.
+
+2\. La fecha prevista de obtención de la autorización de explotación que figurase en la planificación de la red de transporte, o en el programa anual si esta se hubiera modificado, será la equivalente a efectos retributivos a la de obtención de la autorización de explotación, por lo que dicha instalación comenzará a devengar retribución con cargo al sistema el 1 de enero del año n+2 siendo n el año de obtención de la autorización de explotación previsto en los documentos antes señalados.
+
+El valor de inversión a reconocer será el resultante de restar la amortización acumulada entre la fecha de puesta en servicio de la instalación y aquella prevista en el instrumento de planificación correspondiente, a la valoración de la instalación realizada conforme a valores unitarios vigentes.
+
+Asimismo, la vida útil residual de esta instalación será la diferencia entre la que corresponda a una instalación de esas características y los años transcurridos desde su fecha de obtención de la autorización de explotación hasta la fecha de puesta en servicio prevista en el instrumento de planificación correspondiente.
+
+> Se añade por el art. 2.8 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+## CAPÍTULO VIII — Instalaciones tipo y valores unitarios de referencia
+
+> Se añade por el art. 2.9 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+### Artículo 21. Instalaciones tipo y valores unitarios de referencia de inversión y de operación y mantenimiento por elemento de inmovilizado aplicables a las instalaciones de transporte de energía eléctrica.
+
+1\. Las instalaciones tipo que serán aplicables a las instalaciones de transporte de energía eléctrica son las que figuran en el anexo II.
+
+2\. Los valores unitarios de referencia de inversión por elemento de inmovilizado que serán aplicables a las instalaciones de transporte de energía eléctrica son los que figuran en los anexos III, IV, V y VI, según el territorio en que estén ubicadas.
+
+3\. Los valores unitarios de referencia de operación y mantenimiento por elemento de inmovilizado que serán aplicables a las instalaciones de transporte de energía eléctrica son los que figuran en los anexos VII, VIII, IX y X, según el territorio en que estén ubicadas.
+
+> Se añade por el art. 2.9 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+### Disposición adicional primera. Periodo regulatorio de aplicación.
+
+El primer periodo de aplicación de la metodología de retribución recogida en la presente circular transcurrirá entre el 1 de enero de 2020 y el 31 de diciembre de 2025.
+
+### Disposición adicional segunda. Particularidades del periodo 2020-2025.
+
+1\. El valor del parámetro al que se hace referencia en el artículo 8, definido como el parámetro que representa el reparto entre las empresas transportistas y el sistema de la diferencia entre los costes calculados según los valores unitarios de referencia del periodo regulatorio precedente y los vigentes en el nuevo periodo regulatorio, tomará el valor de 0,5 para el periodo 2020-2025.
+
+2\. El valor de la disponibilidad objetivo a que se hace referencia en el artículo 15, denominada, D<sub>objetivo–periodo,</sub> tomará un valor de 98,5 para el periodo 2020-2025.
+
+### Disposición adicional tercera. Aplicación gradual de la penalización para procurar la prudencia financiera.
+
+La penalización establecida en el artículo 19 no será aplicable hasta el cuarto año del primer periodo de aplicación de la metodología, a efectos de posibilitar la adaptación de las empresas a los rangos de valores recomendables.
+
+### Disposición adicional cuarta. Tasa de retribución financiera TRF<sub>p</sub>.
+
+En el primer año del primer periodo de aplicacion de la metodología (retribución del ejercicio 2020) la tasa de retribución financiera TRF<sub>p</sub> tomará el valor 6,0033 por ciento.
+
+### Disposición transitoria única. Cuantificación del ajuste retributivo derivado del empleo de activos en actividades diferentes al transporte.
+
+Hasta que se apruebe la resolución a la que alude el artículo 18, se considerará el cincuenta por ciento de los ingresos anuales obtenidos por el grupo en la realización de actividades diferentes al transporte de electricidad que empleen activos afectados a la actividad de transporte eléctrico a los efectos de minorar el valor anual de la retribución.
+
+No obstante, este ajuste se regularizará si, de la resolución a que alude el artículo 18, resultase un porcentaje inferior de ingresos a considerar.
+
+### Disposición final única. Entrada en vigor.
+
+La presente circular entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 5 de diciembre de 2019.–El Presidente de la Comisión Nacional de los Mercados y la Competencia, José María Marín Quemada.
+
+## ANEXO I — Familias de instalaciones de transporte
+
+Tendrán la consideración de familias a los efectos de cálculo de la retribución por operación y mantenimiento, las instalaciones que tengan la consideración de transporte que se encuadren dentro de las tipologías definidas en este anexo.
+
+Asimismo, a los efectos de cálculo del incentivo de disponibilidad de la red de transporte, desarrollado en el capítulo VI de la presente circular, se tendrán en cuenta las instalaciones que tengan la consideración de transporte y que se encuadren dentro de las tipologías siguientes, salvo las posiciones, tanto convencionales como las blindadas y móviles.
+
+– Líneas aéreas a 400 kV.
+
+– Líneas aéreas a 220 kV.
+
+– Líneas aéreas a 132 kV.
+
+– Líneas aéreas a 66 kV.
+
+– Líneas subterráneas a 220 kV.
+
+– Líneas subterráneas a 132 kV.
+
+– Líneas subterráneas a 66 kV.
+
+– Posiciones Convencionales 400 kV.
+
+– Posiciones Convencionales 220 kV.
+
+– Posiciones Convencionales 132 kV.
+
+– Posiciones Convencionales 66 kV.
+
+– Posiciones Blindadas 400 kV.
+
+– Posiciones Blindadas 220 kV.
+
+– Posiciones Blindadas 132 kV.
+
+– Posiciones Blindadas 66 kV.
+
+– Posiciones Móviles 220 kV.
+
+– Posiciones Móviles 220 kV.
+
+– Posiciones Móviles 132 kV.
+
+– Posiciones Móviles 66 kV.
+
+– Transformadores con primario a 400 kV.
+
+– Transformadores 220/132 kV.
+
+– Transformadores 220/66 kV.
+
+– Transformadores 132/66 kV.
+
+– Reactancias 400 kV.
+
+– Reactancias 220 kV.
+
+– Reactancias 132 kV.
+
+– Reactancias 66 kV.
+
+– Condensadores 400 kV.
+
+– Condensadores 220 kV.
+
+– Condensadores 132 kV.
+
+– Condensadores 66 kV.
+
+> Se numera como Anexo I por el art. 2.10 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Su anterior denominación era Anexo.
+
+## ANEXO II — Instalaciones tipo
+
+| Código | Descripción |
+|---|---|
+| TI-001P | 400 kV (dúplex) Simple circuito. |
+| TI-002P | 400 kV (dúplex) Doble circuito. |
+| TI-003P | 400 kV (dúplex) Cuádruple circuito. |
+| TI-004P | 400 kV (tríplex) Simple circuito. |
+| TI-005P | 400 kV (triplex) Doble circuito. |
+| TI-006P | 400 kV (triplex) Cuádruple circuito. |
+| TI-007P | 220 kV (simplex) Simple circuito. |
+| TI-008P | 220 kV (simplex) Doble circuito. |
+| TI-009P | 220 kV (dúplex) Simple circuito. |
+| TI-010P | 220 kV (dúplex) Doble circuito. |
+| TI-011P | 220 kV (dúplex) Cuádruple circuito. |
+| TI-012P | 220 kV Simple circuito de Cu de 1.100 mm<sup>2</sup> de sección. |
+| TI-013P | 220 kV Doble circuito de Cu de 1.100 mm<sup>2</sup> de sección. |
+| TI-014P | 220 kV Simple circuito de Cu de 2.000 mm<sup>2</sup> de sección. |
+| TI-015P | 220 kV Doble circuito de Cu de 2.000 mm<sup>2</sup> de sección. |
+| TI-016P | 220 kV Simple circuito de Cu de 2.500 mm<sup>2</sup> de sección. |
+| TI-017P | 220 kV Doble circuito de Cu de 2.500 mm<sup>2</sup> de sección. |
+| TI-018P | 220 kV Simple circuito de Al de 630 mm<sup>2</sup> de sección. |
+| TI-019P | 220 kV Doble circuito de Al de 630 mm<sup>2</sup> de sección. |
+| TI-020P | 220 kV Simple circuito de Al de 1.200 mm<sup>2</sup> de sección. |
+| TI-021P | 220 kV Doble circuito de Al de 1.200 mm<sup>2</sup> de sección. |
+| TI-022P | 220 kV Simple circuito de Al de 2.000 mm<sup>2</sup> de sección. |
+| TI-023P | 220 kV Doble circuito de Al de 2.000 mm<sup>2</sup> de sección. |
+| TI-024B | 220 kV (dúplex) Simple Circuito. |
+| TI-025B | 220 kV (dúplex) Doble Circuito. |
+| TI-026B | 220 kV (simplex) Simple Circuito. |
+| TI-027B | 220 kV (simplex) Doble Circuito. |
+| TI-028B | 132 kV (simplex) Simple Circuito. |
+| TI-029B | 132 kV (simplex) Doble Circuito. |
+| TI-030B | 66 kV (simplex) Simple Circuito. |
+| TI-031B | 66 kV (simplex) Doble Circuito. |
+| TI-091B | 220 kV Simple circuito de Cu 2.000 mm<sup>2</sup> de sección. |
+| TI-032B | 220 kV Doble circuito de Cu 2.000 mm<sup>2</sup> de sección. |
+| TI-033B | 220 kV Simple circuito de Cu 1.100 mm<sup>2</sup> de sección. |
+| TI-034B | 220 kV Doble circuito de Cu 1.100 mm<sup>2</sup> de sección. |
+| TI-035B | 220 kV Simple circuito de Al 630 mm<sup>2</sup> de sección. |
+| TI-036B | 220 kV Doble circuito de Al 630 mm<sup>2</sup> de sección. |
+| TI-037B | 220 kV Simple circuito de Al 2.000 mm<sup>2</sup> de sección. |
+| TI-038B | 220 kV Doble circuito de Al 2.000 mm<sup>2</sup> de sección. |
+| TI-039B | 220 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. |
+| TI-040B | 220 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. |
+| TI-041B | 132 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. |
+| TI-042B | 132 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. |
+| TI-043B | 66 kV Simple circuito de Al 1.000 mm<sup>2</sup> de sección. |
+| TI-044B | 66 kV Doble circuito de Al 1.000 mm<sup>2</sup> de sección. |
+| TI-045C | 220 kV (dúplex) Simple Circuito. |
+| TI-046C | 220 kV (dúplex) Doble Circuito. |
+| TI-047C | 220 kV (simplex) Simple Circuito. |
+| TI-048C | 220 kV (simplex) Doble Circuito. |
+| TI-049C | 132 kV (simplex) Simple Circuito. |
+| TI-050C | 132 kV (simplex) Doble Circuito. |
+| TI-051C | 66 kV (simplex) Simple Circuito. |
+| TI-052C | 66 kV (simplex) Doble Circuito. |
+| TI-053C | 220 kV Simple circuito de Cu 2.000 mm<sup>2</sup> de sección. |
+| TI-054C | 220 kV Doble circuito de Cu 2.000 mm<sup>2</sup> de sección. |
+| TI-055C | 220 kV Simple circuito de Cu 1.100 mm<sup>2</sup> de sección. |
+| TI-056C | 220 kV Doble circuito de Cu 1.100 mm<sup>2</sup> de sección. |
+| TI-057C | 220 kV Simple circuito de Al 630 mm<sup>2</sup> de sección. |
+| TI-058C | 220 kV Doble circuito de Al 630 mm<sup>2</sup> de sección. |
+| TI-059C | 220 kV Simple circuito de Al 2.000 mm<sup>2</sup> de sección. |
+| TI-060C | 220 kV Doble circuito de Al 2.000 mm<sup>2</sup> de sección. |
+| TI-061C | 220 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. |
+| TI-062C | 220 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. |
+| TI-063C | 132 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. |
+| TI-064C | 132 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. |
+| TI-065C | 66 kV Simple circuito de Al 1.000 mm<sup>2</sup> de sección. |
+| TI-066C | 66 kV Doble circuito de Al 1.000 mm<sup>2</sup> de sección. |
+| TI-067DI | 220 kV (dúplex) Simple Circuito. |
+| TI-068DI | 220 kV (dúplex) Doble Circuito. |
+| TI-069DI | 220 kV (simplex) Simple Circuito. |
+| TI-070DI | 220 kV (simplex) Doble Circuito. |
+| TI-071DI | 132 kV (simplex) Simple Circuito. |
+| TI-072DI | 132 kV (simplex) Doble Circuito. |
+| TI-073DI | 66 kV (simplex) Simple Circuito. |
+| TI-074DI | 66 kV (simplex) Doble Circuito. |
+| TI-075DI | 220 kV Simple circuito de Cu 2.000 mm<sup>2</sup> de sección. |
+| TI-076DI | 220 kV Doble circuito de Cu 2.000 mm<sup>2</sup> de sección. |
+| TI-077DI | 220 kV Simple circuito de Cu 1.100 mm<sup>2</sup> de sección. |
+| TI-078DI | 220 kV Doble circuito de Cu 1.100 mm<sup>2</sup> de sección. |
+| TI-079DI | 220 kV Simple circuito de Al 630 mm<sup>2</sup> de sección. |
+| TI-080DI | 220 kV Doble circuito de Al 630 mm<sup>2</sup> de sección. |
+| TI-081DI | 220 kV Simple circuito de Al 2.000 mm<sup>2</sup> de sección. |
+| TI-082DI | 220 kV Doble circuito de Al 2.000 mm<sup>2</sup> de sección. |
+| TI-083DI | 220 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. |
+| TI-084DI | 220 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. |
+| TI-085DI | 132 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. |
+| TI-086DI | 132 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. |
+| TI-087DI | 66 kV Simple circuito de Al 1.000 mm<sup>2</sup> de sección. |
+| TI-088DI | 66 kV Doble circuito de Al 1.000 mm<sup>2</sup> de sección. |
+
+| Código | Descripción |
+|---|---|
+| TI-090P | Convencional 400 kV, 50 kA, todas las configuraciones. |
+| TI-091P | Convencional 220 kV, 40 kA, Interruptor y medio. |
+| TI-092P | Convencional 220 kV, 40 kA, resto de configuraciones. |
+| TI-093P | Blindada 400 kV, 63 kA, todas las configuraciones. |
+| TI-094P | Blindada 400 kV, 63 kA, con fluoductos. |
+| TI-095P | Blindada 220 kV, 40 kA, en edificio, todas las configuraciones. |
+| TI-096P | Blindada 220 kV, 40 kA, en edificio, todas las configuraciones, con fluoductos. |
+| TI-097P | Blindada 220 kV, 50 kA, en edificio, todas las configuraciones. |
+| TI-098P | Blindada 220 kV, 50 kA, en edificio, todas las configuraciones, con fluoductos. |
+| TI-099P | Blindada 220 kV, 63 kA, en edificio, todas las configuraciones. |
+| TI-100P | Blindada 220 kV, 63 kA, en edificio, todas las configuraciones, con fluoductos. |
+| TI-101P | Blindada 220 kV, 50 kA, en intemperie, todas las configuraciones. |
+| TI-102P | Blindada 220 kV, 50 kA, en intemperie, todas las configuraciones, con fluoductos. |
+| TI-103P | Blindada 220 kV, 63 kA, en intemperie, todas las configuraciones. |
+| TI-104P | Blindada 220 kV, 63 kA, en intemperie, todas las configuraciones, con fluoductos. |
+| TI-105P | Móvil 400 kV, todas las configuraciones. |
+| TI-106P | Móvil 220 kV, todas las configuraciones. |
+| TI-107B | Convencional 220 kV, 40 kA, Interruptor y medio. |
+| TI-108B | Convencional 220 kV, 40 kA, resto configuraciones. |
+| TI-109B | Convencional 132 kV, 31,5 kA. |
+| TI-110B | Convencional 66 kV, 31,5 kA. |
+| TI-111B | Blindada 220 kV en edificio, 40 kA. |
+| TI-112B | Blindada 220 kV en edificio, 40 kA, con fluoductos. |
+| TI-113B | Blindada 132 kV, 31,5 kA. |
+| TI-114B | Blindada 66 kV, 31,5 kA. |
+| TI-115B | Móvil 220 kV, todas las configuraciones. |
+| TI-116B | Móvil 132 kV, todas las configuraciones. |
+| TI-117B | Móvil 66 kV, todas las configuraciones. |
+| TI-118C | Convencional 220 kV, 40 kA, Interruptor y medio. |
+| TI-119C | Convencional 220 kV, 40 kA, resto configuraciones. |
+| TI-139C | Convencional 132 kV, 31,5 kA. |
+| TI-120C | Convencional 66 kV, 31,5 kA. |
+| TI-121C | Blindada 220 kV en edificio, 40 kA. |
+| TI-122C | Blindada 220 kV en edificio, 40 kA, con fluoductos. |
+| TI-123C | Blindada 132 kV, 31,5 kA. |
+| TI-124C | Blindada 66 kV, 31,5 kA. |
+| TI-125C | Móvil 220 kV, todas las configuraciones. |
+| TI-126C | Móvil 132 kV, todas las configuraciones. |
+| TI-127C | Móvil 66 kV, todas las configuraciones. |
+| TI-128DI | Convencional 220 kV, 40 kA, Interruptor y medio. |
+| TI-129DI | Convencional 220 kV, 40 kA, resto configuraciones. |
+| TI-130DI | Convencional 132 kV, 31,5 kA. |
+| TI-131DI | Convencional 66 kV, 31,5 kA. |
+| TI-132DI | Blindada 220 kV en edificio, 40 kA. |
+| TI-133DI | Blindada 220 kV en edificio, 40 kA, con fluoductos. |
+| TI-134DI | Blindada 132 kV, 31,5 kA. |
+| TI-135DI | Blindada 66 kV, 31,5 kA. |
+| TI-136DI | Móvil 220 kV, todas las configuraciones. |
+| TI-137DI | Móvil 132 kV, todas las configuraciones. |
+| TI-138DI | Móvil 66 kV, todas las configuraciones. |
+
+| Código | Descripción |
+|---|---|
+| TI-140P | Transformadores monofásicos (400/220 kV). |
+| TI-141P | Transformadores trifásicos (400/220/132 kV). |
+| TI-142P | Reactancias (400 o 220 kV). |
+| TI-143P | Condensadores (400 o 220 kV). |
+| TI-144B | Transformador (220/132 kV). |
+| TI-145B | Transformador (220/66 kV). |
+| TI-146B | Transformador (132/66 kV). |
+| TI-147B | Reactancias (220 kV). |
+| TI-148B | Reactancias (132 kV). |
+| TI-149B | Reactancias (66 kV). |
+| TI-150B | Condensadores (66 kV). |
+| TI-151C | Transformador (220/132 kV). |
+| TI-152C | Transformador (220/66 kV). |
+| TI-153C | Transformador (132/66 kV). |
+| TI-154C | Reactancias (220 kV). |
+| TI-155C | Reactancias (132 kV). |
+| TI-156C | Reactancias (66 kV). |
+| TI-157C | Condensadores (66 kV). |
+| TI-158DI | Transformador (220/132 kV). |
+| TI-159DI | Transformador (220/66 kV). |
+| TI-160DI | Transformador (132/66 kV). |
+| TI-161DI | Reactancias (220 kV). |
+| TI-162DI | Reactancias (132 kV). |
+| TI-163DI | Reactancias (66 kV). |
+| TI-164DI | Condensadores (66 kV). |
+
+| Código | Descripción |
+|---|---|
+| TI-089P | Líneas singulares ubicadas en territorio peninsular. |
+| TI-090B | Líneas singulares ubicadas en las islas Baleares. |
+| TI-090C | Líneas singulares ubicadas en las islas de Tenerife y Gran Canaria. |
+| TI-090DI | Líneas singulares ubicadas en el resto de islas pertenecientes a las islas Canarias. |
+| TI-165P | Máquinas singulares instaladas en territorio peninsular. |
+| TI-165B | Máquinas singulares instaladas en las islas Baleares. |
+| TI-165C | Máquinas singulares instaladas en Tenerife y Gran Canaria. |
+| TI-165DI | Máquinas singulares instaladas en el resto de islas Canarias. |
+
+| Código | Descripción |
+|---|---|
+| TI-166 | Compensador estático síncrono (STATCOM). |
+| TI-167 | Compensador Var estáticos (SVC). |
+| TI-168 | Reactor con control de tiristor (TCR). |
+| TI-169 | Reactancia conmutada por tiristor (TSR). |
+| TI-170 | Condensador conmutado por tiristor (TSC). |
+| TI-171 | Resistencia de frenado controlada por tiristor (TCR). |
+| TI-172 | Compensador estático síncrono en serie (SSSC). |
+| TI-173 | Condensador en serie controlado por tiristor (TCSC). |
+| TI-174 | Condensador en serie conmutado por tiristor (TSSC). |
+| TI-175 | Compensador síncrono (CS). |
+| TI-176 | Reactancia en serie controlada por tiristor (TCSR). |
+| TI-177 | Reactor en serie conmutado por tiristor (TSSR). |
+| TI-178 | Controlador de línea de sobrecarga (CLS). |
+| TI-179 | Transformador desfasador controlado por tiristor (TCPST). |
+| TI-180 | Regulador de ángulo de fase controlado por tiristor (TCPR). |
+| TI-181 | Controlador unificado de flujo de potencia (UPFC). |
+| TI-182 | Controlador de flujo de potencia interlínea (IPFC). |
+| TI-183 | Capacidad dinámica de línea (DLR). |
+| TI-184 | Equipos de autonomía 24 h. |
+| TI-185 | Adecuación de subestación a Procedimientos de Operación. |
+| TI-186 | STATCOM híbridos (STATCOMh). |
+| TI-187 | Transformador desfasador (TD). |
+| TI-188 | Reactancia por etapa (RPE). |
+| TI-189 | Sistemas de almacenamiento (Baterías integradas en la red de transporte). |
+| TI-190 | Nuevas líneas con conductor de alta temperatura y/o baja flecha. |
+| TI-191 | Posiciones con tecnologías libres de SF<sub>6</sub>. |
+
+> Se añade por el art. 2.10 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+## ANEXO III — Valores unitarios de referencia de inversión por elemento de inmovilizado para las instalaciones de transporte de energía eléctrica ubicadas en el territorio peninsular
+
+Valores unitarios de referencia de inversión para líneas aéreas
+
+| Código | Líneas aéreas de longitud mayor o igual a 10 km | Término variable<br>–<br>Euros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-001P | 400 kV (dúplex) Simple circuito. | 339.622 | – |
+| TI-002P | 400 kV (dúplex) Doble circuito. | 574.744 | – |
+| TI-003P | 400 kV (dúplex) Cuádruple circuito. | 1.149.489 | – |
+| TI-004P | 400 kV (triplex) Simple circuito. | 424.527 | – |
+| TI-005P | 400 kV (triplex) Doble circuito. | 648.481 | – |
+| TI-006P | 400 kV (triplex) Cuádruple circuito. | 1.436.861 | – |
+| TI-007P | 220 kV (simplex) Simple circuito. | 287.413 | – |
+| TI-008P | 220 kV (simplex) Doble circuito. | 486.391 | – |
+| TI-009P | 220 kV (dúplex) Simple circuito. | 309.045 | – |
+| TI-010P | 220 kV (dúplex) Doble circuito. | 523.001 | – |
+| TI-011P | 220 kV (dúplex) Cuádruple circuito. | 1.046.001 | – |
+
+| Código | Líneas aéreas de longitud menor a 10 km | Término variable<br>–<br>Euros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-001P | 400 kV (dúplex) Simple circuito. | 305.361 | 342.612 |
+| TI-002P | 400 kV (dúplex) Doble circuito. | 516.763 | 579.805 |
+| TI-003P | 400 kV (dúplex) Cuádruple circuito. | 940.956 | 2.085.333 |
+| TI-004P | 400 kV (triplex) Simple circuito. | 347.512 | 770.151 |
+| TI-005P | 400 kV (triplex) Doble circuito. | 518.148 | 1.303.333 |
+| TI-006P | 400 kV (triplex) Cuádruple circuito. | 1.176.194 | 2.606.666 |
+| TI-007P | 220 kV (simplex) Simple circuito. | 238.803 | 486.094 |
+| TI-008P | 220 kV (simplex) Doble circuito. | 420.326 | 660.650 |
+| TI-009P | 220 kV (dúplex) Simple circuito. | 256.777 | 522.682 |
+| TI-010P | 220 kV (dúplex) Doble circuito. | 451.963 | 710.376 |
+| TI-011P | 220 kV (dúplex) Cuádruple circuito. | 869.093 | 1.769.080 |
+
+| Tendido de circuitos en fases | Porcentaje sobre su unitarios correspondiente |
+|---|---|
+| Tendido 1.<sup>er</sup> circuito con apoyos para dos. | 80 |
+| Tendido 2.º circuito con apoyos para dos. | 30 |
+
+| Aumentos de capacidad | Término variable<br>–<br>Euros/MVA y km |
+|---|---|
+| 400 kV (€/MVA y km línea). | 40 |
+| 220 kV (€/MVA y km línea). | 214 |
+
+Valores unitarios de referencia de inversión para líneas subterráneas
+
+| Código | Líneas subterráneas de longitud mayor o igual a 2,2 km | Término variable<br>–<br>Euros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-012P | 220 kV Simple circuito de Cu de 1.100 mm<sup>2</sup> de sección. | 1.802.928 | – |
+| TI-013P | 220 kV Doble circuito de Cu de 1.100 mm<sup>2</sup> de sección. | 3.505.660 | – |
+| TI-014P | 220 kV Simple circuito de Cu de 2.000 mm<sup>2</sup> de sección. | 2.389.421 | – |
+| TI-015P | 220 kV Doble circuito de Cu de 2.000 mm<sup>2</sup> de sección. | 4.437.545 | – |
+| TI-016P | 220 kV Simple circuito de Cu de 2.500 mm<sup>2</sup> de sección. | 2.729.011 | – |
+| TI-017P | 220 kV Doble circuito de Cu de 2.500 mm<sup>2</sup> de sección. | 5.375.876 | – |
+| TI-018P | 220 kV Simple circuito de Al de 630 mm<sup>2</sup> de sección. | 935.697 | – |
+| TI-019P | 220 kV Doble circuito de Al de 630 mm<sup>2</sup> de sección. | 1.819.393 | – |
+| TI-020P | 220 kV Simple circuito de Al de 1.200 mm<sup>2</sup> de sección. | 1.095.449 | – |
+| TI-021P | 220 kV Doble circuito de Al de 1.200 mm<sup>2</sup> de sección. | 2.161.911 | – |
+| TI-022P | 220 kV Simple circuito de Al de 2.000 mm<sup>2</sup> de sección. | 1.574.708 | – |
+| TI-023P | 220 kV Doble circuito de Al de 2.000 mm<sup>2</sup> de sección. | 3.061.906 | – |
+
+| Código | Líneas subterráneas de longitud menor a 2,2 km | Término variable<br>–<br>Euros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-012P | 220 kV Simple circuito de Cu de 1.100 mm<sup>2</sup> de sección. | 1.300.288 | 1.105.808 |
+| TI-013P | 220 kV Doble circuito de Cu de 1.100 mm<sup>2</sup> de sección. | 2.647.886 | 1.887.104 |
+| TI-014P | 220 kV Simple circuito de Cu de 2.000 mm<sup>2</sup> de sección. | 2.004.401 | 847.044 |
+| TI-015P | 220 kV Doble circuito de Cu de 2.000 mm<sup>2</sup> de sección. | 3.780.493 | 1.445.515 |
+| TI-016P | 220 kV Simple circuito de Cu de 2.500 mm<sup>2</sup> de sección. | 2.087.058 | 1.412.296 |
+| TI-017P | 220 kV Doble circuito de Cu de 2.500 mm<sup>2</sup> de sección. | 4.278.116 | 2.415.073 |
+| TI-018P | 220 kV Simple circuito de Al de 630 mm<sup>2</sup> de sección. | 674.833 | 573.900 |
+| TI-019P | 220 kV Doble circuito de Al de 630 mm<sup>2</sup> de sección. | 1.374.218 | 979.384 |
+| TI-020P | 220 kV Simple circuito de Al de 1.200 mm<sup>2</sup> de sección. | 790.048 | 671.882 |
+| TI-021P | 220 kV Doble circuito de Al de 1.200 mm<sup>2</sup> de sección. | 1.640.731 | 1.146.595 |
+| TI-022P | 220 kV Simple circuito de Al de 2.000 mm<sup>2</sup> de sección. | 1.135.694 | 965.832 |
+| TI-023P | 220 kV Doble circuito de Al de 2.000 mm<sup>2</sup> de sección. | 2.312.711 | 1.648.231 |
+
+Valores unitarios de referencia de inversión para posiciones
+
+| Código | Posiciones convencionales | Término<br>–<br>Euros/posición |
+|---|---|---|
+| TI-090P | Convencional 400 kV, 50 kA, todas las configuraciones. | 1.075.226 |
+| TI-091P | Convencional 220 kV, 40 kA, Interruptor y medio. | 706.083 |
+| TI-092P | Convencional 220 kV, 40 kA, resto de configuraciones. | 751.256 |
+
+| Código | Posiciones blindadas | Término<br>–<br>Euros/posición |
+|---|---|---|
+| TI-093P | Blindada 400 kV, 63 kA, todas las configuraciones. | 2.311.560 |
+| TI-094P | Blindada 400 kV, 63 kA, con fluoductos. | 2.889.450 |
+| TI-095P | Blindada 220 kV, 40 kA, en edificio, todas las configuraciones. | 567.175 |
+| TI-096P | Blindada 220 kV, 40 kA, en edificio, todas las configuraciones, con fluoductos. | 629.107 |
+| TI-097P | Blindada 220 kV, 50 kA, en edificio, todas las configuraciones. | 1.002.661 |
+| TI-098P | Blindada 220 kV, 50 kA, en edificio, todas las configuraciones, con fluoductos. | 1.112.145 |
+| TI-099P | Blindada 220 kV, 63 kA, en edificio, todas las configuraciones. | 1.524.699 |
+| TI-100P | Blindada 220 kV, 63 kA, en edificio, todas las configuraciones, con fluoductos. | 1.905.874 |
+| TI-101P | Blindada 220 kV, 50 kA, en intemperie, todas las configuraciones. | 1.193.242 |
+| TI-102P | Blindada 220 kV, 50 kA, en intemperie, todas las configuraciones, con fluoductos. | 1.491.553 |
+| TI-103P | Blindada 220 kV, 63 kA, en intemperie, todas las configuraciones. | 1.372.229 |
+| TI-104P | Blindada 220 kV, 63 kA, en intemperie, todas las configuraciones, con fluoductos. | 1.715.286 |
+
+| Código | Posiciones móviles | Término<br>–<br>Euros/posición |
+|---|---|---|
+| TI-105P | Móvil 400 kV, todas las configuraciones. | 2.512.565 |
+| TI-106P | Móvil 220 kV, todas las configuraciones. | 1.023.124 |
+
+| Posiciones de reserva convencionales | Porcentaje sobre unitario correspondiente |
+|---|---|
+| Posición de reserva sin equipar (Convencional) 400 kV. | 41,40 |
+| Posición de reserva sin equipar (Convencional) 220 kV. | 33,50 |
+| Equipamiento de posición de reserva (Convencional) 400 kV. | 58,60 |
+| Equipamiento de posición de reserva (Convencional) 220 kV. | 66,50 |
+
+| Posiciones de reserva blindadas | Porcentaje sobre unitario correspondiente |
+|---|---|
+| Posición de reserva sin equipar (Blindada) 400 kV. | 21,60 |
+| Equipamiento de posición de reserva (Blindada) 400 kV. | 78,40 |
+| Posición de reserva sin equipar (Blindada) 220 kV. | 48,50 |
+| Equipamiento de posición de reserva (Blindada) 220 kV. | 51,50 |
+
+Valores unitarios de referencia de inversión para máquinas
+
+| Código | Máquinas de potencia | Término variable<br>–<br>Euros/MVA |
+|---|---|---|
+| TI-140P | Transformadores monofásicos (400/220 kV). | 11.802 |
+| TI-141P | Transformadores trifásicos (400/220/132 kV). | 11.755 |
+
+| Código | Máquinas de compensación de reactiva | Término variable<br>–<br>Euros/MVAr |
+|---|---|---|
+| TI-142P | Reactancias (400 o 220 kV). | 15.421 |
+| TI-143P | Condensadores (400 o 220 kV). | 19.613 |
+
+> Se añade por el art. 2.10 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+## ANEXO IV — Valores unitarios de referencia de inversión por elemento de inmovilizado para las instalaciones de transporte de energía eléctrica ubicadas en las Islas Baleares
+
+Valores unitarios de referencia de inversión para líneas aéreas
+
+| Código | Líneas aéreas de longitud mayor o igual a 10 km | Término variable<br>–<br>Euros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-024B | 220 kV (dúplex) Simple Circuito. | 402.506 | – |
+| TI-025B | 220 kV (dúplex) Doble Circuito. | 681.163 | – |
+| TI-026B | 220 kV (simplex) Simple Circuito. | 374.329 | – |
+| TI-027B | 220 kV (simplex) Doble Circuito. | 633.480 | – |
+| TI-028B | 132 kV (simplex) Simple Circuito. | 339.814 | – |
+| TI-029B | 132 kV (simplex) Doble Circuito. | 498.392 | – |
+| TI-030B | 66 kV (simplex) Simple Circuito. | 269.022 | – |
+| TI-031B | 66 kV (simplex) Doble Circuito. | 394.566 | – |
+
+| Código | Líneas aéreas de longitud menor a 10 km | Término variable<br>–<br>Euos/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-024B | 220 kV (dúplex) Simple Circuito. | 334.431 | 680.748 |
+| TI-025B | 220 kV (dúplex) Doble Circuito. | 590.967 | 901.951 |
+| TI-026B | 220 kV (simplex) Simple Circuito. | 311.020 | 633.096 |
+| TI-027B | 220 kV (simplex) Doble Circuito. | 549.599 | 838.814 |
+| TI-028B | 132 kV (simplex) Simple Circuito. | 284.292 | 555.211 |
+| TI-029B | 132 kV (simplex) Doble Circuito. | 416.962 | 814.309 |
+| TI-030B | 66 kV (simplex) Simple Circuito. | 226.251 | 427.708 |
+| TI-031B | 66 kV (simplex) Doble Circuito. | 331.835 | 627.305 |
+
+| Tendido de circuitos en fases | Porcentaje sobre su unitarios correspondiente |
+|---|---|
+| Tendido 1er circuito con apoyos para dos. | 85 |
+| Tendido 2.º circuito con apoyos para dos. | 25 |
+
+| Aumentos de capacidad | Término variable<br>–<br>Euos/MVA y km |
+|---|---|
+| 220 kV (€/MVA y km de línea). | 209 |
+| 132 kV (€/MVA y km de línea). | 1.247 |
+| 66 kV (€/MVA y km de línea). | 3.134 |
+
+Valores unitarios de referencia de inversión para líneas subterráneas
+
+| Código | Líneas subterráneas de longitud mayor o igual a 2,2 km | Término variable<br>–<br>Euros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-091B | 220 kV Simple circuito de Cu 2.000 mm<sup>2</sup> de sección. | 2.860.206 | – |
+| TI-032B | 220 kV Doble circuito de Cu 2.000 mm<sup>2</sup> de sección. | 5.578.146 | – |
+| TI-033B | 220 kV Simple circuito de Cu 1.100 mm<sup>2</sup> de sección. | 2.166.940 | – |
+| TI-034B | 220 kV Doble circuito de Cu 1.100 mm<sup>2</sup> de sección. | 4.406.736 | – |
+| TI-035B | 220 kV Simple circuito de Al 630 mm<sup>2</sup> de sección. | 1.124.615 | – |
+| TI-036B | 220 kV Doble circuito de Al 630 mm<sup>2</sup> de sección. | 2.287.040 | – |
+| TI-037B | 220 kV Simple circuito de Al 2.000 mm<sup>2</sup> de sección. | 1.892.644 | – |
+| TI-038B | 220 kV Doble circuito de Al 2.000 mm<sup>2</sup> de sección. | 3.848.922 | – |
+| TI-039B | 220 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. | 1.316.623 | – |
+| TI-040B | 220 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. | 2.677.511 | – |
+| TI-041B | 132 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. | 1.307.871 | – |
+| TI-042B | 132 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. | 2.562.515 | – |
+| TI-043B | 66 kV Simple circuito de Al 1.000 mm<sup>2</sup> de sección. | 1.003.926 | – |
+| TI-044B | 66 kV Doble circuito de Al 1.000 mm<sup>2</sup> de sección. | 1.889.018 | – |
+
+| Código | Líneas subterráneas de longitud menor a 2,2 km | Término variable<br>–<br>Euros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-091B | 220 kV Simple circuito de Cu 2.000 mm<sup>2</sup> de sección. | 2.399.011 | 1.014.630 |
+| TI-032B | 220 kV Doble circuito de Cu 2.000 mm<sup>2</sup> de sección. | 4.754.995 | 1.810.932 |
+| TI-033B | 220 kV Simple circuito de Cu 1.100 mm<sup>2</sup> de sección. | 1.562.816 | 1.329.072 |
+| TI-034B | 220 kV Doble circuito de Cu 1.100 mm<sup>2</sup> de sección. | 3.328.483 | 2.372.155 |
+| TI-035B | 220 kV Simple circuito de Al 630 mm<sup>2</sup> de sección. | 811.082 | 689.772 |
+| TI-036B | 220 kV Doble circuito de Al 630 mm<sup>2</sup> de sección. | 1.727.441 | 1.231.118 |
+| TI-037B | 220 kV Simple circuito de Al 2.000 mm<sup>2</sup> de sección. | 1.364.992 | 1.160.835 |
+| TI-038B | 220 kV Doble circuito de Al 2.000 mm<sup>2</sup> de sección. | 2.907.157 | 2.071.881 |
+| TI-039B | 220 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. | 949.561 | 807.537 |
+| TI-040B | 220 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. | 2.022.370 | 1.441.310 |
+| TI-041B | 132 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. | 1.036.842 | 596.265 |
+| TI-042B | 132 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. | 2.165.510 | 873.412 |
+| TI-043B | 66 kV Simple circuito de Al 1.000 mm<sup>2</sup> de sección. | 784.899 | 481.859 |
+| TI-044B | 66 kV Doble circuito de Al 1.000 mm<sup>2</sup> de sección. | 1.585.522 | 667.692 |
+
+Valores unitarios de referencia de inversión para posiciones
+
+| Código | Posiciones convencionales | Término<br>–<br>Euros/posición |
+|---|---|---|
+| TI-107B | Convencional 220 kV, 40 kA, Interruptor y medio. | 879.100 |
+| TI-108B | Convencional 220 kV, 40 kA, resto configuraciones. | 722.917 |
+| TI-109B | Convencional 132 kV, 31,5 kA. | 542.977 |
+| TI-110B | Convencional 66 kV, 31,5 kA. | 450.947 |
+
+| Código | Posiciones blindadas | Término<br>–<br>Euros/posición |
+|---|---|---|
+| TI-111B | Blindada 220 kV en edificio, 40 kA. | 1.385.373 |
+| TI-112B | Blindada 220 kV en edificio, 40 kA, con fluoductos. | 1.536.379 |
+| TI-113B | Blindada 132 kV, 31,5 kA. | 784.797 |
+| TI-114B | Blindada 66 kV, 31,5 kA. | 736.480 |
+
+| Código | Posiciones móviles | Término<br>–<br>Euros/posición |
+|---|---|---|
+| TI-115B | Móvil 220 kV, todas las configuraciones. | 1.338.525 |
+| TI-116B | Móvil 132 kV, todas las configuraciones. | 758.258 |
+| TI-117B | Móvil 66 kV, todas las configuraciones. | 711.575 |
+
+| Posiciones de reserva convencionales | Porcentaje sobre unitario correspondiente |
+|---|---|
+| Posición de reserva sin equipar (Convencional) 220 kV. | 36,30 |
+| Equipamiento de posición de reserva (Convencional) 220 kV. | 63,70 |
+| Posición de reserva sin equipar (Convencional) 132 kV. | 52,90 |
+| Equipamiento de posición de reserva (Convencional) 132 kV. | 47,10 |
+| Posición de reserva sin equipar (Convencional) 66 kV. | 48,80 |
+| Equipamiento de posición de reserva (Convencional) 66 kV. | 51,20 |
+
+| Posiciones de reserva blindadas | Porcentaje sobre unitario correspondiente |
+|---|---|
+| Posición de reserva sin equipar (blindada) 220 kV. | 48,50 |
+| Equipamiento de posición de reserva (blindada) 220 kV. | 51,50 |
+| Posición de reserva sin equipar (blindada) 132 kV. | 46,20 |
+| Equipamiento de posición de reserva (blindada) 132 kV. | 53,80 |
+| Posición de reserva sin equipar (blindada) 66 kV. | 46,60 |
+| Equipamiento de posición de reserva (blindada) 66 kV. | 53,40 |
+
+Valores unitarios de referencia de inversión para máquinas
+
+| Código | Máquinas de potencia | Término variable<br>–<br>Euros/MVA |
+|---|---|---|
+| TI-144B | Transformador (220/132 kV). | 10.951 |
+| TI-145B | Transformador (220/66 kV). | 16.091 |
+| TI-146B | Transformador (132/66 kV). | 15.459 |
+
+| Código | Máquinas de compensación de reactiva | Término variable<br>–<br>Euros/MVAr |
+|---|---|---|
+| TI-147B | Reactancias (220 kV). | 40.639 |
+| TI-148B | Reactancias (132 kV). | 46.157 |
+| TI-149B | Reactancias (66 kV). | 22.316 |
+| TI-150B | Condensadores (66 kV). | 2.422 |
+
+> Se añade por el art. 2.10 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+## ANEXO V — Valores unitarios de referencia de inversión por elemento de inmovilizado para las instalaciones de transporte de energía eléctrica ubicadas en las islas de Tenerife y Gran Canaria
+
+Valores unitarios de referencia de inversión para líneas aéreas
+
+| Código | Líneas aéreas de longitud mayor o igual a 10 km | Término variable<br>–<br>Euros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-045C | 220 kV (dúplex) Simple Circuito. | 487.364 | – |
+| TI-046C | 220 kV (dúplex) Doble Circuito. | 824.770 | – |
+| TI-047C | 220 kV (simplex) Simple Circuito. | 453.248 | – |
+| TI-048C | 220 kV (simplex) Doble Circuito. | 767.035 | – |
+| TI-049C | 132 kV (simplex) Simple Circuito. | 408.443 | – |
+| TI-050C | 132 kV (simplex) Doble Circuito. | 599.050 | – |
+| TI-051C | 66 kV (simplex) Simple Circuito. | 330.571 | – |
+| TI-052C | 66 kV (simplex) Doble Circuito. | 484.838 | – |
+
+| Código | Líneas aéreas de longitud menor a 10 km | Término variable<br>–<br>Euros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-045C | 220 kV (dúplex) Simple Circuito. | 404.937 | 824.267 |
+| TI-046C | 220 kV (dúplex) Doble Circuito. | 715.559 | 1.092.105 |
+| TI-047C | 220 kV (simplex) Simple Circuito. | 376.591 | 766.569 |
+| TI-048C | 220 kV (simplex) Doble Circuito. | 665.469 | 1.015.658 |
+| TI-049C | 132 kV (simplex) Simple Circuito. | 355.088 | 533.555 |
+| TI-050C | 132 kV (simplex) Doble Circuito. | 520.795 | 782.548 |
+| TI-051C | 66 kV (simplex) Simple Circuito. | 289.793 | 407.782 |
+| TI-052C | 66 kV (simplex) Doble Circuito. | 425.030 | 598.080 |
+
+| Tendido de circuitos en fases | Porcentaje sobre su unitarios correspondiente |
+|---|---|
+| Tendido 1.<sup>er</sup> circuito con apoyos para dos. | 85 |
+| Tendido 2.º circuito con apoyos para dos. | 25 |
+
+| Aumentos de capacidad | Término variable<br>–<br>Euros/MVA y km |
+|---|---|
+| 220 kV (€/MVA y km de línea). | 211 |
+| 132 kV (€/MVA y km de línea). | 1.265 |
+| 66 kV (€/MVA y km de línea). | 3.180 |
+
+Valores unitarios de referencia de inversión para líneas subterráneas
+
+| Código | Líneas subterráneas de longitud mayor o igual a 2,2 km | Término variable<br>–<br>Euros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-053C | 220 kV Simple circuito de Cu 2.000 mm<sup>2</sup> de sección. | 2.965.169 | – |
+| TI-054C | 220 kV Doble circuito de Cu 2.000 mm<sup>2</sup> de sección. | 5.822.802 | – |
+| TI-055C | 220 kV Simple circuito de Cu 1.100 mm<sup>2</sup> de sección. | 2.246.461 | – |
+| TI-056C | 220 kV Doble circuito de Cu 1.100 mm<sup>2</sup> de sección. | 4.600.013 | – |
+| TI-057C | 220 kV Simple circuito de Al 630 mm<sup>2</sup> de sección. | 1.165.885 | – |
+| TI-058C | 220 kV Doble circuito de Al 630 mm<sup>2</sup> de sección. | 2.387.349 | – |
+| TI-059C | 220 kV Simple circuito de Al 2.000 mm<sup>2</sup> de sección. | 1.962.099 | – |
+| TI-060C | 220 kV Doble circuito de Al 2.000 mm<sup>2</sup> de sección. | 3.502.248 | – |
+| TI-061C | 220 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. | 1.364.939 | – |
+| TI-062C | 220 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. | 2.794.945 | – |
+| TI-063C | 132 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. | 1.381.993 | – |
+| TI-064C | 132 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. | 2.716.132 | – |
+| TI-065C | 66 kV Simple circuito de Al 1.000 mm<sup>2</sup> de sección. | 1.063.045 | – |
+| TI-066C | 66 kV Doble circuito de Al 1.000 mm<sup>2</sup> de sección. | 2.010.902 | – |
+
+| Código | Líneas subterráneas de longitud menor a 2,2 km | Término variable<br>–<br>Eros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-053C | 220 kV Simple circuito de Cu 2.000 mm<sup>2</sup> de sección. | 2.487.049 | 1.051.864 |
+| TI-054C | 220 kV Doble circuito de Cu 2.000 mm<sup>2</sup> de sección. | 4.963.547 | 1.890.359 |
+| TI-055C | 220 kV Simple circuito de Cu 1.100 mm<sup>2</sup> de sección. | 1.620.168 | 1.377.845 |
+| TI-056C | 220 kV Doble circuito de Cu 1.100 mm<sup>2</sup> de sección. | 3.474.469 | 2.476.197 |
+| TI-057C | 220 kV Simple circuito de Al 630 mm<sup>2</sup> de sección. | 840.847 | 715.085 |
+| TI-058C | 220 kV Doble circuito de Al 630 mm<sup>2</sup> de sección. | 1.803.206 | 1.285.115 |
+| TI-059C | 220 kV Simple circuito de Al 2.000 mm<sup>2</sup> de sección. | 1.415.083 | 1.203.434 |
+| TI-060C | 220 kV Doble circuito de Al 2.000 mm<sup>2</sup> de sección. | 2.519.178 | 2.162.753 |
+| TI-061C | 220 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. | 984.406 | 837.172 |
+| TI-062C | 220 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. | 2.111.070 | 1.504.524 |
+| TI-063C | 132 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. | 1.098.234 | 624.270 |
+| TI-064C | 132 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. | 2.297.587 | 920.799 |
+| TI-065C | 66 kV Simple circuito de Al 1.000 mm<sup>2</sup> de sección. | 835.187 | 501.288 |
+| TI-066C | 66 kV Doble circuito de Al 1.000 mm<sup>2</sup> de sección. | 1.692.784 | 699.860 |
+
+Valores unitarios de referencia de inversión para posiciones
+
+| Código | Posiciones convencionales | Término<br>–<br>Euros/posición |
+|---|---|---|
+| TI-118C | Convencional 220 kV, 40 kA, Interruptor y medio. | 944.671 |
+| TI-119C | Convencional 220 kV, 40 kA, resto configuraciones. | 776.838 |
+| TI-139C | Convencional 132 kV, 31,5 kA. | 583.280 |
+| TI-120C | Convencional 66 kV, 31,5 kA. | 483.818 |
+
+| Código | Posiciones blindadas | Término<br>–<br>Euros/posición |
+|---|---|---|
+| TI-121C | Blindada 220 kV en edificio, 40 kA. | 1.367.184 |
+| TI-122C | Blindada 220 kV en edificio, 40 kA, con fluoductos. | 1.516.207 |
+| TI-123C | Blindada 132 kV, 31,5 kA. | 773.268 |
+| TI-124C | Blindada 66 kV, 31,5 kA. | 727.267 |
+
+| Código | Posiciones móviles | Término<br>–<br>Euros/posición |
+|---|---|---|
+| TI-125C | Móvil 220 kV, todas las configuraciones. | 1.409.468 |
+| TI-126C | Móvil 132 kV, todas las configuraciones. | 797.184 |
+| TI-127C | Móvil 66 kV, todas las configuraciones. | 749.759 |
+
+| Posiciones de reserva convencionales | Porcentaje sobre unitario correspondiente |
+|---|---|
+| Posición de reserva sin equipar (Convencional) 220 kV. | 36,30 |
+| Equipamiento de posición de reserva (Convencional) 220 kV. | 63,70 |
+| Posición de reserva sin equipar (Convencional) 132 kV. | 55,00 |
+| Equipamiento de posición de reserva (Convencional) 132 kV. | 45,00 |
+| Posición de reserva sin equipar (Convencional) 66 kV. | 49,80 |
+| Equipamiento de posición de reserva (Convencional) 66 kV. | 50,20 |
+
+| Posiciones de reserva blindadas | Porcentaje sobre unitario correspondiente |
+|---|---|
+| Posición de reserva sin equipar (blindada) 220 kV. | 48,50 |
+| Equipamiento de posición de reserva (blindada) 220 kV. | 51,50 |
+| Posición de reserva sin equipar (blindada) 132 kV. | 47,80 |
+| Equipamiento de posición de reserva (blindada) 132 kV. | 52,20 |
+| Posición de reserva sin equipar (blindada) 66 kV. | 48,20 |
+| Equipamiento de posición de reserva (blindada) 66 kV. | 51,80 |
+
+Valores unitarios de referencia de inversión para máquinas
+
+| Código | Máquinas de potencia | Término variable<br>–<br>Euros/MVA |
+|---|---|---|
+| TI-151C | Transformador (220/132 kV). | 11.112 |
+| TI-152C | Transformador (220/66 kV). | 16.300 |
+| TI-153C | Transformador (132/66 kV). | 15.624 |
+
+| Código | Máquinas de compensación de reactiva | Término variable<br>–<br>Euros/MVAr |
+|---|---|---|
+| TI-154C | Reactancias (220 kV). | 41.155 |
+| TI-155C | Reactancias (132 kV). | 46.745 |
+| TI-156C | Reactancias (66 kV). | 22.600 |
+| TI-157C | Condensadores (66 kV). | 2.453 |
+
+> Se añade por el art. 2.10 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+## ANEXO VI — Valores unitarios de referencia de inversión por elemento de inmovilizado para las instalaciones de transporte de energía eléctrica ubicadas en el resto de islas pertenecientes al archipiélago canario
+
+Valores unitarios de referencia de inversión para líneas aéreas
+
+| Código | Líneas aéreas de longitud mayor o igual a 10 km | Término variable<br>–<br>Euros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-067DI | 220 kV (dúplex) Simple Circuito. | 654.134 | – |
+| TI-068DI | 220 kV (dúplex) Doble Circuito. | 1.106.996 | – |
+| TI-069DI | 220 kV (simplex) Simple Circuito. | 608.344 | – |
+| TI-070DI | 220 kV (simplex) Doble Circuito. | 1.029.506 | – |
+| TI-071DI | 132 kV (simplex) Simple Circuito. | 547.650 | – |
+| TI-072DI | 132 kV (simplex) Doble Circuito. | 803.220 | – |
+| TI-073DI | 66 kV (simplex) Simple Circuito. | 440.585 | – |
+| TI-074DI | 66 kV (simplex) Doble Circuito. | 646.192 | – |
+
+| Código | Líneas aéreas de longitud menor a 10 km | Término variable<br>–<br>Euros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-067DI | 220 kV (dúplex) Simple Circuito. | 543.502 | 1.106.323 |
+| TI-068DI | 220 kV (dúplex) Doble Circuito. | 960.414 | 1.465.811 |
+| TI-069DI | 220 kV (simplex) Simple Circuito. | 505.456 | 1.028.880 |
+| TI-070DI | 220 kV (simplex) Doble Circuito. | 893.186 | 1.363.204 |
+| TI-071DI | 132 kV (simplex) Simple Circuito. | 477.069 | 705.813 |
+| TI-072DI | 132 kV (simplex) Doble Circuito. | 699.701 | 1.035.192 |
+| TI-073DI | 66 kV (simplex) Simple Circuito. | 387.651 | 529.344 |
+| TI-074DI | 66 kV (simplex) Doble Circuito. | 568.555 | 776.370 |
+
+| Tendido de circuitos en fases | Porcentaje sobre su unitarios correspondiente |
+|---|---|
+| Tendido 1.<sup><sub>er</sub></sup> circuito con apoyos para dos. | 85 |
+| Tendido 2.º circuito con apoyos para dos. | 25 |
+
+| Aumentos de capacidad | Término variable<br>–<br>Euros/MVA y km |
+|---|---|
+| 220 kV (€/MVA y km de línea). | 240 |
+| 132 kV (€/MVA y km de línea). | 1.430 |
+| 66 kV (€/MVA y km de línea). | 3.594 |
+
+Valores unitarios de referencia de inversión para líneas subterráneas
+
+| Código | Líneas subterráneas de longitud mayor o igual a 2,2 km | Término variable<br>–<br>Euros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-075DI | 220 kV Simple circuito de Cu 2.000 mm<sup>2</sup> de sección. | 3.463.736 | – |
+| TI-076DI | 220 kV Doble circuito de Cu 2.000 mm<sup>2</sup> de sección. | 6.752.493 | – |
+| TI-077DI | 220 kV Simple circuito de Cu 1.100 mm<sup>2</sup> de sección. | 2.624.185 | – |
+| TI-078DI | 220 kV Doble circuito de Cu 1.100 mm<sup>2</sup> de sección. | 5.334.469 | – |
+| TI-079DI | 220 kV Simple circuito de Al 630 mm<sup>2</sup> de sección. | 1.361.919 | – |
+| TI-080DI | 220 kV Doble circuito de Al 630 mm<sup>2</sup> de sección. | 2.768.522 | – |
+| TI-081DI | 220 kV Simple circuito de Al 2.000 mm<sup>2</sup> de sección. | 2.292.009 | – |
+| TI-082DI | 220 kV Doble circuito de Al 2.000 mm<sup>2</sup> de sección. | 4.659.220 | – |
+| TI-083DI | 220 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. | 1.594.441 | – |
+| TI-084DI | 220 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. | 3.241.196 | – |
+| TI-085DI | 132 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. | 1.689.141 | – |
+| TI-086DI | 132 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. | 3.335.310 | – |
+| TI-087DI | 66 kV Simple circuito de Al 1.000 mm<sup>2</sup> de sección. | 1.325.478 | – |
+| TI-088DI | 66 kV Doble circuito de Al 1.000 mm<sup>2</sup> de sección. | 2.512.050 | – |
+
+| Código | Líneas subterráneas de longitud menor a 2,2 km | Término variable<br>–<br>Euros/km | Término fijo<br>–<br>Euros |
+|---|---|---|---|
+| TI-075DI | 220 kV Simple circuito de Cu 2.000 mm<sup>2</sup> de sección. | 2.905.225 | 1.228.726 |
+| TI-076DI | 220 kV Doble circuito de Cu 2.000 mm<sup>2</sup> de sección. | 5.756.047 | 2.192.181 |
+| TI-077DI | 220 kV Simple circuito de Cu 1.100 mm<sup>2</sup> de sección. | 1.892.586 | 1.609.518 |
+| TI-078DI | 220 kV Doble circuito de Cu 1.100 mm<sup>2</sup> de sección. | 4.029.217 | 2.871.555 |
+| TI-079DI | 220 kV Simple circuito de Al 630 mm<sup>2</sup> de sección. | 982.228 | 835.320 |
+| TI-080DI | 220 kV Doble circuito de Al 630 mm<sup>2</sup> de sección. | 2.091.112 | 1.490.301 |
+| TI-081DI | 220 kV Simple circuito de Al 2.000 mm<sup>2</sup> de sección. | 1.653.018 | 1.405.782 |
+| TI-082DI | 220 kV Doble circuito de Al 2.000 mm<sup>2</sup> de sección. | 3.519.189 | 2.508.067 |
+| TI-083DI | 220 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. | 1.149.925 | 977.935 |
+| TI-084DI | 220 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. | 2.448.132 | 1.744.742 |
+| TI-085DI | 132 kV Simple circuito de Al 1.200 mm<sup>2</sup> de sección. | 1.360.905 | 722.119 |
+| TI-086DI | 132 kV Doble circuito de Al 1.200 mm<sup>2</sup> de sección. | 2.840.756 | 1.088.018 |
+| TI-087DI | 66 kV Simple circuito de Al 1.000 mm<sup>2</sup> de sección. | 1.067.565 | 567.409 |
+| TI-088DI | 66 kV Doble circuito de Al 1.000 mm<sup>2</sup> de sección. | 2.143.454 | 810.912 |
+
+Valores unitarios de referencia de inversión para posiciones
+
+| Código | Posiciones convencionales | Término<br>–<br>Euros/posición |
+|---|---|---|
+| TI-128DI | Convencional 220 kV, 40 kA, Interruptor y medio. | 1.113.171 |
+| TI-129DI | Convencional 220 kV, 40 kA, resto configuraciones. | 915.403 |
+| TI-130DI | Convencional 132 kV, 31,5 kA. | 690.930 |
+| TI-131DI | Convencional 66 kV, 31,5 kA. | 572.045 |
+
+| Código | Posiciones blindadas | Término<br>–<br>Euros/posición |
+|---|---|---|
+| TI-132DI | Blindada 220 kV en edificio, 40 kA. | 1.529.366 |
+| TI-133DI | Blindada 220 kV en edificio, 40 kA, con fluoductos. | 1.696.067 |
+| TI-134DI | Blindada 132 kV, 31,5 kA. | 863.458 |
+| TI-135DI | Blindada 66 kV, 31,5 kA. | 816.218 |
+
+| Código | Posiciones móviles | Término<br>–<br>Euros/posición |
+|---|---|---|
+| TI-136DI | Móvil 220 kV, todas las configuraciones. | 1.609.859 |
+| TI-137DI | Móvil 132 kV, todas las configuraciones. | 908.903 |
+| TI-138DI | Móvil 66 kV, todas las configuraciones. | 859.177 |
+
+| Posiciones de reserva convencionales | Porcentaje sobre unitario correspondiente |
+|---|---|
+| Posición de reserva sin equipar (Convencional) 220 kV. | 36,30 |
+| Equipamiento de posición de reserva (Convencional) 220 kV. | 63,70 |
+| Posición de reserva sin equipar (Convencional) 132 kV. | 59,80 |
+| Equipamiento de posición de reserva (Convencional) 132 kV. | 40,20 |
+| Posición de reserva sin equipar (Convencional) 66 kV. | 51,50 |
+| Equipamiento de posición de reserva (Convencional) 66 kV. | 48,50 |
+
+| Posiciones de reserva blindadas | Porcentaje sobre unitario correspondiente |
+|---|---|
+| Posición de reserva sin equipar (blindada) 220 kV. | 48,50 |
+| Equipamiento de posición de reserva (blindada) 220 kV. | 51,50 |
+| Posición de reserva sin equipar (blindada) 132 kV. | 52,10 |
+| Equipamiento de posición de reserva (blindada) 132 kV. | 47,90 |
+| Posición de reserva sin equipar (blindada) 66 kV. | 52,00 |
+| Equipamiento de posición de reserva (blindada) 66 kV. | 48,00 |
+
+Valores unitarios de referencia de inversión para máquinas
+
+| Código | Máquinas de potencia | Término variable<br>–<br>Euros/MVA |
+|---|---|---|
+| TI-158DI | Transformador (220/132 kV). | 11.289 |
+| TI-159DI | Transformador (220/66 kV). | 16.524 |
+| TI-160DI | Transformador (132/66 kV). | 15.859 |
+
+| Código | Máquinas de potencia | Término variable<br>–<br>Euros/MVAr |
+|---|---|---|
+| TI-161DI | Reactancias (220 kV). | 38.754 |
+| TI-162DI | Reactancias (132 kV). | 44.018 |
+| TI-163DI | Reactancias (66 kV). | 21.282 |
+| TI-164DI | Condensadores (66 kV). | 2.489 |
+
+> Se añade por el art. 2.10 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+## ANEXO VII — Valores unitarios de referencia de operación y mantenimiento por elemento de inmovilizado para las instalaciones de transporte de energía eléctrica ubicadas en el territorio peninsular
+
+Valores unitarios de referencia de operación y mantenimiento para líneas
+
+| Líneas con un solo circuito | Término variable en euros/km y circuito |
+|---|---|
+| Líneas aéreas 400 kV. | 2.827 |
+| Líneas aéreas 220 kV. | 2.190 |
+| Líneas subterráneas 220 kV. | 1.912 |
+
+| Líneas con circuitos múltiples | Término variable en euros/km y circuito |
+|---|---|
+| Líneas aéreas 400 kV. | 2.642 |
+| Líneas aéreas 220 kV. | 1.977 |
+| Líneas subterráneas 220 kV. | 1.697 |
+
+Valores unitarios de referencia de operación y mantenimiento para posiciones
+
+| Posiciones convencionales | Término variable<br>–<br>Euros/posición |
+|---|---|
+| Convencional 400 kV. | 43.789 |
+| Convencional 220 kV. | 36.049 |
+
+| Posiciones blindadas | Término variable<br>–<br>Euros/posición |
+|---|---|
+| Blindada 400 kV. | 31.938 |
+| Blindada 220 kV. | 22.725 |
+
+| Posiciones móviles | Término variable<br>–<br>Euros/posición |
+|---|---|
+| Móvil 400 kV. | 31.938 |
+| Móvil 220 kV. | 22.725 |
+
+Valores unitarios de referencia de operación y mantenimiento para máquinas
+
+| Máquinas de potencia | Término variable<br>–<br>Euros/MVA |
+|---|---|
+| Transformadores €/MVA. | 92 |
+
+| Máquinas de compensación de reactiva | Término variable<br>–<br>Euros/MVAr |
+|---|---|
+| Reactancias euros/MVAr. | 19 |
+| Condensadores euros/MVAr. | 6 |
+
+> Se añade por el art. 2.10 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+## ANEXO VIII — Valores unitarios de referencia de operación y mantenimiento por elemento de inmovilizado para las instalaciones de transporte de energía eléctrica ubicadas en las Islas Baleares
+
+Valores unitarios de referencia de operación y mantenimiento para líneas
+
+| Líneas con un solo circuito | Término variable en euros/km y circuito |
+|---|---|
+| Líneas aéreas 220 kV. | 2.933 |
+| Líneas aéreas132 kV. | 2.145 |
+| Líneas aéreas 66 kV. | 1.885 |
+| Líneas subterráneas 220 kV. | 2.349 |
+| Líneas subterráneas 132 kV. | 1.150 |
+| Líneas subterráneas 66 kV. | 1.096 |
+
+| Líneas con circuitos múltiples | Término variable en euros/km y circuito |
+|---|---|
+| Líneas aéreas 220 kV. | 2.656 |
+| Líneas aéreas132 kV. | 1.941 |
+| Líneas aéreas 66 kV. | 1.672 |
+| Líneas subterráneas 220 kV. | 2.084 |
+| Líneas subterráneas 132 kV. | 937 |
+| Líneas subterráneas 66 kV. | 883 |
+
+Valores unitarios de referencia de operación y mantenimiento para posiciones
+
+| Posiciones convencionales | Término variable<br>–<br>Euros/posición |
+|---|---|
+| Convencional 220 kV. | 40.473 |
+| Convencional 132 kV. | 33.542 |
+| Convencional 66 kV. | 26.068 |
+
+| Posiciones blindadas | Término variable<br>–<br>Euros/posición |
+|---|---|
+| Blindada 220 kV | 25.762 |
+| Blindada 132 kV | 19.399 |
+| Blindada 66 kV | 15.448 |
+
+| Posiciones móviles | Término variable<br>–<br>Euros/posición |
+|---|---|
+| Móvil 220 kV. | 25.762 |
+| Móvil 132 kV. | 19.399 |
+| Móvil 66 kV. | 15.448 |
+
+Valores unitarios de referencia de operación y mantenimiento para máquinas
+
+| Máquinas de potencia | Término variable<br>–<br>Euros/MVA |
+|---|---|
+| Transformador (220/132 kV). | 110 |
+| Transformador (220/66 kV). | 141 |
+| Transformador (132/66 kV). | 220 |
+
+| Máquinas de compensación de reactiva | Término variable<br>–<br>Euros/MVAr |
+|---|---|
+| Reactancias (220 kV). | 28 |
+| Reactancias (132 kV). | 42 |
+| Reactancias (66 kV). | 15 |
+| Condensadores (66 kV). | 19 |
+
+> Se añade por el art. 2.10 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+## ANEXO IX — Valores unitarios de referencia de operación y mantenimiento por elemento de inmovilizado para las instalaciones de transporte de energía eléctrica ubicadas en las islas de Tenerife y Gran Canaria
+
+Valores unitarios de referencia de operación y mantenimiento para líneas
+
+| Líneas con un solo circuito | Término variable en euros/km y circuito |
+|---|---|
+| Líneas aéreas 220 kV. | 3.450 |
+| Líneas aéreas132 kV. | 2.610 |
+| Líneas aéreas 66 kV. | 2.619 |
+| Líneas subterráneas 220 kV. | 2.483 |
+| Líneas subterráneas 132 kV. | 1.205 |
+| Líneas subterráneas 66 kV. | 1.146 |
+
+| Líneas con circuitos múltiples | Término variable en euros/km y circuito |
+|---|---|
+| Líneas aéreas 220 kV. | 3.116 |
+| Líneas aéreas132 kV. | 2.359 |
+| Líneas aéreas 66 kV. | 2.406 |
+| Líneas subterráneas 220 kV. | 2.202 |
+| Líneas subterráneas 132 kV. | 989 |
+| Líneas subterráneas 66 kV. | 929 |
+
+Valores unitarios de referencia de operación y mantenimiento para posiciones
+
+| Posiciones convencionales | Término variable<br>–<br>Euros/posición |
+|---|---|
+| Convencional 220 kV. | 43.257 |
+| Convencional 132 kV. | 35.849 |
+| Convencional 66 kV. | 27.861 |
+
+| Posiciones blindadas | Término variable<br>–<br>Euros/posición |
+|---|---|
+| Blindada 220 kV. | 27.332 |
+| Blindada 132 kV. | 20.581 |
+| Blindada 66 kV. | 16.389 |
+
+| Posiciones móviles | Término variable<br>–<br>Euros/posición |
+|---|---|
+| Móvil 220 kV. | 27.332 |
+| Móvil 132 kV. | 20.581 |
+| Móvil 66 kV. | 16.389 |
+
+Valores unitarios de referencia de operación y mantenimiento para máquinas
+
+| Máquinas de potencia | Término variable<br>–<br>Euros/MVA |
+|---|---|
+| Transformador (220/132 kV). | 113 |
+| Transformador (220/66 kV). | 146 |
+| Transformador (132/66 kV). | 228 |
+
+| Máquinas de compensación de reactiva | Término variable<br>–<br>Euros/MVAr |
+|---|---|
+| Reactancias (220 kV). | 30 |
+| Reactancias (132 kV). | 43 |
+| Reactancias (66 kV). | 17 |
+| Condensadores (66 kV). | 20 |
+
+> Se añade por el art. 2.10 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.
+
+## ANEXO X — Valores unitarios de referencia de operación y mantenimiento por elemento de inmovilizado para las instalaciones de transporte de energía eléctrica ubicadas en el resto de islas pertenecientes al archipiélago canario
+
+Valores unitarios de referencia de operación y mantenimiento para líneas
+
+| Líneas con un solo circuito | Término variable en euros/km y circuito |
+|---|---|
+| Líneas aéreas 220 kV. | 4.033 |
+| Líneas aéreas132 kV. | 3.209 |
+| Líneas aéreas 66 kV. | 3.212 |
+| Líneas subterráneas 220 kV. | 2.563 |
+| Líneas subterráneas 132 kV. | 1.436 |
+| Líneas subterráneas 66 kV. | 1.361 |
+
+| Líneas con circuitos múltiples | Término variable en euros/km y circuito |
+|---|---|
+| Líneas aéreas 220 kV. | 3.641 |
+| Líneas aéreas132 kV. | 2.916 |
+| Líneas aéreas 66 kV. | 2.999 |
+| Líneas subterráneas 220 kV. | 2.275 |
+| Líneas subterráneas 132 kV. | 1.168 |
+| Líneas subterráneas 66 kV. | 1.098 |
+
+Valores unitarios de referencia de operación y mantenimiento para posiciones
+
+| Posiciones convencionales | Término variable<br>–<br>Euros/posición |
+|---|---|
+| Convencional 220 kV. | 51.341 |
+| Convencional 132 kV. | 42.539 |
+| Convencional 66 kV. | 33.060 |
+
+| Posiciones blindadas | Término variable<br>–<br>Euros/posición |
+|---|---|
+| Blindada 220 kV. | 32.053 |
+| Blindada 132 kV. | 24.136 |
+| Blindada 66 kV. | 19.220 |
+
+| Posiciones móviles | Término variable<br>–<br>Euros/posición |
+|---|---|
+| Móvil 220 kV. | 32.053 |
+| Móvil 132 kV. | 24.136 |
+| Móvil 66 kV. | 19.220 |
+
+Valores unitarios de referencia de operación y mantenimiento para máquinas
+
+| Máquinas de potencia | Término variable<br>–<br>Euros/MVA |
+|---|---|
+| Transformador (220/132 kV). | 125 |
+| Transformador (220/66 kV). | 160 |
+| Transformador (132/66 kV). | 250 |
+
+| Máquinas de compensación de reactiva | Término variable<br>–<br>Euros/MVAr |
+|---|---|
+| Reactancias (220 kV). | 32 |
+| Reactancias (132 kV). | 48 |
+| Reactancias (66 kV). | 18 |
+| Condensadores (66 kV). | 21 |
+
+> Se añade por el art. 2.10 de la Circular 7/2025, de 16 de diciembre. [Ref. BOE-A-2025-26676](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26676)
+
+> Téngase en cuenta que el primer periodo regulatorio de aplicación transcurrirá del 1 de enero de 2026 al 31 de diciembre de 2031, según establece la disposición adicional 1 de la citada circular.

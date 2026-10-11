@@ -1,0 +1,2034 @@
+---
+title: "Decreto Legislativo 3/2002, de 24 de diciembre, por el que se aprueba el Texto refundido de la Ley de finanzas públicas de Cataluña"
+identifier: "DOGC-f-2002-90024"
+type: legislative_decree
+rank: "Decreto Legislativo"
+jurisdiction: es-cataluna
+language: es
+department: "Comunidad Autónoma de Cataluña"
+date: 2002-12-24
+published: 2002-12-31
+in_force_from: 2003-01-01
+last_amended: 2026-03-25
+consolidated: 2026-10-02
+gazette: "Diari Oficial de la Generalitat de Catalunya núm. 3791"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=DOGC-f-2002-90024"
+retrieved: 2026-10-11
+---
+
+# Decreto Legislativo 3/2002, de 24 de diciembre, por el que se aprueba el Texto refundido de la Ley de finanzas públicas de Cataluña
+
+La disposición final segunda, apartado 1, de la Ley 21/2001, de 28 de diciembre, de medidas fiscales y administrativas, autorizó al Gobierno para que, en el plazo máximo de un año desde la entrada en vigor de la Ley, elaborara un nuevo Texto refundido de la Ley 10/1982, de 12 de julio, de finanzas públicas de Cataluña, incorporando las modificaciones que se introducen mediante esta Ley y las introducidas por las leyes de presupuestos posteriores a la entrada en vigor de su primer Texto refundido, aprobado por el Decreto legislativo 9/1994, de 13 de julio, y por las leyes siguientes:
+
+Ley 9/1997, de 23 de junio, sobre la participación de la Generalidad en sociedades mercantiles y civiles, y de modificación de las leyes 11/1981, 10/1982 y 4/1985.
+
+Ley 17/1997, de 24 de diciembre, de medidas administrativas y de organización.
+
+Ley 25/1998, de 31 de diciembre, de medidas administrativas, fiscales y de adaptación al euro.
+
+Ley 4/2000, de 26 de mayo, de medidas fiscales y administrativas.
+
+Ley 15/2000, de 29 de diciembre, de medidas fiscales y administrativas.
+
+Asimismo, el apartado 1 de la disposición final cuarta estableció que la autorización para la refundición incluía también la facultad de regularizar, aclarar y armonizar estas disposiciones, así como la obligación de efectuar la conversión a la unidad monetaria euro de todos los importes a los que hacen referencia las disposiciones que han de integrar el Texto refundido.
+
+Por tanto, en ejercicio de la delegación mencionada, de acuerdo con el dictamen emitido de la Comisión Jurídica Asesora, y de acuerdo con el Gobierno,
+
+DECRETO:
+
+#### Artículo único
+
+Aprobar el Texto refundido de la Ley de finanzas públicas de Cataluña, que se publica seguidamente.
+
+#### Disposición final
+
+Este Decreto legislativo entrará en vigor el día siguiente de su publicación en el «Diari Oficial de la Generalitat de Catalunya».
+
+Barcelona, 24 de diciembre de 2002.–El Consejero de Economía y Finanzas, Francesc Homs i Ferret.–El Presidente de la Generalidad de Cataluña, Jordi Pujol.
+
+## TEXTO REFUNDIDO DE LA LEY DE FINANZAS PÚBLICAS DE CATALUÑA
+
+## CAPÍTULO I — Principios generales
+
+#### Artículo 1.
+
+Las finanzas de la Generalidad de Cataluña están reguladas por esta Ley y por las otras leyes que la desarrollen.
+
+Las normas de la Ley de presupuestos constituirán la ejecución de sus preceptos, para cada ejercicio presupuestario.
+
+#### Artículo 2.
+
+1\. Integra la Hacienda de la Generalidad el conjunto de los ingresos y de las obligaciones económico-financieras que le correspondan.
+
+2\. La administración financiera de la Generalidad está sometida al régimen de presupuesto anual y de unidad de caja, debe ser intervenida siguiendo las normas de esta Ley y deberá rendir cuentas a la Sindicatura de Cuentas de Cataluña y al Tribunal de Cuentas del Estado, de acuerdo con las disposiciones que regulen las funciones de estos organismos.
+
+3\. Todos aquellos que manejen los caudales públicos serán responsables ante la Generalidad, en los términos legales, de los perjuicios que le puedan ocasionar.
+
+#### Artículo 3.
+
+1\. Corresponde a la administración financiera de la Generalidad el cumplimiento de las obligaciones económicas de sus órganos, entidades autónomas y empresas públicas mediante la gestión y la aplicación de sus recursos a aquellas finalidades y a la ordenación de aquello que, en materia de política económica y financiera, sea de la competencia de la Generalidad.
+
+2\. Corresponde, asimismo, a la administración financiera las funciones atribuidas a la Generalidad en materia de tutela financiera sobre las corporaciones locales de Cataluña y de ordenación y control de las instituciones financieras y de crédito que operen en el territorio catalán.
+
+3\. Las Juntas de Finanzas de la Generalidad resolverán las reclamaciones que se presenten respecto a los tributos y exacciones propias y aquellas otras que la Ley determine.
+
+#### Artículo 4.
+
+1\. Las entidades autónomas de la Generalidad pueden ser de tipo administrativo o de tipo comercial, industrial o financiero.
+
+2\. Son empresas de la Generalidad, a los efectos de esta Ley, las sociedades civiles o mercantiles con participación mayoritaria de la Generalidad, de sus entidades autónomas o de las sociedades en que la Generalidad o las mencionadas entidades tienen también participación mayoritaria en su capital social, así como aquellas entidades de derecho público sometidas a la Generalidad, con personalidad jurídica propia, que deban ajustar su actividad al ordenamiento jurídico privado.
+
+3\. Son empresas vinculadas, a los efectos de esta Ley, las sociedades civiles o mercantiles que son gestoras de servicios públicos de que es titular la Generalidad o las que han suscrito convenios con ésta, y en las cuales ésta tiene la facultad de designar todos o una parte de los órganos de dirección o participa directamente o indirectamente, como mínimo, en un cinco por ciento del capital social.
+
+4\. Las sociedades de la Generalidad se regirán por las normas de derecho mercantil, civil y laboral, excepto en las materias en que sea de aplicación la presente Ley.
+
+#### Artículo 5.
+
+Serán materia de ley del Parlamento de Cataluña las cuestiones financieras siguientes:
+
+a) El presupuesto de la Generalidad y de sus entidades autónomas y sus modificaciones a través de la concesión de créditos extraordinarios y suplementos de crédito.
+
+b) El establecimiento, la modificación y la supresión de los tributos y recargos.
+
+c) La emisión y la regulación de la deuda pública de la Generalidad y sus entidades autónomas, la concertación de operaciones de crédito y la prestación de avales.
+
+d) La pérdida de la posición mayoritaria de la Generalidad y la disolución de las sociedades en que tenga participación mayoritaria la Generalidad; las adquisiciones a título oneroso de participaciones en las sociedades civiles y mercantiles cuando tengan por objeto acciones sin voto o bien cuando la participación en el capital no se corresponda con una congruente posición en las juntas o en la gestión de la entidad.
+
+e) Las grandes operaciones de carácter económico y financiero.
+
+f) El régimen general y en especial en materia financiera de las entidades autónomas de la Generalidad.
+
+g) El régimen de patrimonio y de la contratación de la Generalidad.
+
+h) Otras materias que, según la ley, debían regularse de esta manera.
+
+#### Artículo 6.
+
+La Generalidad disfrutará, tanto en aquello que hace referencia a sus prerrogativas como a sus beneficios fiscales, del mismo tratamiento que la Ley establece para el Estado. Sus entidades autónomas disfrutarán de las prerrogativas y los beneficios fiscales que las leyes establezcan.
+
+## CAPÍTULO II — Los ingresos
+
+#### Artículo 7.
+
+La Hacienda de la Generalidad está constituida por los ingresos siguientes:
+
+1\. El rendimiento de los impuestos establecidos por la Generalidad.
+
+2\. El rendimiento de los tributos que le cede el Estado.
+
+3\. Un porcentaje de participación en la recaudación total del Estado por los impuestos directos e indirectos, incluidos los monopolios fiscales.
+
+4\. El rendimiento de las tasas de la Generalidad, ya sean de creación propia, o bien a consecuencia de la transferencia de servicios del Estado.
+
+5\. Las contribuciones especiales que establezca la Generalidad en el ejercicio de sus competencias.
+
+6\. Los recargos sobre impuestos estatales.
+
+7\. Cuando proceda, los ingresos procedentes del Fondo de Compensación Interterritorial.
+
+8\. Las otras asignaciones con cargo a los presupuestos generales del Estado.
+
+9\. La emisión de deuda y el recurso al crédito.
+
+10\. Los rendimientos del patrimonio de la Generalidad.
+
+11\. Los ingresos de derecho privado.
+
+12\. Las multas y las sanciones que imponga en el ámbito de sus competencias.
+
+13\. Los ingresos de los precios públicos.
+
+14\. Los demás ingresos que, de acuerdo con la ley que les sea aplicable, tengan la consideración de ingresos de derecho público.
+
+> Se añade el apartado 14 por el art. 137.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.
+
+Los ingresos de la Generalidad y de las entidades autónomas y empresas públicas de que dependen están destinados a satisfacer el conjunto de sus obligaciones respectivas, salvo que por ley se establezca la afectación de algunos recursos a finalidades determinadas.
+
+#### Artículo 8 bis. Transparencia en el destino de los ingresos procedentes de tributos propios finalistas.
+
+Los órganos de la Administración de la Generalidad y las entidades de su sector público que, de acuerdo con la normativa aplicable, gestionan los fondos que se nutren de ingresos procedentes de la recaudación de tributos propios con carácter finalista, y las administraciones locales o entidades de su sector público que son receptoras de dichos fondos, deben difundir, en la forma y por los canales que establece la normativa en materia de transparencia, las actuaciones concretas que se financien total o parcialmente mediante los recursos económicos que se obtengan a través de estos instrumentos tributarios.
+
+En todo caso, los órganos de la Administración de la Generalidad, las administraciones locales y sus respectivas entidades del sector público deben difundir, si es posible, en los ámbitos comunicativos físicos correspondientes, las inversiones, los programas y las actuaciones financiadas con los mencionados ingresos.
+
+> Se añade por el art. 42.1 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 9.
+
+La administración de los ingresos de la Hacienda de la Generalidad corresponde al consejero o a la consejera de Economía y Finanzas y la de las entidades autónomas a sus presidentes/presidentas o directores/directoras, salvo que no tuvieran personalidad jurídica propia, en cuyo caso la administración correspondería también al consejero o a la consejera de Economía y Finanzas.
+
+#### Artículo 10.
+
+1\. Las personas o entidades que tengan a su cargo la administración de los ingresos de la Generalidad dependerán del consejero o de la consejera de Economía y Finanzas o de la correspondiente entidad autónoma, respecto a la gestión, la entrega o la aplicación y la rendición de las respectivas cuentas.
+
+2\. Estarán obligados a la prestación de fianza los funcionarios o funcionarias, las entidades o los particulares que conduzcan o custodien fondos o valores de naturaleza pública, en la cuantía y la forma que las disposiciones reglamentarias determinen.
+
+3\. Los rendimientos y los intereses atribuibles al patrimonio y a los caudales de la Generalidad, o de las entidades autónomas, por cualquier concepto, serán íntegramente reflejados en una cuenta específica del presupuesto respectivo.
+
+Se prohíbe la adscripción o la distribución de los saldos de la cuenta específica, de acuerdo con lo que establece el artículo 8 de esta Ley.
+
+#### Artículo 11.
+
+1\. La gestión, incluyendo todas las fases del procedimiento, de los tributos propios de la Generalidad y de los impuestos cedidos, y, si procede, de los impuestos del Estado recaudados en Cataluña y de los recargos sobre impuestos estatales, se ajustará a las disposiciones del Estatuto de autonomía, a las leyes del Parlamento de Cataluña, a los reglamentos que apruebe el Gobierno y a las normas de desarrollo que sea autorizado a dictar el consejero o la consejera de Economía y Finanzas, sin perjuicio de la aplicación de las disposiciones del Estado en todos los casos en que sea procedente. En el caso de los tributos cedidos se tendrá en cuenta, además, lo que disponga la normativa de cesión de tributos a las comunidades autónomas.
+
+2\. Corresponde al Gobierno, a propuesta del consejero o de la consejera de Economía y Finanzas, organizar los servicios de gestión, recaudación, liquidación e inspección tributarias en aquello que corresponda a la Generalidad.
+
+#### Artículo 12.
+
+1\. No podrán ser alienados, gravados ni arrendados los derechos de la Hacienda de la Generalidad, excepto en los supuestos regulados por las leyes.
+
+Tampoco se concederán excenciones, condonaciones, rebajas ni moratorias en el pago de los ingresos, excepto en los casos y en la forma que determinen las leyes.
+
+2\. Tan sólo por decreto acordado por el Gobierno se podrá transigir y someter a arbitraje en las contiendas que surjan sobre los derechos de la Hacienda de la Generalidad.
+
+#### Artículo 13.
+
+1\. Para efectuar la recaudación de los tributos y de los otros ingresos de derecho público, la administración financiera de la Generalidad disfrutará de las prerrogativas legalmente establecidas y actuará de acuerdo con los procedimientos administrativos correspondientes.
+
+2\. Las certificaciones de descubierto acreditativas de deudas tributarias y de otros ingresos de derechos públicos, entregadas por los funcionarios o funcionarias competentes según los reglamentos, son títulos suficientes para iniciar la vía de apremio y tendrán la misma fuerza ejecutiva que la sentencia judicial para proceder contra los bienes y los derechos de los deudores. A tales efectos, el inicio de la vía de apremio devenga por las deudas de derecho público no tributarios los mismos recargos que se establecen con carácter general en la normativa tributaria.
+
+3\. Las deudas de la Generalidad no podrán ser exigidas por el procedimiento de apremio.
+
+#### Artículo 14.
+
+1\. Las cantidades debidas a la Hacienda de la Generalidad por los conceptos contemplados en este capítulo producirán intereses de demora desde el día siguiente de su vencimiento.
+
+2\. El interés de demora se obtiene aplicando el tipo determinado por la legislación estatal como interés legal del dinero vigente el día que venza el plazo fijado por el apartado 1, incrementado en un 25%, salvo que la ley de presupuestos establezca uno distinto. En este último caso, excepcionalmente, si se modifica el tipo de interés legal, el consejero o consejera competente en materia de economía y finanzas, mediante una orden, puede modificar el tipo de interés de demora aplicable durante la vigencia del presupuesto correspondiente.
+
+> Se modifica el apartado 2 por el art. 1 de la Ley 8/2009, de 13 de mayo. [Ref. BOE-A-2009-9483](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-9483).
+
+#### Artículo 15.
+
+1\. Si las leyes reguladoras de los diferentes recursos financieros no lo disponen de otra forma, los derechos de la Generalidad al reconocimiento y la liquidación de los créditos a su favor prescribirán cuando cumplan cuatro años desde la fecha en que puedan ejercitarlos. No podrá tampoco exigir el cobro pasados cuatro años desde el reconocimiento o liquidación.
+
+2\. La prescripción se interrumpe si el deudor reconoce la deuda o la administración de la Generalidad de Cataluña le exige por escrito su pago.
+
+## CAPÍTULO III — Endeudamiento
+
+#### Artículo 16.
+
+El endeudamiento de la Generalidad adoptará, según proceda, una de las modalidades siguientes:
+
+a) Operaciones de crédito en forma de préstamos concertados con personas físicas o jurídicas.
+
+b) Emisión de empréstitos en forma de deuda pública.
+
+c) Emisión de deuda de la Tesorería.
+
+#### Artículo 17.
+
+1\. Las operaciones de crédito que la Generalidad concierte con personas físicas o jurídicas por un plazo de reembolso igual o inferior a un año deben tener por objeto atender necesidades transitorias de tesorería.
+
+2\. La Ley de presupuestos debe autorizar el límite máximo de estas operaciones para cada ejercicio. La autorización de las operaciones y de sus características particulares corresponde al Gobierno, que puede delegar el ejercicio ordinario de estas competencias en la persona titular del departamento competente en materia de economía y finanzas o en la persona titular de la Dirección General de Política Financiera, Seguros y Tesoro.
+
+> Se modifica por el art. 67.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 18.
+
+1\. Las operaciones de crédito que la Generalidad concierte con personas físicas o jurídicas por un plazo de reembolso superior a un año deben cumplir los requisitos fijados en la Ley de presupuestos o en las de suplemento de crédito o de crédito extraordinario o en otra norma habilitante.
+
+La autorización de las operaciones y de las características particulares que presentan corresponde al Gobierno, que puede delegar el ejercicio ordinario de estas competencias en la persona titular del departamento competente en materia de economía y finanzas o en la persona titular de la Dirección General de Política Financiera, Seguros y Tesoro.
+
+2\. Tanto la cuantía de las amortizaciones anuales como el destino de los importes de cada uno de estos préstamos o empréstitos deben ajustarse a la normativa aplicable en cada momento a las administraciones públicas, en el marco del sistema de financiación del Estado y, en concreto, de la Generalidad, y de acuerdo con los principios rectores de la Unión Europea para la armonización en materia de finanzas públicas y estabilidad presupuestaria
+
+> Se modifica por el art. 67.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 55.1 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 19.
+
+1\. La creación y, en su caso, la conversión de la deuda pública de la Generalidad, así como de cualquier otra apelación al crédito público sin perjuicio de la autorización por ley, deben regirse según su plazo de amortización por lo dispuesto en los artículos 17 y 18.
+
+2\. No obstante lo establecido por el apartado 1, el Gobierno, a propuesta de la persona titular del departamento competente en materia de economía y finanzas, solamente puede acordar la conversión de deuda pública de la Generalidad para mejorar la administración o la estructura de la deuda en circulación, y siempre que no se altere ninguna condición esencial de las emisiones ni se perjudiquen los derechos económicos de los tenedores.
+
+> Se modifica por el art. 67.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 20.
+
+La concertación de operaciones de crédito, cuando los acreedores sean personas o entidades residentes en el extranjero, necesita la autorización del Estado.
+
+#### Artículo 21.
+
+1\. Las entidades autónomas administrativas de la Generalidad podrán utilizar el endeudamiento en cualquier modalidad.
+
+2\. La Ley de presupuestos de la Generalidad o, si procede, de suplemento de crédito o de crédito extraordinario, fijará el importe del endeudamiento, así como sus características y destino, pero podrá delegar estas últimas potestades en el Gobierno, que las ejercerá a propuesta del consejero o de la consejera de Economía y Finanzas y previo informe del consejero o de la consejera a quien corresponda por razón de la adscripción administrativa de la entidad autónoma. La utilización realizada de la delegación será comunicada al Parlamento.
+
+> Se derogan los apartados 3 a 5 por la disposición derogatoria 2.f) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añaden los apartados 3 a 5 por el art. 18.1 de la Ley 7/2004, de 16 de julio. [Ref. BOE-A-2004-16713](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-16713)
+
+#### Artículo 22.
+
+1\. El producto del endeudamiento de todo tipo debe ingresarse a la Tesorería de la Generalidad y debe aplicarse sin ninguna excepción al estado de ingresos del presupuesto de la Generalidad o del organismo autónomo administrativo. Sin embargo, las operaciones que venzan antes de un año y que tengan por finalidad cubrir necesidades transitorias de tesorería deben contabilizarse en la contabilidad de la Tesorería. En cualquier caso, los intereses y gastos de formalización que generen deben aplicarse al presupuesto.
+
+2\. Para desarrollar la autorización legal de crear deuda en un ejercicio presupuestario, la persona titular del departamento competente en materia de economía y finanzas puede determinar que se cree deuda durante el mes de enero del año siguiente por un importe que no incremente en más del 15% esta autorización. Este incremento debe computarse al efecto del cumplimiento del límite de creación de deuda que legalmente se autoriza para el conjunto del segundo de los años mencionados.
+
+3\. Corresponde al Gobierno la concertación de los instrumentos financieros de cobertura del riesgo de tipos de interés y de tipos de cambio de las operaciones de endeudamiento que permitan minimizar el riesgo de contrapartida, abarcando la formalización de contratos marco que regulen sus condiciones y la concertación de contragarantías recíprocas en relación con estas coberturas. El Gobierno puede delegar el ejercicio ordinario de esta competencia en la persona titular del departamento competente en materia de economía y finanzas o en la persona titular de la Dirección General de Política Financiera, Seguros y Tesoro.
+
+> Se modifica el apartado 2 por el art. 60.1 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 67.2 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 22 bis. Obligaciones informativas del sector público de la Generalidad con relación a avales y operaciones de endeudamiento.
+
+Todas las entidades autónomas, empresas de la Generalidad y sociedades, consorcios, fundaciones y otras entidades de cualquier forma jurídica admitida en derecho en las que participa la Generalidad deben informar al Departamento de Economía y Finanzas sobre las disposiciones que efectúen de las operaciones de endeudamiento formalizadas, así como de la aplicación que hacen de las mismas. A tal efecto, deben enviar al Departamento de Economía y Finanzas, con la periodicidad que se determine y en el formato que el Departamento establezca, la información sobre su endeudamiento vivo.
+
+> Se añade por el art. 34.1 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+## CAPÍTULO IV — Las obligaciones
+
+#### Artículo 23.
+
+1\. Las obligaciones económicas de la Generalidad y de las entidades autónomas nacen de la ley, de los negocios jurídicos y de los actos y hechos que, según el derecho, los generen.
+
+2\. El pago de las obligaciones económicas de la Generalidad solamente es exigible si resultan de la ejecución del presupuesto, de sentencia o resolución judicial firmes o de operaciones de tesorería.
+
+3\. Si las obligaciones económicas derivan de prestaciones o de servicios a la Generalidad, su pago no puede efectuarse mientras el acreedor no haya cumplido las obligaciones correlativas.
+
+4\. El departamento competente en materia de finanzas públicas puede dictar las normas correspondientes para hacer posible el registro de entrada y el registro contable de facturas y de justificantes de obligaciones económicas de la Generalidad que no reúnen los requisitos de las facturas, en el ámbito que determine.
+
+> Se modifica el apartado 4 por el art. 42.2 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por el art. 55.2 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 24.
+
+Las sentencias y las demás resoluciones judiciales que establezcan obligaciones a cargo de la Generalidad o de las entidades autónomas de carácter administrativo de Cataluña se cumplirán puntualmente. Si faltase en el presupuesto el crédito correspondiente, se solicitará del Parlamento un suplemento de crédito o un crédito extraordinario, dentro de los tres meses siguientes a la notificación de la resolución.
+
+#### Artículo 25.
+
+1\. Si el pago de las obligaciones de la Generalidad no fuese efectivo en el plazo de los tres meses siguientes a su reconocimiento o a la notificación de la resolución judicial, el acreedor tendrá derecho al cobro de intereses al tipo que determine la legislación estatal con interés legal del dinero vigente el día de su reconocimiento, salvo que la Ley de presupuesto establezca uno diferente, desde que reclame por escrito el cumplimiento de la obligación hasta la fecha del pago.
+
+2\. En el supuesto de obligaciones de la Generalidad de Cataluña derivadas de ingresos indebidos, el cálculo y el procedimiento de los intereses correspondientes se rigen por lo que establece la normativa tributaria.
+
+#### Artículo 26.
+
+1\. El derecho al reconocimiento o liquidación de las obligaciones y al pago de las mismas ya reconocidas o liquidadas prescribirá al cabo de cuatro años desde el nacimiento de las obligaciones o de su reconocimiento o liquidación, respectivamente.
+
+2\. La exigencia de los acreedores legítimos o de sus derechohabientes mediante la presentación de documentos justificativos de su derecho producirá el nuevo inicio del plazo de la prescripción.
+
+3\. Las obligaciones que prescriban serán dadas de baja en las cuentas respectivas, previa tramitación del expediente que corresponda.
+
+4\. El consejero o consejera de Economía y Finanzas puede disponer la no liquidación o, si procede, la anulación y la baja de la contabilidad de las liquidaciones de las cuales resultan deudas inferiores a la cuantía que se fija como insuficiente para cubrir el coste que la exacción y la recaudación comportan.
+
+> Se añade el apartado 4 por el art. 18.2 de la Ley 7/2004, de 16 de julio. [Ref. BOE-A-2004-16713](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-16713).
+
+## CAPÍTULO V — El presupuesto de la Generalidad
+
+### Sección 1.ª Contenido y aprobación
+
+#### Artículo 27.
+
+1\. El presupuesto de la Generalidad de Cataluña constituye la expresión cuantificada, conjunta y sistemática de las obligaciones que, como máximo, podrán reconocer la Generalidad y las entidades autónomas, y de los derechos que podrán liquidarse durante el ejercicio correspondiente.
+
+2\. El presupuesto de la Generalidad de Cataluña deberá aprobarse equilibrado entre el estado de ingresos y el estado de gastos.
+
+#### Artículo 27 bis.
+
+1\. Los escenarios presupuestarios plurianuales son el marco de referencia para la elaboración de los presupuestos anuales.
+
+2\. Los escenarios presupuestarios plurianuales deben elaborarse de acuerdo con la normativa de estabilidad presupuestaria y sostenibilidad financiera y deben determinar los límites, referidos a los cuatro ejercicios siguientes, que la acción del Gobierno debe respetar en los casos en que sus decisiones tengan incidencia presupuestaria.
+
+3\. Los escenarios presupuestarios plurianuales están formados por un escenario de ingresos y uno de gastos. La estimación de los ingresos debe recoger la evolución tendencial de la economía. El escenario de gastos debe contener una evolución de los gastos coherente con los objetivos fiscales.
+
+4\. El escenario de gastos a cuatro años debe desagregarse para cada departamento y actuar de referencia en el momento de autorizar nuevas acciones que comporten gasto plurianual.
+
+5\. El departamento competente en materia de finanzas públicas es el responsable del proceso de elaboración de los escenarios presupuestarios plurianuales y debe elevarlos directamente al Gobierno, junto con el anteproyecto de presupuestos para el primer ejercicio, para su aprobación.
+
+> Se añade por el art. 97.1 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 28.
+
+El ejercicio presupuestario coincidirá con el año natural y serán imputados:
+
+a) Los derechos liquidados durante aquel mismo año, aunque procedan de ejercicios anteriores.
+
+b) Las obligaciones que sean reconocidas hasta el 31 de enero del año siguiente, correspondientes a cualquier tipo de gastos efectuados antes de acabar el ejercicio presupuestario con cargo a los créditos respectivos.
+
+#### Artículo 29.
+
+1\. El presupuesto de la Generalidad incluirá la totalidad de sus gastos e ingresos, así como los de las entidades autónomas y empresas públicas.
+
+2\. Concretamente, el presupuesto contendrá:
+
+a) Los estados de gastos de la Generalidad y sus entidades autónomas de carácter administrativo, con la debida especificación de los créditos necesarios para atender el cumplimiento de las obligaciones.
+
+b) Los estados de ingresos de la Generalidad y de sus entidades autónomas de carácter administrativo, que comprenderán las estimaciones de diversos derechos económicos a reconocer y liquidar durante el ejercicio.
+
+c) Los estados de recursos y donaciones, con las correspondientes estimaciones y evaluación de necesidades para el ejercicio, tanto de explotación como de capital, de las entidades autónomas de carácter comercial, industrial, financiero o análogo y de las empresas públicas.
+
+#### Artículo 30.
+
+1\. El presupuesto de la Generalidad se ajustará, en cuanto a estructura, a la normativa que con carácter general se disponga para el sector público del Estado, y asumirá la adecuación el consejero o la consejera de Economía y Finanzas.
+
+2\. El estado de gastos reunirá la clasificación orgánica, funcional y económica y por programas. Se incluirá la clasificación territorial por ámbitos comarcales y supracomarcales, cuando proceda, de los gastos de inversión.
+
+3\. Corresponderá al consejero o a la consejera de Economía y Finanzas el desarrollo de la estructura presupuestaria de las entidades autónomas y de las empresas públicas, previa propuesta de los departamentos a los cuales estén adscritas.
+
+#### Artículo 31.
+
+El procedimiento de elaboración del presupuesto de la Generalidad se ajustará a las normas siguientes:
+
+1\. Los departamentos deben enviar al departamento competente en materia de finanzas públicas, con tiempo suficiente, los estados de gastos conjuntamente con los anteproyectos de presupuestos de sus entidades adscritas para que este pueda formular el anteproyecto de los presupuestos de la Generalidad.
+
+2\. El estado de ingresos del presupuesto será elaborado por el Departamento de Economía y Finanzas.
+
+3\. El Departamento de Economía y Finanzas, teniendo en cuenta los mencionados anteproyectos de gastos y la estimación de los ingresos, formulará el Proyecto de ley del presupuesto y lo someterá al acuerdo del Gobierno.
+
+3 bis. El departamento competente en materia de economía y finanzas, antes de que el Gobierno acuerde la aprobación del Proyecto de ley de presupuestos, debe elaborar el cálculo de la balanza fiscal de Cataluña con la Administración central correspondiente a los últimos datos definitivos disponibles, que debe incorporarse como anexo en el informe económico y financiero.
+
+Este mismo departamento debe elaborar, publicar y presentar a la comisión competente en materia de finanzas del Parlamento, antes del 30 de junio de cada año, un informe de orientaciones presupuestarias, en el que se informe del estado de ejecución y prospectiva de liquidación del presupuesto vigente, y del marco macroeconómico, social y fiscal que enmarcan la elaboración del próximo presupuesto, así como de su escenario presupuestario a medio plazo y sus prioridades y líneas estratégicas preliminares.
+
+4\. Debe adjuntarse al proyecto de ley de presupuestos la siguiente documentación:
+
+a) Las memorias de programa con la descripción de objetivos e indicadores.
+
+b) Una memoria explicativa.
+
+c) Un informe económico y financiero.
+
+d) Un informe sobre la perspectiva de género interseccional.
+
+e) Un informe sobre la perspectiva climática y ambiental.
+
+f) Un anexo con las dotaciones de personal incluidas en el proyecto de presupuesto clasificadas por secciones y programas.
+
+g) Un anexo de ayudas y subvenciones.
+
+h) Un anexo con los proyectos de inversiones reales incluidos en el proyecto.
+
+i) Los estados financieros de las sociedades y otras entidades del sector público y de las demás entidades que hayan sido clasificadas como entidades del sector de Administración pública de la Generalidad de acuerdo con los criterios del sistema europeo de cuentas nacionales y regionales (SEC) en los términos que establezca la orden anual de elaboración de los presupuestos.
+
+j) Una memoria de beneficios fiscales.
+
+k) Una memoria de arrendamiento y compra de inmuebles incluidos en el proyecto.
+
+l) La liquidación del presupuesto del año anterior y un estado de ejecución del vigente.
+
+m) El cálculo de la balanza fiscal de Cataluña con la Administración central a que se refiere el apartado 3 bis.
+
+n) Cualquier otra documentación que se considere relevante para complementar el proyecto de ley de presupuestos.
+
+> Se modifica el apartado 4 por el art. 33.1 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifican los apartados 1, 3 bis y 4 por el art. 42.3 a 5 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añaden el apartado 3 bis y la letra i) del apartado 4 por el art. único.1 y 2 de la Ley 10/2012, de 25 de julio. [Ref. BOE-A-2012-10717](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10717).
+
+> Se modifica la letra a) del apartado 4 por el art. 18.3 de la Ley 7/2004, de 16 de julio. [Ref. BOE-A-2004-16713](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-16713).
+
+#### Artículo 31 bis. Evaluación económica de políticas públicas.
+
+El departamento competente en materia de economía y finanzas debe elaborar y publicar, con una frecuencia no superior a cinco años, un informe de perspectivas presupuestarias a largo plazo, que comprenda un horizonte no inferior a quince ejercicios futuros. Este informe debe contener las previsiones de ingresos y gastos de acuerdo con las políticas actuales, el análisis del impacto de los cambios demográficos y económicos y el análisis de sostenibilidad de las finanzas.
+
+> Se añade por el art. 42.6 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se deroga por el art. 97.2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 137.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999)
+
+#### Artículo 32.
+
+1\. Una vez aprobado por el Gobierno, el proyecto de ley de presupuestos de la Generalidad, integrado por el texto articulado y por los estados de ingresos y gastos con el grado de vinculación que se establezca, y por la documentación complementaria establecida por el apartado 4 del artículo 31, debe remitirse al Parlamento de Cataluña con suficiente antelación para que, teniendo en cuenta el procedimiento establecido por el Reglamento del Parlamento, pueda entrar en vigor el 1 de enero del ejercicio correspondiente.
+
+2\. El proyecto de ley de presupuestos y toda la documentación complementaria debe publicarse en la web de la Generalidad con el fin de facilitar su acceso y análisis y reforzar la transparencia de la actividad pública.
+
+> Se modifica por el art. 42.7 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 33.
+
+En el supuesto que el 1 de enero, por cualquier motivo, no resultase aprobado el presupuesto, se considerará prorrogado automáticamente el del año anterior en sus créditos iniciales hasta la aprobación y la publicación de los nuevos en el «Diari Oficial de la Generalitat de Catalunya». La prórroga no afectará los créditos para gastos correspondientes a servicios o programas que finalicen durante el ejercicio del presupuesto prorrogado.
+
+#### Artículo 34.
+
+1\. Los ingresos liquidados y las obligaciones reconocidas se aplicarán al presupuesto por su importe íntegro.
+
+2\. Para los efectos de este artículo, se entenderá por importe íntegro el que resulte después de aplicar los beneficios tributarios procedentes, que será objeto de contabilización independiente.
+
+3\. Además, el importe de los beneficios fiscales que afecten los tributos de la Generalidad se articulará y detallará de forma que sea posible consignarlo en el presupuesto de la Generalidad.
+
+### Sección 2.ª Régimen de los créditos presupuestarios de la Generalidad y entidades autónomas de carácter administrativo
+
+#### Artículo 35.
+
+1\. Los créditos para gastos se destinarán a la finalidad exclusiva que motiva la dotación.
+
+2\. Los créditos consignados a los estados de gastos del presupuesto tienen un alcance limitativo y, en consecuencia, no se podrán adquirir compromisos en cantidad superior a sus importes.
+
+3\. No obstante lo que dispone el apartado anterior, serán ampliables los créditos que con este carácter especifique la Ley del presupuesto y, en todo caso, los créditos concernientes a los gastos de clases pasivas y los derivados de transferencias de caudales afectados a servicios traspasados por la Administración del Estado, a la entrada en vigor del acuerdo valorado de traspaso aprobado por el Consejo de Ministros.
+
+El carácter ampliable de un crédito permitirá aumentar su importe, previo cumplimiento de los requisitos que se determinarán por reglamento, en función de la recaudación efectiva de los derechos afectados o del reconocimiento de obligaciones específicas del ejercicio respectivo hecho conforme a disposiciones con rango de ley.
+
+4\. Las disposiciones normativas con rango inferior al de ley y los actos administrativos que vulneren lo que establecen los apartados anteriores serán nulos de pleno derecho, sin perjuicio de las responsabilidades que correspondan.
+
+#### Artículo 35 bis.
+
+Las entidades que de acuerdo con las normas del sistema europeo de cuentas (SEC) han sido clasificadas en el sector de Administración pública de la Generalidad no pueden efectuar transferencias de crédito o generaciones de crédito derivadas de nuevos ingresos financieros que comporten un aumento del importe total de sus gastos no financieros en términos del SEC, salvo que dispongan de la autorización del Gobierno, y con un informe previo del departamento competente en materia de economía y finanzas.
+
+> Se añade por el art. 55.3 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 36.
+
+1\. La autorización de gastos con un alcance plurianual se subordinará a los créditos que para cada ejercicio consigne el presupuesto de la Generalidad.
+
+2\. Estos gastos se podrán efectuar si tienen por objeto financiar alguna de las siguientes atenciones:
+
+a) Inversiones reales y transferencias de capital.
+
+b) Transferencias corrientes derivadas de normas de rango de ley o de convenios o de contratos programa que amparan actuaciones de alcance plurianual.
+
+c) Gastos en bienes y servicios cuya contratación, bajo las modalidades establecidas en la Ley de contratos de las administraciones públicas, no pueda ser estipulada o resulte antieconómica en el plazo de un año.
+
+d) Arrendamientos de bienes inmuebles a utilizar por la Generalidad de Cataluña o por los organismos, las instituciones o las empresas que de ella dependen.
+
+e) Cargas derivadas del endeudamiento.
+
+f) Activos financieros.
+
+3\. El número de ejercicios a los cuales se podrán aplicar los gastos mencionados en los párrafos letras a), b), c) y f) del apartado 2 no será superior a cuatro. Asimismo, la parte de gasto correspondiente a los ejercicios futuros y la ampliación, cuando proceda, del número de anualidades será determinada por el Gobierno, a propuesta del consejero o de la consejera de Economía y Finanzas.
+
+4\. El procedimiento fijado en el apartado 3 también es aplicable en los contratos de obras que se lleven a cabo bajo la modalidad de abono total del precio, establecida por la normativa básica sobre contratación administrativa, ya sea con abono total del precio en una sola vez o bien con fraccionamiento del precio en diferentes anualidades, que no pueden ser superiores a diez contados a partir de la fecha prevista de finalización de las obras.
+
+5\. Los compromisos mencionados en el párrafo segundo de este artículo serán objeto de contabilización independiente.
+
+#### Artículo 37.
+
+1\. Los créditos para gastos que en el último día de la ampliación del ejercicio presupuestario a que se refiere el apartado b) del artículo 28 no estén vinculados al cumplimiento de obligaciones ya reconocidas quedarán anulados de pleno derecho.
+
+2\. No obstante, por acuerdo del consejero o de la consejera de Economía y Finanzas podrán incorporarse al estado de gastos del presupuesto del ejercicio siguiente inmediato:
+
+a) Los créditos extraordinarios y suplementos de crédito, así como las transferencias de créditos otorgadas o autorizadas en el último trimestre del ejercicio presupuestario.
+
+b) Los créditos que garanticen compromisos de gastos contraídos antes del último mes del ejercicio presupuestario y que, por motivos justificados, no se hayan podido realizar durante el ejercicio.
+
+c) Los créditos para operaciones de capital.
+
+d) Los créditos autorizados en función de la efectiva recaudación de los derechos afectados.
+
+e) Los que se enumeran en el artículo 44 de esta Ley.
+
+3\. Los restantes incorporados según lo que prevé el apartado anterior sólo podrán ser aplicados dentro del ejercicio presupuestario en el cual se acuerde la incorporación, y en los supuestos de las letras a) y b), por los mismos gastos que motivaron, en cada caso, la concesión, la autorización y el compromiso.
+
+#### Artículo 38.
+
+1\. A cargo de los créditos consignados en el presupuesto tan sólo se podrán contraer obligaciones derivadas de gastos que se efectúen durante el año natural del ejercicio presupuestario.
+
+2\. No obstante, se aplicarán a los créditos del presupuesto vigente, en el momento de expedición de sus órdenes de pago, las obligaciones siguientes:
+
+a) Las que resulten de la liquidación de atrasos a favor del personal al servicio de la Generalidad o las entidades autónomas.
+
+b) Las derivadas de compromisos de gastos debidamente contraídos en ejercicios anteriores que por causas justificadas no se hayan podido reconocer.
+
+3\. No obstante, con autorización previa del Departamento de Economía y Finanzas, también podrá ser diferido el pago del precio de compra de bienes inmuebles adquiridos directamente, el importe del cual sea superior a 1.202.024,21 euros, sin que en ningún caso el desembolso inicial a la firma de la escritura pueda ser inferior al 25% del precio, y se podrá distribuir libremente el resto hasta tres anualidades sucesivas.
+
+#### Artículo 39.
+
+1\. Cuando se haya de efectuar a cargo del presupuesto de la Generalidad algún gasto que no pueda aplazarse hasta el ejercicio siguiente, y para el cual no haya el crédito adecuado o bien el consignado sea insuficiente y no ampliable, el consejero o la consejera de Economía y Finanzas, previos los informes de la Dirección General de Presupuestos y Tesoro, someterá al Gobierno el acuerdo de enviar al Parlamento el correspondiente proyecto de ley de concesión de un crédito extraordinario en el primer supuesto o de un suplemento de crédito en el segundo, y se incluirá, necesariamente, la propuesta de los recursos concretos que los han de financiar.
+
+2\. Cuando la necesidad de crédito extraordinario o suplementario se produjese en las entidades autónomas de la Generalidad y no significase un aumento en los créditos de ésta, la concesión de uno y otro corresponderá, previo informe del departamento donde sean adscritos, justificando la necesidad y especificando el medio de financiación de mayor gasto, al consejero o a la consejera de Economía y Finanzas, si su importe no ultrapasa el 5% de los créditos consignados por la entidad autónoma a que haga referencia, y al Gobierno cuando, excediendo el mencionado porcentaje, no signifique el 15%. Los mencionados porcentajes se aplicarán de forma acumulada en cada ejercicio presupuestario.
+
+> Se deroga el apartado 3 por la disposición derogatoria 2.f) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+#### Artículo 40.
+
+1\. El Gobierno, sólo en los supuestos que se indiquen y a propuesta del consejero o de la consejera de Economía y Finanzas, podrá acordar anticipos de Tesorería para satisfacer pagos inaplazables, con el limite máximo en cada ejercicio del 2% de los créditos consignados por el presupuesto de que se trate:
+
+a) Cuando una vez iniciada la tramitación de expedientes de concesión de crédito se haya emitido informe favorable del Departamento de Economía y Finanzas.
+
+b) Cuando la promulgación de una nueva ley o la notificación de resoluciones judiciales generen obligaciones el cumplimiento de las cuales exigirá la concesión de crédito extraordinario o de suplemento de crédito.
+
+2\. Si el Parlamento de Cataluña no aprueba la Ley de concesión de crédito extraordinario o de suplemento de crédito, el importe del anticipo de Tesorería será cancelado a cargo de los créditos correspondientes del respectivo departamento u órgano de la Generalidad, o entidad autónoma, la reducción de los cuales ocasione menos trastornos al servicio público.
+
+#### Artículo 41.
+
+El Gobierno, a propuesta del consejero o de la consejera de Economía y Finanzas, podrá acordar, en los supuestos de créditos para operaciones de capital, transferencias de créditos globales a los específicos de la misma naturaleza económica. Los estados de gasto del presupuesto indicarán los créditos globales a los cuales podrá ser aplicada la norma.
+
+#### Artículo 42.
+
+El consejero o la consejera de Economía y Finanzas, a propuesta de los respectivos departamentos, podrá acordar transferencias de crédito con las limitaciones siguientes:
+
+a) No afectarán los créditos para gastos de personal ni los ampliables, ni los extraordinarios concedidos durante el ejercicio.
+
+b) No reducirán créditos para gastos destinados a subvenciones nominativas, ni los que hayan sido aumentados con suplementos o transferencias.
+
+c) No aumentarán créditos que mediante otras transferencias hayan sido reducidos.
+
+d) No afectarán más de un programa.
+
+e) No podrán hacerse a cargo de operaciones de capital con el fin de financiar las operaciones corrientes, excepto en el supuesto de los créditos para dotar el funcionamiento de nuevas inversiones.
+
+f) No podrán hacerse a cargo de créditos incorporados, procedentes de ejercicios anteriores.
+
+#### Artículo 43.
+
+Los consejeros o las consejeras de los diferentes departamentos y los presidentes o las presidentas de las entidades autónomas de la Generalidad podrán redistribuir los créditos entre las diferentes partidas de un mismo concepto presupuestario, notificándolo al consejero o a la consejera de Economía y Finanzas, al cual le corresponderá la aprobación cuando se trate de conceptos de personal.
+
+#### Artículo 44.
+
+Podrán generar créditos dentro del estado de gastos del presupuesto de la Generalidad los ingresos derivados de las operaciones siguientes:
+
+a) Aportaciones de personas físicas o jurídicas, para financiar, juntamente con la Generalidad o sus entidades autónomas, gastos que por su naturaleza estén comprendidos dentro de los objetivos o finalidades de las entidades mencionadas.
+
+b) Alienación de bienes de la Generalidad o de las entidades autónomas.
+
+c) Prestación de servicios.
+
+d) Reembolso de prestamos.
+
+e) Créditos del exterior para inversiones públicas.
+
+#### Artículo 45.
+
+Los ingresos obtenidos por reintegro de pagos realizados de forma indebida a cargo de créditos presupuestarios podrán originar la reposición de estos últimos en las condiciones que establezcan.
+
+### Sección 3.ª Ejecución y liquidación
+
+#### Artículo 46.
+
+1\. La «autorización» del gasto es el acto por el cual se acuerda la realización de un gasto a cargo de un crédito presupuestario determinado sin sobrepasar el importe pendiente de aplicación calculada de forma cierta o aproximada por exceso, reservando a tal fin la totalidad o una parte del crédito presupuestario disponible.
+
+2\. La «disposición» es el acto por el cual se acuerda o concierta, según los casos, después de los trámites legales que sean procedentes, la realización concreta de obras, la prestación de servicios o el suministro. Con la «disposición» queda formalizada la reserva del crédito por un importe y condiciones exactamente determinadas.
+
+3\. Se entiende por «obligación» la operación de contraer en cuentas los créditos exigibles contra la Generalidad porque haya sido acreditada satisfactoriamente la prestación objeto de la «disposición».
+
+4\. Se entiende por *pago propuesto* la operación por la que se expide, en relación con una obligación concreta, el mandamiento del pago contra la tesorería de la Generalidad.
+
+> Se modifica el apartado 4 por el art. 42.8 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 47.
+
+1\. Corresponde a los órganos superiores de la Generalidad y a los consejeros y consejeras de los departamentos, dentro de los límites del artículo 35, autorizar los gastos propios de los servicios a su cargo, salvo en los casos reservados por la ley a la competencia del Gobierno, y efectuar la disposición y la liquidación del crédito exigible proponiendo a la tesorería los pagos correspondientes.
+
+2\. Con la misma reserva legal, corresponden a los presidentes y presidentas, y a los directores y directoras de las entidades autónomas, la autorización, disposición y liquidación de los pagos relativos a las citadas entidades y empresas.
+
+3\. Las facultades a que hacen referencia los números anteriores podrán delegarse en los términos que se establezcan por reglamento.
+
+> Se modifican los apartados 1 y 2 por el art. 42.9 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 48.
+
+1\. La dirección general competente en materia de tesorería debe ejecutar todas las operaciones destinadas a la materialización de los pagos derivados de cualquier tipo de obligación reconocida.
+
+2\. Para realizar el pago de las obligaciones pendientes, la tesorería debe aplicar los criterios objetivos aprobados en un plan de pagos que debe tener como requisitos preferentes la fecha de recepción o vencimiento de la obligación, el importe, la naturaleza del gasto y la forma de pago, entre otros, y, en cualquier caso, debe incluir entre sus objetivos, el cumplimiento del período medio de pago de acuerdo con la normativa vigente.
+
+3\. El plan de pagos de la tesorería debe ser aprobado por el consejero o consejera competente en materia de finanzas a propuesta de la dirección general con competencias en materia de tesorería.
+
+4\. La dirección general con competencias en materia de tesorería puede establecer criterios específicos para la realización material de los pagos de las obligaciones, así como procedimientos específicos para el pago de determinadas obligaciones reguladas por la normativa o para casos o situaciones específicas que necesiten una tramitación especial por razones objetivas.
+
+5\. El procedimiento de pago puede efectuarse mediante la firma de un mandamiento individual o de un resumen elaborado por medios informáticos y comprensivo de varios mandamientos, teniendo como límite los fondos disponibles para financiarlos.
+
+6\. La planificación de los pagos debe realizarse en función de un presupuesto de la tesorería que se confecciona por la previsión de cobros y pagos y que debe actualizarse periódicamente.
+
+> Se modifica por el art. 42.10 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 49.
+
+La expedición de las órdenes de pago a cargo del presupuesto de la Generalidad deberá ajustarse al plan que sobre la disposición de fondo de Tesorería establezca el Gobierno, a propuesta del consejero o de la consejera de Economía y Finanzas.
+
+#### Artículo 50.
+
+1\. Los mandamientos de pago deben ir acompañados de los documentos que acrediten la realización de la prestación o el derecho del acreedor, conforme a la respectiva autorización del gasto.
+
+2\. Los mandamientos de pago que cuando se expidan no puedan ir acompañados de los documentos justificativos tienen el carácter de mandamientos a justificar, sin perjuicio de la aplicación que sea necesaria a los créditos presupuestarios correspondientes.
+
+3\. Los mandamientos de pago que deben justificarse comportan entrega de fondos que pueden tener el carácter de renovables o esporádicos y requieren su justificación posterior. El régimen de funcionamiento, la justificación y los conceptos presupuestarios que pueden utilizarse deben ser fijados por orden del departamento competente en materia de finanzas.
+
+4\. En el plazo de un mes a contar desde la entrada en vigor del presupuesto los departamentos deben efectuar la autorización de gastos por el importe de la anualidad del ejercicio de los compromisos plurienales de gasto y por el importe de los contratos o convenios de alcance anual relativos al funcionamiento de los servicios. El departamento competente en materia de finanzas, previo informe del interventor delegado o interventora delegada correspondiente, puede efectuar una reserva de crédito de las cantidades anteriores hasta que se materialice la autorización de gasto correspondiente.
+
+> Se modifica por el art. 42.11 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 2 y se añade el 6 por el art. 18.4 y 5 de la Ley 7/2004, de 16 de julio. [Ref. BOE-A-2004-16713](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-16713).
+
+#### Artículo 51.
+
+1\. El presupuesto de cada ejercicio se liquidará, en cuanto a la recaudación de ingresos y al pago de obligaciones, el día 30 de abril inmediato siguiente e irán a cargo de la Tesorería de la Generalidad los ingresos y pagos pendientes, según las respectivas contracciones de derechos y obligaciones.
+
+2\. Las operaciones de la Tesorería se aplicarán por años naturales. No obstante, se aplicarán al período corriente los ingresos aplazados, los fraccionados y los otros no incurridos en vía de apremio.
+
+3\. Los ingresos que se efectúen una vez cerrado el presupuesto respectivo quedarán desafectados al destino específico que, dado el caso, les hubiera correspondido, sin perjuicio de su reconocimiento y nueva afectación a cargo del presupuesto del ejercicio en curso.
+
+### Sección 4.ª Normas complementarias referidas a las entidades reguladas por el Estatuto de la empresa pública catalana y las demás entidades del sector público de la Generalidad
+
+> Se modifica la denominación por el art. 42.12 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 52.
+
+La gestión presupuestaria de las entidades del sector público diferentes de las entidades autónomas administrativas y el Servicio Catalán de la Salud debe ser llevada a cabo por los órganos competentes para ello de acuerdo con los respectivos estatutos, normas de funcionamiento o bases de ejecución presupuestaria, en el marco de la autonomía de gestión que les es propia. El departamento competente en materia de finanzas públicas puede dictar normas de carácter general sobre determinados aspectos de la gestión presupuestaria de estas entidades.
+
+> Se modifica por el art. 42.12 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añaden los apartados 3 y 4 por el art. 18.1 de la Ley 17/2007, de 21 de diciembre. [Ref. BOE-A-2008-3656](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3656).
+
+#### Artículo 53.
+
+Los convenios que la Generalidad establezca con sus empresas públicas o vinculadas, o con otras que no dependan, pero disfruten de avales de la Generalidad o reciban subvenciones a cargo de sus presupuestos, incluirán en cualquier caso las cláusulas siguientes:
+
+a) Hipótesis macroeconómicas y sectoriales que sirvan de base al convenio, indicando aquéllas la modificación de las cuales pueda dar lugar a la cancelación del convenio.
+
+b) Objetivos de la política de personal, rentabilidad, productividad o reestructuración técnica de la explotación económica, así como métodos de evaluación de aquellos.
+
+c) Aportaciones o avales de la Generalidad.
+
+d) Medidas a seguir para adaptar los objetivos convenidos a las variaciones experimentadas en el entorno económico respectivo.
+
+e) Control de la Generalidad sobre la ejecución del convenio y la explotación económica posterior.
+
+### Sección 5.ª Reglas de actuación con relación a los avales y las operaciones de endeudamiento de las entidades del sector público de la Generalidad
+
+> Se añade por el art. 34.2 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 53 bis. Reglas de actuación.
+
+Los representantes de la Generalidad en los órganos de decisión de los consorcios, las fundaciones y otras entidades, de cualquier forma jurídica admitida en derecho, en los que participa la Generalidad deben obtener, previo ejercicio del derecho de voto, las siguientes autorizaciones:
+
+a) Para operaciones de endeudamiento o de aval por un importe superior al 50% de los fondos patrimoniales o de los recursos propios de la entidad en cuestión o que sobrepasen la participación de la Generalidad, se precisa la autorización del Gobierno, mediante el consejero o consejera competente en materia de economía y finanzas. Por importes inferiores se precisa la autorización del departamento competente en materia de economía y finanzas.
+
+> Se deroga la letra b) por la disposición derogatoria 1.c) de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+> Se añade por el art. 34.2 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+## CAPÍTULO VI — La Tesorería y los avales de la Generalidad
+
+#### Artículo 54.
+
+1\. Constituyen la Tesorería de la Generalidad todos los recursos financieros, tanto para operaciones presupuestarias como extrapresupuestarias, sean dinero, valores, créditos o productos del endeudamiento de la Generalidad y de las entidades autónomas.
+
+2\. Los efectivos de la Tesorería y las variaciones que sufran están sujetas a la intervención y han de ser registradas según las normas de la contabilidad pública.
+
+#### Artículo 55.
+
+La Tesorería cumple las funciones siguientes:
+
+a) Recaudar los ingresos y pagar las obligaciones de la Generalidad.
+
+b) Servir el principio de unidad de caja, mediante la centralización de todos los caudales y valores generados por operaciones presupuestarias y extrapresupuestarias.
+
+c) Distribuir en el tiempo y en el territorio las disponibilidades dinerarias para la satisfacción puntual de las obligaciones de la Generalidad.
+
+d) Responder de los avales contraídos por la Generalidad.
+
+e) Las otras que deriven de las mencionadas en el párrafo anterior o bien se relacionen.
+
+#### Artículo 56.
+
+1\. La Tesorería de la Generalidad situará los caudales de ésta al Banco de España, y a las entidades de crédito y de ahorro que operen en Cataluña.
+
+2\. Los servicios que se podrán concertar con las entidades indicadas en el párrafo anterior se determinarán por reglamento.
+
+#### Artículo 57.
+
+1\. Los caudales de las entidades autónomas de la Generalidad se situarán en la Tesorería de la Generalidad contablemente diferenciados.
+
+2\. No obstante, las entidades autónomas, cuando convenga por razón de las operaciones que desarrollen o del lugar en que éstas se hayan de efectuar, podrán abrir y utilizar cuentas en las entidades de crédito de Cataluña, previa autorización del consejero o de la consejera de Economía y Finanzas.
+
+3\. Corresponde al Departamento de Economía y Finanzas velar por la coordinación de la gestión de tesorería de las entidades participadas mayoritariamente directa o indirectamente por la Generalidad de Cataluña.
+
+> Se modifica el apartado 3 por el art. 33.2 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade el apartado 3 por el art. 18.6 de la Ley 7/2004, de 16 de julio. [Ref. BOE-A-2004-16713](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-16713).
+
+#### Artículo 58.
+
+1\. Los ingresos en la Tesorería podrán hacerse en el Banco de España, en las cajas de la Tesorería y en las entidades de crédito colaboradoras de ésta mediante dinero efectivo, giros, transferencias, cheques y cualquier otro medio o documento de pago, sea bancario o no, autorizado por reglamento.
+
+2\. La Tesorería podrá, asimismo, pagar sus obligaciones por cualquiera de los medios a que hace referencia el párrafo anterior.
+
+#### Artículo 59.
+
+Las necesidades de la Tesorería derivadas de la diferencia de vencimiento de sus pagos e ingresos, podrán atenderse:
+
+a) Con anticipos del Banco de España, si así se acordara mediante convenio con éste, de entidades de crédito según acuerdo del Gobierno a propuesta del consejero o de la consejera de Economía y Finanzas y siempre que la suma total no sea superior al 12% de los créditos que para gastos autorice el presupuesto de la Generalidad del mismo ejercicio, se han de cancelar éstos dentro del ejercicio presupuestario.
+
+b) Con el producto de la emisión de deuda de la Tesorería según se prevé en los artículos 17.1 y 19.3 de la presente Ley.
+
+#### Artículo 60.
+
+1\. Las garantías de la Generalidad que no se concedan mediante una entidad autónoma de carácter financiero y/o el Instituto Catalán de Finanzas deberán revestir necesariamente la forma de aval de la Tesorería, que estará autorizado por el Gobierno a propuesta del consejero o de la consejera de Economía y Finanzas. Los acuerdos de autorización deberán ser publicados en el DOGC.
+
+2\. Los avales prestados a cargo de la Tesorería reportarán a favor de ésta la comisión que para cada operación determine el Gobierno, a propuesta del consejero o de la consejera de Economía y Finanzas.
+
+3\. Los avales estarán documentados en la forma que se determinará por reglamento y estarán firmados por el consejero o la consejera de Economía y Finanzas.
+
+4\. La Tesorería de la Generalidad responderá de las obligaciones de amortización y pago de intereses, si así fuese establecido, sólo en el caso que el deudor principal no cumpliese estas obligaciones.
+
+5\. Las cantidades debidas a la hacienda de la Generalidad a que esta tenga derecho como consecuencia tanto del otorgamiento de un aval como del resarcimiento por su ejecución tienen la consideración de ingresos de derecho público y puede efectuarse su cobro de acuerdo con lo establecido por el artículo 13.
+
+> Se añade el apartado 5 por el art. 97.3 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 61.
+
+1\. La Generalidad podrá avalar las operaciones de crédito que concedan las entidades de crédito legalmente establecidas a entidades autónomas, corporaciones locales y empresas públicas. El importe total de los avales a prestar en cada ejercicio se fijará en la correspondiente Ley de presupuestos de la Generalidad.
+
+2\. El Departamento de Economía y Finanzas tramitará el correspondiente expediente para establecer la conveniencia del aval. La autorización corresponderá al Gobierno y la ejecución al consejero o a la consejera de Economía y Finanzas o a la autoridad en quien expresamente delegue.
+
+3\. La Intervención fiscaliza las actuaciones financiadas con créditos avalados por la Generalidad para conocer en cada momento la aplicación del crédito.
+
+> Se modifica el apartado 3 por el art. 33.3 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+#### Artículo 62.
+
+Las entidades autónomas administrativas podrán prestar avales dentro del límite máximo fijado con esta finalidad para cada ejercicio y entidad por la Ley de presupuestos, siempre que la respectiva norma de creación los autorice a efectuar este tipo de operaciones y se trate de sociedades en que la Generalidad o sus entidades autónomas participen directa o indirectamente en más de un 25% del capital social, tengan la posibilidad de designar los órganos de dirección o participen en más de un 10% cuando sean titulares de servicios públicos. Deberán rendir cuentas al Departamento de Economía y Finanzas de cada uno de los avales que concedan.
+
+## CAPÍTULO VII — La intervención y la contabilidad
+
+### Sección 1.ª La intervención
+
+#### Artículo 63.
+
+Todos los actos, documentos y expedientes de la Administración de la Generalidad de los cuales puedan derivar derechos y obligaciones de contenido económico o movimiento de fondo o valores son intervenidos de acuerdo con esta Ley y con sus disposiciones complementarias o supletorias.
+
+#### Artículo 64.
+
+La Intervención de la Generalidad, con plena autonomía respecto de los órganos y entidades sujetos a fiscalización, tiene las siguientes facultades:
+
+a) Ser el centro de control interno de acuerdo con las modalidades de control establecidas por el artículo 68.
+
+b) Ser el centro directivo de la contabilidad pública atribuida a la Generalidad de Cataluña.
+
+> Se modifica por el art. 42.13 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade la letra d) por el art. 97.4 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 65.
+
+En caso de que, en ejercicio de la función interventora, la Intervención discrepe con el fondo o con la forma de los actos, expedientes o documentos examinados, formula sus objeciones por escrito. Si la disconformidad se refiere al reconocimiento o a la liquidación de derechos a favor de la hacienda de la Generalidad, se hace en nota de reparo, y si subsiste la discrepancia, mediante el recurso o la reclamación que proceda.
+
+> Se modifica por el art. 97.5 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 66.
+
+Si la objeción del artículo 65 afecta a la disposición de gastos, el reconocimiento de obligaciones o la propuesta de pagos, la Intervención suspende, mientras no se resuelva, la tramitación del expediente en los siguientes casos:
+
+a) Si existe insuficiencia o inadecuación del crédito.
+
+b) Si existen irregularidades no inmediatamente subsanables en la documentación justificativa de las propuestas de pago o cuando el derecho del perceptor no quede suficientemente justificado.
+
+c) Si carecen de requisitos esenciales en el expediente o cuando estime la posibilidad de graves pérdidas económicas si el expediente sigue gestionándose.
+
+d) Si la objeción deriva de comprobaciones materiales de obras, suministros, adquisiciones o servicios.
+
+> Se modifica por el art. 42.14 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 67.
+
+1\. Si el órgano afectado por la objeción a la que se refiere el artículo 66 no está de acuerdo, se procede del siguiente modo:
+
+a) Si la discrepancia corresponde a una intervención delegada, la Intervención General resuelve.
+
+b) Si se mantiene la discrepancia o esta corresponde a la propia Intervención General, la resolución corresponde al Gobierno.
+
+2\. La Intervención podrá emitir informe favorable mientras los requisitos o los trámites exigidos no sean esenciales, pero la eficacia del acto quedará condicionada a su cumplimiento.
+
+> Se modifica el apartado 1 por el art. 42.15 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 68.
+
+1\. La Intervención General puede utilizar, para el ejercicio de sus funciones, las siguientes modalidades de control:
+
+a) La función interventora o fiscalización previa plena, que puede ser sustituida, en los supuestos que se determinen, por una fiscalización previa por muestreo.
+
+b) El control posterior.
+
+c) El control financiero, que puede realizarse de forma periódica o permanente.
+
+d) El control de gestión en el ámbito económico-financiero.
+
+2\. La función interventora o fiscalización previa plena tiene por objeto controlar las propuestas de actos, documentos y expedientes de la Generalitat que determinen el reconocimiento de derechos y obligaciones de contenido económico, y también los ingresos y pagos que deriven y la recaudación y aplicación de los caudales. Estos actos se podrán someter a fiscalización en la fase de resolución por causas debidamente justificadas y siempre que no hayan producido efectos.
+
+3\. El ejercicio de la función interventora o fiscalización previa plena comprende:
+
+a) La intervención previa o crítica de todos los actos, documentos y expedientes susceptibles de producir derechos u obligaciones de contenido económico o movimiento de fondos y valores.
+
+b) La intervención formal y material de los pagos.
+
+c) La intervención de la aplicación de las cantidades destinadas a obras, suministros, adquisiciones y servicios, que incluye también su examen documental.
+
+d) La interposición de recursos y de reclamaciones en los supuestos previstos por las leyes.
+
+e) El pedido al órgano o a los órganos competentes, cuando la naturaleza del acto, documento o expediente a intervenir lo requiera, de los asesoramientos adecuados al caso, así como de los antecedentes necesarios para el mejor ejercicio de la función interventora.
+
+4\. El control posterior tiene por objeto comprobar que los actos, expedientes y documentos de los que deriven derechos y obligaciones de naturaleza económica o financiera se han ajustado a las normas jurídicas y procedimentales establecidas para cada materia. Como objeto complementario del control posterior, puede establecerse la evaluación de la gestión realizada y la organización de recursos disponibles en relación con los principios generales de buena gestión financiera.
+
+5\. El control financiero tiene por objeto comprobar que el funcionamiento económico y financiero de la entidad u órgano o procedimiento controlado se ajusta al ordenamiento jurídico y a los principios generales de la buena gestión financiera.
+
+6\. El control de gestión en el ámbito económico-financiero tiene por objeto el análisis global o específico de los procedimientos, riesgos, sistemas, resultados, organización y programas de las diferentes unidades y entidades, a fin de comprobar si la gestión de los recursos se ha efectuado de acuerdo con los principios de economía, eficiencia y eficacia.
+
+7\. El personal del Cuerpo de Intervención de la Generalidad ejerce las competencias atribuidas a la Intervención en el ámbito territorial de la Generalidad de Cataluña.
+
+8\. En los casos en que los sistemas informáticos den seguridad jurídica a lo que establece la normativa y, si procede, en la anotación contable correspondiente, se puede establecer, por resolución del interventor o interventora general, la automatización total o parcial de las actuaciones de control, y si procede, de contabilidad, a realizar dentro de las modalidades establecidas, que es la que se hace íntegramente por medios electrónicos y, por lo tanto, sin la actuación de personal del cuerpo de intervención de la Generalitat. La unidad responsable de la implantación y el seguimiento es la Intervención General que dictará las resoluciones correspondientes para determinar los extremos que pueden ser susceptibles de ser automatizados, eximiendo de la comprobación otros requisitos siempre que se consideren no esenciales y presenten un bajo riesgo de incumplimiento.
+
+9\. Lo que se establece en el artículo 63 se puede sustituir por la toma de razón en contabilidad, en los supuestos que determine la persona titular de la Intervención General, de acuerdo con un análisis de los riesgos existentes y de los recursos disponibles, sin perjuicio que las intervenciones correspondientes puedan efectuar todas las actuaciones de comprobación que juzguen adecuadas en los diferentes expedientes.
+
+> Se modifica el apartado 2 y se añaden los apartados 8 y 9 por el art. 5.1 a 3 del Decreto-ley 3/2026, de 24 de marzo. [Ref. BOE-A-2026-10430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10430)
+
+> Se modifica por el art. 42.16 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade la letra c) al apartado 1 y el apartado 5 bis por el art. 97.6 y 7 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 155.1 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 69.
+
+1\. Los departamentos de la Generalidad, las entidades autónomas administrativas y el Servicio Catalán de la Salud están sometidas a la función interventora y el resto de entidades del sector público a la modalidad de control financiero.
+
+2\. Sin perjuicio de lo que establece el apartado 1, la Intervención General puede acordar las modalidades de control que tiene que ejercer la intervención en los órganos, las entidades del sector público de la Generalitat, los procedimientos o las actuaciones, con los requisitos que se determinen, con el fin de mejorar la eficacia y la eficiencia en sus finalidades.
+
+3\. Las modalidades de control deben acordarse teniendo en cuenta la normativa específica aplicable por razón de la materia.
+
+> Se modifica el apartado 2 por el art. 5.4 del Decreto-ley 3/2026, de 24 de marzo. [Ref. BOE-A-2026-10430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10430)
+
+> Se modifica por el art. 97.8 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 155.1 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 15 de la Ley 12/2004, de 27 de diciembre. [Ref. BOE-A-2005-2647](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-2647).
+
+#### Artículo 70.
+
+1\. La Intervención General aprueba el plan anual de actuaciones de control que incluye las de control financiero, control posterior, control de gestión en el ámbito económico-financiero y fiscalización previa por muestreo. La Intervención debe comunicar el resultado de los controles efectuados al consejero competente en materia de finanzas y debe publicarse en el Portal de la Transparencia de la Generalidad.
+
+2\. Los informes resultantes de los controles a que se refiere el apartado 1 deben incluir las recomendaciones para resolver las debilidades o deficiencias que se hayan detectado y, en su caso, proponer la adopción de las medidas correctoras a adoptar por la entidad.
+
+3\. Las unidades y entidades controladas deben comunicar a la Intervención General, por medio del departamento de adscripción, las medidas correctoras que deben adoptar como resultado de los controles y el calendario previsto para su aplicación, así como las actuaciones que, en su caso, sean necesarias a fin de resarcir y evitar perjuicios a la hacienda de la Generalidad.
+
+4\. En caso de que no se dé respuesta a las recomendaciones hechas o la respuesta sea insuficiente o inadecuada, debe iniciarse un procedimiento contradictorio entre las partes, que una vez finalizado debe permitir a la Intervención General, si procede, poner este hecho en conocimiento del Gobierno, mediante la persona titular del departamento competente en materia de finanzas, para que acuerde las medidas que deben adoptarse.
+
+Sin perjuicio de lo establecido por el párrafo anterior, si la Intervención General detecta indicios de posibles perjuicios a la hacienda de la Generalidad, debe proponer a la persona titular del departamento competente en materia de finanzas el inicio del expediente oportuno, según lo establecido por el artículo 85.
+
+> Se modifica el apartado 4 por el art. 33.4 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifica por el art. 97.9 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 71.
+
+1\. Las entidades públicas que forman parte del sector público de la Generalidad con participación mayoritaria, directa o indirectamente, y las entidades adscritas a la Administración de la Generalidad son objeto de control financiero mediante la forma de auditoría bajo la dirección de la Intervención General o mediante la supervisión de auditorías contratadas, de acuerdo con el plan anual de actuaciones de control aprobado para cada ejercicio económico.
+
+2\. La supervisión de auditorías contratadas a que se refiere el apartado 1 consiste en la verificación de que los trabajos realizados se ajustan, con carácter general, a los procedimientos de auditoría generalmente establecidos en el ámbito del sector público y en el objeto del contrato correspondiente.
+
+3\. Las entidades públicas que forman parte del sector público de la Generalitat con participación mayoritaria, directa o indirectamente, tienen que establecer órganos propios de control económico y financiero interno, que tienen que depender directamente del máximo órgano de gobierno de la entidad.
+
+El departamento competente en materia de finanzas, a propuesta de la Intervención General, debe regular, por orden de la persona titular, las entidades que tienen que establecerlo, las funciones, las competencias, el alcance y los criterios del control interno de estos órganos, teniendo en cuenta el volumen de recursos anuales que gestiona la entidad, el número de personal y otros factores que se consideren relevantes y que puedan afectar a los aspectos económicos y financieros de la entidad.
+
+4\. Las actuaciones de control financiero a que se refiere este artículo pueden comprender una auditoría financiera y de legalidad para comprobar que la actuación de la entidad se ajusta a la legalidad vigente y a las directrices del Gobierno y del departamento competente en materia de finanzas que le sean de aplicación, y también que las transferencias recibidas de la Generalidad se han aplicado a los fines previstos. En caso contrario, pueden incluir las propuestas de las medidas de ajuste y de compensación que sean pertinentes.
+
+El personal designado para efectuar el control financiero puede revisar los sistemas informáticos de gestión que considere necesarios para llevar a cabo las funciones de control de estas entidades.
+
+5\. Los informes resultantes de los controles financieros a que se refiere el apartado 1 deben incluir los errores, los incumplimientos, las deficiencias y las debilidades relativas a las cuentas anuales, el cumplimiento de la legalidad o de los procedimientos de gestión, así como las recomendaciones con las medidas que debe adoptar la entidad controlada.
+
+La entidad controlada debe comunicar a la Intervención General, por medio del departamento de adscripción, las medidas correctoras que deben adoptarse y el calendario previsto para su aplicación, así como las actuaciones que deben llevarse a cabo para resarcir y evitar perjuicios a la hacienda de la Generalidad.
+
+En caso de que por las actuaciones llevadas a cabo se considere que hay evidencias de posibles responsabilidades, la Intervención General debe proponer al titular del departamento competente en materia de finanzas el inicio del correspondiente expediente.
+
+Cuando de las conclusiones del informe de control financiero derivado de las actuaciones de control efectuadas se desprenda que la entidad controlada ha podido llevar a cabo actos de gestión que de acuerdo con la normativa de aplicación podrían ser susceptibles de nulidad, la entidad, independientemente de su forma jurídica, debe iniciar su procedimiento de revisión de oficio en los términos establecidos por la normativa de procedimiento administrativo a fin de que el órgano competente determine los efectos jurídicos que se desprendan.
+
+6\. La Intervención General, en el marco de las actuaciones de control, ejerce la supervisión continua de las entidades del sector público de la Generalidad, con el fin de evaluar, desde un punto de vista económico-financiero:
+
+a) La subsistencia de las circunstancias que justificaron la creación de estas entidades.
+
+b) La sostenibilidad financiera de estas entidades.
+
+c) La concurrencia de la causa de disolución por el incumplimiento de las finalidades que justificaron la creación de la entidad o si la subsistencia de la entidad es el medio más idóneo para su consecución.
+
+7\. En el marco de los controles a que se refiere el apartado 1, las autoridades y los responsables de las entidades sujetas a control financiero deben garantizar que se preste la debida colaboración y el apoyo necesario al personal de la Intervención General y de las sociedades de auditoría, o a los auditores de cuentas contratados para llevar a cabo el control, y facilitarles los documentos, los antecedentes, los datos y toda la información que soliciten en los plazos que la planificación correspondiente establece. A estos efectos, el personal de la Intervención tiene la consideración de agente de la autoridad.
+
+En caso de que el interventor que dirige un control encuentre resistencia a la entrega de la información necesaria para llevarlo a cabo por parte de la entidad sujeta a control financiero o se produzca un retraso injustificado en la puesta a disposición de esta información, debe poner inmediatamente esta circunstancia en conocimiento del interventor general, que deberá trasladarla al titular del departamento de adscripción de la entidad para que tome las medidas necesarias y exija, en su caso, las responsabilidades necesarias.
+
+> Se modifica el apartado 3 por el art. 5.5 del Decreto-ley 3/2026, de 24 de marzo. [Ref. BOE-A-2026-10430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10430)
+
+> Se modifican los apartados 4, 5 y se añade el 7 por el art. 33.5 a 7 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifica por el art. 97.10 Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 155.2 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 137.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999)
+
+> Se modifican los apartados 1 a 3 por el art. 55.4 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896)
+
+> Se modifica el apartado 5 por el art. 18.2 de la Ley 17/2007, de 21 de diciembre. [Ref. BOE-A-2008-3656](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3656)
+
+> Se añaden los apartados 4 a 8 por el art. 18.7 de la Ley 7/2004, de 16 de julio. [Ref. BOE-A-2004-16713](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-16713)
+
+#### Artículo 71 bis.
+
+1\. Las entidades a las que se refiere el apartado 1 del artículo 71 deben recibir cada año una auditoría financiera de sus cuentas anuales. En los ejercicios en que esta auditoría no sea incluida en el plan anual de actuaciones de control aprobado por la Intervención, debe realizarse con medios propios, y la entidad debe contratar a sociedades de auditoría o auditores de cuentas privados para que la lleven a cabo, sin perjuicio de que la Intervención General pueda realizar otros controles o dirigir la auditoría de cuentas anuales según el plan anual de actuaciones mencionado.
+
+2\. Las auditorías de las sociedades de auditoría de cuentas o auditores de cuentas privados a las entidades del sector público de la Generalidad, incluidas las fundaciones de su sector público obligadas a ser auditadas en virtud de su normativa específica, deben llevarse a cabo de acuerdo con las normas de auditoría del sector público y las instrucciones que dicta la Intervención General.
+
+Esta disposición no es de aplicación a las sociedades de capital del sector público de la Generalidad obligadas por la normativa mercantil a someter sus cuentas anuales a auditoría.
+
+3\. Las sociedades de auditoría o los auditores de cuentas individuales concurrentes, en relación con cada trabajo a adjudicar, no pueden ser contratados cuando el mismo año o el año anterior al que deben llevar a cabo el trabajo hayan realizado o realicen otros para la entidad sobre áreas o materias respecto de las cuales debe pronunciarse el auditor en su informe.
+
+4\. Los auditores no pueden ser contratados con contratos sucesivos para realizar trabajos sobre una misma entidad por más de diez años. Posteriormente, no podrán ser contratados nuevamente hasta transcurridos dos años desde la finalización del período anterior. La duración de los contratos para las auditorías de las sociedades de capital del sector público de la Generalidad obligadas por la normativa mercantil a ser auditadas queda sometida a la normativa específica.
+
+> Se añade por el art. 33.8 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifica por el art. 97.10 Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 155.2 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 137.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999)
+
+> Se modifican los apartados 1 a 3 por el art. 55.4 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896)
+
+> Se modifica el apartado 5 por el art. 18.2 de la Ley 17/2007, de 21 de diciembre. [Ref. BOE-A-2008-3656](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3656)
+
+> Se añaden los apartados 4 a 8 por el art. 18.7 de la Ley 7/2004, de 16 de julio. [Ref. BOE-A-2004-16713](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-16713)
+
+### Sección 2.ª La contabilidad
+
+#### Artículo 72.
+
+La Generalidad y las entidades autónomas y administrativas quedan sometidas al régimen de contabilidad pública en los términos previstos en esta Ley.
+
+#### Artículo 73.
+
+1\. La sujeción al régimen de contabilidad pública comporta la obligación de rendir cuentas de las operaciones respectivas, cualquiera que sea su naturaleza, a la Sindicatura de Cuentas mediante la Intervención General, o directamente, cuando proceda, a la Sindicatura de Cuentas que lo requiera.
+
+2\. Lo que dispone el párrafo anterior se aplica al uso de las transferencias corrientes o de capital independientemente de quiénes sean los perceptores.
+
+3\. Aquella obligación se entiende sin perjuicio de las competencias que la Constitución confiere al Tribunal de Cuentas.
+
+#### Artículo 74.
+
+Es competencia del consejero o de la consejera de Economía y Finanzas la organización de la contabilidad pública al servicio de las finalidades siguientes:
+
+a) Registrar la ejecución del presupuesto de la Generalidad.
+
+b) Conocer el movimiento de la situación de la Tesorería.
+
+c) Reflejar las variaciones, la composición y la situación del patrimonio de la Generalidad, de las entidades autónomas, de las empresas públicas y de las empresas vinculadas a la Generalidad.
+
+d) Proporcionar los datos necesarios para la formación y la rendición de la cuenta general de la Generalidad, así como de las otras cuentas, estados y documentos que deban ser elaborados o enviados a la Sindicatura de Cuentas y al Tribunal de Cuentas.
+
+e) Facilitar los datos y otros antecedentes necesarios para la confección de las cuentas económicas del sector público de Cataluña y su consolidación posterior con las cuentas económicas del sector público del resto del Estado español.
+
+f) Rendir la información económica y financiera para la toma de decisiones a nivel de gobierno y de administración.
+
+#### Artículo 75.
+
+1\. La Intervención General de la Generalitat es el centro directivo de la contabilidad pública de Cataluña, al que le corresponde:
+
+a) Proponer a la persona titular del departamento competente en materia de finanzas la aprobación del Plan general de contabilidad pública de la Generalitat de Catalunya, y también la aprobación de los criterios para determinar el plan contable en virtud del cual las entidades del sector público de la Generalitat tienen que presentar la información económico-financiera, patrimonial y presupuestaria, atendiendo sus características o peculiaridades, sin perjuicio de la coordinación con el plan marco.
+
+b) Elaborar las instrucciones de desarrollo del Plan general de contabilidad pública de la Generalitat, y proponer los planes parciales y especiales que se elaboren, si procede.
+
+c) Elaborar y proponer las instrucciones para determinar reglas contables a las que se tienen que someter las entidades del sector público de la Generalitat, y también el contenido, el modelo y la estructura de las anotaciones contables, estados y otra información contable y presupuestaria que se puedan requerir de estas entidades.
+
+d) Elaborar las instrucciones para determinar las especificaciones, el procedimiento y la periodicidad de la información contable que tienen que rendir a la Intervención General las entidades del sector público de la Generalitat, y también el resto de entidades que constan en el inventario de ente en el ámbito de la Generalitat de Catalunya en los términos que establece la normativa de transparencia, estabilidad presupuestaria y sostenibilidad financiera.
+
+e) Dirigir y administrar los sistemas corporativos de información contable y autorizar, en casos excepcionales, la contratación de sistemas de información contables específicos de las entidades del sector público.
+
+f) Dirigir y supervisar los procedimientos de registro, elaboración y comunicación de la información contable de las entidades.
+
+2\. La Intervención General puede establecer la implantación integrada en los sistemas de información contables de sistemas corporativos de gestión y sus modificaciones. Asimismo, con esta finalidad, puede crear, bajo su dirección, los sistemas informáticos de gestión que correspondan, siempre que tengan efectos económicos o financieros, excepto aquellos que se realicen por otras unidades en el ejercicio de una competencia asignada en el ámbito de la Generalitat.
+
+> Se modifica por el art. 5.6 del Decreto-ley 3/2026, de 24 de marzo. [Ref. BOE-A-2026-10430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10430)
+
+> Se modifica la letra e) por el art. 33.9 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifica por el art. 97.11 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 76.
+
+Como centro gestor de la contabilidad pública corresponde a la Intervención General de la Generalidad:
+
+a) Registrar la contabilidad las operaciones de contenido económico-financiero, patrimonial y presupuestarias de la Administración de la Generalidad y de las entidades sujetas a función interventora.
+
+b) Formar la cuenta general de la Generalidad.
+
+c) Centralizar la rendición de cuentas, los estados contables y resto de información de la Generalidad y de sus entidades, que de acuerdo con la normativa aplicable deban presentarse a otros órganos de control u otros destinatarios.
+
+d) Centralizar y presentar las cuentas y otra información contable de la Generalidad y de las entidades que constan en el Inventario de entes públicos en el ámbito de la Generalidad en los términos que establezca la normativa de transparencia, estabilidad presupuestaria y sostenibilidad financiera.
+
+e) Elaborar la información contable de naturaleza económica financiera, patrimonial y presupuestaria para la formación de las cuentas del sector público de la Generalidad de acuerdo con los criterios de delimitación institucional e imputación de operaciones del sistema europeo de cuentas establecido por la normativa vigente.
+
+f) Coordinar la planificación contable de las entidades del sector público de la Generlidad.
+
+g) Impulsar y dirigir la implementación y el mantenimiento de los sistemas corporativos de información contable y la integración con los sistemas informáticos de gestión. Para garantizar el ejercicio de esta función, las entidades del sector público deben requerir previamente la preceptiva autorización de la Intervención en los casos excepcionales en que deben utilizar un sistema de información contable específico.
+
+h) Centralizar, cuando lo determine, la información contable de todas las entidades clasificadas como Administración pública de la Generalidad según el sistema europeo de cuentas, estableciendo, para facilitar el cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera, así como las obligaciones de información establecidas en la normativa vigente y con fines de control, la remisión de los datos contables y de gestión económica y financiera a dichas entidades, de acuerdo con la composición, el formato y la periodicidad que se determine.
+
+> Se modifica la letra g) por el art. 33.10 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade la letra h) por el art. 42.17 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por el art. 97.12 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 76 bis.
+
+1\. La Intervención General es el órgano competente en la rendición de cuentas de todas las entidades clasificadas como Administración pública de la Generalidad según el sistema europeo de cuentas, en los términos de la normativa de transparencia, estabilidad presupuestaria y sostenibilidad financiera.
+
+La Intervención General supervisa el cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera, deuda, regla de gasto y período medio de pago a proveedores que la ley anual de presupuestos establezca a las entidades clasificadas en su sector de administraciones públicas en términos de contabilidad nacional y, propone al departamento competente en materia de finanzas la adopción de las correspondientes medidas correctoras.
+
+2\. Las universidades públicas, las empresas y las entidades que, de acuerdo con las normas reguladoras del sistema europeo de cuentas, son consideradas parte del sector de las administraciones públicas, así como el resto de entidades cuyo presupuesto figura en los presupuestos de la Generalidad que aprueba el Parlamento, deben remitir a la Intervención General mensualmente, dentro del mes siguiente, o con la periodicidad que se determine, la información de acuerdo con el contenido que a tal efecto tiene que establecer la Intervención General.
+
+3\. Sin perjuicio de lo establecido por el apartado 2, las entidades no mayoritarias de la Generalidad que, de acuerdo con las normas del sistema europeo de cuentas, han sido clasificadas en el sector de Administración pública de la Generalidad se someten a las normas que en materia de finanzas establezcan expresamente la ley de presupuestos anual y la normativa que la desarrolle. Asimismo, deben presentar sus cuentas anuales en los mismos plazos establecidos para el resto de entidades del sector público de la Generalidad.
+
+4\. Las entidades clasificadas como Administración pública de la Generalidad según el sistema europeo de cuentas que prevean formalizar contratos que impliquen la creación y explotación de infraestructuras mediante asociaciones público-privadas, de acuerdo con el sistema europeo de cuentas, u otros negocios jurídicos que difieran el impacto presupuestario de la ejecución de las inversiones, deben remitir la propuesta de actuación a la Intervención General, para analizar el impacto potencial en la capacidad o necesidad de financiación según el tratamiento establecido por la contabilidad nacional y para evaluar su sostenibilidad financiera, previamente al inicio de la licitación. El Gobierno de la Generalidad, a propuesta de la Intervención General, debe aprobar la modalidad de control a la que deben someterse estas operaciones.
+
+> Se modifica el apartado 4 por el art. 33.11 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifica el apartado 4 por el art. 42.18 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 1 por el art. 97.13 de la 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 155.3 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 77.
+
+Las cuentas y la documentación que se deban rendir a la Sindicatura de Cuentas y al Tribunal de Cuentas se formarán y se cerrarán por períodos mensuales, excepto las correspondientes a las entidades autónomas, empresas públicas y empresas vinculadas a la Generalidad, que lo serán anualmente, dentro de los seis meses siguientes al cierre del ejercicio.
+
+#### Artículo 78.
+
+La contabilidad pública queda sometida a verificación ordinaria o extraordinaria a cargo de funcionarios dependientes de la Intervención General de la Generalidad y de los que, dado el caso, designe la Sindicatura de Cuentas o el Tribunal de Cuentas.
+
+#### Artículo 79.
+
+1\. El departamento competente en materia de finanzas, mediante su portal de Internet, con periodicidad trimestral dentro del trimestre siguiente al vencimiento de cada trimestre, debe poner a disposición del Parlamento, para que esté informado y sea estudiada por la Comisión de Economía, Finanzas y Presupuesto, la siguiente información:
+
+a) El estado de ejecución del presupuesto de la Generalidad y de sus modificaciones, que debe incluir también la información relativa a los créditos extraordinarios y a los suplementos de crédito descritos en el artículo 39 de esta ley, y los movimientos y la situación del Tesoro.
+
+b) La información sobre la evolución del endeudamiento, clasificada en:
+
+– Créditos y préstamos bancarios a largo plazo.
+
+– Emisiones de deuda a largo plazo.
+
+– Créditos y préstamos a corto plazo.
+
+– Emisiones de deuda a corto plazo.
+
+c) La información sobre los avales concedidos en los términos del artículo 61 de esta ley, indicando su estado de situación y los riesgos asumidos.
+
+d) La información completa y necesaria sobre la evolución de los resultados no financieros del sector público administrativo de la Generalidad, con el análisis, en su caso, de las desviaciones respecto a las previsiones del presupuesto.
+
+2\. Las entidades del sector público y las entidades clasificadas como entidades del sector de Administración pública de la Generalidad de acuerdo con los criterios del sistema europeo de cuentas nacionales y regionales (SEC) deben remitir mensualmente al departamento competente en materia de finanzas un estado de su situación financiera y económica, de acuerdo con la estructura que el departamento determine.
+
+> Se modifica por el art. 33.12 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifica por el art. 97.14 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 80.
+
+1\. La Cuenta general de la Generalidad debe suministrar información sobre la ejecución y la liquidación de los presupuestos y sobre la situación económica, financiera y patrimonial del sector público de la Generalidad.
+
+2\. Forman parte de la Cuenta general:
+
+a) La cuenta de la Administración de la Generalidad.
+
+b) Las cuentas de las entidades del sector público participadas de forma mayoritaria, directa o indirectamente, por la Generalidad y las entidades independientes creadas con régimen singular y que se relacionan con la Administración de la Generalidad de Cataluña, cuyos presupuestos se aprueben mediante la ley de presupuestos de la Generalidad.
+
+c) Las cuentas de las entidades públicas adscritas a la Administración de la Generalidad.
+
+> Se modifica por el art. 155.4 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 81.
+
+1\. Mediante una orden de la persona titular del departamento competente en materia de finanzas y a propuesta de la Intervención General deben determinarse la estructura y el contenido de la Cuenta general y las normas de consolidación de las cuentas.
+
+2\. Las entidades del sector público sujetas a fiscalización previa deben presentar a la Intervención las cuentas y estados contables provisionales antes del 31 de marzo del año posterior al del cierre y deben ser aprobados antes del 30 de junio.
+
+El resto de entidades del sector público de la Generalidad deben formular sus cuentas anuales de acuerdo con los principios contables que les son aplicables y se deben comunicar a la Intervención General y poner a disposición de los responsables de la auditoría antes del 31 de marzo del año posterior.
+
+3\. En todos los casos, las entidades del sector público de la Generalidad, las entidades adscritas a la Generalidad, las universidades públicas financiadas por la Generalidad, las fundaciones y los consorcios en que la Generalidad participa mayoritariamente o minoritariamente deben remitir telemáticamente las cuentas anuales debidamente aprobadas a la Intervención General y a la Sindicatura de Cuentas antes del 30 de junio del año posterior, de acuerdo con el formato y los requisitos que establezca la Intervención General. También deben remitir la misma documentación referida a las empresas y otras entidades en las que participan.
+
+4\. La Intervención General formula la Cuenta general de la Generalidad, que debe presentar a la Sindicatura de Cuentas antes del 31 de julio. Las cuentas anuales consolidadas del sector público que deben incorporarse a la Cuenta general deben ser elaboradas y enviadas por la Intervención General a la Sindicatura de Cuentas antes del 31 de octubre.
+
+> Se modifica el apartado 3 por el art. 33.13 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifican los apartados 3 y 4 por el art. 42.19 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifican los apartados 2 y 3 por el art. 2 del Decreto-ley 10/2021, de 23 de febrero. [Ref. BOE-A-2021-4316](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4316)
+
+> Se modifica el apartado 4 por el art. 97.15 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 155.4 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 82.
+
+La Cuenta general de la Generalidad se forma con las cuentas que los distintos cuentadantes remitan a la Intervención General. La falta de remisión de cuentas no obsta para que la Intervención General pueda formar la Cuenta general con las cuentas recibidas.
+
+> Se modifica por el art. 155.4 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+## CAPÍTULO VIII — Responsabilidades
+
+#### Artículo 83.
+
+1\. Los/las titulares de cargos políticos y los funcionarios o funcionarias al servicio de la Generalidad o de las entidades autónomas o empresas públicas que dolosa o culpablemente por acción u omisión, ocasionen perjuicios económicos a la Hacienda de la Generalidad, quedarán sometidos a la responsabilidad civil, penal o disciplinaria que corresponda, de acuerdo con las leyes. La responsabilidad penal y la disciplinaria serán compatibles entre ellas y con la civil.
+
+2\. Están especialmente sujetos a la obligación de indemnizar la hacienda de la Generalidad los responsables directos del daño a los caudales públicos, y aquellos que hayan intervenido, ya sea por inducción, o por determinación de la conducta perjudicial, el encubrimiento y la complicidad en el daño producido.
+
+3\. La responsabilidad, en los supuestos de concurrencia de responsables, será mancomunada, salvo los casos de engaño o fraude, en que será solidaria.
+
+4\. Cuando los superiores jerárquicos de los presuntos responsables tengan noticia de un abastecimiento, malversación, daño o perjuicio a la hacienda de la Generalidad, o haya transcurrido el período que se señale reglamentariamente sin haberse justificado los mandamientos de pagos a los que se refiere, deben instruir las diligencias previas oportunas y adoptar con el mismo carácter las medidas necesarias para asegurar los derechos de la hacienda de la Generalidad.
+
+> Se modifica el apartado 4 por el art. 42.20 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 2 por el art. 55.5 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 84.
+
+Constituyen acciones y omisiones de las que resultará la obligación de indemnizar la Hacienda de la Generalidad:
+
+a) Incurrir en abastecimiento o malversación afectando el haber de la Generalidad.
+
+b) Administrar los derechos económicos de la Hacienda de la Generalidad incumpliendo las disposiciones reguladoras de su gestión, liquidación e inspección y recaudación e ingreso en el Tesoro.
+
+c) Autorizar gastos sin créditos o con crédito insuficiente o infringiendo de algún otro modo las disposiciones vigentes sobre la materia.
+
+d) Provocar pagos indebidos mediante la liquidación de obligaciones ola expedición de documentos en virtud de funciones encomendadas.
+
+e) No rendir las cuentas exigidas por reglamentos o presentarlos con defectos graves.
+
+f) No justificar la aplicación de los fondos a que hace referencia el artículo 50 de esta Ley.
+
+g) Cualquiera de los otros actos u omisiones que constituyan incumplimiento de las disposiciones de esta Ley y de otra normativa aplicable a la administración y contabilidad de la Hacienda de la Generalidad.
+
+> Se modifica la letra c) por el art. 42.21 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 85.
+
+1\. En relación a los actos y las omisiones tipificadas en el artículo anterior, y sin perjuicio de las competencias de la Sindicatura de Cuentas de Cataluña y del Tribunal de Cuentas, la responsabilidad se dilucidará o aclarará mediante expediente administrativo.
+
+2\. El acuerdo de incoación de expediente, la resolución de éste y el nombramiento del juez instructor/a corresponderán al Gobierno cuando se trate de titulares de cargos políticos de la Generalidad, y al consejero o a la consejera de Economía y Finanzas en los demás casos. El expediente se tramitará, en cualquier caso, con audiencia de los interesados o interesadas.
+
+3\. La resolución correspondiente se tendrá que pronunciar sobre los daños y los perjuicios causados a los derechos económicos de la Hacienda de la Generalidad, y los/las responsables tendrán la obligación de indemnizar en la cuantía y el plazo que se señale.
+
+#### Artículo 86.
+
+1\. Los daños y perjuicios determinados por la resolución del expediente a la cual se refiere el artículo anterior tendrán la consideración de derechos económicos de la Hacienda de la Generalidad. En su caso se procederá al cobro por vía de apremio.
+
+2\. La Hacienda de la Generalidad tiene derecho al interés previsto por el artículo 14 de esta Ley sobre el importe de los daños y perjuicios desde el día que éstos se hayan producido.
+
+3\. Cuando a causa de la insolvencia del deudor o deudora de la Generalidad derive la acción hacia los responsables subsidiarios, el interés se contará desde la fecha en que éstos serán requeridos con esta finalidad.
+
+## CAPÍTULO IX — Las subvenciones y las transferencias de la Generalidad de Cataluña
+
+### Sección 1.ª Principios generales
+
+#### Artículo 87.
+
+1\. Se considera subvención toda ayuda que comporte una disposición de fondos públicos acordada por la Generalidad de Cataluña o sus entidades autónomas a cargo de sus presupuestos, que tenga por objeto una entrega dineraria entre los distintos órganos y unidades de la Administración pública de la Generalidad, o de éstos a otras entidades públicas o privadas y particulares, y que cumpla los siguientes requisitos:
+
+a) Que la entrega se realice sin contraprestación directa de los beneficiarios.
+
+b) Que la entrega esté afectada a un fin, un propósito, una actividad o un proyecto específicos, y exista la obligación del destinatario de cumplir las obligaciones o los requisitos que se hayan establecido.
+
+c) Que la finalidad responda al fomento de una actividad de utilidad pública o interés social o para la promoción de una finalidad pública.
+
+2\. Las disposiciones de fondos públicos a los que se refiere el apartado 1 que no cumplan el requisito de la letra b tienen la consideración de transferencias.
+
+3\. Cuando la subvención o la transferencia se realice en especies, debe regirse por lo establecido en la Ley de patrimonio de la Generalidad de Cataluña. Sin embargo, es aplicable lo establecido en este capítulo en el supuesto de que la finalidad de la subvención implique su ejecución por la propia administración, y a cargo de sus créditos presupuestarios destinados a transferencias o subvenciones.
+
+4\. En el supuesto de ayudas que impliquen indemnizaciones derivadas de catástrofes naturales y otras causas de fuerza mayor, el régimen jurídico es el que determina la norma jurídica que la regula.
+
+5\. Las aportaciones dinerarias de la Generalidad a las universidades públicas destinadas a la financiación global de su actividad se consideran transferencias.
+
+> Se añade el apartado 5 por el art. 155.5 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 88.
+
+1\. Lo dispuesto por este capítulo es aplicable a las subvenciones que tramite:
+
+a) La Administración de la Generalidad.
+
+b) Las entidades creadas o participadas de forma mayoritaria, directa o indirectamente, por la Generalidad.
+
+c) Las universidades públicas catalanas.
+
+1.bis. Las ayudas y subvenciones deben programarse previamente en un plan estratégico de subvenciones, que debe contener, como mínimo, los objetivos y los efectos que se pretenden con su aplicación, el plazo para su consecución, los costes previsibles y las fuentes de financiación.
+
+El plan estratégico debe ser aprobado por cada departamento de la Administración de la Generalidad e incluir las subvenciones y ayudas de las entidades del sector público que tengan adscritas.
+
+La efectividad del plan estratégico de subvenciones queda condicionada a las disponibilidades presupuestarias de cada ejercicio y al cumplimiento de los objetivos de estabilidad presupuestaria, de acuerdo con las directrices del departamento competente en materia de finanzas.
+
+2\. El régimen económico financiero de las subvenciones es el establecido en la presente Ley, las leyes especiales aprobadas por el Parlamento y las respectivas leyes de presupuestos de la Generalidad, y son aplicables supletoriamente las normas de derecho administrativo y en su defecto, las del derecho privado. No obstante, respecto a las líneas de subvenciones financiadas con fondos comunitarios y gestionadas por la Generalidad de Cataluña, prevalece la normativa de la Unión Europea.
+
+3\. A las transferencias les es aplicable con carácter general el mismo régimen económico y financiero que a las subvenciones establecidas en la sección primera de este capítulo, en todo aquello que no derive del carácter finalista de éstas.
+
+4\. en el supuesto fijado por el artículo 87.4 se aplica con carácter general el mismo régimen jurídico económico y financiero que a las subvenciones en todo aquello que no sea incompatible con su naturaleza.
+
+> Se añade el apartado 1 bis por el art. 33.14 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade la letra c) al apartado 1 por el art 42.22 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 1 por el art. 155.6 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 89.
+
+Lo establecido en el presente capítulo no es aplicable a las subvenciones que, otorgadas por otra administración pública, deba entregar la Generalidad a un tercero, y en este caso es aplicable la normativa del ente concedente, sin perjuicio de la sujeción al régimen de contabilidad pública y control que corresponda.
+
+#### Artículo 90.
+
+1\. La concesión de las subvenciones debe sujetarse a criterios de publicidad, concurrencia y objetividad.
+
+2\. En materia de ayudas públicas a empresas la concesión de las subvenciones deben ajustarse a la normativa de la Unión Europea y a las directrices emanadas de su Comisión.
+
+3\. La concurrencia no es preceptiva:
+
+a) Si las subvenciones tienen asignación nominativa en los presupuestos de gastos.
+
+b) Si la concesión y la cuantía de las subvenciones derivan del cumplimiento de una ley.
+
+c) Si por la especificidad y características del beneficiario o de la actividad subvencionada no es posible, de forma objetivable, promover la concurrencia pública.
+
+d) Si los beneficiarios son corporaciones y entidades locales y el objeto de la subvención está incluido en planes o en programas previamente aprobados. En este supuesto, los citados planes sustituyen las bases reguladoras a las que se refiere el artículo 92.
+
+e) Si las subvenciones corresponden a aportaciones destinadas a la financiación global de entidades de derecho público o privado con participación minoritaria de la Generalidad, derivadas de sus normas de creación, estatutos y otras disposiciones.
+
+> Se añade la letra e) al apartado 3 por el art. 155.7 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 90 bis.
+
+A las subvenciones y transferencias reguladas por la presente ley, se les aplican, a todos los efectos, las siguientes reglas:
+
+a) La Administración de la Generalidad y los entes que conforman su sector público, en los términos establecidos por la presente ley y con relación a las subvenciones y transferencias que otorgan, pueden llevar a cabo actuaciones de control y requerir información al destinatario o destinataria final del fondo, incluso en los supuestos en los que este no sea el beneficiario o beneficiaria inicial de la subvención o transferencia.
+
+b) El Gobierno debe regular los límites a la posibilidad de acumular entre sí cargos ejecutivos o de gestión a las entidades que perciben subvenciones provenientes de la Administración de la Generalidad y de los entes que conforman su sector público, cuando realicen entre ellas donaciones, aportaciones a título gratuito o prestaciones con esta naturaleza o mantengan relaciones financieras.
+
+c) Los beneficiarios de subvenciones deben someter obligatoriamente a sus órganos internos e independientes de control la comprobación de la destinación adecuada de los fondos que reciban en concepto de subvenciones o transferencias, abarcando la referida a los fondos atribuidos a título gratuito o en virtud de relaciones financieras en favor de terceros. En este último caso, los terceros deben someter igualmente a sus órganos de control la comprobación de la destinación de los fondos recibidos.
+
+d) Los beneficiarios de subvenciones deben garantizar que sus órganos de gobierno conocen, analizan y debaten, de manera directa e independiente de los responsables directos de la gestión, las auditorías realizadas sobre las cuentas de la entidad.
+
+> Se deroga la letra e) por la disposición derogatoria 3 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade por el art. 35 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 91.
+
+Están sujetos al procedimiento de tramitación de las subvenciones:
+
+a) El ente concedente es el órgano que otorga la subvención, dentro del ámbito de su competencia, una vez establecida la consignación presupuestaria con esta finalidad.
+
+b) El beneficiario o el destinatario de los fondos públicos, quien debe realizar la actividad que fundamentó el otorgamiento de la subvención, o hallarse en la situación que legitime su concesión.
+
+c) Las entidades colaboradoras. A tal efecto las empresas y los entes públicos de la Generalidad, las corporaciones de derecho público y las fundaciones que estén bajo el protectorado de un ente de derecho público, así como las personas jurídicas que cumplan las condiciones de solvencia y eficacia que se establezcan, pueden, como entidades colaboradoras, actuar en nombre y por cuenta del ente concedente a todos los efectos relacionados con la subvención, entregando y distribuyendo los fondos públicos a los beneficiarios, cuando así se establezca en las bases reguladoras, sin que los citados fondos se consideren integrados en su patrimonio.
+
+### Sección 2.ª De las bases reguladoras, las convocatorias y la concesión
+
+#### Artículo 92.
+
+1\. El ente concedente, con carácter previo al acuerdo de concesión, debe aprobar las bases reguladoras de la subvención, salvo que su objeto justificara la imposibilidad de la concurrencia.
+
+2\. Las bases reguladoras deben concretar como mínimo:
+
+a) El objeto de la subvención y el período en que debe ejecutarse la actividad.
+
+b) Los requisitos de los beneficiarios y la forma de su acreditación.
+
+c) La posibilidad de intervención de entidades colaboradoras y las condiciones de solvencia y eficacia que deban cumplir.
+
+d) La forma en que el beneficiario o la entidad colaboradora deben justificar el cumplimiento de la finalidad para la cual se concedió la subvención y de la aplicación de los fondos percibidos, y el plazo para su realización.
+
+e) Los límites y requisitos para autorizar anticipos o ingresos a cuenta sobre la subvención concedida.
+
+f) La forma e importe de las garantías que, si procede, deban prestarse en caso de anticipos o ingresos a cuenta de la subvención.
+
+g) Los criterios que deben regir la concesión de la subvención, y la posibilidad de revisar las ya concedidas, en especial la posibilidad de modificación de la resolución de concesión en el caso de alteración de las condiciones o de la obtención concurrente de otras ayudas.
+
+g) bis La posibilidad de reducción total o parcial de la subvención, antes de que no se dicte la resolución definitiva, como consecuencia de las restricciones que deriven del cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera.
+
+h) La obligación del beneficiario de facilitar toda la información que le sea requerida por la Intervención General de la Generalidad, la Sindicatura de Cuentas u otros órganos competentes, de acuerdo con la presente Ley y otras normas aplicables.
+
+2bis.Con el objetivo de promover el cumplimiento del principio de igualdad de mujeres y hombres, el derecho a la igualdad de trato y la no discriminación por razón de orientación sexual, identidad de género, expresión de género o características sexuales, la protección de colectivos minorizados y el fomento de la igualdad de oportunidades, deben tenerse en cuenta la perspectiva interseccional y, especialmente, la perspectiva de género en el diseño, la planificación, la gestión y el otorgamiento de subvenciones, ayudas o becas.
+
+2 ter. No pueden otorgarse ayudas o subvenciones a actividades que sean discriminatorias por razón de sexo, orientación sexual, identidad de género, expresión de género o características sexuales; por razón de cualquiera de las formas de violencia machista a las que se refiere el artículo 4 de la Ley 5/2008, de 24 de abril, del derecho de las mujeres a erradicar la violencia machista, o por razón de cualquiera de las formas de discriminación a las que se refiere el artículo 1.3 de la Ley 19/2020, de 30 de diciembre, de igualdad de trato y no discriminación.
+
+2 quater. Las administraciones públicas no pueden suscribir contratos con entidades que no respeten lo establecido por la presente ley ni otorgarles subvenciones, ni establecer contratos a entidades que promuevan desigualdades por alguno de los motivos a los que se refiere el apartado 2 *ter* ni otorgarles subvenciones. Tampoco pueden ser beneficiarias de ayudas o subvenciones las entidades que vulneren los derechos sexuales y reproductivos. Ello incluye impedir o dificultar el acceso a una información veraz, necesaria para tomar decisiones autónomas e informadas, o impedir o poner dificultades para tomar decisiones sobre las propias prácticas y preferencias sexuales, y sobre la propia reproducción y las condiciones en las que se lleva a cabo, de acuerdo con los supuestos establecidos por la legislación sectorial aplicable.
+
+2 quinquies. Las bases reguladoras de las subvenciones que tengan como beneficiarias a empresas con una plantilla de veinticinco personas o más deben incluir la obligación de estas empresas, de acuerdo con los agentes sociales, de indicar los medios que utilizan para prevenir y detectar casos de acoso sexual y de acoso por razón de sexo e intervenir en sus centros de trabajo. Las empresas con una plantilla de más de cincuenta personas deben acreditar, además, que cuentan con un conjunto planificado de medidas y recursos para alcanzar la igualdad real y efectiva de las personas LGBTI; esta planificación debe incluir un protocolo de actuación para la atención de los acosos y las violencias contra estas personas.
+
+2 sexies. Las bases reguladoras de subvenciones o ayudas deben requerir a los solicitantes que tienen la condición de entidad o empresa la presentación de una declaración responsable de no haber sido objeto de sanciones administrativas firmes ni de sentencias firmes condenatorias en los últimos cinco años por haber ejercido o tolerado prácticas laborales discriminatorias, delito de odio o cualquiera de las infracciones establecidas en la legislación en materia antidiscriminatoria, por razón de la orientación sexual, la identidad de género, la expresión de género o las características sexuales.
+
+2 septies. No pueden otorgarse ayudas o subvenciones a empresas que no presenten la declaración a la que se refiere el apartado 2 sexies o que hayan sido objeto de sanciones administrativas firmes o sentencias firmes condenatorias en los términos de dicho apartado.
+
+3\. Las bases reguladoras deben someterse, antes de su aprobación, al informe del servicio jurídico y de la intervención delegada del ente concedente. Dicha aprobación debe efectuarse por orden del consejero o consejera correspondiente, o del órgano competente, en los supuestos especificados por las letras b) y c) del artículo 93, y deben publicarse en el "Diari Oficial de la Generalitat de Catalunya".
+
+4\. Las convocatorias de subvenciones deben concretar como mínimo:
+
+a) Las bases reguladoras de la subvención o indicación de la disposición donde se contienen.
+
+b) La aplicación presupuestaria a la que deben imputarse y la cantidad máxima destinada. La convocatoria puede fijar, además de la cuantía total máxima dentro de los créditos disponibles, una cuantía adicional estimativa cuya aplicación a las subvenciones no requiere ninguna nueva disposición de ampliación de cuantía ni ninguna nueva convocatoria.
+
+La convocatoria debe hacer constar expresamente que la efectividad de la cuantía adicional está condicionada a la disponibilidad efectiva del crédito en el momento anterior a la resolución de la concesión de la subvención.
+
+En cualquier caso, debe publicarse en el Diario Oficial de la Generalitat de Catalunya la declaración de los créditos efectivamente disponibles previamente a la resolución de la concesión.
+
+c) El plazo para presentar la documentación.
+
+d) Los órganos competentes para la tramitación y resolución del procedimiento y el plazo para su conclusión.
+
+e) El medio de notificación de la resolución, y si ésta agota o no la vía administrativa, con indicación de los recursos y los órganos ante los que pueden interponerse.
+
+f) En el supuesto de ajuste de estado o subvenciones a empresas susceptibles de tener esta consideración y para dar cumplimiento a la normativa de la Unión Europea se debe especificar, en la convocatoria, las diversas finalidades a las que se dirige de acuerdo con la tipología que se fije mediante una orden del consejero o de la consejera de Economía y Finanzas. Se debe hacer una reserva presupuestaria para cada una de las finalidades especificadas o para cada conjunto de finalidades que sigan los criterios de agrupación establecidos en la orden.
+
+5\. Todas las convocatorias públicas de subvenciones deben incluir, entre los requisitos exigidos a las empresas, la justificación de que el solicitante cumple la cuota de reserva para la integración social de los minusválidos, establecida en la legislación vigente.
+
+6\. Previamente a la publicación de la convocatoria, excepto en los casos establecidos por el apartado 7, debe autorizarse el gasto derivado de la línea de subvenciones o ayudas convocada. En el caso de que en la convocatoria se comprometan fondos públicos de ejercicios presupuestarios futuros, la autorización del gasto corresponde al Gobierno. Debe adjuntarse a la convocatoria el certificado de la intervención que acredite que se ha efectuado la correspondiente reserva de crédito.
+
+7\. La correspondiente convocatoria puede ser publicada en el ejercicio presupuestario anterior al que corresponde el gasto efectivo.
+
+La existencia de crédito suficiente y adecuado debe acreditarse mediante el certificado emitido por el órgano competente, tal como consta en el proyecto de presupuesto del ejercicio siguiente, o bien, si procede, acreditando el carácter recurrente del objeto subvencionado en las leyes de presupuestos de los últimos años.
+
+Debe constar en la convocatoria la condición suspensiva de la existencia de crédito en el momento de la resolución de la concesión.
+
+Si el crédito que se aprueba en la Ley de presupuestos del ejercicio correspondiente es superior al previsto en la convocatoria, puede aplicarse a esta y no es necesario publicar una nueva convocatoria.
+
+> Se añaden los apartados 2 bis, 2 ter, 2 quater, 2 quinquies, 2 sexies y 2 septies y se suprime el apartado 7 [sic] por la disposición final 1 de la Ley 13/2025, de 29 de diciembre. [Ref. BOE-A-2026-8073](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8073)
+
+> Se añade la letra g) bis del apartado 2 por el art. 137.4 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se deroga el apartado 9 por la disposición derogatoria 3 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se deroga el apartado 2.i) por la disposición derogatoria 1.c) y se modifica el apartado 4.b) por el art. 55.6 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+> Se añaden la letra i) del apartado 2 y el apartado 9 por el art. 36.1 y 2 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+> Se añade el apartado 7 [sic] por la disposición adicional 7.1 de la Ley 5/2008, de 24 de abril. [Ref. BOE-A-2008-9294](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-9294).
+
+> Se modifica el apartado 6 y se añade el 7 por el art. 18.3 y 4 de la Ley 17/2007, de 21 de diciembre. [Ref. BOE-A-2008-3656](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3656).
+
+> Se modifica el apartado 3 por el art. 16 de la Ley 12/2004, de 27 de diciembre. [Ref. BOE-A-2005-2647](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-2647).
+
+#### Artículo 92 bis.
+
+1\. Los beneficiarios de subvenciones provenientes de la Administración de la Generalidad o de los entes que integran su sector público no pueden hacer donaciones, aportaciones o prestaciones de servicios a título gratuito en favor de partidos políticos, fundaciones o asociaciones que estén vinculadas orgánicamente a los mismos, desde la presentación de la solicitud hasta la finalización de la actividad subvencionada. Esta prohibición se aplica también a las transferencias reguladas por la presente ley.
+
+2\. Los beneficiarios no pueden llevar a cabo en ningún caso las actividades a las que se refiere el apartado 1, en favor de cualesquiera otras personas jurídicas, por un importe superior a tres mil euros, o inferior, cuando acumuladamente y respecto de un mismo perceptor sobrepasen en el ejercicio corriente esta cuantía, salvo en los siguientes casos:
+
+a) Si la aportación a título gratuito se hace en favor de una administración pública, a las entidades sometidas a tutela de la Generalidad porque pertenecen a su administración corporativa o si las prestaciones se derivan del cumplimiento de una normativa sectorial.
+
+b) Si se trata de entidades que, de acuerdo con sus normas fundacionales o estatutarias, tienen como finalidad la colaboración con la Administración o la prestación de servicios de interés social, las cuales requieren, necesariamente, el otorgamiento de ayudas.
+
+c) Si el beneficiario presenta la solicitud de la subvención haciendo constar, expresamente, que los fondos recibidos pueden ser objeto de actuaciones a título gratuito o financiar aportaciones con esta naturaleza en favor de terceros. En este caso se entiende concedida la excepción cuando, motivadamente, se dicte la resolución de concesión.
+
+3\. El incumplimiento de lo establecido por este artículo es causa de revocación de las subvenciones y las transferencias, sin perjuicio del resto de las responsabilidades que legalmente se deriven.
+
+> Se añade por el art. 37 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 93.
+
+1\. Son órganos competentes para la concesión de las subvenciones:
+
+a) En los departamentos de la Generalidad del consejero o de la consejera titular, o el órgano correspondiente que determine la convocatoria.
+
+b) En las entidades autónomas de naturaleza administrativa, sus presidentes o presidentas, directores o directoras, y los consejos de administración en las demás entidades autónomas, sin perjuicio de la facultad de delegación en los gerentes.
+
+c) En los demás entes, los órganos rectores, de acuerdo con lo establecido en sus leyes de creación o normativa específica, sin perjuicio de la posible delegación en los gerentes o figuras análogas.
+
+> Se deroga la letra d) por la disposición derogatoria de la Ley 12/2004, de 27 de diciembre. [Ref. BOE-A-2005-2647](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-2647).
+
+#### Artículo 94.
+
+La concesión de las subvenciones debe ajustarse a las siguientes reglas:
+
+Primera. El procedimiento de concesión es, preferentemente, el de concurrencia competitiva.
+
+Segunda. La resolución que ponga fin al procedimiento de concesión debe ser motivado.
+
+Tercera. El plazo máximo para resolver y notificar las resoluciones de concesión se subvenciones es de seis meses.
+
+Cuarta. El importe de las subvenciones concedidas en ningún caso puede ser de una cuantía que, aisladamente o en concurrencia con subvenciones de otras entidades públicas o privadas, nacionales o internacionales, supere el coste de la actividad a desarrollar por el beneficiario.
+
+2\. Excepcionalmente, se pueden conceder directamente subvenciones innominadas o genéricas, siempre que se acredite la imposibilidad de promover la concurrencia pública por las características del subvencionado o de las actividades a desarrollar. Esta concesión debe cumplir los siguientes requisitos:
+
+a) El procedimiento debe iniciarse a instancia de parte.
+
+b) Debe haber una propuesta motivada de la imposibilidad de promover la concurrencia del secretario o secretaria general o del órgano competente del departamento o del órgano asimilado en la estructura de las entidades autónomas y otras entidades del sector público.
+
+c) La competencia para resolver es del consejero o consejera correspondiente, y no puede ser objeto de delegación. En el caso de las entidades, la competencia para resolver es del órgano competente, de acuerdo con lo establecido por las letras b y c del artículo 93.
+
+d) Si el importe a conceder es superior a 300.000 euros o el que determine la Ley de presupuestos, será necesaria la autorización previa del Gobierno, salvo que se trate de una subvención con cargo a partidas nominativas a favor de una entidad participada por la Generalidad o de las universidades públicas catalanas.
+
+3\. La resolución de concesión debe contener como mínimo:
+
+a) La identificación de la persona o personas solicitantes a las cuales se concede la subvención.
+
+b) El objeto y la finalidad de la concesión, el importe y, en su caso, el porcentaje subvencionado del presupuesto de la actividad o proyecto singular y específico presentado por la persona solicitante, si el objeto de la subvención es de esta naturaleza.
+
+c) La justificación como condición en el caso que se autoricen anticipos de la ejecución del objeto de la subvención.
+
+d) En el caso que se autoricen anticipos, la forma y la cuantía de las garantías que si procede debe presentar el beneficiario de la subvención.
+
+4\. En el supuesto de subvenciones directas o nominativas, la resolución de la concesión debe contener los mismos puntos de la regla tercera como mínimo, el plazo y la forma de justificación de la aplicación del fondo y la obligación de suministrar información a efectos de control.
+
+5\. Excepcionalmente, la concesión puede producirse mediante acuerdos, pactos, convenios y contratos con entidades de derecho público o privado, si estos medios son más eficientes para alcanzar los objetivos fijados, y son exigibles los mismos requisitos establecidos por este capítulo.
+
+6\. Los entes concedentes deben dar publicidad a las subvenciones otorgadas de acuerdo con la normativa aplicable en materia de transparencia.
+
+7\. Las subvenciones que concedan los departamentos con carácter compensador de las cargas por operaciones financieras formalizadas por los perceptores pueden ser entregadas por su importe total al Instituto Catalán de Finanzas o al Instituto Catalán de Crédito Agrario, según la materia, para que procedan al pago periódico de estas subvenciones en los correspondientes ejercicios o a la amortización parcial del capital pendiente de las operaciones con subvención asociada.
+
+8\. Para la acreditación del requisito de encontrarse al corriente en el cumplimiento de sus obligaciones tributarias y ante la Seguridad Social, así como de la ausencia de cualquier deuda pendiente de pago con la hacienda de la Generalitat de Catalunya, la presentación de la solicitud comportará la autorización en el órgano gestor para la consulta de estos datos a los órganos y administraciones correspondientes, a través de los sistemas electrónicos habilitados a este efecto.
+
+> Se añade el apartado 8 por el art. 5.7 del Decreto-ley 3/2026, de 24 de marzo. [Ref. BOE-A-2026-10430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10430)
+
+> Se modifica la letra b) del apartado 3 por el art. 33.15 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifican las letras b), c) y d) del apartado 2 por el art. 42.23 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifican los apartados 5 y 6 por el art. 155.8 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica el apartado 5 por el art. 60.2 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637)
+
+> Se añade el segundo párrafo del apartado 5 por el art. 38 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737)
+
+#### Artículo 95.
+
+Las obligaciones de la persona beneficiaria son:
+
+a) Realizar la actividad o adoptar el comportamiento que fundamenta la concesión de la subvención.
+
+b) Acreditar ante la entidad concedente o, si procede, ante la entidad colaboradora lo determinado por la letra *a*, y cumplir los requisitos y condiciones que determinen la concesión o el disfrute de la subvención, mediante los justificantes de los gastos que debe cubrir el importe financiado y el cumplimiento de la finalidad para la que se ha concedido la subvención, de acuerdo con lo dispuesto por el artículo 98.1. Si la subvención consiste en un porcentaje del coste de la actividad o la inversión, debe acreditarse el coste total correspondiente, sin perjuicio de otros medios de comprobación que hayan establecido las bases reguladoras. En cualquier caso, es preciso justificar la totalidad del gasto realizado en relación con el objeto global o parcial, en este último caso, siempre y cuando se pueda ejecutar por fases o sea susceptible de uso o tratamiento diferenciado.
+
+c) Someterse a las actuaciones de comprobación de la entidad concedente o, si procede, de la entidad colaboradora, a las de control de la actividad económica financiera que correspondan a la Intervención General de la Generalidad, a la Sindicatura de Cuentas, u otros órganos competentes, y en particular a las derivadas de lo dispuesto en el artículo 97.
+
+d) Comunicar a la entidad concedente o, si procede, la entidad colaboradora la obtención de subvenciones para la misma finalidad, procedente de cualquiera de las administraciones o entidades públicas o privadas, nacionales o internacionales, y las alteraciones a que se refiere el artículo 92.2.
+
+e) Proponer al órgano concedente cualquier cambio que, dentro de la propia finalidad, pueda producirse en el destino de la subvención que, si procede, debe ser expresamente autorizado por el órgano concedente.
+
+f) En caso de que la persona beneficiaria esté incluida en el ámbito subjetivo del artículo 96 bis, debe acreditar haber enviado toda la información que debe contener el Registro de subvenciones y ayudas de Cataluña, con relación a aquellas subvenciones y ayudas que haya concedido.
+
+> Se añade la letra f) por el art. 97.16 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica la letra b) por el art. 67.3 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 96.
+
+Las obligaciones de las entidades colaboradoras son:
+
+a) Entregar a los beneficiarios los fondos recibidos de acuerdo con los criterios establecidos en las normas reguladoras de la subvención.
+
+b) Verificar, si procede, el cumplimiento y efectividad de las condiciones determinantes para la concesión de las subvenciones.
+
+c) Justificar la aplicación de los fondos percibidos ante la entidad concedente y, si procede, entregar la justificación presentada por los beneficiarios.
+
+d) Someterse a las actuaciones de comprobación y a las de control establecidas en el artículo 97.
+
+#### Artículo 96 bis. Registro de subvenciones y ayudas de Cataluña.
+
+1\. Se crea el Registro de subvenciones y ayudas de Cataluña con el fin de promover la transparencia, mejorar la planificación y la gestión de las políticas de las administraciones públicas catalanas y colaborar en la lucha contra el fraude en relación con subvenciones y ayudas.
+
+2\. El ámbito subjetivo del Registro de subvenciones y ayudas de Cataluña comprende:
+
+a) La Administración de la Generalidad y las entidades públicas en que participa de forma mayoritaria, directa o indirectamente, así como los consorcios adscritos a esta administración.
+
+b) Las entidades que integran la Administración local y las entidades públicas en que participan de forma mayoritaria, directa o indirectamente, así como los consorcios locales.
+
+c) La Administración propia de Arán.
+
+d) Las entidades creadas por ley del Parlamento que no dependen de la Administración de la Generalidad ni están vinculadas a la misma, cuando ejercen potestades administrativas.
+
+2 bis. El Registro de subvenciones y ayudas de Cataluña debe incluir la información de todas las disposiciones de fondos públicos hechas sin contraprestación a favor de personas físicas o jurídicas por razón de su estado, situación o hecho en que se encuentren o que soporten con la finalidad de cubrir sus necesidades y derechos básicos, u otras razones de interés general, de acuerdo con la normativa sectorial aplicable, así como las medidas de fomento económico, otorgadas por los sujetos incluidos en el apartado 2, independientemente del régimen jurídico de aplicación y de su denominación.
+
+3\. La Intervención General de la Generalidad es el órgano responsable de la administración y custodia del Registro de subvenciones y ayudas de Cataluña. El alcance, el contenido y el funcionamiento del Registro deben determinarse por reglamento.
+
+4\. La obligación establecida por el artículo 15.c de la Ley 19/2014, de 29 de diciembre, de transparencia, acceso a la información pública y buen gobierno, se hace efectiva con el envío de la información exigida al Registro de subvenciones y ayudas de Cataluña.
+
+> Se añade el apartado 2 bis por el art 42.24 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade por el art. 155.9 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+### Sección 3.ª Control
+
+#### Artículo 97.
+
+1\. La Intervención General de la Generalidad, de acuerdo con la normativa aplicable y el plan anual de actuaciones de control, debe controlar las subvenciones públicas afectadas por la presente ley para asegurar el cumplimiento de sus finalidades y de las disposiciones legales aplicables a las finanzas de la Generalidad.
+
+2\. El personal que ocupando puestos de trabajo en la Intervención general, desarrolle las mencionadas funciones de control tiene, a todos los efectos legales, el carácter de agente de la autoridad, y las autoridades públicas le deben prestar la protección y el auxilio que ello requiera. Asimismo, los actos y las diligencias extendidas por el mencionado personal, en el marco de los procedimientos respectivos, tienen la consideración de documentos públicos y dan prueba de los hechos que los motivan excepto que se acredite lo contrario.
+
+3\. El procedimiento de control se rige por la normativa propia de los procedimientos administrativos. En todo caso, su duración no puede sobrepasar el plazo de un año, contado a partir del día siguiente de la notificación de la resolución de inicio; a estos efectos no son computables las dilaciones notificadas que se imputen al administrado, ni las derivadas de fuerza mayor o del cumplimiento del ordenamiento jurídico. El citado plazo puede prorrogarse por otro equivalente si concurren causas de fuerza mayor o razones de interés público.
+
+4\. El control debe afectar a las entidades colaboradoras, los beneficiarios y las terceras personas relacionados con el objeto de la subvención, y quedan obligados a facilitar el ejercicio de las funciones que corresponden a la Intervención General, y, en particular, debe afectar:
+
+a) La documentación justificativa y los antecedentes que se crean necesarios para comprobar la aplicación de la subvención, y la posibilidad de obtener copia.
+
+b) La ampliación del control a las personas físicas o jurídicas que intervengan en la justificación de los fondos públicos percibidos respecto a sus derechos fundamentales.
+
+c) El acceso a locales o al domicilio de la persona beneficiaria, previa autorización de la misma, o, en su detecto, de la del órgano judicial competente.
+
+5\. En el supuesto que se produzca resistencia al control, la Intervención General debe realizar lo establecido en el apartado 8. A estos efectos, se considera resistencia al control toda conducta del sujeto controlado que tiende a dilatar, entorpecer o impedir las actuaciones de control, y en particular:
+
+a) La no presentación o la presentación parcial, por causa injustificada, de la información requerida por la Intervención General. Se considera no presentada, la información si en el plazo de diez días desde el requerimiento no se presenta o se presenta parcialmente, y reiterándose la solicitud no se obtiene en un nuevo plazo de igual duración.
+
+b) La negativa indebida a permitir la entrada o la permanencia en fincas y locales
+
+c) Las coacciones o la falta de consideración debida al personal que efectúa el control.
+
+6\. Una vez realizados los controles, la Intervención General debe elevar informe al órgano concedente que incluya los resultados.
+
+7\. Si se acredita que la persona beneficiaria ha incurrido en uno de los supuestos indicados en el artículo 99, incluyendo la resistencia al control, el informe debe proponer que se inicie el procedimiento de revocación al objeto de obtener el reintegro total o parcial de la subvención. Con este fin, la Intervención General puede proponer al órgano concedente o a la Tesorería la adopción de la medida cautelar establecida en el artículo 98.2.
+
+8\. En el supuesto de resistencia al control de cualquiera de los sujetos a que se refiere el apartado 2 de este artículo, la Intervención General debe proponer a parte de la revocación, el inicio del procedimiento sancionador de acuerdo con lo que se establece en al artículo 101.
+
+9\. El órgano concedente, en el plazo de un mes desde que le sea notificado el informe de control, debe iniciar los correspondientes expedientes, de los cuales debe formar parte el mencionado informe. Si, como resultado del expediente de revocación, la propuesta de resolución difiere de la realizada por la Intervención General, debe seguirse el procedimiento contradictorio al que se refiere el artículo 70.4.
+
+10\. Corresponde a la Intervención General de la Generalidad, en el ámbito de Cataluña, la elaboración, aprobación y ejecución del plan anual de actuaciones de control sobre beneficiarios de ayudas financiadas total o parcialmente con fondos comunitarios, de acuerdo con los reglamentos europeos.
+
+11\. La notificación del inicio de las actuaciones de control a los beneficiarios implica la interrupción de la prescripción del derecho de la Administración a la revocación de las subvenciones otorgadas y a resarcirse, si procede, de las cantidades indebidamente percibidas y de los posibles intereses que correspondan.
+
+> Se modifican los apartados 1, 3 y 9 a 11 por el art. 97.17 a 19 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se deroga el apartado 12 por la disposición derogatoria 3 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade el apartado 12 por el art. 39 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+### Sección 4.ª Del reconocimiento de la obligación, las revocaciones y los pagos
+
+#### Artículo 98.
+
+1\. El reconocimiento de la obligación y el pago posterior de la subvención al beneficiario se produce una vez el órgano concedente ha comprobado la justificación adecuada de los gastos que se le imputan, la realización de la totalidad del objeto de la subvención y el cumplimiento de las condiciones y sus finalidades.
+
+Las formas de justificación que acreditan y permiten el reconocimiento de obligaciones deben establecerse por orden de la persona titular del departamento competente en materia de economía y finanzas. En cualquier caso, deben determinarse en las bases reguladoras de la subvención, o en el acto de concesión en el caso de las subvenciones directas, y pueden instrumentarse mediante cuentas justificativas acompañadas, según el caso, de documentación justificativa de gasto, de informes de auditoría de cuentas anuales; de presentación de estados contables; mediante módulos, o con la combinación de algunas de estas modalidades.
+
+Excepcionalmente, si lo establecen las bases, y con la justificación previa por razón del objeto o del sujeto, pueden acordarse anticipos con carácter previo a la justificación o pagos a cuenta que comporten pagos parciales, con la justificación previa del importe equivalente.
+
+2\. Una vez acordado el inicio del procedimiento de revocación, o con carácter previo en el supuesto que indica el artículo 97.8, como medida cautelar, la Tesorería puede adaptar, a propuesta del órgano concedente o de la Intervención General, la retención de las cantidades pendientes de abonar al perceptor, sin ultrapasar, en ningún caso, el importe que fijen la propuesta o resolución de inicio del expediente, con los intereses de demora devengados hasta aquel momento. La imposición de éstos debe acordarse por resolución motivada, que debe notificarse a la persona beneficiaria, con indicación de los recursos pertinentes, siendo aplicable el siguiente régimen jurídico:
+
+a) Puede adoptarse, si existen indicios racionales que permitan prever la imposibilidad de obtener el resarcimiento, o si éste puede verse frustrado o gravemente dificultado, y, en especial, si el perceptor hace actos de ocultación gravamen o disposición de sus bienes.
+
+b) Debe ser proporcional a la finalidad que se pretende conseguir, y en ningún caso debe adoptarse si puede producir efectos de reparación difícil o imposible.
+
+c) Debe mantenerse hasta que se dicte la resolución que pone fin al expediente de revocación, y no puede ultrapasar el período máximo que se fije para su tramitación. En el caso de prórroga del procedimiento de revocación, debe mantenerse la medida para un plazo equivalente.
+
+d) Debe levantarse en el caso de que la resolución que se dicte sea contraria a la revocación, que desaparezcan las circunstancias que la originaron o, en el caso del artículo 97.8, que haya transcurrido un mes desde la retención sin que se dicte la resolución de inicio del expediente. También debe levantarse si la persona beneficiaria propone la sustitución por una garantía que se considere suficiente.
+
+3\. Es un requisito necesario para percibir subvenciones con cargo a los presupuestos de la Generalidad, el cumplimiento por los beneficiarios de sus obligaciones tributarias ante la Generalidad. La Tesorería debe comprobar su cumplimiento con carácter previo al pago de las subvenciones o los anticipos, en caso contrario, se debe iniciar el procedimiento de compensación de los créditos a percibir por el beneficiario hasta satisfacer las deudas pendientes tanto si son de naturaleza tributaria como si no.
+
+4\. En caso de que los beneficiarios sean entes locales o entidades de su sector público, es requisito necesario para el pago de las subvenciones con cargo a los presupuestos de la Generalidad el cumplimiento de sus obligaciones de envío de documentación económico-financiera de acuerdo con lo establecido por la Ley municipal y de régimen local. La tesorería debe retener los pagos hasta que el departamento competente en materia de Administración local comunique su cumplimiento o hasta que el pago prescriba.
+
+> Se añade el apartado 4 por el art. 42.25 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 1 por el art. 67.4 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 99.
+
+1\. Son causas de revocación:
+
+a) El incumplimiento de la obligación de justificación.
+
+b) La obtención de la subvención sin reunir las condiciones requeridas.
+
+c) El incumplimiento de la finalidad para la que la subvención fue concedida, total o parcial-mente, al haber destinado las cantidades percibidas a finalidades distintas.
+
+d) El incumplimiento de las condiciones impuestas a los beneficiarios con motivo de la concesión de la subvención, incluyendo la obstrucción de las actuaciones de control o la resistencia a permitirlas de manera que se impida comprobar la acreditación de haber realizado el objeto de la subvención.
+
+e) En el supuesto indicado en el artículo 94.1, regla cuarta, por el exceso obtenido sobre el coste de la actividad desarrollada.
+
+f) La no inclusión o la utilización indebida de los medios indicados por el artículo 92.7.
+
+> Se añade la letra f) por la disposición adicional 7.2 de la Ley 5/2008, de 24 de abril. [Ref. BOE-A-2008-9294](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-9294).
+
+#### Artículo 100.
+
+1\. Si el órgano concedente, como consecuencia de su actuación de comprobación, o en el caso del artículo 97.7, acredita que se ha producido alguna de las causas de revocación, debe iniciar la tramitación del expediente oportuno, de acuerdo con las siguientes reglas:
+
+a) El expediente debe iniciarse y notificarse en el plazo de tres meses desde el acto administrativo del resultado de la actuación de comprobación o en el plazo de un mes desde la notificación del resultado del control financiero efectuado por la Intervención General.
+
+b) El plazo para concluir el expediente es de doce meses desde la fecha de la resolución de inicio del expediente, que debe ser dictada por el órgano que firmó la resolución de concesión. Este plazo puede prorrogarse de forma motivada por un período no superior a seis meses, de acuerdo con lo que determinan las normas reguladoras del procedimiento administrativo común.
+
+c) El procedimiento se resuelve de acuerdo con lo determinado por las normas reguladoras del procedimiento administrativo común, y en cualquier caso debe reconocerse a las personas interesadas el derecho a formular alegaciones, proponer medios de prueba, y el preceptivo trámite de audiencia previo a la propuesta de resolución que ponga fin al expediente.
+
+d) Una vez transcurrido el plazo establecido por la letra b sin que se haya notificado la resolución expresa, se produce la caducidad del procedimiento sin que se considere interrumpida la prescripción.
+
+2\. Si la resolución establece que se ha producido una causa de revocación, debe acordarse, de acuerdo con la normativa reguladora de los ingresos de derecho público, el reintegro total o parcial de las cantidades percibidas y la exigencia de los intereses de demora desde la fecha de pago de la subvención o de los anticipos o pagos a cuenta efectuados. En todo caso, el incumplimiento de la obligación de reintegro origina la ejecución de las garantías prestadas.
+
+3\. Los beneficiarios, personas físicas o jurídicas, deben responder directamente de las cantidades a devolver; en cuanto a las personas jurídicas, son responsables de las mismas los administradores que votaron favorablemente los acuerdos que son causa del incumplimiento, no se opusieron o los consintieron y en el caso de que se hayan disuelto, de las obligaciones pendientes. La responsabilidad es solidaria para los socios o partícipes en el caso de disolución o de liquidación y hasta el límite de la cuota de liquidación.
+
+4\. El plazo de prescripción del derecho de la Generalidad a la revocación y, si procede, al resarcimiento de los fondos recibidos por los beneficiarios de subvenciones es de cuatro años y se computa, según el caso:
+
+a) Desde el momento en que venció el plazo para presentar la justificación por parte del beneficiario.
+
+b) Desde el momento de la concesión de la subvención, en los casos en que se haya concedido en consideración a la concurrencia de una determinada situación en el perceptor que no requiere otra justificación que la acreditación por cualquier medio admisible en derecho de la situación mencionada previamente a la concesión.
+
+c) Desde el momento en que vence el plazo en el que deban cumplirse o mantenerse, por parte del beneficiario, determinadas condiciones u obligaciones establecidas.
+
+> Se modifica el apartado 4 por el art. 33.16 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifican los apartados 1 y 2 por el art. 97.20 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifican los apartados 2 y 4 por el art. 155.10 y 11 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se declara la inconstitucionalidad y nulidad del inciso destacado en negrita del apartado 1.a) por Sentencia del TC 166/2014, de 22 de octubre de 2014. [Ref. BOE-A-2014-12079](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12079)
+
+### Sección 5.ª De las infracciones y de las sanciones
+
+#### Artículo 101.
+
+1\. Son infracciones administrativas en materia de subvenciones:
+
+a) De los beneficiarios:
+
+Primero. La obtención de una subvención falseando las condiciones requeridas para hacer su concesión u ocultando datos que hubieran impedido o dificultado su concesión.
+
+Segundo. La destinación de las cantidades percibidas, parcialmente o totalmente, con finalidades diferentes para las cuales fue concedida la subvención.
+
+Tercero. El incumplimiento, por razones imputables al beneficiario, de las obligaciones impuestas para la concesión de la subvención.
+
+Cuarto. La negativa a permitir las actuaciones de inspección, comprobación y control a efectuar por el ente concedente o la entidad colaboradora, en su caso, o bien por la Intervención General y los demás órganos de control, o la obstrucción de aquellas actuaciones.
+
+Quinto. La falta de comunicación al ente concedente o a la entidad colaboradora, en su caso, de la obtención de subvenciones o ayudas para la misma finalidad procedentes de cualquier administración pública, y también la modificación de cualquier circunstancia que haya servido como fundamento para la concesión de la subvención.
+
+Sexto. La falta de justificación, en todo o en parte, de la aplicación de los fondos percibidos o la justificación fuera del plazo establecido para acreditar la realización del objeto de la subvención.
+
+Séptimo. La falta de acreditación ante la Administración concedente o la entidad colaboradora, en su caso, del cumplimiento de las obligaciones impuestas para la concesión de la subvención.
+
+b) De las entidades colaboradoras:
+
+Primero. La falta de entrega a los beneficiarios de los fondos recibidos, de acuerdo con los criterios establecidos por las normas reguladoras de las subvenciones.
+
+Segundo. La negativa a permitir las actuaciones de comprobación y de control que, respecto a la gestión de los fondos percibidos, puedan efectuar el ente concedente o los órganos de control, o la obstrucción de estas actuaciones.
+
+Tercero. La falta de verificación, en su caso, del cumplimento de las condiciones determinadas en la concesión de la subvención.
+
+Cuarto. La falta de justificación ante el ente concedente de la aplicación de los fondos percibidos o la falta de entrega de la justificación presentada a los beneficiarios.
+
+c) De terceras personas relacionadas con el objeto de la subvención: la negativa a permitir las actuaciones de comprobación y de control que, respecto a la acreditación de la realización del objeto de la subvención, puedan efectuar los órganos de control, o la obstrucción de estas actuaciones.
+
+2\. Las infracciones administrativas tipificadas por el apartado 1 pueden ser muy graves, graves y leves, de acuerdo con la clasificación siguiente:
+
+a) Tienen la consideración de infracciones muy graves, en el caso de los beneficiarios, las definidas por los puntos primero, segundo y tercero de la letra a del apartado 1. En el caso de la entidad colaboradora, la infracción definida por el punto primero de la letra b del apartado 1. Tanto para el beneficiario como para la entidad colaboradora, la reincidencia, en el espacio de tres años, en la comisión de una infracción grave tiene la consideración de infracción muy grave cuando así haya sido declarado por resolución firme en vía administrativa.
+
+b) Tienen la consideración de infracciones graves, en el caso de los beneficiarios, las definidas por los puntos cuarto y quinto de la letra a) del apartado 1. En el caso de una entidad colaboradora, las definidas por los puntos segundo y tercero de la letra b del apartado 1. En el caso de un tercero, la definida por la letra c) del apartado 1. Tanto para el beneficiario y para la entidad colaboradora como para un tercero, la reincidencia, en el espacio de tres años, en la comisión de una infracción leve tiene la consideración de infracción grave cuando así haya sido declarado por resolución firme en la vía administrativa.
+
+c) Tienen la consideración de infracciones leves, en el caso de los beneficiarios, las definidas por los puntos sexto y séptimo de la letra a) del apartado 1. En el caso de entidades colaboradoras, las definidas por el punto cuarto de la letra b) del apartado 1.
+
+3\. Son responsables de las infracciones los beneficiarios o beneficiarias, las entidades colaboradoras y los terceros que realicen las conductas tipificadas por este artículo.
+
+4\. Las infracciones muy graves prescriben a los cinco años, las graves a los tres años y las leves al año. El plazo de prescripción empieza a contarse desde el día en que se haya cometido la infracción.
+
+#### Artículo 102.
+
+1\. Las infracciones administrativas se sancionan de acuerdo con la clasificación siguiente:
+
+a) Infracciones muy graves:
+
+Primero. Multa del doble al triple de la cantidad indebidamente obtenida o aplicada o, en el caso de una entidad colaboradora, de los fondos recibidos. En el caso de un tercero, multa hasta la cantidad obtenida por el beneficiario o beneficiaria.
+
+Segundo. Pérdida por el beneficiario o beneficiaria, la entidad colaboradora y los terceros, del derecho a obtener subvenciones de la Generalidad, de sus entidades autónomas y de su sector público durante el período de tres a cinco años, y también durante el mismo período, pérdida del derecho a ser designados entidad colaboradora.
+
+Tercero. Prohibición durante el período de tres a cinco años de contratar con la Administración de la Generalidad, sus entidades autónomas y su sector público.
+
+b) Infracciones graves:
+
+Primero. Multa de hasta el doble de la cantidad indebidamente obtenida o, en el caso de una entidad colaboradora, de los fondos recibidos. En el caso de un tercero, multa de hasta la cantidad obtenida por el beneficiario o beneficiaria.
+
+Segundo. Pérdida por el beneficiario o beneficiaria, la entidad colaboradora y los terceros, del derecho a obtener subvenciones de la Generalidad, de sus entidades autónomas y de su sector público durante el período de uno año a tres años, y también, durante el mismo período, pérdida del derecho a ser designados entidad colaboradora.
+
+Tercero. Prohibición durante el período de un a tres años para contratar con la Administración de la Generalidad, sus entidades autónomas y su sector público.
+
+c) Infracciones leves:
+
+Primero. Multa de una cantidad igual a la percibida indebidamente o a la del importe de la cantidad no justificada o, en caso de una entidad colaboradora, de los fondos percibidos.
+
+Segundo. Pérdida por el beneficiario o beneficiaria, la entidad colaboradora y los terceros, del derecho de obtener subvenciones de la Generalidad, de sus entidades autónomas y de su sector público durante el período de un año, y también, durante el mismo período, pérdida del derecho a ser designados entidad colaboradora.
+
+Tercero. Prohibición durante el período de un año para contratar con la Administración de la Generalidad, sus entidades autónomas y su sector público.
+
+2\. Para la imposición de las sanciones anteriores hay que atender a:
+
+a) La existencia de intencionalidad o reiteración.
+
+b) La naturaleza de los perjuicios causados.
+
+3\. Las sanciones establecidas son independientes de la exigencia al infractor de la obligación de reintegro establecida por esta Ley.
+
+4\. Las sanciones impuestas por las infracciones muy graves prescriben a los cuatro años, las impuestas por infracciones graves a los tres años y las impuestas por infracciones leves al año. El plazo de prescripción comienza a contarse desde el día siguiente a aquel en que sea firme la resolución por la que se impone la sanción.
+
+5\. Las resoluciones en firme por las cuales se imponen sanciones deben notificarse y, si pro-cede, publicarse en el «Diari Oficial de la Generalitat de Catalunya», en las condiciones y en los supuestos establecidos por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de enero.
+
+#### Artículo 103.
+
+La responsabilidad subsidiaria de la obligación de las sanciones establecidas por esta Ley se rige por lo que establece el artículo 100.3 de la misma.
+
+#### Artículo 104.
+
+1\. El procedimiento para la imposición de las sanciones establecidas por esta Ley se debe tramitar de acuerdo con lo que dispone la normativa general del procedimiento sancionador aplicable a la Administración de la Generalidad.
+
+2\. Son órganos competentes por iniciar el procedimiento sancionador los que hayan formulado las propuestas de resolución de concesión de subvenciones. Es competente para la resolución del procedimiento sancionador, en las infracciones leves y graves, el consejero o la consejera titular del departamento que haya concedido la subvención o al que esté adscrito el ente concedente. La resolución de las infracciones muy graves es competencia del Gobierno de la Generalidad.
+
+3\. Las resoluciones de revocación de ayudas e imposición de sanciones ponen fin a la vía administrativa.
+
+> Se añade el apartado 3 por el art. 17 de la Ley 12/2004, de 27 de diciembre. [Ref. BOE-A-2005-2647](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-2647).
+
+#### Artículo 105.
+
+1\. En el caso de ayudas financiadas con cargo a los fondos comunitarios, el régimen de infracciones y sanciones es lo establecido por la reglamentación comunitaria específica. Con carácter subsidiario, son aplicables las normas establecidas por esta Ley.
+
+2\. Las sanciones impuestas en aplicación de los preceptos de la normativa comunitaria, cuando así se establece, son imputables a los fondos estructurales correspondientes.
+
+### Sección sexta. Normas especiales aplicables a las subvenciones o ayudas en materia de cooperación internacional al desarrollo
+
+> Se añade por el art. 55.7 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 106. Régimen jurídico de las subvenciones o ayudas para la cooperación internacional al desarrollo.
+
+Las subvenciones o ayudas para la cooperación internacional al desarrollo, concedidas directamente por la Administración de la Generalidad, de conformidad con lo establecido por los artículos 27 y 28 de la Ley 26/2001, de 31 de diciembre, de cooperación al desarrollo, o con sujeción a los principios de publicidad y concurrencia, se regulan por el régimen jurídico especial establecido por esta sección. También son aplicables, supletoriamente, las disposiciones del capítulo IX, en todo cuanto no establece dicha ley y en lo que no se oponga a las disposiciones de esta sección o no las contradiga.
+
+> Se añade por el art. 55.7 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 107. Subvenciones o ayudas para la cooperación internacional al desarrollo de concesión directa.
+
+1\. El procedimiento para la concesión directa de subvenciones o ayudas para la cooperación internacional al desarrollo por parte de la Administración de la Generalidad en favor de estados, personas jurídicas públicas extranjeras u organizaciones internacionales de derecho público creadas por tratado o acuerdo internacional se rige por lo establecido por este artículo.
+
+2\. Para la concesión directa de las subvenciones o ayudas reguladas por este artículo, el órgano competente para la instrucción debe tramitar, antes de la concesión de la subvención o la ayuda, un expediente que en todo caso debe incorporar los siguientes documentos:
+
+a) La memoria justificativa en la que debe describirse la finalidad, la causa, el compromiso, el acuerdo o convenio y la razón de la actividad o el proyecto a que se destina la subvención o ayuda, su aplicación presupuestaria, la persona beneficiaria y las condiciones a las que, si procede, está sujeta la entrega.
+
+Debe hacerse constar el carácter singular de la subvención o la ayuda, la apreciación de las circunstancias concurrentes, y el instrumento de planificación, instrumento y modalidad de cooperación al desarrollo, de acuerdo con lo establecido por el capítulo II de la Ley 26/2001.
+
+b) La acreditación de la existencia de crédito adecuado y suficiente para la financiación de la subvención o ayuda.
+
+c) La autorización del Gobierno cuando concurran los supuestos establecidos por la normativa de aplicación.
+
+3\. Las subvenciones o ayudas pueden concederse directamente, de oficio o a instancia de los organismos interesados, mediante la apreciación discrecional de las circunstancias que concurran en cada caso.
+
+4\. Si se verifican circunstancias que alteran las condiciones tenidas en cuenta para conceder la subvención o la ayuda, el órgano que hace la concesión puede modificar el instrumento de concesión, en los casos previstos en el régimen de autorización que establezca el instrumento jurídico de otorgamiento.
+
+5\. En los casos en que la modificación exija la autorización de la Administración que hace la concesión, a solicitud del organismo interesado, debe dictarse y notificarse la resolución que concede o deniega la modificación en el plazo de cuarenta y cinco días naturales a partir de la fecha de presentación de la solicitud. Transcurrido el plazo máximo establecido sin que se haya dictado y notificado resolución expresa, debe entenderse estimada la solicitud, sin que ello exima de la obligación legal de emitir resolución.
+
+6\. El plazo de ejecución de las actividades subvencionadas puede ser ampliado sin necesidad de autorización previa hasta un máximo de seis meses. Esta ampliación debe ser notificada y justificada al órgano que hace la concesión antes de que expire el plazo para presentar la justificación de la subvención o la ayuda. Salvo que se prevea de otro modo en el acto de concesión de la subvención o ayuda, las ampliaciones superiores a los seis meses requieren una autorización previa del órgano que hace la concesión.
+
+7\. En el caso de pagos anticipados no es procedente la constitución de garantías, salvo que el instrumento de concesión lo prevea expresamente.
+
+8\. Los gastos deben efectuarse y acreditarse de acuerdo con las correspondientes normas de los estados u organizaciones internacionales beneficiarios de las subvenciones o ayudas, y de acuerdo con los mecanismos establecidos por los acuerdos u otros instrumentos internacionales de aplicación.
+
+9\. Cuando se hayan cumplido plenamente los objetivos para los que se concedió la subvención o ayuda y, por una utilización eficiente de los recursos, haya remanentes no invertidos, incluyendo los posibles rendimientos financieros no aplicados a la actividad subvencionada, puede solicitarse al órgano que hace la concesión que se utilicen en la misma actividad u otra de naturaleza análoga. El órgano que hace la concesión debe emitir una resolución en la que autoriza la aplicación del remanente o en la que acuerda la devolución de los remanentes descritos.
+
+10\. El órgano que hace la concesión puede ampliar el plazo de justificación, de oficio o a solicitud del beneficiario, y debe dictar y notificar la resolución en la que se concede o deniega la ampliación de los plazos. No puede ser objeto de ampliación el plazo de justificación, si ya ha vencido.
+
+11\. Los fondos entregados son objeto de control según lo determinado por las correspondientes normas de los estados o las organizaciones internacionales, sin perjuicio de las actuaciones de seguimiento, comprobación y control financiero que puedan efectuar los órganos competentes de control del ente que hace la concesión en el ámbito de sus competencias.
+
+12\. Las causas de reintegro o de pérdida del derecho a la percepción de la subvención o ayuda son las siguientes:
+
+a) El incumplimiento total o parcial de la finalidad de la subvención o ayuda.
+
+b) La falta de justificación o la justificación insuficiente.
+
+c) La obtención de la subvención o la ayuda sin reunir las condiciones requeridas para obtenerlas.
+
+d) Las que se establezcan, si procede, en el instrumento de concesión.
+
+Es procedente el reintegro del exceso obtenido sobre el coste de la actividad llevada a cabo en los casos en que el importe subvencionado tiene una cuantía que, aisladamente, o en concurrencia con otras subvenciones o ayudas de otras administraciones públicas o de otros entes públicos o privados, estatales o extranjeros, supera el coste de la actividad que lleva a cabo el beneficiario.
+
+13\. No es aplicable a las subvenciones o ayudas a las que se refiere el apartado 1 el régimen sancionador establecido por la sección quinta del capítulo IX.
+
+14\. Para la concesión directa de subvenciones o ayudas para la cooperación internacional para el desarrollo por parte de la Administración de la Generalidad en favor de personas físicas o jurídicas legalmente constituidas, públicas o privadas, españolas o extranjeras, que por razón de los fines, objeto o ámbito de actividad pueden llevar a cabo actuaciones en el ámbito de la cooperación al desarrollo, el órgano de instrucción competente debe tramitar, previamente, un expediente que siempre debe incorporar los documentos detallados en el apartado 2 del presente artículo. Asimismo, es aplicable lo dispuesto por los apartados 4, 5, 7, 9 y 10 del presente artículo, y el contenido de los apartados 9, 10, 11, 13, 14, 15, 17 y 18 del artículo 108. A tal efecto, las referencias hechas a las bases reguladoras de las subvenciones o ayudas en el artículo 108 deben entenderse hechas en los procedimientos de concesión directa de estas subvenciones o ayudas, en la resolución o en el instrumento de concesión de la subvención o la ayuda.
+
+> Se modifica el apartado 7 por el art. 137.5 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 55.7 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 108. Subvenciones o ayudas para la cooperación internacional al desarrollo concedidas con sujeción a los principios de publicidad y concurrencia.
+
+1\. El procedimiento de concesión de subvenciones y ayudas de cooperación internacional para el desarrollo otorgadas con sujeción a los principios de publicidad y concurrencia establecidos por la presente ley, y también según lo establecido por las correspondientes bases reguladoras, cuyos beneficiarios pueden ser las personas físicas o jurídicas legalmente constituidas, públicas o privadas, españolas o extranjeras, que por razón de sus fines, objeto o ámbito de actividad, pueden llevar a cabo actuaciones en el ámbito de la cooperación internacional al desarrollo, se rige por el régimen jurídico establecido por el presente artículo.
+
+2\. La entidad beneficiaria de la subvención o ayuda es la responsable de la ejecución en beneficio del destinatario final de la subvención o ayuda y de la justificación correcta ante el órgano que hace la concesión, independientemente de que su ejecución haya sido llevada a cabo, total o parcialmente, por socios locales o contrapartes extranjeras.
+
+3\. En el caso de pagos anticipados no es procedente la constitución de garantías, salvo que las bases reguladoras lo prevean expresamente.
+
+4\. Las bases reguladoras de la convocatoria deben especificar el momento partir del cual se permite el inicio de la actividad y los plazos de imputación del gasto.
+
+5\. El plazo de ejecución de las actividades subvencionadas puede ampliarse, sin necesidad de autorización previa, hasta un máximo de tres meses. Esta ampliación debe notificarse al órgano gestor antes de que finalice el plazo de justificación, plazo que se entiende automáticamente ampliado con la notificación mencionada. Salvo que se determine de otro modo en las bases reguladoras de la subvención o la ayuda, las ampliaciones superiores a este plazo necesitan la autorización previa del órgano que hace la concesión.
+
+6\. La ejecución total o parcial de la subvención o ayuda por parte de socios locales o contrapartes extranjeras no debe considerarse como subcontratación, a los efectos de lo establecido por el artículo 29 de la Ley del Estado 38/2003, de 17 de noviembre, general de subvenciones. Los socios locales o contrapartes mencionados deben figurar adecuadamente identificados en el proyecto o propuesta de actuación. Salvo que se establezca de otro modo en las bases reguladoras, cualquier modificación de los socios locales o contrapartes debe tener la autorización previa del órgano que hace la concesión.
+
+7\. Los rendimientos financieros que se generen por los fondos entregados a las personas beneficiarias incrementan el importe de la subvención o ayuda concedidas y deben aplicarse igualmente a la actividad subvencionada, salvo que, por razones debidamente motivadas, se disponga de otro modo en las bases reguladoras.
+
+8\. Cuando se han cumplido plenamente los objetivos para los que fue concedida la subvención o ayuda y por una utilización eficiente de los recursos haya remanentes no invertidos, incluyendo los posibles rendimientos financieros no aplicados a la actividad subvencionada, puede solicitarse del órgano concedente la utilización en la misma actividad u otra de naturaleza análoga. El órgano concedente debe emitir una resolución en la que autoriza la aplicación del remanente o que acuerda la devolución de los remanentes descritos.
+
+9\. Los gastos deben justificarse mediante facturas, recibos, tíquets y otros documentos con valor probatorio en el tráfico jurídico mercantil o con eficacia administrativa en el país donde se lleva a cabo la actividad subvencionada, en original o fotocopia compulsada o legalizada, en los términos establecidos en las bases reguladoras.
+
+En el caso de los gastos realizados en países receptores de ayuda oficial al desarrollo también pueden usarse como justificantes de gasto los recibos, que pueden ser recibos de caja, es decir, documentos emitidos por la misma entidad o sujeto que efectúa el pago y firmados por el proveedor de los bienes o servicios, que acreditan de este modo que han recibido el importe indicado en este, o bien recibos emitidos por los mismos proveedores cuando actúan en mercados informales. La utilización de recibos debe ser previamente autorizada por el órgano que hace la concesión, y también puede ser validada a posteriori por el mismo órgano, siempre y cuando este considere que la autorización se habría concedido si se hubiese solicitado previamente.
+
+10\. Sin perjuicio de las peculiaridades fijadas por las bases reguladoras, la justificación de las subvenciones o ayudas debe estar integrada por una memoria técnica, que debe especificar con el máximo de detalle los objetivos conseguidos, los resultados obtenidos y las actividades realizadas, sobre los que debe aportar datos relevantes y fuentes de verificación objetivas, deben establecerse los criterios para la evaluación tanto de los procesos de ejecución como del cumplimiento de los objetivos establecidos, y por una justificación económica, que debe incluir la documentación que justifique los gastos efectuadas con cargo a la intervención que se subvenciona, en los términos establecidos por este artículo.
+
+11\. El plazo para presentar la justificación de la subvención o ayuda es de tres meses a partir de la fecha de finalización de la actuación subvencionada, salvo que haya una disposición expresa contraria en las bases reguladoras. En caso de que los informes incorporen un informe de auditor de cuentas o de evaluación técnica, el plazo debe ampliarse a seis meses para permitir la presentación conjunta.
+
+12\. En caso de subvenciones o ayudas ejecutadas en el extranjero o por entidades beneficiarias extranjeras, el plazo para enmendar defectos de las justificaciones parciales o totales y para aportar la documentación complementaria requerida por el órgano que ha efectuado la revisión es de cuarenta y cinco días hábiles. En las administraciones públicas en las que se hayan habilitado medios electrónicos, informáticos o telemáticos, la documentación puede ser aportada mediante estos sistemas.
+
+13\. El procedimiento de justificación puede hacerse mediante la modalidad de cuenta justificativa y aportar justificantes de gasto; de cuenta justificativa y aportar un informe de auditoría de cuentas; mediante la presentación de estados contables, o mediante una combinación de algunas de estas modalidades, o de otras, de acuerdo con el procedimiento que establezcan las bases reguladoras.
+
+14\. En la modalidad de cuenta justificativa en la que se aportan justificantes de gasto, la justificación económica está formada, como mínimo, por:
+
+a) La lista de los gastos que se han llevado a cabo, clasificados por partidas y por fechas, en que se indica el número de justificante, el importe y la fecha.
+
+b) Los documentos justificativos de los gastos, originales o copias compulsadas, ordenados según la lista, así como de los pagos.
+
+c) La relación detallada de otros ingresos, subvenciones o ayudas, públicos o privados, que han financiado la actividad subvencionada, en la que debe indicarse el importe y la procedencia.
+
+d) Los documentos originales o copias compulsadas que acrediten los tipos de cambio.
+
+e) El cuadro comparativo del presupuesto por partidas, aprobado y ejecutado, en el que se indiquen las desviaciones que haya habido.
+
+15\. En la modalidad de cuenta justificativa con informe de auditor de cuentas debe incluirse, como mínimo, el cuadro comparativo del presupuesto por partidas, aprobado y ejecutado, y el informe del auditor. En este caso no es necesaria la presentación posterior de facturas y recibos, salvo que esté establecido de este modo en lo relativo al ejercicio de funciones de comprobación y control financiero por parte de los órganos competentes. El informe debe ser elaborado por un auditor de cuentas inscrito en el Registro oficial de auditores de cuentas, en calidad de profesional que ejerce. Las bases reguladoras deben detallar otras peculiaridades de la auditoría, si procede.
+
+16\. Las bases reguladoras de la subvención o ayuda pueden prever que se utilicen otras modalidades de justificación en la medida en que respondan y se adapten a la naturaleza de la subvención o ayuda.
+
+17\. En caso de que se produzcan situaciones excepcionales debidamente acreditadas, como desastres naturales, enfrentamientos armados o crisis humanitarias que dificulten o incluso imposibiliten disponer de la documentación adecuada justificativa del gasto, el órgano que hace la concesión puede aceptar otras formas de justificación, como informes de tasadores debidamente acreditados e inscritos en el registro oficial correspondiente, declaración de testimonios, constatación de los resultados o actividades llevadas a cabo, declaración responsable de proveedores, u otros de valor probatorio similar. En el caso de operaciones humanitarias dirigidas por las Naciones Unidas, la certificación o ratificación puede ser emitida por el organismo de las Naciones Unidas que coordine los trabajos sobre el terreno.
+
+18\. Pueden admitirse como sistema de justificación los certificados de ejecución de actividades, si lo prevén las bases reguladoras. Se entiende por certificado de ejecución de actividades la certificación, por parte de la Administración que hace la concesión, de que se ha llevado a cabo la ejecución de una actividad, para la que había sido previamente presupuestado y aprobado, por parte del órgano que hace la concesión, el conjunto de gastos necesarios por realizarla. La certificación de la ejecución efectiva por la Administración constituye por sí misma un justificante único de gasto de la actividad. Los requisitos, características y supuestos de utilización de este sistema deben concretarse en las bases reguladoras.
+
+19\. Los gastos directos e indirectos admitidos, las operaciones de cambio de moneda y la aplicación de tipos de cambio, así como el régimen que debe seguirse ante los impuestos susceptibles de recuperación, debe desarrollarse en las bases reguladoras.
+
+20\. El régimen de control, reintegro y sanciones se rige por lo dispuesto por la presente ley.
+
+> Se modifica el apartado 3 por el art. 137.6 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 55.7 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+## CAPÍTULO X — Evaluación de políticas públicas
+
+> Se añade por el art. 97.21 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 109. Concepto de evaluación de políticas públicas.
+
+A efectos de lo establecido en el presente capítulo, se entiende por evaluación de políticas públicas la valoración de las intervenciones de la Administración de la Generalidad y de las entidades de su sector público en cuanto a funcionamiento, productos e impactos, en relación con las necesidades que se pretenden satisfacer y orientada a proveer información para la toma de decisiones.
+
+> Se añade por el art. 97.21 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 110. Ámbito de aplicación de la evaluación de políticas públicas.
+
+Quedan sometidas a las disposiciones del presente capítulo las actuaciones de la Administración de la Generalidad de Cataluña y de las entidades de su sector público.
+
+> Se añade por el art. 97.21 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 111. Criterios de evaluación de políticas públicas e incorporación de los resultados.
+
+1\. Las acciones de evaluación de políticas públicas deben fundamentarse en los siguientes criterios:
+
+a) La prioridad estratégica de la actuación, la necesidad o la problemática a mitigar.
+
+b) La magnitud de los recursos públicos que se dediquen a las mismas.
+
+c) La capacidad efectiva de transformación y mejora de los resultados.
+
+d) Otros criterios que defina el Gobierno.
+
+2\. La Administración de la Generalidad y las entidades de su sector público deben incorporar los resultados de las evaluaciones como herramienta de mejora de las políticas públicas.
+
+> Se añade por el art. 97.21 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 112. Sistemática de evaluación de políticas públicas.
+
+1\. La evaluación de políticas públicas comprende el conjunto del ciclo de gestión y constituye una herramienta para facilitar la toma de decisiones.
+
+2\. La evaluación de políticas públicas debe permitir obtener conocimiento para mejorar el diseño, funcionamiento e impacto de las políticas públicas, así como la priorización, las decisiones de asignación de recursos presupuestarios y la transparencia de la acción pública.
+
+3\. El departamento competente en materia de finanzas públicas, en colaboración con los departamentos y entidades del sector público de la Generalidad, promueve, coordina e impulsa el fomento de la práctica de evaluación de políticas públicas en cuanto a las intervenciones públicas que afecten a los ingresos y gastos de la Generalidad, con el fin de asegurar la relevancia, la eficiencia y la efectividad tanto de las políticas existentes como de las futuras. Este departamento puede realizar evaluaciones para maximizar el valor social de los recursos públicos. Estas competencias se ejercen sin perjuicio de las competencias en materia de evaluación que correspondan a otros departamentos.
+
+4\. Los departamentos de la Administración de la Generalidad y las entidades dependientes deben acordar la realización de evaluaciones y planes de evaluación plurianuales de las políticas públicas que hayan diseñado o ejecutado en el ámbito de sus competencias, sin perjuicio del plan plurianual de evaluaciones que debe aprobar el Gobierno con respecto a las intervenciones públicas que se consideren prioritarias.
+
+> Se añade por el art. 97.21 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 113. Informe de impacto económico y social.
+
+1\. Sin perjuicio del informe de impacto presupuestario preceptivo, los cambios en las intervenciones públicas y las nuevas intervenciones públicas que se prevea que tengan un impacto relevante deben ir acompañadas de un informe de impacto económico y social en que se evalúen los costos y los beneficios para sus destinatarios y para la realidad social y económica, mediante el análisis de coste-beneficio u otros sistemas de evaluación, en los términos que establezca el Gobierno.
+
+2\. El requerimiento de presentación de informes de impacto económico y social es extensible a momentos posteriores a la aprobación o autorización de las intervenciones correspondientes, de acuerdo con las directrices que establezca el Gobierno.
+
+> Se añade por el art. 97.21 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 114. Proceso de revisión del gasto.
+
+1\. La revisión de las políticas de gasto tiene por objeto detectar ganancias de eficiencia y eficacia en la gestión de los recursos públicos para maximizar el impacto social del gasto público.
+
+2\. El departamento competente en materia de economía y finanzas debe realizar este proceso de revisión del gasto, en colaboración con el resto de departamentos y entidades del sector público de la Generalidad.
+
+> Se añade por el art. 97.21 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 115. Publicidad de las evaluaciones de políticas públicas.
+
+Las evaluaciones de políticas públicas que realice la Administración de la Generalidad y las entidades de su sector público se publicarán en la forma y por los canales establecidos en la normativa de transparencia y buen gobierno.
+
+> Se añade por el art. 97.21 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+## CAPÍTULO XI — Política fiscal corporativa
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria 2.f) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 42.26 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículos 116 a 118.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria 2.f) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+#### Disposición adicional primera.
+
+1\. Mediante la Ley de presupuestos y en el marco de los planes de racionalización y optimización de espacios que apruebe el Gobierno, puede crearse un fondo administrado por el departamento competente en materia de patrimonio y dotado, en el porcentaje que se determine, con cargo a los fondos obtenidos en concepto de enajenación de edificios y otras construcciones, previa deducción de los impuestos. El fondo debe tener por finalidad reducir los costes derivados de la ocupación de los espacios de uso administrativo de la Generalidad destinados a oficinas o, en su caso, otros asimilables. Los recursos del fondo quedan afectados a los gastos directamente relacionados con la recolocación de las personas que ocupan los edificios objeto de enajenación, y a tal fin se puede generar crédito en la sección presupuestaria que corresponda.
+
+2\. Una vez constituido el fondo al que se refiere el apartado 1, se mantiene vigente hasta que por la ley de presupuestos se acuerde su liquidación, con indicación de la finalidad que debe darse a sus recursos.
+
+> Se renumera por el art. 97.22 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Anteriormente numerada como única.
+
+#### Disposición adicional segunda. Régimen de retorno de cobros indebidos en el ámbito de las prestaciones del sistema público de servicios sociales y de pago de deudas derivadas de la participación de los usuarios en la financiación de las prestaciones de servicios sociales.
+
+1\. Las personas físicas que tengan la condición de beneficiarias de las prestaciones del sistema público de servicios sociales, incluida la renta garantizada de ciudadanía, que estén obligadas a devolver cobros indebidos por este concepto y las que estén obligadas al copago pueden devolver las cantidades indebidamente percibidas, o las impagadas, sin ningún tipo de recargo ni devengo de intereses, ni en el reintegro de la deuda principal ni en el fraccionamiento. En caso de que el retorno sea mediante fraccionamiento, deberá realizarse en un plazo máximo de cuarenta y ocho meses, sin que pueda haber devengo de intereses ni ningún tipo de recargo, excepto en caso de incumplimiento del pago de tres plazos consecutivos, supuesto en que las cantidades que queden pendientes de pago devengan intereses.
+
+2\. Las deudas derivadas de la participación de los usuarios en la financiación de las prestaciones de servicios sociales no gratuitas quedan sujetas al régimen de pago que determina el apartado 1.
+
+3\. Lo establecido en la presente disposición no es aplicable si la obligación de retorno deriva de falsedad en los datos aportados relativos a los ingresos de los beneficiarios o de la mala fe de la persona obligada al retorno.
+
+4\. La unidad competente para la autorización del fraccionamiento y el aplazamiento de ingresos de la Administración de la Generalitat puede autorizar, de manera excepcional, plazos superiores a los que prevé el apartado 1, con las mismas condiciones.
+
+5\. Las formas de retorno de los cobros indebidos y de copago deben ajustarse a la normativa vigente en materia de recaudación de deudas de derecho público, incluida la compensación de deudas.
+
+> Se renumera el apartado 4 como 5 y se añade un nuevo apartado 4 por la disposición final 5 del Decreto-ley 2/2023, de 17 de octubre. [Ref. BOE-A-2023-23887](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-23887)
+
+> Se modifica el apartado 1 y se añade el 4 por el art. 33.17 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 97.22 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Disposición adicional tercera. Sistemas y plataformas de tramitación digital.
+
+Los sistemas digitales o informáticos de información o tramitación de procedimientos de gestión de naturaleza o con incidencia económica o financiera deben ser promovidos con finalidad corporativa en el ámbito de la Generalidad por las unidades con competencias transversales en la materia, y las unidades y entidades de la Generalidad deben utilizar obligatoriamente los sistemas resultantes, cuya integración con el sistema y la plataforma de tramitación digital de información contable de la Generalidad debe garantizarse. Las excepciones en el uso de los sistemas resultantes deben ser por razones de singularidad y eficacia y debe determinarlas la unidad responsable del sistema informático corporativo correspondiente.
+
+> Se añade por el art. 33.18 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+#### Disposición transitoria primera.
+
+Mientras el Parlamento de Cataluña no promulgue las normas correspondientes y el Gobierno de la Generalidad no dicte las disposiciones reglamentarias, regirán las normas y disposiciones análogas del Estado, de acuerdo con la disposición transitoria segunda del Estatuto, en todo aquello que no estén en contradicción con las leyes y los reglamentos catalanes.
+
+#### Disposición transitoria segunda.
+
+Las transferencias de caudales afectados a servicios traspasados por la Administración del Estado podrán ser objeto de redistribución en los términos de los artículos 42 y 43 de esta Ley. De esta redistribución, se dará cuenta al Parlamento.
+
+#### Disposición transitoria tercera.
+
+Lo establecido por los artículos 80, 81 y 82 es aplicable a partir de la Cuenta general del 2017.
+
+> Se añade por el art. 155.12 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Disposición transitoria cuarta.
+
+La remisión de información a la que se refiere el artículo 96 bis debe hacerse efectiva una vez el Portal de la Transparencia haga posible la consulta directa y dinámica del Registro de subvenciones y ayudas de Cataluña.
+
+> Se añade por el art. 155.13 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Disposición derogatoria única.
+
+Se deroga la disposición adicional tercera, «Control de la gestión en el ámbito económico y financiero», de la Ley 12/2004, de 27 de diciembre, de medidas financieras.
+
+> Se añade por el art. 97.23 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Disposición final primera.
+
+Esta Ley es de aplicación a las empresas a que hace referencia la Ley 4/1985, de 29 de marzo, del Estatuto de la Empresa Pública Catalana, en todo aquello que no se oponga a su regulación específica.
+
+> Se renumera por el art. 97.24 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Anteriormente numerada como única.
+
+#### Disposición final segunda. Habilitación para la elaboración de un nuevo texto refundido
+
+Se autoriza al Gobierno para que, en el plazo de un año a partir de la entrada en vigor de la presente disposición final, elabore un nuevo texto refundido de la Ley de finanzas públicas de Cataluña, en sustitución del texto refundido aprobado por el Decreto legislativo 3/2002, de 24 de diciembre. La autorización para la refundición incluye también la facultad de regularizar, aclarar y armonizar su contenido.
+
+> Se añade por el art. 97.24 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)

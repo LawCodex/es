@@ -1,0 +1,249 @@
+---
+title: "Orden DEF/1363/2016, de 28 de julio, por la que se regulan la jornada y el régimen de horario habitual en el lugar de destino de los miembros de las Fuerzas Armadas"
+identifier: "BOE-A-2016-7689"
+eli: "https://www.boe.es/eli/es/o/2016/07/28/def1363"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 2016-07-28
+published: 2016-08-10
+in_force_from: 2016-08-30
+last_amended: 2026-10-09
+consolidated: 2026-10-09
+gazette: "Boletín Oficial del Estado núm. 192"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2016-7689"
+retrieved: 2026-10-11
+---
+
+# Orden DEF/1363/2016, de 28 de julio, por la que se regulan la jornada y el régimen de horario habitual en el lugar de destino de los miembros de las Fuerzas Armadas
+
+El artículo 22 de la Ley Orgánica 9/2011, de 27 de julio, de derechos y deberes de los miembros de las Fuerzas Armadas establece que la jornada de trabajo de los militares será, con carácter general, la del personal al servicio de la Administración General del Estado. Igualmente, establece que el régimen de horario se adaptará a las necesidades operativas y a las derivadas del funcionamiento de las unidades y de la prestación de guardias y servicios, tomando en consideración la disponibilidad permanente para el servicio a la que se refiere el punto 1 del mencionado artículo, así como las normas y criterios relativos a la conciliación de la vida profesional, personal y familiar que se contemplan en la Ley 39/2007, de 19 de noviembre, de la carrera militar.
+
+En ese mismo artículo se establece que los militares estarán en disponibilidad permanente para el servicio y que las exigencias de esa servidumbre se adaptarán a las características propias del destino y a las circunstancias de la situación. Previsión que, asimismo, se contiene en el artículo 20 de las Reales Ordenanzas para las Fuerzas Armadas, aprobadas por Real Decreto 96/2009, de 6 de febrero, en el que además, como manifestación de esa disponibilidad permanente para el servicio, se impone al militar el deber de realizar cualquier tarea o servicio con la máxima diligencia y puntualidad, tanto en operaciones como para garantizar el funcionamiento de las unidades.
+
+El artículo 5 de la Ley 39/2007, de 19 de noviembre, de la carrera militar establece que los principios y normas de aplicación general al personal al servicio de la Administración General del Estado, establecidos de acuerdo con el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, se incorporarán al régimen del personal militar profesional. Todo ello siempre que no contradiga su legislación específica, por medio de normas reglamentarias en las que se efectuarán las adaptaciones debidas a la condición militar. Asimismo, el artículo 9 de esta misma ley, recoge que el Ministro de Defensa, como máximo responsable del Departamento, dirige la política de personal y de enseñanza en el ámbito de las Fuerzas Armadas para posibilitar el cumplimiento de las misiones que tienen encomendadas.
+
+Las actividades del personal militar son múltiples y van desde la instrucción, las guardias, servicios, maniobras, navegaciones y operaciones, hasta las administrativas, logísticas y de enseñanza, entre otras. Sin embargo, el propósito de esta orden ministerial es regular la jornada de trabajo habitual en el lugar de destino con aquellas actividades que le son más características. De ahí que esta norma recoja lo que se define como «jornada general» y las circunstancias específicas que en ocasiones la incrementan.
+
+En esta orden ministerial se determinan la jornada y el régimen de horario de los miembros de las Fuerzas Armadas, que serán similares a los que se contemplan para el resto de los empleados públicos en las normas sobre jornada y horarios de trabajo del personal al servicio de la Administración General del Estado y sus organismos públicos. Si bien, adaptado a las características de funcionamiento y necesidades operativas de las Fuerzas Armadas.
+
+Por otra parte, la prestación de servicios más allá de la jornada ordinaria, derivada de esa disponibilidad permanente para el servicio que caracteriza al personal militar, hace preciso regular el régimen de descansos que proceda conceder a quienes, por razón de la realización de guardias y servicios o por otras causas, presten servicio por un tiempo que exceda del que en esta orden ministerial se establece como jornada general de trabajo.
+
+Son dichas características, propias de las Fuerzas Armadas, las que hacen necesario regular un régimen de descansos obligatorios y adicionales que figuran en esta orden ministerial ante las guardias, servicios, maniobras y actividades en horario continuado que presta el personal militar, como exigencia para el cumplimiento de las necesidades que se derivan de su función y como consecuencia del mencionado régimen de disponibilidad permanente.
+
+Además, se modifica la Orden DEF/253/2015, de 9 de febrero, por la que se regula el régimen de vacaciones, permisos, reducciones de jornada y licencias de los miembros de las Fuerzas Armadas, introduciendo un nuevo artículo 3 bis en el sentido de que a efectos de la misma el cómputo de años de servicio se contabilizará desde la fecha de ingreso en las Fuerzas Armadas.
+
+En la elaboración del proyecto de esta orden ministerial han participado las asociaciones profesionales de miembros de las Fuerzas Armadas. Durante su tramitación fue informado por las asociaciones profesionales con representación en el Consejo de Personal de las Fuerzas Armadas, conforme al artículo 40.2.b) de la Ley Orgánica 9/2011, de 27 de julio, de derechos y deberes de los miembros de las Fuerzas Armadas. Igualmente se dio conocimiento del mismo a las asociaciones profesionales inscritas en el Registro de Asociaciones Profesionales de miembros de las Fuerzas Armadas, conforme al artículo 40.1.c) de la Ley Orgánica 9/2011, de 27 de julio. Finalmente, con arreglo a lo establecido en el artículo 49.1.c) de la citada ley orgánica, ha sido informado por el Consejo de Personal de las Fuerzas Armadas.
+
+En su virtud, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas y de acuerdo con el Consejo de Estado, dispongo:
+
+## CAPÍTULO I — Disposiciones Generales
+
+### Artículo 1. Objeto.
+
+Esta orden ministerial tiene por objeto regular la jornada y determinar el régimen de horario habitual de trabajo en el lugar de destino para el personal militar. Éste será el establecido para el personal al servicio de la Administración General del Estado con las adaptaciones a las necesidades operativas y a las derivadas del funcionamiento de las unidades, así como de la prestación de guardias, servicios y periodos de instrucción continuada que constan en esta disposición.
+
+### Artículo 2. Ámbito de aplicación.
+
+1\. Esta orden ministerial será de aplicación a todos los militares en servicio activo o en situación de reserva que estén ocupando destino o en comisión de servicio en la estructura del Ministerio de Defensa, conforme a los artículos 108 y 113 de la Ley 39/2007, de 19 de noviembre, de la carrera militar.
+
+2\. Esta disposición será de aplicación supletoria para todo aquel personal militar que se encuentre destinado o comisionado en el extranjero o en departamentos, centros y organismos no dependientes del Ministerio de Defensa, cuando no cuenten con un régimen específico en lo que se refiere a la normativa regulada en esta disposición.
+
+3\. También será de aplicación a los reservistas durante su periodo de activación.
+
+### Artículo 3. Definiciones.
+
+1\. La jornada general es el tiempo de trabajo efectivo del personal militar en el destino.
+
+2\. Las circunstancias específicas que modifican la jornada general son aquellas guardias, servicios y periodos de instrucción continuada en las que el personal militar se ve obligado a cumplir como consecuencia de las necesidades del servicio.
+
+3\. La prolongación de jornada es el periodo en el que por necesidades del servicio, ya sean operativas o de funcionamiento de la unidad, se incrementa de forma ocasional el horario habitual de trabajo.
+
+4\. El horario habitual de trabajo es el que determina la hora de inicio y fin de las actividades diarias en el destino.
+
+5\. El descanso obligatorio es el periodo de tiempo inmediatamente posterior a la prestación de guardias, servicios o periodos de instrucción continuada que exigen dedicación exclusiva y presencia ininterrumpida de 24 horas o más, con la finalidad de favorecer la recuperación por el esfuerzo y prevenir riesgos innecesarios en la unidad.
+
+6\. El descanso adicional es el periodo de tiempo que surge como consecuencia de las actividades militares realizadas fuera del horario habitual de trabajo y que será compatible con lo contemplado en el punto anterior.
+
+7\. El período de instrucción continuada es el dedicado al adiestramiento de la Unidad con una duración de al menos 24 horas, realizado dentro o fuera de la base o del acuartelamiento.
+
+> Se modifica el apartado 7 por el art. único.1 de la Orden DEF/110/2019, de 8 de febrero. [Ref. BOE-A-2019-1784](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1784)
+
+### Artículo 4. Necesidades del servicio.
+
+1\. Los militares estarán en disponibilidad permanente para el servicio. Las exigencias de esa disponibilidad se adaptarán a las características propias del destino y a las circunstancias de la situación.
+
+2\. Las necesidades del servicio prevalecerán sobre las fechas y duración de los descansos reconocidos en esta orden ministerial, si bien las limitaciones en la concesión que se produzcan deberán ser motivadas.
+
+3\. Las necesidades del servicio deberán estar sometidas a los criterios de oportunidad, proporcionalidad y excepcionalidad.
+
+4\. La aplicación del criterio de necesidades del servicio se hará siempre de forma justificada, motivada e individualizada y tomando en consideración el derecho a las medidas de conciliación de la vida profesional, personal y familiar y sus criterios de aplicación. En todo caso, se comunicará al militar afectado la decisión adoptada por escrito y su vigencia se mantendrá mientras persistan las circunstancias que condicionen la situación.
+
+> Se modifica el apartado 4 por el art. único.2 de la Orden DEF/110/2019, de 8 de febrero. [Ref. BOE-A-2019-1784](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1784)
+
+## CAPÍTULO II — Jornada general y horarios
+
+### Artículo 5. Jornada General y horarios.
+
+1\. La duración de la jornada general será de 35 horas semanales de trabajo efectivo de promedio en cómputo anual, equivalente a mil quinientas treinta y tres horas anuales o la que en cada momento se contemple en las instrucciones sobre jornada y horario de trabajo del personal al servicio de la Administración General del Estado y sus organismos públicos.
+
+2\. La distribución de la jornada se realizará:
+
+a) Jornada de mañana: el horario fijo de presencia en el puesto de trabajo será de 9:00 a 14:00 horas de lunes a viernes. El tiempo restante hasta completar la jornada semanal se realizará en horario flexible, entre las 7:00 y las 9:00 de lunes a viernes y entre las 14:00 y las 18:00 de lunes a jueves, así como entre las 14:00 y las 15:30 horas los viernes.
+
+b) Jornada de mañana y tarde: el horario fijo de presencia en el puesto de trabajo será de 9:00 a 16.30 horas, de lunes a jueves, con una interrupción para la comida que no computará como trabajo efectivo y que será como mínimo de media hora, y de 9:00 a 14:00 los viernes, sin perjuicio del horario aplicable al personal destinado en aquellos puestos que a juicio del jefe de unidad sea necesaria una regulación especial. El resto de la jornada, hasta completar las horas correspondientes, según el régimen de dedicación, se realizará en horario flexible entre las 7:00 y las 9:00 horas, de lunes a viernes, y entre las 16:30 y las 18:00 horas, de lunes a jueves, así como entre las 14:00 y las 15:30 horas los viernes.
+
+3\. Durante la jornada de trabajo se podrá disfrutar de una pausa por un periodo de treinta minutos, que se computará como trabajo efectivo. Esta interrupción no podrá afectar al funcionamiento normal de las unidades y, con carácter general, podrá efectuarse entre las 10:00 y las 12:30 horas.
+
+4\. No obstante, cuando las necesidades del servicio, operativas o de adiestramiento de la unidad así lo requieran, los jefes de unidad podrán variar temporalmente los horarios establecidos de forma motivada.
+
+5\. El Jefe de Estado Mayor de la Defensa, el Subsecretario de Defensa y los Jefes de Estado Mayor del Ejército de Tierra, de la Armada y del Ejército del Aire podrán fijar, en el ámbito de sus respectivas competencias, horarios diferentes y adaptados a las necesidades específicas de las Unidades, que podrán incluir el desarrollo por parte del personal en ellas destinados de una jornada de trabajo en régimen fijo o en régimen de turnos. Para este régimen se definirán los medios humanos suficientes que garanticen el buen funcionamiento de la unidad para el cumplimiento de las horas anuales establecidas en el régimen general. También podrán establecer, fuera de los horarios señalados, los servicios necesarios para garantizar el ejercicio del mando, la dirección y el control.
+
+6\. El personal destinado en Representaciones Permanentes ante Organizaciones Internacionales, en Representaciones Militares en Organismos Internacionales y Agregadurías de Defensa, adaptará su jornada y horario al del personal destinado en los organismos y representaciones diplomáticas de las que dependan. No obstante, el Jefe de Estado Mayor de la Defensa y el Secretario General de Política de Defensa podrán establecer de forma motivada, en el ámbito de sus respectivas competencias, jornadas y horarios diferentes, cuando las necesidades del servicio así lo requieran.
+
+> Se modifican los apartados 1 y 2 por el art. único.1 de la Orden DEF/1064/2026, de 2 de octubre. [Ref. BOE-A-2026-20978](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20978)
+
+> Se modifican los apartados 1 y 5 por el art. único.3 de la Orden DEF/110/2019, de 8 de febrero. [Ref. BOE-A-2019-1784](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1784)
+
+### Artículo 6. Jornada en régimen de especial dedicación.
+
+La duración de la jornada del personal que desempeñe puestos de trabajo considerados de especial dedicación será de 37 horas y media semanales, sin perjuicio del aumento de horario que excepcionalmente sea preciso por necesidades del servicio.
+
+> Se modifica por el art. único.2 de la Orden DEF/1064/2026, de 2 de octubre. [Ref. BOE-A-2026-20978](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20978)
+
+### Artículo 7. Jornada reducida por interés particular.
+
+1\. En aquellos casos en que resulte compatible con la naturaleza del puesto desempeñado y con las funciones del centro de trabajo, el personal que ocupe puestos de trabajo cuyo nivel de complemento de empleo sea igual o inferior al 28 podrá solicitar al jefe de unidad el reconocimiento de una jornada reducida, ininterrumpida, de las 9 a las 14 horas, de lunes a viernes, percibiendo el 75% de sus retribuciones, conforme a los criterios y fórmulas para el cálculo de las retribuciones en los casos de reducción de jornada que se contemplan en el anexo II de la Orden DEF/253/2015, de 9 de febrero, por la que se regula el régimen de las vacaciones, permisos, reducciones de jornada y licencias de los miembros de las Fuerzas Armadas.
+
+2\. No podrá reconocerse esta reducción de jornada al personal que preste servicios en régimen de especial dedicación, salvo que se autorice el previo pase al régimen de dedicación ordinaria con la consiguiente exclusión, en su caso, del complemento de dedicación especial que se percibiera por aquel régimen.
+
+3\. Esta modalidad de jornada reducida será incompatible con las reducciones de jornada reconocidas en la Orden DEF/253/2015, de 9 de febrero, pero sí será compatible con las medidas de flexibilidad horaria.
+
+> Se modifica el apartado 3 por el art. único.3 de la Orden DEF/1064/2026, de 2 de octubre. [Ref. BOE-A-2026-20978](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20978)
+
+### Artículo 8. Medidas de flexibilidad horaria.
+
+1\. Los militares que tengan a su cargo personas mayores, hijos menores de doce años, personas sujetas a tutela o acogimiento menores de doce años o personas con discapacidad, así como quien tenga a su cargo directo un familiar con enfermedad grave hasta el segundo grado de consanguinidad o afinidad, tendrán derecho a flexibilizar en una hora diaria la parte fija del horario de la jornada que tengan establecida. Este derecho podrá ejercerse también en el año en que el menor cumpla la edad de doce años.
+
+Asimismo, tendrán ese derecho aquéllos que tengan necesidades de cuidado respecto de otras personas dependientes cuando, en este último caso, convivan en el mismo domicilio, y que por razones de edad, accidente o enfermedad no puedan valerse por sí mismos, debiendo justificar las circunstancias en las que fundamentan su petición.
+
+2\. Los militares que hayan sido declarados aptos con limitaciones tendrán derecho a flexibilizar en una hora diaria la parte fija del horario de Ja jornada que tengan establecida, cuando sea necesario por prescripción médica, debidamente documentada, y siempre que no sea posible atender las necesidades derivadas de su condición fuera del horario habitual de trabajo.
+
+3\. Los militares víctimas de violencia doméstica, para hacer efectiva su protección integral o las medidas de asistencia y protección social, tendrán derecho a flexibilizar en una hora diaria la parte fija del horario de Ja jornada que tengan establecida. A estos efectos, la acreditación de la condición de víctima se realizará mediante copia de sentencia firme, orden de protección contemplada en la Ley 27/2003, de 31 de julio, reguladora de la orden de protección de las víctimas de Ja violencia doméstica, o excepciona/mente, hasta que se dicte orden de protección, informe del Ministerio Fiscal que indique la existencia de indicios de que el militar interesado es víctima de violencia doméstica.
+
+4\. Los militares que tengan hijos con discapacidad podrán disponer de un máximo de dos horas de flexibilidad horaria del horario que corresponda a fin de conciliar los horarios de los propios centros de trabajo con los de los centros educativos ordinarios de integración y de educación especial, de los centros de habilitación y rehabilitación, de los servicios sociales y centros ocupacionales, así como otros centros específicos donde la persona con discapacidad reciba atención, con los horarios de los propios puestos de trabajo.
+
+5\. Excepcionalmente los jefes de unidad podrán conceder, con carácter personal y temporal, la modificación de la parte fija del horario en un máximo de dos horas por motivos directamente relacionados con la conciliación de la vida personal, familiar y profesional, así como en los casos de familias monoparentales.
+
+6\. Los militares que se reincorporen al servicio a la finalización de un tratamiento de radioterapia o quimioterapia podrán solicitar una adaptación progresiva de su jornada de trabajo ordinaria. Los jefes de unidad podrán conceder esta adaptación cuando la misma coadyuve a la plena recuperación funcional del militar o evite situaciones de especial dificultad o penosidad en el desempeño de su trabajo. Esta adaptación podrá extenderse hasta un mes desde el alta médica y podrá afectar hasta un 25% de la duración de la jornada diaria, preferentemente en la parte flexible de la misma, considerándose como tiempo de trabajo efectivo. La solicitud irá acompañada de la documentación que aporte el interesado para acreditar la existencia de esta situación. Los jefes de unidad deberán resolver sobre la misma en un plazo de tres días, sin perjuicio de que, para comprobar la procedencia de esta adaptación, los jefes de unidad puedan recabar los informes del Servicio de Prevención de Riesgos Laborales o de cualesquiera otros órganos que considere oportuno sobre el tratamiento recibido o las actividades de rehabilitación que le hayan sido prescritas.
+
+El plazo al que se refiere el párrafo anterior podrá ampliarse en un mes más cuando el militar justifique la persistencia en su estado de salud de las circunstancias derivadas del tratamiento de radioterapia o quimioterapia.
+
+Con carácter excepcional, y en los mismos términos indicados, esta adaptación de jornada podrá solicitarse en procesos de recuperación de otros tratamientos de especial gravedad, debiendo en este supuesto analizarse las circunstancias concurrentes en cada caso.
+
+> Se modifica el apartado 1 por el art. único.4 de la Orden DEF/1064/2026, de 2 de octubre. [Ref. BOE-A-2026-20978](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20978)
+
+> Se modifica el apartado 1 por la disposición final 1.1 de la Orden DEF/1471/2021, de 21 de diciembre. [Ref. BOE-A-2021-21656](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21656)
+
+> Se modifica por el art. único.4 de la Orden DEF/110/2019, de 8 de febrero. [Ref. BOE-A-2019-1784](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1784)
+
+### Artículo 9. Jornada de verano.
+
+1\. Durante el periodo comprendido entre el 16 de junio y el 15 de septiembre, ambos inclusive, las unidades podrán establecer una jornada intensiva de trabajo, a razón de seis horas y media continuadas de trabajo, a desarrollar entre las 8 y las 15 horas, de lunes a viernes.
+
+2\. El personal que preste servicios en régimen de especial dedicación, además del cumplimiento del horario establecido en el apartado anterior, deberá realizar durante este periodo, si las necesidades del servicio lo requieren, cinco horas adicionales a la semana.
+
+3\. Por motivos de conciliación de la vida familiar y profesional, los militares con hijos, descendientes o personas sujetas a su tutela o acogimiento de hasta 12 años de edad, o sin límite de edad en el supuesto de discapacidad superior o igual al 33 % de los anteriores, y siempre que convivan con el solicitante y dependan de este, estando a su cargo, podrán acogerse a esta modalidad de jornada intensiva desde el 1 de junio y hasta el 30 de septiembre. Este derecho podrá ejercerse también en el año en que el menor cumpla la edad de 12 años.
+
+> Se modifica el apartado 3 por el art. único.5 de la Orden DEF/110/2019, de 8 de febrero. [Ref. BOE-A-2019-1784](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1784)
+
+## CAPÍTULO III — Descansos obligatorios, adicionales y otras medidas
+
+### Artículo 10. Criterios de aplicación para los descansos.
+
+En aquellas unidades en que por necesidades del servicio, adiestramiento, instrucción, guardias o servicios, o por el carácter operativo de las mismas se modifique el horario habitual más allá de lo contenido en el capítulo II, y por la realización de dichas actividades no se reciba ninguna compensación económica, distinta a las que corresponden a la manutención y alojamiento, se aplicarán los criterios de descanso que se detallan en este capítulo, siempre y cuando dichos periodos de descanso sean compatibles con las necesidades del servicio y que tengan lugar con posterioridad a la actividad realizada.
+
+### Artículo 11. Descansos obligatorios y adicionales.
+
+1\. Por la realización presencial de guardias, servicios o instrucciones continuadas superiores a la jornada de trabajo habitual y cuya ejecución suponga al menos 24 horas ininterrumpidas de actividad y dedicación exclusiva, el personal militar disfrutará, en función de las necesidades del servicio, de un día de descanso obligatorio. Éste será el inmediatamente posterior a la realización de la actividad o, con carácter particular, en el primer día laborable cuando aquella haya tenido lugar en vísperas de no laborable o festivo.
+
+2\. Por la realización de aquellas guardias o actividades con duración inferior a 24 horas ininterrumpidas de actividad y que supongan un incremento de la jornada o se hayan realizado en fin de semana o festivo, el militar tendrá derecho a disfrutar del descanso adicional que determine el jefe de unidad en función de su duración y que será inferior a un día de descanso.
+
+3\. Por la realización de actividades que supongan varios días de ausencia de la localidad de destino, distintas a las que se determinan en la disposición final segunda, también se tendrá derecho a disfrutar a su regreso del descanso adicional que determine el jefe de unidad en función de la duración de dichas actividades.
+
+4\. En cualquier caso, por la realización de guardias, servicios, instrucciones continuadas, ejercicios o actividades análogas, reguladas en los apartados 1 y 3 del presente artículo, el militar tendrá derecho a disfrutar hasta un máximo de 10 días de descanso adicional al año, que serán concedidos por el jefe de unidad, preferentemente durante los periodos de baja actividad de la unidad y atendiendo a las necesidades del servicio, teniendo como referenciael derecho a las medidas de conciliación de la vida personal, familiar y profesional.
+
+4 bis. En los casos en que el militar realice una guardia o servicio y deba estar localizado y se requiera su actuación y esta se produzca efectivamente y se requiera su incorporación en el lugar de destino y fuera del horario habitual de trabajo, se disfrutará del descanso establecido en el apartado 1 o 2 de este artículo en función de la duración de la actividad computada desde su incorporación al destino y su salida del mismo.
+
+5\. Los Jefes de Estado Mayor del Ejército de Tierra, de la Armada y del Ejército del Aire, en el ámbito de sus respectivas competencias, y el Jefe de Estado Mayor de la Defensa, en lo que afecta a las unidades de su estructura básica, podrán fijar por instrucción la posibilidad de sustituir los días de descanso adicional por reducciones equiparables de la jornada general.
+
+> Se modifican los apartados 2, 3 y 4 y se añade el 4 bis por el art. único.6 de la Orden DEF/110/2019, de 8 de febrero. [Ref. BOE-A-2019-1784](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1784)
+
+### Artículo 12. Prolongación de jornada.
+
+En los casos en que por necesidades del servicio, ya sean operativas o de funcionamiento de la unidad, se prolongue de forma ocasional la jornada general de trabajo, el jefe de unidad podrá conceder al personal afectado el tiempo de descanso que estime necesario.
+
+### Artículo 13. Registro.
+
+Todas las unidades anotarán de forma individualizada los días de descanso adicionales regulados por esta orden ministerial en el sistema informático que se encuentre implantado en cada momento.
+
+### Disposición derogatoria única. Derogación normativa.
+
+1\. Queda derogada la Orden Ministerial 121/2006, de 4 de octubre, por la que se aprueban las normas sobre jornada y horario de trabajo, vacaciones, permisos y licencias de los militares de las Fuerzas Armadas.
+
+2\. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta orden ministerial.
+
+### Disposición final primera. Modificación de la Orden DEF/253/2015, de 9 de febrero, por la que se regula el régimen de vacaciones, permisos, reducciones de jornada y licencias de los miembros de las Fuerzas Armadas.
+
+Se añade un nuevo artículo 3 bis a la Orden DEF/253/2015, de 9 de febrero, por la que se regula el régimen de vacaciones, permisos, reducciones de jornada y licencias de los miembros de las Fuerzas Armadas, con la siguiente redacción:
+
+«Artículo 3 bis. Cómputo de tiempos.
+
+En el ámbito de esta orden ministerial, el cómputo de años de servicio se contabilizará desde la fecha de ingreso en las Fuerzas Armadas.»
+
+### Disposición final segunda. Maniobras, navegaciones, ejercicios y actividades análogas.
+
+1\. El Jefe de Estado Mayor de la Defensa y los Jefes de Estado Mayor del Ejército de Tierra, de la Armada y del Ejército del Aire, en el ámbito de sus competencias, podrán establecer los criterios para la determinación de los periodos de inactividad que permitan a los jefes de unidad conceder otros descansos diferentes a los regulados en esta norma, con motivo de la realización de aquellas maniobras, navegaciones, ejercicios y actividades análogas.
+
+2\. Estos criterios, en todo caso, deberán tener en cuenta: la duración de la actividad, si dicha actividad se realizó en día festivo o no laborable, y si por la realización de la misma se recibe algún tipo de compensación económica.
+
+3\. Así mismo, podrán fijar mediante instrucción la posibilidad de que parte de estos descansos adopten la forma de reducciones equiparables de la jornada laboral.
+
+### Disposición final tercera. Criterios de interpretación.
+
+El Subsecretario de Defensa podrá definir los criterios de interpretación que sean necesarios para la aplicación de esta orden ministerial, que se ajustarán a los que se contemplan para el personal al servicio de la Administración General del Estado, siempre que la organización y funciones específicas de las Fuerzas Armadas lo permitan.
+
+### Disposición final cuarta. Operaciones.
+
+1\. El Jefe de Estado Mayor de la Defensa y los Jefes de Estado Mayor del Ejército de Tierra, de la Armada y del Ejército del Aire, en el ámbito de sus competencias, regularán la concesión y disfrute de los descansos del personal militar que participe en operaciones en el exterior.
+
+2\. La regulación de los descansos de fin de misión tendrán en cuenta la duración total de la misión y si se ha disfrutado de descanso de mitad de misión, estos últimos autorizados cuando el tiempo de participación del militar en la misión se prevea de más de seis meses con carácter general.
+
+3\. En cualquier caso, los descansos de fin de misión no serán inferiores al número de días festivos y no hábiles permanecidos en zonas de operaciones. En todo caso el conjunto de días de descanso a que se tenga derecho se contabilizará en días naturales.
+
+4\. En los descansos de fin de misión podrá aplazarse su disfrute al objeto de asegurar la operatividad de la unidad, el mantenimiento de la propia instrucción y adiestramiento y el mantenimiento del buque. El momento de disfrute de estos descansos, motivado por las necesidades del servicio, se adaptará a las características propias del destino y a las exigencias de disponibilidad.
+
+> Se modifica por el art. único.7 de la Orden DEF/110/2019, de 8 de febrero. [Ref. BOE-A-2019-1784](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1784)
+
+### Disposición final quinta. Facultades de aplicación.
+
+1\. Se habilita al Subsecretario de Defensa a dictar cuantas instrucciones y resoluciones sean necesarias para la aplicación de esta orden ministerial.
+
+En relación al artículo 9 el Subsecretario de Defensa podrá establecer períodos adicionales de jornada intensiva coincidentes con períodos de vacaciones escolares.
+
+2\. El Subsecretario de Defensa, anualmente, podrá evaluar los efectos de la aplicación de esta norma sobre la operatividad y funcionamiento de las unidades, y sobre la prestación de las guardias, servicios, periodos de instrucción continuada y actividades análogas por el personal incluido en el ámbito de aplicación de esta orden ministerial.
+
+> Se añade el párrafo segundo al apartado 1 por el art. único.8 de la Orden DEF/110/2019, de 8 de febrero. [Ref. BOE-A-2019-1784](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1784)
+
+### Disposición final sexta. Contención del gasto.
+
+Las medidas incluidas en esta norma no suponen incremento de dotaciones ni retribuciones ni de otros gastos de personal.
+
+### Disposición final séptima. Entrada en vigor.
+
+La presente orden ministerial entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 28 de julio de 2016.–El Ministro de Defensa, Pedro Morenés Eulate.

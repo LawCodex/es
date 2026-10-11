@@ -1,0 +1,489 @@
+---
+title: "Orden PRE/3026/2003, de 30 de octubre, por la que se dictan normas de inspección y control para las Direcciones Regionales y Territoriales de Comercio"
+identifier: "BOE-A-2003-20151"
+eli: "https://www.boe.es/eli/es/o/2003/10/30/pre3026"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2003-10-30
+published: 2003-11-01
+in_force_from: 2003-11-02
+last_amended: 2026-09-26
+consolidated: 2026-09-28
+gazette: "Boletín Oficial del Estado núm. 262"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20151"
+retrieved: 2026-10-11
+---
+
+# Orden PRE/3026/2003, de 30 de octubre, por la que se dictan normas de inspección y control para las Direcciones Regionales y Territoriales de Comercio
+
+La Orden del Ministro de Comercio y Turismo de 24 de febrero de 1995, por la que se dictan normas de inspección y control para los Centros de Inspección de Comercio Exterior (SOIVRE) establece las funciones a realizar por estos Centros, sin perjuicio de las competencias que correspondan a otros Departamentos ministeriales.
+
+Durante el tiempo transcurrido desde la publicación de la Orden de 24 de febrero de 1995 se han producido diferentes cambios en el ámbito normativo que afectan al conjunto de los productos sometidos a control de comercio exterior y en la actividad sectorial del comercio exterior, que aconsejan la publicación de una nueva Orden actualizada que facilite su aplicación.
+
+Respecto a la inspección y control de calidad comercial de productos de importación de países terceros, la Disposición transitoria de dicha Orden, modificada por la Orden del Ministro de Comercio y Turismo de 18 de mayo de 1995, preveía que continuarían siendo efectuados por estos mismos Centros hasta tanto se designara la autoridad que, en lo sucesivo, debía realizarlos.
+
+Como consecuencia de lo anterior, por sendas órdenes del Ministro de la Presidencia de 15 de noviembre de 1995 y de 5 de marzo de 1996, relativa a las funciones de inspección y control de calidad de frutas y hortalizas frescas y de flores cortadas y conos de lúpulo importados de países terceros, se encomendó a la entonces Dirección General de Sanidad de la Producción Agraria del Ministerio de Agricultura, Pesca y Alimentación, la realización de las mismas.
+
+Por su parte el Real Decreto 1371/2000, de 19 de julio, por el que se modifica y desarrolla la estructura orgánica básica del Ministerio de Economía, encomienda en su artículo 11 a la Secretaría General de Comercio Exterior, de las que dependen funcionalmente las Direcciones Regionales y Territoriales de Comercio, la inspección y control de calidad comercial así como la inspección y certificación de productos objeto de comercio exterior, en cuanto a normas y especificaciones de calidad comercial para garantizar que los productos se exporten y se importen en las condiciones adecuadas.
+
+Transcurrido un largo período de tiempo en el que se mantiene esta situación de provisionalidad que se deriva de la disposición transitoria de la Orden de 24 de febrero de 1995, y considerando que se han modificado las circunstancias que motivaron la adopción de esta Orden y que no procede en la situación actual la realización de las actividades materiales de inspección y control de la calidad comercial por otras unidades administrativas, se hace necesario adoptar las medidas que permitan el desarrollo y ejecución de las competencias establecidas.
+
+Por otra parte, con la publicación del Real Decreto 1884/1996, de 2 de agosto, de estructura orgánica básica del Ministerio de Economía y Hacienda, los antiguos Centros de Inspección de Comercio Exterior pasaron a denominarse Centros de Asistencia Técnica e Inspección del Comercio Exterior. Asimismo, la Orden del Ministerio de la Presidencia de 18 de noviembre de 1999, por la que se desarrolla el Real Decreto 390/1998, de 13 de marzo, que regula las funciones y la estructura orgánica de las Delegaciones de Economía y Hacienda, dispuso la integración en una Dependencia Regional o Territorial de Comercio de la estructura anterior de las Direcciones Territoriales y Provinciales de Comercio y los Centros de Asistencia Técnica e Inspección del Comercio Exterior, estableciendo para ello como dependencias únicas las ahora denominadas Direcciones Regionales y Territoriales de Comercio.
+
+En su virtud, a propuesta del Vicepresidente Primero del Gobierno y Ministro de Economía y del Ministro de Agricultura Pesca y Alimentación, dispongo:
+
+## Artículo 1. Ámbito de aplicación.
+
+La presente Orden tiene su ámbito de aplicación en la inspección y control de la calidad comercial de los productos objeto de comercio exterior.
+
+Las Direcciones Regionales y Territoriales de Comercio desempeñarán, en el ámbito de su demarcación, a través de sus Servicios de Inspección (SOIVRE), y sin perjuicio de las competencias que correspondan a otros Departamentos ministeriales, las siguientes funciones en el ámbito de la inspección y control:
+
+1\. La inspección y control de la calidad comercial de los productos objeto de comercio exterior que se establecen en el anexo de la presente Orden.
+
+Las operaciones comerciales entre España y el resto de Países miembros de la Unión Europea sólo serán objeto de inspección y control de la calidad comercial en aquellos supuestos en que así lo establezca el Ministerio de Economía, en aplicación de las disposiciones de la Unión Europea.
+
+2\. Informar a las autoridades competentes sobre las deficiencias observadas en los productos objeto de comercio exterior sometidos a inspección y control comercial.
+
+3\. Expedir los certificados que se deriven de su actuación de inspección y control, así como aquellos documentos cuya emisión les sea expresamente atribuida.
+
+4\. Iniciar los expedientes sancionadores que se deriven de su actuación inspectora o de control.
+
+5\. Las demás funciones de inspección y control comercial que les sean encomendadas por el Ministerio de Economía en el ámbito de sus competencias.
+
+## Artículo 2. Disposiciones aplicables.
+
+Las Direcciones Regionales y Territoriales de Comercio realizarán las inspecciones, controles y exámenes documentales de acuerdo con lo que dispongan al efecto:
+
+1\. Las reglamentaciones y normas técnicas de calidad y de comercialización o cualquier otra disposición que afecte a los productos sometidos a su intervención y que, siendo de obligado cumplimiento, fijen características de calidad o de comercialización, así como las que establezcan condiciones para el etiquetado, envasado, almacenamiento, acondicionamiento, transporte y descarga, estiba o desestiba.
+
+2\. Las reglamentaciones, normas y demás disposiciones que, siendo de obligado cumplimiento, regulen las actividades relativas a la inspección, control y ordenación comercial.
+
+3\. Las instrucciones de la Secretaría General de Comercio Exterior, para las mercancías y durante el tiempo que ésta determine.
+
+## Artículo 3. Puntos habilitados para la inspección.
+
+1\. La inspección de los productos objeto de comercio exterior se realizará en los puntos habilitados al efecto por el Ministerio de Economía o en las instalaciones de confección, envasado, producción, almacenamiento, carga o distribución del propio operador comercial.
+
+2\. En el supuesto de que la inspección y control se realicen en lugares habilitados como recintos aduaneros o asimilados, éstos se realizarán previa autorización de la administración aduanera.
+
+3\. El personal técnico adscrito a los Servicios de Inspección de las Direcciones Regionales y Territoriales de Comercio tendrá acceso a los lugares o instalaciones en donde se realice la selección y el control de calidad de los productos objeto de comercio exterior, tanto si esta actividad es realizada directamente por el propio operador comercial como si se realiza por terceras personas.
+
+4\. El personal técnico adscrito a los Servicios de Inspección de las Direcciones Regionales y Territoriales de Comercio realizará sus funciones debidamente acreditado, mediante la presentación de su tarjeta de identidad a la persona responsable de la mercancía o instalación a inspeccionar.
+
+## Artículo 4. Obligaciones de los operadores.
+
+Todo expedidor, exportador o importador de una mercancía deberá, por sí o por sus representantes, facilitar los medios necesarios para el mejor cumplimiento de las actuaciones de inspección y control pertinentes, así como aportar los documentos, registros y certificados que le sean solicitados en adecuación a los fines previstos en esta Orden.
+
+## Artículo 5. Notificaciones de inspección.
+
+1\. Los exportadores o importadores de mercancías sometidas al ámbito de aplicación de la presente Orden, deberán por sí mismos o sus representantes, notificar a la Dirección Regional o Territorial de Comercio que corresponda, los envíos destinados a ser exportados a países terceros o importados de éstos.
+
+2\. Se eximen de la obligación de notificación y, consecuentemente de la correspondiente inspección o control comercial, todas las operaciones que no tengan carácter comercial.
+
+3\. La notificación se dirigirá a las Direcciones Regionales y Territoriales de Comercio o a los puntos de inspección de ellas dependientes, con la suficiente antelación, de forma que si los Servicios de Inspección de las Direcciones Regionales y Territoriales de Comercio consideran necesario efectuar un reconocimiento físico de la mercancía por sondeo, éste pueda llevarse a efecto en los puntos de inspección habilitados, o en las propias instalaciones del operador. En este último supuesto, la notificación se efectuará con una antelación mínima de veinticuatro horas a la expedición física de la partida a controlar.
+
+4\. La notificación podrá realizarse por escrito o mediante cualquier medio de transmisión que permita la obtención de constancia documental, y deberá contener como mínimo los siguientes datos:
+
+a) Operador (Exportador/Importador).
+
+b) Nombre o razón social.
+
+c) Número de identificación fiscal (NIF).
+
+d) Destinatario.
+
+e) País de destino o procedencia.
+
+f) Localización de la/s partida/s a exportar o importar.
+
+g) Identificación del medio de transporte.
+
+h) Datos de la/s partida/s a controlar:
+
+j) Naturaleza del producto.
+
+k) Código de nomenclatura combinada (NC).
+
+l) Número de cajas/bultos/«palets».
+
+m) Marca comercial/código lote de fabricación.
+
+n) Categoría de calidad.
+
+p) Peso bruto/neto.
+
+q) Fecha y lugar de la notificación.
+
+5\. La notificación por vía telemática podrá ser practicada en los supuestos que se determinen por Orden del Ministro de Economía, de acuerdo con lo previsto en el Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.
+
+6\. Sin perjuicio de las peculiaridades previstas en la presente Orden, será aplicable lo dispuesto en Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## Artículo 6. Actuaciones de los Servicios de Inspección.
+
+A la vista de la notificación, los Servicios de Inspección de las Direcciones Regionales y Territoriales de Comercio realizarán las funciones de inspección y control previstas en el artículo 1, apartado 1, de la presente Orden, de acuerdo con las siguientes especificaciones:
+
+1\. La inspección de calidad comercial se realizará de forma regular y proporcional al objetivo perseguido, constando de una o varias de las operaciones siguientes:
+
+a) Revisión del material escrito y documental.
+
+b) Reconocimiento físico de las mercancías objeto de comercio exterior.
+
+c) Toma de muestras y análisis de las mismas.
+
+d) Verificación de la eficacia de las medidas de selección y autocontrol de calidad utilizadas por el propio operador económico.
+
+2\. La inspección de calidad comercial podrá ser sistemática, cuando las circunstancias así lo aconsejen o cuando lo exija la normativa aplicable.
+
+3\. El control documental se limitará a la recepción de la notificación y demás documentos de control, fichas o boletines de análisis que sean aportados por el operador, o le sean solicitados, en adecuación a los fines perseguidos en la presente Orden, a efectos de comprobar su correcta cumplimentación y su validez, sin que ello implique el reconocimiento físico de las mercancías afectadas.
+
+4\. El reconocimiento físico implicará el control de identidad y el control de conformidad con la norma de calidad aplicable en cada caso.
+
+5\. La verificación de la eficacia de las medidas de autocontrol de calidad utilizadas por el operador económico se realizará de acuerdo con lo dispuesto en la normativa legalmente aplicable como es el caso, en particular, de acuerdo con lo previsto en el artículo 4 del Reglamento (CE) 1148/2001, de la Comisión, de 12 de junio de 2001, así como conforme a lo previsto en los convenios sectoriales suscritos para la certificación, control y aseguramiento de la calidad.
+
+En estos supuestos, los controles se efectuarán en las propias instalaciones del operador comercial, sin previo aviso, y siempre que las circunstancias lo hagan aconsejable, o con la periodicidad que se considere necesaria por el Servicio de Inspección encargado de efectuar dicho control, debiendo respetarse en todo caso la periodicidad mínima impuesta por la normativa aplicable. El Inspector actuante tendrá acceso asimismo a la documentación, boletines de análisis, fichas o registros que acrediten o sustenten esta actividad de autocontol de la calidad comercial.
+
+## Artículo 7. Emisión de certificados.
+
+1\. Realizada la inspección y control, si se comprueba la adecuación de la mercancía a los requisitos que ha de cumplir, se expedirá por las Direcciones Regionales y Territoriales de Comercio, el correspondiente certificado, cuyo modelo será determinado por la Secretaría General de Comercio Exterior.
+
+2\. El Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria exigirá para el despacho aduanero de los productos sometidos a inspección y control de los Servicios de Inspección (SOIVRE) de las Direcciones Regionales y Territoriales de Comercio, la presentación del certificado previsto en el apartado anterior.
+
+Sin perjuicio de lo anterior, se podrán instrumentar procedimientos de tramitación y comunicación telemática, a efectos de agilización del despacho aduanero, de acuerdo con lo previsto en el Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.
+
+3\. Las mercancías objeto de inspección y control que no cumplan con los requisitos comerciales que le sean exigibles, serán declaradas «no conformes» no expidiéndose el certificado a que se refiere el apartado 1 del presente Artículo.
+
+En este caso, las Direcciones Regionales y Territoriales de Comercio notificarán por escrito, al operador o a su representante legal, la no conformidad, indicando los motivos de la misma.
+
+4\. Cuando una mercancía sea declarada «no conforme» el interesado o su representante legal podrá solicitar por escrito, en un plazo de cuarenta y ocho horas a contar desde la notificación de no conformidad, una nueva inspección, cuyo resultado que se considerará definitivo y, le será notificado por escrito al interesado, así como a las autoridades competentes, en su caso.
+
+5\. Toda mercancía que haya sido declarada «no conforme» por los Servicios de Inspección de las Direcciones Regionales y Territoriales de Comercio no podrá, sin la previa autorización de los mismos, ser presentada a inspección o control en otro punto de inspección.
+
+6\. Si las circunstancias así lo requieren, el inspector actuante podrá exigir al operador económico el marcado o identificación por cualquier medio, de los bultos que componen la partida declarada «no conforme», o bien su segregación o inmovilización temporal respecto a otros lotes o partidas susceptibles de ser exportados o importados, a falta de cualquier otro sistema equivalente que permita acreditar el destino final de la partida declarada «no conforme».
+
+## Artículo 8. Autorizaciones provisionales.
+
+Excepcionalmente, cuando las características del producto lo aconsejen, o cuando las determinaciones analíticas que deban efectuarse exijan un tiempo prolongado, los Servicios de Inspección de las Direcciones Regionales y Territoriales de Comercio podrán autorizar la exportación o importación de la/s partida/s objeto de control a petición del interesado, quien asumirá la responsabilidad plena del resultado de los análisis definitivos y del destino de la mercancía. Dicho resultado será notificado al interesado e, igualmente a las autoridades competentes en su caso.
+
+## Disposición adicional única. Coste económico.
+
+El desarrollo y aplicación de la presente Orden, no supondrá incremento del gasto público, en tanto que las funciones que se encomiendan a las Direcciones Regionales y Territoriales de Comercio se realizarán con los medios humanos y técnicos de los que ya dispone la Secretaría General de Comercio Exterior.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Orden, y expresamente la Orden del Ministro de Comercio y Turismo de 24 de febrero de 1995, por la que se dictan normas de inspección y control para los Centros de Inspección de Comercio Exterior (SOIVRE), modificada por Orden de 18 de Mayo de 1995, así como las Órdenes del Ministro de la Presidencia de 15 de noviembre de 1995, relativa a las funciones de inspección y control de calidad de frutas y hortalizas frescas importadas de países terceros y de 5 de marzo de 1996, relativa a las funciones de inspección y control de calidad de flores cortadas y conos de lúpulo importados de países terceros.
+
+## Disposición final primera. Adaptación de los procedimientos.
+
+El Ministro de Economía adoptará, mediante la correspondiente Orden ministerial, las modificaciones en los procedimientos y normas de inspección y control para las Direcciones Regionales y Territoriales de Comercio contemplados en esta Orden, así como las modificaciones de la relación de los productos objeto de comercio exterior sometidos a control e inspección de la calidad comercial por parte de las Direcciones Regionales y Territoriales de Comercio, incluidos en el Anexo de la presente Orden.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 30 de octubre de 2003.
+
+ARENAS BOCANEGRA
+
+Excmo. Sr. Vicepresidente Primero del Gobierno y Ministro de Economía y Excmo. Sr. Ministro de Agricultura, Pesca y Alimentación.
+
+## ANEXO
+
+**A. Productos de importación procedentes de terceros países sometidos a inspección y control de calidad comercial (Códigos de Nomenclatura Combinada)**
+
+Capítulo 2. Carne y despojos comestibles.
+
+0207 Carnes y despojos comestibles, de aves de la partida 0105, frescos, refrigerados o congelados.
+
+Capítulo 3. Pescados y crustáceos, moluscos y demás invertebrados acuáticos (excepto peces ornamentales).
+
+Capítulo 4. Leche y productos lácteos; huevos de ave; miel natural; productos comestibles de origen animal no expresados ni comprendidos en otra parte.
+
+ex 0407.21 Huevos con cáscara (no para incubar), frescos, de gallina de la especie *Gallus domesticus* (excepto los huevos SPF, para usos diagnósticos e investigación).
+
+ex 0407.90 Los demás huevos con cáscara de gallina de la especie *Gallus domesticus* (excepto los huevos SPF, para usos diagnósticos e investigación).
+
+Capítulo 7. Legumbres y hortalizas, plantas, raíces y tubérculos alimenticios.
+
+0702 Tomates frescos o refrigerados.
+
+ex 0703 Cebollas, chalotes, ajos, puerros y demás hortalizas aliáceas, frescos o refrigerados, distintas de las de simiente.
+
+0704 Coles, incluidos los repollos, coliflores, coles rizadas, colinabos y productos comestibles similares del género *Brássica spp.*, frescos o refrigerados.
+
+0705 Lechugas *(Lactuca sativa)* y achicorias comprendidas la escarola y la endibia *(Chichorium spp.)* frescas o refrigeradas.
+
+0706 Zanahorias, nabos, remolachas para ensalada, salsifíes, apionabos, rábanos y raíces comestibles similares, frescos o refrigerados.
+
+0707 Pepinos y pepinillos, frescos o refrigerados.
+
+0708 Hortalizas de vaina, aunque estén desvainadas, frescas o refrigeradas.
+
+0709 Las demás hortalizas, frescas o refrigeradas, excepto:
+
+– Las setas y demás hongos no cultivados del código NC ex 0709 51 al ex 0709 56 y 0709 59.
+
+– Las hortalizas de las subpartidas 0709.60.91.00, 0709.60.95.00, 0709.60.99 (los demás frutos del género *Capsicum* o *Pimenta* exclusivamente de sabor picante), 0709.92 (aceitunas).
+
+ex 0709.60.99 Los pimientos tipo padrón.
+
+0714.20 Batatas, boniatos o camotes.
+
+ex 0714.90.90 Aguaturmas o patacas.
+
+Capítulo 8. Frutas y frutos comestibles; cortezas de agrios (cítricos), melones o sandías.
+
+0802 Los demás frutos de cáscara, frescos o secos, incluso sin cáscara o mondados excepto los de las subpartidas: 0802.11.10 (almendras amargas), 0802.12 (almendras sin cáscara), 0802.22 (avellanas sin cáscara), 0802.32 (nueces sin cáscara), 0802.52 (pistachos sin cáscara), 0802.62 (nueces de macadamia sin cáscara), 0802.70 (nueces de cola), 0802.80 (nueces de areca o de betel), 0802.99.10 (pacanas), 0802.92 (piñones sin cáscara), 0802.99.90 (los demás frutos de cáscara).
+
+0803.10.10 “Plantains” (plátanos hortaliza) frescos.
+
+0803.90.11.00 Plátanos frescos. Plátano de Canarias.
+
+0803.90.19.00 Plátanos frescos. Los demás.
+
+0804.20.10 Higos frescos.
+
+0804.30.00.90 Piñas (ananás) frescas.
+
+0804.40.00.10 Aguacates (palpas) frescos.
+
+ex 0804.50.00 Guayabas, mangos y mangostán frescos.
+
+ex 0805 Agrios (cítricos) frescos.
+
+0806.10.10 Uvas de mesa frescas.
+
+0807 Melones, sandías y papayas frescos.
+
+0808 Manzanas, peras y membrillos, frescos.
+
+0809 Albaricoques (damascos, chabacanos), cerezas, melocotones (duraznos), incluidos los griñones y nectarinas, ciruelas y endrinas, frescos.
+
+0810 Las demás frutas u otros frutos, frescos.
+
+Capítulo 9. Café, té, yerba mate y especias.
+
+0910.99.31.00 y 0910.99.33.00 Tomillo fresco o refrigerado.
+
+Capítulo 12. Semillas y frutos oleaginosos; semillas y frutos diversos; plantas industriales o medicinales; paja y forraje.
+
+ex 1207.99.20.10 Semillas de cáñamo, para siembra.
+
+1207.99.91 Semillas de cáñamo, las demás.
+
+1210 Conos de lúpulo frescos o secos, incluso triturados, molidos o en pellets, lupulino.
+
+1211.90.86.20 Albahaca fresca o refrigerada.
+
+1211.90.86.30 Menta fresca o refrigerada.
+
+ex 1211.90.86.90 Toronjil, *Origanum vulgare* (orégano), romero, salvia, frescos o refrigerados.
+
+ex 1212.92.00.00 Algarrobas enteras.
+
+Capítulo 15. Grasas y aceites animales o vegetales; productos de su desdoblamiento; grasas alimenticias elaboradas; ceras de origen animal o vegetal.
+
+1509 Aceite de oliva y sus fracciones, incluso refinado, pero sin modificar químicamente.
+
+1510 Los demás aceites y sus fracciones obtenidos exclusivamente de la aceituna, incluso refinados, pero sin modificar químicamente, y mezclas de estos aceites o fracciones con los aceites o fracciones de la partida 1509.
+
+Capítulo 16. Preparaciones de carne, pescado o de crustáceos, moluscos o demás invertebrados acuáticos.
+
+ex 1604 Conservas de sardinas (género *Pilchardus*), de atún (género *Thunnus* o listados - *Euthynus pelamis*) y de bonito (géneros *Sarda, Euthynnus* y *Auxis*).
+
+Capítulo 53. Las demás fibras textiles vegetales; hilados de papel y tejidos de hilados de papel.
+
+5302.10.00 Cáñamo en bruto o enriado.
+
+**B. Productos de exportación destinados a terceros países sometidos a inspección y control de calidad comercial (Códigos de Nomenclatura Combinada)**
+
+Capítulo 4. Leche y productos lácteos; huevos de ave; miel natural; productos comestibles de origen animal no expresados ni comprendidos en otra parte.
+
+ex 0407.21. Huevos con cáscara (no para incubar), frescos, de gallina de la especie *Gallus domesticus* (excepto los huevos SPF, para usos diagnósticos e investigación).
+
+ex 0407.90 Los demás huevos con cáscara de gallina de la especie *Gallus domesticus* (excepto los huevos SPF, para usos diagnósticos e investigación).
+
+Capítulo 7. Legumbres y hortalizas, plantas, raíces y tubérculos alimenticios.
+
+0702 Tomates frescos o refrigerados.
+
+ex 0703 Cebollas, chalotes, ajos, puerros y demás hortalizas aliáceas, frescos o refrigerados, distintas de las de simiente.
+
+0704 Coles, incluidos los repollos, coliflores, coles rizadas, colinabos y productos comestibles similares del género *Brassica spp.,* frescos o refrigerados.
+
+0705 Lechugas *(Lactuca sativa)* y achicorias comprendidas la escarola y la endibia *(Chichorium spp.)* frescas o refrigeradas.
+
+0706 Zanahorias, nabos, remolachas para ensalada, salsifíes, apionabos, rábanos y raíces comestibles similares, frescos o refrigerados.
+
+0707 Pepinos y pepinillos, frescos o refrigerados.
+
+0708 Hortalizas de vaina, aunque estén desvainadas, frescas o refrigeradas.
+
+0709 Las demás hortalizas, frescas o refrigeradas, excepto:
+
+– Las setas y demás hongos no cultivados del código NC ex 0709 51 al ex 0709 56 y 0709 59.
+
+– Las hortalizas de las subpartidas 0709.60.91.00, 0709.60.95.00, 0709.60.99 (los demás frutos del género *Capsicum* o *Pimenta* exclusivamente de sabor picante), 0709.92 (aceitunas).
+
+ex 0709.60.99 Los pimientos tipo padrón.
+
+0714.20 Batatas, boniatos o camotes.
+
+ex 0714.90.90 Aguaturmas, Topinambur o patacas.
+
+Capítulo 8. Frutas y frutos comestibles; cortezas de agrios (cítricos), melones o sandías.
+
+0802 Los demás frutos de cáscara, frescos o secos, incluso sin cáscara o mondados excepto los de las subpartidas: 0802.11.10 (almendras amargas), 0802.12 (almendras sin cáscara), 0802.22 (avellanas sin cáscara), 0802.32 (nueces sin cáscara), 0802.52 (pistachos sin cáscara), 0802.62 (nueces de macadamia sin cáscara), 0802.70 (nueces de cola), 0802.80 (nueces de areca o de betel), 0802.99.10 (pacanas), 0802.92 (piñones sin cáscara), 0802.99.90 (los demás frutos de cáscara).
+
+0803.10.10 “Plantains” (plátanos hortaliza) frescos.
+
+0804.20.10 Higos frescos.
+
+0804.30.00.90 Piñas (ananás) frescas.
+
+0804.40.00.10 Aguacates (palpas) frescos.
+
+ex 0804.50.00 Guayabas, mangos y mangostán frescos.
+
+ex 0805 Agrios (cítricos) frescos.
+
+0806.10.10 Uvas de mesa frescas.
+
+0807 Melones, sandias y papayas frescos.
+
+0808 Manzanas, peras y membrillos, frescos.
+
+0809 Albaricoques (damascos, chabacanos), cerezas, melocotones (duraznos), incluidos los griñones y nectarinas, ciruelas y endrinas, frescos.
+
+0810 Las demás frutas u otros frutos, frescos.
+
+Capítulo 9. Café, té, yerba mate y especias.
+
+0910.99.31.00 y 0910.99.33.00 Tomillo fresco o refrigerado.
+
+Capítulo 12. Semillas y frutos oleaginosos; semillas y frutos diversos; plantas industriales o medicinales; paja y forraje.
+
+1210 Conos de lúpulo frescos o secos, incluso triturados, molidos o en pellets, lupulino.
+
+1211.90.86.20 Albahaca fresca o refrigerada.
+
+1211.90.86.30 Menta fresca o refrigerada.
+
+ex 1211.90.86.90 Toronjil, *Origanum vulgare* (orégano), romero, salvia, frescos o refrigerados.
+
+ex 1212.92.00.00 Algarrobas enteras.
+
+Capítulo 15. Grasas y aceites animales o vegetales; productos de su desdoblamiento; grasas alimenticias elaboradas; ceras de origen animal o vegetal.
+
+1509 Aceite de oliva y sus fracciones, incluso refinado, pero sin modificar químicamente.
+
+1510 Los demás aceites y sus fracciones obtenidos exclusivamente de la aceituna, incluso refinados, pero sin modificar químicamente, y mezclas de estos aceites o fracciones con los aceites o fracciones de la partida 1509.
+
+**C. Productos de importación procedentes de terceros países sometidos a inspección y control de calidad comercial exclusivamente en lo que se refiere a la comprobación de la indicación del país de origen (Códigos de Nomenclatura Combinada)**
+
+Capítulo 7. Legumbres y hortalizas, plantas, raíces y tubérculos alimenticios.
+
+ex 0709.51 al ex 0709.56 y 0709.59 Setas y demás hongos no cultivados.
+
+0709.99.40 Alcaparras.
+
+Capítulo 8. Frutas y frutos comestibles; cortezas de agrios (cítricos), melones o sandías.
+
+0802.11.10 Almendras amargas.
+
+0802.12 Almendras sin cáscara.
+
+0802.22 Avellanas sin cáscara.
+
+0802.32 Nueces sin cáscara.
+
+0802.52 Pistachos sin cáscara.
+
+0802.62 Nueces de macadamia sin cáscara.
+
+0802.92 Piñones sin cáscara.
+
+0802.99.10 Pacanas.
+
+0802.99.90 Los demás frutos de cáscara.
+
+0803.10.90 Plátanos hortaliza secos.
+
+0804.20.90 Los higos secos.
+
+ex 0805 Cítricos secos.
+
+0806.20 Las uvas secas, incluidas las pasas.
+
+ex 0813 Las frutas secas y sus mezclas, excepto las correspondientes a las subpartidas 0813 50 31 y 0813 50 39.
+
+0813.50.31 Mezclas de nueces tropicales.
+
+0813.50.39 Mezclas de las demás nueces.
+
+Capítulo 9. Café, té, yerba mate y especias.
+
+0910.20 Azafrán.
+
+**D. Productos de exportación destinados a terceros países sometidos a inspección y control de calidad comercial exclusivamente en lo que se refiere a la comprobación de la indicación del país de origen (Códigos de Nomenclatura Combinada)**
+
+Capítulo 7. Legumbres y hortalizas, plantas, raíces y tubérculos alimenticios.
+
+ex 0709.51 al ex 0709.56 y 0709.59 Setas y demás hongos no cultivados.
+
+0709.99.40 Alcaparras.
+
+Capítulo 8. Frutas y frutos comestibles; cortezas de agrios (cítricos), melones o sandías.
+
+0802.11.10 Almendras amargas.
+
+0802.12 Almendras sin cáscara.
+
+0802.22 Avellanas sin cáscara.
+
+0802.32 Nueces sin cáscara.
+
+0802.52 Pistachos sin cáscara.
+
+0802.62 Nueces de macadamia sin cáscara.
+
+0802.92 Piñones sin cáscara.
+
+0802.99.10 Pacanas.
+
+0802.99.90 Los demás frutos de cáscara.
+
+0803.10.90 Plátanos hortaliza secos.
+
+ex 0803.90 Los plátanos maduros y resultantes de la maduración en el territorio de la Unión.
+
+0804.20.90 Los higos secos.
+
+ex 0805 Cítricos secos.
+
+0806.20 Las uvas secas, incluidas las pasas.
+
+ex 0813 Las frutas secas y sus mezclas, excepto las correspondientes a las subpartidas 0813 50 31 y 0813 50 39.
+
+0813.50.31 Mezclas de nueces tropicales.
+
+0813.50.39 Mezclas de las demás nueces.
+
+Capítulo 9. Café, té, yerba mate y especias.
+
+0910.20 Azafrán.
+
+**E. Productos contemplados en el artículo 5.1.b.xvii) del Reglamento Delegado (UE) 2023/2429 de la Comisión sometidos a inspección y control de calidad comercial exclusivamente en lo que se refiere a la comprobación de la indicación del país de origen (Códigos de Nomenclatura Combinada) en importación y exportación de terceros países**
+
+Los productos de los Códigos de Nomenclatura Combinada de los capítulos 07, 08, el azafrán y el tomillo del capítulo 09, y las especias y algarrobas del capítulo 12, que se incluyen en la parte IX del anexo I del Reglamento (UE) 1308/2013 y recogidos en las anteriores partes del anexo, en lo relativo a la indicación del país origen cuando sean comercializados según contempla el artículo 5.1.b.xvii) del Reglamento Delegado (UE) 2023/2429 de la Comisión, de 17 de agosto de 2023, por el que se completa el Reglamento (UE) 1308/2013 del Parlamento Europeo y del Consejo, en lo que se refiere a las normas de comercialización para el sector de las frutas y hortalizas, determinados productos procedentes de frutas y hortalizas transformadas y el sector de los plátanos, y por el que se derogan el Reglamento (CE) 1666/1999 de la Comisión y los Reglamentos de Ejecución (UE) 543/2011 y (UE) 1333/2011 de la Comisión.
+
+> Se modifica por el art. único de la Orden ECM/1002/2026, de 9 de septiembre. [Ref. BOE-A-2026-19943](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-19943)
+
+> Se modifica por el art. 1 de la Orden ECC/2566/2015, de 27 de noviembre. [Ref. BOE-A-2015-13096](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13096).
+
+> Se modifica por el art. único de la Orden ECC/2257/2013, de 26 de noviembre. [Ref. BOE-A-2013-12631](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12631).
+
+> Se modifica por el art. único de la Orden ITC/2869/2009, de 21 de octubre. [Ref. BOE-A-2009-17081](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17081).

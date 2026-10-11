@@ -1,0 +1,11363 @@
+---
+title: "Real Decreto 738/2015, de 31 de julio, por el que se regula la actividad de producción de energía eléctrica y el procedimiento de despacho en los sistemas eléctricos de los territorios no peninsulares"
+identifier: "BOE-A-2015-8646"
+eli: "https://www.boe.es/eli/es/rd/2015/07/31/738"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Energía y Turismo"
+date: 2015-07-31
+published: 2015-08-01
+in_force_from: 2015-09-01
+last_amended: 2026-06-23
+consolidated: 2026-09-21
+gazette: "Boletín Oficial del Estado núm. 183"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8646"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 738/2015, de 31 de julio, por el que se regula la actividad de producción de energía eléctrica y el procedimiento de despacho en los sistemas eléctricos de los territorios no peninsulares
+
+I
+
+La Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, dispuso que las actividades para el suministro de energía eléctrica que se desarrollaran en los sistemas eléctricos insulares y extrapeninsulares (hoy sistemas eléctricos de los territorios no peninsulares) serían objeto de una reglamentación singular, debido a las características específicas que presentan respecto al sistema peninsular, derivadas de su ubicación territorial y de su carácter aislado.
+
+A su vez la citada ley, con el fin de mantener precios equivalentes a los que resultan del sistema de ofertas peninsular, y teniendo en cuenta el mayor coste de generación previsible, derivado de la propia estructura de los sistemas aislados, estableció un mecanismo de compatibilidad económica, que garantizara el fin perseguido, evitando la discriminación a los consumidores, y comercializadores, sin perjudicar la eficiencia energética y económica de cada uno de los sistemas.
+
+Por ello, se preceptuó que la actividad de producción de energía eléctrica, pudiera estar excluida del sistema de ofertas y ser retribuida tomando como referencia la estructura de precios del sistema peninsular a lo que se podría añadir un concepto retributivo adicional que tuviera en consideración todos los costes específicos de estos sistemas y los costes de esta actividad de producción de energía eléctrica que no pudieran ser sufragados con cargo a los ingresos obtenidos en dichos ámbitos territoriales.
+
+Esta ley fue objeto de desarrollo principalmente por el Real Decreto 1747/2003, de 19 de diciembre, por el que se regulan los sistemas eléctricos insulares y extrapeninsulares, la Orden ITC/913/2006, de 30 de marzo, por la que se aprueban el método de cálculo del coste de cada uno de los combustibles utilizados y el procedimiento de despacho y liquidación de la energía en los sistemas eléctricos insulares y extrapeninsulares así como por la Orden ITC/914/2006, de 30 de marzo, por la que se establece el método de cálculo de la retribución de garantía de potencia para las instalaciones de generación en régimen ordinario de los sistemas eléctricos insulares y extrapeninsulares. Con esta regulación se adaptaron sus principios a las peculiaridades de estos sistemas con el doble objetivo de garantizar el suministro de energía eléctrica y su calidad, para que se realizase al menor coste posible.
+
+De esta forma y en relación con la generación, se creó un mecanismo de despacho de las unidades de producción por orden de mérito económico hasta cubrir la demanda prevista, teniendo en cuenta los niveles de seguridad y calidad establecidos. El operador del sistema realiza el despacho económico de las unidades de producción en cada sistema, con base en los costes variables de las centrales de producción.
+
+La referida normativa estableció los siguientes conceptos de coste variable: el coste variable de funcionamiento, el coste de arranque, el coste variable de operación y mantenimiento por funcionamiento, el coste de reserva caliente y el coste de la banda de regulación.
+
+Como contrapartida al sistema de despacho económico y retribución de la generación, en el lado de la demanda se estableció un mecanismo de compatibilidad económica para los compradores de energía para evitar que se produjeran discriminaciones respecto a sus homólogos del sistema peninsular.
+
+Adicionalmente a los costes variables de las centrales, utilizados para realizar el despacho, en la actividad de producción se previó también una retribución por otros conceptos de naturaleza fija, llamados en su día garantía de potencia. La garantía de potencia buscaba retribuir los costes de inversión y de operación y mantenimiento fijos, teniendo en cuenta el nivel específico de reserva que es necesario mantener en estos sistemas eléctricos y el sobrecoste de las tecnologías específicas utilizadas.
+
+Asimismo la normativa específica de estos territorios desarrolló el procedimiento de liquidación de la energía contemplando las condiciones específicas del despacho económico de la generación y de la compra de la energía señaladas anteriormente.
+
+II
+
+Sin embargo, la falta de convergencia entre los ingresos y los costes de las actividades con retribución regulada en el sector eléctrico generó una deuda creciente del sistema eléctrico. En el seno de la reforma del sector eléctrico que el Ministerio de Industria, Energía y Turismo está llevando a cabo para suprimir de manera definitiva los desajustes entre ingresos y costes, la Secretaría de Estado de Energía del Ministerio de Industria, Energía y Turismo encargó a la Comisión Nacional de Energía que elaborara un informe sobre medidas de ajuste regulatorio que se pudieran adoptar en los sectores energéticos. Fruto de ese encargo la citada Comisión realizó el informe sobre el sector energético español de 7 de marzo de 2012, donde se analizan, entre otras cuestiones, la evolución de la compensación por la actividad de generación en los territorios no peninsulares y se proponen una serie de medidas, que pasan por la revisión de la normativa en vigor.
+
+La primera de las medidas adoptadas fue la aprobación del Real Decreto-ley 13/2012, de 30 de marzo, por el que se transponen directivas en materia de mercados interiores de electricidad y gas y en materia de comunicaciones electrónicas, y por el que se adoptan medidas para la corrección de las desviaciones por desajustes entre los costes e ingresos de los sectores eléctrico y gasista, donde se establecen los criterios a tener en cuenta a la hora de determinar la retribución de la generación en régimen ordinario en los sistemas eléctricos de los territorios no peninsulares así como un mandato al Gobierno para revisar el modelo retributivo de costes fijos y variables de las centrales de generación en estos sistemas eléctricos teniendo en cuenta dichos criterios.
+
+En segundo lugar, y en esa misma línea el Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad, determinó que las revisiones normativas del modelo retributivo de las centrales de producción en estos sistemas que se desarrollen serían de aplicación desde el 1 de enero de 2012. A estos efectos, se adelantan algunas de estas modificaciones del modelo retributivo, incorporando las propuestas recogidas en el Informe de la Comisión Nacional de Energía sobre el sector energético español de fecha 7 de marzo de 2012, relativas a la eliminación de la retribución de los gastos de naturaleza recurrente, y a la revisión de la tasa de retribución financiera.
+
+En tercer lugar, y debido a que la configuración de los sistemas eléctricos de los territorios no peninsulares presentaba una serie de carencias que amenazaban la seguridad de suministro y dificultaban la reducción de los costes de las actividades destinadas al suministro de energía eléctrica, se aprobó la Ley 17/2013, de 29 de octubre, para la garantía del suministro e incremento de la competencia en los sistemas eléctricos insulares y extrapeninsulares.
+
+Finalmente, la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, que deroga la Ley 54/1997, de 27 de noviembre, establece los mecanismos que deberán ser desarrollados en la reglamentación singular de dichos territorios no peninsulares. Como novedades con respecto a la ley anterior, en la Ley 24/2013, de 26 de diciembre, se recoge expresamente por un lado que la reglamentación de desarrollo de la ley en estos territorios tendrá presente el fomento de energías renovables cuando sean técnicamente asumibles y supongan una reducción de costes del sistema; la aplicación de criterios técnicos y de mercado para el despacho de la energía hasta la integración de estos sistemas en el mercado peninsular cuando exista una interconexión con la península de capacidad comercial suficiente; establecerá incentivos económicos al operador del sistema para que, manteniendo la seguridad, se reduzca progresivamente el coste de generación; e incorporará señales de precios eficientes al consumidor para que pueda adaptar su consumo a la curva de carga de cada sistema.
+
+Igualmente, en lo que se refiere al régimen retributivo de la actividad de producción, la citada Ley 24/2013, de 26 de diciembre, determina que para el cálculo de la retribución de la actividad de producción en estos sistemas eléctricos con régimen retributivo adicional se considerarán los costes necesarios para realizar la actividad por una empresa eficiente y bien gestionada, mediante la aplicación de criterios homogéneos en todo el territorio español, sin perjuicio de las especificidades previstas para los territorios no peninsulares. Estos regímenes económicos permitirán la obtención de una retribución adecuada a la de una actividad de bajo riesgo.
+
+Así, los parámetros de retribución de esta actividad se fijarán teniendo en cuenta la situación cíclica de la economía, de la demanda eléctrica y la rentabilidad adecuada para estas actividades por periodos regulatorios que tendrán una vigencia de seis años.
+
+Estos parámetros retributivos podrán revisarse antes del comienzo de cada periodo regulatorio de seis años. Si no se llevara a cabo esta revisión se entenderán prorrogados para todo el periodo regulatorio siguiente. En la citada revisión podrá modificarse la tasa de retribución aplicable a dichas actividades que se fijará legalmente.
+
+El concepto retributivo adicional se basará en los siguientes principios:
+
+a) Se tendrán en consideración exclusivamente los extracostes específicos de estos sistemas eléctricos asociados a su ubicación territorial y, en su caso, a su carácter aislado.
+
+b) Para la determinación de los costes de inversión y explotación de la actividad de producción de energía eléctrica se considerará una instalación tipo, a lo largo de su vida útil regulatoria y en referencia a la actividad realizada por una empresa eficiente y bien gestionada.
+
+c) Al efecto de permitir una retribución adecuada a la de una actividad de bajo riesgo, la tasa de retribución financiera de la inversión neta reconocida estará referenciada al rendimiento de las Obligaciones del Estado a diez años en el mercado secundario incrementado con un diferencial adecuado.
+
+III
+
+El presente real decreto da cumplimiento al mandato establecido en el Real Decreto-ley 13/2012, de 30 de abril, estableciendo el régimen económico de las instalaciones de producción en estos sistemas en virtud de lo previsto en el mismo y en el Real Decreto- ley 20/2012, de 13 de julio. Igualmente contempla el desarrollo de determinados aspectos de la Ley 17/2013, de 29 de octubre, y de la Ley 24/2013, de 26 de diciembre.
+
+Este real decreto establece el régimen administrativo de las instalaciones de producción de energía eléctrica en los territorios no peninsulares, especificando las competencias administrativas y procediendo a una reordenación de los procedimientos administrativos que afectan a las instalaciones de generación. Se diferencian claramente aquellos procedimientos relativos a la asignación del régimen económico o a la gestión del despacho de producción, de competencia estatal; de aquellos otros necesarios para su puesta en funcionamiento, en la mayoría de los casos de competencia autonómica.
+
+Por otra parte, se determina el procedimiento de reconocimiento de los datos técnicos y económicos de las centrales, necesarios para el correcto desarrollo del despacho de producción. Asimismo se establece la regulación básica relativa a los procedimientos de inscripción y, en su caso, cancelación en el registro administrativo de instalaciones de producción de energía eléctrica, y se prevén determinados aspectos aplicables a los casos en que resulte competente la Administración General del Estado.
+
+En los sistemas eléctricos aislados, especialmente vulnerables, se hace necesario distinguir entre instalaciones de producción gestionables de aquellas que no lo son, razón por la que en este real decreto se regula la actividad de producción de energía eléctrica y su retribución, distinguiendo entre aquellas instalaciones gestionables de aquellas que no lo son. Así pues, las nuevas instalaciones de cogeneración de potencia neta superior a 15 MW y aquellas que utilicen como energía primaria biomasa, biogás, geotermia, residuos y energías residuales ubicadas en los territorios no peninsulares serán programadas de forma análoga al resto de instalaciones térmicas, siendo a su vez, retribuidas como estas últimas, no percibiendo el régimen retributivo específico aplicable a las instalaciones de generación a partir de fuentes de energía renovables, cogeneración y residuos.
+
+De este modo se regulan los procedimientos para la asignación eficiente de los distintos regímenes económicos, en desarrollo de lo previsto en la Ley 24/2013, de 26 de diciembre y de la Ley 17/2013, de 29 de octubre.
+
+Asimismo se procede al establecimiento de mecanismos de control y de comprobación por parte de la Administración General del Estado de la subsistencia de las condiciones determinantes para la percepción del régimen económico, sin perjuicio de las competencias del resto de órganos afectados.
+
+En esta línea, al objeto de garantizar el suministro de energía eléctrica, se establece un procedimiento que, dentro del libre ejercicio de la actividad de generación, permita la instalación de la potencia necesaria para el correcto suministro de energía, con lo niveles de calidad y de seguridad adecuados y al menor coste para el sistema eléctrico en su conjunto. Con este objetivo, se incluye la obligación al operador del sistema de realizar informes periódicos en los que se analice la cobertura de estos sistemas y se detecten posibles carencias de potencia instalada, según unos criterios que serán establecidos por el Gobierno.
+
+Además, se desarrolla un procedimiento de concurrencia competitiva para la concesión de la resolución de compatibilidad prevista en la Ley 17/2013, de 29 de octubre, que será concedida teniendo en cuenta las necesidades de potencia puestas de manifiesto por el operador del sistema, las características técnicas que sean más apropiadas para estos sistemas y la opción económicamente más ventajosa para el conjunto del sistema.
+
+Asimismo, por orden del Ministro de Industria, Energía y Turismo se podrán establecer concursos para la instalación de nueva potencia adicional que reduzca los costes de generación en dicho sistema.
+
+Este real decreto regula determinados aspectos de las instalaciones hidroeléctricas de bombeo. Estas instalaciones son elementos fundamentales para dotar a los sistemas eléctricos de capacidad de respuesta rápida y segura facilitando su adecuada gestión, asimismo mejoran la seguridad de suministro y favorecen la penetración de las energías renovables no gestionables, que por una parte tienen un menor impacto medioambiental y por otra provocan una reducción de costes en estos sistemas.
+
+El Consejo de Ministros declarará qué instalaciones de bombeo tienen como finalidad principal la garantía del suministro, la seguridad del sistema y la integración de energías renovables no gestionables en los sistemas eléctricos aislados de los territorios no peninsulares y que en virtud de la Ley 17/2013, de 29 de octubre, serán de titularidad del operador del sistema de acuerdo con el procedimiento establecido en este real decreto.
+
+Por otra parte, este real decreto contempla las características técnicas de las instalaciones y su modificación, que además de afectar a la correcta gestión del despacho de producción, influyen de modo significativo en el régimen retributivo adicional y serán previamente aprobadas, garantizándose así que subsisten las condiciones técnicas de las instalaciones a las que se les otorgó un determinado régimen económico. Los parámetros técnicos necesarios para el cálculo de la retribución por costes variables de las instalaciones con derecho a la percepción del régimen retributivo adicional, se obtendrán a partir de las pruebas de rendimiento de los grupos.
+
+Asimismo, se desarrolla la metodología para el cálculo de la retribución que percibirán las instalaciones con derecho al régimen retributivo adicional, la cual incluirá tanto los conceptos previstos en los párrafos a), b) y c) del artículo 14.5 de la Ley 24/2013, de 26 de diciembre, como el concepto retributivo adicional.
+
+Dicha retribución incluirá una retribución por coste fijo con una tasa de retribución similar al del resto de actividades de retribución regulada y una retribución por coste variable de generación que tiene en cuenta los costes de combustible, de operación y mantenimiento y los modos de funcionamiento de un grupo con un rendimiento medio, reforzando el concepto de instalación tipo de titularidad de una empresa eficiente y bien gestionada.
+
+La principal novedad introducida por este real decreto es que, partiendo de los mismos informes técnicos que motivaron la normativa anterior, se cambia el enfoque dado al régimen retributivo adicional de la actividad de generación en estos sistemas, pasando de un modelo basado en el reconocimiento de los costes incurridos para el ejercicio de la actividad, a un modelo que prime la eficiencia tecnológica y de gestión e incentive la mejora continua de las instalaciones. Así, se establecen mecanismos para incentivar el mantenimiento de las centrales, la renovación de las centrales menos eficientes, bien mediante nuevas inversiones o bien siendo desplazadas por centrales nuevas, todo ello dentro un marco que tiene como finalidad retribuir de forma homogénea las actividades con retribución regulada y en el que el concepto retributivo adicional en estos territorios establecido en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, tenga en consideración exclusivamente los extracostes específicos de estos sistemas asociados a su carácter aislado y a su no peninsularidad.
+
+Se determinan unos periodos regulatorios de seis años de duración para la revisión de la retribución por costes fijos y por costes variables, así como para la revisión de la tasa de retribución para adaptarla al ciclo económico y a las tasas de retribución de actividades con un nivel de riesgo análogo. Los nuevos estándares de inversión que se definan tendrán además en cuenta los ahorros derivados de las economías de escala. En ningún caso se tendrán en consideración los costes o inversiones que vengan determinados por normas o actos administrativos que no sean de aplicación en todo el territorio español y, del mismo modo, sólo se tendrán en cuenta aquellos costes e inversiones que respondan exclusivamente a la actividad de producción de energía eléctrica.
+
+Como ya se ha indicado, el nuevo modelo retributivo incentiva el mantenimiento y renovación de las centrales en funcionamiento, por ello se contempla expresamente que las inversiones de renovación y mejora de las centrales se reconocerán y retribuirán como el resto de inversiones.
+
+Por un lado, se modifica la determinación de la retribución por costes variables de generación, en el que se seguirán teniendo en cuenta los conceptos de costes de combustible, de operación y mantenimiento, modos de funcionamiento del grupo y costes medioambientales pero teniendo en cuenta los costes de un grupo con un rendimiento medio y de titularidad de una empresa eficiente y bien gestionada, con el fin de incentivar la correcta gestión y mantenimiento de las instalaciones.
+
+Por otro lado, se establecen unos mecanismos de control a través de los cuales se pueda comprobar que la retribución por costes fijos se destina al correcto mantenimiento de las centrales, para lo que el operador del sistema podrá dar órdenes de arranque a centrales que tengan un funcionamiento reducido para comprobar su efectiva disponibilidad. Asimismo, se condiciona la percepción del concepto por operación y mantenimiento fijos a unos valores mínimos de disponibilidad.
+
+Además, se fija la obligación de autorización de la mezcla de combustible utilizada en las centrales de tal forma que se evite el incremento de los costes de generación en estos sistemas debidos a las modificaciones en la utilización de los combustibles no justificada por razones técnicas.
+
+En efecto, los precios de los combustibles son una de las partidas más importantes de la retribución por costes variables de las centrales con repercusión en el extracoste de generación de estos sistemas con cargo a los costes de todo el sistema eléctrico. Así, se establece un mecanismo que permita el suministro de combustibles a todos los sujetos productores que quieran instalarse en los sistemas no peninsulares a un precio competitivo. Se opta por un mecanismo de subastas que se ajuste a los principios de concurrencia, transparencia, objetividad y no discriminación que será desarrollado por orden del Ministro de Industria, Energía y Turismo. Transitoriamente se establece un precio del producto a partir de la cotización de los combustibles en mercados internacionales.
+
+Con el objetivo de mejorar la eficiencia en la gestión de los sistemas eléctricos aislados y la detección de los puntos críticos en el suministro de energía con niveles de calidad y seguridad adecuados, se establecen tres fases en el despacho de producción, una en la que se cubra exclusivamente la demanda a partir de la información comunicada por los sujetos, una segunda fase en la que se tengan en cuenta los criterios de seguridad y previsiones de desvíos y una tercera fase en la que se incluyan las restricciones de la red.
+
+Adicionalmente, se reconoce un incentivo al operador del sistema para que, manteniendo los niveles de calidad, se minimice el consumo de combustibles por energía generada.
+
+Finalmente, se define el extracoste de la actividad de producción de los sistemas eléctricos de los territorios no peninsulares como la diferencia entre los costes de generación de todas las centrales en estos sistemas independientemente de su tecnología o potencia y las cantidades percibidas en el despacho procedentes de la demanda.
+
+El presente real decreto, en aplicación de la Ley 2/2015, de 30 de marzo, de desindexación de la economía española, suprime las actualizaciones existentes en el marco anterior a partir de índices generales de precios.
+
+En lo relativo al reconocimiento de los costes de combustibles y emisiones, se mantiene el criterio vigente hasta la fecha de compensación de los mismos, modificando, tan solo, los índices de referencia aplicables. En todo caso, las actualizaciones a partir de estos índices se encuentran amparadas en la Ley 2/2015, de 30 de marzo, citada.
+
+Las revisiones de los parámetros retributivos a que hace referencia el artículo 14.4 de la Ley 24/2013, de 26 de diciembre, quedarán sometidas a los límites previstos en la Ley 2/2015, de 30 de marzo, y su normativa de desarrollo.
+
+IV
+
+Por otro lado, desde la entrada en vigor del Real Decreto 413/2014, de 6 de junio, por el que se regula la actividad de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos, se ha puesto de manifiesto la necesidad de proceder a la modificación de determinados aspectos de carácter operativo, concretamente se modifica la disposición transitoria octava de dicho real decreto, en lo relativo el plazo de devolución de cantidades consecuencia de las liquidaciones que deban realizarse a las instalaciones de acuerdo a lo dispuesto en la disposición transitoria tercera 2 del Real Decreto-ley 9/2013, de 12 de julio, por el que se adoptan medidas urgentes para garantizar la estabilidad financiera del sistema eléctrico.
+
+Por otro lado, se determina que a las instalaciones de cogeneración de hasta 15 MW de potencia neta ubicadas en los territorios no peninsulares les será de aplicación el régimen retributivo específico regulado en el Real Decreto 413/2014, de 6 de junio, al considerar que por su reducido tamaño, el servicio que pueden prestar a estos sistemas es limitado, y por tanto resulta más adecuada la aplicación de dicho régimen retributivo que el régimen retributivo adicional.
+
+Finalmente, en línea con el desarrollo de la administración electrónica prevista en la Ley 11/2007, de 22 de junio, de acceso electrónico, de los ciudadanos a los Servicios Públicos y con el objetivo de agilizar y simplificar a los ciudadanos y empresas la tramitación de determinados procedimientos administrativos regulados en la normativa sectorial se procede a establecer la obligación de su tramitación electrónica.
+
+De acuerdo con lo establecido en el artículo 5.2 a) de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, lo dispuesto en el presente real decreto ha sido informado por la Comisión Nacional de los Mercados y la Competencia. El trámite de audiencia de este real decreto ha sido evacuado mediante consulta a los representantes en el Consejo Consultivo de Electricidad, de acuerdo con lo previsto en la disposición transitoria décima de la citada Ley 3/2013, de 4 de junio.
+
+El real decreto ha sido informado por las comunidades autónomas de Canarias y las Illes Balears y las ciudades de Ceuta y Melilla en cuanto que forman parte de su consejo consultivo.
+
+Aconsejado por el Consejo de Estado en su dictamen núm. 381/2015 de 7 de mayo, se ha remitido el texto del proyecto a la Comisión Europea a los efectos de apreciar su conformidad con la política comunitaria. Por ello, y ateniendo al propio dictamen se incluye una disposición adicional en el proyecto que condiciona la plena efectividad del régimen económico a la constatación de su conformidad con el ordenamiento comunitario.
+
+Este texto se informó a la Comisión Delegada del Gobierno para Asuntos Económicos en fecha 29 de julio.
+
+En su virtud, a propuesta del Ministro de Industria, Energía y Turismo, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 31 de julio de 2015,
+
+DISPONGO:
+
+## TÍTULO I — Disposiciones Generales
+
+##### Artículo 1. Objeto.
+
+1\. Este real decreto regula la actividad de producción de energía eléctrica destinada al suministro de energía eléctrica en los sistemas eléctricos de los territorios no peninsulares.
+
+2\. Igualmente, constituye el objeto de este real decreto la regulación del régimen jurídico y económico de las instalaciones de bombeo que tengan como finalidad principal la garantía del suministro, la seguridad del sistema y la integración de energías renovables no gestionables en los sistemas eléctricos aislados de los territorios no peninsulares.
+
+3\. Asimismo, constituye el objeto de este real decreto la regulación de la gestión económica y técnica de cada uno de los sistemas eléctricos de los territorios no peninsulares, de acuerdo con lo establecido en Ley 24/2013, de 26 de diciembre, del Sector Eléctrico y en la Ley 17/2013, de 29 de octubre, para la garantía del suministro e incremento de la competencia en los sistemas eléctricos insulares y extrapeninsulares.
+
+##### Artículo 2. Ámbito de aplicación.
+
+Este real decreto es de aplicación a todos los sujetos definidos en el artículo 6 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, que ejerzan sus actividades en alguno de los sistemas eléctricos de los territorios no peninsulares.
+
+A los efectos de lo establecido en este real decreto se distinguen dos tipos de instalaciones:
+
+a) Instalaciones categoría A. Dentro de esta categoría se incluyen los grupos de generación hidroeléctricos no fluyentes y térmicos que utilicen como fuentes de energía carbón, hidrocarburos, biomasa, biogás, geotermia, residuos y energías residuales procedentes de cualquier instalación, máquina o proceso industrial cuya finalidad no sea la producción de energía eléctrica, así como las instalaciones de cogeneración de potencia neta superior a 15 MW.
+
+b) Instalaciones categoría B. Dentro de este grupo se incluyen las instalaciones de generación no incluidas en el párrafo anterior que utilicen fuentes de energía renovables e instalaciones de cogeneración de potencia neta inferior o igual a 15 MW.
+
+##### Artículo 3. Definición de los sistemas eléctricos aislados de los territorios no peninsulares.
+
+1\. A los efectos de este real decreto se consideran territorios no peninsulares los de las comunidades autónomas de Canarias y las Illes Balears y los de las ciudades de Ceuta y Melilla.
+
+2\. Los sistemas eléctricos aislados de los cuatro territorios no peninsulares son los siguientes:
+
+| Canarias | Las Illes Balears | Ceuta | Melilla |
+|---|---|---|---|
+| Gran Canaria. | Mallorca-Menorca. | Ceuta. | Melilla. |
+| Tenerife. | Ibiza-Formentera. |  |  |
+| Lanzarote-Fuerteventura. |  |  |  |
+| La Palma. |  |  |  |
+| La Gomera. |  |  |  |
+| El Hierro. |  |  |  |
+
+3\. En aquellos casos en los que se produzca una unión mediante redes eléctricas de dos o más sistemas eléctricos aislados de tal manera que se permita la integración en un único sistema, por Orden del Ministro de Industria, Energía y Turismo se procederá a revisar la definición de los sistemas eléctricos aislados.
+
+> Véase el art. 3 de la Orden TEC/1172/2018, de 5 de noviembre, por el que se revisa la definición de los sistemas eléctricos aislados del territorio no peninsular de Illes Balears. [Ref. BOE-A-2018-15515](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15515)
+
+4\. Los sistemas eléctricos aislados dejarán de considerarse como tales cuando estén efectivamente integrados con el sistema peninsular, es decir, cuando la capacidad de conexión con la península sea tal, que permita su incorporación en el mercado de producción peninsular y existan los mecanismos de mercado que permitan integrar su energía, hecho que deberá establecerse por orden del Ministro de Industria, Energía y Turismo, previo informe del operador del sistema y del operador del mercado.
+
+##### Artículo 4. Planificación.
+
+A los efectos de la planificación definida en el artículo 4 de la Ley 24/2013, de 26 de diciembre, en estos sistemas eléctricos, la estimación de la potencia que deba ser instalada para cubrir la demanda en cada sistema eléctrico aislado será aquella que proporcione un valor mensual de probabilidad de déficit de cobertura de menos de un día en 10 años.
+
+Del mismo modo, y sin perjuicio de lo dispuesto en el artículo 10.2.a) de la Ley 24/2013, de 26 de diciembre, se llevará a cabo una estimación de la potencia que deba ser instalada para cubrir la demanda prevista bajo criterios de seguridad de suministro, diversificación energética, mejora de la eficiencia y protección del medio ambiente, identificando los diferentes tipos de tecnología que facilitarían el cumplimiento de los citados principios. En su caso, y en colaboración con el gestor del sistema gasista, se realizará una valoración conjunta de la penetración y utilización del gas natural. Asimismo y en todos los casos, se realizará un análisis coste-beneficio para el sistema de las opciones planteadas.
+
+## TÍTULO II — Organización y funcionamiento de los sistemas eléctricos de los territorios no peninsulares
+
+### CAPÍTULO I — Despacho de Producción
+
+##### Artículo 5. Participantes y funcionamiento del despacho de producción.
+
+1\. En cada uno de los sistemas eléctricos aislados de los territorios no peninsulares, de acuerdo con lo establecido en el artículo 10 de la Ley 24/2013, de 26 de diciembre, se establece un despacho de producción, basado en criterios técnicos y de mercado que aplicará en estos sistemas hasta su integración, en su caso, en el mercado peninsular.
+
+2\. El despacho de producción y las liquidaciones relativas al mismo serán realizadas por el operador del sistema en los términos previstos en el título VI.
+
+3\. En el despacho de producción deberán participar todas las instalaciones de producción, los comercializadores y los consumidores directos que operen en estos sistemas.
+
+Los representantes podrán actuar por cuenta de cualquier sujeto a los efectos de su participación en el despacho de producción y de los cobros y pagos de los peajes, cargos, precios y retribuciones reguladas de acuerdo con lo previsto en la Ley 24/2013, de 26 de diciembre.
+
+4\. Será condición necesaria para que las unidades de producción participen en el despacho de producción la inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica del Ministerio de Industria, Energía y Turismo, sin perjuicio de que las instalaciones de producción puedan ser programadas para la realización de las pruebas pertinentes desde la inscripción previa en dicho registro.
+
+El régimen administrativo de la actividad de producción en estos sistemas se regula en el título III.
+
+Los generadores obtendrán por su energía generada el régimen económico establecido en el capítulo II de este título.
+
+5\. Los comercializadores y consumidores directos para participar en el despacho de producción, deberán contar con la certificación del operador del sistema del cumplimiento de los requisitos técnicos para poder ser dado de alta en dicho despacho y cumplir con los procedimientos del sistema de liquidaciones y garantías de pago vigentes en estos sistemas.
+
+La comercialización de la energía eléctrica se regirá por las disposiciones generales aplicables en el sistema eléctrico peninsular con las salvedades que se establecen en este real decreto y en la normativa sectorial-
+
+6\. Los comercializadores, los consumidores directos y los generadores para su consumo de servicios auxiliares cuando el saldo neto sea comprador en una hora adquirirán la energía al precio de adquisición de la demanda regulado en el presente real decreto. El precio de adquisición de la demanda se obtendrá a partir del precio peninsular afectado por un coeficiente que tenga en cuenta la variación de los costes de generación en cada hora.
+
+### CAPÍTULO II — Régimen económico de las instalaciones de producción de energía eléctrica
+
+##### Artículo 6. Régimen retributivo adicional.
+
+Las instalaciones categoría A podrán percibir el régimen retributivo adicional en los términos previstos en el título IV y de acuerdo a los procedimientos de otorgamiento del mismo contemplados en el capítulo IV de dicho título.
+
+Sin perjuicio de las particularidades establecidas en el presente real decreto, los grupos a los que se haya otorgado el régimen retributivo adicional percibirán una retribución por costes fijos y una retribución por costes variables de generación.
+
+Para la determinación del régimen retributivo adicional aplicable en cada caso, a cada grupo le será asignada una instalación tipo en función de sus características técnicas. Las instalaciones tipo son las establecidas en este real decreto u otra que pudieran establecerse por orden del Ministro de Industria, Energía y Turismo.
+
+A cada instalación tipo le corresponderá un conjunto de parámetros retributivos que se calcularán por referencia a la actividad realizada por una empresa eficiente y bien gestionada, que concreten el régimen retributivo adicional y permitan la aplicación del mismo a cada uno de los grupos generadores asociados a dicha instalación tipo.
+
+El conjunto de parámetros técnicos y económicos de cada instalación tipo se determinará atendiendo a periodos regulatorios de seis años de duración y se utilizarán durante todo el periodo regulatorio.
+
+##### Artículo 7. Régimen económico de las instalaciones categoría B con derecho a percibir el régimen retributivo específico.
+
+1\. Las instalaciones categoría B definidas en el artículo 2 que, de acuerdo con lo previsto en el Real Decreto 413/2014, de 6 de junio, por el que se regula la actividad de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos, tengan reconocido un régimen retributivo específico, percibirán los siguientes conceptos:
+
+a) El producto del precio horario de venta de la energía en el despacho del sistema aislado j, Ph<sub>venta</sub>(j), definido en el anexo I, multiplicado por la energía vendida en la hora h por el grupo generador, medida en barras de central.
+
+b) El régimen retributivo específico establecido en el título IV del Real Decreto 413/2014, de 6 de junio.
+
+c) En su caso, las contraprestaciones económicas que se establezcan por su participación en los servicios de ajuste.
+
+2\. Los derechos de cobro de las instalaciones de producción obtenidos según lo indicado en este artículo se verán afectados por los costes de desvíos en los que incurran dichas instalaciones, así como por aquellos que pudieran establecerse, en los términos que se determinen por orden del Ministro de Industria, Energía y Turismo.
+
+##### Artículo 8. Régimen económico de las instalaciones sin derecho a la percepción de régimen retributivo adicional o específico.
+
+1\. Las instalaciones de generación ubicadas en los sistemas eléctricos aislados de los territorios no peninsulares a las que no se les haya reconocido el régimen retributivo adicional o el régimen retributivo específico, obtendrán por su energía generada medida en barras de central el precio horario de venta de la energía en el despacho del sistema aislado j, Ph<sub>venta</sub>(j), definido en el anexo I.
+
+Asimismo percibirán dicho precio aquellas instalaciones que no tengan derecho a la percepción del régimen retributivo adicional o específico por haber superado su vida útil regulatoria o por haberle sido revocado dicho derecho.
+
+2\. Los derechos de cobro de las instalaciones de producción obtenidos según lo indicado en este artículo se verán afectados por las contraprestaciones que se establezcan por su participación en los servicios de ajuste, los costes de desvíos en los que incurran dichas instalaciones, y así como por aquellos que pudieran establecerse, en los términos que se determinen por orden del Ministro de Industria, Energía y Turismo.
+
+3\. Cuando un grupo llegue al final de su vida útil regulatoria y no le fuera concedido nuevamente el régimen retributivo adicional en los términos establecidos en los artículos 53 o 54, o cuando una instalación haya superado el periodo con derecho a régimen retributivo específico en los términos recogidos en el Real Decreto 413/2014, de 6 de junio, y el titular de la instalación no tuviera interés en operar la instalación percibiendo el régimen económico regulado en este artículo, este deberá comunicarlo a la Dirección General de Política Energética y Minas y al operador del sistema con un mes de antelación a la fecha de finalización de su régimen retributivo adicional o específico y declararse indisponible a efectos de participación en el despacho de producción desde la fecha de finalización de su régimen retributivo adicional o específico.
+
+Todo ello sin perjuicio de la solicitud de cancelación de la inscripción en el registro administrativo de instalaciones de producción de energía eléctrica, que deberá presentarse una vez producido el cese de actividad y se tramitará de acuerdo con lo previsto en el artículo 17, y demás autorizaciones que pudieran resultar preceptivas.
+
+## TÍTULO III — Régimen administrativo de la actividad de producción de energía eléctrica en los territorios no peninsulares
+
+##### Artículo 9. Competencias administrativas.
+
+Corresponden a la Administración General del Estado, en los términos establecidos en la Ley 24/2013, de 26 de diciembre, las siguientes competencias:
+
+a) La autorización administrativa para la puesta en funcionamiento de nuevas instalaciones de producción y modificación de las existentes, así como para la transmisión, cierre temporal y cierre definitivo de las mismas, en los siguientes casos:
+
+1.º) Instalaciones ubicadas en el mar territorial.
+
+2.º) Instalaciones de potencia eléctrica instalada superior a 50 MW eléctricos ubicadas en territorios cuyos sistemas eléctricos se encuentren efectivamente integrados con el sistema peninsular.
+
+b) La inscripción en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo y la modificación o cancelación de dichas inscripciones, de las instalaciones categoría A y de las instalaciones categoría B cuya competencia para otorgar la autorización administrativa corresponda a la Dirección General de Política Energética y Minas.
+
+c) La toma de razón en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo de las inscripciones de las instalaciones categoría B no incluidas en el párrafo anterior, así como de sus modificaciones o cancelaciones.
+
+d) El otorgamiento del régimen retributivo adicional regulado en el título IV, así como la verificación del cumplimiento por parte de los titulares de las instalaciones de las condiciones exigibles para tener derecho a su percepción y, en su caso, la revocación de dicho derecho.
+
+e) Regular la organización y funcionamiento del despacho de producción de energía eléctrica, los términos en que se ha de desarrollar la gestión económica y técnica de los sistemas eléctricos aislados de los territorios no peninsulares y el sistema de liquidaciones y garantías de pago en estos sistemas.
+
+##### Artículo 10. Requisitos generales de autorización, inscripción y despacho.
+
+Las instalaciones de producción incluidas en el ámbito de aplicación de este real decreto, con independencia del régimen económico que les sea aplicable, deberán cumplir con lo establecido a continuación:
+
+a) Obtener las autorizaciones administrativas para la puesta en funcionamiento, modificación, transmisión, cierre temporal y cierre definitivo que les sean de aplicación, cuyos procedimientos serán establecidos por la administración competente.
+
+b) Una vez obtenida la autorización de explotación, deberán inscribirse en el registro administrativo de instalaciones de producción de energía eléctrica en los términos definidos en este título.
+
+c) Los titulares de las instalaciones deberán solicitar el reconocimiento de sus datos técnicos y, en su caso, económicos, que serán los utilizados en el despacho de producción, de acuerdo con lo previsto en los artículos 11,12 y 13.
+
+##### Artículo 11. Reconocimiento de los datos técnicos de las instalaciones de producción.
+
+1\. Los datos técnicos de las instalaciones de producción indicados en este artículo serán aprobados por resolución de la Dirección General de Política Energética y Minas, con carácter previo o simultáneo a la inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo, y de acuerdo con el procedimiento previsto en el anexo II.1.
+
+2\. Los datos técnicos de las instalaciones categoría A que precisan de aprobación son los siguientes:
+
+a) Potencia bruta y neta.
+
+b) Mínimo técnico ordinario y extraordinario. Se entenderá por mínimo técnico ordinario y extraordinario el definido por orden del Ministro de Industria, Energía y Turismo.
+
+c) Rampas de subida y bajada de potencia.
+
+d) Tiempos de arranque.
+
+e) En su caso, datos técnicos de despacho definidos en los artículos 62 y 63: A (i), B (i), C (i), A’(i) y B’(i).
+
+Los datos técnicos de las centrales de cogeneración tendrán en cuenta su funcionamiento condicionado al proceso de calor asociado.
+
+3\. Los datos técnicos de las instalaciones de producción categoría B que precisan de aprobación serán la potencia bruta, neta y mínima.
+
+Para estas instalaciones de producción, para las que no se hayan definido las pruebas de potencia neta, bruta y mínima en la normativa específica, se tomará como valor de la potencia neta la potencia instalada definida en el artículo 3 del Real Decreto 413/2014, de 6 de junio, o en su caso, en la disposición transitoria primera.5 de dicho real decreto, y no será necesaria la aprobación de la potencia bruta y mínima.
+
+4\. Por resolución de la Dirección General de Política Energética y Minas se aprobará el procedimiento para la realización de la prueba de mínimo técnico ordinario y extraordinario de las instalaciones categoría A en los territorios no peninsulares. La citada resolución será publicada en el «Boletín Oficial del Estado».
+
+##### Artículo 12. Reconocimiento de los datos económicos y mezclas de combustible.
+
+1\. Los datos económicos de despacho y las mezclas de combustibles definidos en el anexo II.2 de las instalaciones de producción categoría A serán aprobados por resolución de la Dirección General de Política Energética y Minas, con carácter previo o simultáneo a la inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo.
+
+2\. A estos efectos, con carácter previo o simultáneo a la presentación de la solicitud de inscripción definitiva en el registro, los titulares de las instalaciones categoría A deberán solicitar a la Dirección General de Política Energética y Minas el reconocimiento de los datos económicos de despacho en los términos definidos en el anexo II.2, presentando una propuesta de los valores que deben tomar dichos datos basándose en las características de la instalación.
+
+##### Artículo 13. Modificación y revisión de los datos técnicos y económicos.
+
+1\. La modificación de los datos técnicos y económicos definidos en los artículos 11 y 12 deberá previamente ser autorizada por la Dirección General de Política Energética y Minas. La resolución de modificación se comunicará al interesado, a la Comunidad Autónoma afectada y al operador del sistema e implicará su modificación en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo.
+
+La modificación de los datos técnicos requerirá la realización de las pruebas correspondientes. A estos efectos, los titulares deberán comunicar a la Dirección General de Política Energética y Minas los resultados de las citadas pruebas.
+
+2\. Los datos técnicos y económicos de despacho (A (i), B (i), C (i), A’(i) y B’(i), D(i) y O&M<sub>VDi) </sub>serán revisados de acuerdo a lo establecido en el anexo III.1.
+
+##### Artículo 14. Registro administrativo de instalaciones de producción de energía eléctrica.
+
+1\. En los territorios no peninsulares, se inscribirán de manera independiente en el registro administrativo de instalaciones de producción de energía eléctrica cada uno de los grupos generadores que conformen una central de producción.
+
+2\. En lo no contemplado en este real decreto serán de aplicación los capítulos I y II del Título VIII del Real Decreto 1955/2000 de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, y el capítulo II del título V del Real Decreto 413/2014, de 6 de junio.
+
+##### Artículo 15. Inscripción previa en el registro administrativo de instalaciones de producción de energía eléctrica en los territorios no peninsulares.
+
+1\. Todas las instalaciones de producción de energía eléctrica, una vez que hayan obtenido la autorización de explotación, deberán solicitar su inscripción, con carácter previo, en el registro administrativo de instalaciones de producción de energía eléctrica.
+
+2\. La inscripción previa en el registro será condición necesaria para poder realizar las pruebas de potencia bruta, neta, de mínimo técnico y de rendimiento de la central.
+
+3\. La formalización de la inscripción previa en el registro incluirá una anotación al margen que indique su pertenencia a un territorio no peninsular y deberá ser notificada al interesado y comunicada al operador del sistema y, en su caso, al órgano competente para autorizar la instalación.
+
+##### Artículo 16. Inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica.
+
+1\. Para la inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica, los titulares de instalaciones que deseen operar en el despacho de producción de los territorios no peninsulares deberán presentar, adicionalmente de lo previsto en la normativa citada en el artículo 14.2, una certificación emitida por el operador del sistema de cumplimiento de los requisitos técnicos para poder ser dado de alta en el despacho y de cumplimiento con los procedimientos de liquidaciones y garantías de pago que rigen en estos sistemas. A estos efectos no se requerirá que su titular adquiera la condición de sujeto del mercado.
+
+2\. Será requisito imprescindible para la inscripción definitiva en el registro administrativo de instalaciones de producción correspondiente, con independencia del órgano que resulte competente, que, con carácter previo a la misma, se hayan aprobado los datos técnicos y, en su caso, económicos de conformidad con lo dispuesto en este real decreto.
+
+La resolución de inscripción definitiva ordenará la anotación en el registro administrativo de instalaciones de producción de energía eléctrica de los datos técnicos y, en su caso, económicos de despacho y las mezclas de combustibles aprobadas que correspondan e incluirá una anotación al margen que indique su pertenencia a un territorio no peninsular.
+
+3\. La inscripción definitiva en el registro deberá ser notificada al interesado y comunicada al operador del sistema y, en su caso, al órgano competente para autorizar la instalación.
+
+##### Artículo 17. Cancelación de la inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica.
+
+1\. La cancelación de la inscripción definitiva podrá producirse a instancia del interesado o de oficio. En este último caso, será precisa la instrucción de un procedimiento con audiencia al interesado.
+
+2\. En los casos en que resulte competente la Dirección General de Política Energética y Minas, el plazo máximo para resolver este procedimiento y notificar su resolución será de seis meses. Durante la instrucción del procedimiento se solicitará informe al operador del sistema y a la comunidad autónoma o ciudad autónoma afectada.
+
+Asimismo, se dará traslado de la cancelación de la inscripción en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo a la comunidad autónoma o ciudad autónoma correspondiente a los efectos oportunos.
+
+3\. Serán causas de cancelación de la inscripción definitiva el cese de la actividad como instalación de producción y la revocación por el órgano competente de la autorización de la instalación, de acuerdo con la normativa aplicable. A estos efectos, el titular de la instalación deberá solicitar la cancelación en el registro en el plazo de un mes desde que se produzca el hecho que la motive.
+
+Asimismo, será causa de cancelación de la inscripción definitiva la falta de comunicación de haber solucionado las causas que motivaron el incumplimiento de una orden de arranque en los términos previstos en el artículo 30.4.
+
+4\. No se podrá producir la cancelación de la inscripción en el registro administrativo de instalaciones de producción de energía eléctrica de aquellas instalaciones que se consideren imprescindibles para garantizar el suministro en un sistema eléctrico aislado, hecho que deberá haber sido indicado por el operador del sistema en el informe establecido en el apartado 2.
+
+## TÍTULO IV — Régimen retributivo adicional para las instalaciones categoría A
+
+### CAPÍTULO I — Definición del régimen retributivo adicional
+
+##### Artículo 18. Definición del régimen retributivo adicional.
+
+1\. El régimen retributivo adicional regulado en este título constituye la retribución por inversión y por explotación de la actividad de producción de energía eléctrica desarrollada en los sistemas eléctricos de los territorios no peninsulares y será de aplicación a todas las instalaciones categoría A que tengan reconocido dicho régimen.
+
+2\. El régimen retributivo adicional de cada grupo generador aplicable a las instalaciones categoría A estará compuesto por la suma de la retribución por costes fijos y la retribución por costes variables de generación definidas en los artículo 22 y 31, respectivamente, sin perjuicio de las limitaciones establecidas en el artículo 52.3 y de lo previsto en los siguientes apartados.
+
+3\. El régimen retributivo adicional de los grupos que hubieran sido adjudicatarios de un concurso de nueva capacidad de acuerdo con lo previsto en los artículos 55 y 56, será el que resulte de dicho concurso.
+
+4\. Se podrá otorgar un régimen retributivo adicional por las nuevas inversiones realizadas en un grupo inscrito en el registro administrativo de instalaciones de producción de energía eléctrica, vaya o no a finalizar su vida útil regulatoria. Este régimen retributivo será el definido en el artículo 19.
+
+5\. Asimismo, se podrá otorgar nuevamente un régimen retributivo adicional a los grupos que vayan a finalizar su vida útil regulatoria, aunque no realicen nuevas inversiones de acuerdo con lo previsto en el artículo 54. Este régimen retributivo será el definido en el artículo 20.
+
+6\. Cuando un sistema eléctrico pierda su carácter de aislado, el régimen retributivo adicional o específico que haya sido otorgado con posterioridad a la entrada en vigor de este real decreto a las instalaciones ubicadas en dicho sistema, pasará a ser el mismo que el establecido para las centrales ubicadas en el territorio peninsular. Las resoluciones de reconocimiento del régimen retributivo adicional que se dicten desde la entrada en vigor de este real decreto deberán recoger esta salvedad.
+
+7\. El operador del sistema calculará los valores de la retribución que corresponda percibir a cada instalación de acuerdo con lo dispuesto en este título.
+
+##### Artículo 19. Régimen retributivo adicional por las nuevas inversiones.
+
+1\. A los efectos de este real decreto, tendrán la consideración de nuevas inversiones, las inversiones por renovación, modificación o mejora del rendimiento de un grupo inscrito en el registro administrativo de instalaciones de producción de energía eléctrica, vaya o no a finalizar su vida útil regulatoria. En ningún caso tendrán la consideración de nuevas inversiones aquellas asociadas a modificaciones que no precisen de la autorización administrativa previa establecida en el artículo 53 de la Ley 24/2013, de 26 de diciembre, ni aquellas cuya cuantía sea inferior al 5 por ciento del valor de la inversión reconocida al grupo sobre el que se realiza la nueva inversión.
+
+Asimismo, tendrán la consideración de nuevas inversiones las inversiones en sistemas automáticos de control de generación necesarios para ofrecer el servicio de banda de regulación.
+
+El procedimiento de otorgamiento del régimen retributivo adicional por las nuevas inversiones será el establecido en el artículo 53.
+
+2\. El régimen retributivo adicional por las nuevas inversiones que culminen con la inscripción de un nuevo grupo en el registro administrativo de instalaciones de producción de energía eléctrica será el establecido en el presente título, como si de un grupo nuevo se tratara.
+
+3\. A los grupos que tengan reconocido con carácter previo un régimen retributivo adicional y que realicen nuevas inversiones cuya vida útil regulatoria sea inferior a la anterior, se les podrá reconocer la retribución de acuerdo con lo establecido a continuación:
+
+a) La retribución por costes variables de generación será la que resulte de aplicar el capítulo III de este título de acuerdo a la instalación tipo que le corresponda teniendo en cuenta la nueva inversión durante la vida útil regulatoria que tuvieran reconocida previamente.
+
+b) La anualidad de la retribución por inversión se verá incrementada por la anualidad de la retribución de la nueva inversión durante la vida útil regulatoria de dicha nueva inversión. Asimismo, la retribución por costes fijos será la que resulte de aplicar el capítulo II con las particularidades establecidas en el anexo IV.5 durante la vida útil regulatoria que tuvieran reconocida previamente.
+
+4\. Los grupos a los que se les reconozca el régimen retributivo adicional por nuevas inversiones cuya vida útil regulatoria supere la anterior, percibirán la retribución por costes variables de generación y la retribución por costes fijos establecida en el apartado anterior durante la vida útil regulatoria de la nueva inversión.
+
+5\. En aquellos casos en que los datos técnicos y económicos de despacho se vean modificados por la realización de una nueva inversión, éstos deberán ser autorizados de acuerdo con lo previsto en el presente real decreto.
+
+##### Artículo 20. Retribución de los grupos que les sea otorgado un régimen retributivo adicional tras la finalización de su vida útil regulatoria.
+
+Para los grupos de generación cuya vida útil regulatoria haya finalizado y se les haya otorgado nuevamente el régimen retributivo adicional sin realizar nuevas inversiones se estará a lo dispuesto a continuación:
+
+1.º La vida útil regulatoria durante la cual el grupo tendrá derecho a percibir el régimen retributivo adicional será de 5 años.
+
+2.º La anualidad de la retribución fija definida en el artículo 24 se compondrá exclusivamente del término de la retribución por costes fijos de operación y mantenimiento.
+
+3.º La retribución por costes variables de generación será la que resulte de aplicar el capítulo III de este título.
+
+El procedimiento de otorgamiento de un nuevo régimen retributivo adicional a los grupos que vayan a finalizar su vida útil regulatoria será el establecido en el artículo 54.
+
+##### Artículo 21. Establecimiento de parámetros técnicos y económicos para el cálculo del régimen retributivo adicional en cada periodo regulatorio.
+
+1\. Los periodos regulatorios serán consecutivos y tendrán una duración de seis años.
+
+Antes del 15 de julio del año anterior al del inicio de cada periodo regulatorio, por orden del Ministro de Industria, Energía y Turismo, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, se establecerá el conjunto de parámetros técnicos y económicos de cada una de las instalaciones tipo que se utilizarán para el cálculo de la retribución de la actividad de producción de energía eléctrica desarrollada en los sistemas eléctricos de los territorios no peninsulares con régimen retributivo adicional durante todo el periodo regulatorio siguiente.
+
+A estos efectos, la Comisión Nacional de los Mercados y la Competencia, remitirá un informe al Ministerio de Industria, Energía y Turismo antes del 15 de febrero del último año de cada periodo regulatorio. Dicho informe incluirá una propuesta del conjunto de parámetros de cada instalación tipo.
+
+2\. Las empresas titulares de los grupos deberán presentar al Ministerio de Industria, Energía y Turismo y a la Comisión Nacional de los Mercados y la Competencia antes del 30 de abril de cada año los valores auditados de los costes incurridos en el año anterior de acuerdo con los criterios para la realización de auditorías de los grupos de generación en estos sistemas que hayan sido aprobados por resolución de la Dirección General de Política Energética y Minas. La Dirección General de Política Energética y Minas y la Comisión Nacional de los Mercados y de la Competencia podrán solicitar a los titulares de los grupos la información económica que pudiera ser necesaria para la revisión de los parámetros de las instalaciones tipo.
+
+Para la revisión de los valores de los parámetros técnicos y económicos de liquidación utilizados para el cálculo de los componentes de la retribución por costes variables de generación se tendrá en cuenta lo indicado en los artículos 38 y 39.
+
+3\. Durante el periodo regulatorio no podrán ser revisados los parámetros técnicos y económicos que se relacionan a continuación. En todo caso, para que surtan efecto en el referido periodo regulatorio, conforme a lo dispuesto en el artículo 14.4 de la Ley 24/2013, de 26 de diciembre, la revisión se llevará a cabo antes del inicio del mismo.
+
+Los parámetros técnicos y económicos que podrán ser revisados antes del inicio de cada periodo regulatorio son los siguientes:
+
+a) Los valores unitarios de referencia y el coeficiente de corrección para el cálculo del valor estándar de la inversión definidos en el capítulo II de este título, aplicables a aquellos grupos para los que no se haya dictado resolución de reconocimiento del régimen retributivo adicional.
+
+b) Los valores unitarios de la anualidad de operación y mantenimiento fijo y los factores de corrección definidos en el capítulo II de este título.
+
+c) Los valores de los parámetros técnicos de liquidación (a(i), b(i), c(i), a’(i) y b’(i)) y económicos de liquidación (O&MVLI y d) utilizados para el cálculo de los componentes de la retribución por costes variables de generación establecidos en el artículo 31.
+
+4\. La tasa de retribución financiera anual se revisará de acuerdo con lo establecido en el artículo 28 antes del inicio de cada periodo regulatorio.
+
+### CAPÍTULO II — Determinación de la Retribución por costes fijos
+
+##### Artículo 22. Retribución por costes fijos.
+
+La retribución por costes fijos de cada grupo de generación i se calculará para cada periodo anual n como el mínimo del término de anualidad de la retribución fija y la suma en cada hora de la retribución por coste horario fijo en esa hora afectada por la disponibilidad en esa hora del grupo, conforme a la expresión siguiente.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_001.png)
+
+Siendo:
+
+RCF<sub>n</sub> (i): Retribución por costes fijos para el grupo i en el año n, expresada en euros.
+
+CF<sub>n</sub> (i): Anualidad de la retribución fija del grupo i, en el año n expresada en euros.
+
+Pdisponible (i,h): Potencia disponible del grupo i en la hora h, expresada en MW.
+
+CF<sub>n</sub> (i, h): Retribución por coste horario fijo del grupo i en la hora h del año n, expresada en €/MW.
+
+Xi= Nº de horas total del año, que tomará el valor de 8760 en año normal y 8784 en año bisiesto, excepto para el último año de vida útil regulatoria del grupo i
+
+Para el último año de retribución por costes fijos del grupo i, Xi será el número total de horas comprendidas desde el día uno de enero de ese año hasta el día en el que finaliza la vida útil regulatoria de dicho grupo i.
+
+Yi=1, excepto para el primer año de retribución por costes fijos del grupo i, que será el número total de horas comprendidas desde el día uno de enero de ese año hasta el día en el que se inicia la vida útil regulatoria de dicho grupo i.
+
+##### Artículo 23. Componentes de la retribución por costes fijos.
+
+1\. La potencia disponible de cada grupo en cada hora expresada en MW (Pdisponible (i,h)) vendrá determinada por la diferencia entre la potencia neta del grupo i expresada en MW y la potencia indisponible del grupo i en dicha hora, expresada en MW. La potencia neta del grupo será la que conste en el registro administrativo de instalaciones de producción de energía eléctrica del Ministerio de Industria, Energía y Turismo. El valor de la potencia indisponible de cada grupo i en cada hora será establecida por el operador del sistema de acuerdo con lo previsto en la normativa de aplicación.
+
+2\. El valor de la retribución por coste horario fijo para cada grupo en una hora concreta de un año determinado se calculará de la siguiente forma:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_002.png)
+
+Donde:
+
+CF<sub>n</sub> (i,h): retribución por coste horario fijo del grupo i en la hora h del año n, expresado en €/MW
+
+PN(i): potencia neta del grupo i en MW obtenida del registro administrativo de instalaciones de producción de energía eléctrica del Ministerio de Industria, Energía y Turismo.
+
+CF<sub>n</sub> (i): Anualidad de la retribución fija del grupo i, en el año n expresada en euros.
+
+f est<sub>h</sub>: Factor de estacionalidad horario para cada uno de los territorios no peninsulares y para cada periodo horario, punta, llano y valle, que tomará el valor establecido en el anexo V.
+
+El operador del sistema controlará, mediante la aprobación de los planes de indisponibilidad programada, que no se produzca un exceso de revisiones programadas en un determinado período estacional.
+
+Hi: Horas anuales de funcionamiento estándar del grupo i, teniendo en cuenta las horas anuales estándar de fallo y mantenimiento del grupo. Las horas anuales de funcionamiento estándar de cada grupo, en función de la tecnología y tamaño, serán los indicados en el anexo V.
+
+La Dirección General de Política Energética y Minas, a propuesta del operador del sistema, podrá revisar los periodos de punta, valle y llano, los valores del factor de estacionalidad f est para cada uno de los bloques definidos en función de la evolución de las curvas de carga de cada sistema y de sus niveles de reserva de capacidad; así como las horas anuales de funcionamiento estándar de cada grupo, estableciendo diferentes valores en función de la tecnología, combustible y tamaño. Esta resolución será publicada en el «Boletín Oficial del Estado».
+
+##### Artículo 24. Anualidad de la retribución fija.
+
+1\. La anualidad de la retribución fija de cada grupo se calculará como suma de un término de retribución por inversión y de un término de retribución por costes fijos de operación y mantenimiento, conforme a la expresión siguiente:
+
+CF<sub>n</sub> (i) = CI<sub>n</sub> (i) + OMF<sub>n</sub> (i)
+
+Donde:
+
+CI<sub>n</sub> (i): es la anualidad de la retribución por inversión de un grupo i, en el año n, expresada en euros.
+
+OMF<sub>n</sub>(i): es la anualidad de la retribución por operación y mantenimiento fijo, en el año n, del grupo i, expresada en euros, que se calculará de acuerdo con lo previsto en el artículo 29.
+
+2\. La anualidad de la retribución por inversión se compone de la retribución por amortización y la retribución financiera, y se calculará de acuerdo con la siguiente formula:
+
+CI<sub>n</sub> (i) = Ai<sub>n</sub> + Ri<sub>n</sub>
+
+Donde:
+
+Ai<sub>n</sub>: Retribución por amortización de la inversión del grupo i en el año n, expresada en euros, que se calculará de acuerdo con lo previsto en el artículo 25.
+
+Ri<sub>n</sub>: Retribución financiera en el año n de la inversión del grupo i, expresada en euros, que se calculará de acuerdo con lo previsto en el artículo 27.
+
+3\. Por resolución del Director General de Política Energética y Minas se aprobará anualmente el valor de la anualidad de la retribución por inversión (CIn) correspondiente a cada una de las instalaciones categoría A que tengan reconocido el régimen retributivo adicional para ese año. Esta resolución será publicada en el «Boletín Oficial del Estado».
+
+##### Artículo 25. Retribución por amortización de la inversión.
+
+1\. La retribución por amortización de la inversión de cada grupo i en un año n, Ain, expresada en euros, se obtendrá a partir del valor de la inversión reconocida y de su vida útil, de acuerdo con la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_003.png)
+
+Donde:
+
+a) αin, es el coeficiente que refleja el número de meses en el año n en los cuales el grupo i devenga retribución por amortización, que, vendrá determinado por la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_004.png)
+
+Siendo αim:
+
+En el primer año: el conjunto de meses completos comprendidos entre el día en el que se inicia la vida útil regulatoria del grupo i y el 1 de enero del año siguiente al de la inscripción definitiva en el registro de instalaciones de producción de energía eléctrica.
+
+En el último año de vida útil regulatoria del grupo su valor será igual al número de meses completos de ese año que restan hasta la finalización de la vida útil regulatoria dicho grupo.
+
+En el resto de años αim es igual a 12.
+
+b) Vli: valor de la inversión reconocida al grupo i, expresada en euros, definida en el artículo 26.
+
+c) VUi: vida útil regulatoria del grupo i, expresada en años, que comenzará a computar desde el día uno del mes siguiente a la fecha de inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica.
+
+Se considerará una vida útil regulatoria de 25 años para las instalaciones térmicas y equipos de instalaciones hidroeléctricas y de 65 años para la obra civil de instalaciones hidroeléctricas.
+
+##### Artículo 26. Cálculo del valor de la inversión reconocida.
+
+1\. El valor de la inversión reconocida al grupo i, *Vli* expresada en euros será aprobado en la resolución de reconocimiento del régimen retributivo adicional de acuerdo con lo previsto en el artículo 57 y se calculará mediante su comparación con el valor estándar de la inversión, sin perjuicio de lo establecido en la disposición adicional segunda para el primer periodo regulatorio, de acuerdo con la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_005.png)
+
+Donde:
+
+a) *VI**<sub>i, auditada</sub>*: valor auditado de inversión del grupo i. No obstante lo anterior, se establece un tope al valor máximo de *VI**<sub>i, auditada</sub>*que será el 125 por ciento del valor estándar de la inversión.
+
+b) *VI**<sub>i, estándar</sub>*: valor estándar de la inversión del grupo i en el año de su puesta en servicio calculado multiplicando los valores unitarios de referencia en función de su tecnología y potencia, por la potencia neta del grupo que conste en el registro administrativo de instalaciones de producción de energía eléctrica.
+
+c) AYi: valor de las ayudas públicas percibidas por el grupo i. En el caso de que estas ayudas públicas provengan de organismos de la Unión Europea, este valor será el 90 por ciento del importe percibido.
+
+2\. En los supuestos en los que el valor auditado sea superior al estándar, de tal manera que
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_006.png)
+
+se deberá aportar una auditoría técnica que justifique que los costes incurridos son superiores a los valores unitarios de referencia por sus especiales características..
+
+Asimismo, en los casos en los que el valor de la inversión auditado sea inferior al valor de la inversión estándar, la expresión (*VI**<sub>i, estándar</sub>**– VI**<sub>i, auditada</sub>**)*podrá tomar como valor máximo el 25 por ciento de *VI**<sub>i, auditada</sub>*.
+
+Los valores unitarios de referencia, expresados en €/MW serán aprobados por el Ministro de Industria, Energía y Turismo, de acuerdo a lo establecido en el artículo 21 y deberán representar el valor medio de inversión en cada sistema eléctrico aislado de los territorios no peninsulares, desglosado en función de la tecnología y la potencia del grupo. Los valores unitarios de referencia estarán afectados por un coeficiente de corrección en aquellos supuestos en los que se instalen nuevos grupos de generación aprovechando infraestructuras existentes.
+
+Para la determinación de los valores unitarios de referencia y para la obtención del valor auditado de inversión no se tendrán en cuenta aquellos impuestos indirectos que sean deducibles o recuperables conforme a la normativa fiscal vigente y aquellos tributos a los que se hace referencia en el artículo 16.4 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+
+Asimismo, para la obtención del valor auditado de inversión, se descontarán las instalaciones financiadas y cedidas por terceros, así como los conceptos que no sean susceptibles de ser amortizados.
+
+##### Artículo 27. Retribución financiera de la inversión.
+
+1\. La retribución financiera de la inversión de cada grupo i, Rin, expresada en euros, se calculará cada año n a partir del valor neto de la inversión y la tasa de retribución financiera, de acuerdo con lo siguiente:
+
+a) Para todos los años de la vida útil del grupo con excepción del primer y último año:
+
+R<sub>in</sub> = VNI<sub>in</sub> • Trn
+
+b) Para el primer y último año de la vida útil del grupo:
+
+R<sub>in</sub> = VNI<sub>in</sub> • [(1 + Trm)<sup>mes</sup> – 1]
+
+Siendo:
+
+1.º VNIin: valor neto de la inversión del grupo i en el año n, expresada en euros, calculado de acuerdo con lo establecido en el apartado 2.
+
+2.º Trn: tasa de retribución financiera del año n a aplicar al grupo durante el periodo regulatorio calculada de acuerdo a lo dispuesto en el apartado 3.
+
+3.º Trm: tasa de retribución financiera mensual equivalente a la tasa de retribución financiera anual, que se calculará mediante la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_007.png)
+
+4.º mes:
+
+En el año 1 su valor será igual al número de meses completos comprendidos desde el inicio de la vida útil regulatoria del grupo i y el 1 de enero del año siguiente al de la inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica.
+
+En el último año de vida útil regulatoria de la central su valor será igual al número de meses completos de ese año que restan hasta la finalización de la vida útil regulatoria de la central.
+
+2\. El valor neto de la inversión del grupo i en el año n (VNIi<sub>n</sub>) se calculará de acuerdo a la siguiente fórmula:
+
+VNIi<sub>n</sub>= VIi - Aai<sub>n-1</sub>
+
+Donde:
+
+VIi: valor de la inversión reconocida del grupo i, expresada en euros, aprobado en la resolución de reconocimiento del régimen retributivo adicional.
+
+Aai<sub>n-1</sub>: amortización acumulada hasta el año n-1 del grupo i, expresada en euros, calculada de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_008.png)
+
+Siendo Aix: retribución por amortización de la inversión del grupo i en el año x, expresada en euros.
+
+3\. La tasa de retribución financiera anual, Trn, se corresponderá con el rendimiento medio de las cotizaciones mensuales en el mercado secundario de las obligaciones del Estado a diez años de los 24 meses previos al mes de mayo del año anterior al del inicio del periodo regulatorio, incrementada en un diferencial que se calculará de acuerdo con lo previsto en el siguiente artículo y estará vigente durante todo el periodo regulatorio.
+
+##### Artículo 28. Revisión de la tasa de retribución financiera.
+
+1\. La tasa de retribución financiera podrá modificarse antes del inicio de cada periodo regulatorio de acuerdo con lo dispuesto en el artículo 14.4 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico y según el procedimiento establecido en este artículo.
+
+Para el cálculo del diferencial, antes del 1 de enero del último año del período regulatorio correspondiente, el Ministro de Industria, Energía y Turismo, elevará al Consejo de Ministros un anteproyecto de ley en el que se recogerá una propuesta del valor que tomará el diferencial en el periodo regulatorio siguiente.
+
+Para fijar este valor, el Ministerio de Industria, Energía y Turismo podrá recabar informe de la Comisión Nacional de los Mercados y la Competencia que deberá emitirse antes del 1 de julio del penúltimo año del periodo regulatorio correspondiente, así como contratar los servicios de una entidad especializada.
+
+Asimismo, y antes del 1 de marzo del penúltimo año del periodo regulatorio correspondiente, los interesados podrán remitir al Ministerio de Industria, Energía y Turismo de forma detallada y motivada una propuesta que deberá incluir una cuantificación numérica del resultado de la misma con los datos conocidos en ese momento, indicando qué información es estimada o supuesta y cuál se deriva de datos reales auditados de la empresa proponente o del sector.
+
+2\. De acuerdo a lo previsto en el artículo 14 de la Ley 24/2013, de 26 de diciembre, para la determinación de la propuesta del valor que tomará el diferencial se atenderá a los siguientes criterios:
+
+a) Retribución adecuada para una actividad de bajo riesgo considerando la situación financiera del sistema eléctrico y la situación cíclica de la economía española.
+
+b) Coste de financiación de las empresas de producción de energía eléctrica de nuestro entorno con regímenes retributivos regulados, basados en el reconocimiento de una retribución financiera a la inversión y unos gastos operativos de empresas eficientes y bien gestionadas.
+
+En ningún caso, la propuesta de variación de la tasa de retribución financiera empleada entre dos años consecutivos podrá ser superior en valor absoluto a 50 puntos básicos. En el caso de que resultara una variación superior, la propuesta de cambio del valor en la tasa de retribución se efectuará en el número de años que resulte necesario a fin de no superar dicho límite.
+
+##### Artículo 29. Método de cálculo de la anualidad de la retribución por operación y mantenimiento fijo.
+
+1\. La anualidad de la retribución por operación y mantenimiento fijo de un grupo, OMFn(i), retribuirá los siguientes conceptos de costes operativos de la central que son independientes de la producción, soportados por una empresa eficiente y bien gestionada: los costes de personal, costes de mantenimiento y conservación, costes de seguros, alquileres, costes de naturaleza recurrente, inversiones por modificaciones no sustanciales de la central y otros gastos de explotación.
+
+La anualidad de la retribución por operación y mantenimiento fijo de un grupo, OMFn(i), se calculará, para cada grupo, como el producto de los valores unitarios de la anualidad de operación y mantenimiento fijos de la instalación tipo por la potencia neta de dicho grupo que conste en el registro administrativo de instalaciones de producción de energía eléctrica del Ministerio de Industria, Energía y Turismo y, en su caso, por los factores de corrección a aplicar en aquellos grupos que estén ubicados en la misma central de producción.
+
+2\. Los valores unitarios de la anualidad de operación y mantenimiento fijos de la instalación tipo, expresados en €/MW, y los factores de corrección serán aprobados, antes del inicio de cada periodo regulatorio de acuerdo a lo establecido en el artículo 21.
+
+3\. La anualidad de la retribución por operación y mantenimiento fijo de los grupos que presenten indisponibilidades totales, tanto programadas como fortuitas, en un año superiores al 30 por ciento de las horas será nula para ese año.
+
+A estos efectos, con anterioridad al 1 de febrero de cada año, el operador del sistema remitirá a la Dirección General de Política Energética y Minas un listado de los grupos que presenten dicho nivel de indisponibilidad. El Director General de Política Energética y Minas, previo trámite de audiencia, resolverá en la resolución por la que se aprueba la cuantía definitiva de los costes de generación de liquidación para las centrales que tengan reconocido un régimen retributivo adicional y la cuantía de los costes de generación de las instalaciones que tengan reconocido un régimen retributivo específico a la que hace referencia el artículo 72.3.e), los grupos cuya anualidad de la retribución por operación y mantenimiento fijo sea nula al amparo de lo previsto en este apartado.
+
+##### Artículo 30. Órdenes de arranque.
+
+1\. De acuerdo a lo establecido en la disposición adicional primera de la Ley 17/2013, de 29 de octubre, el operador del sistema dará en cualquier momento y sin necesidad de preaviso instrucciones de arranque-parada a aquellas instalaciones de producción categoría A en los sistemas eléctricos de los territorios no peninsulares que presenten un índice de funcionamiento reducido para comprobar su correcto funcionamiento.
+
+2\. Los criterios por los que se considera que un grupo tiene un índice de funcionamiento reducido deben ser aprobados por resolución de la Dirección General de Política Energética y Minas y publicados en el «Boletín Oficial del Estado». Asimismo, deben ser aprobadas por resolución de dicha Dirección General, en su caso, los grupos a los que el operador del sistema deba remitir estas instrucciones y el plazo en el que deben darse las mismas.
+
+3\. Ante una instrucción de arranque del operador del sistema el grupo deberá cumplir dicha instrucción con una desviación máxima del 10 por ciento respecto del dato técnico de tiempo de arranque que tuviera aprobado.
+
+El grupo deberá, asimismo, mantener durante 24 horas adicionales una potencia equivalente de, al menos, el 60 por ciento de su potencia neta y durante al menos 1 hora, a instrucción del operador del sistema, el 100 por cien de su potencia neta. Tras la prueba, el operador del sistema deberá remitir un informe de cumplimiento a la Dirección General de Política Energética y Minas y a los órganos competentes de las comunidades autónomas y ciudades autónomas afectadas.
+
+4\. La Dirección General de Política Energética y Minas declarará el incumplimiento de la instrucción de arranque, previa la tramitación de un procedimiento que garantizará, la audiencia al interesado. El plazo máximo para resolver este procedimiento y notificar su resolución será de un año. El incumplimiento de la instrucción de arranque conllevará la supresión de la retribución por costes fijos durante un periodo mínimo de un año desde la notificación del incumplimiento de acuerdo con lo previsto a continuación.
+
+En el caso de que el productor corrigiera las causas que motivaron su incumplimiento, deberá notificar este hecho a la Dirección General de Política Energética y Minas. Dicho grupo podrá percibir, en su caso, retribución por costes fijos, una vez transcurrido el plazo mínimo de un año de supresión, y previa comprobación del cumplimiento de las instrucciones de arranque-parada por parte del operador del sistema. La comisión de un segundo incumplimiento supondrá la pérdida definitiva del derecho al cobro de la retribución por costes fijos.
+
+En el caso de que en el plazo máximo de un año a contar desde la notificación de la resolución de declaración del incumplimiento, el productor no haya solucionado las causas que motivaron el incumplimiento, el productor deberá solicitar la baja del grupo en el registro administrativo de instalaciones de producción de energía eléctrica en el plazo máximo de un mes a contar desde la finalización del citado plazo para solucionar las causas que motivaron el incumplimiento de la instrucción de arranque.
+
+En el caso de que en el plazo máximo de un año a contar desde la notificación de la resolución de declaración del incumplimiento, el productor no notifique a la Dirección General de Política Energética y Minas que se han solucionado las causas que motivaron el incumplimiento y el productor no haya solicitado la baja en el registro administrativo de instalaciones de producción de energía eléctrica en el plazo dado en el párrafo anterior, se procederá de oficio a cancelar la inscripción de la instalación en el registro administrativo de instalaciones de producción, previa incoación de un procedimiento que garantizará la audiencia al interesado.
+
+Todo ello sin perjuicio de la concurrencia de las sanciones que pudieran corresponder de acuerdo a la Ley 24/2013, de 26 de diciembre.
+
+### CAPÍTULO III — Metodología de determinación de la retribución por costes variables
+
+##### Artículo 31. Retribución por costes variables de generación.
+
+1\. La retribución por costes variables de generación, expresada en euros, se calculará para cada uno de los grupos generadores que conformen una central de producción y estará compuesta por la suma de los siguientes componentes:
+
+a) La retribución por combustible.
+
+b) La retribución por costes variables no asociados al combustible, que incluye la retribución por costes variables de operación y mantenimiento de funcionamiento, la retribución por costes variables de operación y mantenimiento adicionales debidos al arranque y otros costes operativos de la central.
+
+c) La retribución por costes de los derechos de emisión.
+
+2\. La retribución por combustible estará compuesta por la suma de los siguientes conceptos:
+
+a) La retribución por costes variables de funcionamiento.
+
+b) La retribución por costes de arranque asociados al combustible.
+
+c) La retribución por costes de banda de regulación.
+
+3\. Las empresas titulares de las centrales deberán remitir a la Comisión Nacional de los Mercados y la Competencia, con copia al Ministerio para la Transición Ecológica y el Reto Demográfico, en el primer trimestre del año posterior a la entrega del combustible, copia de las facturas correspondientes a los suministros, así como, copia de la totalidad de los contratos de aprovisionamiento de combustible correspondientes a los suministros del año incluyendo aquellos que estén firmados con otras empresas del mismo grupo empresarial. Esta información se presentará en formato electrónico que permita su tratamiento en hoja de cálculo.
+
+4\. **(Suprimido)**
+
+5\. Los parámetros utilizados para el cálculo de la retribución por costes variables de generación para cada grupo serán los establecidos para la instalación tipo que tengan asignada.
+
+6\. La retribución por costes variables de funcionamiento en los periodos en que el grupo haya funcionado como consecuencia de circunstancias ajenas al resultado del despacho económico realizado por el operador del sistema de acuerdo con lo establecido en el artículo 60.3, y que no vengan derivadas del cumplimiento de las obligaciones establecidas en la normativa estatal, se realizará valorando la energía cedida a la red al precio horario de venta de la energía en el sistema aislado j, Phventa (j), definido en el Anexo I.
+
+7\. Para la determinación de los parámetros de la retribución por costes variables de generación de las instalaciones tipo de cogeneración o residuos se tendrá en cuenta, según corresponda, lo siguiente:
+
+a) Los ingresos estándares indirectamente procedentes de la producción de calor útil asociado, para las instalaciones de cogeneración.
+
+b) Los ingresos o costes evitados estándares, para las instalaciones cuya fuente de energía primaria sean residuos.
+
+La determinación de estos ingresos o costes evitados estándares se establecerá por orden del Ministro de Industria, Energía y Turismo.
+
+> Se modifican los apartados 2 y 3 y se suprime el 4 por la disposición final 1.1 del Real Decreto 446/2023, de 13 de junio. [Ref. BOE-A-2023-14048](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14048)
+
+> Téngase en cuenta que esta modificación surte efectos desde el 1 de enero de 2023, al calcularse este factor con carácter anual, según establece la disposición final 3.2 del citado Real Decreto.
+
+##### Artículo 32. Retribución por costes variables de funcionamiento.
+
+La retribución por costes variables de funcionamiento de cada grupo generador i es la asociada a los consumos de combustibles derivados del funcionamiento del grupo. Para un periodo determinado, se calculará como sumatorio de la retribución por costes variables de funcionamiento de dicho grupo en cada hora h de dicho periodo.
+
+La retribución por costes variables de funcionamiento de cada grupo generador i en cada hora h del sistema eléctrico aislado j, CcombL(i,h,j), expresado en €, se calcularán de acuerdo con la siguiente expresión:
+
+CcombL(i,h,j) = [a(i) + b(i) * p(i,h,j) + c(i) * p<sup>2</sup>(i,h,j)] * pr(i,h,j)
+
+Siendo:
+
+p(i,h,j): Potencia horaria en MW en barras de central en la hora h aportada por el grupo i del sistema eléctrico aislado j en estado de marcha.
+
+a(i), b(i) y c(i): Parámetros técnicos de liquidación de la instalación tipo, expresados en th/h, th/h.MW y th/h.MW<sup>2</sup>, respectivamente, que serán aprobados de acuerdo con lo establecido en el artículo 21.3.
+
+pr(i,h,j): Precio medio de la termia de los combustibles utilizados en estado de marcha por el grupo i del sistema eléctrico aislado j en la hora h, valorado en €/th PCI, calculado de acuerdo con lo indicado en el artículo 40.
+
+##### Artículo 33. Retribución por costes de arranque asociados al combustible.
+
+1\. La retribución por costes de arranque asociados al combustible es la relativa al consumo de combustible en el proceso por el cual un grupo pasa de un estado de marcha en condiciones de carga mínima, a otro estado de marcha en las mismas condiciones, con un estado intermedio de paro.
+
+2\. La retribución por costes de arranque asociados al combustible se obtiene de multiplicar los valores unitarios de arranque de combustible de liquidación por el número de arranques del grupo, excluidos los arranques realizados por desacoplamiento debido a averías de los grupos.
+
+Los valores unitarios de arranque de combustible de liquidación de un grupo i del sistema eléctrico aislado j, CarL(i,j), expresados en €/arranque, se calculan de acuerdo a la siguiente formulación:
+
+CarL (i,j) = a’(i) * [1- exp(-t/b’ (i))] * prar (i, j)
+
+Donde:
+
+t: tiempo transcurrido desde la última parada, en horas. En aquellos casos en que dicho valor sea superior a 14 horas, se tomará un valor de t constante igual a 14 horas. Por orden del Ministro de Industria, Energía y Turismo se podrá modificar este valor tope de 14 horas. Asimismo, por orden ministerial, se podrá establecer y modificar un valor tope diferente del general para distintas instalaciones tipo.
+
+a’(i) y b’(i): Parámetros técnicos de liquidación de la instalación tipo, expresados en th y h, respectivamente, que serán aprobados para cada periodo regulatorio de acuerdo con lo establecido en el artículo 21.
+
+prar(i,j): Precio medio de la termia de los combustibles utilizados en periodos de arranque parada por el grupo i del sistema eléctrico aislado j en ese arranque, valorado en €/th PCI, calculado de acuerdo con lo indicado en el artículo 40.
+
+> Se modifica el apartado 2 por la disposición final 3.1 del Real Decreto 647/2020, de 7 de julio. [Ref. BOE-A-2020-7439](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7439)
+
+##### Artículo 34. Retribución por costes de banda de regulación.
+
+1\. La retribución por costes de banda de regulación en una hora se corresponde con el sobrecoste de explotación de un grupo generador por la banda de potencia a subir y a bajar asignada por el operador del sistema para la regulación del equilibrio entre generación y demanda.
+
+2\. La retribución por costes de banda de regulación en una hora CbrL(i,h,j), será el 1% de la retribución por costes variables de funcionamiento, CcombL(i,h,j), del grupo.
+
+##### Artículo 35. Retribución por costes variables de operación y mantenimiento.
+
+1\. La retribución por costes variables de operación y mantenimiento de funcionamiento es la destinada a cubrir a los costes de materiales y de los trabajos realizados en relación con las revisiones programadas de cada grupo, que se realizan en función de sus horas de funcionamiento, teniendo en cuenta el régimen de funcionamiento y de acuerdo con los planes de mantenimiento de los mismos. Se incluyen en este concepto los consumos de fungibles y aditivos.
+
+La retribución por costes variables de operación y mantenimiento de funcionamiento de un grupo, expresados en euros, se calculará para un periodo determinado como producto de la energía generada medida en barras de central en dicho periodo por los valores unitarios de operación y mantenimiento variable de liquidación de la instalación tipo.
+
+Los valores unitarios de operación y mantenimiento variable de liquidación de la instalación tipo, O&MVLI, se expresarán en €/MWh, y serán, para cada periodo regulatorio, los aprobados de acuerdo con lo establecido en el artículo 21.
+
+2\. La retribución por costes variables de operación y mantenimiento adicionales debidos al arranque es la asociada al coste adicional de operación y mantenimiento derivado del arranque del grupo.
+
+La retribución por costes variables de operación y mantenimiento adicionales debidos al arranque se obtiene de multiplicar el parámetro económico «d» por el número de arranques del grupo, excluidos los arranques realizados por desacoplamiento debido a averías de los grupos, siendo «d» el parámetro que refleja la retribución por costes de operación y mantenimiento adicionales debidos al arranque de la instalación tipo, valorado en euros.
+
+El parámetro económico d de la instalación tipo será aprobado para cada periodo regulatorio de acuerdo con lo establecido en el artículo 21.
+
+##### Artículo 36. Retribución por otros costes operativos.
+
+La retribución por otros costes operativos incluye los peajes de acceso a las redes de transporte y distribución que deben satisfacer los productores de energía eléctrica resultantes de la aplicación de la normativa en vigor, los pagos para la financiación del operador del sistema y, en su caso, del mercado y del Impuesto sobre el valor de la producción de la energía eléctrica derivado de la aplicación de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética.
+
+A estos efectos, los titulares de las centrales que tengan reconocido un régimen retributivo adicional remitirán a la Dirección General de Política Energética y Minas junto con la solicitud de aprobación de la cuantía definitiva de los costes de generación de liquidación establecida en el artículo 72.3.c) los costes auditados en los que incurran los grupos por estos conceptos. Estos costes adicionales serán reconocidos, a propuesta de la Comisión Nacional de los Mercados y de la Competencia, en la resolución del Director General de Política Energética y Minas por la que se aprueba la cuantía definitiva de los costes de generación a la que hace referencia el artículo 72.3.e).
+
+El Impuesto sobre el valor de la producción de la energía eléctrica derivado de la aplicación de la Ley 15/2012, de 27 de diciembre, sólo se reconocerá una vez acreditado el pago del mismo mediante la presentación, en el supuesto de domiciliación bancaria, del documento de presentación de la autoliquidación y el justificante de pago bancario, y en el caso de adeudo en cuenta, del NRC facilitado por la entidad bancaria que consta en el documento de autoliquidación.
+
+##### Artículo 37. Retribución por costes de los derechos de emisión.
+
+1\. La retribución por costes de los derechos de emisión de un grupo, expresado en euros, para un periodo determinado, se calculará como sumatorio de la retribución por costes de los derechos de emisión horario, C<sub>CO2Lh</sub>.
+
+2\. La retribución por costes de los derechos de emisión horario en € es:
+
+*C<sub>CO2 Lh </sub>= p(i,h,j) *P<sub>CO2L</sub>*fie * Cor_p * Cor_e*
+
+Siendo:
+
+p(i,h,j): Potencia horaria en MW en barras de central en la hora h aportada por el grupo i del sistema eléctrico aislado j en estado de marcha.
+
+P_<sub>CO2L</sub>: Precio de los derechos de emisión de liquidación, expresado en €/tCO<sub>2</sub>. La Dirección General de Política Energética y Minas aprobará el precio de los derechos de emisión de liquidación, que se calculará anualmente como la media del precio diario de las subastas de dichos derechos en el mercado secundario de derechos de emisión de la plataforma Común celebradas en el año para el que se efectúa la liquidación.
+
+fie: Factores de emisión (fie) establecidos en el apartado 4.a) del Plan Nacional de Asignación de derechos de emisión de gases de efecto invernadero, 2008-2012, aprobado por Real Decreto 1370/2006, de 24 de noviembre, o norma que lo sustituya.
+
+Cor_p: Factor de correlación entre energía bruta, a la que están referidos los anteriores factores de emisión (fie), y la energía neta referenciada a barras de central, siendo estos valores de correlación los establecidos en el anexo XVII.
+
+Cor_e: Factor de correlación entre los anteriores factores de emisión (fie) establecidos en el apartado 4.a) del Plan Nacional de Asignación de derechos de emisión de gases de efecto invernadero, 2008-2012, y los niveles de emisiones que registran los grupos de generación. Estos valores serán aprobados mediante orden ministerial.
+
+3\. Esta retribución no será de aplicación a las tecnologías no definidas en el Plan Nacional de Asignación de derechos de emisión de gases de efecto invernadero vigente.
+
+> Se modifica el apartado 2 por la disposición final 1.2 del Real Decreto 446/2023, de 13 de junio. [Ref. BOE-A-2023-14048](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14048)
+
+> Téngase en cuenta que esta modificación surte efectos desde el 1 de julio de 2023, según establece la disposición final 3.1 del citado Real Decreto.
+
+##### Artículo 38. Revisión de parámetros técnicos de liquidación. Pruebas de rendimiento de las centrales.
+
+1\. La revisión de parámetros técnicos de liquidación de la instalación tipo se realizará a partir del resultado de las pruebas de rendimiento correspondientes siguiendo el procedimiento establecido en el anexo III.2 y de acuerdo a lo establecido a continuación.
+
+A estos efectos se tendrán en cuenta los resultados de las pruebas de rendimiento realizadas sobre los grupos cuyos informes de supervisión de las pruebas hayan sido remitidos a la Dirección General de Política Energética y Minas y a la Comisión Nacional de los Mercados y la Competencia durante los 6 años anteriores al 30 de septiembre del penúltimo año del periodo regulatorio.
+
+La revisión de los parámetros técnicos de liquidación se realizará por tecnología y rango de potencia, es decir, se tomarán los resultados obtenidos de las pruebas de rendimiento de todos los grupos asignados a instalaciones tipo de igual tecnología y rango de potencia, con independencia del territorio no peninsular en el que estén ubicados. Los valores revisados de los parámetros técnicos de cada tecnología y rango de potencia serán aplicables a todas las instalaciones tipo de dicha tecnología y rango de potencia.
+
+2\. Los parámetros técnicos de liquidación se calcularán atendiendo a los siguientes principios, de acuerdo con la metodología establecida en el anexo III:
+
+a) Los parámetros técnicos de la retribución por costes variables de funcionamiento, a, b y c, se calcularán a partir de los ensayos de consumo específico realizados a los distintos grupos de igual tecnología y rango de potencia y una curva de consumo específico estándar, de acuerdo con lo establecido en el anexo III.2.
+
+b) Los parámetros técnicos de los valores unitarios de arranque de combustible, a’ y b’, se calcularán mediante el ajuste exponencial de la curva de coste en termias frente a tiempo de arranque, a partir de los ensayos de coste de arranque de los grupos de igual tecnología y rango de potencia.
+
+3\. La Dirección General de Política Energética y Minas y la Comisión Nacional de los Mercados y la Competencia podrán solicitar al operador del sistema la información técnica necesaria para el cálculo de estos parámetros, obtenida de las pruebas de rendimiento y del funcionamiento ordinario de los grupos.
+
+El operador del sistema realizará un seguimiento de los costes del despacho de producción, analizando las diferencias de los costes resultantes entre la aplicación de los parámetros técnicos de liquidación y los datos técnicos de despacho de las centrales.
+
+4\. Cualquier actuación tendente a la alteración o falseamiento del resultado de las pruebas de rendimiento por parte del titular de la instalación será, en su caso, sancionada de acuerdo con el régimen sancionador previsto en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+
+##### Artículo 39. Revisión de parámetros económicos de liquidación.
+
+1\. En la revisión de los parámetros económicos de liquidación se tendrán en cuenta los conceptos de coste indicados en este real decreto en los que incurriría una empresa eficiente y bien gestionada.
+
+Los valores unitarios de operación y mantenimiento variable de liquidación, y el parámetro económico «d» de la retribución por costes variables de operación y mantenimiento adicionales debidos al arranque, se revisarán según lo establecido en el anexo III. 2 y teniendo en cuenta las auditorías de coste presentadas por las empresas titulares de las instalaciones de generación indicadas en el artículo 21.
+
+2\. Para la revisión de estos parámetros la Dirección General de Política Energética y Minas y la Comisión Nacional de los Mercados y la Competencia podrán solicitar al operador del sistema la información técnica necesaria obtenida tanto en las pruebas de rendimiento, como en el funcionamiento ordinario de los grupos.
+
+##### Artículo 40. Cálculo de los precios de combustible.
+
+1\. El precio medio de la termia de los combustibles, pr(i,h,j), y el precio medio de la termia de los combustibles utilizados en periodos de arranque parada, prar(i,j), serán calculados, a partir del consumo de cada uno de los combustibles utilizados y de su poder calorífico, según lo indicado en el anexo VI.1.
+
+La mezcla de combustible autorizadas por la Dirección General de Política Energética y Minas para el estado de funcionamiento normal y la mezcla de combustible para el arranque de cada uno de los grupos serán las que se reconozcan en el proceso de programación del despacho y de liquidación de la retribución por costes de generación de las centrales.
+
+A estos efectos, los sujetos productores deberán declarar mensualmente al operador del sistema los combustibles almacenados, las adquisiciones y los consumos de combustible de cada grupo junto con los resultados de los análisis de comprobación de las especificaciones técnicas de cada partida de producto adquirida. Las desviaciones respecto a las mezclas aprobadas serán puestas en conocimiento de la Dirección General de Política Energética y Minas por parte del operador del sistema. A los efectos de la infracción muy grave tipificada en el artículo 64.38 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, la utilización de un combustible distinto del autorizado será considerada como una manipulación tendente a alterar el precio de la energía eléctrica.
+
+2\. Excepcionalmente, en aquellos grupos para los que no sea posible determinar a priori una mezcla de combustible habitual, al utilizar combustibles procedentes de otros procesos asociados o combustibles cuyas características técnicas no sean estándares, la Dirección General de Política Energética y Minas, previo informe de la Comisión Nacional de los Mercados y la Competencia, podrá autorizar la utilización de una mezcla de combustible variable dentro de un rango. En este caso, el titular de la instalación deberá declarar al operador del sistema la mezcla de combustible que se prevea utilizar en cada hora, la cual será utilizada tanto a efectos de despacho como de liquidación.
+
+3\. Sin perjuicio de lo anterior, cuando un sujeto generador detecte la necesidad de utilizar, en cualquiera de sus unidades generadoras, un combustible o mezcla de combustibles distinta de las autorizadas para mantener el programa previsto de producción, lo pondrá en conocimiento del operador del sistema indicando las características del combustible o mezcla de combustible y la duración prevista del cambio. Excepcionalmente el operador del sistema podrá autorizar temporalmente el uso de un combustible o mezcla de combustible distinta de la autorizada de acuerdo a lo establecido en el anexo VI.2.
+
+El operador del sistema deberá notificar anualmente a la Dirección General de Política Energética y Minas las autorizaciones de uso excepcional de combustible indicando las causas que motivaron el cambio de combustible o mezcla, las características técnicas del combustible o mezcla autorizada y la duración de la autorización.
+
+4\. En el caso de restricciones en la utilización de combustibles derivadas de normativa autonómica o local que supongan unos mayores costes de generación, el titular de la instalación de producción podrá establecer convenios u otros mecanismos con las Administraciones Autonómicas y locales para cubrir el sobrecoste ocasionado.
+
+En caso contrario, el titular de la instalación de producción deberá comunicarlo al operador del sistema y declarar indisponible el grupo en todos los periodos en que se produzca este sobrecoste. El operador del sistema solo podrá programar estos grupos cuando resulte imprescindible para la garantía de suministro, reconociéndose, en este caso, el sobrecoste derivado.
+
+5\. Los componentes del precio de los combustibles fósiles a efectos de liquidación, prc (c,i,h,j), entre los que se incluirá la retribución por costes de logística, y la metodología para la determinación de dicho precio y su poder calorífico inferior pci(i,h,j), serán aprobados por orden del Ministro de Industria, Energía y Turismo, teniendo en cuenta las diferentes tecnologías implantadas en cada sistema y la información remitida por los titulares de las instalaciones de producción correspondientes a las facturas del suministro de combustible.
+
+Para la determinación del citado precio del combustible fósil se llevaran a cabo subastas de combustible.
+
+El precio de combustible a utilizar a efectos de despacho será el que se establezca por orden del Ministro de Industria, Energía y Turismo.
+
+6\. El precio del combustible prc(c,i,h,j) a efectos de despacho y a efectos de liquidación, así como el poder calorífico inferior pci(i,h,j) de los combustibles de biomasa, biogás y residuos serán aprobados por orden del Ministro de Industria, Energía y Turismo, teniendo en cuentas las diferentes tecnologías implantadas en cada sistema.
+
+##### Artículo 41. Procedimiento de subasta para el suministro de combustible fósil.
+
+1\. El suministro de combustible fósil será objeto de un procedimiento de subasta en los términos y supuestos que se establezcan por orden del Ministro de Industria, Energía y Turismo. En todo caso, el procedimiento estará sometido a los principios de concurrencia, transparencia, objetividad y no discriminación.
+
+El mecanismo de subastas al que hace referencia este artículo deberá cumplir con los siguientes requisitos:
+
+a) El objeto de las subastas será el suministro de combustible y la determinación de su precio.
+
+b) Se realizarán subastas diferenciadas para cada uno de los tipos de combustible utilizados y para cada uno de los territorios no peninsulares.
+
+c) Las empresas propietarias de las centrales de producción presentarán la propuesta de pliego de bases por el que habrá de regirse la convocatoria y del borrador de contrato que haya que suscribirse con el adjudicatario de los que serán responsables.
+
+d) Se establecerá un precio de referencia del combustible a partir del cual se calculará el precio de salida para la realización de la subasta de combustible y que será el subsidiario para la fijación del precio de combustible en aquellos supuestos en los que no se pudiera fijar dicho precio mediante la subasta establecida en el presente artículo.
+
+2\. Los componentes del precio de referencia de cada uno de los combustibles utilizados y la metodología para su determinación serán aprobados por orden del Ministro de Industria, Energía y Turismo, teniendo en cuenta las diferentes tecnologías implantadas en cada sistema y la información remitida por los titulares de las instalaciones de producción a los que hace referencia el artículo 31.
+
+Asimismo, por orden del Ministro de Industria, Energía y Turismo, se designará el gestor encargado de la tramitación y gestión de las subastas.
+
+3\. En los supuestos en los que la subasta quedara desierta los sujetos productores deberán proceder a la contratación particular del suministro. En estos casos el precio del combustible a retribuir será el precio de referencia del combustible a partir del cual se haya calculado el precio de salida para la realización de la subasta.
+
+##### Artículo 42. Excepciones de aplicación de la subasta para el suministro de combustible fósil.
+
+Por orden del Ministro de Industria, Energía y Turismo se podrán establecer excepciones a la adquisición de determinados combustibles mediante el mecanismo de subastas definido en el artículo anterior para aquellas instalaciones cuyo combustible no represente un volumen significativo para llevar a cabo dicho proceso. En estos supuestos el titular deberá presentar a la Secretaría de Estado de Energía al menos tres presupuestos de suministro de combustible, a partir de los cuales se determinará el suministro y el precio del combustible. En todo caso, el procedimiento de determinación del precio estará sometido a los principios de concurrencia, transparencia, objetividad y no discriminación.
+
+### CAPÍTULO IV — Procedimientos relativos al otorgamiento y revocación del régimen retributivo adicional
+
+#### Sección 1.ª Procedimientos aplicables y cobertura de la demanda
+
+##### Artículo 43. Procedimientos de otorgamiento del régimen retributivo adicional.
+
+1\. El otorgamiento del régimen retributivo adicional se llevará a cabo mediante procedimientos de concurrencia competitiva.
+
+2\. Cuando sea necesaria la instalación de nueva potencia para cubrir un déficit de potencia en el largo plazo, se realizará una convocatoria de un procedimiento de concurrencia competitiva para el otorgamiento de la resolución favorable de compatibilidad, que se realizará conforme a lo dispuesto en la sección 2.
+
+Los grupos que obtengan resolución favorable de compatibilidad tendrán derecho a la percepción del régimen retributivo adicional, en los términos regulados en el presente título.
+
+En este procedimiento podrán participar instalaciones nuevas e instalaciones inscritas en el registro administrativo de instalaciones de producción de energía eléctrica que, bien realicen nuevas inversiones, o bien, finalizando su vida útil regulatoria pretendan que les sea otorgado nuevamente el régimen retributivo adicional porque supongan un ahorro para el sistema sin realizar nuevas inversiones. Las solicitudes relativas a estos tres tipos de instalaciones se valorarán de forma conjunta.
+
+3\. Sin perjuicio de lo anterior, por orden del Ministro de Industria, Energía y Turismo, se podrán convocar concursos para el otorgamiento del régimen retributivo adicional, con la finalidad de reducir los costes del sistema eléctrico conforme a lo dispuesto en la sección 3.
+
+##### Artículo 44. Informe anual de cobertura de la demanda.
+
+Conforme a lo previsto en el artículo 2.4 de la Ley 17/2013, de 29 de octubre, el operador del sistema remitirá al Ministerio de Industria, Energía y Turismo y al organismo competente en materia de energía de la comunidad autónoma o ciudad autónoma que corresponda, en la primera quincena del mes de enero de cada año, un informe anual de la cobertura de la demanda, que abarcará un horizonte temporal de 5 años desde el año siguiente al del informe.
+
+En este informe, el operador del sistema determinará las potencias necesarias para garantizar la cobertura de la demanda, teniendo en cuenta las redes existentes y planificadas y la implantación prevista de instalaciones de generación y, en su caso de bombeos.
+
+Para la elaboración de este informe, se seguirán los criterios previstos en el anexo VII.1.
+
+##### Artículo 45. Riesgos de cobertura de la demanda en el corto plazo.
+
+En aquellos casos en los que el operador del sistema detecte riesgos sobre la seguridad y continuidad de suministro en el horizonte anual, remitirá un informe al Ministerio de Industria, Energía y Turismo y al organismo competente en materia de energía de la comunidad autónoma o ciudad autónoma que corresponda, que ponga de manifiesto esta situación así como la propuesta concreta de equipos de generación necesarios. En estos casos se procederá de acuerdo a lo establecido en el artículo 59.
+
+Para la elaboración del informe, se tendrá en cuenta la metodología prevista en el anexo VII.2.
+
+#### Sección 2.ª Procedimiento de concurrencia competitiva para el otorgamiento de la resolución favorable de compatibilidad
+
+##### Artículo 46. Convocatoria del procedimiento para el otorgamiento de la resolución favorable de compatibilidad.
+
+1\. Cuando el operador del sistema ponga de manifiesto en su informe anual de cobertura la existencia de un riesgo de falta de cobertura en el horizonte del análisis, el Secretario de Estado de Energía convocará previo informe de las comunidades autónomas y ciudades autónomas afectadas, mediante resolución, un procedimiento de concurrencia competitiva para el otorgamiento de la resolución favorable de compatibilidad para instalaciones de producción de energía eléctrica categoría A.
+
+El informe solicitado a las comunidades autónomas y ciudades autónomas afectadas deberá ser evacuado en el plazo de 15 días desde la recepción de la solicitud.
+
+En la resolución de la convocatoria el Secretario de Estado de Energía establecerá la potencia prevista adicional térmica y en su caso, de instalaciones hidroeléctricas no fluyentes que deba ser instalada para asegurar la cobertura de la demanda en cada uno de los sistemas eléctricos aislados para cada uno de los siguientes 5 años. Asimismo, en esta resolución se podrán dar señales de localización por nudos y se podrán establecer limitaciones técnicas relativas, entre otros aspectos, al tamaño y tecnología de los grupos.
+
+Dicha resolución será publicada en el «Boletín Oficial del Estado».
+
+2\. El procedimiento se desarrollará conforme a lo dispuesto en los artículos siguientes y será resuelto por la Dirección General de Política Energética y Minas.
+
+3\. La resolución favorable de compatibilidad tendrá los efectos a los que hace referencia el artículo 2.1 de la Ley 17/2013, de 29 de octubre, para la garantía del suministro e incremento de la competencia en los sistemas eléctricos insulares y extrapeninsulares.
+
+##### Artículo 47. Presentación de solicitudes y criterios de admisión.
+
+1\. Tras la publicación en el «Boletín Oficial del Estado» de la resolución de convocatoria del procedimiento de concurrencia competitiva, los titulares de nuevas instalaciones de producción de energía eléctrica categoría A, los titulares de grupos de la categoría A inscritos en el registro administrativo de instalaciones de producción de energía eléctrica que realicen nuevas inversiones y los titulares de grupos de la categoría A que finalicen su vida útil regulatoria y pretendan que se les conceda nuevamente el régimen retributivo sin realizar nuevas inversiones, podrán solicitar el otorgamiento de la resolución de compatibilidad favorable a efectos de reconocimiento del régimen retributivo adicional a la Dirección General de Política Energética y Minas.
+
+El plazo de presentación de la solicitud será de dos meses desde la publicación de la citada resolución de la Secretaría de Estado de Energía.
+
+La solicitud deberá incluir la información establecida en el anexo VIII.1, así como cualquier otra información que pudiera incluirse en la resolución de convocatoria, y deberá ir acompañada del resguardo de la Caja General de Depósitos acreditativo de haber depositado la garantía económica establecida en el artículo 50.
+
+2\. La titularidad de las instalaciones para las que se solicite la resolución de compatibilidad estará sujeta a las limitaciones establecidas en la Ley 17/2013, de 29 de octubre, para la garantía del suministro e incremento de la competencia en los sistemas eléctricos insulares y extrapeninsulares.
+
+3\. Solo se admitirán a trámite en el procedimiento aquellas instalaciones a las que se les pueda asignar una de las instalaciones tipo incluidas en la disposición final primera u otras que pudieran establecerse por orden del Ministro de Industria, Energía y Turismo y que tenga aprobados, con carácter previo a la finalización del plazo de presentación de solicitudes, los parámetros técnicos y económicos de su instalación tipo que determinen la retribución por costes variables de generación y por costes fijos.
+
+> Se suprime el párrafo segundo del apartado 2 por la disposición final 1.3 del Real Decreto 446/2023, de 13 de junio. [Ref. BOE-A-2023-14048](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14048)
+
+##### Artículo 48. Tramitación de las solicitudes.
+
+1\. En el plazo máximo de un mes desde la finalización del plazo de recepción de las solicitudes, la Dirección General de Política Energética y Minas aprobará la relación provisional de admitidos y excluidos de la convocatoria. En dicha resolución, que se publicará en la sede electrónica del Ministerio de Industria, Energía y Turismo, se señalará un plazo de diez días hábiles para subsanar, en su caso, los defectos que hubieran motivado la exclusión u omisión.
+
+2\. Finalizado dicho plazo, la Dirección General de Política Energética y Minas aprobará la relación definitiva de admitidos y excluidos de la convocatoria, publicando dicha resolución en la sede electrónica del Ministerio de Industria, Energía y Turismo. Asimismo remitirá para informe las solicitudes admitidas a trámite al operador del sistema y a las comunidades autónomas o ciudades autónomas afectadas.
+
+3\. El operador del sistema, en el plazo máximo de 45 días desde la recepción de la solicitud de informe, deberá emitir un informe en el cual se analizarán las cuestiones indicadas en el anexo VIII.2.
+
+Para la elaboración del informe, el operador del sistema podrá requerir a las empresas solicitantes información adicional en cuyo caso podrá solicitar una ampliación de plazo para la emisión del informe a la Dirección General de Política Energética y Minas.
+
+El operador del sistema remitirá el informe junto con la información adicional que en su caso haya solicitado a la Dirección General de Política Energética y Minas.
+
+4\. En el plazo máximo de 15 días desde la recepción del informe del operador del sistema, la Dirección General de Política Energética y Minas solicitará informe a la Comisión Nacional de los Mercados y la Competencia, adjuntando a dicha solicitud toda la documentación presentada y el citado informe del operador del sistema.
+
+La citada Comisión, en el plazo máximo de 45 días desde la recepción de la solicitud, remitirá su informe a la Dirección General de Política Energética y Minas. La Comisión deberá incluir en el informe un análisis de los aspectos puestos de manifiesto por el operador del sistema y realizará una valoración económica de la afección de cada solicitud de grupo generador nuevo, o de nuevas inversiones de grupos ya inscritos en el registro administrativo de instalaciones de producción de energía eléctrica, o del otorgamiento nuevamente del régimen retributivo adicional en el caso de grupos que vayan a finalizar su vida útil regulatoria, sobre los costes del sistema eléctrico definidos en el artículo 13 de la Ley 24/2013, de 26 de diciembre, que se vean afectados y sobre los costes de generación y servicios de ajuste definidos en el artículo 71 en el medio y largo plazo.
+
+5\. Las comunidades autónomas o ciudades autónomas dispondrán de un plazo de dos meses desde la recepción de la solicitud para remitir a la Dirección General de Política Energética y Minas el informe solicitado para que puedan realizar observaciones en lo que pudiera afectar al concreto ejercicio de sus competencias, las cuales se harán constar en la referida resolución de compatibilidad de la Dirección General de Política Energética y Minas. Dicho informe valorará de forma justificada al menos dos aspectos, la posible existencia de alguna normativa urbanística o medioambiental que impida la construcción de la instalación en las inmediaciones de los nudos de conexión propuestos y si existe algún obstáculo administrativo para el cumplimiento de las fechas previstas de inscripción definitiva en el registro y de obtención de la autorización administrativa previa.
+
+##### Artículo 49. Resolución del procedimiento de concurrencia competitiva para el otorgamiento de la resolución favorable de compatibilidad.
+
+1\. Recabados los informes indicados en el artículo 48, la Dirección General de Política Energética y Minas resolverá el procedimiento, previo trámite de audiencia a los interesados. La Dirección General de Política Energética y Minas aplicará los criterios definidos en el anexo VIII.3 para la determinación de los grupos a los que procede el otorgamiento de la resolución favorable de compatibilidad.
+
+Asimismo, de acuerdo a lo previsto en la Ley 17/2013, de 29 de octubre, no podrá otorgarse resolución favorable de compatibilidad a las solicitudes que supongan un aumento de capacidad de empresas o grupos empresariales que posean un porcentaje de potencia de generación de energía eléctrica superior al 40 % en ese sistema.
+
+No obstante lo anterior, se podrá otorgar resolución favorable de compatibilidad a los titulares del apartado anterior cuando no se superen los valores de potencia necesaria para asegurar la cobertura de la demanda y cuando no hubiera otra empresa interesada en promover instalaciones.
+
+2\. El plazo para dictar y notificar la resolución del procedimiento de concurrencia competitiva para el otorgamiento de la resolución favorable de compatibilidad será de seis meses desde la finalización del plazo de recepción de las solicitudes. Esta resolución será publicada en el «Boletín Oficial del Estado» con los efectos previstos en el artículo 59.6.b) de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+3\. En los casos en los que no se cubra la potencia necesaria con las instalaciones a las que se les conceda la resolución favorable de compatibilidad, por orden del Ministro de Industria, Energía y Turismo se podrán convocar concursos de nueva capacidad en los términos establecidos en el artículo 55.
+
+> Se modifica el apartado 1 por la disposición final 1.4 del Real Decreto 446/2023, de 13 de junio. [Ref. BOE-A-2023-14048](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14048)
+
+##### Artículo 50. Garantías.
+
+1\. Para la participación en el procedimiento de concurrencia competitiva para el otorgamiento de la resolución favorable de compatibilidad será necesaria la presentación, ante la Dirección General de Política Energética y Minas, del resguardo de la Caja General de Depósitos acreditativo de haber depositado una garantía económica por un valor del 2 por ciento del valor estándar de la inversión que corresponde asignar al nuevo grupo, *VI**<sub>i, estándar</sub>* en la fecha de solicitud de la resolución favorable de compatibilidad o, en el caso de las nuevas inversiones, de la inversión prevista.
+
+La garantía se constituirá en la modalidad de efectivo o aval prestado por entidades de crédito o sociedades de garantía recíproca, de acuerdo con lo previsto en el Real Decreto 161/1997, de 7 de febrero, por el que se aprueba el Reglamento de la Caja General de Depósitos.
+
+El objeto de la garantía será la inscripción del grupo generador con carácter definitivo en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo cumpliendo, en todo caso, los requisitos establecidos en el anexo VIII.4.
+
+La persona o entidad que constituya la garantía deberá coincidir con el solicitante de la resolución favorable de compatibilidad.
+
+Deberá indicarse expresamente en el resguardo de constitución de la garantía que esta es depositada a los efectos del cumplimiento de lo establecido en el presente artículo.
+
+2\. Con anterioridad a que la Dirección General de Política Energética y Minas resuelva el procedimiento de concurrencia competitiva, el interesado podrá desistir de su solicitud y solicitar la cancelación de la garantía.
+
+3\. Asimismo, si el solicitante no responde en el plazo de tres meses a los requerimientos de la Administración de información o actuación, se entenderá por desistida la solicitud. En el requerimiento de información se recogerá expresamente dicho extremo en aplicación del artículo 92 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+4\. La inadmisión o desestimación de la solicitud de participación en el procedimiento de concurrencia competitiva se considerará razón suficiente para la cancelación de la garantía, debiendo solicitarse dicha cancelación por el interesado ante la Dirección General de Política Energética y Minas.
+
+5\. Una vez dictada la resolución favorable de compatibilidad para un grupo, el desistimiento en la construcción del mismo supondrá la ejecución de la garantía.
+
+Ello no obstante, la Dirección General de Política Energética y Minas podrá exceptuar la ejecución de la garantía depositada por el titular de una instalación, si el desistimiento en la construcción de la misma viene dado por circunstancias impeditivas ni directa ni indirectamente imputables al interesado y así fuera solicitado por este a la Dirección General de Política Energética y Minas con anterioridad a la fecha límite para realizar la inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica.
+
+##### Artículo 51. Contenido de la resolución del procedimiento de concurrencia competitiva.
+
+1\. La resolución del procedimiento de concurrencia competitiva recogerá expresamente, al menos, la siguiente información relativa a cada grupo al que se otorgue la resolución favorable de compatibilidad:
+
+a) Año previsto de inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica, que se denominará en lo sucesivo, A<sub>REG</sub>.
+
+b) Potencia autorizada, en adelante, P<sub>aut</sub>
+
+c) Tecnología.
+
+d) Nudo de conexión.
+
+e) Código de identificación de la resolución de compatibilidad, CIC.
+
+2\. En el caso de las nuevas inversiones, se incluirá, además de la información anterior que le sea de aplicación, el valor de la nueva inversión autorizada y la vida útil regulatoria de la nueva inversión.
+
+3\. Para las solicitudes de nuevo otorgamiento del régimen retributivo adicional de grupos que vayan a finalizar su vida útil y que no vayan a realizar nuevas inversiones se recogerá exclusivamente la potencia autorizada, P<sub>aut</sub>.
+
+##### Artículo 52. Efectos de la resolución favorable de compatibilidad.
+
+1\. La resolución favorable de compatibilidad otorgará al titular el derecho a percibir el régimen retributivo adicional regulado en este título, condicionado al cumplimiento de los requisitos establecidos en el anexo VIII.4. Dicho derecho se otorgará durante la vida útil regulatoria del grupo proyectado y para un determinado valor de potencia, en los términos previstos en este artículo.
+
+Aquellos grupos que obtengan una autorización administrativa previa sin la resolución favorable de compatibilidad no tendrán derecho al régimen retributivo adicional, percibiendo el régimen económico establecido en el artículo 8.
+
+2\. El titular de la instalación estará obligado a comunicar a la Dirección General de Política Energética y Minas cualquier acto administrativo que imposibilite la ejecución del proyecto, en el plazo de un mes desde que le haya sido notificado. A los efectos de las infracciones tipificadas en la Ley 24/2013, de 26 de diciembre el incumplimiento de esta obligación en el plazo establecido será considerado como la no presentación en forma y plazo de cualquier dato, al objeto de la determinación o percepción del régimen retributivo de las actividades con retribución regulada, sin perjuicio de la concurrencia de otras sanciones que pudieran corresponder de acuerdo con la citada Ley.
+
+En estos casos procederá la devolución de las garantías presentadas siempre que el titular de la instalación lo notifique en el plazo establecido.
+
+3\. El régimen retributivo adicional otorgado al grupo presentará las particularidades establecidas en el anexo VIII.5 motivadas por las diferencias entre la potencia autorizada, P<sub>aut</sub>, y la potencia neta inscrita en el registro administrativo de instalaciones de producción de energía eléctrica.
+
+##### Artículo 53. Otorgamiento del régimen retributivo adicional por las nuevas inversiones.
+
+1\. Las nuevas inversiones sobre grupos inscritos en el registro administrativo de instalaciones de producción de energía eléctrica, para tener derecho a la percepción de régimen retributivo adicional en los términos previstos en el artículo 19, requerirán de resolución favorable de compatibilidad dictada con carácter previo al otorgamiento por parte del órgano competente de la autorización administrativa previa de la modificación. En los casos en los que se vayan a realizar inversiones en un grupo que vaya a finalizar su vida útil regulatoria, la solicitud se realizará, además, antes de la finalización de dicha vida útil regulatoria.
+
+Las solicitudes de reconocimiento de las nuevas inversiones se realizarán en el procedimiento de concurrencia competitiva para el otorgamiento de la resolución favorable de compatibilidad regulado en esta sección.
+
+Aquellas instalaciones en las que se realicen nuevas inversiones que obtengan una autorización administrativa previa sin la citada resolución favorable no tendrán derecho al régimen retributivo adicional, percibiendo el régimen económico establecido en el artículo 8.
+
+2\. No se reconocerán aquellas inversiones derivadas de la falta de mantenimiento de la central. A estos efectos, con carácter previo a la emisión de la resolución de compatibilidad se realizará una inspección de las instalaciones con el fin de comprobar su efectivo mantenimiento.
+
+Todo ello sin perjuicio de las sanciones que pudieran establecerse por el incumplimiento, por parte del titular de las instalaciones, de su obligación de mantenerlas en adecuadas condiciones de conservación e idoneidad técnica, según lo establecido en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+
+3\. El procedimiento para el otorgamiento del régimen retributivo adicional para aquellas nuevas inversiones que culminen con la inscripción de un nuevo grupo en el registro administrativo de instalaciones de producción de energía eléctrica se realizará según lo establecido en el presente capítulo, como si de un grupo nuevo se tratara.
+
+4\. El procedimiento para el otorgamiento del régimen retributivo adicional para las nuevas inversiones de un grupo inscrito en el registro administrativo de instalaciones de producción de energía eléctrica que no impliquen la inscripción de un nuevo grupo en el citado registro administrativo se realizará según lo establecido en el presente capítulo, con las salvedades reguladas en el anexo VIII.6.
+
+5\. El reconocimiento del régimen retributivo adicional de estas instalaciones estará a lo dispuesto en el artículo 57.
+
+##### Artículo 54. Otorgamiento del régimen retributivo adicional para instalaciones cuya vida útil regulatoria vaya a finalizar y no vayan a realizar nuevas inversiones.
+
+1\. Los grupos que superen su vida útil regulatoria dejarán de tener derecho a percibir el régimen retributivo adicional, percibiendo por su energía generada el régimen económico establecido en el artículo 8.
+
+2\. No obstante lo establecido en el apartado anterior, el titular de la instalación podrá solicitar que se le otorgue nuevamente el régimen retributivo adicional. Dicha solicitud se realizará antes de la finalización de su vida útil regulatoria, en el procedimiento de concurrencia competitiva para el otorgamiento de la resolución favorable de compatibilidad establecido en esta sección.
+
+Las resoluciones favorables de compatibilidad que se dicten tendrán los efectos indicados en el artículo 52, no siéndoles de aplicación los condicionados establecidos en el anexo VIII.4. Asimismo, no se requerirá la presentación de la garantía económica establecida en el artículo 50.
+
+En aquellos casos en los que la potencia autorizada en la resolución favorable de compatibilidad coincida con la potencia inscrita en el registro administrativo de instalaciones de producción de energía eléctrica, la Dirección General de Política Energética y Minas resolverá de oficio el reconocimiento del régimen retributivo adicional.
+
+En el resto de casos, una vez otorgada la resolución favorable de compatibilidad, el titular de la instalación deberá solicitar el reconocimiento del régimen retributivo adicional, de acuerdo con el procedimiento previsto en este capítulo.
+
+#### Sección 3.ª Concursos para la reducción de costes
+
+##### Artículo 55. Concursos para la reducción de costes.
+
+1\. Por orden del Ministro de Industria, Energía y Turismo, se podrán establecer concursos para la instalación de nueva potencia de producción de la categoría A en un sistema eléctrico aislado que, aun superando la potencia prevista adicional, reduzca los costes de generación en dicho sistema.
+
+Dichos concursos podrán incluir señales económicas de localización para la resolución de restricciones técnicas zonales.
+
+La citada orden establecerá los términos en que se desarrollará el concurso, las garantías exigibles, el régimen retributivo aplicable a las instalaciones adjudicatarias y los requisitos exigibles a las instalaciones para la percepción de dicho régimen retributivo. Asimismo determinará si resulta de aplicación lo previsto en los apartados a y b del anexo VIII.7, y, en caso negativo, el procedimiento aplicable, y definirá el modelo de declaración responsable a presentar por los titulares junto con la solicitud de reconocimiento del régimen retributivo adicional, de acuerdo con lo previsto en el anexo VIII.7.c.
+
+Cuando el procedimiento afecte a una sola comunidad autónoma o ciudad autónoma, se solicitará la emisión de informe a la misma, otorgando un plazo de 15 días para que pueda realizar observaciones, en aquello que pudiera afectar al concreto ejercicio de sus competencias, que se harán constar en la resolución de adjudicación del concurso.
+
+2\. La resolución de adjudicación del concurso dará cumplimiento al requisito establecido en el artículo 2.1 de la Ley 17/2013, de 29 de octubre, para la garantía del suministro e incremento de la competencia en los sistemas eléctricos insulares y extrapeninsulares.
+
+Al amparo de lo previsto en el artículo 1.3 de la Ley 17/2013, de 29 de octubre, para la garantía del suministro e incremento de la competencia en los sistemas eléctricos insulares y extrapeninsulares, cuando no se superen los valores de potencia necesaria para asegurar la cobertura de la demanda, y cuando no hubiera otra empresa interesada en promover instalaciones, con carácter extraordinario y en los términos que se establezcan en la orden definida en el apartado 1, se podrá adjudicar el concurso a una empresa o grupo empresarial que posea un porcentaje de potencia de generación de energía eléctrica superior al 40 por ciento en ese sistema.
+
+3\. Este mecanismo se podrá utilizar eventualmente para el otorgamiento del régimen retributivo a nueva potencia cuando el operador del sistema ponga de manifiesto esta necesidad en el informe anual de cobertura.
+
+#### Sección 4.ª Particularidades del procedimiento de otorgamiento del régimen retributivo adicional a las instalaciones de bombeo derivadas de un procedimiento de concurrencia competitiva.
+
+##### Artículo 56. Procedimiento de otorgamiento del régimen retributivo adicional a las instalaciones de bombeo derivadas de un procedimiento de concurrencia competitiva.
+
+1\. Cuando la construcción de una instalación de bombeo derive de un procedimiento de concurrencia competitiva convocado en los términos establecidos en el artículo 55, la titularidad de la misma corresponderá al adjudicatario de dicho concurso, de acuerdo con lo previsto en el artículo 5.2 de la Ley 17/2013, de 29 de octubre.
+
+2\. Con el fin de garantizar la realización de las inversiones, el solicitante deberá presentar, junto con su oferta para participar en el procedimiento de concurrencia competitiva al que hace referencia el párrafo anterior, una propuesta de calendario para la construcción de la instalación así como el resguardo de la Caja General de Depósitos de haber presentado un aval por una cuantía del 2 por ciento del presupuesto de la instalación proyectada, con el valor mínimo que se establezca en la convocatoria del concurso.
+
+3\. El calendario de ejecución será aprobado conjuntamente con la resolución de adjudicación del concurso, previo informe de las Administraciones y organismos afectados y previa audiencia al interesado, quedando los efectos de la citada resolución condicionados al cumplimiento del calendario.
+
+El incumplimiento de cualquiera de los hitos del calendario determinará, previo trámite de audiencia y mediante resolución motivada, la ejecución del aval y la declaración de la imposibilidad de percepción del régimen retributivo establecido en este título para esta instalación por la empresa titular o por cualquier sociedad del grupo definido según lo establecido en artículo 42 del Código de Comercio.
+
+Ello no obstante, el órgano competente para resolver el procedimiento podrá, previa solicitud justificada del interesado y mediante resolución motivada, modificar en todo o en parte los hitos del calendario cuando su cumplimiento se vea obstaculizado a resultas de la inobservancia por las Administraciones Públicas, o en su caso el operador del sistema, de los plazos a que normativamente vienen sujetas en la tramitación y resolución de los distintos procedimientos.
+
+4\. El aval será cancelado cuando el titular de la instalación de bombeo obtenga la resolución de reconocimiento de régimen retributivo adicional de la instalación. Si a lo largo del procedimiento, el solicitante desiste voluntariamente de la tramitación administrativa de la instalación o no responde a los requerimientos de información de la Administración en el plazo de tres meses, se procederá a la ejecución del aval.
+
+5\. El procedimiento de reconocimiento de datos técnicos y económicos y de inscripción en el registro administrativo de instalaciones de producción de energía eléctrica de las instalaciones reguladas en este artículo se realizará de acuerdo con lo previsto en el título III. El reconocimiento del régimen retributivo adicional de dichas instalaciones estará a lo dispuesto en el artículo 57.
+
+6\. Sin perjuicio de lo establecido en el título VII, las instalaciones de bombeo no incluidas en los supuestos contemplados en este artículo no tendrán derecho al régimen retributivo adicional, percibiendo por su energía vendida el régimen económico establecido en el artículo 8.
+
+#### Sección 5.ª Reconocimiento y revocación del régimen retributivo adicional.
+
+##### Artículo 57. Reconocimiento del régimen retributivo adicional.
+
+1\. Para contar con el reconocimiento del régimen retributivo adicional, el titular de la instalación deberá remitir a la Dirección General de Política Energética y Minas la documentación definida en el anexo VIII.7 que acredite el cumplimiento de los condicionados establecidos.
+
+La falta de remisión de la citada documentación en los plazos establecidos producirá la caducidad de la resolución favorable de compatibilidad, extinguiéndose el derecho a la percepción del régimen retributivo adicional.
+
+2\. La Dirección General de Política Energética y Minas, previa comprobación del cumplimiento de los requisitos exigidos, resolverá reconocer el régimen retributivo adicional del grupo, y en los casos en que proceda, dictar de oficio la orden de cancelación de la garantía o, en su caso, de la fracción de la garantía correspondiente. En caso contrario resolverá desestimar la solicitud de reconocimiento del régimen retributivo adicional, produciéndose la extinción del derecho a su percepción.
+
+3\. En los casos en que proceda la ejecución de la garantía de acuerdo con lo previsto en este capítulo, la Dirección General de Política Energética y Minas iniciará de oficio un procedimiento cuyo objeto será la ejecución de la garantía o fracción de la garantía que corresponda.
+
+4\. La resolución de reconocimiento del régimen retributivo adicional aprobará, en su caso:
+
+a) El valor de la inversión reconocida a cada grupo i.
+
+b) La vida útil regulatoria durante la cual el grupo tendrá derecho a percibir el régimen retributivo adicional.
+
+c) la instalación tipo asignada necesaria para la determinación de los parámetros técnicos y económicos de liquidación.
+
+d) La potencia sobre la que se reconoce el régimen retributivo adicional y, en su caso, el factor M definido en el anexo VIII.5 que determine la minoración del régimen retributivo adicional derivada de las desviaciones entre la potencia neta inscrita en el registro y la potencia autorizada.
+
+5\. El plazo para dictar y notificar la resolución de reconocimiento del régimen retributivo adicional del grupo será de tres meses. La Dirección General de Política Energética y Minas notificará dicha resolución al interesado, a la Comisión Nacional de los Mercados y la Competencia, al órgano competente para autorizar la instalación y al operador del sistema.
+
+6\. La resolución de reconocimiento del régimen retributivo adicional del grupo será requisito necesario para la aplicación a dicho grupo del régimen retributivo adicional regulado en el presente real decreto.
+
+El régimen retributivo adicional se devengará desde el primer día del mes siguiente al de la inscripción del grupo con carácter definitivo en el registro administrativo de instalaciones de producción de energía eléctrica.
+
+Durante el periodo de tiempo comprendido entre el inicio del vertido y la inscripción del grupo con carácter definitivo en el registro administrativo de instalaciones de producción de energía eléctrica el grupo percibirá, por su energía generada el régimen económico establecido en el artículo 8.
+
+El régimen retributivo adicional de los grupos a los que se les haya concedido nuevamente dicho régimen, sin realizar nuevas inversiones, al haber finalizado su vida útil regulatoria, se devengará desde el primer día del mes siguiente al de la finalización de la extinta vida útil regulatoria. Hasta ese momento, las instalaciones tendrán derecho a la percepción del régimen retributivo adicional que venían percibiendo con anterioridad.
+
+El régimen retributivo adicional por las nuevas inversiones sobre grupos inscritos en el registro administrativo de instalaciones de producción de energía eléctrica devengará desde el inicio de la vida útil regulatoria de la nueva inversión de acuerdo con lo establecido en el anexo IV.
+
+7\. Durante el periodo de tiempo comprendido entre la inscripción del grupo con carácter definitivo en el registro administrativo de instalaciones de producción de energía eléctrica y la aprobación de la resolución de reconocimiento del régimen retributivo adicional, el grupo será liquidado por su energía generada exclusivamente por la cuantía establecida en el artículo 72.1.c)
+
+8\. En los informes de cobertura de la demanda, no se tendrá en cuenta la potencia de aquellas instalaciones cuyo régimen retributivo adicional haya sido extinguido al amparo de lo previsto en este artículo y en el artículo 52, salvo que dichas instalaciones continúen disponibles y participen en el despacho de producción.
+
+##### Artículo 58. Revocación del derecho a la percepción del régimen retributivo adicional.
+
+1\. Si en cualquier momento se constatara el incumplimiento de los condicionados y requisitos establecidos en el artículo 52 y en el anexo VIII, de los requisitos exigidos a las instalaciones adjudicatarias del concurso definido en el artículo 55, o de cualesquiera otros requisitos exigidos en este real decreto para la percepción del régimen retributivo adicional, la Dirección General de Política Energética y Minas podrá iniciar el procedimiento de revocación del derecho a la percepción del régimen retributivo adicional de acuerdo con lo previsto en este artículo.
+
+2\. Asimismo, serán motivos para la revocación del derecho a la percepción del régimen retributivo adicional los siguientes:
+
+a) Si como consecuencia de una inspección o de cualquier otro medio válido en derecho, quedase constatado que no se mantienen las condiciones que sirvieron para otorgar el régimen retributivo adicional.
+
+b) Si en cualquier momento se constata que existe falsedad en las declaraciones responsables o en la restante documentación presentada a la Administración con relación a la percepción del régimen retributivo adicional.
+
+c) El incumplimiento de las demás obligaciones y requisitos previstos en este real decreto.
+
+3\. La revocación del derecho a la percepción del régimen retributivo adicional se producirá a instancia del interesado o de oficio, previa instrucción de un procedimiento que garantizará, en todo caso, la audiencia al interesado.
+
+El plazo máximo para resolver este procedimiento y notificar su resolución será de seis meses desde la fecha del acuerdo de iniciación dictado por la Dirección General de Política Energética y Minas.
+
+La Dirección General de Política Energética y Minas comunicará la resolución de revocación del derecho a la percepción del régimen retributivo adicional a la comunidad autónoma o ciudad autónoma afectada, a la Comisión Nacional de los Mercados y la Competencia y al operador del sistema.
+
+4\. La revocación del derecho a la percepción del régimen retributivo adicional surtirá efectos desde la fecha en que no se hayan cumplido los requisitos para tener derecho a su percepción y supondrá, en su caso, la devolución de las cantidades indebidamente percibidas con los intereses de demora correspondientes. Estas cantidades serán reintegradas y consideradas para la reducción del extracoste de la actividad de producción en los sistemas eléctricos de los territorios no peninsulares, todo ello sin perjuicio del régimen sancionador aplicable.
+
+A estos efectos, el operador del sistema calculará la cuantía correspondiente a la diferencia entre las cantidades percibidas y los derechos de cobro que hubieran correspondido a la instalación si no hubiera sido perceptora de régimen retributivo especifico o adicional, calculado de acuerdo con lo previsto en el artículo 8 y lo comunicará al órgano encargado de las liquidaciones del sistema eléctrico, quien procederá a liquidar, en su caso, las cantidades indebidamente percibidas.
+
+5\. En los informes de cobertura de la demanda, no se tendrá en cuenta la potencia de aquellas instalaciones cuyo régimen retributivo adicional haya sido revocado al amparo de lo previsto en este artículo, salvo que dichas instalaciones continúen disponibles y participen en el despacho de producción.
+
+## TÍTULO V — Adopción de medidas temporales y extraordinarias para garantizar la seguridad de suministro
+
+##### Artículo 59. Retribución por adopción de medidas temporales y extraordinarias para garantizar la seguridad de suministro.
+
+1\. En aquellos casos en los que el operador de sistema ponga de manifiesto riesgos de cobertura de la demanda en el corto plazo, la comunidad o ciudad autónoma afectada deberá, en virtud de lo establecido en el artículo 7.5 de la Ley 24/2013, de 26 de diciembre, solicitar al Ministerio de Industria, Energía y Turismo el reconocimiento de las repercusiones económicas para la adopción de medidas para la garantía del suministro, con carácter previo a su adopción.
+
+Junto con la solicitud, la comunidad o ciudad autónoma deberá indicar el periodo de tiempo, la potencia necesaria, la ubicación de los grupos y en su caso, la tecnología necesaria para cubrir el riesgo de cobertura de la demanda.
+
+2\. Por orden del Ministro de Industria, Energía y Turismo, se reconocerá, en su caso, las repercusiones económicas que pudieran derivarse de la adopción de estas medidas extraordinarias para garantizar la seguridad de suministro para una potencia determinada, según las características técnicas y económicas aprobadas y por un periodo de tiempo determinado.
+
+3\. La autorización administrativa previa de la instalación por parte del órgano competente deberá tener en cuenta la orden indicada en el apartado anterior y tendrá una duración limitada.
+
+4\. Estas instalaciones no serán inscritas en el registro administrativo de instalaciones de producción, ni se incluirán para calcular la cobertura de la demanda y solo serán despachadas en aquellos momentos en que exista riesgo cierto para la seguridad del suministro, por lo que no requerirán las resoluciones de reconocimiento de datos técnicos o económicos reguladas en los artículos 11 y 12.
+
+5\. La comunidad o ciudad autónoma a la que se le hayan reconocido las repercusiones económicas que pudieran derivarse de la adopción de estas medidas extraordinarias para garantizar la seguridad de suministro, dará traslado a la Dirección General de Política Energética y Minas, con carácter anual, de la solicitud del titular de la instalación de reconocimiento de dichas repercusiones económicas, junto con una auditoría de los costes en que se haya incurrido. A estos efectos, sólo se tendrán en cuenta aquellos costes e inversiones que respondan exclusivamente a la generación de energía eléctrica.
+
+La Dirección General de Política Energética y Minas, previa comprobación del cumplimiento de los requisitos establecidos en la orden de la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico, procederá a aprobar, si procede, en la resolución definida en el artículo 72.3.e), la cuantía definitiva de los costes de la instalación de grupos por adopción de medidas temporales y extraordinarias para garantizar la seguridad de suministro. En dicha cuantía se podrá incorporar el coste financiero motivado por el retraso entre el cierre de la liquidación de las actividades reguladas del sector eléctrico del ejercicio en el que se aprobaron las medidas extraordinarias, de acuerdo a la Ley 24/2013, de 26 de diciembre, y la fecha de aprobación de la liquidación definitiva de dicho ejercicio. El valor empleado para el cálculo de los costes financieros será el valor del Euríbor a un año del último día hábil del mes anterior a que se produzca la firma de la resolución incrementado en 50 puntos básicos.
+
+La energía correspondiente a estas instalaciones y sus costes se integrará como un servicio de ajuste por garantía de suministro y seguridad en cada sistema.
+
+El órgano encargado de las liquidaciones del sector eléctrico integrará en sus liquidaciones este coste como extracoste de la actividad de producción en los sistemas eléctricos de los territorios no peninsulares.
+
+> Se modifica el apartado 5 por la disposición final 1.5 del Real Decreto 446/2023, de 13 de junio. [Ref. BOE-A-2023-14048](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14048)
+
+## TÍTULO VI — Procedimiento de despacho y liquidación de la generación.
+
+##### Artículo 60. Despacho de producción.
+
+1\. A las instalaciones de producción ubicadas en los sistemas eléctricos aislados de los territorios no peninsulares les será de aplicación, siempre que estos territorios no se integren en el mercado de producción peninsular, lo establecido en el presente real decreto relativo al despacho de producción.
+
+2\. Sin perjuicio de lo establecido en el Real Decreto 1623/2011, de 14 de noviembre, por el que se regulan los efectos de la entrada en funcionamiento del enlace entre el sistema eléctrico peninsular y el balear, y se modifican otras disposiciones del sector eléctrico para el sistema eléctrico aislado Mallorca-Menorca parcialmente conectado con la península, se establece en cada uno de los sistemas aislados de los territorios no peninsulares un despacho por costes variables en el que participarán las instalaciones de producción, los comercializadores y consumidores directos, directamente o a través de sus representantes.
+
+El despacho consistirá en una programación semanal, diaria, intradiaria y de desvíos en tiempo real, que darán como resultado una programación final del despacho de producción.
+
+3\. El despacho de unidades de producción se gestionará por el operador del sistema según un orden de mérito económico de los costes variables de despacho de los grupos, teniendo en cuenta las restricciones técnicas de cada sistema, las particularidades en el despacho de producción establecidas para las instalaciones de bombeo, así como las reservas de potencia necesarias para garantizar la calidad del servicio, y, en su caso, las limitaciones de funcionamiento autorizadas a los grupos.
+
+Las limitaciones de funcionamiento de los grupos serán autorizadas por resolución de la Dirección General de Política Energética y Minas, previa solicitud justificada del titular de los grupos. En la resolución se establecerá el tipo de limitación aplicable, y el periodo en el que dicha limitación tendrá efectos.
+
+La indisponibilidad derivada del cumplimiento de las limitaciones de funcionamiento que hayan sido autorizadas no se computarán a efectos de determinar la retribución por costes fijos establecida en los artículos 22 y 29, ni para calcular el índice de funcionamiento reducido.
+
+Asimismo, podrá requerirse informe de valoración técnica y económica del operador del sistema.
+
+4\. Por Orden del Ministro de Industria, Energía y Turismo, a propuesta de la Comisión Nacional de los Mercados y la Competencia, se establecerá un incentivo al operador del sistema, positivo o negativo, que fomente la eficiencia y calidad en la gestión del despacho de estos sistemas.
+
+A estos efectos, se define un Indicador de Eficiencia en la gestión del despacho y un Indicador de Calidad de Servicio, así como un objetivo mínimo de eficiencia y unos objetivos mínimos de calidad que se obtendrán de acuerdo con lo establecido en el anexo IX.
+
+Las desviaciones positivas o negativas entre el Indicador de Eficiencia en el año n y el objetivo mínimo de eficiencia para dicho año derivadas de la explotación real, y entre los indicadores de calidad de servicio y los objetivos mínimos de calidad, serán la base de cálculo del incentivo, considerándose para incrementar o disminuir la retribución del operador del sistema.
+
+> Se modifica el apartado 3 por la disposición final 3.2 del Real Decreto 647/2020, de 7 de julio. [Ref. BOE-A-2020-7439](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7439)
+
+##### Artículo 61. Costes variables de generación a efectos de despacho.
+
+1\. El coste variable de generación a efectos de despacho de cada grupo será el coste que se utilizará por el operador del sistema en la realización del despacho de unidades de producción.
+
+De acuerdo con lo dispuesto en el artículo 26.2 de la Ley 24/2013, de 26 de diciembre, la energía eléctrica procedente de instalaciones que utilicen fuentes de energía renovable y, tras ellas, la de las instalaciones de cogeneración de alta eficiencia, atendiendo a la definición prevista en el artículo 2 del Real Decreto 616/2007, de 11 de mayo, sobre fomento de la cogeneración, ya sean de categoría A o de categoría B, tendrán prioridad de despacho a igualdad de condiciones económicas, sin perjuicio de los requisitos relativos al mantenimiento de la fiabilidad y la seguridad del sistema establecidos en este real decreto.
+
+2\. Sin perjuicio de lo establecido en el apartado 5, el coste variable de generación a efectos de despacho de los grupos de la categoría A de los sistemas eléctricos aislados de los territorios no peninsulares que tengan reconocido el régimen retributivo adicional, está compuesto por los siguientes conceptos de coste:
+
+a) Costes variables de combustible de despacho.
+
+b) Costes de arranque de despacho.
+
+c) Costes variables de operación y mantenimiento de despacho.
+
+d) Costes de banda de regulación de despacho.
+
+e) Coste de los derechos de emisión de despacho.
+
+f) Reducción de costes variables por ingresos o costes evitados ajenos a la producción eléctrica, en su caso. En aquellas tecnologías en las que se establezca una reducción de la retribución por ingresos ajenos a la producción eléctrica, el coste variable de generación a efectos de despacho tendrá en cuenta una reducción de costes variables por ingresos ajenos a la producción eléctrica, en los términos que se establezcan por Orden del Ministro de Industria, Energía y Turismo.
+
+3\. Para las instalaciones categoría B se establece un coste variable instrumental de despacho de 10 €/MWh producido. Este valor podrá actualizarse por orden del Ministro de Industria, Energía y Turismo en función de la variación de los costes de explotación de estas tecnologías.
+
+4\. Los costes variables de despacho de las instalaciones categoría A que no tengan derecho a la percepción del régimen retributivo adicional serán los valores que los titulares de dichas instalaciones comuniquen al operador del sistema a estos efectos.
+
+5\. Los costes variables de despacho de las centrales cuyo régimen retributivo adicional haya sido otorgado al amparo de los concursos para instalación de nueva capacidad establecidos en los artículos 55 y 56, serán los que se determinen en la resolución de dicho concurso.
+
+##### Artículo 62. Costes variables de combustible de despacho.
+
+Los costes variables de combustible de despacho de cada grupo i, para un periodo determinado, se calcularán como sumatorio de los costes variables de combustible de despacho de dicho grupo en cada hora h de dicho periodo.
+
+Los costes variables de combustible de despacho de cada grupo generador i en cada hora h del sistema eléctrico aislado j, CcombD(i,h,j), expresado en €, se calcularán de acuerdo con la siguiente expresión:
+
+CcombD(i,h,j) = [A(i) + B(i) * p(i,h,j) + C(i) * p<sup>2</sup>(i,h,j)] * pr(i,h,j)
+
+Siendo:
+
+p(i,h,j): Potencia horaria prevista en MW en barras de central en la hora h por el grupo i del sistema eléctrico aislado j en estado de marcha.
+
+A (i), B (i) y C (i): Datos técnicos de despacho, expresados en th/h, th/h.MW y th/h.MW2, respectivamente. Serán los coeficientes de la curva de funcionamiento según el nivel de carga y tomarán los valores incluidos en el registro administrativo de instalaciones de producción de energía eléctrica.
+
+pr(i,h,j): Precio medio de la termia de los combustibles utilizados por el grupo i en estado de marcha del sistema eléctrico aislado j en la hora h, valorado en €/th PCI, calculado de acuerdo con lo indicado en el artículo 40.
+
+##### Artículo 63. Costes de arranque de despacho.
+
+Los costes de arranque de cada grupo i, son los asociados al proceso por el cual el grupo pasa de un estado de marcha en condiciones de carga mínima, a otro estado de marcha en las mismas condiciones, con un estado intermedio de paro. Este concepto incluye tanto el consumo de combustible como el coste adicional de operación y mantenimiento asociado al arranque del grupo.
+
+Los costes de arranque de despacho se obtienen de multiplicar los costes unitarios de arranque de despacho por el número de arranques del grupo.
+
+Los costes unitarios de arranque de despacho de un grupo i del sistema eléctrico aislado j, CarD(i,j), expresados en €/arranque, se calculan de acuerdo a la siguiente formulación:
+
+CarD (i,j) = A’(i) * [1- exp(-t/B’ (i))] * prar (i, j) + D(i)
+
+Siendo:
+
+t: Tiempo transcurrido desde la última parada, en horas.
+
+A’(i) y B’(i): Datos técnicos de despacho, expresados en th y h, respectivamente. Serán los coeficientes de la curva de arranque de cada grupo i y tomarán los valores incluidos en el registro administrativo de instalaciones de producción de energía eléctrica.
+
+D(i): Dato económico que refleja los costes de operación y mantenimiento adicionales debidos al arranque, valorado en €/arranque. Será el aprobado por la Dirección General de Política Energética y Minas de acuerdo con lo establecido en el artículo 12.
+
+prar(i,j): Precio medio de la termia de los combustibles utilizados por el grupo i en periodos de arranque parada, valorado en €/th PCI, calculado de acuerdo con lo indicado en el artículo 40.
+
+##### Artículo 64. Costes variables de operación y mantenimiento de despacho.
+
+Los costes variables de operación y mantenimiento de despacho son los asociados a los costes de las revisiones programadas de cada grupo que se realizan en función de sus horas de funcionamiento. Se incluyen en este concepto los consumos de fungibles y aditivos.
+
+Los costes variables de operación y mantenimiento de despacho de un grupo, expresados en euros, se calcularán para un periodo determinado como producto de la energía generada prevista medida en barras de central en dicho periodo por los costes variables de operación y mantenimiento unitarios del grupo.
+
+Los costes de operación y mantenimiento unitarios de despacho de cada grupo, O&M<sub>VDi</sub>, expresados en €/MWh, serán los aprobados por la Dirección General de Política Energética y Minas de acuerdo con lo establecido en el artículo 12.
+
+##### Artículo 65. Costes de banda de regulación de despacho.
+
+Los costes de banda de regulación de despacho en una hora, h, para cada grupo i del sistema j, CbrD(i,h,j), serán el 1 por ciento del coste variable de combustible de despacho, CcombD(i,h,j), del grupo.
+
+##### Artículo 66. Coste de los derechos de emisión de despacho.
+
+El coste de los derechos de emisión de despacho de un grupo, expresado en euros, para un periodo determinado, se calculará como sumatorio del coste de los derechos de emisión de despacho horario, (C<sub>CO2Dh</sub>).
+
+El coste de los derechos de emisión de despacho horario en euros es:
+
+*C<sub>CO2Dh</sub> = p(i,h,j) *P<sub>CO2D</sub> *fie * Cor_p * Cor_e<sub>D</sub>*
+
+Siendo:
+
+p(i,h,j): Potencia horaria prevista en MW en barras de central en la hora h aportada por el grupo i del sistema eléctrico aislado j en estado de marcha.
+
+P<sub>CO2D</sub>: Precio de los derechos de emisión de despacho, expresado en €/tCO<sub>2</sub>. El precio de los derechos de emisión de despacho será publicado por el operador del sistema y se calculará mensualmente como la media del precio diario de las subastas de dichos derechos en el mercado secundario de derechos de emisión de la plataforma Común celebradas en el año móvil precedente.
+
+fie: Factores de emisión (fie) establecidos en el apartado 4.a del Plan Nacional de Asignación de derechos de emisión de gases de efecto invernadero, 2008-2012, aprobado por Real Decreto 1370/2006, de 24 de noviembre, o norma que lo sustituya.
+
+Este coste no será de aplicación a las tecnologías no definidas en el Plan Nacional de Asignación de derechos de emisión de gases de efecto invernadero vigente.
+
+Cor_p: Factor de correlación entre energía bruta, a la que están referidos los anteriores factores de emisión (fie), y la energía neta referenciada a barras de central, siendo estos valores de correlación los establecidos en el anexo XVII.
+
+Cor_e<sub>D</sub>: Factor de correlación entre los anteriores factores de emisión (fie) establecidos en el apartado 4.a) del Plan Nacional de Asignación de derechos de emisión de gases de efecto invernadero, 2008-2012, y los niveles de emisiones que registran los grupos de generación. Estos valores a efectos de despacho, serán aprobados mediante orden ministerial.
+
+> Se modifica por la disposición final 1.6 del Real Decreto 446/2023, de 13 de junio. [Ref. BOE-A-2023-14048](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14048)
+
+##### Artículo 67. Funciones del operador del sistema.
+
+El operador del sistema, para la correcta gestión del despacho de producción, realizará las funciones siguientes:
+
+a) Calcular el coste variable de generación a efectos de despacho de las instalaciones de producción teniendo en cuenta lo establecido en el artículo 61 y el coste de los servicios de ajuste.
+
+b) Realizar las programaciones semanales, diarias, intradiarias y finales del despacho de producción en cada sistema eléctrico aislado, basándose en los costes variables de generación a efectos de despacho.
+
+c) Calcular la disponibilidad de cada grupo generador que intervenga en el despacho de producción, verificar la potencia disponible y aprobar los planes de indisponibilidad programada.
+
+d) Asegurar la cobertura de la demanda en tiempo real, gestionando las reservas de regulación y resolviendo las restricciones técnicas que pudieran existir.
+
+e) Calcular el coste de generación de liquidación de cada grupo de acuerdo con lo indicado en el artículo 72.3.a.
+
+f) Calcular el precio final horario de generación en cada sistema eléctrico aislado, según lo establecido en el artículo 71 y publicarlo en su sede electrónica.
+
+g) Calcular la retribución por costes variables de generación y la energía programada de cada grupo, para cada hora en el primer, segundo y tercer despacho de la programación semanal, diaria, intradiaria y final.
+
+h) Informar a la Comisión Nacional de los Mercados y la Competencia y a la Dirección General de Política Energética y Minas de los costes de generación de liquidación y la energía programada de cada grupo para cada hora en el primer, segundo y tercer despacho de la programación semanal, diaria, intradiaria y final, con una periodicidad mensual para la retribución por costes variables y anual para la retribución por costes fijos. La información estará desagregada en función de cada uno de los componentes que determinan cada concepto de coste especificando el número de arranques de cada grupo.
+
+i) Realizar la liquidación del despacho de producción y la comunicación de los pagos y cobros.
+
+j) Verificar que las instalaciones cumplen con los requisitos técnicos para poder estar dadas de alta en el despacho y gestionar las garantías por las compras y ventas de energía de los sujetos que intervengan en cada sistema eléctrico aislado de acuerdo con lo establecido en la normativa de aplicación.
+
+k) Comunicar a la Comisión Nacional de los Mercados y la Competencia y a la Dirección General de Política Energética y Minas las liquidaciones definitivas de la energía adquirida por el conjunto de la demanda de cada sistema eléctrico aislado en cada hora, así como la energía generada en cada hora por cada uno de los grupos que participen en el despacho de producción. Asimismo especificará los desvíos tanto de generación como de demanda respecto a las previsiones por unidad de programación.
+
+l) Remitir a la Dirección General de Política Energética y Minas y a la Comisión Nacional de los Mercados y la Competencia la información relativa al Indicador de Eficiencia y a los indicadores de calidad establecidos en el artículo 60.
+
+m) Revisar, coordinar y aprobar los planes de mantenimiento de las instalaciones de generación y transporte, así como comunicar a las comunidades autónomas de Canarias y las Illes Balears y a las ciudades de Ceuta y Melilla sus planes correspondientes.
+
+n) Elaborar y coordinar los planes de seguridad, emergencia y reposición del servicio, entre otros.
+
+ñ) Realizar cualesquiera otras funciones que en estos sistemas se le asignen por la normativa vigente.
+
+##### Artículo 68. Información a facilitar al operador del sistema para el despacho de producción.
+
+1\. Las empresas productoras de energía eléctrica comunicarán al operador del sistema para cada uno de los grupos de generación, con la periodicidad prevista en el artículo 69.2, la información necesaria para el ejercicio de sus funciones que, al menos, será la siguiente:
+
+a) En el caso de los grupos de la categoría A:
+
+1.º Disponibilidad horaria, incluyendo la indisponibilidad por limitaciones medioambientales o condicionantes adicionales en el funcionamiento de los generadores para el horizonte de programación.
+
+2.º Capacidad de contribución a la potencia rodante de regulación primaria, secundaria y terciaria.
+
+3.º En los grupos de bombeo, adicionalmente a la información anterior, remitirán las cotas y volúmenes almacenados en los embalses.
+
+4.º En su caso, necesidades de modificación de la mezcla de combustible autorizada según lo contemplado en el artículo 40.
+
+5.º Para las instalaciones de cogeneración, la potencia máxima a entregar con el mínimo consumo compatible con el proceso industrial asociado y mínima potencia a entregar compatible con el proceso asociado al funcionamiento en régimen normal.
+
+La información de la potencia neta, el mínimo técnico ordinario y extraordinario, las rampas de subida y bajada de potencia, los tiempos de arranque, las curvas de arranque de despacho, las curvas de costes variables de combustible de despacho, los costes de operación y mantenimiento adicionales debidos al arranque de despacho y los costes de operación y mantenimiento unitarios de despacho de cada grupo, utilizada por el operador del sistema para llevar a cabo el despacho de producción será la que conste en el registro administrativo de las instalaciones de producción de energía eléctrica del Ministerio de Industria, Energía y Turismo. Los titulares de las instalaciones de producción deberán comunicar al operador del sistema las modificaciones autorizadas que se produzcan en dicho registro.
+
+b) En el caso de instalaciones categoría B:
+
+1.º Disponibilidad horaria.
+
+2.º Potencia neta o, para aquellas instalaciones para las que no se haya definido dicha potencia en la normativa, la potencia instalada definida en el artículo 3 del Real Decreto 413/2014, de 6 de junio.
+
+La potencia neta será la aprobada por la Dirección General de Política Energética y Minas. Para los casos en que sea necesario, se tomará la potencia instalada incluida en el registro Administrativo de instalaciones de producción de energía eléctrica.
+
+3.º Los programas horarios previstos para el horizonte de programación.
+
+2\. Los comercializadores, los consumidores directos y los generadores para su consumo de servicios auxiliares cuando el saldo neto sea comprador en esa hora, que actúen en cada sistema eléctrico aislado, deberán comunicar al operador del sistema sus previsiones de demanda para cada período de programación horario en el horizonte de programación.
+
+3\. El operador del sistema podrá establecer los medios adecuados para el intercambio de información, los cuales serán publicados en su sede electrónica.
+
+##### Artículo 69. Procedimiento de despacho de la generación.
+
+1\. El operador del sistema programará los grupos hidráulicos no fluyentes, con el objetivo de lograr la optimización económica del sistema a largo plazo, para ello se incorporará como dato de entrada la información proveniente del valor del agua en los embalses.
+
+2\. Programación semanal, diaria e intradiaria:
+
+El operador del sistema realizará una programación semanal de los grupos para cada uno de los sistemas eléctricos aislados de los territorios no peninsulares, que será redefinida en programaciones diarias e intradiarias.
+
+Los desvíos generación-demanda previstos por el operador del sistema o comunicados por los sujetos dentro del propio día, con un horizonte superior a dos horas, darán lugar a la programación intradiaria. La programación intradiaria se comunicará a los sujetos afectados con una antelación superior a una hora. Las modificaciones del despacho diario deberán ser justificadas por el operador del sistema.
+
+Las programaciones se realizarán partiendo de la programación de los grupos de bombeo y de los grupos hidráulicos no fluyentes indicados en el apartado anterior, así como de los datos indicados en el artículo 68, que serán comunicados al operador del sistema por los sujetos con una periodicidad semanal para la programación semanal, diaria para la programación diaria, y, en su caso, horaria para la programación intradiaria. Los citados datos deberán ser remitidos un día antes para la programación semanal y diaria y al menos dos horas antes para la intradiaria.
+
+3\. Las programaciones indicadas en el apartado anterior serán el resultado de aplicar el procedimiento de despacho definido en el anexo X, que incluirá:
+
+a) Un primer despacho, realizado con criterio exclusivamente económico y considerando, en su caso, la limitación de horas de funcionamiento autorizadas de los grupos.
+
+b) Un segundo despacho, realizado con criterio económico y de seguridad.
+
+c) Un tercer despacho, teniendo en cuenta las posibles restricciones impuestas por la red de transporte.
+
+En los sistemas eléctricos aislados conectados con la península, la energía que circule a través de dichos enlaces será integrada en el respectivo despacho de producción según lo establecido en la normativa de aplicación.
+
+4\. Resolución de desvíos generación-demanda en tiempo real.
+
+Los desvíos en tiempo real serán resueltos por el operador del sistema haciendo uso de las asignaciones de reserva de regulación secundaria y terciaria.
+
+5\. La programación final del despacho de producción será la resultante de los ajustes necesarios realizados sobre el tercer despacho de producción diario, y en su caso intradiario, como consecuencia de la resolución de los desvíos en tiempo real definidos en el apartado anterior.
+
+> Se modifica el apartado 3.a) por la disposición final 3.3 del Real Decreto 647/2020, de 7 de julio. [Ref. BOE-A-2020-7439](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7439)
+
+##### Artículo 70. Cálculo del precio de adquisición de la demanda.
+
+1\. Los comercializadores, los consumidores directos y los generadores para su consumo de servicios auxiliares cuando el saldo neto sea comprador en esa hora, y en su caso, los representantes, adquirirán la energía horariamente en el despacho de producción al precio horario de adquisición de la demanda Ph<sub>demanda</sub>(j), expresado en €/MWh, definido en el anexo I.
+
+2\. Adicionalmente al precio de adquisición antes definido, se añadirán los costes de desvíos en los que incurran dichos sujetos, los costes por mecanismos de capacidad, los costes del servicio de gestión de la demanda de interrumpibilidad y los costes para la financiación de la retribución del operador del mercado y del operador del sistema, en los términos previstos en el anexo XI, así como aquellos que se establezcan reglamentariamente.
+
+##### Artículo 71. Cálculo del precio final horario de generación y del extracoste en los sistemas eléctricos aislados de los territorios no peninsulares.
+
+1\. El precio final horario de generación de cada sistema aislado, Ph(j), vendrá determinado por el cociente entre la suma de los costes de servicios de ajuste y de generación de las centrales ubicadas en dicho sistema aislado y el total de la energía por ellas generada, medida en barras de central.
+
+Los costes de generación y de servicios de ajuste se calcularán considerando los siguientes conceptos:
+
+a) Los costes de generación de liquidación obtenidos de aplicar el régimen retributivo adicional definido en el artículo 18 a todas las centrales categoría A con derecho a dicho régimen retributivo.
+
+b) Los costes de generación definidos en el artículo 7 para las instalaciones con derecho a la percepción del régimen retributivo específico.
+
+c) Los costes de generación definidos en los apartados 1 y 2 del artículo 8 de las centrales que participen en el despacho de producción que no tengan reconocido ningún régimen retributivo adicional o específico.
+
+d) Los costes de los servicios de ajuste.
+
+2\. El extracoste de la actividad de producción en los sistemas eléctricos de los territorios no peninsulares será la suma del extracoste de generación en cada uno de los sistemas aislados de dichos territorios no peninsulares, que vendrá determinado por la diferencia entre los costes de generación y de servicios de ajuste referidos en el apartado anterior y los ingresos remanentes derivados de la adquisición de energía por parte de la demanda una vez descontados los conceptos con destino específico de acuerdo a lo establecido en el artículo 72.1.a.
+
+##### Artículo 72. Procedimiento de liquidaciones.
+
+1\. Para la liquidación de la energía en cada uno de los despachos de producción de los territorios no peninsulares, el operador del sistema procederá de acuerdo a lo establecido en este artículo y en el anexo XI:
+
+a) Los ingresos obtenidos en el despacho de producción procedentes de la demanda que tengan un destino específico, tales como los costes del servicio de gestión de la demanda de interrumpibilidad, los costes para la financiación de la retribución del operador del mercado y del operador del sistema y aquellos otros que pudieran establecerse, serán descontados del total de los ingresos obtenidos en el despacho procedentes de la demanda.
+
+b) El operador del sistema liquidará con los ingresos remanentes que se obtengan tras detraer los ingresos con destino específico de acuerdo con lo previsto en el párrafo anterior, a los grupos generadores que operen en estos sistemas y que no que tengan reconocido un régimen retributivo adicional o específico, al régimen económico establecido en el artículo 8.
+
+c) Una vez realizado lo anterior, el operador del sistema liquidará el resto de ingresos entre las instalaciones de producción que tengan reconocido un régimen retributivo adicional o específico proporcionalmente a su energía generada medida en barras de central, con la limitación de ingresos correspondientes a los conceptos de los párrafos a) y c) del artículo 7.1 o, en su caso, los párrafos a) y c) de la disposición adicional décima.1 para las instalaciones con régimen retributivo específico.
+
+El operador del sistema calculará y publicará las liquidaciones mensuales del despacho de producción y sus avances diarios, con la periodicidad, frecuencia y condiciones generales establecidas en los procedimientos del sistema de liquidaciones y garantías de pago de los sistemas eléctricos no peninsulares.
+
+2\. Conforme a lo establecido en la disposición adicional decimoquinta de la Ley 24/2013, de 26 de diciembre, los extracostes derivados de la actividad de producción de energía eléctrica cuando se desarrollen en los sistemas eléctricos aislados de los territorios no peninsulares, serán financiados en un 50 por ciento con cargo a los Presupuestos Generales del Estado.
+
+La cuantía consignada en los Presupuestos Generales del Estado para la compensación del extracoste de la actividad de producción en los sistemas eléctricos de los territorios no peninsulares se liquidará de acuerdo a lo establecido en el Real Decreto 680/2014, de 1 de agosto, por el que se regula el procedimiento de presupuestación, reconocimiento, liquidación y control de los extracostes de la producción de energía eléctrica en los sistemas eléctricos aislados de los territorios no peninsulares con cargo a los Presupuestos Generales del Estado.
+
+La cuantía para la compensación del extracoste de la actividad de producción en los sistemas eléctricos de los territorios no peninsulares con cargo al sistema eléctrico se liquidará de acuerdo a lo establecido en este artículo.
+
+3\. Para cada año natural, a los efectos de la liquidación del extracoste de generación se seguirá el procedimiento recogido a continuación:
+
+a) El operador del sistema calculará:
+
+1.º) Los costes de generación de liquidación obtenidos de aplicar el régimen retributivo adicional definido en el artículo 18 a todas las centrales categoría A con derecho a dicho régimen retributivo sin aplicar la corrección por factura de combustible definida en el artículo 31 e incluyendo una estimación de la retribución por otros costes operativos recogidos en el artículo 36, así como, en su caso, del impuesto especial sobre el carbón que resulte de aplicación de acuerdo con la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+
+2.º) El concepto definido en los párrafos a) y c) del artículo 7.1 de los derechos de cobro de las instalaciones categoría B que tengan reconocido un régimen retributivo específico, así como los costes de desvíos en los que incurran dichas instalaciones.
+
+3.º) Asimismo publicará las liquidaciones definitivas del despacho de producción realizadas, por dicho operador, a cada una de las unidades de programación de producción que integren las citadas instalaciones correspondiente a los 12 meses del año n en un plazo máximo de un mes contado a partir de la publicación del cierre de medidas definitivas.
+
+b) El operador del sistema remitirá a la Dirección General de Política Energética y Minas y a la Comisión Nacional de los Mercados y la Competencia, para cada año natural, la información indicada en el párrafo a) anterior, tanto de costes de generación y de servicios de ajuste como de liquidaciones definitivas, en un plazo no superior a tres meses desde la publicación de la liquidación de despacho definitiva.
+
+c) Los titulares de las centrales que tengan reconocido un régimen retributivo adicional solicitarán a la Dirección General de Política Energética y Minas que apruebe la cuantía definitiva de los costes de generación de liquidación para sus instalaciones en el plazo máximo de un mes desde la publicación por parte del operador del sistema de las liquidaciones con base en medidas definitivas. Esta solicitud irá acompañada de la información requerida en el presente real decreto y será remitida a la Comisión Nacional de los Mercados y la Competencia para informe.
+
+d) El organismo encargado de las liquidaciones del sector eléctrico calculará los derechos de cobro definidos en el párrafo b) del artículo 7.1 correspondientes a cada una de las instalaciones generadoras que tengan reconocido el régimen retributivo específico realizadas con medidas definitivas así como el resto de conceptos establecidos en el presente real decreto.
+
+e) La Dirección General de Política Energética y Minas, a propuesta de la Comisión Nacional de los Mercados y la Competencia y previo informe favorable de la Intervención General de la Administración del Estado, de acuerdo con lo establecido en el artículo 5 del Real Decreto 680/2014, de 1 de agosto, procederá a aprobar la cuantía definitiva de los costes de generación de liquidación para las centrales que tengan reconocido un régimen retributivo adicional, así como la cuantía de los costes de generación de las instalaciones que tengan reconocido un régimen retributivo específico, la cuantía de los costes de los servicios de ajuste y la cuantía del extracoste de la actividad de producción en los sistemas eléctricos de los territorios no peninsulares definido en el artículo 71.2, así como la desviación entre el extracoste reconocido y la compensación que haya sido entregada a cuenta por este concepto, diferenciando las partidas con cargo a Presupuestos Generales del Estado y al sistema eléctrico.
+
+La Comisión Nacional de los Mercados y la Competencia aplicará en su propuesta la corrección por factura de combustible definida en el artículo 31, calculará la retribución por otros costes operativos, teniendo en cuenta la documentación que acredite el pago del Impuesto sobre el valor de la producción de la energía eléctrica derivados de la aplicación de la Ley 15/2012, de 27 de diciembre, e integrará los derechos de cobro definidos en el artículo 7.1 b) correspondientes a las instalaciones generadoras que tengan reconocido el régimen retributivo específico a los cálculos realizados por el operador del sistema de acuerdo a lo establecido en el apartado 3.a).
+
+f) Emitida la resolución de la Dirección General de Política Energética y Minas, el organismo encargado de la liquidación del sector eléctrico procederá a liquidar la desviación entre el extracoste reconocido y la compensación que haya sido entregada a cuenta por este concepto de acuerdo a lo establecido en el Real Decreto 680/2014, de 1 de agosto y la normativa de liquidaciones del sector eléctrico.
+
+4\. Con carácter mensual, se realizarán liquidaciones provisionales a cuenta de la definitiva por el organismo encargado de la liquidación del sector eléctrico de acuerdo con lo establecido en la normativa reguladora del procedimiento de liquidación y lo establecido en este apartado.
+
+a) El operador del sistema calculará los costes definidos en los apartado 3.a).1º y 3.a).2º y publicará las liquidaciones mensuales del despacho de producción realizadas por dicho operador a cada una de las unidades de programación de producción que integren las citadas instalaciones.
+
+Asimismo, remitirá a la Comisión Nacional de los Mercados y la Competencia la información indicada en el párrafo anterior.
+
+b) En cada liquidación mensual el organismo encargado de la liquidación del sector eléctrico abonará con cargo al sistema eléctrico, para cada empresa generadora, la cuantía correspondiente a la diferencia entre la retribución acumulada hasta ese mes, la cuantía liquidada en el despacho de producción por el operador del sistema y la cuantía con cargo a los Presupuestos Generales del Estado correspondiente a los mismos meses conforme a lo previsto en el artículo 4.b) del Real Decreto 680/2014, de 1 de agosto.
+
+En todo caso, la cuantía con cargo al sistema eléctrico no podrá superar la parte proporcional acumulada de la cantidad prevista en la orden del Ministro de Industria, Energía y Turismo que apruebe los peajes de acceso de energía eléctrica del correspondiente año.
+
+> Se modifica el apartado 1.c) por la disposición final 4 del Real Decreto 1183/2020, de 29 de diciembre. [Ref. BOE-A-2020-17278](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17278)
+
+> Se modifican los apartados 1, 3 y 4 por la disposición final 3.4 a 6 del Real Decreto 647/2020, de 7 de julio. [Ref. BOE-A-2020-7439](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7439)
+
+## TÍTULO VII — Régimen económico y administrativo de las instalaciones de bombeo asignadas al operador del sistema en los territorios no peninsulares
+
+##### Artículo 73. Definición de las instalaciones de bombeo asignadas al operador del sistema en los territorios no peninsulares.
+
+Las instalaciones de bombeo asignadas al operador del sistema conforme a lo establecido en el artículo 5 de la Ley 17/2013, de 29 de octubre, serán consideradas a todos los efectos activos pertenecientes a la actividad de operación del sistema, y por tanto, no se inscribirán en el registro administrativo de instalaciones de producción de energía eléctrica y a su producción no le serán de aplicación los peajes de generación.
+
+##### Artículo 74. Procedimiento de asignación de la titularidad.
+
+1\. Cuando se detecte la necesidad de instalar bombeos en un sistema eléctrico aislado por garantía del suministro, seguridad del sistema o integración de energías renovables no gestionables, el operador del sistema lo solicitará a la Dirección General de Política Energética y Minas acompañado de un informe justificativo al efecto.
+
+En este informe, tomando como base las instalaciones de generación existentes, las instalaciones de transporte existentes y planificadas y la demanda prevista, se valorará técnicamente la oportunidad de instalar una central de bombeo y se realizarán diferentes escenarios de implantación de energías renovables conforme establece el anexo VII.3. Asimismo el informe incluirá una propuesta de los valores de la inversión de la instalación, los valores unitarios de operación y mantenimiento variable y de los valores unitarios de la anualidad de operación y mantenimiento fijos de la instalación.
+
+2\. Tras la recepción del informe definido en el apartado anterior, el Ministerio de Industria, Energía y Turismo solicitará informe a la Comisión Nacional de los Mercados y la Competencia. Dicho informe analizará la oportunidad de instalar bombeos en un sistema eléctrico aislado por garantía del suministro, seguridad del sistema o integración de energías renovables no gestionables teniendo en cuenta todos los datos disponibles y en particular, los diferentes escenarios propuestos por el operador del sistema analizándolos desde un punto de vista económico y de afección a los costes del sistema eléctrico, de acuerdo con lo establecido en el anexo VII.3.
+
+3\. Asimismo, tras la recepción del informe definido en el apartado 1, el Ministerio de Industria, Energía y Turismo solicitará informe a la comunidad autónoma o ciudad autónoma afectada, que deberá ser evacuado en el plazo de un mes desde la recepción de la solicitud, para que, en el ejercicio de sus competencias, analice los diferentes escenarios contemplados.
+
+4\. Teniendo en cuenta los informes definidos en los apartados anteriores, el Consejo de Ministros declarará, en su caso, que la instalación de bombeo propuesta sea de titularidad del operador del sistema, al tener como finalidad principal la garantía del suministro, la seguridad del sistema y la integración de energías renovables no gestionables en los sistemas eléctricos aislados de los territorios no peninsulares.
+
+Una vez declarada por el Consejo de Ministros la necesidad de instalar bombeos de titularidad del operador del sistema conforme a lo establecido en el artículo 5 de la Ley 17/2013, de 29 de octubre, por orden del Ministro de Industria, Energía y Turismo se aprobará la potencia de la instalación, las particularidades de su retribución y los siguientes parámetros retributivos:
+
+a) El valor de la inversión de la instalación en el año de su puesta en servicio, VI<sub>i</sub>, diferenciando las inversiones con distinta vida útil regulatoria. Este valor de inversión tendrá la consideración, en su caso, de valor estándar de la inversión de la instalación.
+
+b) El valor unitario de operación y mantenimiento variable.
+
+c) El valor unitario de la anualidad de costes de operación y mantenimiento fijos.
+
+En ningún caso se podrán aprobar valores de la inversión de la instalación, valores unitarios de operación y mantenimiento variable, ni valores unitarios de la anualidad de operación y mantenimiento fijos de la instalación que sean superiores a los especificados en la propuesta remitida por el operador del sistema al amparo de lo previsto en el apartado 1.5. Si transcurrido un periodo superior a un año desde la aprobación de la orden del Ministro de Industria, Energía y Turismo de fijación de parámetros retributivos, no se hubiera dictado autorización administrativa y se hubieran producido circunstancias o hechos que alterasen las condiciones bajo las cuales se dictó la citada orden, el operador del sistema podrá solicitar la modificación de dichos parámetros.
+
+A tal efecto, el operador del sistema remitirá solicitud motivada aportando en su caso una nueva propuesta de valor de inversión, de valor unitario de operación y mantenimiento variable y de valor unitario de la anualidad de costes de operación y mantenimiento fijos.
+
+##### Artículo 75. Régimen de autorización.
+
+1\. A las instalaciones de bombeo que sean asignadas al operador del sistema en los territorios no peninsulares, de acuerdo con el establecido en este título, les serán de aplicación los derechos de acceso y conexión así como el régimen de autorizaciones administrativas establecidas para el resto de instalaciones de bombeo.
+
+2\. Cuando la competencia para la autorización de estas instalaciones sea de la comunidad o ciudad autónoma, ésta deberá comunicar a la Dirección General de Política Energética y Minas la fecha de la autorización de explotación de la instalación, remitiendo copia de todas las autorizaciones otorgadas por la citada comunidad o ciudad autónoma.
+
+##### Artículo 76. Régimen de funcionamiento.
+
+La energía correspondiente a estas instalaciones de bombeo se integrará como un servicio de ajuste por garantía de suministro y seguridad en cada sistema.
+
+Por orden del Ministro de Industria, Energía y Turismo, previo informe de la Comisión Nacional de los Mercados y la Competencia, se fijaran los criterios de explotación de estas instalaciones para su integración en los servicios de ajuste. A estos efectos, el operador del sistema solicitará comentarios a los representantes de todos los sujetos que actúen en el sistema definidos en el artículo 6 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico y propondrá los criterios de explotación al Ministerio de Industria, Energía y Turismo acompañados del citado informe de los sujetos.
+
+Mensualmente el operador del sistema informará a la Dirección General de Política Energética y Minas y a la Comisión Nacional de los Mercados y de la Competencia sobre la aplicación de estos criterios en el funcionamiento de las citadas instalaciones de bombeo en cada sistema.
+
+La Comisión Nacional de los Mercados y la Competencia realizará, anualmente, un informe en el que se analice la aplicación de la orden que fije los criterios de explotación de estas instalaciones para su integración en los servicios de ajuste y que, en su caso, proponga modificaciones en la citada norma de tal forma que se salvaguarde la independencia del operador del sistema en su labor de gestor de la red de transporte de electricidad.
+
+##### Artículo 77. Régimen retributivo.
+
+En el plazo máximo de seis meses desde la fecha de la autorización de explotación de la instalación, el operador del sistema deberá solicitar a la Dirección General de Política Energética y Minas el reconocimiento del régimen retributivo de la misma.
+
+Dicha solicitud deberá ir acompañada de la auditoría sobre la inversión realizada así como la documentación que considere necesaria para fijar su retribución. En cualquier caso, la Dirección General de Política Energética y Minas podrá solicitar al operador del sistema la información adicional que considere necesaria.
+
+En la citada resolución se aprobará:
+
+a) El valor de la inversión reconocida al grupo i, calculada, en su caso, según lo establecido en el artículo 26.
+
+b) La vida útil regulatoria durante la cual la instalación tendrá derecho a percibir la retribución prevista en este título.
+
+##### Artículo 78. Procedimiento de liquidación.
+
+El operador del sistema declarará en sus liquidaciones y de forma separada los costes de estas instalaciones. El órgano encargado de las liquidaciones del sector eléctrico integrará en sus liquidaciones este coste como extracoste de la actividad de producción en los sistemas eléctricos en los territorios no peninsulares.
+
+##### Disposición adicional primera. Primer periodo regulatorio.
+
+1\. De acuerdo con lo establecido en la Ley 24/2013, de 26 de diciembre, el primer periodo regulatorio se iniciará a la entrada en vigor del presente real decreto y finalizará el 31 de diciembre de 2019.
+
+2\. La tasa de retribución financiera a aplicar a todas las instalaciones de los sistemas eléctricos aislados de los territorios no peninsulares categoría A que tengan retribución por inversión durante el primer periodo regulatorio, se corresponderá con el rendimiento medio de las cotizaciones en el mercado secundario de las obligaciones del Estado a diez años de los meses de abril, mayo y junio de 2013 incrementada en 200 puntos básicos, de conformidad con la disposición adicional décima.4 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, quedando fijada en 650,3 puntos básicos.
+
+3\. De acuerdo con lo anterior, el valor de la anualidad de la retribución por inversión para el año 2015 (CI<sub>n</sub>) de las instalaciones que tienen reconocido el valor de la inversión a la entrada en vigor del presente real decreto será, desde su entrada en vigor, la establecida en el anexo XII.1
+
+##### Disposición adicional segunda. Valores unitarios de inversión del primer periodo regulatorio.
+
+1\. Durante el primer periodo regulatorio, la inversión prevista para el cálculo de las garantías definidas en el artículo 50 será la obtenida de multiplicar la potencia neta proyectada del grupo por los valores unitarios máximos fijados en el anexo XII.2. En las tecnologías no indicadas en el citado anexo por orden del Ministro de Industria, Energía y Turismo se aprobarán los valores unitarios de referencia definidos en el artículo 26.
+
+2\. El valor de la inversión que se reconozca, en su caso, a las instalaciones con autorización de explotación definitiva de fecha posterior a la entrada en vigor de este real decreto y durante el primer periodo regulatorio, será establecido de la siguiente forma:
+
+a) El valor de la inversión reconocida al grupo i será el valor real de la inversión realizada debidamente auditada, más el 50 por ciento de la diferencia entre el límite máximo y dicho valor real, cuando este sea inferior al límite.
+
+b) El límite máximo se determinará multiplicando la potencia neta del grupo inscrito en el registro administrativo de instalaciones de producción de energía eléctrica por el valor unitario máximo que le corresponda de acuerdo con lo establecido en el anexo XII.2.
+
+Si la citada diferencia fuera negativa, el valor reconocido de la inversión realizada será el que resulte de multiplicar la potencia neta inscrita por el valor unitario máximo fijado en el citado anexo.
+
+El procedimiento para determinar el valor de la inversión reconocida de los grupos cuya tecnología no esté contemplada en el anexo XII.2 se establecerá por orden del Ministro de Industria, Energía y Turismo.
+
+##### Disposición adicional tercera. Valores unitarios de la anualidad de los costes de operación y mantenimiento fijos del primer periodo regulatorio.
+
+Los valores unitarios de la anualidad de operación y mantenimiento fijos de la instalación tipo definidos en el artículo 29 a aplicar durante el primer periodo regulatorio serán los establecidos en el anexo XII.3, sin factor de corrección.
+
+Los valores unitarios de la anualidad de operación y mantenimiento fijos y los factores de corrección a aplicar a los grupos cuya instalación tipo no esté contemplada en el anexo XII.3 se establecerán por orden del Ministro de Industria, Energía y Turismo.
+
+##### Disposición adicional cuarta. Retribución por costes variables durante el primer periodo regulatorio.
+
+1\. Los parámetros técnicos de liquidación, a, b y c de las instalaciones tipo, aplicables durante el primer periodo regulatorio, son los establecidos en el anexo XII.4.
+
+2\. Los parámetros a’(i), b’(i) de las instalaciones tipo, aplicables durante el primer periodo regulatorio, son los establecidos en el anexo XII.5.
+
+3\. La retribución por costes variables de operación y mantenimiento de funcionamiento definida en el artículo 35.1, se calculará, en el primer periodo regulatorio, a partir de los valores unitarios de operación y mantenimiento variable de liquidación de las instalaciones tipo definidos en el anexo XII.6.
+
+4\. Los parámetros económicos «d» de las instalaciones tipo aplicables durante el primer periodo regulatorio, son los establecidos en el anexo XII.7.
+
+5\. Los valores de los parámetros técnicos y económicos de liquidación de las instalaciones tipo que no estén contemplados en los citados anexos se definirán por orden del Ministro de Industria, Energía y Turismo.
+
+##### Disposición adicional quinta. Liquidación de los ejercicios 2012, 2013 y 2014.
+
+El operador del sistema calculará los costes de generación de liquidación definidos en el artículo 71 para cada uno de los grupos en cada territorio no peninsular, para los años 2012, 2013 y 2014 aplicando la metodología y parámetros establecidos en la disposición transitoria séptima y los comunicará a la Comisión Nacional de los Mercados y la Competencia en el plazo máximo de tres meses desde la fecha de entrada en vigor de este real decreto.
+
+##### Disposición adicional sexta. Mandatos a la Comisión Nacional de los Mercados y la Competencia.
+
+1\. En el plazo de seis meses desde la entrada en vigor del presente real decreto, la Comisión Nacional de los Mercados y la Competencia remitirá a la Secretaría de Estado de Energía una propuesta de valores unitarios de referencia para el cálculo del valor estándar de inversión, y de datos técnicos y económicos que determinan los costes fijos y variables de generación de despacho y de parámetros técnicos y económicos de la instalación tipo a aplicar a las instalaciones de producción compuestas por turbinas de gas que comparten alternador.
+
+2\. Asimismo, en el plazo de un año desde la entrada en vigor del presente real decreto, la Comisión Nacional de los Mercados y la Competencia remitirá a la Secretaría de Estado de Energía:
+
+a) Una propuesta de costes de logística de los combustibles en cada uno de los sistemas eléctricos aislados, acompañada de un estudio que los justifique. A la vista de dicha propuesta, por orden del Ministro de Industria, Turismo y Comercio se revisarán los costes de logística establecidos en la disposición transitoria tercera.5.
+
+b) Una propuesta de incentivo al operador del sistema y una propuesta de objetivos mínimos de calidad (OCSNIEPI, OCSTIEPI,) para cada sistema aislado j según la definición del anexo IX, a los efectos de lo establecido en el artículo 60.
+
+##### Disposición adicional séptima. Mandatos al operador del sistema.
+
+1\. En el plazo de seis meses desde la entrada en vigor de este real decreto, el operador del sistema deberá remitir a la Secretaría de Estado de Energía:
+
+a) Una propuesta de procedimiento de prueba de mínimo técnico ordinario y extraordinario de las centrales según la definición dada en la disposición adicional segunda de la Orden IET/843/2012, de 25 de abril, por la que se establecen los peajes de acceso a partir de 1 de abril de 2012 y determinadas tarifas y primas de las instalaciones del régimen especial.
+
+b) Una propuesta de procedimiento de pruebas de rendimiento para la determinación de los datos técnicos de los costes variables de las instalaciones de producción compuestas por turbinas de gas que comparten alternador, pertenecientes a los sistemas eléctricos de los territorios no peninsulares, de forma que se tenga en cuenta la influencia mutua que se produce en el funcionamiento de estas turbinas debido a dicha configuración.
+
+c) Una propuesta de perfiles a aplicar a los consumidores que no dispongan de medida horaria en cada territorio no peninsular.
+
+d) Una propuesta de los períodos horarios y de los factores de estacionalidad que se aplican para la determinación del valor de la retribución por coste horario fijo para cada grupo en una hora concreta.
+
+e) Una propuesta de la metodología para obtener el precio de la energía en la hora h a considerar en la fijación de los precios voluntarios para el pequeño consumidor en cada territorio no peninsular de acuerdo a lo establecido en la disposición final cuarta.
+
+f) A los efectos de lo establecido en el artículo 60.4, el operador del sistema informará a la Secretaría de Estado de Energía y a la Comisión Nacional de los Mercados y la Competencia,, del consumo específico de cada grupo generador para cada hora del mes, en termias por kilovatio hora producido, y del consumo específico estimado de dichos grupos, en termias por kilovatio hora, teniendo exclusivamente en cuenta la energía despachada para cubrir la demanda, esto es, sin tener en cuenta las reservas de potencia, regulación, control de tensión, previsión de desvíos en los programas de generación y en demanda y restricciones de redes, para los años 2012, 2013 y 2014.
+
+Asimismo el operador del sistema informará a la a la Secretaría de Estado de Energía y a la Comisión Nacional de los Mercados y la Competencia del número de interrupciones imprevistas superiores a 3 minutos asociadas a generación y de la duración de dichas interrupciones por mes, durante los años 2012, 2013 y 2014.
+
+2\. El operador del sistema deberá remitir igualmente, en el plazo de dos meses desde la entrada en vigor de este real decreto:
+
+a) Una metodología para la elaboración de los informes de cobertura de la demanda, del informe de necesidad de bombeos y para la determinación de la potencia necesaria propuesta, la potencia adicional propuesta y las necesidades especiales de disponibilidad de equipos de generación, en el que incluya el método estadístico utilizado y las variables a tener en cuenta, de tal forma que se garantice que dicho cálculo se puede replicar. Dicha metodología deberá cumplir lo indicado en el anexo VII.
+
+b) El primer informe anual de cobertura de la demanda, sin perjuicio de los plazos establecidos en el artículo 44.
+
+3\. En el plazo de tres meses desde la entrada en vigor de este real decreto, el operador del sistema remitirá a la Secretaría de Estado de Energía:
+
+a) Un certificado con la relación de los grupos que, estando inscritos con carácter provisional en el registro administrativo de instalaciones de producción del Ministerio de Industria, Energía y Turismo, cumplen con los requisitos técnicos para poder estar dado de alta en el despacho y con los procedimientos del sistema de liquidaciones y garantías de pago que rigen en estos sistemas, al objeto de que se proceda a inscribir con carácter definitivo en el citado registro a aquellos grupos que cumplan los requisitos establecidos.
+
+b) Una propuesta de modificación de los procedimientos de operación de los sistemas eléctricos de los territorios no peninsulares cuyo contenido sea necesario adaptar para recoger las modificaciones introducidas por el presente real decreto. Dicha propuesta incluirá el plazo necesario para adaptar los sistemas de información del operador del sistema y de los sujetos.
+
+4\. En el plazo de un mes desde la entrada en vigor de este real decreto, el operador del sistema remitirá a la a la Secretaría de Estado de Energía:
+
+a) La relación de grupos que constituyen cada central de generación en los sistemas eléctricos aislados de los territorios no peninsulares, entendiendo por central aquella cuyos grupos comparten línea de evacuación y puntos de conexión.
+
+b) Una propuesta de procedimiento de liquidación de la energía en los sistemas eléctricos aislados de los territorios no peninsulares que desarrolle los principios introducidos por este real decreto.
+
+##### Disposición adicional octava. Instalaciones de producción que hayan finalizado su vida útil.
+
+1\. Los titulares de instalaciones de producción que habiendo finalizado su vida útil regulatoria en la fecha de la convocatoria del primer procedimiento de concurrencia competitiva, según su definición dada en la Orden ITC/914/2006, de 30 de marzo, continúen en explotación, deberán solicitar a la Dirección General de Política Energética y Minas que se les otorgue nuevamente el régimen retributivo adicional en el plazo de dos meses desde la publicación de la primera resolución de la persona titular de la Secretaría de Estado de Energía por la que se efectúe la convocatoria para el otorgamiento de resolución favorable de compatibilidad y establezca la potencia necesaria a que se refiere la disposición transitoria primera.2.
+
+Aquellas instalaciones que no soliciten que se les otorgue nuevamente el régimen retributivo adicional en el plazo establecido perderán, desde dicho momento, el derecho al régimen retributivo adicional, percibiendo por su energía generada el régimen económico establecido en el artículo 8.
+
+El procedimiento para el otorgamiento, en su caso, de la resolución de favorable compatibilidad será el establecido en la citada disposición transitoria primera, con las particularidades previstas en los artículos 53 y 54 para las instalaciones que realizan nuevas inversiones y que finalizan su vida útil regulatoria, respectivamente.
+
+2\. A estos efectos, los titulares de las instalaciones de producción que hayan finalizado su vida útil deberán remitir junto con la solicitud, las nuevas inversiones que, en su caso, hayan realizado desde el 1 de enero de 2012, debidamente auditadas.
+
+3\. Aquellas instalaciones que no obtengan la resolución favorable de compatibilidad dejarán de tener derecho a percibir el régimen retributivo adicional, desde la fecha de la resolución, percibiendo por su energía generada el régimen económico establecido en el artículo 8.
+
+4\. Si el informe anual de cobertura de la demanda establecido en la disposición adicional séptima.2.b) pone de manifiesto que no es necesaria potencia adicional en un sistema eléctrico aislado, no se convocará el procedimiento de concurrencia competitiva y las instalaciones de producción que hayan finalizado su vida útil perderán el derecho al régimen retributivo adicional, percibiendo por su energía generada el régimen económico establecido en el artículo 8. La pérdida del derecho al régimen retributivo adicional será declarada por el Director General de Política Energética y Minas mediante resolución desfavorable de compatibilidad, previo trámite de audiencia.
+
+5\. Desde que entre en vigor el presente real decreto y hasta que surta efectos la resolución de compatibilidad, los titulares de las instalaciones percibirán la retribución por costes variables de generación y la retribución por operación y mantenimiento fijo definida en el título IV este real decreto.
+
+> Se modifica el párrafo primero del apartado 1 por la disposición final 1.7 del Real Decreto 446/2023, de 13 de junio. [Ref. BOE-A-2023-14048](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14048)
+
+##### Disposición adicional novena. Remisión de información.
+
+1\. Los sujetos que realicen cualquiera de las actividades con retribución regulada, de acuerdo a lo dispuesto en el presente real decreto y sus normas de desarrollo, deberán facilitar al Ministerio de Industria, Energía y Turismo y a la Comisión Nacional de los Mercados y la Competencia, la información que les sea requerida por éstos para el ejercicio de sus funciones, en formato electrónico que permita el tratamiento de los datos en hoja de cálculo y con el desglose que se establezca por Resolución del Director General de Política Energética y Minas o mediante circular de la citada Comisión.
+
+En particular, deberán facilitar la información relativa a las condiciones que determinaron el otorgamiento de sus retribuciones, así como la información relativa a los costes que sea necesaria para el adecuado establecimiento y revisión de los mismos.
+
+2\. En el plazo de tres meses desde la entrada en vigor de este real decreto, los titulares de instalaciones de producción en los territorios no peninsulares deberán remitir a la Comisión Nacional de los Mercados y la Competencia los valores auditados a partir de 1 de enero de 2011 definidos en la Resolución de la Dirección General de Política Energética y Minas de 1 de diciembre de 2010, por la que se establecen los criterios para la realización de auditorías de los grupos de generación en régimen ordinario de los sistemas eléctricos insulares y extrapeninsulares, incluyendo además el detalle de los márgenes añadidos por las operaciones intragrupo.
+
+3\. La información económica auditada que se remita en virtud de las resoluciones vigentes que establezcan los criterios para la realización de auditorías de los grupos de generación en los sistemas eléctricos aislados de los territorios no peninsulares, detallarán los gastos y comisiones que la empresa del grupo añade, en su caso, al coste de las facturas de los proveedores para las operaciones realizadas con otras empresas del grupo, en particular, los aprovisionamientos de combustible.
+
+##### Disposición adicional décima. Retribución de las instalaciones de producción de energía eléctrica con régimen económico primado otorgado con anterioridad a la entrada en vigor del Real Decreto-ley 9/2013, de 12 de julio, y de las instalaciones con régimen retributivo específico al amparo de la disposición adicional cuarta del Real Decreto 413/2014, de 6 de junio.
+
+1\. A las instalaciones que a la entrada en vigor del Real Decreto-ley 9/2013, de 12 de julio, por el que se adoptan medidas urgentes para garantizar la estabilidad financiera del sistema eléctrico, tuvieran derecho a un régimen económico primado, así como a aquellas a las que les sea otorgado el régimen retributivo específico al amparo de la disposición adicional cuarta del Real Decreto 413/2014, de 6 de junio, no les serán de aplicación los conceptos retributivos del régimen económico previstos en el artículo 7.1.
+
+Estas instalaciones percibirán los siguientes conceptos retributivos:
+
+a) El producto de la energía vendida en la hora h medida en barras de central por el grupo generador por el precio resultante de calcular la media ponderada del precio marginal horario del mercado diario y de los precios marginales horarios de cada una de las sesiones del mercado intradiario.
+
+b) En su caso, el régimen retributivo específico establecido en el título IV del Real Decreto 413/2014, de 6 de junio, por el que se regula la actividad de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos.
+
+c) En su caso, las contraprestaciones económicas que se establezcan por su participación en los servicios de ajuste de estos sistemas.
+
+2\. A efectos del cálculo del precio horario de generación de cada sistema eléctrico aislado definido en el artículo 71.1 de este real decreto, para las instalaciones definidas en el apartado anterior, se aplicarán, en lugar de los costes de generación definidos en el artículo 7, los establecidos en los apartados a) y b) anteriores.
+
+##### Disposición adicional undécima. Conformidad con el ordenamiento comunitario.
+
+El régimen retributivo y el procedimiento de despacho previstos en los títulos IV, VI y VII, y en las correspondientes disposiciones de la parte final de este real decreto quedarán subordinados en su plena y definitiva eficacia a la inexistencia de objeciones por parte de la Comisión Europea en lo que a su compatibilidad con el ordenamiento comunitario concierne.
+
+##### Disposición adicional duodécima. Comunicación y notificación por vía electrónica.
+
+1\. Conforme a lo previsto en el artículo 27.6 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, las solicitudes, escritos y comunicaciones relativas a los distintos procedimientos relacionados en el apartado 2, se presentarán exclusivamente por vía electrónica, con certificado electrónico, en la sede electrónica del Ministerio de Industria, Energía y Turismo.
+
+Esta obligación comprenderá la práctica de notificaciones administrativas por medios electrónicos, de conformidad con los artículos 32.1 y 40 del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, que se realizará mediante comparecencia electrónica en la sede electrónica del Ministerio de Industria, Energía y Turismo, accesible por los interesados mediante certificado electrónico.
+
+En aquellos casos en que sea obligatoria la comunicación a través de medios electrónicos y no se utilicen dichos medios, el órgano administrativo competente requerirá la correspondiente subsanación, advirtiendo que, de no ser atendido el requerimiento, se tendrá al interesado por desistido de su petición de acuerdo con lo dispuesto en el artículo 32.3 del Real Decreto 1671/2009, de 6 de noviembre, careciendo de validez o eficacia aquella comunicación en la que haya tenido lugar tal incumplimiento.
+
+2\. Los procedimientos administrativos a los que resultará de aplicación lo dispuesto en el apartado anterior son los siguientes:
+
+a) Procedimientos de inscripción, modificación y cancelación en el registro de régimen retributivo específico definido en el artículo 27 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, así como cualesquiera otros procedimientos regulados en la normativa de aplicación relacionados con dicho registro y con el régimen retributivo específico.
+
+b) Procedimientos de inscripción, modificación y cancelación en el registro administrativo de instalaciones de producción de energía eléctrica definido en el artículo 21 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+
+c) Cualquier procedimiento relativo a la actividad de comercialización de energía eléctrica y gestores de carga regulados en la normativa de aplicación, entre los que se encuentran los de comunicación de inicio de la actividad y declaración responsable, modificación de las anteriores y cese en el desempeño de la actividad. En el caso de las comercializadores de energía eléctrica, procedimientos relativos al envío de información sobre consumidores finales de electricidad en aplicación de la Orden ITC/606/2011, de 16 de marzo, por la que se determina el contenido y la forma de remisión de la información sobre los precios aplicables a los consumidores finales de electricidad al Ministerio de Industria, Turismo y Comercio, así como los procedimientos relativos a la extinción de la habilitación para ejercer como comercializador de energía eléctrica y traspaso de clientes a un comercializador de referencia.
+
+A estos efectos, los anexos con los modelos correspondientes de comunicación y de declaración responsable estarán disponibles para su cumplimentación y envío por vía electrónica en la sede electrónica del Ministerio de Industria, Energía y Turismo.
+
+d) Remisión de información relativa a calidad de servicio, que de acuerdo con la normativa estatal establecida deban ser remitidos por las empresas distribuidoras de energía eléctrica.
+
+e) Cualquier procedimiento de solicitud de autorización de configuraciones de medida que precisen de autorización de acuerdo con la normativa de aplicación.
+
+f) Cualquier procedimiento relativo a las solicitudes de exención de aplicación de los peajes de acceso en virtud de lo establecido en el Real Decreto 1164/2001 de 26 de octubre, por el que se establecen tarifas de acceso a las redes de transporte y distribución de energía eléctrica.
+
+g) Cualquier procedimiento relativo a la solicitud de reconocimiento del régimen retributivo adicional regulado en el presente real decreto.
+
+h) Los recursos administrativos y las solicitudes de revisión de oficio que pudieran derivarse de los procedimientos anteriormente citados.
+
+i) Las reclamaciones de responsabilidad patrimonial del Estado de competencia del Ministerio de Industria, Energía y Turismo que pudieran derivarse de la aplicación de la regulación del sector eléctrico.
+
+##### Disposición adicional decimotercera. Régimen económico de las energías renovables.
+
+1\. Las instalaciones de la categoría B definidas en el artículo 2 que, de acuerdo con lo previsto en el Real Decreto 960/2020, de 3 de noviembre, por el que se regula el régimen económico de energías renovables para instalaciones de producción de energía eléctrica, tengan reconocido el régimen económico de energías renovables, percibirán los siguientes conceptos:
+
+a) El precio a percibir definido en el Real Decreto 960/2020, de 3 de noviembre.
+
+b) En su caso, las contraprestaciones económicas que se establezcan por su participación en los servicios de ajuste.
+
+Los derechos de cobro de las instalaciones de producción obtenidos según lo anterior se verán afectados por los costes de desvíos en los que incurran dichas instalaciones, así como por aquellos que pudieran establecerse, en los términos que se determinen por orden ministerial.
+
+2\. Reglamentariamente se definirá el procedimiento de liquidación aplicable a las instalaciones acogidas al régimen económico de energías renovables ubicadas en los territorios no peninsulares.
+
+3\. Sin perjuicio de lo anterior, lo previsto en este real decreto en relación con las instalaciones con el régimen retributivo específico ha de ser aplicado también a las instalaciones con el régimen económico de las energías renovables definido en el Real Decreto 960/2020, de 3 de noviembre, salvo lo regulado expresamente.
+
+> Se añade por la disposición final 2 del Real Decreto 962/2024, de 24 de septiembre. [Ref. BOE-A-2024-19172](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19172)
+
+##### Disposición transitoria primera. Resolución de la primera convocatoria del procedimiento de otorgamiento de la resolución de compatibilidad de las instalaciones de producción de energía eléctrica en los territorios no peninsulares.
+
+1\. Quedan exceptuadas de la aplicación de lo dispuesto en los artículos 47, 48, 49, 51 y 52 de este real decreto, las instalaciones definidas en la disposición transitoria primera.1 de la Ley 17/2013, de 29 de octubre, para la garantía del suministro e incremento de la competencia en los sistemas eléctricos insulares y extrapeninsulares, y en la disposición adicional decimonovena de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+
+No obstante lo anterior, sí resultarán aplicables dichos artículos para el reconocimiento de nuevas inversiones o para que les sea otorgado nuevamente el régimen retributivo adicional cuando vayan a finalizar su vida útil regulatoria.
+
+2\. Si el informe anual de cobertura de la demanda establecido en la disposición adicional séptima.2.b pone de manifiesto que existe un riesgo de falta de cobertura en el horizonte del análisis en un sistema eléctrico aislado, el Secretario de Estado de Energía convocará, mediante resolución, un procedimiento de concurrencia competitiva para el otorgamiento de la resolución favorable de compatibilidad.
+
+En dicha resolución del Secretario de Estado de Energía se establecerá la potencia prevista adicional que debe ser instalada, en su caso, para asegurar la cobertura de la demanda en cada uno de los sistemas eléctricos aislados para cada uno de los siguientes cinco años. Asimismo, en esta resolución se podrán dar señales de localización por nudos y se podrán establecer limitaciones técnicas relativas, entre otros aspectos, al tamaño y tecnología de los grupos.
+
+El procedimiento para el otorgamiento de la resolución favorable de compatibilidad será el establecido en los artículos 47, 48 y 49 con las particularidades descritas en esta disposición.
+
+3\. Las solicitudes de resolución de compatibilidad presentadas desde la entrada en vigor de la Ley 17/2013, de 29 de octubre, y hasta la entrada en vigor de este real decreto serán tramitadas según el procedimiento establecido en los artículos 47, 48 y 49 con las particularidades descritas en esta disposición.
+
+En el plazo de dos meses desde la publicación de la resolución definida en el apartado anterior, los titulares de las instalaciones citadas en el párrafo anterior deberán complementar su solicitud presentando la información relativa a cada una de las instalaciones proyectadas con el desglose establecido en el anexo VIII.1 de este real decreto, adjuntando asimismo el resguardo de la Caja General de Depósitos acreditativo de haber depositado la garantía económica establecida en el artículo 50.
+
+3bis. Las solicitudes de resolución de compatibilidad presentadas con anterioridad a la finalización del plazo de dos meses desde la publicación de la resolución de convocatoria del procedimiento de concurrencia competitiva definida en el apartado 2, se acumularán a las solicitudes presentadas al amparo del apartado anterior, a excepción de aquellas que resulten inadmitidas.
+
+4\. Si el informe anual de cobertura de la demanda establecido en la disposición adicional séptima.2.b pone de manifiesto que no es necesaria potencia adicional en un sistema eléctrico aislado, no se convocará el procedimiento de concurrencia competitiva en dicho sistema y las solicitudes presentadas desde la entrada en vigor de la Ley 17/2013, de 29 de octubre y hasta la entrada en vigor de este real decreto para ese sistema serán resueltas desfavorablemente por la Dirección General de Política Energética y Minas, previo trámite de audiencia.
+
+5\. Las solicitudes de resolución de compatibilidad presentadas al amparo de lo previsto en los apartados 2 y 5 de la disposición transitoria primera de la Ley 17/2013, de 29 de octubre serán resueltas por la Dirección General de Política Energética y Minas previo informe del operador del sistema y de la Comisión Nacional de los Mercados y la Competencia.
+
+> Se modifican los apartados 3 a 4 y se añade el 5 por la disposición final 3.7 y 8 del Real Decreto 647/2020, de 7 de julio. [Ref. BOE-A-2020-7439](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7439)
+
+##### Disposición transitoria segunda. Mezcla de combustible.
+
+1\. En tanto no se autoricen las mezclas de combustible habitual por la Dirección General de Política Energética y Minas, los costes variables de combustible de despacho y del coste de arranque de despacho de las instalaciones de producción categoría A, se calcularán teniendo en cuenta el combustible principal del grupo, y en la liquidación de estos grupos se reconocerá la mezcla de combustible utilizada, previa inspección.
+
+Estos costes adicionales serán reconocidos en la resolución de la Dirección General de Política Energética y Minas por la que se aprueba la cuantía definitiva de los costes de generación de liquidación para las centrales que tengan reconocido un régimen retributivo adicional y la cuantía de los costes de generación de las instalaciones que tengan reconocido un régimen retributivo específico a la que hace referencia el artículo 72.3.e).
+
+2\. No obstante lo anterior, a efectos de lo establecido en los artículos 12 y 40, en el plazo de un mes desde la entrada en vigor de este real decreto los titulares de las instalaciones de producción categoría A que vayan a percibir el régimen retributivo adicional deberán remitir a la Dirección General de Política Energética y Minas la mezcla de combustible habitual utilizada en cada uno de sus grupos, tanto en estado de marcha normal como en los arranques.
+
+En el caso de que no se presentara la citada información en el plazo establecido, el combustible a utilizar a efectos de despacho y de liquidación será el combustible principal indicado en el anexo XIII.
+
+##### Disposición transitoria tercera. Determinación del precio de combustible hasta la entrada en vigor de la orden definida en el artículo 40.5.
+
+1\. Hasta la entrada en vigor de la orden del Ministro de Industria, Energía y Turismo en la que se definan los componentes del precio de cada uno de los combustibles fósiles utilizados y la metodología para la determinación de dicho precio definida en el artículo 40.5, se estará a lo dispuesto en la presente disposición.
+
+2\. Los combustibles fósiles que se considerarán en los territorios no peninsulares a efectos de retribución por zonas geográficas son los siguientes:
+
+Baleares: Hulla importada, Fuel Oil BIA (1 por ciento de azufre), Gas Natural y Gasoil.
+
+Canarias: Fuel Oil BIA (1 por ciento de azufre), Fuel Oil BIA (0,73 por ciento de azufre), Fuel Oil BIA (0,3 por ciento de azufre), Diésel Oil y Gasoil.
+
+Ceuta y Melilla: Fuel Oil BIA (1 por ciento de azufre), Diésel Oil y Gasoil.
+
+En el caso de que se utilizaran nuevos combustibles fósiles no contemplados en la relación anterior, el Ministro de Industria, Energía y Turismo podrá aprobar, en su caso, su utilización y determinar el método de cálculo del precio correspondiente al nuevo combustible.
+
+3\. El precio del combustible se calculará como la suma del precio del producto definido en el siguiente apartado y la retribución por costes de logística establecida en el apartado 5, a excepción del gas natural, cuyo precio del combustible se calculará de acuerdo con el método establecido en al Orden ITC/1559/2010, de 11 de junio, por la que se regulan diferentes aspectos de la normativa de los sistemas eléctricos insulares y extrapeninsulares. Adicionalmente, el precio del combustible incluirá, en su caso, los costes derivados de la aplicación del impuesto especial sobre el carbón y del impuesto sobre hidrocarburos definidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+
+4\. Los precios del producto por tipo de combustible se aprobarán semestralmente por resolución de la Dirección General de Política Energética y Minas, serán publicados en el «Boletín Oficial del Estado» y se calcularán como media aritmética de las cotizaciones mensuales, correspondientes a los seis meses inmediatamente anteriores, de los índices y cotizaciones siguientes:
+
+a) Para la hulla importada, será igual al índice API#2 publicado por el Coal Daily de Energy Argus.
+
+b) Para el Fuel Oil BIA (1 por ciento), consumido en los territorios no peninsulares de Baleares, Melilla y Ceuta será igual a la media aritmética de las medias mensuales del rango bajo de cotizaciones de Fuel Oil 1 por ciento en el mercado CIF Mediterráneo (Génova/Lavera), publicada en el Platts European Marketscan. Para el Fuel Oil BIA (1 por ciento y 0,3 por ciento), consumido en el territorio no peninsular de Canarias será igual a la media aritmética de las medias mensuales del rango bajo de cotizaciones de Fuel Oil 1 por ciento en el mercado CIF NWE publicada en el Platts European Marketscan.
+
+c) El precio del producto para el Fuel Oil BIA 0,73 por ciento del territorio no peninsular de Canarias se calculará como la media aritmética de las medias mensuales del rango bajo de cotizaciones en el mercado CIF NWE del Fuel Oil 1 por ciento publicadas en el Platts European Marketscan más un coeficiente que se calculará como el 67,5 por ciento de la diferencia entre las medias mensuales del rango bajo de cotizaciones en el mercado FOB NWE del Fuel Oil 0,5-0,7 por ciento publicadas en el Platts European Marketscan y las medias mensuales del rango bajo de cotizaciones de Fuel Oil 1 por ciento en el mercado FOB NWE publicada en el Platts European Marketscan.
+
+d) Para el Diésel Oil del territorio no peninsular de Canarias, se establecerá por composición porcentual en peso de la media aritmética de las medias mensuales del rango bajo de cotizaciones de Gasoil 0,1 por ciento (83 por ciento) y Fuel Oil 3,5 por ciento (17 por ciento) en el mercado CIF NWE publicadas en el Platts European Marketscan. Para el Diésel Oil del Territorio no peninsular de Ceuta, se establecerá por composición porcentual en peso de la media aritmética de las medias mensuales del rango bajo de cotizaciones de Gasoil 0,1 por ciento (83 por ciento) y Fuel Oil 3,5 por ciento (17 por ciento) en el mercado CIF Mediterráneo (Génova/Lavera), publicada en el Platts European Marketscan.
+
+e) Para el Gasoil 0,1 por ciento consumido en los territorios no peninsulares de Baleares, Melilla y Ceuta se calculará como la media aritmética de las medias mensuales del rango bajo de cotizaciones de Gasoil 0,1 por ciento en el mercado CIF Mediterráneo (Génova/Lavera) publicada en el Platts European Marketscan. Para el Gasoil 0,1 por ciento consumido en el territorio no peninsular de Canarias se calculará como la media aritmética de las medias mensuales del rango bajo de cotizaciones de Gasoil 0,1 por ciento en el mercado CIF NWE publicada en el Platts European Marketscan.
+
+Para la conversión de dólares USA a euros se tomará la media de los tipos de cambio diarios dólar USA-euro publicada por el Banco Central Europeo y correspondiente al periodo de cálculo del precio del combustible.
+
+5\. La retribución por costes de logística a efectos de liquidación y de despacho, en función de la ubicación del grupo generador, será la siguiente:
+
+Costes logística
+
+| €/tm | Hulla | Fuel Oil<br>BIA 1% 0,7-0,73% | Fuel Oil<br>BIA 0,3% | Diésel<br>Oil | Gasoil |
+|---|---|---|---|---|---|
+| BALEARES |  |  |  |  |  |
+| Mallorca | 13,06 | 39,80 |  |  | 43,06 |
+| Menorca |  | 32,62 |  |  | 41,08 |
+| Ibiza-Formentera |  | 34,38 |  |  | 42,84 |
+| CANARIAS |  |  |  |  |  |
+| Tenerife |  | 20,49 | 31,76 | 20,49 | 20,49 |
+| Gran Canaria |  | 24,83 | 42,36 | 31,09 | 31,09 |
+| Fuerteventura |  | 24,83 | 42,36 | 37,35 | 37,35 |
+| Lanzarote |  | 24,83 | 42,36 | 34,85 | 34,85 |
+| La Palma, Hierro y Gomera |  | 37,35 | 54,87 | 54,90 | 34,85 |
+| CEUTA Y MELILLA |  |  |  |  |  |
+| Ceuta |  | 32,71 |  | 36,30 | 36,30 |
+| Melilla |  | 58,62 |  |  | 64,35 |
+
+6\. El precio de producto a efectos de despacho de producción de la hulla, Fuel Oil BIA (1 por ciento), Fuel Oil BIA (0,3 por ciento), Fuel Oil BIA 0,73%, Diésel Oil y Gasoil 0,1% será el último valor publicado para cada territorio no peninsular y se obtendrá según lo indicado en esta disposición.
+
+Para el combustible gas natural, el precio de combustible a efectos de despacho será el establecido en la Orden ITC/1559/2010, de 11 de junio.
+
+A efectos del cálculo de los costes de generación de liquidación de cada grupo generador categoría A que tengan reconocido un régimen retributivo adicional, se procederá a regularizar la retribución por costes variables de generación por la diferencia entre los precios reales de los valores obtenidos según lo indicado en el apartado 3 en dicho año y los utilizados para realizar el despacho.
+
+7\. Los valores del poder calorífico inferior del combustible fósil utilizado por un grupo i del sistema eléctrico j, pci(i,h,j), a efectos de despacho de producción y a efectos de liquidación serán los establecidos en el anexo VI.
+
+8\. De acuerdo con lo establecido en el apartado 6, el precio de los combustibles fósiles a efectos de despacho se obtendrá, desde la entrada en vigor del presente real decreto y hasta que sean sustituidos de acuerdo con lo establecido en esta disposición transitoria, a partir de los siguientes precios de producto y retribución por costes de logística:
+
+<table class="tabla_ancha">
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td colspan="5">
+<p class="cabeza_tabla">Precios del producto €/Tm</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cabeza_tabla">Hulla</p>
+</td>
+<td>
+<p class="cabeza_tabla">Fuel Oil</p>
+<p class="cabeza_tabla">BIA 1% S</p>
+<p class="cabeza_tabla">/0,3 %S</p>
+</td>
+<td>
+<p class="cabeza_tabla">Fuel Oil BIA 0,73% S</p>
+</td>
+<td>
+<p class="cabeza_tabla">Diésel Oil</p>
+</td>
+<td>
+<p class="cabeza_tabla">Gasoil 0,1% S</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">CANARIAS</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">385,94</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">423,34</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">560,98</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">601,03</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">BALEARES</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">57,33</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">394,08</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">602,22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">CEUTA Y MELILLA</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">394,08</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">564,40</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">602,22</p>
+</td>
+</tr>
+</table>
+
+La retribución por costes de logística a aplicar en el despacho de producción, en función del territorio donde esté ubicado el grupo, será la establecida en el apartado 5.
+
+9\. De acuerdo con lo establecido en el párrafo tercero del artículo 2.4 de la Orden ITC/1559/2010, de 11 de junio, el precio del combustible gas natural a efectos de despacho desde la entrada en vigor del presente real decreto y hasta que sea actualizado de acuerdo a lo establecido en la citada orden será de 392,05 €/t.
+
+##### Disposición transitoria cuarta. Determinación de los datos técnicos de despacho en las centrales inscritas en el registro administrativo de instalaciones de producción de energía eléctrica.
+
+1\. Los datos técnicos y económicos de despacho de los grupos inscritos en el registro administrativo de instalaciones de producción de energía eléctrica serán los establecidos en el anexo XIII hasta que sean revisados de acuerdo a lo establecido en el presente real decreto.
+
+En aquellos casos en los que los datos del registro no coincidan con los indicados en el citado anexo XIII, se procederá a regularizar el registro de acuerdo con estos valores.
+
+2\. En tanto no se definan los datos técnicos de despacho de las turbinas de gas que comparten alternador, se utilizarán los datos técnicos que le correspondan a cada grupo por separado.
+
+##### Disposición transitoria quinta. Régimen transitorio para determinadas instalaciones de producción categoría A.
+
+1\. Aquellas instalaciones categoría A que con anterioridad a la entrada en vigor de este real decreto no tuvieran derecho a la percepción del régimen retributivo específico aplicable a las instalaciones de producción a partir de fuentes de energías renovables, cogeneración y residuos y tuvieran reconocido un régimen retributivo distinto del contemplado en la Orden ITC/913/2006, de 30 de marzo y la Orden ITC/914/2006, de 30 de marzo, continuarán percibiendo dicha retribución de forma transitoria en los términos previstos en esta disposición.
+
+2\. Los titulares de las instalaciones de producción definidas en este apartado deberán remitir las nuevas inversiones que, en su caso, se hayan realizado desde el 1 de enero de 2012, debidamente auditadas.
+
+3\. Por orden del Ministro de Industria, Energía y Turismo se aprobarán los datos técnicos y económicos, así como los parámetros técnicos y económicos de liquidación a partir de los resultados de las pruebas de rendimiento que se realicen a los grupos y los datos de costes auditados.
+
+##### Disposición transitoria sexta. Regímenes retributivos de instalaciones con autorización de explotación definitiva de fecha anterior al 1 de enero de 2012 solicitados con anterioridad a la entrada en vigor del presente real decreto.
+
+En virtud de lo establecido en el artículo 37 del Real Decreto–ley 20/2012, de 13 de julio, la retribución por costes fijos y variables definida en este real decreto aplicará a las centrales de generación que tenían la condición de régimen ordinario hasta la entrada en vigor de la Ley 24/2013, de 26 de diciembre, en los territorios no peninsulares desde el 1 de enero de 2012.
+
+En virtud de lo anterior y no obstante lo establecido en la disposición derogatoria única.1.c) de este real decreto, en las solicitudes de reconocimiento del régimen retributivo adicional para las instalaciones con autorización de explotación definitiva de fecha anterior al 1 de enero de 2012, el valor de la inversión reconocida y su vida útil regulatoria se determinarán según el método de cálculo establecido en la Orden ITC/914/2006, de 30 de marzo.
+
+##### Disposición transitoria séptima. Determinación de los costes de generación de liquidación hasta la entrada en vigor del presente real decreto.
+
+1\. En virtud de lo establecido en el artículo 37 del Real Decreto–ley 20/2012, de 13 de julio, la retribución por costes fijos y variables de las centrales de generación que tenían la condición de régimen ordinario hasta la entrada en vigor de la Ley 24/2013, de 26 de diciembre, en los territorios no peninsulares, desde el 1 de enero de 2012 y hasta la entrada en vigor del presente real decreto será la que resulte de aplicar la presente disposición.
+
+La Dirección General de Política Energética y Minas aprobará por resolución la cuantía definitiva de los costes de generación de liquidación para los grupos que tengan reconocido un régimen retributivo adicional desde el 1 de enero de 2012 hasta la entrada en vigor del presente real decreto. Esta resolución será publicada en el «Boletín Oficial del Estado».
+
+2\. La retribución por costes variables de generación de los grupos que hubieran participado en el despacho de producción durante el periodo indicado en el párrafo anterior, se obtendrá aplicando, con carácter general, la metodología establecida en el capítulo III del Título IV, con las siguientes particularidades:
+
+a) No será de aplicación el factor de corrección por factura de combustible definido en el artículo 31.
+
+b) La retribución por costes variables de funcionamiento y la retribución por costes de arranque asociados al combustible se calcularán de acuerdo con lo establecido en los artículos 32 y 33, respectivamente, con las siguientes particularidades:
+
+1.º Los parámetros técnicos de liquidación a, b, c, a’ y b’ tomarán los valores establecidos en el anexo XIII para los datos técnicos de despacho A, B, C, A’ y B’, respectivamente.
+
+2.º Para el cálculo del precio medio de la termia de los combustibles utilizados en estado de marcha y en estado de arranque por el grupo i del sistema eléctrico aislado j en la hora h, se estará a lo dispuesto en la disposición transitoria segunda.1.
+
+3.º El precio del combustible se obtendrá de acuerdo a la metodología prevista en la disposición transitoria tercera, resultando los valores establecidos en el anexo XIV.
+
+4.º Los valores del poder calorífico inferior del combustible fósil utilizado por un grupo i del sistema eléctrico j, pci(i,h,j), a efectos de liquidación de generación serán los establecidos en el anexo VI.1.c) a efectos de despacho.
+
+c) La retribución por costes variables de operación y mantenimiento de funcionamiento se calculará de acuerdo con la metodología establecida en la disposición adicional cuarta.3 y con los valores unitarios de operación y mantenimiento variable de las instalaciones tipo, definidos en el anexo XIV.
+
+d) El parámetro «d» en euros por arranque, definido en el artículo 35.2, será el establecido en el anexo XIV.
+
+e) La retribución por costes de banda de regulación se calculará de acuerdo con lo establecido en el artículo 34.
+
+La retribución por costes de los derechos de emisión se calculará de acuerdo con lo establecido en el artículo 37. El precio de los derechos de emisión de liquidación, que se calculará de acuerdo con lo establecido en dicho artículo, será aprobado por resolución de la Dirección General de Política Energética y Minas.
+
+3\. La retribución por costes fijos para el periodo indicado en el apartado 1 se calculará de acuerdo a lo indicado en este apartado y aplicando la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_009.png)
+
+a) La definición de estos parámetros y la metodología de obtención de la retribución por costes fijos, que tendrá la anterior formulación, será la establecida en el capítulo II del título IV.
+
+b) La tasa de retribución financiera a aplicar a todas las instalaciones de los sistemas eléctricos aislados de los territorios no peninsulares categoría A que tengan retribución por inversión se corresponderá, de acuerdo a lo establecido en el artículo 37 del Real Decreto-ley 20/2012, de 13 de julio, con el rendimiento medio de las cotizaciones en el mercado secundario de las obligaciones del Estado a diez años incrementada en 200 puntos básicos. Para el año 2012 se utilizará el rendimiento medio de las cotizaciones en el mercado secundario de las obligaciones del Estado a diez años de los meses comprendidos entre noviembre de 2010 y octubre de 2011; para el año 2013, las equivalentes a los meses comprendidos entre noviembre de 2011 y octubre de 2012; para el año 2014, las equivalentes a los meses comprendidos entre noviembre de 2012 y octubre de 2013; y para los meses de 2015 que sea de aplicación, el rendimiento de las obligaciones comprendidas entre noviembre de 2013 y octubre de 2014.
+
+En virtud de lo anterior, la anualidad de la retribución por inversión CI<sub>n</sub> (i) de cada grupo i, será la establecida en el anexo XIV.
+
+c) La anualidad de la retribución por operación y mantenimiento fijo de cada grupo se obtendrá de acuerdo con lo establecido en la disposición adicional tercera, con las siguientes particularidades:
+
+1.º) Los valores unitarios de la anualidad de operación y mantenimiento fijos de las instalaciones tipo para los años 2012, 2013 y 2014 serán los indicados en el anexo XIV.
+
+2.º) La instalación tipo asignada a cada grupo será la indicada en el anexo XIII.
+
+3.º) La potencia neta de cada grupo es la indicada en el anexo XIII.
+
+4\. Los grupos que con anterioridad a la entrada en vigor de este real decreto hayan alcanzado la vida útil establecida en la Orden ITC/914/2006, de 30 de marzo, y hayan continuado en operación, percibirán durante el periodo indicado en el apartado 1, la retribución por costes variables definida en el apartado 2 y su retribución por costes fijos consistirá en la anualidad de la retribución por operación y mantenimiento fijo, OMFn(i), de acuerdo a lo indicado en el apartado 3.c). Su retribución por costes fijos podrá ser incrementada, en su caso, por las nuevas inversiones que se reconozcan de acuerdo a lo establecido en la disposición adicional octava.
+
+5\. La retribución por la instalación de potencia como consecuencia de la necesidad de adoptar medidas de carácter temporal y extraordinario, aconsejadas por razones de seguridad de suministro, consistirá, para el periodo definido en el párrafo 1, en el reconocimiento de los costes en que hayan incurrido los titulares de estas centrales durante su explotación.
+
+6\. El valor de la inversión para aquellos grupos a los que a la entrada en vigor de este real decreto no se haya reconocido dicho valor y cuenten con autorización de explotación definitiva de fecha posterior al 31 de diciembre de 2011 y anterior a la entrada en vigor del presente real decreto, se determinará de la siguiente forma:
+
+a) El valor de la inversión reconocida al grupo i será el valor real de la inversión realizada debidamente auditada, más el 50 por ciento de la diferencia entre el límite máximo y dicho valor real, cuando éste sea inferior al límite. Si la citada diferencia fuera negativa, el valor reconocido de la inversión realizada será el que resulte de multiplicar la potencia neta inscrita en el registro administrativo de instalaciones de producción de energía eléctrica por los valores unitarios máximos fijados en el citado anexo XIV.
+
+b) Los límites máximos se determinarán multiplicando la potencia neta del grupo inscrita en el registro administrativo de instalaciones de producción de energía eléctrica por los valores unitarios máximos fijados para los diferentes sistemas diferenciados por tecnología de acuerdo con lo establecido en el anexo XIV.
+
+7\. Los parámetros a aplicar para el cálculo de la retribución desde el 1 de enero de 2012 hasta la entrada en vigor del real decreto, de acuerdo a la metodología establecida en esta disposición, se establecen en el anexo XIV.
+
+##### Disposición transitoria octava. Aplicación transitoria del precio de adquisición de la demanda a los comercializadores de referencia y del precio de la energía en la hora h a considerar en la fijación de los precios voluntarios para el pequeño consumidor.
+
+En tanto no se establezca la metodología para obtener el precio de la energía en la hora h a considerar en la fijación de los precios voluntarios para el pequeño consumidor, en cada territorio no peninsular, de acuerdo a lo indicado en la disposición final cuarta:
+
+a) El precio de la energía en la hora h a considerar en la fijación de los precios voluntarios para el pequeño consumidor, en cada territorio no peninsular, Papuntadoh, será el precio medio horario, Pmh, definido en el artículo 10 del Real Decreto 216/2014, de 28 de marzo, por el que se establece la metodología de cálculo de los precios voluntarios para el pequeño consumidor y su régimen jurídico de contratación.
+
+b) Los comercializadores de referencia en estos territorios, adquirirán la energía horariamente en el despacho para sus consumidores acogidos al precio voluntario para el pequeño consumidor, al precio horario final peninsular de adquisición de energía de los comercializadores de referencia que adquieren su energía en el mercado de producción peninsular, considerando el término de ajuste Tah definido en el artículo 9 del Real Decreto 216/2014, de 28 de marzo, por el que se establece la metodología de cálculo de los precios voluntarios para el pequeño consumidor de energía eléctrica y su régimen jurídico de contratación, y descontados los costes de los mecanismos de capacidad, los costes de desvíos, los costes por intercambios internacionales no realizadas por sujetos de mercado y los costes del servicio de gestión de la demanda de interrumpibilidad y, en su caso, otros que se establezcan.
+
+Adicionalmente al precio de adquisición antes definido, se deberán cumplir con las obligaciones derivadas de los costes de desvíos en los que incurran dichos sujetos, los costes por mecanismos de capacidad, los costes del servicio de gestión de la demanda de interrumpibilidad, los costes para la financiación de la retribución del operador del mercado y del operador del sistema y otros que pudieran establecerse, en los términos que se determinen por orden del Ministro de Industria, Energía y Turismo.
+
+> Se modifica el párrafo primero de la letra b) por la disposición final 1.8 del Real Decreto 446/2023, de 13 de junio. [Ref. BOE-A-2023-14048](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14048)
+
+##### Disposición transitoria novena. Pruebas de potencia y de mínimo técnico.
+
+1\. Hasta la entrada en vigor de la normativa que regule las pruebas para acreditar las potencias bruta y neta de los grupos en los territorios no peninsulares, dichas pruebas se realizarán de acuerdo con lo previsto en el anexo XV.
+
+2\. Hasta la aprobación del procedimiento de prueba de mínimo técnico ordinario y extraordinario de los grupos, para el reconocimiento de los datos técnicos de despacho definidos en el artículo 11, se tomarán los valores de mínimo técnico ordinario y extraordinario actualmente utilizados en el despacho de producción declarados por el titular de la instalación. Para la inscripción de nuevos grupos se utilizará el valor declarado por el titular de la instalación.
+
+3\. Aquellas instalaciones que a la entrada en vigor de este real decreto estén inscritas en el registro administrativo de instalaciones de producción de energía eléctrica, realizarán las pruebas de mínimo técnico, cuando sea aprobado su procedimiento, simultáneamente a las pruebas de rendimiento de las centrales definidas en el anexo III.
+
+##### Disposición transitoria décima. Parámetros de liquidación de las turbinas de gas que comparten alternador.
+
+En tanto no se definan los parámetros técnicos de liquidación de las turbinas de gas que comparten alternador, se utilizarán los parámetros de liquidación que le correspondan a cada grupo por separado.
+
+##### Disposición transitoria undécima. Regímenes retributivos otorgados con anterioridad a la entrada en vigor del presente real decreto.
+
+1\. Aquellas instalaciones que por sus características singulares no puedan incluirse dentro de ninguna de las tecnologías definidas en el artículo 2 y tuvieran concedido un régimen retributivo particular, distinto del contemplado en la Orden ITC/913/2006, de 30 de marzo y la Orden ITC/914/2006, de 30 de marzo, mantendrán su régimen retributivo aprobado con anterioridad a la entrada en vigor de este real decreto hasta el final de su vida útil regulatoria.
+
+2\. Aquellas instalaciones de producción de energía eléctrica categoría A que con anterioridad a la entrada en vigor del mismo tuvieran derecho a la percepción del régimen retributivo específico aplicable a las instalaciones de producción a partir de fuentes de energías renovables, cogeneración y residuos, continuarán percibiendo dicho régimen en los términos previstos en la normativa de aplicación hasta el final de su vida útil regulatoria. A los efectos establecidos en los títulos IV y VI del presente real decreto estas instalaciones serán consideradas como instalaciones de producción categoría B.
+
+3\. Las instalaciones de producción de energía eléctrica categoría A que con anterioridad a la entrada en vigor de este real decreto tuvieran reconocido su valor de la inversión, mantendrán a efectos retributivos dicho valor de inversión hasta el final de su vida útil regulatoria. El método de amortización de la inversión de estas centrales se mantendrá hasta que finalice su vida útil regulatoria de acuerdo con la normativa vigente con anterioridad a la entrada en vigor de este real decreto, partiendo de la amortización acumulada que tuvieran reconocida a la entrada en vigor del presente real decreto. Los citados valores correspondientes a dichas centrales se recogen en el anexo XVI.
+
+A efectos de lo dispuesto en el presente apartado, se entenderá por vida útil regulatoria la vida útil definida en la Orden ITC/914/2006, de 30 de marzo.
+
+##### Disposición transitoria duodécima. Comunicación y notificación por vía electrónica.
+
+1\. Los procedimientos administrativos indicados en la disposición adicional duodécima.2 que se hayan iniciado con anterioridad a la entrada en vigor del presente real decreto finalizarán su tramitación utilizando los medios existentes con anterioridad a la aprobación de esta disposición adicional.
+
+2\. Los procedimientos administrativos indicados en los apartados 2.f) y 2.g) de la disposición adicional duodécima se seguirán rigiendo, hasta que no se desarrollen las aplicaciones necesarias para su tramitación, por la normativa anterior relativa a los medios de tramitación.
+
+##### Disposición derogatoria única. Derogación normativa.
+
+1\. Quedan derogados expresamente:
+
+a) El Real Decreto 1747/2003, de 19 de diciembre, por el que se regulan los sistemas eléctricos insulares y extrapeninsulares.
+
+b) La Orden ITC/913/2006, de 30 de marzo, por la que se aprueban el método de cálculo del coste de cada uno de los combustibles utilizados y el procedimiento de despacho y liquidación de la energía en los sistemas eléctricos insulares y extrapeninsulares.
+
+c) La Orden ITC/914/2006, de 30 de marzo, por la que se establece el método de cálculo de la retribución de garantía de potencia para las instalaciones de generación en régimen ordinario de los sistemas eléctricos insulares y extrapeninsulares.
+
+2\. Asimismo, quedan derogadas todas las disposiciones de igual o inferior rango en cuanto contradigan o se opongan a lo establecido en el presente real decreto.
+
+##### Disposición final primera. Instalaciones tipo y correspondencia entre clasificaciones.
+
+1\. Se definen las siguientes instalaciones tipo en función de la tecnología, potencia neta y territorio no peninsular:
+
+Baleares
+
+| IT-0001 | Grupos Diésel - 2T | Potencia <5 |
+|---|---|---|
+| IT-0002 | Grupos Diésel - 2T | 5 ≤ Potencia < 12 |
+| IT-0003 | Grupos Diésel - 2T | 12 ≤ Potencia < 20 |
+| IT-0004 | Grupos Diésel - 2T | Potencia ≥ 20 |
+| IT-0005 | Grupos Diésel - 4T | 14 ≤ Potencia < 24 |
+| IT-0006 | Turbinas de gas aeroderivadas | Potencia < 50 |
+| IT-0007 | Turbinas de gas heavy duty | Potencia < 13 |
+| IT-0008 | Turbinas de gas heavy duty | 13≤Potencia < 25 |
+| IT-0009 | Turbinas de gas heavy duty | 25≤Potencia < 50 |
+| IT-0010 | Turbinas de gas heavy duty | Potencia ≥ 50 |
+| IT-0011 | Turbinas de vapor de Carbón |  |
+| IT-0012 | Turbinas de Vapor de Fuel | Potencia ≤ 40 |
+| IT-0013 | Ciclo combinado configuración 2x1 | 200 ≤ Potencia ≤ 250 |
+|  | 1TG |  |
+|  | 1TG+1TV |  |
+|  | 2TG+1TV |  |
+| IT-0014 | Ciclo combinado configuración 3x1 | 200 ≤ Potencia ≤ 250 |
+|  | 1TG |  |
+|  | 1TG+1TV |  |
+|  | 2TG+1TV |  |
+|  | 3TG+1TV |  |
+
+Canarias
+
+| IT-0050 | Grupos Diésel - 2T | 5 ≤ Potencia < 12 |
+|---|---|---|
+| IT-0051 | Grupos Diésel - 2T | 12 ≤ Potencia < 20 |
+| IT-0052 | Grupos Diésel - 2T | Potencia ≥ 20 |
+| IT-0053 | Grupos Diésel - 4T | Potencia<2 |
+| IT-0054 | Grupos Diésel - 4T | 2≤Potencia <4 |
+| IT-0055 | Grupos Diésel - 4T | 4 ≤ Potencia < 14 |
+| IT-0056 | Grupos Diésel - 4T | 14 ≤ Potencia < 24 |
+| IT-0057 | Turbinas de gas aeroderivadas | Potencia < 50 |
+| IT-0058 | Turbinas de gas heavy duty | Potencia < 13 |
+| IT-0059 | Turbinas de gas heavy duty | 13≤Potencia < 25 |
+| IT-0060 | Turbinas de gas heavy duty | 25≤Potencia < 50 |
+| IT-0061 | Turbinas de gas heavy duty | Potencia ≥ 50 |
+| IT-0062 | Turbinas de Vapor de Fuel | Potencia ≤ 40 |
+| IT-0063 | Turbinas de Vapor de Fuel | 40 < Potencia ≤ 60 |
+| IT-0064 | Turbinas de Vapor de Fuel | 60 < Potencia ≤ 80 |
+| IT-0065 | Ciclo combinado configuración 2x1 | 200 ≤ Potencia ≤ 250 |
+|  | 1TG |  |
+|  | 1TG+1TV |  |
+|  | 2TG+1TV |  |
+| IT-0066 | Ciclo combinado configuración 3x1 | 200 ≤ Potencia ≤ 250 |
+|  | 1TG |  |
+|  | 1TG+1TV |  |
+|  | 2TG+1TV |  |
+|  | 3TG+1TV |  |
+| IT-0067 | Hidráulica |  |
+
+Ceuta y Melilla
+
+| IT-0100 | Grupos Diésel - 2T | Potencia <5 |
+|---|---|---|
+| IT-0101 | Grupos Diésel - 4T | Potencia<2 |
+| IT-0102 | Grupos Diésel - 4T | 2≤Potencia <4 |
+| IT-0103 | Grupos Diésel - 4T | 4 ≤ Potencia < 14 |
+| IT-0104 | Grupos Diésel - 4T | 14 ≤ Potencia < 24 |
+| IT-0105 | Turbinas de gas aeroderivadas | Potencia < 50 |
+| IT-0106 | Turbinas de gas heavy duty | Potencia < 13 |
+| IT-0107 | Turbinas de gas heavy duty | 13≤Potencia < 25 |
+
+Las instalaciones tipo correspondientes a los grupos de generación categoría A que no se encuentren contempladas en la tabla anterior, así como sus parámetros retributivos, serán aprobados por orden del Ministro de Industria, Energía y Turismo.
+
+2\. A efectos de lo previsto en el presente real decreto y en su normativa de desarrollo, las referencias al término «potencia», cuando no se especifique a qué tipo de potencia se refiere, se entenderán realizadas a la potencia neta de las instalaciones.
+
+3\. La correspondencia entre la clasificación por familias utilizada en la normativa anterior a la entrada en vigor de este real decreto realizada en función de la potencia bruta y su correspondiente clasificación por instalación tipo utilizada en este real decreto, es la establecida a continuación:
+
+<table class="tabla_ancha">
+<tr>
+<td colspan="2">
+<p class="cabeza_tabla">Clasificación por familias (Normativa anterior)</p>
+</td>
+<td colspan="2">
+<p class="cabeza_tabla">Correspondencia con instalación tipo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cabeza_tabla">Tecnología</p>
+</td>
+<td>
+<p class="cabeza_tabla">Intervalo potencia bruta</p>
+<p class="cabeza_tabla">(MW)</p>
+</td>
+<td>
+<p class="cabeza_tabla">Tecnología</p>
+</td>
+<td>
+<p class="cabeza_tabla">Intervalo potencia neta</p>
+<p class="cabeza_tabla">(MW)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Potencia &lt;5</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Potencia &lt;5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 14</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Potencia ≥ 24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Potencia ≥ 20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Potencia&lt;2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Potencia&lt;2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">2≤Potencia &lt;5</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">2≤Potencia &lt;4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 14</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Potencia &lt; 50</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Potencia &lt; 50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Potencia &lt; 15</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Potencia &lt; 13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">15≤Potencia &lt; 25</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">13≤Potencia &lt; 25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">25≤Potencia &lt; 50</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">25≤Potencia &lt; 50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Potencia ≥ 50</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Potencia ≥ 50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Potencia ≤ 40</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Potencia ≤ 40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</p>
+</td>
+</tr>
+</table>
+
+##### Disposición final segunda. Desarrollo y aplicación del real decreto.
+
+1\. Se autoriza al Ministro de Industria, Energía y Turismo a dictar las disposiciones necesarias para el desarrollo y aplicación de lo dispuesto en este real decreto.
+
+2\. Por orden del Ministro de Industria, Energía y Turismo se podrán modificar los anexos incluidos en este real decreto.
+
+3\. Las determinaciones incluidas en normas reglamentarias que son objeto de modificación por este real decreto podrán ser modificadas por normas del rango reglamentario correspondiente a la norma en que figuran.
+
+##### Disposición final tercera. Establecimiento del precio del gas natural de liquidación y de despacho de los grupos de generación del sistema eléctrico balear.
+
+Se modifica la Orden ITC/1559/2010, de 11 de junio, por la que se regulan diferentes aspectos de la normativa de los sistemas eléctricos insulares y extrapeninsulares, en los siguientes términos:
+
+Uno. Se modifica el artículo 2.2 que pasa a tener la siguiente redacción:
+
+«2. El coste mensual de combustible «C», expresado en €, para cada grupo generador de las islas Baleares alimentado por gas natural, será el resultado de aplicar la siguiente fórmula:
+
+C(€) = V × [Pm × (1 + mr + mt) + ATRv]
+
+Donde:
+
+V: Volumen mensual del gas natural consumido, expresado en MWh.
+
+Pm: Coste medio mensual de aprovisionamiento del gas natural licuado (GNL) en el mes de consumo, expresado en €/MWh, y publicado por la Comisión Nacional de los Mercados y la Competencia en el «Informe Mensual de supervisión del mercado mayorista del gas».
+
+mr y mt: Mermas de regasificación y transporte en vigor, respectivamente, expresadas en tanto por uno.
+
+ATRv: Componente variable del coste de acceso a las instalaciones gasistas, excluido el término de conducción y expresado en €/MWh, que se calculará como la suma de los peajes y cánones siguientes:
+
+a) Término variable del peaje de regasificación, expresado en €/MWh:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_010.png)
+
+Donde:
+
+Tvr: Término variable del peaje de regasificación en vigor, expresado en cts/kWh.
+
+%GNL: Porcentaje de entradas de gas natural en forma de GNL en el sistema gasista español en relación con el total, expresado en tanto por uno.
+
+b) Peaje de descarga de buques expresado en €/MWh:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_011.png)
+
+Donde:
+
+Tfd: Término fijo de descarga de buques, planta de Cartagena, expresado en €/buque.
+
+Tvd: Término variable de descarga de buques, planta de Cartagena, expresado en cts/kWh.
+
+Tmbuque: Tamaño medio de buque, expresado en MWh.
+
+c) Canon de almacenamiento de GNL expresado en €/MWh:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_012.png)
+
+Donde:
+
+Tv: Canon de almacenamiento de GNL, expresado en cts/MWh/día.
+
+NA<sub>GNL</sub>: Número de días medio de almacenamiento de GNL en las plantas de regasificación.
+
+d) Coste de almacenamiento subterráneo, expresado en €/MWh y calculado de acuerdo a la fórmula siguiente:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_013.png)
+
+Donde:
+
+Tf: Término fijo del canon de almacenamiento subterráneo, expresado cts/kWh/mes.
+
+Tvi: Término variable de inyección del canon de almacenamiento subterráneo, expresado en cts/kWh.
+
+Tve: Término variable de extracción del canon de almacenamiento subterráneo, expresado en cts/kWh.»
+
+Dos. Se modifican los apartados 4, 5 y 6 del artículo 2 que quedan redactados de la siguiente forma:
+
+«4. El precio del gas natural prc(i,h,j) definido en el apartado 1 será fijado semestralmente, en los meses de enero y julio por la Dirección General de Política Energética y Minas.
+
+A efectos del cálculo de la retribución por costes variables para cada grupo generador, se aprobará el valor de prc(i,h,j) para aquellos meses de los que se dispongan datos definitivos, procediéndose a regularizar el coste de combustible por la diferencia entre los precios reales de los valores indicados en dicho mes y los inicialmente previstos para realizar el despacho.
+
+5\. Adicionalmente, en las resoluciones que fijen el precio del gas natural se aprobarán las cuantías a reconocer a cada grupo en concepto del componente fijo mensual del coste de acceso de terceros a las instalaciones gasistas.
+
+El componente fijo mensual del coste de acceso de terceros a las instalaciones gasistas, CAF se obtendrá como sigue:
+
+CAF= ATRf + FC
+
+a) ATRf: Componente fijo mensual del coste de acceso de terceros a las instalaciones gasistas, excluido término de conducción y expresado en €, que se calculará como la suma de los peajes y cánones siguientes:
+
+1.º Término fijo del peaje de regasificación, expresado en €:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_014.png)
+
+Donde:
+
+Tfr: Término fijo del peaje de regasificación en vigor, expresado en cts/kWh/día/mes.
+
+Qf: Caudal diario contratado por el grupo en el punto de salida. Se tomará el caudal aplicado en la facturación del término fijo del término de conducción del peaje de transporte y distribución, expresado en kWh/día.
+
+2.º Término fijo del peaje de reserva de capacidad expresado en €/mes:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08646_015.png)
+
+Donde:
+
+Tfe: Término de reserva de capacidad, expresado en cts/kWh/día/mes.
+
+FC: Facturación mensual del término de conducción del peaje de transporte y distribución, expresada en €.
+
+6\. A efectos del despacho de costes variables de generación, el valor de prc(i,h,j) a utilizar en el semestre siguiente será el que resulte del cálculo de la media de los últimos valores de prc(i,h,j) aprobados con carácter definitivo de todos los grupos pertenecientes a un mismo territorio no peninsular.»
+
+##### Disposición final cuarta. Coste de Producción horario en los territorios no peninsulares a considerar en la fijación de los precios voluntarios para el pequeño consumidor.
+
+1\. El coste de producción de la energía a considerar en la fijación de los precios voluntarios para el pequeño consumidor, CP<sub>h</sub>, definido en el artículo 9 del Real Decreto 216/2014, de 28 de marzo, por el que se establece la metodología de cálculo de los precios voluntarios para el pequeño consumidor y su régimen jurídico de contratación, se calculará, en los territorios no peninsulares, de acuerdo con la siguiente fórmula:
+
+*CP<sub>h</sub> = Papuntado<sub>h</sub> + T<sub>ah</sub> +SA<sub>h</sub> + OC<sub>h</sub>*
+
+Donde:
+
+T<sub>ah</sub>, SA<sub>h</sub> y OC<sub>h</sub> serán los definidos en el Real Decreto 216/2014, de 28 de marzo, por el que se establece la metodología de cálculo de los precios voluntarios para el pequeño consumidor y su régimen jurídico de contratación.
+
+Papuntado<sub>h</sub>: Precio de la energía en la hora h de cada territorio no peninsular a considerar en la fijación de los precios voluntarios para el pequeño consumidor, en este territorio.
+
+La metodología para obtener el precio de la energía en la hora h a considerar en la fijación de los precios voluntarios para el pequeño consumidor, en cada territorio no peninsular será aprobada por orden de la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico de tal manera que se incorporen las señales de precio eficientes al consumidor establecidas en el artículo 10 de la Ley 24/2013, de 26 de diciembre. A estos efectos, la determinación del precio de la energía en la hora h a considerar en la fijación de los precios voluntarios para el pequeño consumidor tendrá una estructura análoga a la del precio de adquisición Ph<sub>demanda</sub>(j), definido en el artículo 70.
+
+2\. El precio de la energía en la hora h a considerar en la fijación de los precios voluntarios para el pequeño consumidor, en cada territorio no peninsular (Papuntadoh), será calculado por el operador del sistema y publicado por dicho operador en su página web el día anterior al del suministro para cada una de las 24 horas del día siguiente.
+
+> Se modifica el apartado 1 por la disposición final 1.9 del Real Decreto 446/2023, de 13 de junio. [Ref. BOE-A-2023-14048](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14048)
+
+##### Disposición final quinta. Modificación del Real Decreto 413/2014, de 6 de junio, por el que se regula la actividad de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos.
+
+Uno. Se modifica la disposición adicional decimocuarta.2 que queda redactada como sigue:
+
+«2. No obstante lo anterior, lo establecido en el título IV y en el título V capítulo III no será de aplicación a las instalaciones de cogeneración de más de 15 MW de potencia neta, hidroeléctricas no fluyentes y aquellas que utilicen como energía primaria biomasa, biogás, geotermia, residuos y energías residuales procedentes de cualquier instalación, máquina o proceso industrial cuya finalidad no sea la producción de energía eléctrica, que estén ubicadas en los territorios no peninsulares, sin perjuicio de lo previsto en la disposición adicional segunda.»
+
+Dos. Se modifica el segundo párrafo de la disposición transitoria octava.1.b) que queda redactada como sigue:
+
+«En caso de que esta cantidad suponga una obligación de ingreso al sistema de liquidaciones, y supere el límite del 50 por ciento de la suma de la cantidad que resulte de lo dispuesto en el apartado a) anterior y del derecho de cobro de la energía entregada al sistema valorada al precio del mercado diario del mes al que se refiera la liquidación, la cantidad a incorporar como obligación de ingreso al sistema de liquidaciones será el máximo entre dicho límite y la doceava parte de las obligaciones de pago, resultantes de la aplicación de la metodología establecida en el presente real decreto a la energía producida desde la entrada en vigor del Real Decreto-ley 9/2013, de 12 de julio, hasta la entrada en vigor de las disposiciones necesarias para la plena aplicación del nuevo régimen retributivo.»
+
+Tres. Se suprime el tercer párrafo de la disposición transitoria octava.1.b).
+
+Cuatro. Se modifica la disposición transitoria octava.1.c) que queda redactada como sigue:
+
+«c) La cantidad que no se hubiera ingresado por encima de los límites establecidos en el segundo párrafo del apartado b), se añadirá en la siguiente liquidación a la novena parte definida en el primer párrafo de dicho apartado.»
+
+Cinco. Se modifica la disposición transitoria octava.5.a) que queda redactada como sigue:
+
+«a) El órgano encargado de las liquidaciones notificará al operador del mercado el importe del impago de las instalaciones de cada generador, especificando la fecha en la que dicho importe comenzó a devengar intereses de demora.»
+
+##### Disposición final sexta. Título competencial.
+
+El presente real decreto se dicta al amparo de lo establecido en el artículo 149.1.13.ª y 25.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva para determinar las bases y coordinación de la planificación general de la actividad económica y las bases del régimen minero y energético.
+
+##### Disposición final séptima. Entrada en vigor.
+
+Este real decreto entrará en vigor el día 1 del mes siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca, el 31 de julio de 2015.
+
+FELIPE R.
+
+El Ministro de Industria, Energía y Turismo,
+
+JOSÉ MANUEL SORIA LÓPEZ
+
+## ANEXO I — Determinación del precio de adquisición de la demanda y del precio de venta de la energía en el despacho de producción
+
+1\. El precio horario de adquisición aplicable a los comercializadores, los consumidores directos, los generadores para su consumo de servicios auxiliares cuando el saldo neto sea comprador en esa hora y, en su caso, a los representantes, en los términos previstos en el artículo 70, se obtendrá según la expresión siguiente:
+
+Ph<sub>demanda</sub> (j) = PpeninD * Ah(z)
+
+Siendo:
+
+– Ph<sub>demanda </sub>(j): precio horario de adquisición de la demanda en el sistema eléctrico aislado j, expresado en €/MWh.
+
+– PpeninD: precio medio final diario del mercado peninsular, en €/MWh, de los comercializadores y consumidores directos que adquieren su energía en el mercado de producción peninsular, publicado por el operador del sistema, descontados los costes de los mecanismos de capacidad, los costes de desvíos, los costes por intercambios internacionales no realizados por sujetos de mercado y los costes del servicio de gestión de la demanda de interrumpibilidad y en su caso, otros costes que se establezcan.
+
+– Ah(z): Apuntamiento en la hora h en el territorio no peninsular z al que pertenece el sistema eléctrico aislado j calculado según la siguiente expresión:
+
+Ah(z) = Dh(z) / DD(z)
+
+Siendo:
+
+– Dh(z): demanda en la hora h prevista por el operador del sistema en el territorio no peninsular z, expresada en MWh. Dicha demanda se obtendrá como la suma de la demanda horaria prevista por el operador del sistema para llevar a cabo el segundo despacho de la programación diaria de acuerdo a lo establecido en el anexo X en cada uno de los sistemas eléctricos aislados del territorio no peninsular z.
+
+– DD(z): Promedio diario de la demanda horaria prevista por el operador del sistema en el territorio no peninsular z, expresada en MWh. Dicha demanda se obtendrá como la media de las demandas horarias de ese día D previstas por el operador del sistema para llevar a cabo el segundo despacho de la programación diaria de acuerdo a lo establecido en el anexo X en los sistemas eléctricos aislados j, en MWh, que constituyen el territorio no peninsular z.
+
+2\. El precio horario de venta de la energía en el despacho del sistema eléctrico aislado j, Ph<sub>venta</sub>(j), aplicable a los productores con derecho a la percepción de régimen retributivo específico y a aquellos que no tengan reconocido ningún régimen retributivo adicional ni específico, en los términos establecidos en los artículos 7 y 8, se obtendrá según la expresión siguiente:
+
+Ph<sub>venta</sub> (j) = PMDI<sub>D</sub> * Ah(z)
+
+Siendo:
+
+Ph<sub>venta </sub>(j): Precio horario de venta de la energía en el despacho del sistema eléctrico aislado j, expresado en €/MWh
+
+PMDI<sub>D</sub>: Precio medio diario del mercado diario e intradiario peninsular, en €/MWh, obtenido a partir de la media ponderada de los precios horarios del mercado diario e intradiario del día D.
+
+> Se modifica por el art. 4 de la Orden TEC/1172/2018, de 5 de noviembre. [Ref. BOE-A-2018-15515](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15515)
+
+## ANEXO II — Aprobación de los datos técnicos y económicos para la inscripción definitiva
+
+1\. Aprobación de los datos técnicos para la inscripción definitiva.
+
+El procedimiento para la aprobación de los datos técnicos para la inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica será el siguiente:
+
+a) Con carácter previo o simultáneo a la presentación de la solicitud de inscripción definitiva en el registro de producción:
+
+1.º Los titulares de las instalaciones categoría A deberán solicitar la aprobación de los datos técnicos definidos en los párrafos a) y b) del artículo 11.2, adjuntando los resultados de la prueba de potencia bruta, neta y de mínimo técnico ordinario y extraordinario de la instalación y una propuesta de los datos técnicos definidos en los párrafos c) y d) del citado artículo 11.2.
+
+Las pruebas de potencia bruta y neta se realizarán de acuerdo al procedimiento establecido en el anexo XV.
+
+Adicionalmente, en el caso de instalaciones que vayan a percibir el régimen retributivo adicional, los titulares de las instalaciones deberán presentar una propuesta de los datos técnicos definidos en el párrafo e) del artículo 11.2, basándose en las características técnicas de la instalación.
+
+2.º Los titulares de las instalaciones de producción categoría B deberán solicitar la aprobación de los datos técnicos definidos en el artículo 11.3, adjuntando, en el caso que corresponda, los resultados de la prueba de potencia bruta, neta y mínima de la instalación.
+
+b) La Dirección General de Política Energética y Minas, previo informe de la Comisión Nacional de los Mercados y la Competencia y del operador del sistema, procederá a aprobar los datos técnicos para la inscripción definitiva en el registro. Dicha resolución será notificada al interesado y comunicada a la Comunidad Autónoma o Ciudad Autónoma correspondiente y al operador del sistema.
+
+2\. Aprobación de los datos económicos para la inscripción definitiva.
+
+a) En el caso de las instalaciones categoría A que vayan a percibir el régimen retributivo adicional, las mezclas de combustible definidas en el artículo 40 y los datos económicos de despacho definidos en los artículos 63 y 64 y enumerados a continuación deberán ser aprobados por el Director General de Política Energética y Minas, de acuerdo con lo previsto en este anexo:
+
+1.º) costes de operación y mantenimiento adicionales debidos al arranque de despacho de cada grupo, D(i), valorado en euros/arranque.
+
+2.º) Los costes de operación y mantenimiento unitarios de despacho de cada grupo, O&M<sub>VDi </sub>en €/MWh.
+
+3.º) Mezcla de combustible del grupo i para el estado de funcionamiento normal.
+
+4.º) Mezcla de combustible para el arranque del grupo i.
+
+Para las instalaciones de bombeo que hubieran sido adjudicatarias de un procedimiento de concurrencia competitiva de los previstos en el artículo 56, los datos económicos de despacho que deberán ser aprobados serán los costes variables de operación y mantenimiento unitario de despacho.
+
+La Dirección General de Política Energética y Minas, previo informe de la Comisión Nacional de los Mercados y la Competencia, resolverá la solicitud de aprobación de los datos económicos citados a partir de los valores propuestos. Para la aprobación de las mezclas de combustible se solicitará también informe al operador del sistema. Dicha resolución será notificada al interesado y comunicada a la Comunidad Autónoma o Ciudad Autónoma correspondiente y al operador del sistema.
+
+b) En el caso de las instalaciones categoría A que hubieran sido adjudicatarias de un concurso de los previstos en el artículo 55 los datos económicos de despacho y las mezclas de combustible serán aprobados por el Director General de Política Energética y Minas, de acuerdo con lo que se establezca en la orden por que se convoque dicho concurso.
+
+## ANEXO III — Revisión de datos técnicos y económicos de despacho y de parámetros técnicos y económicos de liquidación
+
+1\. Revisión de datos técnicos y económicos de despacho.
+
+a) Para la revisión de los datos técnicos de despacho, las empresas propietarias de los grupos deberán realizar las pruebas de rendimiento correspondientes siguiendo el procedimiento establecido en este anexo y según los procedimientos de pruebas de rendimiento para la determinación de los parámetros aplicables a los costes variables de despacho de las instalaciones de generación pertenecientes a los sistemas eléctricos de los territorios no peninsulares aprobados.
+
+Durante la realización de las pruebas los grupos se considerarán disponibles a los efectos de su retribución.
+
+b) El proceso a seguir será el siguiente:
+
+1.º El operador del sistema remitirá antes del 1 de enero de cada año a la Dirección General de Política Energética y Minas un listado de los grupos de generación a los que se propone realizar las pruebas de rendimiento durante el año, de tal forma que cada 6 años, siempre que la seguridad del sistema se garantice, se realicen las pruebas sobre la totalidad de los grupos inscritos en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo.
+
+La Dirección General de Política Energética y Minas resolverá sobre el listado de grupos de generación que deben realizar las pruebas ese año y lo notificará al operador del sistema, a las empresas propietarias de los grupos y a la Comisión Nacional de los Mercados y la Competencia.
+
+A estos efectos, el titular de las instalaciones deberá proporcionar al operador del sistema, junto con el resto de documentación inicial establecida en el procedimiento de ensayos aprobado, el histórico de consumos específicos de todos los grupos de los sistemas eléctricos aislados de los territorios no peninsulares de los que sea titular a su carga media y, en caso de estar disponible, a plena carga, al 75 por ciento de carga y al mínimo técnico. Asimismo deberá proporcionar el histórico de composición y poder calorífico del combustible de cada grupo.
+
+Las pruebas de rendimiento se realizarán con las mezclas de combustible de funcionamiento y de arranque aprobadas por la Dirección General de Política Energética y Minas según lo indicado en el artículo 12.
+
+Las pruebas de rendimiento de las centrales de cogeneración podrán ser realizadas en un rango determinado de aprovechamiento del calor o en varios escenarios, según lo que se establezca en la resolución de la Dirección General de Política Energética y Minas por la que se apruebe el listado de grupos de generación que deben realizar las pruebas ese año.
+
+2.º El titular de la instalación de generación será el responsable de la realización de las pruebas en el plazo de un año desde la resolución del Director General de Política Energética y Minas a la que hace referencia el párrafo 1.º Por resolución del Director General de Política Energética y Minas se podrá determinar que las pruebas sean realizadas por una empresa especializada cuya adjudicación se realice a través de un concurso.
+
+El operador del sistema las supervisará de manera presencial, pudiendo contar con la asistencia de uno o varios técnicos preservando en todo caso la confidencialidad de la información. Esta supervisión corresponderá a las pruebas y ensayos, y también a las medidas, toma de muestras y calibraciones. El operador del sistema informará a la Dirección General de Política Energética y Minas del proceso de licitación del soporte técnico que requiera su función de supervisión así como las empresas que resulten adjudicatarias.
+
+3.º La empresa propietaria de los grupos deberá informar al operador del sistema, a la Dirección General de Política Energética y Minas y a la Comisión Nacional de los Mercados y la Competencia con un mes de antelación de la fecha de realización de las pruebas de cada grupo.
+
+4.º En el plazo de un mes desde la realización de las pruebas de cada grupo, la empresa propietaria enviará al operador del sistema, a la Dirección General de Política Energética y Minas y a la Comisión Nacional de los Mercados y la Competencia el acta de las mismas. En el plazo de un mes desde la recepción de dicha acta, el operador del sistema enviará a la Dirección General de Política Energética y Minas, a la empresa propietaria de la instalación y a la Comisión Nacional de los Mercados y la Competencia, el informe de supervisión de las pruebas.
+
+c) Una vez realizadas las pruebas de rendimiento de las centrales la Dirección General de Política Energética y Minas revisará, previo informe de la Comisión Nacional de los Mercados y de la Competencia, los datos técnicos de despacho definidos en los artículos 62 y 63, A (i), B (i), C (i), A'(i) y B'(i), a partir del resultado de dichas pruebas.
+
+d) Los costes variables de operación y mantenimiento unitarios de despacho de cada grupo serán revisados, antes del inicio de cada periodo regulatorio teniendo en cuenta todos los conceptos establecidos en el artículo 64, a partir de los valores auditados de dicho grupo desde la fecha de la última revisión. A estos efectos se utilizarán las auditorías remitidas anualmente por los titulares de las centrales de acuerdo con lo establecido en el artículo 21.
+
+e) El dato económico «Di» de los costes de arranque de despacho de cada grupo será revisado, antes del inicio de cada periodo regulatorio de acuerdo con la siguiente expresión:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjE2Ij4KICAgIDxtaT5EPC9taT4KICAgIDxtaT5pPC9taT4KICAgIDxtbz49PC9tbz4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pPkM8L21pPgogICAgICAgICAgICA8bWk+TzwvbWk+CiAgICAgICAgICAgIDxtbz4mPC9tbz4KICAgICAgICAgICAgPG1pPk08L21pPgogICAgICAgICAgICA8bWk+YTwvbWk+CiAgICAgICAgICAgIDxtaT5yPC9taT4KICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWk+bjwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWk+YTwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1pPnI8L21pPgogICAgICAgICAgICAgICAgICAgIDxtaT5yPC9taT4KICAgICAgICAgICAgICAgICAgICA8bWk+QzwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1pPkM8L21pPgogICAgICAgICAgICAgICAgICAgIDxtaT5pPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tc3ViPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAAdCAYAAACUoyOLAAAC0UlEQVRoge2a3XGsMAyFTy3UQSFUss+pglooxr3kPuye2YOQhJkNm+VG34wniW1sx/qxkAGK4j9lAvD9KMsvr+XP0fDcfC0ei+kzB/2GR/sgz00H1zI47aoo0RpfgeOPJ4z9Fm64/wM3Uz9ja1lj0DcSLPvrXD1C5ZjRxlLodh0F7oLINFIFRe31hELFsHiW2sMoa7PzLTLfZS3pLCKrs31IdiZykz1Xqa56wFNY37hbXDQeFULXNz0Kx4jQOakEpEk990CVd+9I+Wi4MZ4gjvblJlrLafC9wZ4b5oY2+X3AU6m0XqEizOZvb70TngLXtVnvcikaYks50pebYNt1YxrWVp5ZwSDtizy3PNo4n6cUVtgjfO+SWeKE/n35ODL35/WNNoGuVzd5xnZz6UrpWiPoYjlOM3WRq5+ces6ncC1ZHNHteqNXhuxsODO0psuMsOeMp/HemQT47jGKsrN5+YzOvcBXRhut06Lt3nlRvUIl6sZbUBTlnU0kEO8c8qyDCucJaXH6a4Bkx7HP2jmUyGss8AMemPpMaPq/d1mrPcSVI+fbT2O9RhaR9vSLxrXu0wp4xHbsEWtXrM9Za7MJCR2PsC5y//pMV6CUuVIvurx0aP1XyN6tvLB/L7S2qTqvVK71ZKJ3K7ZZgZ8ZWn9VOVw20Fd7B3QUsBwKrQ/yVeV1oUa5USB+rdkLrcv9/jKaGSFedEYOh9bF+6BwohIlFQ6H1m+GgR3zpntJlOLDGbG++tLbjrMU0BqHDSD32t+d2LkkN6yPlAnnnd+ewnh55ah9Ql2md2HzxjPixPmrAVvD9pgaOtuzi/3CYOMBaymaOJmkLwXdzDNZffauvtcO1BtAFzYpwo3Ve9AZ61yv4llWVL/n1vfadU1Fgr0NoYtrps+AtcCB9dcLSlZvvYB3vRa18x62vmX6AXjm6k8g/owl+7zFu33pbc++nSqKoiiuwz9EzLiC7IHtRwAAAABJRU5ErkJggg==)
+
+Donde:
+
+CO&Mari: Coste de operación y mantenimiento adicionales debidos al arranque del grupo i expresado en euros desde la última revisión.
+
+narrcci: Número de arranques del grupo i desde la última revisión.
+
+A estos efectos, el titular de las centrales deberá remitir a la Dirección General de Política Energética y Minas, junto con las auditorías de costes definidas en el artículo 21, la información económica relativa al coste de un ciclo completo de revisiones programadas (inspecciones mayores, inspecciones de combustión, de parte calientes, menores, etc.) y el número de arranques en cada ciclo.
+
+2\. Revisión de parámetros técnicos y económicos de liquidación.
+
+a) Los parámetros técnicos de la retribución por costes variables de funcionamiento, serán revisados, de acuerdo con lo establecido en el artículo 38, aplicando la siguiente metodología:
+
+1.º En una primera fase se realizará una regresión cuadrática de las curvas de consumo térmico en th/h frente a potencia aportada a la red en MW obtenida a partir de los ensayos de consumo específico realizados a los distintos grupos de igual tecnología y rango de potencia.
+
+2.º En una segunda fase se realizará una segunda regresión cuadrática a partir de determinados valores de la curva de consumo térmico obtenida en la fase anterior y de la curva de consumo específico estándar de una central eficiente, propuesta por la Comisión Nacional de los Mercados y la Competencia, aplicando diferente peso a cada una de las curvas, en los términos especificados a continuación.
+
+Para la realización de esta regresión se tomarán los valores de consumo térmico a potencia nominal, al 75 por ciento de la potencia nominal, al 50 por ciento de la potencia nominal y al mínimo técnico.
+
+En la primera revisión de estos parámetros se aplicará un peso del 90 por ciento sobre la curva de consumo térmico obtenida en la fase primera fase y del 10 por ciento sobre la curva de consumo específico estándar de una central eficiente propuesta por la Comisión Nacional de los Mercados y la Competencia.
+
+Para las sucesivas revisiones de los parámetros, el peso de la curva eficiente propuesta por la Comisión Nacional de los Mercados y la Competencia se irá incrementando en 5 puntos por cada revisión.
+
+Los parámetros técnicos de liquidación de las centrales de cogeneración tendrán en cuenta su funcionamiento condicionado al proceso de calor asociado.
+
+b) Los valores unitarios de operación y mantenimiento variable de liquidación, serán revisados, teniendo en cuenta todos los conceptos establecidos en el artículo 35.1, de acuerdo con la siguiente metodología:
+
+1.º Primero se calculará un valor a partir de la media ponderada por la energía generada de los costes variables de operación y mantenimiento unitarios auditados descontando los costes de operación y mantenimiento adicionales debidos al arranque de cada uno de los grupos que tengan asignada una misma instalación tipo que han operado en los territorios no peninsulares desde la fecha de la última revisión.
+
+2.º Los valores unitarios de operación y mantenimiento variable de liquidación de cada instalación tipo se obtendrán como la suma del valor indicado en el párrafo anterior con un peso del 90 por ciento y de unos costes variables de operación y mantenimiento estándar por tecnología, rango de potencia y territorio no peninsular que serán propuestos por la Comisión Nacional de los Mercados y la Competencia con un peso del 10 por ciento.
+
+c) La revisión del parámetro d de la retribución por costes variables de operación y mantenimiento adicionales debidos al arranque se obtendrá, para cada tecnología y rango de potencia, de la siguiente forma:
+
+1.º Primero se calculará un valor a partir de la media de los datos Di de los grupos que tengan asignada la misma instalación tipo obtenidos de acuerdo al apartado 1.e).
+
+2.º El parámetro «d» para cada tecnología y rango de potencia se obtendrá como la suma del valor anterior con un peso del 90 por ciento y de un valor estándar por tecnología, rango de potencia y territorio no peninsular propuesto por la Comisión Nacional de los Mercados y la Competencia con un peso del 10 por ciento.
+
+## ANEXO IV — Particularidades de la retribución de las nuevas inversiones
+
+1\. La retribución de las nuevas inversiones de un grupo inscrito en el registro administrativo de instalaciones de producción de energía eléctrica que culminen con una modificación de la inscripción en el registro administrativo de instalaciones de producción de energía eléctrica de un grupo se calculará según lo establecido en el título IV, con las salvedades establecidas a continuación:
+
+El valor de la inversión reconocida al grupo i, expresada en euros, definido en el artículo 26 se corresponderá con el valor auditado de la inversión realizada en la instalación i, VI<sub>_(i,auditada)</sub>. No obstante lo anterior, en ningún caso el valor de la inversión reconocida podrá ser superior al valor de la nueva inversión autorizada definido en el artículo 51.
+
+La potencia disponible y la potencia neta utilizadas para calcular la retribución por costes fijos para la nueva inversión del grupo i, serán las correspondientes del grupo i.
+
+La vida útil regulatoria de la nueva inversión de la central comenzará a computar desde el primer día del mes siguiente al de la resolución de modificación de la inscripción en el registro administrativo de instalaciones de producción de energía eléctrica de ese grupo.
+
+La vida útil regulatoria de la nueva inversión será la que se establezca en la resolución favorable de compatibilidad de acuerdo con lo previsto en el artículo 51.
+
+2\. La retribución de las nuevas inversiones que no impliquen modificaciones en el registro administrativo de instalaciones de producción de energía eléctrica se calculará según lo establecido en el título IV con las siguientes particularidades:
+
+El valor de la inversión reconocida al grupo i, expresada en euros, definido en el artículo 26 se corresponderá con el valor auditado de inversión realizada en la instalación i, VI<sub>_(i,auditada)</sub>. No obstante lo anterior, en ningún caso el valor de la inversión reconocida podrá ser superior al valor de la nueva inversión autorizada definido en el artículo 51.
+
+La potencia disponible y la potencia neta utilizadas para calcular la retribución por costes fijos para la nueva inversión del grupo i, serán las correspondientes del grupo i.
+
+La vida útil regulatoria de la nueva inversión será la que se establezca en la resolución de favorable de compatibilidad de acuerdo con lo previsto en el artículo 51 y comenzará a computar desde el primer día del mes siguiente al de la autorización de explotación definitiva de la modificación.
+
+## ANEXO V — Factores de estacionalidad y horas anuales de funcionamiento estándar
+
+1\. Los factores de estacionalidad que se aplicarán en cada territorio no peninsular, fest<sub>h</sub>, para cada periodo punta, llano y valle son los siguientes:
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">Período</th>
+<th class="cabeza_tabla" colspan="4">Factores de estacionalidad</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Baleares</th>
+<th class="cabeza_tabla">Canarias</th>
+<th class="cabeza_tabla">Ceuta</th>
+<th class="cabeza_tabla">Melilla</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Punta</td>
+<td class="cuerpo_tabla_centro">1,15</td>
+<td class="cuerpo_tabla_centro">1,04</td>
+<td class="cuerpo_tabla_centro">1,04</td>
+<td class="cuerpo_tabla_centro">1,07</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Llano</td>
+<td class="cuerpo_tabla_centro">1,00</td>
+<td class="cuerpo_tabla_centro">1,00</td>
+<td class="cuerpo_tabla_centro">1,00</td>
+<td class="cuerpo_tabla_centro">1,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valle</td>
+<td class="cuerpo_tabla_centro">0,85</td>
+<td class="cuerpo_tabla_centro">0,96</td>
+<td class="cuerpo_tabla_centro">0,96</td>
+<td class="cuerpo_tabla_centro">0,93</td>
+</tr>
+</tbody>
+</table>
+
+2\. Los periodos punta, llano y valle que se aplicarán en cada uno de los territorios no peninsulares a efectos de la determinación del factor de estacionalidad, son los siguientes:
+
+| Períodos | Baleares | Canarias | Ceuta | Melilla |
+|---|---|---|---|---|
+| Punta | Junio, julio, agosto, septiembre | Julio, agosto, septiembre, octubre, | Enero, julio, agosto, diciembre | Julio, agosto, septiembre, diciembre |
+| Llano | Enero, febrero, octubre, diciembre | Enero, junio, noviembre, diciembre | Febrero, septiembre, octubre, noviembre | Enero, febrero, junio, octubre |
+| Valle | Marzo, abril, mayo, noviembre, | Febrero, marzo, abril, mayo. | Marzo, abril, mayo, junio | Marzo, abril, mayo, noviembre |
+
+3\. Horas anuales de funcionamiento estándar.
+
+a) Los valores de las horas anuales de funcionamiento estándar de cada grupo, Hi, en función de la tecnología y tamaño son, excepto para el primer y último año de vida útil regulatoria del grupo i, las siguientes:
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">Tecnología</th>
+<th rowspan="2">
+<p class="cabeza_tabla">Potencia</p>
+<p class="cabeza_tabla">(MW)</p>
+</th>
+<th class="cabeza_tabla" colspan="2">Horas de disponibilidad</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Año no bisiesto</th>
+<th class="cabeza_tabla">Año bisiesto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
+<td class="cuerpo_tabla_centro">7.998</td>
+<td class="cuerpo_tabla_centro">8.020</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt;4</td>
+<td class="cuerpo_tabla_centro">7.998</td>
+<td class="cuerpo_tabla_centro">8.020</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
+<td class="cuerpo_tabla_centro">7.709</td>
+<td class="cuerpo_tabla_centro">7.730</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
+<td class="cuerpo_tabla_centro">7.709</td>
+<td class="cuerpo_tabla_centro">7.730</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
+<td class="cuerpo_tabla_centro">7.709</td>
+<td class="cuerpo_tabla_centro">7.730</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
+<td class="cuerpo_tabla_centro">7.709</td>
+<td class="cuerpo_tabla_centro">7.730</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
+<td class="cuerpo_tabla_centro">7.709</td>
+<td class="cuerpo_tabla_centro">7.730</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
+<td class="cuerpo_tabla_centro">7.709</td>
+<td class="cuerpo_tabla_centro">7.730</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
+<td class="cuerpo_tabla_izq">&lt; 50</td>
+<td class="cuerpo_tabla_centro">7.709</td>
+<td class="cuerpo_tabla_centro">7.730</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
+<td class="cuerpo_tabla_centro">8.252</td>
+<td class="cuerpo_tabla_centro">8.275</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
+<td class="cuerpo_tabla_centro">8.252</td>
+<td class="cuerpo_tabla_centro">8.275</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
+<td class="cuerpo_tabla_centro">7.783</td>
+<td class="cuerpo_tabla_centro">7.805</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
+<td class="cuerpo_tabla_centro">8.046</td>
+<td class="cuerpo_tabla_centro">8.068</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Vapor Fuel</td>
+<td class="cuerpo_tabla_izq">≤ 40</td>
+<td class="cuerpo_tabla_centro">7.709</td>
+<td class="cuerpo_tabla_centro">7.730</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">&gt; 40 y &lt; 60</td>
+<td class="cuerpo_tabla_centro">7.735</td>
+<td class="cuerpo_tabla_centro">7.756</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">≥ 60</td>
+<td class="cuerpo_tabla_centro">7.849</td>
+<td class="cuerpo_tabla_centro">7.870</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado</td>
+<td class="cuerpo_tabla_izq" rowspan="2">≥ 200 y ≤ 250</td>
+<td class="cuerpo_tabla_centro" rowspan="2">8.050</td>
+<td class="cuerpo_tabla_centro" rowspan="2">8.072</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">configuración 2x1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado</td>
+<td class="cuerpo_tabla_izq" rowspan="2">≥ 200 y ≤ 250</td>
+<td class="cuerpo_tabla_centro" rowspan="2">7.709</td>
+<td class="cuerpo_tabla_centro" rowspan="2">7.730</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">configuración 3x1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Vapor Carbón</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.994</td>
+<td class="cuerpo_tabla_centro">8.016</td>
+</tr>
+</tbody>
+</table>
+
+Para las tecnologías no contempladas en el cuadro anterior, las horas anuales de funcionamiento estándar serán fijadas por Orden del Ministro de Industria, Energía y Turismo.
+
+b) Hi para el primer año de vida útil regulatoria del grupo i será el obtenido a partir de los valores de las horas anuales de funcionamiento estándar de cada grupo establecidos en el apartado anterior multiplicado por el cociente entre el número total de horas comprendidas desde el día en el que se inicia la vida útil regulatoria de dicho grupo i y el final del año, y las horas totales del año en el que se ha iniciado la vida útil del grupo que serán 8760 en año normal y 8784 en año bisiesto.
+
+c) Hi para el último año de vida útil regulatoria del grupo i será el obtenido a partir de los valores de las horas anuales de funcionamiento estándar de cada grupo a los que se refiere el apartado 1, multiplicado por el cociente entre el número total de horas comprendidas desde el día uno de enero de dicho año hasta el día en el que finalice la vida útil regulatoria de la central, y las horas totales del año en el que se está calculando este valor que serán 8760 en año normal y 8784 en año bisiesto.
+
+## ANEXO VI — Combustibles
+
+1\. El cálculo del precio medio de la termia de combustible se realizará de acuerdo a lo establecido en este apartado:
+
+a) El precio medio de la termia de los combustibles utilizados en estado de marcha por el grupo i del sistema eléctrico aislado j en la hora h, pr(i,h,j), valorado en €/th PCI, se calculará de acuerdo con la siguiente fórmula:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjE2Ij4KICAgIDxtcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cHI8L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bW8+JiN4MjA2MTs8L21vPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWZlbmNlZCBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaT5pPC9taT4KICAgICAgICAgICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgICAgICAgICAgPG1pPmg8L21pPgogICAgICAgICAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgICAgICAgICA8bWk+ajwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbWZlbmNlZD4KICAgICAgICA8L21yb3c+CiAgICA8L21yb3c+CiAgICA8bW8+PTwvbW8+CiAgICA8bXJvdz4KICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgPG1vIHN0cmV0Y2h5PSJmYWxzZSI+JiN4MjIxMTs8L21vPgogICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgIDxtaT5jPC9taT4KICAgICAgICAgICAgPC9tcm93PgogICAgICAgIDwvbXN1Yj4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1vPig8L21vPgogICAgICAgICAgICA8bWk+eDwvbWk+CiAgICAgICAgICAgIDxtbz4oPC9tbz4KICAgICAgICAgICAgPG1pPmM8L21pPgogICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgIDxtaT5pPC9taT4KICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICA8bWk+aDwvbWk+CiAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgPG1pPmo8L21pPgogICAgICAgICAgICA8bW8+KTwvbW8+CiAgICAgICAgICAgIDxtbz4mI3hCNzs8L21vPgogICAgICAgICAgICA8bWk+cDwvbWk+CiAgICAgICAgICAgIDxtaT5yPC9taT4KICAgICAgICAgICAgPG1pPmM8L21pPgogICAgICAgICAgICA8bW8+KDwvbW8+CiAgICAgICAgICAgIDxtaT5jPC9taT4KICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICA8bWk+aTwvbWk+CiAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgPG1pPmg8L21pPgogICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgIDxtaT5qPC9taT4KICAgICAgICAgICAgPG1vPik8L21vPgogICAgICAgICAgICA8bW8+KTwvbW8+CiAgICAgICAgICAgIDxtbz4vPC9tbz4KICAgICAgICAgICAgPG1vPig8L21vPgogICAgICAgICAgICA8bWk+cDwvbWk+CiAgICAgICAgICAgIDxtaT5jPC9taT4KICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICA8bW8+KDwvbW8+CiAgICAgICAgICAgIDxtaT5jPC9taT4KICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICA8bWk+aTwvbWk+CiAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgPG1pPmg8L21pPgogICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgIDxtaT5qPC9taT4KICAgICAgICAgICAgPG1vPik8L21vPgogICAgICAgICAgICA8bW8+KTwvbW8+CiAgICAgICAgPC9tcm93PgogICAgPC9tcm93Pgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYkAAAAgCAYAAADnuYQvAAAFTUlEQVR4nO2da5EbMRCEm8MxMIEQOASHwAyOwTIIBWMIBHM4CsYQCskPZ3Kz8ow00mrf/VW5Kidbu1K3tKOXHYAQQgghs3ID8KfDixBCyAF5A/AFBglCCCEOPzB+4F+DeX6BQYIQQk7BgO8H/m88g0AECRSEEEIOjl52+sJzKarEBQwShBByCi54ziIkUPwM5nvMViJCCNkAA54PyCncEV/Pj3LreK0onxjvT3wE8rTWearuPXxr5Sh+T2UtD5bUP+rLgGe5rPS12ulZ+sisfeeOp5ApVzwr+B64xrv6/BTe/11jUH+vMUoXc2V/Yo5G5um+VP6UM/vdSk8Ptqx/1Jc7Xsvfu51aeNqdqY/M1ndu6BflrrBHEVO5zHTdHG8YLzt9db7+VN17+tbKkfxuYW0Plta/5MsFrw+pNTVa2x9gex413ahn5JlzxLCG4R8YLztF9ydKTNW9t2+tHM3vGrbgwRr653wZMF7yWFOjLfgDbMQjOVlzx/ibw4N6T/6Wf1/Uxbx1LPlszTqXTMP0fWuWaR4qX8pcEbmE/h5EdH+iRE534FV78S7im6C1jEyNj+a3LBcOGC8d6vLJ/WWJxKu/pWVvD/aif86XdKkpolHEJ6u8+j6WdmfuIy/pN7xujkiDl4r/gR1VH/CjnFQqWiF9z4fKHxFf45kr17fQjct7tT5w3jA2qkegyukuiI5X47MR3+T96MN2T36XuKj8D4z7QarbHd8aDRiXP6dlbw/2or+Xbh0DL7XzqE8lPS3tztxHzPQ7Xiv5UBf2dtdzQl5RN12TqaaUoza/LpNVVqn4GqcUZNmp5gt2OSJBQhqUN7L18qfvaU9y7MXvu5OecjU+p/uEkBsZ5rTs7cFe9PfS06UmuXapnUd8Kulp1f3MfcRMt4KELD8BfpCwRlZCZLqW3k9Hr1vm2h65SJ3OjpZE6tZjqQnI667xGoeXf8pJiqP5nZbHGsXl7lHSsrcHe9HfS7dONUXaecmniJ6WdmfuI2a6N5OQB4wXJHKbKt4DyiMt1AP1HTwXaXMziTmXm2Q/oNemNRDbzJIRiNUovfwD2jfr9uR3hLQ81mgxN4Isadnbg73ob6V7vzgQaeclnyJ6WtqduY+4Mwl9oTRaekHCmiICY9P1+7K5lJLeTxdSb76WHtS5SN06VZuC1KP3hrmnu3BVL6mzbvBe/nTqnp7w8Dw4mt/pmuwN9kMs1+kjWvbyYE/6W+meFqV2HvGppGdOu7P2ETNdgoQeOQPjHXXrYecdE5MKWWuFVsBJR7wikL62lxfJZ7z3b4W8vZHvSfxG7PebavB0l1mL1tLyIXe8T8+qrHVay4Oj+S2dT+pkdbLITCWnZU8P9qS/le4t2ZWOoUZ8AvJ6etqduY+Y6dZyU5QhUwiL98rPR/OWfiRv6VmE/NBfzfSwZlO7Vvde+Wv926PftcsCrSzhwdb0r/Ulp9HcPp21j5jpU4KE5I8QmR615r0iP5JYkp94mvNZkecD9ZtSU+tVm7/Wvz36XXtMcSpzerA1/VvLklu+mduns/URMz1dZmoVfcmOld5X1tCsUXvLZs8U5Ljrr8p8N7Sdfpqq+1q+tTKn33pJYEld9uRBq/5T+6HWaGmf9uQPsJ5Hm0U2q2pH4XPwA889iOj/I6Hz7a0hrsWW/D4j1H/70KONov+f6088I3LkNeD7hwAJIYQcFInera+l900IIYQshBxPm/LyNpj0+ishhJCdIfsJU1/WSSh9hG3AQTeVCCGEtHHDd2C4gBvbhBBCFHeMf6iMEEII+Y/e62CQIIQQQgghhBBCCCGEELJn/gIkkIiwOAhUdQAAAABJRU5ErkJggg==)
+
+Donde:
+
+prc(c,i,h,j): Precio del combustible c utilizado por el grupo i del sistema eléctrico aislado j en la hora h, valorado en €/t, cuyo valor se obtendrá de acuerdo con lo previsto en el artículo 40.5.
+
+pci(c,i,h,j): Poder calorífico inferior del combustible c utilizado por el grupo i del sistema eléctrico aislado j, valorado en th/t en la hora h, cuyo valor se obtendrá de acuerdo con lo previsto en el artículo 40.5.
+
+x(c,i,h,j): Fracción de las termias totales aportadas por el combustible c utilizado por el grupo i del sistema eléctrico aislado j en la hora h.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjE2Ij4KICAgIDxtaT54PC9taT4KICAgIDxtbz4oPC9tbz4KICAgIDxtaT5jPC9taT4KICAgIDxtbz4sPC9tbz4KICAgIDxtaT5pPC9taT4KICAgIDxtbz4sPC9tbz4KICAgIDxtaT5oPC9taT4KICAgIDxtbz4sPC9tbz4KICAgIDxtaT5qPC9taT4KICAgIDxtbz4pPC9tbz4KICAgIDxtbz49PC9tbz4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pPlE8L21pPgogICAgICAgICAgICA8bWZlbmNlZCBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaT5jPC9taT4KICAgICAgICAgICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KICAgICAgICAgICAgICAgICAgICA8bWk+aDwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICAgICAgICAgIDxtaT5qPC9taT4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tZmVuY2VkPgogICAgICAgICAgICA8bW8+LjwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICA8bWk+cDwvbWk+CiAgICAgICAgICAgIDxtaT5jPC9taT4KICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICA8bW8+KDwvbW8+CiAgICAgICAgICAgIDxtaT5jPC9taT4KICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICA8bWk+aTwvbWk+CiAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgPG1pPmg8L21pPgogICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgIDxtaT5qPC9taT4KICAgICAgICAgICAgPG1vPik8L21vPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgICAgICA8bW8gc3RyZXRjaHk9ImZhbHNlIj4mI3gyMjExOzwvbW8+CiAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5jPC9taT4KICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWk+UTwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1mZW5jZWQgc2VwYXJhdG9ycz0ifCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pPmM8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWk+aDwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWk+ajwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICA8L21mZW5jZWQ+CiAgICAgICAgICAgICAgICAgICAgPG1vPi48L21vPgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICAgICAgICAgIDxtaT5wPC9taT4KICAgICAgICAgICAgICAgICAgICA8bWk+YzwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICAgICAgICAgIDxtbz4oPC9tbz4KICAgICAgICAgICAgICAgICAgICA8bWk+YzwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICAgICAgICAgIDxtaT5pPC9taT4KICAgICAgICAgICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgICAgICAgICAgPG1pPmg8L21pPgogICAgICAgICAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgICAgICAgICA8bWk+ajwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1vPik8L21vPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21yb3c+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASYAAABCCAYAAAD61nsiAAAJHElEQVR4nO2db6hmRR3HP4XSH5YQthdCUnYT8kWwC2YY3BcGS9QWtUTFpXpxA2uX1JBYHkz7s0QqtZGS7CXZYiMIBUmFipakXaEgSdSi3oQXRBKCghUxkIiwF3N+3Hnmzpxn5jznzO95zvl94Ly4zzln5ju/O//nd2bAMAxjpBzWFtAzY0uPYUySbW0BPfM5bQGGYSzHAeA2bRE9swVcoy3CMIzubAM3aIvomSuAU9oiDMPozqPAZdoiBuBhbQGGYXTjKuDX2iIG4l7G1xM0jElwErhdW8RAHAPu1xZhGEY5zzLeXsUVwL8Y5zDVMEbLNcB/GXfBfRY4oi3CMIx8toG/aIsYmAeBe7RFGIaRz1ngp9oiBuZ24A/aIgzDyOdp4GvaIgbmo7jh6gFtIYZhLOY64DXg09pCBuZqXDo/pKzDMIwMvoArsGP/2PUNwAuMd55pBmwoxX0el4e2egxzp8ewhsDsPTA/BF4E3qwtpAKPA7/RFlGAZEC5Zi3Ppe51YauJbzPj2U3v+WXYZD6Nm8DukmEuS8oOZu8K/BG4oC2iEmeAS8C7tIUsQDJe2IrFftuh35azC1u4wto3GwOFuwxm7wq8E/gfcE5bSCVO4gr3h7WFtJCqlGh+81vKDVajleu7B+GzChWBYPauxBFcRr9bW0glPotL783aQhJssDdsizFr7sncxg6L5wZ2vTBzhgrybMmcg4Tt6y+Zf/E1hnTpHcgQeMb8cDimKWWfmB3M3pU4gRN3i7aQSnwAl97vaQtJID2iVGso9yXD77Y8K5lW7udmOHkvN6PLXIXMUWyQXyh9UoVews9lw3tn19MR2nWRfWJ2MHtX4nQj4hPaQirxblx6H9EWkkBaslQmPc/8UKKtoIT3dsgrKFuUDVdmQdil7wu7xIcQUlBKegQyHA4rlZ3g7zb7xNJh9q7EI42I92uKqMhbgFeAP2kLSSCtfIywRSbyt7DMqk3OcMVHhkr++6XzH229Br+HkEuoIexV5NgnZgezdyX+3Ih4h6aIyvwNeBl4q7aQCG1zDTP2V1qpSdDYs7mkWtIUYSbepTxTt7X6XVrwUEPYe8mxT8wOZu8KXAn8G/gncLmWCAWewBn+fco6YpwnXTHFWmTp1oeEQ5lwNUkmhUOkJSUIN/V82FPwM7W8n3rXp63XUDpUCedIwpVMCbPNPm12MHsPzGFcop7TFKHAw7h0H9MWkiCWKVIZrW352l+Nis2VxDyHN713wvmZ2PNhRSoFJ5wHW+Sl3NZrSC1fS7gh4UpcqgC22SdlhynbuxpHcQl4UlOExxBu9jEeaOI5MXA8XREnN3ENWDTen9HNZuJBPNTzue/6vYYYpa136dCoFLP3wHwKJ/CJgcJfBTf7GD9onjm5ZFxDIUOP2Dg/tQRd6neS091f5vmSd7do79WUULr03hWz94B8HvdPXAkx1HPs+i4u3d+sEFcJUqikpfOd4HKc8NSXeAuRtKYmb0sndf1hUQ1bTN3eg3ErTuxj2kIahnSz9/kWLt2nK8RlpFnkTGr0y0rYO2xhw08ZwO3o+BrwUEZ46+5m73NHB22GYfSEuKxvEa8lv40roD9pCWMsbvY+X2nCjm0l7K+spK5VGfoaxloihTtVUO9r7j/QEsZY3Ox9bmaYz1JO2WWXXfuuKG0F9RyugJ5L3B+Tm73PdvPcxcLwF3HKLrvs2nftQ3ogqQriDK6AnkncH5Obvc/xJr5fRO7ZUM4wBmTLu6Swhj2Q7+AK2o9bwhiLm73Pl8mf9DcMowdk9c0voKkVrm80v/+sJbyxuNn7iI1+lPFsV3wnyWUuw5gcsjr18yXCWBc3ex+pkO/rqCOHg8BTWMVkGMV8EZf5f9Xx/XVxsw+5G5fuuzpqyeUQ85VMToV8CDfEtIrJmCyy//VvtYUswSI3+xjfb9776lCiPPwPcS/hKp4cpHIyjMnxcVzm/722kCXo4mYv79w6iKL9+EO6p3DDvEWUDE0NY1TcyF5hmRLiv7VdKb4NXG9JKqfcIWTN7Sdm2KmyNTF7t3AtTuDzfQa6BvwSl+4jFeMU3ym5jma8s2zGCX2yUr3Kvj+eXoXtbuTTJk1SdjB7L+By4AXgP+QNL8bCMzij1j6N168oLjFciykZL7aRfvib+m6FTOBUWQ+zdyYXcBn2PX0FuOK8DvgHrpf4+spxH2R+SDfEEDpVKYGd4quN2buAs7jM+sE+AlsD3oZL7wWl+GU749L5phzsFN/9dOkdSM823DvcTvHdrzGkt96Y7Mm03Udga8D1DO/1vQjfTyl3vimHRSuUcl8yfLhzhM9YtrsJT0xZhJ3im0df9k4i+37X8OlZBT6GS++dihoOMt/q9DUulzDtFN89/O8ucwm/EZXwd4K/2+wTS4fZu4DrmoDuXzagNeEELr2fUdYhQ7oSp8tFSCsfw07xzSfUYKf4zlPtFN9XgUf7CGgNuAdnuGuVdUgG6WsYB+1zDbEtbFKToGPa7qZLCx5qCHsvOfaJ2cHsXchjuKPCp8BDwF+BNylqkEnovr/Va9t7K9YiS7c+ZEzb3ZQOVcI5knAlU8Jss4+d4tsTX8f1mt7eV4ArzDO073E+NJIZhvKviWWKVFxTPlVWwg0JV+JSBbDNPik7TNnenfhII6amJ7QGB3Dp1DqBV/yYLjGcQ6ud4jtPaetdOjQqxexdwJXAi8CX+gx0BXkvuvNL8jFvyZi+dGLc36DOTvEtw07xXcFTfC8y/pW5E8DfleK+C5fpjxe8c5T8FRM7xXee0kldf1hUwxZTt3c2p+j/1JBV417SJ8IMibgGlO4xvkO/q3Zjost2N0Z31Ox9I/BS7Ugrc5H6Hu6HcHNKufsw+e+tW6tqGL3zRuAV4GplHUPyEnBVxfj8fb+P47q6OdeMvY99DWPynGW838wdBh6vHKc/Ed3lWrUtOwxDhSPozMHU4DbgporxiY/IMldqstqfqDWMSfA7bQED8SDOj6kG4ekoXa/YCp7vRzJjoJUQw1g1TuP8msbEZYynJ7jDXmW0gU2OGxPhMKuz419f3AAc0xbRE+eZ/8rdMCbDLdoCeuYm3KrjGPDnrqxiMibFJ7UF9MzY0mMYk2QsvQthbOkxDMMwDGMZ/g8Oe2Ubjv2IGwAAAABJRU5ErkJggg==)
+
+Siendo:
+
+Q(c,i,h,j) Consumo horario en toneladas del combustible c por el grupo i en estado de marcha del sistema eléctrico aislado j autorizadas a los sujetos productores en cada hora.
+
+b) El precio medio de la termia de los combustibles utilizados en periodos de arranque parada por el grupo i del sistema eléctrico aislado j en cada arranque, prar(i,j), valorado en €/th PCI, se calculará de acuerdo con la siguiente fórmula:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjE2Ij4KICAgIDxtcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cHJhcjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtbz4mI3gyMDYxOzwvbW8+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtZmVuY2VkIHNlcGFyYXRvcnM9InwiPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgICAgICAgICA8bWk+ajwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbWZlbmNlZD4KICAgICAgICA8L21yb3c+CiAgICA8L21yb3c+CiAgICA8bW8+PTwvbW8+CiAgICA8bXJvdz4KICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgPG1vIHN0cmV0Y2h5PSJmYWxzZSI+JiN4MjIxMTs8L21vPgogICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgIDxtaT5jPC9taT4KICAgICAgICAgICAgPC9tcm93PgogICAgICAgIDwvbXN1Yj4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1vPig8L21vPgogICAgICAgICAgICA8bWk+eDwvbWk+CiAgICAgICAgICAgIDxtaT5hPC9taT4KICAgICAgICAgICAgPG1vPig8L21vPgogICAgICAgICAgICA8bWk+YzwvbWk+CiAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgIDxtaT5qPC9taT4KICAgICAgICAgICAgPG1vPik8L21vPgogICAgICAgICAgICA8bW8+JiN4Qjc7PC9tbz4KICAgICAgICAgICAgPG1pPnA8L21pPgogICAgICAgICAgICA8bWk+cjwvbWk+CiAgICAgICAgICAgIDxtaT5jPC9taT4KICAgICAgICAgICAgPG1vPig8L21vPgogICAgICAgICAgICA8bWk+YzwvbWk+CiAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgIDxtaT5oPC9taT4KICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICA8bWk+ajwvbWk+CiAgICAgICAgICAgIDxtbz4pPC9tbz4KICAgICAgICAgICAgPG1vPik8L21vPgogICAgICAgICAgICA8bW8+LzwvbW8+CiAgICAgICAgICAgIDxtbz4oPC9tbz4KICAgICAgICAgICAgPG1pPnA8L21pPgogICAgICAgICAgICA8bWk+YzwvbWk+CiAgICAgICAgICAgIDxtaT5pPC9taT4KICAgICAgICAgICAgPG1vPig8L21vPgogICAgICAgICAgICA8bWk+YzwvbWk+CiAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgIDxtaT5oPC9taT4KICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICA8bWk+ajwvbWk+CiAgICAgICAgICAgIDxtbz4pPC9tbz4KICAgICAgICAgICAgPG1vPik8L21vPgogICAgICAgIDwvbXJvdz4KICAgIDwvbXJvdz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYEAAAAgCAYAAAD0bsTbAAAFxUlEQVR4nO2da3XjMBCFL4cyCIElEARFEAZlYAZLwRgWQjiUQjCUQveHdzZjdUavyJLS3u+cnNM4lmTfK+sxUlKAEEIIIcWsAD4bvAghhDwhLwDewU6AEEJ+LL+wb9AvmWn+gJ0AIYR8CxbcG/QPbI18DtIREEIIeXJ0WOgdW6goxQnsBAgh5FtwwjYLkI7gd2a622FXRAghk7NgazyPYD0o3xhv2K8PvGakyVlDsDhSu55llDLC10cZpeMV+etUuXj65/qyYLsu77NR9Y0eDeCKTfiQCzZRzoX5nf+lW9T7EaNsMVXWB46oWJ52M5fx7L7WMkrHszr3EXL1z/XlCvvae9RpT7uWZZfU81k96sKKtj2fxwn+qOMoXrAPC703zr+Hdr38qWWErzWM1vGCY3Ty9E/5coLdCI3UiR4NwKsIRzHC5Ffsw0K56wMpemjX259aRj+8KWbQ8cjRtad/zJcFX0MSI3WiRwrZpXLF/luwi/pM3svfEuawvvR0+/d+VX9LoSv82NSnSleClGFNq47qaVPo7wHkrg+kiGkHfNVP/LJCUjpspStiqgxgr3fOtHdGX+X+F+y10FpJ+RLC8O7B0mMGHSVf/QyXhCdr9I/5YoWCcnTK8cq6Zl2WpV1rj2rq+TQerfi6QCGVXm78E/teM9zeKB2Ifm/d0A1+zyd51sTRPUPlPix0hfJetQ3NC/YGteiIYtoJEve7OOeKxmvwPqcMOVc+z22Ie/uacz2S/oZ9HQ/v/Yr7fS7YNwQxPUbrqJ/fm0pbuiZTqr933NsOnarTuV6lNLW0a+1RaT2fzSNc8fUmbyrzcAVbFjTkhq1OwBs1ecJfUD89k4YvRG54xMq/hIVKvkAWI6cTCBt5Kw/92Rl732NlhJ/J4CFFT1+9wYd1TVajEOqW0tLTY7SOEnqRfGs9KNXfO26FgiT/VJ3O8SqlqXX/rT0q1Xg2j8xOQDfkYScg6PBRTidgjbZ0XjXbmGI9cDij6Yk0SC1CQUBcO41XKayHaQny9Mp4ZBfDjL6usEeSOr9YGSk9RusodU+nLY091+jvHfd2BeXU6ZRXOZpa2rX2qLSez+aROxOQxiTsBM7BsdyZQGwhxGu8UsR60NhM4MhwkMTjWy0KA3mLSDKysLQPRzNWw+eVsaD9aD5Fra+516Tv2xrpxUZ/KT1G6xj6Gt5vDjX6W8dj34zPqdMpr3I0tbRr7VFpPZ/JIwCbIDqzsDcMO4E1OD+cnnkNkTct1BVFfy6LQTFiPfAjoYhaROTWC9KedsJFveSedSUPPdELSqs63yojnEWEOys8n2b0NYyJrrAbqdhDnaPHKB3DZ1c/9GskXUiN/tbxWL1N1ekcr1KaxrRr5VFpPZ/NIwD3TkCPgoH9qrVu2JbguJhzc/KBys+6ABHBiv15oSh9jvf5mkjbGvmewAfyfj+oBE878cJq4LWWF+x90ZqnygD2Mycrvmr5NKOv8nBZYUwhZ6YR02OkjmFnL76Hg7Yj9LeOx8J2qW2aOV4BcU097Vp6VFrPZ/Po/0W1Hrl6LN5FOJwj56d+hK33LEB+SK5kWleyaFyqXQ21ZcR8Kj3/SF9rw1OlzKBjbbpa/Wt8iel0tFc9PKr1J5W2uUc9OwEpL4fUlOiC+OigJ7+xmfJWkOYV5YtBPe6rtIycqWvJ+Uf5+sh21RpG61ibrkb/R3yJhcCO9upIj2r9yUnb1KMwfNPrAXmkLJkmeYspNYssjyDbQf8UpltRt3uoh08964Iu8yhf9ZT9Wep5b2r1b/G8aZ16e0WPnhBZgygdRR/BL2xrALn/R0Cne6bK14OZfP2JUP/5oUeTof/P8Bu2njbnteD+Q3OEEEKeFOmVa1+91y0IIYQ0ItxyWfPyFnas7ZuEEEImQeL5j76snUR669eCb7aYQwghJM6Ke8N/AheOCSHkR3HF/sexCCGE/CD0WgM7AUIIIYQQQgghhBBCCCGt+At6I4TVdC2mwQAAAABJRU5ErkJggg==)
+
+Donde:
+
+prc(c,i,h,j): Precio del combustible c utilizado por el grupo i del sistema eléctrico aislado j en la hora h en la que se está realizando el arranque, valorado en €/t, cuyo valor se obtendrá de acuerdo con lo previsto en el artículo 40.5.
+
+pci(c,i,h,j): Poder calorífico inferior del combustible c utilizado por el grupo i del sistema eléctrico aislado j, valorado en th/t en la hora h en la que se está realizando el arranque, cuyo valor se obtendrá de acuerdo con lo previsto en el artículo 40.5.
+
+x<sub>a</sub>(c,i,j): Fracción de las termias totales aportadas por el combustible c utilizado por el grupo i en estado de arranque del sistema eléctrico aislado j en ese arranque.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjE2Ij4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+eDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+YTwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgogICAgPG1vPig8L21vPgogICAgPG1pPmM8L21pPgogICAgPG1vPiw8L21vPgogICAgPG1pPmk8L21pPgogICAgPG1vPiw8L21vPgogICAgPG1pPmo8L21pPgogICAgPG1vPik8L21vPgogICAgPG1vPj08L21vPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+UTwvbWk+CiAgICAgICAgICAgIDxtaT5hPC9taT4KICAgICAgICAgICAgPG1mZW5jZWQgc2VwYXJhdG9ycz0ifCI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWk+YzwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICAgICAgICAgIDxtaT5pPC9taT4KICAgICAgICAgICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1pPmo8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21mZW5jZWQ+CiAgICAgICAgICAgIDxtbz4uPC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgIDxtaT5wPC9taT4KICAgICAgICAgICAgPG1pPmM8L21pPgogICAgICAgICAgICA8bWk+aTwvbWk+CiAgICAgICAgICAgIDxtbz4oPC9tbz4KICAgICAgICAgICAgPG1pPmM8L21pPgogICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgIDxtaT5pPC9taT4KICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICA8bWk+aDwvbWk+CiAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgPG1pPmo8L21pPgogICAgICAgICAgICA8bW8+KTwvbW8+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgICAgIDxtbyBzdHJldGNoeT0iZmFsc2UiPiYjeDIyMTE7PC9tbz4KICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPG1pPmM8L21pPgogICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaT5RPC9taT4KICAgICAgICAgICAgICAgICAgICA8bWk+YTwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1mZW5jZWQgc2VwYXJhdG9ycz0ifCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pPmM8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPjwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWk+ajwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICA8L21mZW5jZWQ+CiAgICAgICAgICAgICAgICAgICAgPG1vPi48L21vPgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgogICAgICAgICAgICAgICAgICAgIDxtaT5wPC9taT4KICAgICAgICAgICAgICAgICAgICA8bWk+YzwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICAgICAgICAgIDxtbz4oPC9tbz4KICAgICAgICAgICAgICAgICAgICA8bWk+YzwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICAgICAgICAgIDxtaT5pPC9taT4KICAgICAgICAgICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgICAgICAgICAgPG1pPmg8L21pPgogICAgICAgICAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgICAgICAgICA8bWk+ajwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1vPik8L21vPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21yb3c+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARgAAABCCAYAAACM7MmpAAAJrUlEQVR4nO2dX4glRxWHPyVBI4sE1oeAQeMYMA/CLkQlwjxEWERX0UVULurDCNFdTCJBlsv6fxGToCsmGHYwRFkRJIFgElBxMJgNKBgMJoq+iAMiBgIJbJAIIiL6UPcwdWuq+lZ1V/epu3M+aIa5t7vqV+fW/zpdBYZhGGvKUW0BEVrUZBhGD7a0BUT4hLYAwzCGcwi4Q1tEhBlwvbYIwzCGsQXcpC0iwtXAWW0RhmEM41HgCm0RCR7WFmAYRn+uBX6uLaKDe2izd2UYRgangTPaIjo4AdynLcIwjH48S9s9hKuBF2l3CGcYRoLrgf/QfuF9FjimLcIwjDK2gD9qi8jgQeBubRGGYZTxAPBDbREZnAF+oy3CMIwyfgd8SVtEBu/HDeUOaQsxDCOPG4H/AR/VFpLBdTit71HWYRhGJp/CFdp1eKHwVcDfONjzMHNgQ1tEwLa2gBVo2mwHV75mFcNs3d5LfBd4DniNtpBMHgd+oS2iAMlgcs0HhjXk+ZAZTtNm4XObLKdlE9itqKsPqbRo2mzTu38ILdo7m98CT2iLKOA8cAl4s7aQFUjGClub2Gc5bFO3FazNBq4wt0QLNpsxjl1atPc+3gT8F7igLaSA07hC+l5tIR2kKhcWn5W2aBusR4vVQoEWWrFZ7R6UT0v2jnIMl9nv0hZSwMdxmm/VFpJgg73hUIz54rvYnIA/nPIz5jarez273rM53Xe5t7Q35ccT0qe1ljTPWU5/zD6pNMbS0orNJGw/X5TMB9W296Scwgm/TVtIAe/Caf6WtpAE0kNJtVryvZ+hJfNtB/8Lux3hyb3yfW6mk+f6TH6mCq/MFeSy4T2zy55NQvutSmMsLS3YTNImcyYb5FdmPrXsPTnncAI/pC2kgLfgND+iLSSBtDipTLjD/q77LssZaJPlDN9VWMLvtskrLLOIjlx2iXfNJcOXVFoynAwrh+3g/640xtLSgs3mQdh9bV7T3pPyCE7gO7WFFPBa4GXg99pCEkhrHCNsOSFewObBPake0ZAVipwhRIyuVtxvsUt0xHorEkZOGmNpacFmMuTzny+dj6lt70n5A07gG7WFFPJn4B/A67SFROgao8/ZX/mErWesG52aKIyFl0uqVVxFVyvcp0X1h0aw3x45aYylpQWbhb9jmNYcatt7Mq4B/gm8AFyprKWUJ3GGfYeyjhg7pCuYWMsZ3u9P6Mnnc+Jhhr2fcOVEJk5D/DkeP9zU/T5drXjpECCcQ4itsK1KY1daNG0W9pT8ysD/Xae096QcxSX4L9pCevAwTvsJbSEJYj96KiNJRvRXM8JVg64lV3/lJTYPEfMi9eMI5z5WeZ12teKpZVMJNyRcOUoVpK40ptKibbOw4ZDf2Y9vLHs3wXFc4p7SFtKD+3HaT2kLSSBOULIkXWOcPKdfZhJv0hr3h6tbIaWtad9hWi4t2GzIs7XtPSkfwYl/cqTwa7mhx/jO4p7T/aSNjnT1Y+PjIb4Lpc/ldMFL7p/R3csoYcgyeQnaNhvybE17T84n2XPoWje+idP+VW0hAVJopEXynaT6OraFaEzqSZpSk5Slk5f+cGOK9DQ7EZqgtr1VuB2XkMe0hfTgazjt57SFHBBWOQ8adWnG3mGr2OWGHnJmce9DGfe24Ibu84We4RuGUYi4Ic8oq/G+jiukP+i4pyU3dJ/PLcKPbfMZbo8Qu9ZxWGgYKoTvseRy7+K5+zvuackN3edWxnld4Kxddh3gK0lXofQn1PzK4cLiswuJ51pzQ/fZWtx3sUccXZy1y64DfEWRXkWsQPsFdsby/Mn5xXfnE+G25obucxKn/SeR72yIZBiVmHmXFMxwSDOLfA7wDVxh+35H2C25oft8lvwJasMwCpHVotg7LP7wYoe9PTd2g+++srj/Rx3xtOSG7iPp/17GvX3xneWGXIZx2SIVhP9XkJWYHw8If0o3dB+pHO8tiLuUw8DTWAVjGL34NK4A/Kzn81O6oYfchdN+Z0H8fTjCcmWRU5kewQ3drIIxDjSyt+0vlXWscouO8e3Fc58fS5SH/8LiJVwFkoNUMoZxIPkgrgD8WllHH7doeeb2URTtxx8qPY0bPq2iZMhnGJcdN7NXYNYN8eHZmii+DVzvRSqZ3KFZa6/Tz2nvpb/WX/fQtJnMndbc0mIye9+AE//XqSKsyE9x2o9NGKf43sh1POOZoRkj9OkZ8vJbagvJvtTajkNWODVJpUXTZrIgMrQXrGbvK3HnPP+bvC5/SzyDM9rUpzv6Bf4S47VskrFiG1n3aYGa3vmMNk8pbMFmQ/YO6mIyez+By7RvnSKySrwCeB7X83rlxHEfZnmoNMbwMlW5gJ0KORWt2Kx2D8pnEns/gMuw7x47ooq8HqdZ6zxt2Wq0dD4mBzsVsgxJc7i3r50KuV9jyFi9oyVkT5itsSOqyNsZ34t3Fb6fS+58TA6rVtTkez9D26mQdipkF7Xs3QvZl3cKf5JafACn+YuKGg6z3DrUagkkTDsVMo/wfTkJfzv4vyuNsbS0YDM5dkXC7mvzmvYu5sZFJPeNGUll5DztjynrkKFSifPdKqQ1jmGnQsZ1xHorEkZOGmNpacFmMuTzny+dj2niVMh/AY+OHUlF7sYZ5gZlHZIBag2PoHuMHts+I2w97VRIOxXSp7a9e/EY7gjZdeEh4E/AVYoaZLK19rtQqX19IN5yhvf7E3r+Ps2xMFvbjqN0CBDOIcRW2Fal0U6FnIAv43oxb5gisgo8Q/c+wmMjP/ZYM/CxHz0Vl2REfzUjXDXQPuEwDDP1fWrZVMINCVeOUgWpK42ptGjbLGw45Hf24xvL3tV5H07olF6xfTmE06p1oqP4wVxiPOdEOxUyj77DtFxasNmQZ5s5FfIa4DngM1NFOIC3oTv/Ii89lhT40glgf6MrOxUyjp0KuWanQl5kPVaSTgF/V4r7TlymPlnwzHHyZ/7tVMg8/OHGFOnRsNkQatu7Cmepv0P/GNxD+hSEMZEl6dI9gLepu8q0jvTZjsPoT5P2vhl4SVtEBheZ3uv4CG7OJXcfGP+5dWv9DGMUXg28DFynrGMVLwHXThifvy/vSVzXMueas/dSpGEYuBcft7RFdHAUeHziOP0J1z5Xa1sQGIYax9CZ38jlDuCWCeMLfUz6XKlJ2Zi/imFc9vxKW0AHD+L8YKYgPE2g7xVbcfL9E+YozOgbhhbncH4xrXEFbfeuSthmr1LZwCaBjQPEUdrZVcznJuCEtohK7LD8tq9hHChu0xYQ4RbcStflgD+3YxWMceD4sLaACC1qMgyjBy32FFrUZBiGYRhGCf8HH9k3rT/tkKYAAAAASUVORK5CYII=)
+
+Siendo:
+
+Qa(c,i,j) Consumo en toneladas del combustible c por el grupo i en estado de arranque del sistema eléctrico aislado j autorizadas a los sujetos productores cada hora.
+
+c) Los valores del poder calorífico inferior del combustible utilizado por un grupo i del sistema eléctrico j (pci(i,h,j)), valorado en th/t, a efectos de despacho de producción serán los siguientes:
+
+|  | pci(i,h,j) (th/t) |
+|---|---|
+| Carbón | 6.011 |
+| Fuel Oil BIA 1% | 9.850 |
+| Fuel Oil BIA 0,3% | 9.850 |
+| Fuel Oil BIA 0,73% | 9.850 |
+| Gasoil | 10.373 |
+| Diésel Oil | 10.140 |
+
+Por orden del Ministro de Industria, Energía y Turismo se podrán modificar estos valores a partir de los valores reales obtenidos de los ensayos realizados sobre los combustibles utilizados.
+
+d) A efectos de la liquidación de la retribución por costes variables de cada grupo generador, el poder calorífico inferior se calculará como la media ponderada de los poderes caloríficos inferiores reales de cada partida de combustible, obtenidos de los análisis realizados en cada partida de combustible consumido en cada central. A estos efectos, los titulares de las centrales deberán declarar mensualmente el valor del poder calorífico inferior de cada partida de combustible al órgano encargado de las liquidaciones, quien realizará inspecciones aleatorias para verificar los datos declarados. A estos efectos deberán presentar los resultados de las pruebas realizadas por una entidad acreditada. Los poderes caloríficos utilizados a efectos de liquidaciones serán publicados por el Director General de Política Energética y Minas.
+
+2\. El proceso de autorización de uso excepcional de combustible o mezcla de combustibles no autorizada se realizará de acuerdo a lo indicado en este apartado.
+
+El operador del sistema podrá autorizar el uso excepcional y temporal de un combustible o mezcla de combustibles distintos a los autorizados si la producción de energía eléctrica con el combustible o la mezcla de combustibles distinta de la autorizada resultara imprescindible para la garantía de suministro. En caso contrario, el operador del sistema aceptará dicha solicitud en los siguientes supuestos:
+
+a) En el caso de que la retribución por combustible sea superior al utilizar la nueva mezcla de combustibles que utilizando el combustible o mezcla de combustibles autorizados, la retribución por combustible reconocida se calculará con el combustible o mezcla de combustibles autorizados.
+
+b) En el caso de que la retribución por combustible sea menor con la nueva mezcla propuesta que con el combustible o mezcla de combustibles autorizados, la producción sea retribuida a este menor coste variable.
+
+En caso de que el sujeto no desee producir aceptando estas condiciones, renunciará al cambio autorizado, con la consecuente declaración de limitación de disponibilidad por parte del sujeto generador en la unidad de producción afectada.
+
+## ANEXO VII — Informes
+
+1\. El informe anual de cobertura de la demanda definido en el artículo 44 pondrá de manifiesto los riesgos sobre la seguridad y continuidad de suministro existentes en cada uno de los sistemas eléctricos aislados, utilizando los indicadores estándar establecidos en el apartado 4.
+
+Asimismo, para aquellos sistemas en los que se pongan de manifiesto riesgos sobre la seguridad y continuidad de suministro, el operador del sistema valorará técnicamente y bajo la hipótesis de nudo único las necesidades de nuevas instalaciones de generación térmica y en su caso, de instalaciones hidroeléctricas no fluyentes.
+
+El operador del sistema indicará la potencia térmica necesaria propuesta, la potencia térmica adicional propuesta y en su caso, de instalaciones hidroeléctricas no fluyentes para cubrir la demanda prevista para cada uno de los años del horizonte del informe. La potencia necesaria propuesta para un año concreto será aquella para la que se obtenga un indicador de probabilidad de déficit de cobertura mensual de menos de un día en 10 años.
+
+Asimismo indicará, en su caso, las limitaciones técnicas que pudieran existir relativas, entre otros aspectos, al tamaño y tecnología de los grupos, a las magnitudes de generación por zonas, y dará señales de localización por nudos, para lo cual tendrá en cuenta las redes existentes y planificadas o previstas en los planes de inversión de distribución aprobados.
+
+A partir de las limitaciones contempladas en el párrafo anterior podrá proponer varios escenarios de potencia adicional propuesta para cubrir la demanda prevista.
+
+La metodología a aplicar por el operador del sistema para la elaboración de este informe tendrá en cuenta los siguientes criterios:
+
+a) Previsión de la demanda horaria para el periodo teniendo en cuenta una senda de puntas de demanda derivadas de las hipótesis de crecimiento económico estimadas por el Ministerio de Economía y Competitividad, teniendo en cuenta además las medidas de eficiencia energética y gestión de la demanda que sean de aplicación, todo ello, considerando unas condiciones de temperatura desfavorables pero no extremas.
+
+El operador del sistema deberá realizar el análisis de cobertura definido en este apartado para varias previsiones de demanda.
+
+b) Previsión de generación de origen renovable categoría B mediante la generación de escenarios independientes de producción con base en datos históricos y en la senda de potencia instalada (real y futura), teniendo en cuenta la potencia inscrita en el registro administrativo de instalaciones de producción de energía eléctrica, las instalaciones inscritas en el registro de régimen retributivo específico en estado de preasignación, así como la potencia convocada mediante el procedimiento de concurrencia competitiva para el otorgamiento del régimen retributivo específico definido en el artículo 12 del Real Decreto 413/2014, de 6 de junio, por el que se regula la actividad de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos.
+
+En el caso de que no se haya aprobado dicho procedimiento de concurrencia se tomará la mejor previsión de instalación de generación de origen renovable.
+
+c) Para las instalaciones categoría A, se tendrá en cuenta la potencia inscrita en el registro administrativo de instalaciones de producción de energía eléctrica, la generación con resolución de compatibilidad en vigor, la potencia adjudicataria de los concursos convocados y las mejores previsiones de incrementos de potencia sin régimen retributivo adicional. No se tendrá en cuenta la potencia de las centrales que finalicen su vida útil regulatoria a partir de dicho año y la potencia de aquellas cuyo cierre se prevea. Se tendrá en cuenta la implantación de instalaciones de bombeo si así se ha autorizado. Para la previsión de generación de las centrales categoría A se tendrá en cuenta la aleatoriedad de sus indisponibilidades no programadas con base en la tasa de fallo fortuita observada. En este sentido, se generarán escenarios independientes de fallo con base en datos históricos.
+
+d) Para los enlaces eléctricos con otros sistemas, se tendrá en cuenta la capacidad máxima de explotación bajo criterios que permitan salvaguardar la seguridad y calidad de suministro. Se generarán escenarios de fallo en función de la tasa de fallo fortuita observada en los mismos.
+
+Se deberá especificar el método estadístico utilizado, las variables tenidas en cuenta y los valores o rango de valores asignados, de tal forma que se garantice la repetitividad de los cálculos realizados.
+
+2\. El informe sobre riesgos de cobertura de la demanda en el corto plazo definido en el artículo 45 se realizará conforme a la metodología recogida en este apartado.
+
+a) Este informe comprenderá dos aspectos:
+
+1.º Se realizará una evaluación del riesgo de fallo de suministro que podría derivarse de los propios recursos de producción y de las instalaciones de bombeo. A estos efectos se utilizarán los indicadores estándar indicados en el apartado 4 y el margen de reserva de potencia de regulación.
+
+2.º Se realizará, si es procedente, un análisis zonal que pondrá de manifiesto las necesidades especiales de disponibilidad de equipos de generación o de redes para evitar situaciones que supongan el incumplimiento de los criterios de seguridad del sistema en ciertas zonas geográficas o áreas determinadas de la red.
+
+Asimismo, el operador del sistema propondrá, para diferentes tecnologías y diferentes escenarios, las necesidades especiales de disponibilidad de equipos de generación para cubrir la demanda prevista con los criterios de seguridad establecidos en la normativa de aplicación.
+
+b) El operador del sistema tendrá en cuenta los siguientes criterios a la hora de elaborar este informe de cobertura:
+
+1.º Previsión de la demanda horaria para el periodo anual teniendo en cuenta una senda de puntas de demanda derivadas de las hipótesis de crecimiento económico estimadas por el Ministerio de Economía y Competitividad, teniendo en cuenta además las medidas de eficiencia energética y gestión de la demanda que sean de aplicación. Se tendrá en cuenta, en su caso, el efecto de la potencia interrumpible contratada para cada periodo, la cual deberá contemplarse como una reducción de la punta de la demanda.
+
+2.º Previsión de generación de origen renovable mediante la generación de escenarios independientes de producción con base en datos históricos y la potencia instalada en cada sistema aislado.
+
+3.º Para las instalaciones categoría A, se tendrá en cuenta la potencia inscrita en el registro administrativo de instalaciones de producción de energía eléctrica así como la aleatoriedad de sus indisponibilidades no programadas con base en la tasa de fallo fortuita observada. En este sentido, se generarán escenarios independientes de fallo con base en datos históricos.
+
+4.º Los requerimientos de reserva rodante que se establecen en los Procedimientos de Operación.
+
+5.º Para los enlaces eléctricos con otros sistemas, se tendrá en cuenta la capacidad máxima de explotación bajo criterios que permitan salvaguardar la seguridad y calidad de suministro. Se generarán escenarios de fallo en función de la tasa de fallo fortuita observada en los mismos.
+
+Con la información anteriormente citada se efectuarán simulaciones hora a hora de cada día del año combinando los escenarios de generación de origen renovable con las series de fallos de las instalaciones categoría A.
+
+Se deberá especificar el método estadístico utilizado, las variables tenidas en cuenta y los valores o rango de valores asignados, de tal forma que se garantice la repetitividad de los cálculos realizados.
+
+3\. Para la elaboración del informe relativo a la necesidad de instalar bombeos por garantía del suministro, seguridad del sistema o integración de energías renovables no gestionables, establecido en el artículo 74 se tendrá en cuenta lo establecido en este apartado.
+
+a) La metodología a aplicar para la elaboración del informe del operador de sistema tendrá en cuenta los siguientes criterios:
+
+1.º Previsión de la demanda horaria para el periodo teniendo en cuenta una senda de puntas de demanda derivadas de las hipótesis de crecimiento económico estimadas por el Ministerio de Economía y Competitividad, teniendo en cuenta además las medidas de eficiencia energética y gestión de la demanda que sean de aplicación, todo ello, considerando unas condiciones de temperatura desfavorables pero no extremas.
+
+2.º Previsión de potencia de origen renovable instalada analizando diferentes sendas de potencia instalada para las distintas tecnologías categoría A y categoría B en cada sistema aislado. Para la previsión de generación de origen renovable se analizarán escenarios independientes de producción con base en datos históricos.
+
+3.º Para las instalaciones categoría A, se tendrá en cuenta la potencia inscrita en el registro administrativo de instalaciones de producción de energía eléctrica, la generación con resolución de compatibilidad en vigor y las mejores previsiones de incrementos de potencia, no considerándose, a partir del año que aplique, las centrales que vayan a finalizar su vida útil regulatoria y aquellas que se prevea su cierre. Para la previsión de generación de estas centrales se tendrá en cuenta la aleatoriedad de sus indisponibilidades no programadas con base en la tasa de fallo fortuita observada. En este sentido, se generarán escenarios independientes de fallo con base en los datos históricos.
+
+4.º Para los enlaces eléctricos con otros sistemas, se tendrá en cuenta la capacidad máxima de explotación bajo criterios que permitan salvaguardar la seguridad y calidad de suministro. Se generarán escenarios de fallo en función de la tasa de fallo fortuita observada en los mismos.
+
+Se deberá especificar el método estadístico utilizado, las variables tenidas en cuenta y los valores o rango de valores asignados, de tal forma que se garantice la repetitividad de los cálculos realizados.
+
+b) Para cada escenario de implantación que se analice, el operador del sistema realizará simulaciones del despacho de producción anual, con las siguientes simplificaciones:
+
+1.º No se considerarán restricciones técnicas.
+
+2.º Los costes variables de despacho de las centrales térmicas serán la media ponderada por la energía generada de los costes variables de despacho de todas las centrales térmicas de cada sistema aislado del último año.
+
+3.º Para las instalaciones de bombeo el operador del sistema presentará una propuesta de valores unitarios de operación y mantenimiento variable y una propuesta de horas anuales de funcionamiento estándar del grupo, que será con las que realice la simulación.
+
+Finalmente, para cada escenario, el operador del sistema calculará los costes de generación con las siguientes simplificaciones:
+
+1.º Para las instalaciones térmicas inscritas en el registro administrativo de instalaciones de producción de energía eléctrica no se tendrán en cuenta la retribución por costes fijos.
+
+2.º La retribución por costes variables a considerar para todas las centrales térmicas inscritas en el registro administrativo de instalaciones de producción de energía eléctrica será la media ponderada por la energía generada de la retribución por costes variables de todas las centrales térmicas de cada sistema aislado del último año.
+
+3.º Para la simulación de implantación de nuevas instalaciones térmicas se considerará una retribución por costes fijos constantes en el tiempo.
+
+4.º En el caso de las instalaciones de bombeo el operador del sistema presentará una propuesta de valor estándar de la inversión de la instalación y una propuesta de valores unitarios de la anualidad de operación y mantenimiento fijos que serán los que utilice para calcular la retribución por costes fijos de estas centrales, considerando una retribución por costes fijos constante en el tiempo.
+
+c) En el informe elaborado por la Comisión Nacional de los Mercados y la Competencia regulado en el artículo 74 se realizará una valoración económica de las diferentes alternativas propuestas por el operador del sistema, incluyendo el vertido de renovable, cuantificando el impacto sobre los costes del sistema eléctrico definidos en el artículo 13 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico y sobre el coste de generación de los sistemas eléctricos de los territorios no peninsulares en el largo plazo. El informe de la Comisión Nacional de los Mercados y la Competencia será evacuado en el plazo de dos meses desde la recepción de la solicitud.
+
+En este informe, la Comisión Nacional de los Mercados y la Competencia añadirá a los costes de generación calculados por el operador del sistema indicados en el apartado anterior, los costes relativos al régimen retributivo específico establecido en el título IV del Real Decreto 413/2014, de 6 de junio, por el que se regula la actividad de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos.
+
+En el citado informe se analizará expresamente la evolución de los costes del sistema eléctrico afectados en el largo plazo comparando los costes al incluir una instalación de bombeo teniendo en cuenta la retribución por costes variables de generación y la retribución por costes fijos obtenidos a partir de los parámetros propuestos por el operador del sistema en su informe, frente a una mayor integración de energía de origen renovable permitiendo vertidos. Adicionalmente la Comisión Nacional de los Mercados y la Competencia informará acerca de los parámetros propuestos por el operador del sistema, definidos en el apartado anterior.
+
+4\. En los informes de cobertura de la demanda y para la determinación de la potencia necesaria, la potencia adicional y las necesidades especiales de disponibilidad de equipos de generación se obtendrán unos indicadores estándar, como resultado de los estudios probabilísticos de cobertura, que muestren la fiabilidad y seguridad del sistema en función de las hipótesis de partida. Estos indicadores serán:
+
+a) Energía esperada no servida (EUE, Expected Unserved Energy), en MWh/año.
+
+b) Horas en las que existe una probabilidad no nula de que se produzca un déficit de cobertura (LOLE, Loss of Load Expectation), en horas/año.
+
+c) Probabilidad de déficit de cobertura (LOLP Loss of Load Probability), en %.
+
+## ANEXO VIII — Procedimiento para el otorgamiento de la resolución de compatibilidad
+
+1\. Información a presentar junto con la solicitud de resolución de compatibilidad.
+
+a) Información relativa al titular de la instalación, que incluirá:
+
+1.º Escritura de constitución (nombre, domicilio social, municipio/código postal, provincia, NIF/ NIE, nacionalidad).
+
+2.º Documentación que acredite la capacidad técnica para ejercer la actividad de producción.
+
+3.º Documentación que acredite la viabilidad económico-financiera del proyecto.
+
+4.º Datos a efectos de comunicaciones: nombre del representante legal, NIF/NIE del representante legal, dirección, teléfono de contacto, fax, correo electrónico.
+
+b) Datos técnicos del grupo proyectado:
+
+1.º Tecnología.
+
+2.º Potencia bruta, neta y mínimo técnico ordinario y extraordinario.
+
+3.º Propiedades físico-químicas del combustible a utilizar.
+
+4.º Rampas de subida y bajada de potencia.
+
+5.º Tiempos de arranque en frío y en caliente.
+
+6.º Datos técnicos de despacho definidos en los artículos 62 y 63: A (i), B (i), C (i), A'(i) y B'(i),
+
+7.º Horas anuales previstas de funcionamiento estándar.
+
+8.º En las nuevas inversiones se realizará una descripción técnica de la inversión a realizar, su justificación y mejoras esperadas, así como la vida útil propuesta para dicha inversión.
+
+c) Datos económicos:
+
+1.º Inversión prevista separada por conceptos (trabajos generales, obra civil, equipos mecánicos, sistemas eléctricos y de control, ingeniería y otros).
+
+2.º Años de ejecución del proyecto.
+
+3.º Viabilidad económica financiera del proyecto (modos de financiación).
+
+4.º Capacidad de adquisición del combustible (oferta de suministro de combustible propuesto).
+
+5.º Datos económicos de despacho definidos en los artículos 61, 63 y 64: Dato de los costes de operación y mantenimiento adicionales debidos al arranque, D(i), valorado en euros/arranque y costes de operación y mantenimiento unitarios de despacho de cada grupo, O&MVDi en €/MWh o, en el caso de instalaciones de bombeo, CvO&MuDBombeo.
+
+6.º Costes variables relativos al combustible (costes de producto, costes de logística, etc.).
+
+d) Ubicación prevista: sistema eléctrico aislado y nudo de conexión previsto.
+
+e) Año previsto de inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica, que se denominará en lo sucesivo, A<sub>REG</sub>.
+
+2\. Informe del operador del sistema previo a la resolución del procedimiento.
+
+En el informe que emita el operador del sistema de acuerdo con lo establecido en el artículo 48.3, se analizarán las siguientes cuestiones:
+
+a) Se pondrá de manifiesto si existe algún impedimento técnico para la ejecución de la instalación en el nudo propuesto por el titular teniendo en cuenta las redes existentes o planificadas, y se justificará detalladamente dicha circunstancia.
+
+b) Se valorará exclusivamente si con las solicitudes de instalaciones térmicas presentadas para cada sistema eléctrico aislado y año previsto de inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica, se supera la potencia térmica prevista adicional publicada en la resolución de convocatoria del procedimiento definida en el artículo 46, para dicho año y sistema eléctrico y asimismo se realizará un análisis análogo para las solicitudes de instalaciones hidroeléctricas no fluyentes.
+
+c) Se establecerá, para cada sistema eléctrico aislado y año de inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica, una prelación de las instalaciones en función de las características favorables que su tecnología, potencia y nudo de conexión presentan para el sistema, desde el punto de vista de la seguridad de suministro y de la eficiencia técnico-económica del sistema, tomando en consideración los criterios técnicos y de seguridad establecidos en la convocatoria del procedimiento de concurrencia competitiva. Para la justificación de esto último, se aportarán resultados de la simulación del despacho de producción anual en lo relativo a la variación de los costes de generación y servicios de ajuste definidos en el artículo 71 y de la energía generada por cada grupo generador, teniendo en cuenta el nuevo grupo generador propuesto, el incremento de potencia o la mejora de la eficiencia propuesta o las instalaciones que van a finalizar su vida útil regulatoria y solicitan nuevamente el régimen retributivo.
+
+3\. Criterios a aplicar para la resolución del procedimiento de otorgamiento de la resolución de compatibilidad.
+
+La Dirección General de Política Energética y Minas resolverá el procedimiento de otorgamiento de la resolución de compatibilidad establecido en el artículo 49 y aplicará los siguientes criterios para la determinación de las instalaciones a las que procede el otorgamiento de la resolución favorable de compatibilidad. Para ello se comparará el valor resultante de la suma de potencia de las instalaciones térmicas de un sistema eléctrico aislado con un determinado año previsto de inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica, excluidas las instalaciones no admitidas a trámite o que presenten algún impedimento para su ejecución, con la potencia térmica prevista adicional publicada en la resolución definida en el artículo 46, para dicho sistema eléctrico aislado y dicho año:
+
+a) Si el primer valor es igual o inferior a la citada potencia térmica prevista adicional, se podrá otorgar resolución favorable de compatibilidad a todas las instalaciones, sin perjuicio de que la Dirección General de Política Energética y Minas pueda dictar, motivadamente, resolución desfavorable de compatibilidad para aquellas instalaciones que no reduzcan los costes de generación y servicios de ajuste definidos en el artículo 71 del sistema eléctrico aislado en el que pretendan ubicarse, o que supongan incumplimiento de objetivos medioambientales derivados de normativa estatal o procedente de la Unión Europea.
+
+b) Si el valor de la suma es superior a la citada potencia térmica prevista adicional, se podrá otorgar resolución favorable de compatibilidad únicamente para el valor de potencia térmica prevista adicional publicada, sin perjuicio de lo establecido en el apartado c). Para ello, se seleccionarán las instalaciones atendiendo a la minimización a largo plazo de los costes del sistema eléctrico puestos de manifiesto en el informe de la Comisión Nacional de los Mercados y la Competencia definido en el artículo 48.4 y al fomento de la eficiencia técnica en la operación del mismo puesto de manifiesto en el informe del operador del sistema definida en el artículo 48.3.
+
+c) Si el valor de la suma es superior a la citada potencia térmica prevista adicional, se podrá otorgar resolución favorable de compatibilidad a toda la potencia solicitada siempre que se reduzcan los costes de generación del sistema eléctrico aislado en el que se ubiquen, al desplazar a instalaciones de generación más caras. Para ello, se seleccionarán las instalaciones atendiendo a la minimización a largo plazo de los costes del sistema eléctrico puestos de manifiesto en el informe de la Comisión Nacional de los Mercados y la Competencia definido en el artículo 48.4 y al fomento de la eficiencia técnica en la operación del mismo puesto de manifiesto en el informe del operador del sistema definida en el artículo 48.3.
+
+Adicionalmente a lo anterior, se podrá otorgar resolución favorable de compatibilidad, de forma justificada, a una potencia mayor de la potencia térmica prevista adicional, aunque no suponga una reducción de costes del sistema eléctrico, para cumplir con objetivos medioambientales o criterios técnicos y de seguridad establecidos en la convocatoria del procedimiento de concurrencia competitiva, así como para garantizar el cumplimiento de normativa estatal o europea de carácter medioambiental.
+
+La resolución de compatibilidad deberá justificar adecuadamente la aplicación de los anteriores criterios, y en particular, los motivos que determinan el otorgamiento de la resolución favorable de compatibilidad en los casos definidos en el párrafo b) y c).
+
+Para las instalaciones hidroeléctricas no fluyentes se aplicarán los mismos criterios que para las instalaciones térmicas, considerando las solicitudes de esta tecnología presentadas y los valores de potencia hidráulica no fluyente prevista adicional publicados.
+
+Podrá otorgarse resolución favorable de compatibilidad a parte de la potencia de un grupo, en el supuesto de que otorgar resolución favorable a la totalidad de la potencia implicara la superación de la potencia térmica, o hidráulica no fluyente, prevista adicional publicada para determinado sistema eléctrico y año. El régimen retributivo adicional otorgado, en su caso, a estas instalaciones presentará las particularidades motivadas por las diferencias entre la potencia autorizada y la potencia neta que se inscriba en el registro, definidas en el apartado 5 de este anexo. En este caso, si el titular de la instalación no tuviera interés en ejecutarla en estas condiciones retributivas, lo pondrá de manifiesto en el trámite de audiencia, procediéndose a resolver desfavorablemente su solicitud. En caso de no realizar ninguna alegación al respecto, se considerará que acepta las condiciones retributivas descritas en este apartado y procederá la cancelación de la fracción de la garantía correspondiente a la potencia para la que no haya sido otorgada resolución favorable de compatibilidad.
+
+En cualquier caso, la Dirección General de Política Energética y Minas podrá dictar resolución desfavorable de compatibilidad de forma motivada cuando exista algún impedimento para su ejecución, y este haya sido puesto de manifiesto por el operador del sistema o por la Comunidad Autónoma o Ciudad de Ceuta o Melilla afectada en los informes definidos en los apartados 3 y 5 del artículo 48, respectivamente.
+
+4\. Requisitos que condicionan los efectos de la resolución de compatibilidad.
+
+a) La resolución favorable de compatibilidad otorgará al titular el derecho a percibir el régimen retributivo adicional, condicionado al cumplimiento de los siguientes requisitos relativos al calendario de ejecución:
+
+1.º) Que el grupo disponga de autorización administrativa previa dictada por el órgano competente a más tardar el 31 de diciembre del año A<sub>REG </sub>- 2, siendo A<sub>REG</sub> el año previsto de inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica aprobado en la resolución favorable de compatibilidad.
+
+2.º) Que el grupo esté inscrito definitivamente en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo a más tardar el 31 de diciembre de dicho año A<sub>REG</sub>.
+
+El incumplimiento de cualquiera de estas dos condiciones supondrá la extinción del derecho a la percepción del régimen retributivo adicional y la ejecución de las garantías presentadas. Ello no obstante, el Secretario de Estado de Energía podrá excepcionar mediante resolución motivada la aplicación de esta norma si dicho incumplimiento no fuera ni directa ni indirectamente imputable al interesado y se comunique dicha circunstancia a la Dirección General de Política Energética y Minas con anterioridad al vencimiento del plazo que vaya a incumplirse.
+
+b) Para el reconocimiento del régimen retributivo adicional del grupo será condición necesaria que su tecnología y nudo de conexión coincidan con los aprobados en la resolución favorable de compatibilidad.
+
+Excepcionalmente, el Secretario de Estado de Energía podrá autorizar, previo informe favorable del operador del sistema, un cambio en el nudo de conexión de la instalación, siempre que dicho cambio venga motivado por causas imputables al operador del sistema o a la Comunidad Autónoma correspondiente y el titular solicite dicho cambio con anterioridad al vencimiento del plazo para inscribir definitivamente el grupo en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo.
+
+El incumplimiento de cualquiera de estas condiciones supondrá la extinción del derecho a la percepción del régimen retributivo adicional y la ejecución de las garantías presentadas.
+
+5\. Valor de potencia sobre el que se otorga el régimen retributivo adicional.
+
+a) El valor de potencia sobre la que se reconoce el régimen retributivo adicional al grupo se establecerá dentro de unos umbrales en función de las diferencias entre la potencia autorizada, P<sub>aut</sub> en la resolución de compatibilidad y la potencia neta inscrita en el registro.
+
+A estos efectos se establecen los siguientes umbrales:
+
+1.º Umbral superior, U<sub>sup</sub>:
+
+i. Para las instalaciones de potencia autorizada P<sub>aut</sub> superior a 5 MW, dicho umbral U<sub>sup</sub>, será del 120 por ciento de la potencia autorizada P<sub>aut</sub>.
+
+ii. Para instalaciones de potencia autorizada P<sub>aut</sub> igual o inferior a 5 MW, dicho umbral, U<sub>sup</sub>, será del 130 por ciento de la potencia autorizada P<sub>aut</sub>.
+
+2.º Umbral inferior, U<sub>inf</sub>:
+
+i. Para instalaciones de potencia autorizada superior a 5 MW, el umbral inferior, U<sub>inf</sub>, definido en este apartado será del 90 por ciento de la potencia autorizada.
+
+ii. Para instalaciones de potencia autorizada igual o inferior a 5 MW, el umbral inferior, U<sub>inf</sub>, será del 85 por ciento de la potencia autorizada.
+
+b) El valor de potencia sobre la que se reconoce el régimen retributivo adicional otorgado al grupo será:
+
+1.º Si la potencia neta inscrita definitivamente en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo es mayor al umbral superior de la potencia autorizada, U<sub>sup</sub>, el régimen retributivo adicional no se otorgará a la totalidad de la potencia del grupo.
+
+La retribución que percibirá el grupo en este caso se calculará de la siguiente forma:
+
+i. El régimen retributivo adicional se calculará multiplicando, tanto la retribución por costes variables de generación, como la retribución por costes fijos, por un factor M. Dicho factor se obtendrá como cociente entre la potencia autorizada, P<sub>aut</sub> y la potencia neta inscrita definitivamente en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo.
+
+ii. La retribución correspondiente a la energía imputable a la fracción de grupo sin régimen retributivo adicional reconocido, R*<sub>SRRA</sub>*, se calculará de acuerdo con la siguiente expresión:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjE2Ij4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+UjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+UzwvbWk+CiAgICAgICAgICAgIDxtaT5SPC9taT4KICAgICAgICAgICAgPG1pPlI8L21pPgogICAgICAgICAgICA8bWk+QTwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgogICAgPG1vPj08L21vPgogICAgPG1mZW5jZWQgc2VwYXJhdG9ycz0ifCI+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtbj4xPC9tbj4KICAgICAgICAgICAgPG1vPi08L21vPgogICAgICAgICAgICA8bWk+TTwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZmVuY2VkPgogICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPio8L21pPgogICAgPG1zdWI+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaT5FPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaT5nPC9taT4KICAgICAgICA8L21yb3c+CiAgICA8L21zdWI+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+KjwvbWk+CiAgICA8bXN1Yj4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pPlA8L21pPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pPmg8L21pPgogICAgICAgICAgICA8bWk+djwvbWk+CiAgICAgICAgICAgIDxtaT5lPC9taT4KICAgICAgICAgICAgPG1pPm48L21pPgogICAgICAgICAgICA8bWk+dDwvbWk+CiAgICAgICAgICAgIDxtaT5hPC9taT4KICAgICAgICA8L21yb3c+CiAgICA8L21zdWI+CiAgICA8bW8+KDwvbW8+CiAgICA8bWk+ajwvbWk+CiAgICA8bW8+KTwvbW8+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMsAAAAUCAYAAAAjk8nJAAAECUlEQVRoge1arZLUQBD+xIkTCJ5hnwGBiLwHQCBWIE8iUCnkVSF4gKsKEoFAIE+QKgSPgMCmCoFA8BAgNh/5trenJ8kle3vHfFWprc3MzvR/9/QsUFBQUFBQIHg6Ye6T1ai4x6gBbMy7xnl3LDSZ8bp/1sQx9jg2LvpnyvwqN6kD8Md5HprwAKDFPl8NBn6XcBaVpbfeFvsyBnYK6oI1I0NO6W4qT9EeKiN92pFr3wXOAdwE4xV8G78BcJZbvMO+wiigrKfdIzTYGauiwiC4pTILjcmTHY3bKmmDQ+OjTqp+3OqIoK689znM3WPTfx+zx13gFYAXM373sv9tEh7jNCBrXPcVNAQPSzpLhcGwrOyY1VKO5DkzdRPR1+FQd3DWSmHOHsDpZpczAD8wIkM4eATgVzSBpUHlvHsoaJCOgks6C89DNnts+yeVBThHjY9RfoOhVLMOT9pVd+RzDD+32eNUK48LAN+DcS1dPfxEwFeLwxR7qumVtEaPF+06pGvyJZ2FctNIrCWWF6EtHRZ0NA/MVPrMMeCpeyxZti6NawCfMnOi4PkFwOvUDxkFKYRcuZISljVka5y5cWKN0u8YzqJBpsXgIG0/xoyT4i9FR6RY3QeImzKsFlJnkrF7pNCNnLc2PgB4m5nTIa2HdwDeewM2xTZIO0sj8zyl0Bi4rl0nN06sEbUi54ycxTp4FLU1OlOO+o4BKcWbV+5E8JwvCjSUfY3xRu2VlCnUWLcsq0bS8RXAZTBOnlJ6uOrXOICtoSOF1RiU4Y1rzc2D7pRx0qNOaTG3DLMtY8VSmUX5oWMoLS3iFvFUOpgpvPn23khLwRbjs3e0hwUzqHWuxnwqTbZK0QCggUBb7oRWOirnjwDeBHRuEevhGrvsdACvho7Sqdex0bHIYHPjGwyReOk7nhrrH/CVJ69Bkmu15pRokaoCUiUV+VxiDw8MBppNW6Fli/0gyKBsM2ODwaE5Zlvrmh3surkzS1RyAsBn7LLLP9jzh617rcfbTkjqDoFMzRnXrLF0gyHVOraZas6+KstO3mlJlst8nDc24ueyq5Uvy94pHU5dL+cw2pywWY38Km+10KPv7TqEbTqprGxgvQDwLaA1Oq8Au7bzrcpJJdRL42qMW/gpNxrn5SDnrnFQ1DLyFDEl4k+FynuNfVS2NpjSsFX2akPWibx1mD34nSUfg4A6Z3TPoudmD+cAfid+OxpaM1pD1tqTzGiUzo0zk1FIHeZH+RxOoVvjYW269G5hjb8x0QFTZxbv/Ep61FlS69izNSsC/VRcAXju0OkFasUlgrbx/4hTuyPg300KlsNj7M4eBJ0yJ+sb7LJLQcF/hWfYvxLJZdWp/1IuKHhQmJKxS3YvKCgoKDgC/gKG57hJ5tBYEAAAAABJRU5ErkJggg==)
+
+Siendo:
+
+M: Factor M definido en el párrafo anterior.
+
+E<sub>g</sub>: Energía generada medida en barras de central.
+
+P<sub>hventa</sub>(j): Precio horario de venta de la energía en el sistema aislado j, expresado en €/MWh, definido en el anexo I.
+
+2.º Si la potencia neta inscrita definitivamente en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo es inferior al umbral inferior de la potencia autorizada, U<sub>inf,</sub> solo tendrá derecho a la percepción del régimen retributivo adicional por la potencia inscrita en el citado registro. Asimismo, procederá la ejecución de las garantías presentadas al amparo del artículo 50 por la fracción de la garantía correspondiente a la diferencia entre P<sub>aut</sub> y la potencia neta inscrita definitivamente en el registro.
+
+3.º Si la potencia neta inscrita definitivamente en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo está comprendida entre los umbrales inferior y superior, U<sub>inf</sub> y U<sub>sup</sub>, definidos en este apartado, tendrá derecho a la percepción del régimen retributivo adicional la totalidad de la potencia inscrita en el registro. Dicha circunstancia no supondrá la ejecución de las garantías presentadas.
+
+6\. Salvedades para el otorgamiento del régimen retributivo adicional por las nuevas inversiones.
+
+a) El procedimiento para el otorgamiento del régimen retributivo adicional por las nuevas inversiones de un grupo inscrito en el registro administrativo de instalaciones de producción de energía eléctrica que culmine con una modificación de la inscripción en el registro administrativo de instalaciones de producción de energía eléctrica de ese grupo se realizará según lo establecido en el capítulo IV del Título IV con las siguientes salvedades:
+
+1.º) No les será de aplicación lo establecido en el artículo 47.3.
+
+2.º) Las referencias hechas a «la instalación» o «al grupo», a la «inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica» y a la «autorización administrativa previa de la instalación», deberán entenderse realizadas a la «modificación», a la «modificación de la inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica» y a la «autorización administrativa previa de la modificación», respectivamente.
+
+3.º) Con carácter previo a la resolución de modificación de la inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica, se deberán reconocer los datos técnicos y económicos del grupo que hayan sido modificados.
+
+b) El procedimiento para el otorgamiento del régimen retributivo adicional por las nuevas inversiones de un grupo inscrito en el registro administrativo de instalaciones de producción de energía eléctrica que no impliquen una modificación de la inscripción en el registro administrativo de instalaciones de producción de energía eléctrica de ese grupo se realizará según lo establecido en el capítulo IV del Título IV con las siguientes salvedades:
+
+1.º) No les será de aplicación lo establecido en el artículo 47.3.
+
+2.º) Las referencias hechas a «la instalación» o «al grupo» y a la «inscripción definitiva en el registro administrativo de instalaciones de producción de energía eléctrica» deberán entenderse hechas a la «modificación» y a la «emisión de la autorización de explotación tras la realización de la inversión», respectivamente.
+
+7\. Reconocimiento del régimen retributivo adicional.
+
+a. En el plazo de 1 mes desde la fecha de autorización administrativa previa del grupo, el titular deberá remitir dicha autorización a la Dirección General de Política Energética y Minas para acreditar el cumplimiento del condicionado establecido en el apartado 4.a.1.º).
+
+b. Transcurrido el plazo definido en el apartado anterior sin que el titular haya presentado la comunicación que acredite el cumplimiento del condicionado establecido en el apartado 4.a.1.º), se producirá la caducidad de la resolución favorable de compatibilidad, extinguiéndose el derecho a la percepción del régimen retributivo adicional.
+
+c. En el plazo máximo de 6 meses desde la fecha de inscripción del grupo con carácter definitivo en el registro administrativo de instalaciones de producción de energía eléctrica, el titular deberá solicitar a la Dirección General de Política Energética y Minas el reconocimiento del régimen retributivo adicional.
+
+Dicha solicitud deberá ir acompañada de la auditoría sobre la inversión realizada, así como de la declaración responsable relativa al cumplimiento de los condicionados establecidos en el apartado 4, de acuerdo con el modelo establecido en el apartado 8, o, en su caso, de la declaración responsable relativa al cumplimiento de los requisitos exigidos a las instalaciones adjudicatarias del concurso definido en el artículo 55, así como la documentación que se considere necesaria para la acreditación de lo anterior.
+
+d. Transcurrido el plazo definido en el apartado anterior sin que el titular haya presentado la solicitud de reconocimiento del régimen retributivo adicional, se producirá la caducidad de la resolución favorable de compatibilidad, extinguiéndose el derecho a la percepción del régimen retributivo adicional.
+
+8\. Modelo de declaración responsable relativa al cumplimiento de los condicionados establecidos en el apartado 4:
+
+DECLARACIÓN RESPONSABLE
+
+D.ª/D................................., mayor de edad, con documento nacional de identidad número............, en nombre y representación de......, con domicilio social en…………………………………………… y CIF…………, titular de la instalación con código de identificación de la resolución de compatibilidad, CIC,............... y número de inscripción con carácter definitivo en el registro administrativo de instalaciones de producción de energía eléctrica dependiente del Ministerio de Industria, Energía y Turismo..........
+
+Declaro bajo mi responsabilidad, a los efectos previstos en el anexo VIII.7.c del Real Decreto XXX/2014, de xx de xxxx, por el que se regula la actividad de producción de energía eléctrica y el procedimiento de despacho en los sistemas eléctricos de los territorios no peninsulares, que el citado grupo cumple con los condicionados necesarios para la percepción del régimen retributivo adicional regulados en el anexo VIII.4 del citado real decreto.
+
+Asimismo manifiesto que dispongo de la documentación que acredita el cumplimiento de los citados requisitos, y que me comprometo a mantenerlos durante el periodo de tiempo en que la instalación tenga derecho a la percepción del régimen retributivo adicional regulado en el título IV del citado Real Decreto XXX/2014, de xx de xxxx, y a notificar los hechos que supongan una modificación de los mismos, asumiendo las responsabilidades legales en caso de incumplimiento, falsedad u omisión.
+
+Por último, declaro conocer que será motivo para la revocación del derecho al régimen retributivo adicional del citado grupo la constatación de la falsedad en la presente declaración responsable, de acuerdo con lo previsto en el artículo 58.2.b) del mencionado real decreto. Todo ello sin perjuicio del régimen sancionador aplicable.
+
+En …………………………….… a …… de ………………………… de ......
+
+Firma
+
+> Se modifican los apartados 2.c) y 3 por la disposición final 2.1 y 2 de la Orden TED/1315/2022, de 23 de diciembre. [Ref. BOE-A-2022-23752](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23752)
+
+## ANEXO IX — Indicadores y objetivos mínimos de eficiencia en la gestión del despacho y de calidad de servicio
+
+a) El Indicador de Eficiencia en la gestión del despacho para cada año n y para cada sistema aislado j, IE(j,n) en th/kWh, se obtiene según la siguiente expresión:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjE2Ij4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5JPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5FPC9taT4KICAgIDxtZmVuY2VkIHNlcGFyYXRvcnM9InwiPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ajwvbWk+CiAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm48L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZlbmNlZD4KICAgIDxtbz49PC9tbz4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICA8bXN1YnN1cD4KICAgICAgICAgICAgICAgICAgICA8bW8gc3RyZXRjaHk9ImZhbHNlIj4mI3gyMjExOzwvbW8+CiAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5pPC9taT4KICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5JPC9taT4KICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8L21zdWJzdXA+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPG1zdWJzdXA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bW8gc3RyZXRjaHk9ImZhbHNlIj4mI3gyMjExOzwvbW8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aDwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+SDwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXN1YnN1cD4KICAgICAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWZlbmNlZCBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+QzwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPkU8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5kPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnM8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5wPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZjwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmk8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmw8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm48L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aDwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9tc3ViPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bW8+JiN4Qjc7PC9tbz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWk+RTwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWk+bjwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5oPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9tZmVuY2VkPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21yb3c+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgIDxtc3Vic3VwPgogICAgICAgICAgICAgICAgICAgIDxtbyBzdHJldGNoeT0iZmFsc2UiPiYjeDIyMTE7PC9tbz4KICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPG1pPkk8L21pPgogICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgIDwvbXN1YnN1cD4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaT5FPC9taT4KICAgICAgICAgICAgICAgICAgICA8bWk+aTwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1vPig8L21vPgogICAgICAgICAgICAgICAgICAgIDxtaT5uPC9taT4KICAgICAgICAgICAgICAgICAgICA8bW8+KTwvbW8+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgogICAgPG1vPi08L21vPgogICAgPG1mcmFjPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgIDxtc3Vic3VwPgogICAgICAgICAgICAgICAgICAgIDxtbyBzdHJldGNoeT0iZmFsc2UiPiYjeDIyMTE7PC9tbz4KICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPG1pPkk8L21pPgogICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgIDwvbXN1YnN1cD4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICA8bXN1YnN1cD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtbyBzdHJldGNoeT0iZmFsc2UiPiYjeDIyMTE7PC9tbz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5oPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5IPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tc3Vic3VwPgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtZmVuY2VkIHNlcGFyYXRvcnM9InwiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5DPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+RTwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmQ8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+czwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnA8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtbj4xPC9tbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmg8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aTwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1vPiYjeEI3OzwvbW8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pPkU8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5kPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWk+ZTwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pPnM8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5wPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bW4+MTwvbW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWk+bjwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5oPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9tZmVuY2VkPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21yb3c+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgIDxtc3Vic3VwPgogICAgICAgICAgICAgICAgICAgIDxtbyBzdHJldGNoeT0iZmFsc2UiPiYjeDIyMTE7PC9tbz4KICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPG1pPkk8L21pPgogICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgIDwvbXN1YnN1cD4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5FPC9taT4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZDwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmU8L21pPgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5zPC9taT4KICAgICAgICAgICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+cDwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1uPjE8L21uPgogICAgICAgICAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgICAgICAgICAgICAgICAgICA8bWZlbmNlZCBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWk+bjwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICA8L21mZW5jZWQ+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjMAAABLCAYAAACFvAZHAAAMgElEQVR4nO2d25HbOgyG0cN24Aa2AVeQCtzBdqDn85IWXENKcA/bgmtIC3seHIwhGKQo60rx+2Y4k6woUZb1wwB4EwEAAAAAeJOriPyIyH2l9u6uPf3/z0rtA7QAugaA5ljb4Pj2fkTktPI9ABwddA0AzXAWkdvKbWL0AJYFXQNAU3Qiclm5zZ+gYPQA5gNdA8Cu0L7vqSXFTWKDs2S7RHDQOugaAJriQ0S+ZRnjc5L0AMEl28XoQeugawBojk/pG5KS9PGniPyRtPE5FVxviXaZ9QDwAF0DQHN08jQOf+VhXEpQA1RbuwAtgK4BoDlsevhbHinjITRSq7FdgBZA1wDQFCd5RFFqgH4Xnjd14ayt2u0k7nO3KewfeQxq1PrRcV+uMszaM0EuEqf9f2SZKbb3ha57NErelamg6+d1j6brqxxz3JDtzuwG6i7FFs92DXvQDF/SF/CvgnPmEPDa7d7kVSRn6ffL23a8MdM0+tnVPUn+R3wLgdpotzP/Xgp9hnt1ZoZ+tNY0YGdZZxVddH0sXdtZY3t1Zqbq7FRYb262fLZr2YNmuEm/v3utL3Stdq8SG8zI4ClnKTN6eizHvaDOnHSyvkBusl9nRuRpsKK/r83QD+VcoOtXatX1WZ5O2l6dGZFpOrvINj/sWz/btexBE3xIPz38faB2U9NK1YjlosLO/TsyeiVRJc7M9tylb1D1e1y7m0BJ/RDPCbqOqVXXNTgzU3R2le26XbZ+tmvYg2b4Jf2UYGl/997bTQlEo8fSlzdl9KJrqzA0QoyMnq3j78Mes+dpGvYm/dSoreNTvbfgmHc69Bq5dKvt045+RPbszOjztN+dfm9bGa+LrPO80HWeWnRtz9+rM/OOzvT70ueZ+kG3z8XXUbuWWqX6Zo7brGH03RzdHjSDXfehtL977+2moid9qUuxU09TzoLIUxSKGqrO1bHn+XEtN3kahM6cezX3raJNGZBUZsY7HWpE7DXVqNr7vbtz/DN915nxkVyKKWKPvruoW2EMY8YIRQbWvydLgq7T1KTrKT+4e9TZj7mnnB5sAKVBl2LP88dEHs/KjqHS+4m+uynOTE32oAk+pB/Zr+UpLtluyuhpe3NHcNGARH8PqSXgI0Mn0n/5I6fBG6oxzkzq/JxRntOZ8WMYxlISift7m6NroJMyh+iSaG/NSBBdp6lJ11Pemb3pzH+2lBPlndPUd57rztKB3/be53y2el+12INm0PTwmIWv9txulK4VKetbj+oP9a1HRtb/7VbQbur+IqPnMylzOzP23FQK3F/3In3jnuJcWE+vORaNoO25qevYukPvxk3i6NySu04UeS8Juo6pSdfRD16NOlNdWK6S7lbrJK+XobWK/LW1/lDW68j2oAn0B2utVPTS7UYRlUi/n7qElNGTf3/TNmzqVPFGL5XytRGc4h2LlDNiBTK3M6MiPJv6Q86MjaiukhbpubDeu5F9FJUpV4l/GPRHach43QvrRawdiaHrmJp0Hb0zNeos5aT5e+rk+Yyje+rcv1P3bTM3ej+pbsRW7MHhUWGvNUhwjXajflRFBRi9YN4hyBk9+xJ28vpSem/dOwd6norgZo75vlQVjb9W7t4t7zgz/pySzIxNaw8ZWVsvZQj8eIRSUs/iKq/vhTf4KXy9lAE6Za5zSdzXEqDrJzXrOvrBq1Fn1lao83k39ZVU95C9tn6OTuL2/XO+yutztfWiQcH+vnJt1GAPDo9+Ie+8yHtuN7fjr2L79bVcBo7b4q/v+871fPsid66ONYpqUHyfu8jT6Nlzc5/Fnhvds62vhkf/r9+J/zxXd/weXHcPRjb3naUiQW0/d8+l9TRKi47nPuucoOtj6PrmjmmbNersIv1naP/vyT0T38UWfXbN2PjnZkk92yPag8Oj60L8lbL9VGpr175stRNlVvaIGiE17tZ5ur5RL/oxmhtt2/d9R/dcUi+K5v01lgRd18O7uq5RZ2viu+rGnityHHvQBLpBXMqjjJhjMN+a7dbgAJRQizOTQvuf56q3BnPf81rfH7quh7l1XaPO5map7RFqtQeH57c8vvCvEef8kunTW7dod4kXe018yrXmz9IqfjDiUqDrekDX86PdnHt/pmvZg8Oj0yb/jDzvKtNmJ2zVLkALoGsAaIZPefRpf8u4fu1PmebpbtUuQAugawBohg959mt/ySPNVVI6eW4gV1O7AC2ArgGgKfwUw7ElN2ApN+BpiXb9iHGAVkHXANAMdk7/uyW38E9qIN9S7Z4TfwdoCXQNAM2g/dNTSzRTQY1aFMEt2a4aPa0D0BroGuCg+Klu0WqnYyKTTl4HqEVLV7/LUSKQLebL6xQ8kfzqiwDwHugaYEN0tT0fUaT24jhJeqfgqWsvDHGW+lcAzO07sSSly3QDwHjQNcDGpDInuY3FvNOypohSzlQt5PadWBKMHsByoGuAjRnrzHixlGxkNjc1iza378SSpPYcAYDpoGuAjRnrzPhUarR1ub926ZgZFaUd0BYZh4vUnZ0BAACAGRlyZnzxTsRd8mNldBOrIWfmLs8oQ7MuN0lPR0yN3PfblJd8BgAAAKiYqZmZuZwZvZa9/lVix0OdmblTuv9RKJRdl3fY+p4pFMoypcfUMTPaNZRiSWdm7sF2/1EolF0Xj8/ERjZh63umUCjLlB7vzGbS/UJEhqdkr52ZoZsJAACgMcauMyPSdyR0wG4K78x0knYmSp2ZizBqHwAAAOT9FYCtIzE0Nds7M36Qb3QvOkMqlUmpeWo2zIe+Izi2APsGrUIVdJJ2LqJupnOmfgkIAhT2owGoA7QKVZDqOlJnxnZLTRmzwngXUM7C+wBQA2gVqsI6LdqVNOd+SndhIzV4kssIAsB+QKtQLUOr+MLxse/AlJLiJrxbAHOAVgEAEnyIyLcsYyC32BMM4KigVQCADJ/SN3YlqeZPEfkjaQN5knHXA4Bh0CoAQAa7z9dfeRjAEtRIAsA6oFUAgAw2hf0tj7T2EBrVAcB6oFUAgAQneUR6aiR/F55HXzvAuqBVAIAMX9Lvk/9VcM7W/eydjJuFkdvaA6AWatQqAMBq2I1A/8oy0zWHtuPwbaY2Wx3aRDViznWVALZkSa0OabQkKFjbebrK6zP4kfRigARCAAfmQ/op7O+F2tF1M6K/l57/rrE8CaudQv0srdXUZsZD+tH7GRtovMs7a6YRCAE0wC/pR2GlffJj8Duwq8EscVDmWBeDzVDhCCyp1ZQzo8dy3AvqzMX5Xyl1ZgiEABrCrk1R2idfihoeayTVsYnSxD6tfZV0BkejtM60E2WALoJRgmOwlFZTzkyJI7CmMyNS7swQCAE0xof0+83n/OG3a2VoSe3p5TdCFUkbyrP0DfBN0kZO/w5QO0tpNeXMRIGEDRzuEmvU1vGatMfsear/m/S7k1LX9nbCPw8CIYAG0RT2mMW5SrhJ3xjkIriLvEZSuahPd33X66cMz5i0NMDeWUKrUdAROUs+MFAHpHN1vObtORp46DE99yrPgc6aDYkyuyk9e1tDIATQIGpE5uxiUkNn07S5lG0USeUGF+o92/NTxiuXEQKoiSW0WpqZiQbTeqchtVFm5MCI9G2Cd0j0+n7M3RRnRu+BQAjgYKghm3vwr06zjgxBNLXyLq/OTm4mgje+qbYwSHAUltJq6ZiZyEHwf7sF56Xai/TunQrtdlJKnRkCIYCGULEu0S98lXgAXpSBsUuw22NdUFfktUtKp1KegvpR9xVAbSyp1dxsJu2WEYnXnfHOjM+k2OuIvGZx7OdJZWas01PqzBAIATSCrl3xV8r2fBlDbhGuyGjaQXjWcKRmJPhoTbNAKeeJGQlQM0tqVSTvzFhNdvKqUZ8BiRa+7OSpQTtmxo9JuUlfwxd33J4z5MwQCAE0gm5iNyaFOufg4FKsIXwHjBHUzpJaHVoB2OvHj4nR831G1daJBghHgY06M/ZcccftMW0zul8CIYAG+C0PAX+NOOeXrLuehOXd1DrTKqF2atPqFKJupikQCAEcGJ3a+WfkeVeZdwbFWMb2Xd+FgXtQN7Vq9V3mdmb0mmueBwAr8CmPfvdvGdf3/ikMhANYk9a06ruX5rx/AiGAA/Ehz773L3nuczJUOnlucgcAy4NWAQASpBazKi25tCuD5ADmA60CAAToiP0pJbXPyUXqHGwIsEfQKgBAgPahTy3RbAo1vER7ANNBqwAAG8Gof4A6QKsAAAHRqpkAsD/QKgBAgsu/wjRGgH2DVgEAEkR7tQDA/kCrAAAAAAAAAAAAh+V/OVlwhat0+PkAAAAASUVORK5CYII=)
+
+Siendo,
+
+H: Número de horas total del año n: 8760 en año normal y 8784 en año bisiesto.
+
+i: Cada uno de los grupos categoría A que componen el sistema aislado j, siendo I el último de los grupos que conforman ese sistema aislado.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjE2Ij4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+QzwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5FPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmQ8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5zPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnA8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZjwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPm48L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+YTwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5sPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5uPC9taT4KICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+aDwvbWk+CiAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmk8L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbXN1Yj4KICAgIDxtbz46PC9tbz4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj48L21pPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAASCAYAAACOwipdAAACDklEQVRoge1Y0a3DIAy8WTJHBskkjMIsDJNd+j6aU5yLISSP9LV9nIRUBRtsn7GhQMe/wAzgYUZcvofMvI6IY0wN7a3BhNU+u/cDQLphv/mmdS9hxNPRWb4zKJawsHwbRXZA2SEGNxRkWmNY9gRWu+8EY/g2xHqkEiPqiOVcCXOFTEsE5P26CwlvQiyJKpXIIL89YmtKbCf2hUh4EjVUyueI9forSzwrgkeslVE77JzVY4lNy76ejN4HkjOnBHANu6bGZcDWJ8VfEEt/doac6T0kVoc6Q1IIBiSIjNXTPpiwJlAwutHYzUrB/WzCReRPrBLAxLNrMnGsvbPoaKJeJXZG/eWzan060/rEJuyd1kDYk2GHRyawLfdeADU4Z4jN6ZcSryWxepf5NWp6rCd/1GM9p/Vbqtg3Z58XQD1hrYm1urlbvq47YZvAOYyVclzzELZf1aB0Kx6xOuq9a5XYXPmxJ5bQIOeIsU63JpbPv9HIHxFrW12EHzdg27pKcqfe3zTYU9DglIi1JT1gX+I1wzVQ1LM9jnPas5PYNWGf6a2JVZ2aE2tL7BGxVi53KvVeUgXvn6XpYN4ODaL2UOp772KvtNEJ7b3ASqzVLflidT2brXwU2xlI9SfK/Oys+wpi3Vvxp+Jt3osHYNCZwDaR4gU578B9FT6F2BxqLo5n5L4CWmZrn2odHR0dHR2vwg/x/UHfMeNDGQAAAABJRU5ErkJggg==)Consumo específico en th/kWh producido según la programación final definida en el artículo 69.5 del grupo i en la hora h del año n.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjE2Ij4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+QzwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5FPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmQ8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5zPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnA8L21pPgogICAgICAgICAgICA8bW4+MTwvbW4+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+bjwvbWk+CiAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmg8L21pPgogICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgICAgICA8L21yb3c+CiAgICA8L21zdWI+CiAgICA8bW8+OjwvbW8+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAASCAYAAADbo8kDAAABt0lEQVRYhe2X622EMBCEpxbqoBAqcSmuxcXQS/IjTBgva7N3Rwh3YiRLyF6/PpaxAW79i2YAX1LyUp8a7bZk7Gs6cL0RZQDDyXM2NeIH1GzqJ2wBpqVuNLEDgNKZgy8jdWKOVJY5LwPag0yNiIFmW09zIOYojVgT6BKgCa73SSfz7IGOWMKZoIGLgS54bDEt0J4/c6P8YjzQGmPXoW3ab1jqCmqLaI19NmieZZWKV9kRQdti/ZmbpAgnmRjtl0yfgvWFJumbZd38kjifJsAroGfED/fe2VQN+BcZXbDNMJvRmo1aPLhAbU8F2w1aOK+AtmfTy4p4tBe/59GeTdi6Epi3tT4PNK2E8kBPqF9wS2MwjmPuSv0uot6tY8QK0rtXW9Ctz1MzmqJdUK2M1k17oNUqM/x9aN+9uEfY/d6XvQ4Z9dWvB1o3lbDdpPVozqtjJayw1KOt5xezrgnbzPNAqyXsgda4VtbacyYk789v2mnXYu/i1oPZ37uXezcHbsJ6N7CC1r4w7d5f6xmg3VvHu8qzjogIgS94lvr8RJyXkB+lZ0H3xovAisZ9hKxlXOLP79atW7cO1jcuKOjuu0pdmQAAAABJRU5ErkJggg==)Consumo específico en th/kWh programado en el primer despacho diario e intradiario definido en el artículo 69 del grupo i en la hora h del año n.
+
+El consumo específico se calculará a partir de los datos técnicos de despacho definidos en los artículos 62, 63 y 65.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjE2Ij4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+RTwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+bjwvbWk+CiAgICAgICAgICAgIDxtbz4sPC9tbz4KICAgICAgICAgICAgPG1pPmg8L21pPgogICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgIDxtaT5pPC9taT4KICAgICAgICA8L21yb3c+CiAgICA8L21zdWI+CiAgICA8bW8+OjwvbW8+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAPCAYAAACSol3eAAAAyElEQVRIie1U0Q0DIQh9sziHgziJoziLw7hL+6G0FMHDpL1rk77kchd4hw8EgB9EA3BbPOE6aTMKuijN/lVoeBUVxztdoMVERK9mZDYSffa1UxuqyJj7MlrkjQOrk+u+tSqC5h1FBjJ8ySbveQG9gjwrK0POlf9IVMa3hHjiTGStF4uwp2Gr4/tIaHPyXCgjoGaXq4mGDopvxbMGMhzEeWC15LWBynhWpyj+XR5Vm/uXU+8FVV72ntzBXh5tm9NWIPXsu3h/fBR3bzVLK36iOBcAAAAASUVORK5CYII=)Energía generada por el grupo i en la hora h, en el año n, expresada en kWh.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjE2Ij4KICAgIDxtaT5FPC9taT4KICAgIDxtaT5qPC9taT4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAASCAYAAAC0EpUuAAAAlElEQVQ4jeWU0Q2AIAxEbxbmYBAmYRRmcZjuoj9t0ihXG9QvLyEmHG3hUQE+lgDYg1FIXFW/s8RDF8zmlyWnBFW/bTWhHaO6OSvAju6RTdVx5VjZ4lNhimfT4YtkJCB4iu7MmxmOFjfF0wJzsCCNE1ZxEDPkFflRw99dFuW5KuP5qhoe/mle1iWCXB+nZO9Dto//pgOZ0zYL+rORNgAAAABJRU5ErkJggg==) (n) = ![MathML (base64):PG1hdGggbWF0aHNpemU9IjE2Ij4KICAgIDxtcm93PgogICAgICAgIDxtc3Vic3VwPgogICAgICAgICAgICA8bW8gc3RyZXRjaHk9ImZhbHNlIj4mI3gyMjExOzwvbW8+CiAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgPG1pPkk8L21pPgogICAgICAgICAgICA8L21yb3c+CiAgICAgICAgPC9tc3Vic3VwPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+RTwvbWk+CiAgICAgICAgICAgIDxtaT5pPC9taT4KICAgICAgICAgICAgPG1vPig8L21vPgogICAgICAgICAgICA8bWk+bjwvbWk+CiAgICAgICAgICAgIDxtbz4pPC9tbz4KICAgICAgICA8L21yb3c+CiAgICA8L21yb3c+CiAgICA8bW8+OjwvbW8+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAkCAYAAAAuLqxbAAACR0lEQVRoge2ZbdWDMAyFr4c5wMAMoGAKcDAHOJgFNEwCHmYBDbOw9we7Z21JWUrDy/h4zukfRj9Ik5u0Aw5+jgbAC0C39ELWwGvpBayBEkC79CLWQA2gWnoRFlBDcluMFkAx09r/lROAB+YxVIGNifgZ/kdrQuUM4I64oYrE8VZDjc+HPdEbQgONtSvcEHygD8tv0HN2RYHem2ism7LfpnRIyxW+Xl0UfZbWoBppmbWxmriFr1dzpPcO41k0nLN6Py+FtdaJc5cwioIT/BB8WAwqwBpOeq7tP9WbCxidGC7wd1irVyl08I1Cb9F8vEWNlmNoD7dO0uqVlhLDUKLRwrDj/E3wbszz6Km1M4/kuRWGXtVF3h3lBF9LLA+3bt3GFuoPYQniGrCDrE2lMzYP5DRWuAF8bgJDMKUI1dDCN/yYIFcYhlnMUBzLHV/yHCBuwEkwA1qGHT3E1YcxrZDCjKElwTW7/WPeN+bJaujC1kLOVC/tZCM87zA05FhZEH58bC4Tj+Igc1y6NZAzluQ57hHJ/a0W3gWGYcqaqRDel0I6CdZRT+jOeyl8u64Jw8DNWu7Ox8qDFr5B6L2xjQk9NSnr8XCcEruWQq8l9/Y0y5tu6I10TehzQfoxwoqp0pAlKSwF7on9GthmxVRSBblDRqY7o9ck7T2U28+sFvl13HvzK3pra1qNz+F5F+T+EzMW70vfVZnB9JnTYofTCsuJvCnhvy9Tm5QhuQGb8ag5Of5KVyAdGQ4EqnfLPplvHd487KK+OjjQ8QfJXxZb+co/ewAAAABJRU5ErkJggg==) Energía generada en el sistema aislado j en el año n por todos los grupos categoría A, expresada en kWh.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjE2Ij4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+RTwvbWk+CiAgICAgICAgICAgIDxtaT5kPC9taT4KICAgICAgICAgICAgPG1pPmU8L21pPgogICAgICAgICAgICA8bWk+czwvbWk+CiAgICAgICAgICAgIDxtaT5wPC9taT4KICAgICAgICAgICAgPG1uPjE8L21uPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pPm48L21pPgogICAgICAgICAgICA8bW8+LDwvbW8+CiAgICAgICAgICAgIDxtaT5oPC9taT4KICAgICAgICAgICAgPG1vPiw8L21vPgogICAgICAgICAgICA8bWk+aTwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE8AAAASCAYAAAAaJIOvAAABkUlEQVRYhe1X7a2DMAy8WZiDQTJJRsksDJNdeD+I1XuOHVz1I6jipKiUXIy52I4BbkzHAmBvI0/yoTQ/pqDiIYA1zhxbgrx3oyDu41ccse6fIeHYgG9jbWO6eBX/hVrbbwqsLYiJ/AlMF08cWOmeiOE5tbU1tQ1PZE4tzZFykZ31G83LtRZqungZfZ1bB/wdD3HFeY8n6ZzRR/buzAGHGMKp5I8+mF4Vr+LYmAjMANmUgdGpqdM7OQ+XSBnZZFEsxxJ6Yazy8op4GeNAYV+6d5CTMimiZ0BHWTGMygtl2CVBP9uDti18tmWJx+9klQvGRnwvaFw71u6y83x/g73rWpiMI0KkVmlkde2lDUem+KO5lniJuAnn4tUgr0OB3WZYJyint+xWJb7ASze2LY5m2M/XtdRrpSzxeO2oC9A8L/UXy86oMbYiKtFcVf81dOOt7fApbKW0PmEtEXieOXx6F8f+MzyJykhtvARG7U9kLdDXMn3YRHnSjUxtxKP41Oee1MB38S4HqUOX+Ga9cePGz+APqpm3x7xjczkAAAAASUVORK5CYII=): Energía programada en el primer despacho diario e intradiario definido en el artículo 69 para el grupo i en la hora h, en el año n, expresada en kWh.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjE2Ij4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5FPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5kPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5lPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5zPC9taT4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5wPC9taT4KICAgIDxtbj4xPC9tbj4KICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5qPC9taT4KICAgIDxtZmVuY2VkIHNlcGFyYXRvcnM9InwiPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+bjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZmVuY2VkPgogICAgPG1vPj08L21vPgogICAgPG1yb3c+CiAgICAgICAgPG1zdWJzdXA+CiAgICAgICAgICAgIDxtbyBzdHJldGNoeT0iZmFsc2UiPiYjeDIyMTE7PC9tbz4KICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICA8bWk+aTwvbWk+CiAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICA8bWk+STwvbWk+CiAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICA8L21zdWJzdXA+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5FPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPmQ8L21pPgogICAgICAgICAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+ZTwvbWk+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5zPC9taT4KICAgICAgICAgICAgPG1pIG1hdGh2YXJpYW50PSJub3JtYWwiPnA8L21pPgogICAgICAgICAgICA8bW4+MTwvbW4+CiAgICAgICAgICAgIDxtaSBtYXRodmFyaWFudD0ibm9ybWFsIj5pPC9taT4KICAgICAgICAgICAgPG1mZW5jZWQgc2VwYXJhdG9ycz0ifCI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bWk+bjwvbWk+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbWZlbmNlZD4KICAgICAgICA8L21yb3c+CiAgICA8L21yb3c+CiAgICA8bW8+OjwvbW8+CiAgICA8bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+PC9taT4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMsAAAAkCAYAAAAn6c5kAAADsUlEQVR4nO2c3ZGrMAyFTw/pgAbSQCpIBXSQDuhgW6CGLYEe0gI1bAu5D1wNQpGJHYwJ5HwzvCyWLUv4R7KzACGEELQAHgD6rRUhZA88tlaAkD1wAdBtrQQhe6ABUG+tBCE5kJhi6ROiA1CtpDshRTkBuGOdwVKBgT05GGdMP/yYbdMZwC/Cg6VKrI+Q3dBg/Lj/MAyGGGTAEPJV6O3YHcMW7RWyghDyVVQYVhUZMD+RcoxLyFdywzR+uUbIMCYpSI/5TEsbUUdph7XwU6I1Bp0vzrsmIDPXxhZ0mMYvOVO/R/H1A+HD1tX9LAGm/ciqGaWA0chNaoNvos8lUgzSIV3HC7bZ4pww3Y7dM9d/ZF8X8XPIgPJujj6iTC4u/58UA7Z4fzZ89QGtxRXTGT82fonhqL4u5ueQAWMaL2lAIM2AOQ7mljhhCfocJTZ+ieGIvi7q55ABvf2cdECufnsG1GVsZ/U7LSdp0A7TJThUtzVgrWSkH22gD/JO6tc6WWpss7qcMI0xcumwd1/3eLbHWn7uvbL6UEw/VlgaE6TTjSmj5Roj02F0VKNkW4zBrYxwaU87dm62qUz50Ex4wfSjEZ28em2fNToYDz1LPnLZjqUcVL7iCL7uTLtr+3lC7GzjBVBW0dDlQM9owHTps0aQ+rUeOQaL6KHbC60gqTFSTuSDyrUFA47h69jBIjpk9XPsPtZTyv6tc+RC7dlyngFlqRZSBstc9kY+RKENlPVmvBKIjXIG97rePfvayhb181yGRJYyUcrOQNaAdnbQ9QDPM5PudGi20YZOGSxzqUTb31Cdc+2ttQ2TNteIlY7gayu7tp8nzBlQV9DguUI7qr2DQf0jJL2PtfvEDtOsRm3ea5mYwdLAd2Zt2pFce+WUt2XXRs5Z/hB3PyyVI/jaDpZiftYZF++xFdh9qsjrxm0Q6QWFdn8LjAbUsjDv9TvbYTtYQilFu9yLo7yypVPHcqEyZdsXG/wfwdeevmv52c2GfQre0pyCHSzA8p/WllxVfjDof0uQuaLs2Uculvrasic/ZyHXYPGW7Xf1KYWkiX8T5VrkzZaVIvdgkTpLym2GXZJTUrWSbZE9aahMSp09ymXAzhhilNjfsWi5rdLaS1ji61d8sp8/Ar233tuHo3+Hf8N4J+rV02C8cEnIVxA62It95rYQW9xpI2QV9H22d5/Qnaga+wz8CXnC/leXdx8vcyaDkCsLIRHsLsNDyBZ4J9SEEIcaYyqdEDKDd6+LEEIIIR/FP3TmixI4XjUYAAAAAElFTkSuQmCC)Energía programada en el primer despacho diario e intradiario definido en el artículo 69 en el sistema aislado j por todos los grupos categoría A en el año n, expresada en kWh.
+
+b) El objetivo mínimo de eficiencia en la gestión del despacho para cada año n y para cada sistema aislado j OME(j,n), será el Indicador de Eficiencia en la gestión del despacho para cada sistema aislado j en el año n-1, si en él no se hubieran producido eventos excepcionales o de fuerza mayor, en cuyo caso, se tomaría el año previo al anterior.
+
+c) Los Indicadores de Calidad de Servicio (ICSNIEPI, ICSTIEPI) para cada año n y para cada sistema aislado j vendrán determinados por el número de interrupciones y duración de las interrupciones debidas a la generación de más de 3 minutos, determinados conforme a la definición de NIEPI y TIEPI establecida en la normativa general de aplicación.
+
+d) Los objetivos mínimos de calidad (OCSNIEPI, OCSTIEPI,) para cada sistema aislado j serán establecidos por orden del Ministro de Industria, Energía y Turismo a propuesta de la Comisión Nacional de los Mercados y la Competencia.
+
+e) El operador del sistema informará a la Dirección General de Política Energética y Minas y a la Comisión Nacional de los Mercados y la Competencia, con carácter mensual, para cada grupo y para cada hora del mes, del consumo específico de cada grupo generador, CEdespfinal_(h,i) y del consumo específico previsto según la energía programada a cada grupo en el primer, segundo y tercer despacho diario y en los intradiarios, indicando las diferentes causas de las diferencias entre los despachos: reservas de potencia, regulación, control de tensión, previsión de desvíos en los programas de generación y en demanda y restricciones de redes, entre otras. Asimismo remitirá el Indicador de Eficiencia Acumulado para cada sistema aislado j, teniendo en cuenta las horas de los meses transcurridos.
+
+Asimismo, antes del 30 de junio del año, las empresas distribuidoras remitirán a la Dirección General de Política Energética y de Minas y a la Comisión Nacional de los Mercados y la Competencia, los valores de los indicadores de TIEPI y el NIEPI del año anterior, asociados a la generación según la definición dada en la orden ECO/797/2002, de 22 de marzo, por la que se aprueba el procedimiento de medida y control de la continuidad del suministro eléctrico para cada sistema eléctrico aislado de los territorios no peninsulares.
+
+f) Las circunstancias excepcionales que pudieran afectar en el cálculo del indicador de eficiencia o de calidad, podrán ser exceptuadas del cálculo de los indicadores de eficiencia y de calidad, previa autorización por parte de la Dirección General de Política Energética y Minas.
+
+## ANEXO X — Procedimiento de despacho de producción
+
+El procedimiento de despacho consistirá en:
+
+1\. Un primer despacho, con criterio exclusivamente económico: En este primer despacho se realizará una simulación en la que la generación, para cada una de las horas, será asignada como nudo único y para cubrir exclusivamente la demanda comunicada por los comercializadores, los consumidores directos y los generadores para su consumo de servicios auxiliares cuando el saldo neto sea comprador en esa hora.
+
+Se utilizará para ello un modelo de minimización de costes variables de despacho que tenga en cuenta las características de los datos de entrada antes citados.
+
+Se tendrá en cuenta asimismo la particular situación de los grupos con limitación de horas de funcionamiento. El operador del sistema determinará en qué momentos del año estos grupos serán despachados, de acuerdo a criterios de seguridad de suministro y eficiencia económica.
+
+2\. Segundo despacho, con criterio económico y de seguridad, que deberá tener en cuenta que:
+
+a) La generación y reserva rodante de cada grupo generador, para cada una de las horas, es asignada como nudo único.
+
+b) El operador del sistema considerará la mejor previsión de demanda horaria del sistema disponible en el horizonte de decisión.
+
+c) El operador del sistema revisará los programas horarios previstos y comunicados por los generadores a partir de fuentes de energía renovable no gestionables para el horizonte de programación y utilizará, en esta fase del despacho, la mejor previsión disponible.
+
+d) En el cálculo de la cobertura de la curva de demanda, la generación prevista de las instalaciones categoría B se colocará a su precio instrumental definido en el artículo 61 hasta el límite de integración que permita salvaguardar las condiciones de seguridad y calidad de suministro para el sistema eléctrico.
+
+e) Asimismo, tendrá en cuenta un mínimo de generación gestionable necesaria que proporcione la inercia, reservas de regulación y garantía de cobertura suficientes para la explotación del sistema eléctrico en condiciones de seguridad y estabilidad.
+
+f) En el caso de cogeneradores, la potencia disponible de la central y la participación en el despacho de producción vendrá condicionada por el proceso productivo asociado en los términos que se definan en los correspondientes procedimientos de operación.
+
+g) Se utilizará para ello un modelo de minimización de costes variables que tenga en cuenta las características de los datos de entrada antes citados y sin partir de los resultados de la simulación del primer despacho.
+
+3\. Tercer despacho, en el cual, partiendo del despacho anterior, se analizarán las posibles restricciones impuestas por la red de transporte a esta situación base de cobertura, por violación de los límites impuestos en estado normal de funcionamiento a las variables de control del sistema, y ante las contingencias establecidas en la normativa de aplicación.
+
+Se procederá a un reajuste de la generación si fuera necesario, con criterios de seguridad y economía, identificando condiciones de funcionamiento obligadas de los grupos.
+
+> Se añade el apartado 1 por la disposición final 3.9 del Real Decreto 647/2020, de 7 de julio. [Ref. BOE-A-2020-7439](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7439)
+
+## ANEXO XI — Liquidación de la energía en el despacho de producción
+
+1 Obligación de pago por capacidad para las empresas comercializadoras y consumidores directos.
+
+Cada una de las empresas comercializadoras y consumidores directos c del sistema eléctrico aislado j tendrá una obligación de pago por capacidad que se calculará según la siguiente expresión:
+
+PCAP(c,h,j) = ∑pa EDC(c,h,j,pa) * PCAP(h,pa)
+
+Siendo:
+
+PCAP(c,h,j): Obligación de pago por capacidad para la empresa comercializadora y consumidor directo c del sistema eléctrico aislado j en la hora h.
+
+EDC(c,h,j,pa): Energía en barras de central, en la hora h y en el sistema eléctrico aislado j, consumida por el comercializador o consumidor directo c en peaje de acceso pa.
+
+PCAP(h,pa): Precio del pago por capacidad para la demanda en la hora h para el peaje de acceso pa establecido en la normativa vigente.
+
+2\. Obligación de pago por coste de desvíos para las empresas comercializadoras y consumidores directos.
+
+Cada una de las empresas comercializadoras y consumidores directos c del sistema eléctrico aislado j tendrá una obligación de pago por coste de desvíos que se calculará según la siguiente expresión:
+
+CDSV(c,h,j) = Abs(EDC(c,h,j) - EDCp(c,h,j)) * CDSVPEN (h)
+
+Siendo:
+
+CDSV(c,h,j): Obligación de pago por coste de desvíos para la empresa comercializadora y consumidor directo c del sistema eléctrico aislado j en la hora h.
+
+EDCp(c,h,j): Previsión de compras en barras de central de la empresa comercializadora y consumidor directo c del sistema eléctrico aislado j en la hora h comunicada al operador del sistema, según se establece en el artículo 68, para la realización del despacho diario.
+
+CDSVPEN(h): Coste medio de los desvíos de los consumidores directos y comercializadores que adquieren su energía para clientes finales nacionales directamente en el mercado de producción en el sistema eléctrico peninsular en la hora h.
+
+EDC(c,h,j): Energía en barras de central adquirida por la empresa comercializadora y consumidor directo c del sistema eléctrico aislado j en la hora h.
+
+3\. Los costes del servicio de gestión de la demanda de interrumpibilidad, los costes para la financiación de la retribución del operador del mercado y del operador del sistema y en su caso, otros costes serán los que resulten de aplicar la normativa general de aplicación.
+
+4\. Hasta la entrada en vigor de la orden del Ministro de Industria, Energía y Turismo definida en el artículo 7.2 que establezca los costes de desvíos en los que incurran las instalaciones con derecho a la percepción del régimen retributivo específico, el coste por los desvíos en los incurran dichas instalaciones que deberá ser abonado por sus titulares se calculará de acuerdo con la siguiente expresión:
+
+CosteDesvíos(e,h,j)= desv(e,h,j)*CDSV (h)
+
+Siendo:
+
+CosteDesvíos(e,h,j): Coste de desvíos del generador e en el sistema eléctrico aislado j en la hora h.
+
+desv (e,h,j): Valor absoluto de la diferencia en la hora h entre la energía medida en barras de central del generador e del sistema eléctrico aislado j y la producción prevista comunicada para la realización del despacho diario, en esa hora para ese sistema. No se considerarán en el cálculo de los desvíos aquellas diferencias en la producción prevista que se deban a limitaciones impuestas en tiempo real por el operador del sistema.
+
+CDSV(h): Coste medio de los desvíos de las instalaciones de generación a partir de fuentes de energía renovables, cogeneración y residuos peninsular de la misma categoría establecida en el Real Decreto 413/2014, de 6 de junio que participan en el mercado de producción peninsular en la hora h.
+
+En aquellos casos en que varios grupos generadores de los definidos en este apartado de una misma categoría establecida en el Real Decreto 413/2014, de 6 de junio, del sistema eléctrico aislado j participen en el despacho con el mismo sujeto de liquidación, se aplicará al coste de desvíos de cada generador un factor de corrección, calculado dividiendo el valor absoluto de la suma de los desvíos horarios de todos los grupos e del sujeto pertenecientes a la misma categoría establecida en el Real Decreto 413/2014, de 6 de junio, y sistema eléctrico aislado entre la suma del valor absoluto de dichos desvíos horarios.
+
+5\. Hasta la entrada en vigor de la orden del Ministro de Industria, Energía y Turismo definida en el artículo 8.2 que establezca los costes de desvíos en los que incurran las instalaciones de tecnología renovable no gestionable sin derecho a régimen retributivo específico, el coste por los desvíos en los que incurran dichas instalaciones que deberá ser abonado por sus titulares se calculará de acuerdo con la siguiente expresión:
+
+CosteDesvíos(e,h,j)= desv(e,h,j)*CDSV (h)
+
+Siendo:
+
+CosteDesvíos(e,h,j): Coste de desvíos del generador e en el sistema eléctrico aislado j en la hora h.
+
+desv (e,h,j): Valor absoluto de la diferencia en la hora h entre la energía medida en barras de central del generador e del sistema eléctrico aislado j y la producción prevista comunicada para la realización del despacho diario, en esa hora para ese sistema. No se considerarán en el cálculo de los desvíos aquellas diferencias en la producción prevista que se deban a limitaciones impuestas en tiempo real por el operador del sistema.
+
+CDSV(h): Coste medio peninsular de los desvíos de las instalaciones de generación a partir de fuentes de energía renovables, cogeneración y residuos de la misma categoría establecida en el Real Decreto 413/2014, de 6 de junio, que participan en el mercado de producción peninsular en la hora h.
+
+En aquellos casos en que varios grupos generadores de los definidos en este apartado de una misma categoría establecida en el Real Decreto 413/2014, de 6 de junio del sistema eléctrico aislado j participen en el despacho con el mismo sujeto de liquidación, se aplicará al coste de desvíos de cada generador un factor de corrección, calculado dividiendo el valor absoluto de la suma de los desvíos horarios de todos los grupos e del sujeto pertenecientes a la misma categoría establecida en el Real Decreto 413/2014, de 6 de junio y sistema eléctrico aislado entre la suma del valor absoluto de dichos desvíos horarios.
+
+> Se modifican los apartados 4 y 5 por la disposición final 2.3 de la Orden TED/1315/2022, de 23 de diciembre. [Ref. BOE-A-2022-23752](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23752)
+
+## ANEXO XII — Parámetros técnicos y económicos de retribución para el primer periodo regulatorio
+
+1\. Valor de la anualidad de la retribución por inversión para el año 2015.
+
+El valor de la anualidad de la retribución por inversión (CIn) para el año 2015 desde la entrada en vigor del presente real decreto para cada uno de los grupos será la establecida en la siguiente tabla:
+
+| N.º Registro | Denominación oficial | CIn 2015(desde la entrada en vigor del RD)M€ |
+|---|---|---|
+| RO1-1064 | ALCUDIA 1, GRUPO N.º 1 | 0,000 |
+| RO1-1065 | ALCUDIA 2, GRUPO N.º 2 | 0,000 |
+| RO2-0057 | ALCUDIA 3, TURBINA DE GAS N.º 1 | 0,000 |
+| RO2-0058 | ALCUDIA 4, TURBINA DE GAS N.º 2 | 0,000 |
+| RO1-1066 | ALCUDIA 5, GRUPO N.º 3 | 9,227 |
+| RO1-1067 | ALCUDIA 6, GRUPO N.º 4 | 9,331 |
+| RO2-0063 | FORMENTERA 1, TURBINA DE GAS N.º 1 | 0,000 |
+| RO2-0036 | IBIZA 5, BURMEISTER N.º 1 | 0,000 |
+| RO2-0038 | IBIZA 6, BURMEISTER N.º 2 | 0,000 |
+| RO2-0039 | IBIZA 7, BURMEISTER N.º 3 | 0,000 |
+| RO2-0040 | IBIZA 8, BURMEISTER N.º 4 | 0,000 |
+| RO2-0043 | IBIZA 9, BURMEISTER N.º 5 | 0,000 |
+| RO2-0044 | IBIZA 10, BURMEISTER N.º 6 | 0,000 |
+| RO2-0045 | IBIZA 11, BURMEISTER N.º 7 | 0,000 |
+| RO2-0059 | IBIZA 12, TURBINA DE GAS N.º 1 | 0,000 |
+| RO2-0046 | IBIZA 13, BURMEISTER N.º 8 | 0,841 |
+| RO2-0047 | IBIZA 14, BURMEISTER N.º 9 | 0,763 |
+| RO2-0060 | IBIZA 15, TURBINA DE GAS N.º 2 | 0,000 |
+| RO2-0159 | IBIZA 16, DIÉSEL MAN 1 | 1,243 |
+| RO2-0160 | IBIZA 17, DIÉSEL MAN 2 | 1,285 |
+| RO2-0158 | IBIZA TURBINA DE GAS N.º 3 (SON MOLINAS 5) | 0,000 |
+| RO2-0161 | IBIZA TURBINA DE GAS N.º 4 | 0,000 |
+| RO2-0182 | IBIZA 20 (MAN 3) | 2,252 |
+| RO2-0183 | IBIZA 21 (MAN 4) | 2,263 |
+| RO2-0201 | IBIZA 22, TURBINA DE GAS N.º 5 | 1,559 |
+| RO2-0202 | IBIZA 23, TURBINA DE GAS N.º 6 | 1,696 |
+| RO2-0208 | IBIZA 24, TURBINA DE GAS N.º 6B |  |
+| RO2-0037 | MAHÓN 9, BURMEISTER N.º 1 | 0,793 |
+| RO2-0041 | MAHÓN 10, BURMEISTER N.º 2 | 0,754 |
+| RO2-0042 | MAHÓN 11, BURMEISTER N.º 3 | 0,766 |
+| RO2-0061 | MAHÓN 12, TURBINA DE GAS N.º 2 | 0,410 |
+| RO2-0077 | MAHÓN 13, TURBINA DE GAS N.º 1 | 0,617 |
+| RO1-1074 | MAHÓN 14, TURBINA DE GAS N.º 3 | 1,704 |
+| RO2-0198 | MAHÓN TG4 | 3,328 |
+| RO2-0203 | MAHÓN 16, TURBINA DE GAS N.º 5 | 3,385 |
+| RO2-0031 | SON REUS 1, TURBINA DE GAS N.º 1 | 0,812 |
+| RO2-0032 | SON REUS 2, TURBINA DE GAS N.º 2 | 0,810 |
+| RO2-0033 | SON REUS 3, TURBINA DE GAS N.º 3 | 0,810 |
+| RO2-0034 | SON REUS 4, TURBINA DE GAS N.º 4 | 0,813 |
+| RO1-1068<br>RO1-1069<br>RO1-1070<br>RO1-1073 | SON REUS 5, TURBINA DE GAS N.º 5<br>SON REUS 6, TURBINA DE GAS N.º 6<br>SON REUS 7, TURBINA DE GAS N.º 7<br>SON REUS VAPOR 10 | 15,336 |
+| RO1-1072 | SON REUS 9, TURBINA DE GAS N.º 9 (CC2) | 4,757 |
+| RO1-1071 | SON REUS TURBINA DE GAS N.º 8 (CC2) | 4,757 |
+| RO1-1075 | SON REUS TURBINA DE VAPOR N.º 2 (CC2) | 5,076 |
+| RO2-0195 | CA'S TRESORER TG1, CC1 | 6,139 |
+| RO2-0196 | CA'S TRESORER TG2, CC1 | 6,143 |
+| RO2-0197 | CA'S TRESORER TV, CC1 | 6,604 |
+| RO1-2012 | CA'S TRESORER TG3, CC2 | 7,023 |
+| RO1-2013 | CA'S TRESORER TG4, CC2 | 7,061 |
+| RO1-2014 | CA'S TRESORER TV2, CC2 | 7,344 |
+
+| N.º Registro | Denominación oficial | CIn 2015(desde la entrada en vigor del RD)M€ |
+|---|---|---|
+| RO2-0089 | BARRANCO DE TIRAJANA 1, GAS 1 | 0,428 |
+| RO2-0090 | BARRANCO DE TIRAJANA 2, GAS 2 | 0,602 |
+| RO1-1049 | BARRANCO DE TIRAJANA 3, VAPOR 1 | 7,983 |
+| RO1-1050 | BARRANCO DE TIRAJANA 4, VAPOR 2 | 7,133 |
+| RO1-1051 | BARRANCO DE TIRAJANA 5, GAS 3 (CC1) | 5,648 |
+| RO1-1052 | BARRANCO DE TIRAJANA 6, GAS 4 (CC1) | 5,665 |
+| RO1-2000 | BARRANCO DE TIRAJANA 7, VAPOR 3 (CC1) | 5,910 |
+| RO2-0188 | BARRANCO DE TIRAJANA 8, GAS 5 CC2 | 6,306 |
+| RO2-0189 | BARRANCO DE TIRAJANA 9, GAS 6 CC2 | 6,370 |
+| RO2-0190 | BARRANCO DE TIRAJANA 10, VAPOR 4 CC2 | 7,069 |
+| RO2-0081 | JINAMAR 2, DIÉSEL 1 | 0,000 |
+| RO2-0082 | JINAMAR 3, DIÉSEL 2 | 0,000 |
+| RO2-0083 | JINAMAR 4, DIÉSEL 3 | 0,000 |
+| RO2-0086 | JINAMAR 7, GAS 1 | 0,000 |
+| RO1-1047 | JINAMAR 8, VAPOR 4 | 0,000 |
+| RO1-1048 | JINAMAR 9, VAPOR 5 | 0,000 |
+| RO2-0087 | JINAMAR 10, GAS 2 | 0,000 |
+| RO2-0088 | JINAMAR 11, GAS 3 | 0,000 |
+| RO2-0084 | JINAMAR 12, DIÉSEL 4 | 0,656 |
+| RO2-0085 | JINAMAR 13, DIÉSEL 5 | 0,974 |
+| RO2-0118 | LAS SALINAS 1, DIÉSEL 1 | 0,000 |
+| RO2-0119 | LAS SALINAS 2, DIÉSEL 2 | 0,000 |
+| RO2-0120 | LAS SALINAS 3, DIÉSEL 3 | 0,000 |
+| RO2-0121 | LAS SALINAS 4, DIÉSEL 4 | 0,000 |
+| RO2-0122 | LAS SALINAS 5, DIÉSEL 5 | 0,000 |
+| RO2-0123 | LAS SALINAS 6, DIÉSEL 6 | 0,714 |
+| RO2-0124 | LAS SALINAS 7, GAS 1 | 0,400 |
+| RO2-0125 | LAS SALINAS 8, GAS 2 | 1,075 |
+| RO2-0135 | SALINAS,LAS 9 (GUINCHOS, LOS 11) | 0,000 |
+| RO2-0179 | LAS SALINAS 10, DIÉSEL 7 | 2,817 |
+| RO2-0199 | LAS SALINAS 11, DIÉSEL 8 | 2,071 |
+| RO2-0200 | LAS SALINAS 12, DIÉSEL 9 | 2,143 |
+| RO2-0107 | PUNTA GRANDE 2, DIÉSEL 1 | 0,000 |
+| RO2-0108 | PUNTA GRANDE 3, DIÉSEL 2 | 0,000 |
+| RO2-0109 | PUNTA GRANDE 7, DIÉSEL 3 | 0,000 |
+| RO2-0115 | PUNTA GRANDE 9, GAS 1 | 0,000 |
+| RO2-0110 | PUNTA GRANDE 11, DIÉSEL 4 | 0,321 |
+| RO2-0111 | PUNTA GRANDE 12, DIÉSEL 5 | 0,197 |
+| RO2-0112 | PUNTA GRANDE 13, DIÉSEL 6 | 1,645 |
+| RO2-0116 | PUNTA GRANDE 14, GAS 2 | 0,821 |
+| RO2-0113 | PUNTA GRANDE 15, DIÉSEL 7 | 1,776 |
+| RO2-0114 | PUNTA GRANDE 16, DIÉSEL 8 | 1,800 |
+| RO2-0193 | PUNTA GRANDE DIÉSEL 9 | 2,463 |
+| RO2-0194 | PUNTA GRANDE DIÉSEL 10 | 2,505 |
+| RO2-0095 | CANDELARIA 3, DIÉSEL 1 | 0,000 |
+| RO2-0096 | CANDELARIA 4, DIÉSEL 2 | 0,000 |
+| RO2-0100 | CANDELARIA 5, GAS 3 | 0,000 |
+| RO2-0097 | CANDELARIA 6, DIÉSEL 3 | 0,000 |
+| RO2-0093 | CANDELARIA 9, VAPOR 5 | 0,000 |
+| RO2-0094 | CANDELARIA 10, VAPOR 6 | 0,000 |
+| RO2-0098 | CANDELARIA 11, GAS 1 | 0,000 |
+| RO2-0099 | CANDELARIA 12, GAS 2 | 0,162 |
+| RO2-0103 | GRANADILLA 1, GAS 1 | 0,261 |
+| RO2-0101 | GRANADILLA 2, DIÉSEL 1 | 1,106 |
+| RO2-0102 | GRANADILLA 3, DIÉSEL 2 | 1,129 |
+| RO1-1054 | GRANADILLA 4, VAPOR 2 | 7,891 |
+| RO1-1053 | GRANADILLA 5, VAPOR 1 | 7,074 |
+| RO2-0104 | GRANADILLA 6, GAS 2 | 2,151 |
+| RO1-1055 | GRANADILLA 7, GAS 3 (CC1) | 5,415 |
+| RO1-1056 | GRANADILLA 8, GAS 4 (CC1) | 5,517 |
+| RO1-1087 | GRANADILLA 9, VAPOR, 3 (CC1) | 5,652 |
+| RO1-2015 | GRANADILLA 10, TG5 (CC2) | 8,301 |
+| RO1-2016 | GRANADILLA 11, TG6 (CC2) | 8,316 |
+| RO1-1063 | GRANADILLA 12, VAPOR 4 (CC2) | 8,799 |
+| RO2-0105 | ARONA 1, GAS 1 | 1,190 |
+| RO2-0106 | ARONA 2, GAS 2 | 1,234 |
+| RO2-0127 | LOS GUINCHOS 6, DIÉSEL 6 | 0,000 |
+| RO2-0128 | LOS GUINCHOS 7, DIÉSEL 7 | 0,000 |
+| RO2-0129 | LOS GUINCHOS 8, DIÉSEL 8 | 0,000 |
+| RO2-0130 | LOS GUINCHOS 9, DIÉSEL 9 | 0,000 |
+| RO2-0131 | LOS GUINCHOS 10, DIÉSEL 10 | 0,000 |
+| RO2-0132 | LOS GUINCHOS 12, DIÉSEL 11 | 0,431 |
+| RO2-0133 | LOS GUINCHOS 13, DIÉSEL 12 | 0,843 |
+| RO2-0134 | LOS GUINCHOS 14, DIÉSEL 13 | 2,198 |
+| RO2-0187 | LOS GUINCHOS 15, GAS MÓVIL 2 | 1,593 |
+| RO2-0191 | LOS GUINCHOS 16 (DIÉSEL 14) | 2,044 |
+| RO2-0192 | LOS GUINCHOS 17 (DIÉSEL 15) | 2,066 |
+| NO ESTÁ EN EL REGISTRO | PALMAR,EL 12 | 0,000 |
+| RO2-0136 | EL PALMAR 13, DIÉSEL 12 | 0,000 |
+| RO2-0137 | EL PALMAR 14, DIÉSEL 13 | 0,000 |
+| RO2-0138 | EL PALMAR 15, DIÉSEL 14 | 0,000 |
+| RO2-0139 | EL PALMAR 16, DIÉSEL 15 | 0,000 |
+| RO2-0140 | EL PALMAR 17, DIÉSEL 16 | 0,156 |
+| RO2-0141 | EL PALMAR 18, DIÉSEL 17 | 0,184 |
+| RO2-0142 | EL PALMAR 19, DIÉSEL 18 | 0,549 |
+| RO2-0143 | EL PALMAR 20, DIÉSEL 19 | 0,695 |
+| RO2-0149 | LLANOS BLANCOS 1, DIÉSEL MÓVIL 1 | 0,000 |
+| RO3-0019 | LLANOS BLANCOS 9, DIÉSEL 7 | 0,000 |
+| RO2-0144 | LLANOS BLANCOS 11, DIÉSEL 9 | 0,000 |
+| RO2-0145 | LLANOS BLANCOS 12, DIÉSEL 10 | 0,031 |
+| RO2-0146 | LLANOS BLANCOS 13, DIÉSEL 11 | 0,044 |
+| RO2-0147 | LLANOS BLANCOS 14, DIÉSEL 12 | 0,055 |
+| RO2-0148 | LLANOS BLANCOS 15, DIÉSEL 13 | 0,077 |
+| RO2-0176 | LLANOS BLANCOS 16, DIÉSEL, 14 | 0,319 |
+| RO2-0186 | LLANOS BLANCOS 17, DIÉSEL 15 | 0,325 |
+| RO3-0018 | EL MULATO, HIDRÁULICA 1 | 0,015 |
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">N.º Registro</th>
+<th class="cabeza_tabla">Denominación oficial</th>
+<th class="cabeza_tabla">CIn 2015(desde la entrada en vigor del RD)M€</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0020</td>
+<td class="cuerpo_tabla_izq">MELILLA 5, G-5</td>
+<td class="cuerpo_tabla_der">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0021</td>
+<td class="cuerpo_tabla_izq">MELILLA 6, G-6</td>
+<td class="cuerpo_tabla_der">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0024</td>
+<td class="cuerpo_tabla_izq">MELILLA 9, G-9</td>
+<td class="cuerpo_tabla_der">0,378</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0025</td>
+<td class="cuerpo_tabla_izq">MELILLA 10, G-10</td>
+<td class="cuerpo_tabla_der">0,991</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0175</td>
+<td class="cuerpo_tabla_izq">MELILLA 11, DIÉSEL 10</td>
+<td class="cuerpo_tabla_der">1,331</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">MELILLA G. Electrógenos (*)</td>
+<td class="cuerpo_tabla_izq">MELILLA G. Electrógenos (*)</td>
+<td class="cuerpo_tabla_der">1,464</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0180</td>
+<td class="cuerpo_tabla_izq">MELILLA G-12</td>
+<td class="cuerpo_tabla_der">2,207</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0185</td>
+<td class="cuerpo_tabla_izq">MELILLA 13</td>
+<td class="cuerpo_tabla_der">2,263</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0011</td>
+<td class="cuerpo_tabla_izq">CEUTA 1, G-1</td>
+<td class="cuerpo_tabla_der">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0026</td>
+<td class="cuerpo_tabla_izq">CEUTA 2, G-2</td>
+<td class="cuerpo_tabla_der">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0015</td>
+<td class="cuerpo_tabla_izq">CEUTA 6, G-6</td>
+<td class="cuerpo_tabla_der">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0016</td>
+<td class="cuerpo_tabla_izq">CEUTA 7, G-7</td>
+<td class="cuerpo_tabla_der">0,265</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0177</td>
+<td class="cuerpo_tabla_izq">CEUTA 8, G-8</td>
+<td class="cuerpo_tabla_der">0,381</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0178</td>
+<td class="cuerpo_tabla_izq">CEUTA 9, G-9</td>
+<td class="cuerpo_tabla_der">1,302</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0181</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 10</td>
+<td class="cuerpo_tabla_der">2,066</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0184</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 11</td>
+<td class="cuerpo_tabla_der">2,264</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0204</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 12</td>
+<td class="cuerpo_tabla_der">1,446</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0206</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 13</td>
+<td class="cuerpo_tabla_der">2,483</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">DENTRO DE MELILLA G. Electrógenos (*) están los siguientes grupos:</td>
+<td class="cuerpo_tabla_der" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0027</td>
+<td class="cuerpo_tabla_izq">MELILLA 12, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0028</td>
+<td class="cuerpo_tabla_izq">MELILLA 13, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0029</td>
+<td class="cuerpo_tabla_izq">MELILLA 14, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0030</td>
+<td class="cuerpo_tabla_izq">MELILLA 15, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0031</td>
+<td class="cuerpo_tabla_izq">MELILLA 16, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0032</td>
+<td class="cuerpo_tabla_izq">MELILLA 17, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0033</td>
+<td class="cuerpo_tabla_izq">MELILLA 18, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0034</td>
+<td class="cuerpo_tabla_izq">MELILLA 19, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0035</td>
+<td class="cuerpo_tabla_izq">MELILLA 20, G. ELECTRÓGENO (ANTES CEUTA 10)</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0036</td>
+<td class="cuerpo_tabla_izq">MELILLA 21, G. ELECTRÓGENO (ANTES CEUTA 11)</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0037</td>
+<td class="cuerpo_tabla_izq">MELILLA 22, G. ELECTRÓGENO (ANTES CEUTA 12)</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0038</td>
+<td class="cuerpo_tabla_izq">MELILLA 23, G. ELECTRÓGENO (ANTES CEUTA 13)</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+</tbody>
+</table>
+
+2\. Valores unitarios máximos de inversión.
+
+El valor unitario máximo de inversión, en €/KW, definido en la disposición adicional segunda, se obtendrá, para una determinada tecnología, a partir de la siguiente expresión:
+
+Iu = k * PN^l
+
+Siendo
+
+PN: potencia neta en MW del grupo que conste en el registro administrativo de instalaciones de producción.
+
+k y l: parámetros que se calcularán de acuerdo con lo previsto a continuación.
+
+Los valores de k y l aplicables a Baleares se muestran en la tabla siguiente:
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">Inversión unitaria (por kW neto) Tipo de planta</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Parámetros</th>
+<th class="cabeza_tabla">k</th>
+<th class="cabeza_tabla">l</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Turbina de gas aeroderivada.</td>
+<td class="cuerpo_tabla_centro">1551,10</td>
+<td class="cuerpo_tabla_centro">-0,2099</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbina de gas ciclo simple. Heavy Duty</td>
+<td class="cuerpo_tabla_centro">1314,65</td>
+<td class="cuerpo_tabla_centro">-0,1774</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 1TG+1TV</td>
+<td class="cuerpo_tabla_centro">1669,17</td>
+<td class="cuerpo_tabla_centro">-0,1337</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 2TG+1TV</td>
+<td class="cuerpo_tabla_centro">997,14</td>
+<td class="cuerpo_tabla_centro">-0,0204</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 3TG+1TV</td>
+<td class="cuerpo_tabla_centro">1105,08</td>
+<td class="cuerpo_tabla_centro">-0,0428</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Motores diésel 4T</td>
+<td class="cuerpo_tabla_centro">2389,69</td>
+<td class="cuerpo_tabla_centro">-0,2264</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Motores diésel 2T</td>
+<td class="cuerpo_tabla_centro">2328,76</td>
+<td class="cuerpo_tabla_centro">-0,2244</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Vapor Carbón</td>
+<td class="cuerpo_tabla_centro">3439,22</td>
+<td class="cuerpo_tabla_centro">-0,2090</td>
+</tr>
+</tbody>
+</table>
+
+El parámetro l aplicable a Canarias, Ceuta y Melilla tomará el valor de la tabla de Baleares.
+
+El parámetro «k» aplicable a Canarias tomará el valor de la tabla de Baleares multiplicado por 1,15, y el parámetro «k» aplicable a Ceuta y Melilla se obtendrá de multiplicar el valor correspondiente a Baleares por 1,1.
+
+3\. Valores unitarios de la anualidad de operación y mantenimiento fijos de las instalaciones tipo.
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="5">Valores unitarios de la anualidad de operación y mantenimiento fijos Euros/MW</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Tecnología</th>
+<th class="cabeza_tabla">Potencia Neta (MW)</th>
+<th class="cabeza_tabla">Baleares</th>
+<th class="cabeza_tabla">Canarias</th>
+<th class="cabeza_tabla">Ceuta y Melilla</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
+<td class="cuerpo_tabla_centro">78.584</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">90.083</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
+<td class="cuerpo_tabla_centro">55.125</td>
+<td class="cuerpo_tabla_centro">63.190</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
+<td class="cuerpo_tabla_centro">46.559</td>
+<td class="cuerpo_tabla_centro">53.371</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
+<td class="cuerpo_tabla_centro">55.299</td>
+<td class="cuerpo_tabla_centro">63.389</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">141.808</td>
+<td class="cuerpo_tabla_centro">141.808</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">141.808</td>
+<td class="cuerpo_tabla_centro">141.808</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">116.391</td>
+<td class="cuerpo_tabla_centro">116.391</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
+<td class="cuerpo_tabla_centro">66.778</td>
+<td class="cuerpo_tabla_centro">76.550</td>
+<td class="cuerpo_tabla_centro">76.550</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
+<td class="cuerpo_tabla_centro">21.540</td>
+<td class="cuerpo_tabla_centro">24.693</td>
+<td class="cuerpo_tabla_centro">24.693</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
+<td class="cuerpo_tabla_centro">36.194</td>
+<td class="cuerpo_tabla_centro">41.491</td>
+<td class="cuerpo_tabla_centro">41.491</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
+<td class="cuerpo_tabla_centro">27.633</td>
+<td class="cuerpo_tabla_centro">31.678</td>
+<td class="cuerpo_tabla_centro">31.678</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
+<td class="cuerpo_tabla_centro">19.072</td>
+<td class="cuerpo_tabla_centro">21.864</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
+<td class="cuerpo_tabla_centro">13.017</td>
+<td class="cuerpo_tabla_centro">14.923</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">46.065</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
+<td class="cuerpo_tabla_centro">21.698</td>
+<td class="cuerpo_tabla_centro">24.873</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">23.139</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">21.941</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_centro">32.717</td>
+<td class="cuerpo_tabla_centro">37.503</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
+<td class="cuerpo_tabla_izq">201 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_centro">32.717</td>
+<td class="cuerpo_tabla_centro">37.503</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Hidráulica</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">129.857</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+4\. Valores de los parámetros a, b y c de la retribución por costes variables de funcionamiento de las instalaciones tipo aplicables durante el primer periodo regulatorio.
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="8">Parámetros Técnicos de liquidación por instalación tipo</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Tecnología</th>
+<th class="cabeza_tabla">Potencia Neta (MW)</th>
+<th class="cabeza_tabla">Baleares</th>
+<th class="cabeza_tabla">Canarias</th>
+<th class="cabeza_tabla">Ceuta y Melilla</th>
+<th class="cabeza_tabla">a (th/h)</th>
+<th class="cabeza_tabla">b (th/h MW)</th>
+<th class="cabeza_tabla">c (th/h MW2)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
+<td class="cuerpo_tabla_centro">IT-0001</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">IT-0100</td>
+<td class="cuerpo_tabla_der">-</td>
+<td class="cuerpo_tabla_der">-</td>
+<td class="cuerpo_tabla_der">-</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
+<td class="cuerpo_tabla_centro">IT-0002</td>
+<td class="cuerpo_tabla_centro">IT-0050</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der">1.241,03</td>
+<td class="cuerpo_tabla_der">2.481,86</td>
+<td class="cuerpo_tabla_der">6,25</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
+<td class="cuerpo_tabla_centro">IT-0003</td>
+<td class="cuerpo_tabla_centro">IT-0051</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der">5.451,19</td>
+<td class="cuerpo_tabla_der">1.365,72</td>
+<td class="cuerpo_tabla_der">26,86</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
+<td class="cuerpo_tabla_centro">IT-0004</td>
+<td class="cuerpo_tabla_centro">IT-0052</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der">7.252,84</td>
+<td class="cuerpo_tabla_der">1.411,93</td>
+<td class="cuerpo_tabla_der">14,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">IT-0101</td>
+<td class="cuerpo_tabla_der">397,36</td>
+<td class="cuerpo_tabla_der">2.185,37</td>
+<td class="cuerpo_tabla_der">-64,59</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">IT-0054</td>
+<td class="cuerpo_tabla_centro">IT-0102</td>
+<td class="cuerpo_tabla_der">857,50</td>
+<td class="cuerpo_tabla_der">1.604,48</td>
+<td class="cuerpo_tabla_der">170,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">IT-0055</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_der">865,67</td>
+<td class="cuerpo_tabla_der">2.391,77</td>
+<td class="cuerpo_tabla_der">12,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
+<td class="cuerpo_tabla_centro">IT-0005</td>
+<td class="cuerpo_tabla_centro">IT-0056</td>
+<td class="cuerpo_tabla_centro">IT-0104</td>
+<td class="cuerpo_tabla_der">9.097,35</td>
+<td class="cuerpo_tabla_der">1.092,29</td>
+<td class="cuerpo_tabla_der">34,33</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
+<td class="cuerpo_tabla_centro">IT-0006</td>
+<td class="cuerpo_tabla_centro">IT-0057</td>
+<td class="cuerpo_tabla_centro">IT-0105</td>
+<td class="cuerpo_tabla_der">8.819,01</td>
+<td class="cuerpo_tabla_der">2.167,21</td>
+<td class="cuerpo_tabla_der">1,15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
+<td class="cuerpo_tabla_centro">IT-0007</td>
+<td class="cuerpo_tabla_centro">IT-0058</td>
+<td class="cuerpo_tabla_centro">IT-0106</td>
+<td class="cuerpo_tabla_der">15.572,02</td>
+<td class="cuerpo_tabla_der">2.938,40</td>
+<td class="cuerpo_tabla_der">-4,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
+<td class="cuerpo_tabla_centro">IT-0008</td>
+<td class="cuerpo_tabla_centro">IT-0059</td>
+<td class="cuerpo_tabla_centro">IT-0107</td>
+<td class="cuerpo_tabla_der">15.342,72</td>
+<td class="cuerpo_tabla_der">3.315,69</td>
+<td class="cuerpo_tabla_der">-19,28</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
+<td class="cuerpo_tabla_centro">IT-0009</td>
+<td class="cuerpo_tabla_centro">IT-0060</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der">28.793,99</td>
+<td class="cuerpo_tabla_der">2.020,42</td>
+<td class="cuerpo_tabla_der">5,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
+<td class="cuerpo_tabla_centro">IT-0010</td>
+<td class="cuerpo_tabla_centro">IT-0061</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der">57.544,53</td>
+<td class="cuerpo_tabla_der">1.912,30</td>
+<td class="cuerpo_tabla_der">0,42</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">IT-0011</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der">33.654,30</td>
+<td class="cuerpo_tabla_der">2.070,44</td>
+<td class="cuerpo_tabla_der">1,35</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
+<td class="cuerpo_tabla_centro">IT-0012</td>
+<td class="cuerpo_tabla_centro">IT-0062</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der">8.336,26</td>
+<td class="cuerpo_tabla_der">2.795,35</td>
+<td class="cuerpo_tabla_der">0,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">IT-0063</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der">12.852,80</td>
+<td class="cuerpo_tabla_der">2.622,14</td>
+<td class="cuerpo_tabla_der">0,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">IT-0064</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der">20.839,77</td>
+<td class="cuerpo_tabla_der">2.131,14</td>
+<td class="cuerpo_tabla_der">0,37</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_centro">IT-0013</td>
+<td class="cuerpo_tabla_centro">IT-0065</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der">81.214,70</td>
+<td class="cuerpo_tabla_der">830,13</td>
+<td class="cuerpo_tabla_der">3,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_centro">IT-0014</td>
+<td class="cuerpo_tabla_centro">IT-0066</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der">22.107,64</td>
+<td class="cuerpo_tabla_der">1.821,55</td>
+<td class="cuerpo_tabla_der">1,02</td>
+</tr>
+</tbody>
+</table>
+
+5\. Valores de los parámetros a´, b´ de la retribución por costes de arranque asociados al combustible de las instalaciones tipo aplicables durante el primer periodo regulatorio.
+
+| Tecnología | Intervalo Potencia Neta (MW) | Baleares | Canarias | Ceuta y Melilla | a' (te) | b' (horas) |
+|---|---|---|---|---|---|---|
+| Grupos Diésel - 2T | Potencia <5 | IT-0001 |  | IT-0100 |  |  |
+| Grupos Diésel - 2T | 5 ≤ Potencia < 12 | IT-0002 | IT-0050 |  | 57.689,14 | 6,7439 |
+| Grupos Diésel - 2T | 12 ≤ Potencia < 20 | IT-0003 | IT-0051 |  | 56.999,39 | 7,5852 |
+| Grupos Diésel - 2T | Potencia ≥ 20 | IT-0004 | IT-0052 |  | 79.576,42 | 5,5361 |
+| Grupos Diésel - 4T | Potencia < 2 |  | IT-0053 | IT-0101 | 4.389,80 | 1,4429 |
+| Grupos Diésel - 4T | 2 ≤ Potencia < 4 |  | IT-0054 | IT-0102 | 6.844,38 | 3,9425 |
+| Grupos Diésel - 4T | 4 ≤ Potencia < 14 |  | IT-0055 | IT-0103 | 15.172,25 | 4,6885 |
+| Grupos Diésel - 4T | 14 ≤ Potencia < 24 | IT-0005 | IT-0056 | IT-0104 | 57.689,14 | 6,7439 |
+| Turbinas de gas aeroderivadas | Potencia < 50 | IT-0006 | IT-0057 | IT-0105 | 8.120,00 | 0,2172 |
+| Turbinas de gas heavy duty | Potencia < 13 | IT-0007 | IT-0058 | IT-0106 | 13.850,36 | 0,2171 |
+| Turbinas de gas heavy duty | 13 ≤ Potencia < 25 | IT-0008 | IT-0059 | IT-0107 | 12.470,46 | 0,2171 |
+| Turbinas de gas heavy duty | 25 ≤ Potencia < 50 | IT-0009 | IT-0060 |  | 10.124,02 | 0,2177 |
+| Turbinas de gas heavy duty | Potencia ≥ 50 | IT-0010 | IT-0061 |  | 49.877,10 | 0,7214 |
+| Turbinas de vapor de Carbón |  | IT-0011 |  |  | 1.180.893,70 | 5,6972 |
+| Turbinas de Vapor de Fuel | Potencia ≤ 40 | IT-0012 | IT-0062 |  | 184.932,52 | 18,4521 |
+| Turbinas de Vapor de Fuel | 40 < Potencia ≤ 60 |  | IT-0063 |  | 269.052,81 | 17,4368 |
+| Turbinas de Vapor de Fuel | 60 < Potencia ≤ 80 |  | IT-0064 |  | 357.255,00 | 7,2159 |
+| Ciclo combinado configuración 2x1 | 200 ≤ Potencia ≤ 250 | IT-0013 | IT-0065 |  |  |  |
+| Funcionamiento 1 TG+1 TV |  |  |  |  | 281.985,03 | 0,5538 |
+| Funcionamiento 2 TG+1 TV |  |  |  |  | 410.809,81 | 0,6048 |
+| Ciclo combinado configuración 3x1 | 200 ≤ Potencia ≤ 250 | IT-0014 | IT-0066 |  |  |  |
+| Funcionamiento 1 TG+1 TV |  |  |  |  | 176.511,00 | 0,5457 |
+| Funcionamiento 2 TG+1 TV |  |  |  |  | 298.551,00 | 0,5619 |
+| Funcionamiento 3 TG+1 TV |  |  |  |  | 420.591,00 | 0,6048 |
+
+6\. Valores unitarios de operación y mantenimiento variable de liquidación del primer periodo regulatorio de las instalaciones tipo.
+
+Los valores unitarios de operación y mantenimiento variable de liquidación de las instalaciones tipo, en €/Mwh, serán los valores de la siguiente tabla:
+
+| Tecnología | Intervalo Potencia Neta (MW) | Baleares | Canarias | Ceuta y Melilla |
+|---|---|---|---|---|
+| Grupos Diésel - 2T | Potencia < 5 |  |  |  |
+| Grupos Diésel - 2T | 5 ≤ Potencia < 12 |  | 21,54 |  |
+| Grupos Diésel - 2T | 12 ≤ Potencia < 20 | 11,22 | 11,14 |  |
+| Grupos Diésel - 2T | Potencia ≥ 20 |  | 11,54 |  |
+| Grupos Diésel - 4T | Potencia < 2 |  | 66,58 | 63,16 |
+| Grupos Diésel - 4T | 2 ≤ Potencia < 4 |  | 33,23 |  |
+| Grupos Diésel - 4T | 4 ≤ Potencia < 14 |  | 28,52 | 27,26 |
+| Grupos Diésel - 4T | 14 ≤ Potencia < 24 | 20,50 | 20,43 |  |
+| Turbinas de gas aeroderivadas | Potencia < 50 | 12,87 | 17,46 |  |
+| Turbinas de gas heavy duty | Potencia < 13 | 61,55 | 67,55 | 124,47 |
+| Turbinas de gas heavy duty | 13 ≤ Potencia < 25 | 25,05 | 32,96 | 34,97 |
+| Turbinas de gas heavy duty | 25 ≤ Potencia < 50 | 22,92 | 22,52 |  |
+| Turbinas de gas heavy duty | Potencia ≥ 50 |  |  |  |
+| Turbinas de vapor de Carbón |  | 4,69 |  |  |
+| Turbinas de Vapor de Fuel | Potencia ≤ 40 |  | 7,89 |  |
+| Turbinas de Vapor de Fuel | 40 < Potencia ≤ 60 |  | 7,22 |  |
+| Turbinas de Vapor de Fuel | 60 < Potencia ≤ 80 |  | 5,03 |  |
+| Ciclo combinado configuración 2x1 | 200 ≤ Potencia ≤ 250 | 22,98 | 18,16 |  |
+| Funcionamiento 1 TG+1 TV |  |  |  |  |
+| Funcionamiento 2 TG+1 TV |  |  |  |  |
+| Ciclo combinado configuración 3x1 | 200 ≤ Potencia ≤ 250 | 16,46 |  |  |
+| Funcionamiento 1 TG+1 TV |  |  |  |  |
+| Funcionamiento 2 TG+1 TV |  |  |  |  |
+| Funcionamiento 3 TG+1 TV |  |  |  |  |
+
+7\. Retribución por costes variables de operación y mantenimiento adicionales debidos al arranque de las instalaciones tipo.
+
+El parámetro «d» de las instalaciones tipo, a aplicar para el cálculo de la retribución por costes variables de operación y mantenimiento adicionales debidos al durante el primer periodo regulatorio, serán los establecidos en la siguiente tabla:
+
+| Tecnología | Intervalo Potencia Neta (MW) | Baleares | Canarias | Ceuta y Melilla |
+|---|---|---|---|---|
+| Grupos Diésel - 2T | Potencia < 5 |  |  |  |
+| Grupos Diésel - 2T | 5 ≤ Potencia < 12 |  | 124,655 |  |
+| Grupos Diésel - 2T | 12 ≤ Potencia < 20 | 104,751 | 124,655 |  |
+| Grupos Diésel - 2T | Potencia ≥ 20 |  | 124,655 |  |
+| Grupos Diésel - 4T | Potencia < 2 |  | 69,134 | 68,794 |
+| Grupos Diésel - 4T | 2 ≤ Potencia < 4 |  | 69,248 | 0,000 |
+| Grupos Diésel - 4T | 4 ≤ Potencia < 14 |  | 153,911 | 154,485 |
+| Grupos Diésel - 4T | 14 ≤ Potencia < 24 | 175,387 | 201,379 |  |
+| Turbinas de gas aeroderivadas | Potencia < 50 | 731,686 | 797,395 |  |
+| Turbinas de gas heavy duty | Potencia < 13 | 3.575,019 | 3.773.491 | 3.773,491 |
+| Turbinas de gas heavy duty | 13 ≤ Potencia < 25 | 3.389,509 | 3.773,491 | 3.773,491 |
+| Turbinas de gas heavy duty | 25 ≤ Potencia < 50 | 3.596,939 | 3.784,699 |  |
+| Turbinas de gas heavy duty | Potencia ≥ 50 | 10.830,217 | 12.844,058 |  |
+| Turbinas de vapor de Carbón |  | 15.665,923 |  |  |
+| Turbinas de Vapor de Fuel | Potencia ≤ 40 |  | 8.815,115 |  |
+| Turbinas de Vapor de Fuel | 40 < Potencia ≤ 60 |  | 10.827,948 |  |
+| Turbinas de Vapor de Fuel | 60 < Potencia ≤ 80 |  | 11.727,816 |  |
+| Ciclo combinado configuración 2x1 | 200 ≤ Potencia ≤ 250 |  |  |  |
+| Funcionamiento 1 1TG |  | 10.830,217 | 12.844,055 |  |
+| Funcionamiento 1 TG+1 TV |  | 27.075,543 | 32.219,896 |  |
+| Funcionamiento 2 TG+1 TV |  | 27.075,543 | 32.219,896 |  |
+| Ciclo combinado configuración 3x1 | 200 ≤ Potencia ≤ 250 |  |  |  |
+| Funcionamiento 1 1TG |  | 10.517,807 |  |  |
+| Funcionamiento 1 TG+1 TV |  | 31.548,368 |  |  |
+| Funcionamiento 2 TG+1 TV |  | 31.548,368 |  |  |
+| Funcionamiento 3 TG+1 TV |  | 31.548,368 |  |  |
+
+> Se modifican los apartados 1, 3 y 7 por la disposición final 3.1 a 4 y 29 de la Orden IET/2735/2015, de 17 de diciembre. [Ref. BOE-A-2015-13782](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13782)
+
+## ANEXO XIII — Datos técnicos y económicos de despacho
+
+SISTEMA ELÉCTRICO BALEAR
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="3">Número de Registro</th>
+<th class="cabeza_tabla" rowspan="3">Denominación Central</th>
+<th class="cabeza_tabla" rowspan="3">Potencia Neta</th>
+<th class="cabeza_tabla" rowspan="3">Mínimo Técnico declarado</th>
+<th class="cabeza_tabla" rowspan="3">Fecha de alta</th>
+<th class="cabeza_tabla" rowspan="3">Combustible a efectos de este Real Decreto</th>
+<th class="cabeza_tabla" rowspan="3">Instalación Tipo</th>
+<th class="cabeza_tabla" colspan="3">Datos técnicos de despacho</th>
+<th class="cabeza_tabla" colspan="3">Datos de despacho</th>
+<th class="cabeza_tabla">Datos económicos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="3">Costes de funcionamiento</th>
+<th class="cabeza_tabla" colspan="3">Costes arranque</th>
+<th class="cabeza_tabla">Costes variables de operación y mantenimiento despacho</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">A (th/h)</th>
+<th class="cabeza_tabla">B (th/h.MW)</th>
+<th class="cabeza_tabla">C (th/h.MW2)</th>
+<th class="cabeza_tabla">A' (th)</th>
+<th class="cabeza_tabla">B' (horas)</th>
+<th class="cabeza_tabla">D (€/arranque)</th>
+<th class="cabeza_tabla">O&amp;MVDi (€/MWh )</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">RO1-1064</td>
+<td class="cuerpo_tabla_centro">ALCUDIA 1, GRUPO N.º 1</td>
+<td class="cuerpo_tabla_centro">113,6</td>
+<td class="cuerpo_tabla_centro">80</td>
+<td class="cuerpo_tabla_centro">14/12/1981</td>
+<td class="cuerpo_tabla_centro">Carbón</td>
+<td class="cuerpo_tabla_centro">IT-0011</td>
+<td class="cuerpo_tabla_centro">36.092,34</td>
+<td class="cuerpo_tabla_centro">1.964,27</td>
+<td class="cuerpo_tabla_centro">2,77</td>
+<td class="cuerpo_tabla_centro">1.105.780,00</td>
+<td class="cuerpo_tabla_centro">3,21123</td>
+<td class="cuerpo_tabla_centro">16.080,42</td>
+<td class="cuerpo_tabla_centro">4,91924258</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO1-1065</td>
+<td class="cuerpo_tabla_centro">ALCUDIA 2, GRUPO N.º 2</td>
+<td class="cuerpo_tabla_centro">113,6</td>
+<td class="cuerpo_tabla_centro">80</td>
+<td class="cuerpo_tabla_centro">01/08/1982</td>
+<td class="cuerpo_tabla_centro">Carbón</td>
+<td class="cuerpo_tabla_centro">IT-0011</td>
+<td class="cuerpo_tabla_centro">36.092,34</td>
+<td class="cuerpo_tabla_centro">1.964,27</td>
+<td class="cuerpo_tabla_centro">2,77</td>
+<td class="cuerpo_tabla_centro">1.105.780,00</td>
+<td class="cuerpo_tabla_centro">3,21123</td>
+<td class="cuerpo_tabla_centro">16.080,42</td>
+<td class="cuerpo_tabla_centro">4,938504832</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0057</td>
+<td class="cuerpo_tabla_centro">ALCUDIA 3, TURBINA DE GAS N.º 1</td>
+<td class="cuerpo_tabla_centro">32,7</td>
+<td class="cuerpo_tabla_centro">6,74</td>
+<td class="cuerpo_tabla_centro">01/02/1989</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0009</td>
+<td class="cuerpo_tabla_centro">31.391,05</td>
+<td class="cuerpo_tabla_centro">1.773,42</td>
+<td class="cuerpo_tabla_centro">11,58</td>
+<td class="cuerpo_tabla_centro">10094,784</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3.669,61</td>
+<td class="cuerpo_tabla_centro">23,09556429</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0058</td>
+<td class="cuerpo_tabla_centro">ALCUDIA 4, TURBINA DE GAS N.º 2</td>
+<td class="cuerpo_tabla_centro">32,7</td>
+<td class="cuerpo_tabla_centro">6,74</td>
+<td class="cuerpo_tabla_centro">10/02/1989</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0009</td>
+<td class="cuerpo_tabla_centro">31.391,05</td>
+<td class="cuerpo_tabla_centro">1.773,42</td>
+<td class="cuerpo_tabla_centro">11,58</td>
+<td class="cuerpo_tabla_centro">10094,784</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3.669,61</td>
+<td class="cuerpo_tabla_centro">24,41538686</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO1-1066</td>
+<td class="cuerpo_tabla_centro">ALCUDIA 5, GRUPO N.º 3</td>
+<td class="cuerpo_tabla_centro">120,6</td>
+<td class="cuerpo_tabla_centro">73</td>
+<td class="cuerpo_tabla_centro">01/08/1997</td>
+<td class="cuerpo_tabla_centro">Carbón</td>
+<td class="cuerpo_tabla_centro">IT-0011</td>
+<td class="cuerpo_tabla_centro">39.925,73</td>
+<td class="cuerpo_tabla_centro">1.964,27</td>
+<td class="cuerpo_tabla_centro">1,62</td>
+<td class="cuerpo_tabla_centro">1.256.007,40</td>
+<td class="cuerpo_tabla_centro">8,67612</td>
+<td class="cuerpo_tabla_centro">16.080,42</td>
+<td class="cuerpo_tabla_centro">4,815865758</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO1-1067</td>
+<td class="cuerpo_tabla_centro">ALCUDIA 6, GRUPO N.º 4</td>
+<td class="cuerpo_tabla_centro">120,6</td>
+<td class="cuerpo_tabla_centro">73</td>
+<td class="cuerpo_tabla_centro">07/12/1997</td>
+<td class="cuerpo_tabla_centro">Carbón</td>
+<td class="cuerpo_tabla_centro">IT-0011</td>
+<td class="cuerpo_tabla_centro">39.925,73</td>
+<td class="cuerpo_tabla_centro">1.964,27</td>
+<td class="cuerpo_tabla_centro">1,62</td>
+<td class="cuerpo_tabla_centro">1.256.007,40</td>
+<td class="cuerpo_tabla_centro">8,67612</td>
+<td class="cuerpo_tabla_centro">16.080,42</td>
+<td class="cuerpo_tabla_centro">4,8208949</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4">CA'S TRESORER, CC1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4">Gas Natural</td>
+<td class="cuerpo_tabla_centro">IT-0013</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">71,00</td>
+<td class="cuerpo_tabla_centro">6,39</td>
+<td class="cuerpo_tabla_centro">1TG</td>
+<td class="cuerpo_tabla_centro">60.436,76</td>
+<td class="cuerpo_tabla_centro">1925,54</td>
+<td class="cuerpo_tabla_centro">0,53</td>
+<td class="cuerpo_tabla_centro">49.877,10</td>
+<td class="cuerpo_tabla_centro">0,72135</td>
+<td class="cuerpo_tabla_centro">11.116,77</td>
+<td class="cuerpo_tabla_centro">22,0980801</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">107,25</td>
+<td class="cuerpo_tabla_centro">30,00</td>
+<td class="cuerpo_tabla_centro">1TG+1TV</td>
+<td class="cuerpo_tabla_centro">118.213,53</td>
+<td class="cuerpo_tabla_centro">-390,57</td>
+<td class="cuerpo_tabla_centro">11,18</td>
+<td class="cuerpo_tabla_centro">281.985,03</td>
+<td class="cuerpo_tabla_centro">0,55379</td>
+<td class="cuerpo_tabla_centro">13.895,963</td>
+<td class="cuerpo_tabla_centro">22,0980801</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">214,5</td>
+<td class="cuerpo_tabla_centro">68,00</td>
+<td class="cuerpo_tabla_centro">2TG+1TV</td>
+<td class="cuerpo_tabla_centro">239.683,59</td>
+<td class="cuerpo_tabla_centro">-440,63</td>
+<td class="cuerpo_tabla_centro">5,76</td>
+<td class="cuerpo_tabla_centro">410.809,81</td>
+<td class="cuerpo_tabla_centro">0,60483</td>
+<td class="cuerpo_tabla_centro">27.791,925</td>
+<td class="cuerpo_tabla_centro">22,0980801</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4">CA'S TRESORER, CC2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4">Gas Natural</td>
+<td class="cuerpo_tabla_centro">IT-0013</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">71,0</td>
+<td class="cuerpo_tabla_centro">6,39</td>
+<td class="cuerpo_tabla_centro">1TG</td>
+<td class="cuerpo_tabla_centro">60.436,76</td>
+<td class="cuerpo_tabla_centro">1925,54</td>
+<td class="cuerpo_tabla_centro">0,53</td>
+<td class="cuerpo_tabla_centro">49.877,10</td>
+<td class="cuerpo_tabla_centro">0,72135</td>
+<td class="cuerpo_tabla_centro">11.116,77</td>
+<td class="cuerpo_tabla_centro">21,5546702</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">107,25</td>
+<td class="cuerpo_tabla_centro">30,00</td>
+<td class="cuerpo_tabla_centro">1TG+1TV</td>
+<td class="cuerpo_tabla_centro">118.213,53</td>
+<td class="cuerpo_tabla_centro">-390,57</td>
+<td class="cuerpo_tabla_centro">11,18</td>
+<td class="cuerpo_tabla_centro">281.985,03</td>
+<td class="cuerpo_tabla_centro">0,55379</td>
+<td class="cuerpo_tabla_centro">13.895,963</td>
+<td class="cuerpo_tabla_centro">21,5546702</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">214,5</td>
+<td class="cuerpo_tabla_centro">68,00</td>
+<td class="cuerpo_tabla_centro">2TG+1TV</td>
+<td class="cuerpo_tabla_centro">239.683,59</td>
+<td class="cuerpo_tabla_centro">-440,63</td>
+<td class="cuerpo_tabla_centro">5,76</td>
+<td class="cuerpo_tabla_centro">410.809,81</td>
+<td class="cuerpo_tabla_centro">0,60483</td>
+<td class="cuerpo_tabla_centro">27.791,925</td>
+<td class="cuerpo_tabla_centro">21,5546702</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0063</td>
+<td class="cuerpo_tabla_centro">FORMENTERA 1, TURBINA DE GAS N.º 1</td>
+<td class="cuerpo_tabla_centro">11,5</td>
+<td class="cuerpo_tabla_centro">2,86</td>
+<td class="cuerpo_tabla_centro">01/03/1966</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0007</td>
+<td class="cuerpo_tabla_centro">19.938,33</td>
+<td class="cuerpo_tabla_centro">2.202,48</td>
+<td class="cuerpo_tabla_centro">29,24</td>
+<td class="cuerpo_tabla_centro">13850,36327</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3.669,61</td>
+<td class="cuerpo_tabla_centro">64,92428324</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0044</td>
+<td class="cuerpo_tabla_centro">IBIZA 10, BURMEISTER N.º 6</td>
+<td class="cuerpo_tabla_centro">14,2</td>
+<td class="cuerpo_tabla_centro">8,67</td>
+<td class="cuerpo_tabla_centro">10/09/1982</td>
+<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0003</td>
+<td class="cuerpo_tabla_centro">5.647,58</td>
+<td class="cuerpo_tabla_centro">1.425,34</td>
+<td class="cuerpo_tabla_centro">29,24</td>
+<td class="cuerpo_tabla_centro">60251,0969</td>
+<td class="cuerpo_tabla_centro">10,99709</td>
+<td class="cuerpo_tabla_centro">107,523</td>
+<td class="cuerpo_tabla_centro">11,80042451</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0045</td>
+<td class="cuerpo_tabla_centro">IBIZA 11, BURMEISTER N.º 7</td>
+<td class="cuerpo_tabla_centro">14,2</td>
+<td class="cuerpo_tabla_centro">8,67</td>
+<td class="cuerpo_tabla_centro">10/06/1986</td>
+<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0003</td>
+<td class="cuerpo_tabla_centro">5.647,58</td>
+<td class="cuerpo_tabla_centro">1.425,34</td>
+<td class="cuerpo_tabla_centro">29,24</td>
+<td class="cuerpo_tabla_centro">60251,0969</td>
+<td class="cuerpo_tabla_centro">10,99709</td>
+<td class="cuerpo_tabla_centro">107,523</td>
+<td class="cuerpo_tabla_centro">11,84537478</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0059</td>
+<td class="cuerpo_tabla_centro">IBIZA 12, TURBINA DE GAS N.º 1</td>
+<td class="cuerpo_tabla_centro">21,1</td>
+<td class="cuerpo_tabla_centro">3,76</td>
+<td class="cuerpo_tabla_centro">15/07/1988</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0008</td>
+<td class="cuerpo_tabla_centro">24.050,69</td>
+<td class="cuerpo_tabla_centro">2.242,58</td>
+<td class="cuerpo_tabla_centro">14,51</td>
+<td class="cuerpo_tabla_centro">12293,68</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3.669,61</td>
+<td class="cuerpo_tabla_centro">24,00379736</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0046</td>
+<td class="cuerpo_tabla_centro">IBIZA 13, BURMEISTER N.º 8</td>
+<td class="cuerpo_tabla_centro">14,5</td>
+<td class="cuerpo_tabla_centro">8,51</td>
+<td class="cuerpo_tabla_centro">01/10/1993</td>
+<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0003</td>
+<td class="cuerpo_tabla_centro">6.463,50</td>
+<td class="cuerpo_tabla_centro">1.305,98</td>
+<td class="cuerpo_tabla_centro">21,39</td>
+<td class="cuerpo_tabla_centro">50988,66595</td>
+<td class="cuerpo_tabla_centro">8,38551</td>
+<td class="cuerpo_tabla_centro">107,523</td>
+<td class="cuerpo_tabla_centro">11,23443425</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0047</td>
+<td class="cuerpo_tabla_centro">IBIZA 14, BURMEISTER N.º 9</td>
+<td class="cuerpo_tabla_centro">14,5</td>
+<td class="cuerpo_tabla_centro">8,51</td>
+<td class="cuerpo_tabla_centro">01/12/1993</td>
+<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0003</td>
+<td class="cuerpo_tabla_centro">6.463,50</td>
+<td class="cuerpo_tabla_centro">1.305,98</td>
+<td class="cuerpo_tabla_centro">21,39</td>
+<td class="cuerpo_tabla_centro">50988,66595</td>
+<td class="cuerpo_tabla_centro">8,38551</td>
+<td class="cuerpo_tabla_centro">107,523</td>
+<td class="cuerpo_tabla_centro">11,34407213</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0060</td>
+<td class="cuerpo_tabla_centro">IBIZA 15, TURBINA DE GAS N.º 2</td>
+<td class="cuerpo_tabla_centro">11,5</td>
+<td class="cuerpo_tabla_centro">2,86</td>
+<td class="cuerpo_tabla_centro">01/01/1968</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0007</td>
+<td class="cuerpo_tabla_centro">19.923,22</td>
+<td class="cuerpo_tabla_centro">2.172,40</td>
+<td class="cuerpo_tabla_centro">40,81</td>
+<td class="cuerpo_tabla_centro">13850,36327</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3.669,61</td>
+<td class="cuerpo_tabla_centro">60,72115291</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0159</td>
+<td class="cuerpo_tabla_centro">IBIZA 16, DIÉSEL MAN 1</td>
+<td class="cuerpo_tabla_centro">17,4</td>
+<td class="cuerpo_tabla_centro">9,35</td>
+<td class="cuerpo_tabla_centro">13/07/2001</td>
+<td class="cuerpo_tabla_centro">Gas Natural</td>
+<td class="cuerpo_tabla_centro">IT-0005</td>
+<td class="cuerpo_tabla_centro">9.556,47</td>
+<td class="cuerpo_tabla_centro">1.039,20</td>
+<td class="cuerpo_tabla_centro">36,41</td>
+<td class="cuerpo_tabla_centro">57689,1428</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">177,393</td>
+<td class="cuerpo_tabla_centro">21,63458272</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0160</td>
+<td class="cuerpo_tabla_centro">IBIZA 17, DIÉSEL MAN 2</td>
+<td class="cuerpo_tabla_centro">17,4</td>
+<td class="cuerpo_tabla_centro">9,35</td>
+<td class="cuerpo_tabla_centro">01/08/2001</td>
+<td class="cuerpo_tabla_centro">Gas Natural</td>
+<td class="cuerpo_tabla_centro">IT-0005</td>
+<td class="cuerpo_tabla_centro">9.556,47</td>
+<td class="cuerpo_tabla_centro">1.039,20</td>
+<td class="cuerpo_tabla_centro">36,41</td>
+<td class="cuerpo_tabla_centro">57689,1428</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">177,393</td>
+<td class="cuerpo_tabla_centro">21,54837577</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0182</td>
+<td class="cuerpo_tabla_centro">IBIZA 20 (MAN 3)</td>
+<td class="cuerpo_tabla_centro">17,4</td>
+<td class="cuerpo_tabla_centro">9,35</td>
+<td class="cuerpo_tabla_centro">12/05/2008</td>
+<td class="cuerpo_tabla_centro">Gas Natural</td>
+<td class="cuerpo_tabla_centro">IT-0005</td>
+<td class="cuerpo_tabla_centro">9.556,47</td>
+<td class="cuerpo_tabla_centro">1.039,20</td>
+<td class="cuerpo_tabla_centro">36,41</td>
+<td class="cuerpo_tabla_centro">57689,1428</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">182,663</td>
+<td class="cuerpo_tabla_centro">18,79163476</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0183</td>
+<td class="cuerpo_tabla_centro">IBIZA 21 (MAN 4)</td>
+<td class="cuerpo_tabla_centro">17,4</td>
+<td class="cuerpo_tabla_centro">9,35</td>
+<td class="cuerpo_tabla_centro">12/05/2008</td>
+<td class="cuerpo_tabla_centro">Gas Natural</td>
+<td class="cuerpo_tabla_centro">IT-0005</td>
+<td class="cuerpo_tabla_centro">9.556,47</td>
+<td class="cuerpo_tabla_centro">1.039,20</td>
+<td class="cuerpo_tabla_centro">36,41</td>
+<td class="cuerpo_tabla_centro">57689,1428</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">182,663</td>
+<td class="cuerpo_tabla_centro">21,21107232</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0201</td>
+<td class="cuerpo_tabla_centro">IBIZA 22, TURBINA DE GAS N.º 5</td>
+<td class="cuerpo_tabla_centro">23</td>
+<td class="cuerpo_tabla_centro">9,52</td>
+<td class="cuerpo_tabla_centro">29/10/2008</td>
+<td class="cuerpo_tabla_centro">Gas Natural</td>
+<td class="cuerpo_tabla_centro">IT-0006</td>
+<td class="cuerpo_tabla_centro">9.167,14</td>
+<td class="cuerpo_tabla_centro">2.154,04</td>
+<td class="cuerpo_tabla_centro">1,59</td>
+<td class="cuerpo_tabla_centro">8120</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">751,045</td>
+<td class="cuerpo_tabla_centro">11,42734684</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0202</td>
+<td class="cuerpo_tabla_centro">IBIZA 23, TURBINA DE GAS N.º 6</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_centro">9,52</td>
+<td class="cuerpo_tabla_centro">24/07/2009</td>
+<td class="cuerpo_tabla_centro">Gas Natural</td>
+<td class="cuerpo_tabla_centro">IT-0006</td>
+<td class="cuerpo_tabla_centro">9.167,14</td>
+<td class="cuerpo_tabla_centro">2.154,04</td>
+<td class="cuerpo_tabla_centro">1,59</td>
+<td class="cuerpo_tabla_centro">8120</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">751,045</td>
+<td class="cuerpo_tabla_centro">11,29266375</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0208</td>
+<td class="cuerpo_tabla_centro">IBIZA 24, TURBINA DE GAS N.º 6B</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_centro">9,52</td>
+<td class="cuerpo_tabla_centro">01/06/2012</td>
+<td class="cuerpo_tabla_centro">Gas Natural</td>
+<td class="cuerpo_tabla_centro">IT-0006</td>
+<td class="cuerpo_tabla_centro">9.167,14</td>
+<td class="cuerpo_tabla_centro">2.154,04</td>
+<td class="cuerpo_tabla_centro">1,59</td>
+<td class="cuerpo_tabla_centro">8120</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">751,045</td>
+<td class="cuerpo_tabla_centro">11,29266375</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0043</td>
+<td class="cuerpo_tabla_centro">IBIZA 9, BURMEISTER N.º 5</td>
+<td class="cuerpo_tabla_centro">14,2</td>
+<td class="cuerpo_tabla_centro">8,67</td>
+<td class="cuerpo_tabla_centro">01/07/1982</td>
+<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0003</td>
+<td class="cuerpo_tabla_centro">5.647,58</td>
+<td class="cuerpo_tabla_centro">1.425,34</td>
+<td class="cuerpo_tabla_centro">29,24</td>
+<td class="cuerpo_tabla_centro">57689,1428</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">107,523</td>
+<td class="cuerpo_tabla_centro">11,69903723</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0158</td>
+<td class="cuerpo_tabla_centro">IBIZA TURBINA DE GAS N.º 3</td>
+<td class="cuerpo_tabla_centro">17,7</td>
+<td class="cuerpo_tabla_centro">3,83</td>
+<td class="cuerpo_tabla_centro">23/07/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0008</td>
+<td class="cuerpo_tabla_centro">24.128,89</td>
+<td class="cuerpo_tabla_centro">2.271,47</td>
+<td class="cuerpo_tabla_centro">11,62</td>
+<td class="cuerpo_tabla_centro">10094,784</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3.669,61</td>
+<td class="cuerpo_tabla_centro">25,34933433</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0161</td>
+<td class="cuerpo_tabla_centro">IBIZA TURBINA DE GAS N.º 4</td>
+<td class="cuerpo_tabla_centro">17,7</td>
+<td class="cuerpo_tabla_centro">3,83</td>
+<td class="cuerpo_tabla_centro">17/05/2005</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0008</td>
+<td class="cuerpo_tabla_centro">24.128,89</td>
+<td class="cuerpo_tabla_centro">2.271,47</td>
+<td class="cuerpo_tabla_centro">11,62</td>
+<td class="cuerpo_tabla_centro">10094,784</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3.669,61</td>
+<td class="cuerpo_tabla_centro">26,81191498</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0041</td>
+<td class="cuerpo_tabla_centro">MAHÓN 10, BURMEISTER N.º 2</td>
+<td class="cuerpo_tabla_centro">13,6</td>
+<td class="cuerpo_tabla_centro">6,6</td>
+<td class="cuerpo_tabla_centro">25/04/1991</td>
+<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0003</td>
+<td class="cuerpo_tabla_centro">6.319,17</td>
+<td class="cuerpo_tabla_centro">1.329,85</td>
+<td class="cuerpo_tabla_centro">22,88</td>
+<td class="cuerpo_tabla_centro">57689,1428</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">107,523</td>
+<td class="cuerpo_tabla_centro">12,13636797</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0042</td>
+<td class="cuerpo_tabla_centro">MAHÓN 11, BURMEISTER N.º 3</td>
+<td class="cuerpo_tabla_centro">13,6</td>
+<td class="cuerpo_tabla_centro">6,6</td>
+<td class="cuerpo_tabla_centro">13/03/1991</td>
+<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0003</td>
+<td class="cuerpo_tabla_centro">6.319,17</td>
+<td class="cuerpo_tabla_centro">1.329,85</td>
+<td class="cuerpo_tabla_centro">22,88</td>
+<td class="cuerpo_tabla_centro">57689,1428</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">107,523</td>
+<td class="cuerpo_tabla_centro">12,05528598</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0061</td>
+<td class="cuerpo_tabla_centro">MAHÓN 12, TURBINA DE GAS N.º 2</td>
+<td class="cuerpo_tabla_centro">32,7</td>
+<td class="cuerpo_tabla_centro">6,74</td>
+<td class="cuerpo_tabla_centro">01/01/1994</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0009</td>
+<td class="cuerpo_tabla_centro">31.391,05</td>
+<td class="cuerpo_tabla_centro">1.773,42</td>
+<td class="cuerpo_tabla_centro">11,58</td>
+<td class="cuerpo_tabla_centro">10094,784</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3.669,61</td>
+<td class="cuerpo_tabla_centro">20,53331957</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0077</td>
+<td class="cuerpo_tabla_centro">MAHÓN 13, TURBINA DE GAS N.º 1</td>
+<td class="cuerpo_tabla_centro">33,7</td>
+<td class="cuerpo_tabla_centro">6,74</td>
+<td class="cuerpo_tabla_centro">01/07/1999</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0009</td>
+<td class="cuerpo_tabla_centro">31.391,05</td>
+<td class="cuerpo_tabla_centro">1.773,42</td>
+<td class="cuerpo_tabla_centro">11,58</td>
+<td class="cuerpo_tabla_centro">10094,784</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3.669,61</td>
+<td class="cuerpo_tabla_centro">22,80073525</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO1-1074</td>
+<td class="cuerpo_tabla_centro">MAHÓN 14, TURBINA DE GAS N.º 3</td>
+<td class="cuerpo_tabla_centro">39,4</td>
+<td class="cuerpo_tabla_centro">9,52</td>
+<td class="cuerpo_tabla_centro">01/06/2004</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0006</td>
+<td class="cuerpo_tabla_centro">9.167,14</td>
+<td class="cuerpo_tabla_centro">2.154,04</td>
+<td class="cuerpo_tabla_centro">1,59</td>
+<td class="cuerpo_tabla_centro">8120</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">751,045</td>
+<td class="cuerpo_tabla_centro">16,02373654</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0203</td>
+<td class="cuerpo_tabla_centro">MAHÓN 16, TURBINA DE GAS N.º 5</td>
+<td class="cuerpo_tabla_centro">48,6</td>
+<td class="cuerpo_tabla_centro">9,52</td>
+<td class="cuerpo_tabla_centro">18/06/2009</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0006</td>
+<td class="cuerpo_tabla_centro">9.167,14</td>
+<td class="cuerpo_tabla_centro">2.154,04</td>
+<td class="cuerpo_tabla_centro">1,59</td>
+<td class="cuerpo_tabla_centro">8120</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">751,045</td>
+<td class="cuerpo_tabla_centro">15,24327685</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0037</td>
+<td class="cuerpo_tabla_centro">MAHÓN 9, BURMEISTER N.º 1</td>
+<td class="cuerpo_tabla_centro">13,6</td>
+<td class="cuerpo_tabla_centro">6,6</td>
+<td class="cuerpo_tabla_centro">11/06/1991</td>
+<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0003</td>
+<td class="cuerpo_tabla_centro">6.319,17</td>
+<td class="cuerpo_tabla_centro">1.329,85</td>
+<td class="cuerpo_tabla_centro">22,88</td>
+<td class="cuerpo_tabla_centro">57689,1428</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">107,523</td>
+<td class="cuerpo_tabla_centro">12,04030926</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0198</td>
+<td class="cuerpo_tabla_centro">MAHÓN TG4</td>
+<td class="cuerpo_tabla_centro">50</td>
+<td class="cuerpo_tabla_centro">9,52</td>
+<td class="cuerpo_tabla_centro">21/10/2008</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0006</td>
+<td class="cuerpo_tabla_centro">9.167,14</td>
+<td class="cuerpo_tabla_centro">2.154,04</td>
+<td class="cuerpo_tabla_centro">1,59</td>
+<td class="cuerpo_tabla_centro">8120</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">751,045</td>
+<td class="cuerpo_tabla_centro">14,65288346</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0031</td>
+<td class="cuerpo_tabla_centro">SON REUS 1, TURBINA DE GAS N.º 1</td>
+<td class="cuerpo_tabla_centro">33,7</td>
+<td class="cuerpo_tabla_centro">6,74</td>
+<td class="cuerpo_tabla_centro">05/07/2000</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0009</td>
+<td class="cuerpo_tabla_centro">31.391,05</td>
+<td class="cuerpo_tabla_centro">1.773,42</td>
+<td class="cuerpo_tabla_centro">11,58</td>
+<td class="cuerpo_tabla_centro">10094,784</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3.669,61</td>
+<td class="cuerpo_tabla_centro">23,37743058</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0032</td>
+<td class="cuerpo_tabla_centro">SON REUS 2, TURBINA DE GAS N.º 2</td>
+<td class="cuerpo_tabla_centro">33,7</td>
+<td class="cuerpo_tabla_centro">6,74</td>
+<td class="cuerpo_tabla_centro">07/07/2000</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0009</td>
+<td class="cuerpo_tabla_centro">31.391,05</td>
+<td class="cuerpo_tabla_centro">1.773,42</td>
+<td class="cuerpo_tabla_centro">11,58</td>
+<td class="cuerpo_tabla_centro">10094,784</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3.669,61</td>
+<td class="cuerpo_tabla_centro">23,9818555</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0033</td>
+<td class="cuerpo_tabla_centro">SON REUS 3, TURBINA DE GAS N.º 3</td>
+<td class="cuerpo_tabla_centro">33,7</td>
+<td class="cuerpo_tabla_centro">6,74</td>
+<td class="cuerpo_tabla_centro">31/07/2000</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0009</td>
+<td class="cuerpo_tabla_centro">31.391,05</td>
+<td class="cuerpo_tabla_centro">1.773,42</td>
+<td class="cuerpo_tabla_centro">11,58</td>
+<td class="cuerpo_tabla_centro">10094,784</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3.669,61</td>
+<td class="cuerpo_tabla_centro">23,88616697</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0034</td>
+<td class="cuerpo_tabla_centro">SON REUS 4, TURBINA DE GAS N.º 4</td>
+<td class="cuerpo_tabla_centro">33,7</td>
+<td class="cuerpo_tabla_centro">6,74</td>
+<td class="cuerpo_tabla_centro">07/08/2000</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0009</td>
+<td class="cuerpo_tabla_centro">31.391,05</td>
+<td class="cuerpo_tabla_centro">1.773,42</td>
+<td class="cuerpo_tabla_centro">11,58</td>
+<td class="cuerpo_tabla_centro">10094,784</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3.669,61</td>
+<td class="cuerpo_tabla_centro">22,43146211</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="5"> </td>
+<td class="cuerpo_tabla_centro" rowspan="5">SON REUS, CC1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="5"> </td>
+<td class="cuerpo_tabla_centro" rowspan="5">Gas Natural</td>
+<td class="cuerpo_tabla_centro">IT-0014</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">48,7</td>
+<td class="cuerpo_tabla_centro">28,65</td>
+<td class="cuerpo_tabla_centro">1TG</td>
+<td class="cuerpo_tabla_centro">60.436,76</td>
+<td class="cuerpo_tabla_centro">1925,54</td>
+<td class="cuerpo_tabla_centro">0,53</td>
+<td class="cuerpo_tabla_centro">49.877,10</td>
+<td class="cuerpo_tabla_centro">0,72135</td>
+<td class="cuerpo_tabla_centro">10.796,09</td>
+<td class="cuerpo_tabla_centro">18,3273345</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">68,0</td>
+<td class="cuerpo_tabla_centro">42,70</td>
+<td class="cuerpo_tabla_centro">1TG+1TV</td>
+<td class="cuerpo_tabla_centro">43.062,18</td>
+<td class="cuerpo_tabla_centro">1.188,46</td>
+<td class="cuerpo_tabla_centro">3,97</td>
+<td class="cuerpo_tabla_centro">176511</td>
+<td class="cuerpo_tabla_centro">0,54568</td>
+<td class="cuerpo_tabla_centro">10.794,365</td>
+<td class="cuerpo_tabla_centro">18,3273345</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">136,0</td>
+<td class="cuerpo_tabla_centro">86,35</td>
+<td class="cuerpo_tabla_centro">2TG+1TV</td>
+<td class="cuerpo_tabla_centro">87.203,24</td>
+<td class="cuerpo_tabla_centro">1.193,07</td>
+<td class="cuerpo_tabla_centro">1,98</td>
+<td class="cuerpo_tabla_centro">298551</td>
+<td class="cuerpo_tabla_centro">0,56189</td>
+<td class="cuerpo_tabla_centro">21.588,73</td>
+<td class="cuerpo_tabla_centro">18,3273345</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">204,0</td>
+<td class="cuerpo_tabla_centro">130,00</td>
+<td class="cuerpo_tabla_centro">3TG+1TV</td>
+<td class="cuerpo_tabla_centro">131.932,88</td>
+<td class="cuerpo_tabla_centro">1.188,19</td>
+<td class="cuerpo_tabla_centro">1,34</td>
+<td class="cuerpo_tabla_centro">420591</td>
+<td class="cuerpo_tabla_centro">0,60483</td>
+<td class="cuerpo_tabla_centro">32.383,095</td>
+<td class="cuerpo_tabla_centro">18,3273345</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4">SON REUS, CC2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4">Gas Natural</td>
+<td class="cuerpo_tabla_centro">IT-0013</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">63,3</td>
+<td class="cuerpo_tabla_centro">6,39</td>
+<td class="cuerpo_tabla_centro">1TG</td>
+<td class="cuerpo_tabla_centro">60.436,76</td>
+<td class="cuerpo_tabla_centro">1925,54</td>
+<td class="cuerpo_tabla_centro">0,53</td>
+<td class="cuerpo_tabla_centro">49.877,10</td>
+<td class="cuerpo_tabla_centro">0,72135</td>
+<td class="cuerpo_tabla_centro">11.116,77</td>
+<td class="cuerpo_tabla_centro">28,5098024</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">94,95</td>
+<td class="cuerpo_tabla_centro">30,00</td>
+<td class="cuerpo_tabla_centro">1TG+1TV</td>
+<td class="cuerpo_tabla_centro">118.213,53</td>
+<td class="cuerpo_tabla_centro">-390,57</td>
+<td class="cuerpo_tabla_centro">11,18</td>
+<td class="cuerpo_tabla_centro">281.985,03</td>
+<td class="cuerpo_tabla_centro">0,55379</td>
+<td class="cuerpo_tabla_centro">13.895,963</td>
+<td class="cuerpo_tabla_centro">28,5098024</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">189,9</td>
+<td class="cuerpo_tabla_centro">68,00</td>
+<td class="cuerpo_tabla_centro">2TG+1TV</td>
+<td class="cuerpo_tabla_centro">239.683,59</td>
+<td class="cuerpo_tabla_centro">-440,63</td>
+<td class="cuerpo_tabla_centro">5,76</td>
+<td class="cuerpo_tabla_centro">410.809,81</td>
+<td class="cuerpo_tabla_centro">0,60483</td>
+<td class="cuerpo_tabla_centro">27.791,925</td>
+<td class="cuerpo_tabla_centro">28,5098024</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">Denominación Ciclo Combinado</th>
+<th class="cabeza_tabla">Denominación Grupo</th>
+<th class="cabeza_tabla">Potencia Neta (MW)</th>
+<th class="cabeza_tabla">Fecha de alta</th>
+<th class="cabeza_tabla">Número de Registro</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">CA'S TRESORER CC1</td>
+<td class="cuerpo_tabla_izq">CA'S TRESORER TV, CC1</td>
+<td class="cuerpo_tabla_centro">72,500</td>
+<td class="cuerpo_tabla_centro">28/06/2007</td>
+<td class="cuerpo_tabla_centro">RO2-0197</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">CA'S TRESORER TG1, CC1</td>
+<td class="cuerpo_tabla_centro">71,000</td>
+<td class="cuerpo_tabla_centro">28/07/2006</td>
+<td class="cuerpo_tabla_centro">RO2-0195</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">CA'S TRESORER TG2, CC1</td>
+<td class="cuerpo_tabla_centro">71,000</td>
+<td class="cuerpo_tabla_centro">04/08/2006</td>
+<td class="cuerpo_tabla_centro">RO2-0196</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">CA'S TRESORER CC2</td>
+<td class="cuerpo_tabla_izq">CA'S TRESORER TG3, CC2</td>
+<td class="cuerpo_tabla_centro">71,000</td>
+<td class="cuerpo_tabla_centro">30/06/2009</td>
+<td class="cuerpo_tabla_centro">RO1-2012</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">CA'S TRESORER TG4, CC2</td>
+<td class="cuerpo_tabla_centro">71,000</td>
+<td class="cuerpo_tabla_centro">08/09/2009</td>
+<td class="cuerpo_tabla_centro">RO1-2013</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">CA'S TRESORER TV2, CC2</td>
+<td class="cuerpo_tabla_centro">72,500</td>
+<td class="cuerpo_tabla_centro">19/04/2010</td>
+<td class="cuerpo_tabla_centro">RO1-2014</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">SON REUS, CC1</td>
+<td class="cuerpo_tabla_izq">SON REUS 5, TURBINA DE GAS N.º 5</td>
+<td class="cuerpo_tabla_centro">48,7</td>
+<td class="cuerpo_tabla_centro">01/07/2001</td>
+<td class="cuerpo_tabla_centro">RO1-1068</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SON REUS 6, TURBINA DE GAS N.º 6</td>
+<td class="cuerpo_tabla_centro">48,7</td>
+<td class="cuerpo_tabla_centro">01/07/2001</td>
+<td class="cuerpo_tabla_centro">RO1-1069</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SON REUS 7, TURBINA DE GAS N.º 7</td>
+<td class="cuerpo_tabla_centro">48,7</td>
+<td class="cuerpo_tabla_centro">01/08/2001</td>
+<td class="cuerpo_tabla_centro">RO1-1070</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SON REUS VAPOR 10</td>
+<td class="cuerpo_tabla_centro">57,9</td>
+<td class="cuerpo_tabla_centro">04/07/2002</td>
+<td class="cuerpo_tabla_centro">RO1-1073</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">SON REUS, CC2</td>
+<td class="cuerpo_tabla_izq">SON REUS 9, TURBINA DE GAS N.º 9 (CC2)</td>
+<td class="cuerpo_tabla_centro">63,300</td>
+<td class="cuerpo_tabla_centro">24/06/2003</td>
+<td class="cuerpo_tabla_centro">RO1-1072</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SON REUS TURBINA DE GAS N.º 8 (CC2)</td>
+<td class="cuerpo_tabla_centro">63,300</td>
+<td class="cuerpo_tabla_centro">19/06/2003</td>
+<td class="cuerpo_tabla_centro">RO1-1071</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SON REUS TURBINA DE VAPOR N.º 2 (CC2)</td>
+<td class="cuerpo_tabla_centro">63,300</td>
+<td class="cuerpo_tabla_centro">25/04/2005</td>
+<td class="cuerpo_tabla_centro">RO1-1075</td>
+</tr>
+</tbody>
+</table>
+
+SISTEMA ELÉCTRICO CANARIO
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="3">Número de Registro</th>
+<th class="cabeza_tabla" rowspan="3">Denominación Central</th>
+<th class="cabeza_tabla" rowspan="3">Potencia Neta</th>
+<th class="cabeza_tabla" rowspan="3">Mínimo Técnico declarado</th>
+<th class="cabeza_tabla" rowspan="3">Fecha de alta</th>
+<th class="cabeza_tabla" rowspan="3">Combustible a efectos de este Real Decreto</th>
+<th class="cabeza_tabla" rowspan="3">Instalación tipo</th>
+<th class="cabeza_tabla" colspan="3">Datos técnicos de despacho</th>
+<th class="cabeza_tabla" colspan="3">Datos de despacho</th>
+<th class="cabeza_tabla" rowspan="2">Datos económicos. Costes variables de operación y mantenimiento despacho</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="3">Costes de funcionamiento</th>
+<th class="cabeza_tabla" colspan="3">Costes arranque</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">A (th/h)</th>
+<th class="cabeza_tabla">B (th/h.MW)</th>
+<th class="cabeza_tabla">C (th/h.MW2)</th>
+<th class="cabeza_tabla">A' (th)</th>
+<th class="cabeza_tabla">B' (horas)</th>
+<th class="cabeza_tabla">D (€/arranque)</th>
+<th class="cabeza_tabla">O&amp;MVDi (€/MWh )</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0105</td>
+<td class="cuerpo_tabla_centro">ARONA 1, GAS 1</td>
+<td class="cuerpo_tabla_centro">21,6</td>
+<td class="cuerpo_tabla_centro">4,85</td>
+<td class="cuerpo_tabla_centro">19/05/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0057</td>
+<td class="cuerpo_tabla_centro">9.167,14</td>
+<td class="cuerpo_tabla_centro">2.154,04</td>
+<td class="cuerpo_tabla_centro">1,59</td>
+<td class="cuerpo_tabla_centro">8.120,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">818,4926475</td>
+<td class="cuerpo_tabla_centro">18,44349558</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0106</td>
+<td class="cuerpo_tabla_centro">ARONA 2, GAS 2</td>
+<td class="cuerpo_tabla_centro">21,6</td>
+<td class="cuerpo_tabla_centro">4,85</td>
+<td class="cuerpo_tabla_centro">03/06/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0057</td>
+<td class="cuerpo_tabla_centro">9.167,14</td>
+<td class="cuerpo_tabla_centro">2.154,04</td>
+<td class="cuerpo_tabla_centro">1,59</td>
+<td class="cuerpo_tabla_centro">8.120,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">818,4926475</td>
+<td class="cuerpo_tabla_centro">18,91648304</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0089</td>
+<td class="cuerpo_tabla_centro">BARRANCO DE TIRAJANA 1, GAS 1</td>
+<td class="cuerpo_tabla_centro">32,34</td>
+<td class="cuerpo_tabla_centro">6,79</td>
+<td class="cuerpo_tabla_centro">01/07/1992</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0060</td>
+<td class="cuerpo_tabla_centro">29.363,27</td>
+<td class="cuerpo_tabla_centro">2.225,92</td>
+<td class="cuerpo_tabla_centro">1,36</td>
+<td class="cuerpo_tabla_centro">10.150,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">24,70598329</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0090</td>
+<td class="cuerpo_tabla_centro">BARRANCO DE TIRAJANA 2, GAS 2</td>
+<td class="cuerpo_tabla_centro">32,34</td>
+<td class="cuerpo_tabla_centro">6,79</td>
+<td class="cuerpo_tabla_centro">11/05/1995</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0060</td>
+<td class="cuerpo_tabla_centro">29.363,27</td>
+<td class="cuerpo_tabla_centro">2.225,92</td>
+<td class="cuerpo_tabla_centro">1,36</td>
+<td class="cuerpo_tabla_centro">10.150,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">23,76343636</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO1-1049</td>
+<td class="cuerpo_tabla_centro">BARRANCO DE TIRAJANA 3, VAPOR 1</td>
+<td class="cuerpo_tabla_centro">74,24</td>
+<td class="cuerpo_tabla_centro">27,84</td>
+<td class="cuerpo_tabla_centro">01/01/1996</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0064</td>
+<td class="cuerpo_tabla_centro">21.254,08</td>
+<td class="cuerpo_tabla_centro">2.159,80</td>
+<td class="cuerpo_tabla_centro">0,23</td>
+<td class="cuerpo_tabla_centro">357.255,00</td>
+<td class="cuerpo_tabla_centro">7,21595</td>
+<td class="cuerpo_tabla_centro">12038,118</td>
+<td class="cuerpo_tabla_centro">5,511993308</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO1-1050</td>
+<td class="cuerpo_tabla_centro">BARRANCO DE TIRAJANA 4, VAPOR 2</td>
+<td class="cuerpo_tabla_centro">74,24</td>
+<td class="cuerpo_tabla_centro">27,84</td>
+<td class="cuerpo_tabla_centro">05/06/1996</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0064</td>
+<td class="cuerpo_tabla_centro">21.254,08</td>
+<td class="cuerpo_tabla_centro">2.159,80</td>
+<td class="cuerpo_tabla_centro">0,23</td>
+<td class="cuerpo_tabla_centro">357.255,00</td>
+<td class="cuerpo_tabla_centro">7,21595</td>
+<td class="cuerpo_tabla_centro">12038,118</td>
+<td class="cuerpo_tabla_centro">5,459629502</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4">BARRANCO DE TIRAJANA, CC1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0065</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">68,7</td>
+<td class="cuerpo_tabla_centro">9,70</td>
+<td class="cuerpo_tabla_centro">1TG</td>
+<td class="cuerpo_tabla_centro">60436,761</td>
+<td class="cuerpo_tabla_centro">1925,54</td>
+<td class="cuerpo_tabla_centro">0,53</td>
+<td class="cuerpo_tabla_centro">49.877,10</td>
+<td class="cuerpo_tabla_centro">0,72135</td>
+<td class="cuerpo_tabla_centro">13183,89364</td>
+<td class="cuerpo_tabla_centro">20,2336195</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">103,05</td>
+<td class="cuerpo_tabla_centro">37,80</td>
+<td class="cuerpo_tabla_centro">1TG+1TV</td>
+<td class="cuerpo_tabla_centro">118213,531</td>
+<td class="cuerpo_tabla_centro">-390,57</td>
+<td class="cuerpo_tabla_centro">11,18</td>
+<td class="cuerpo_tabla_centro">281985,0306</td>
+<td class="cuerpo_tabla_centro">0,55379</td>
+<td class="cuerpo_tabla_centro">16.536,196</td>
+<td class="cuerpo_tabla_centro">20,2336195</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">206,1</td>
+<td class="cuerpo_tabla_centro">75,50</td>
+<td class="cuerpo_tabla_centro">2TG+1TV</td>
+<td class="cuerpo_tabla_centro">239683,594</td>
+<td class="cuerpo_tabla_centro">-440,63</td>
+<td class="cuerpo_tabla_centro">5,76</td>
+<td class="cuerpo_tabla_centro">410809,814</td>
+<td class="cuerpo_tabla_centro">0,60483</td>
+<td class="cuerpo_tabla_centro">33.072,3906</td>
+<td class="cuerpo_tabla_centro">20,2336195</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4">BARRANCO DE TIRAJANA, CC2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0065</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">75,0</td>
+<td class="cuerpo_tabla_centro">9,70</td>
+<td class="cuerpo_tabla_centro">1TG</td>
+<td class="cuerpo_tabla_centro">60436,761</td>
+<td class="cuerpo_tabla_centro">1925,54</td>
+<td class="cuerpo_tabla_centro">0,53</td>
+<td class="cuerpo_tabla_centro">49.877,10</td>
+<td class="cuerpo_tabla_centro">0,72135</td>
+<td class="cuerpo_tabla_centro">13183,89364</td>
+<td class="cuerpo_tabla_centro">17,4114924</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">113,5</td>
+<td class="cuerpo_tabla_centro">37,80</td>
+<td class="cuerpo_tabla_centro">1TG+1TV</td>
+<td class="cuerpo_tabla_centro">118213,531</td>
+<td class="cuerpo_tabla_centro">-390,57</td>
+<td class="cuerpo_tabla_centro">11,18</td>
+<td class="cuerpo_tabla_centro">281985,0306</td>
+<td class="cuerpo_tabla_centro">0,55379</td>
+<td class="cuerpo_tabla_centro">16.536,196</td>
+<td class="cuerpo_tabla_centro">17,4114924</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">227,0</td>
+<td class="cuerpo_tabla_centro">75,50</td>
+<td class="cuerpo_tabla_centro">2TG+1TV</td>
+<td class="cuerpo_tabla_centro">239683,594</td>
+<td class="cuerpo_tabla_centro">-440,63</td>
+<td class="cuerpo_tabla_centro">5,76</td>
+<td class="cuerpo_tabla_centro">410809,814</td>
+<td class="cuerpo_tabla_centro">0,60483</td>
+<td class="cuerpo_tabla_centro">33.072,3906</td>
+<td class="cuerpo_tabla_centro">17,4114924</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0094</td>
+<td class="cuerpo_tabla_centro">CANDELARIA 10, VAPOR 6</td>
+<td class="cuerpo_tabla_centro">37,28</td>
+<td class="cuerpo_tabla_centro">13,58</td>
+<td class="cuerpo_tabla_centro">01/10/1984</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0062</td>
+<td class="cuerpo_tabla_centro">8.388,39</td>
+<td class="cuerpo_tabla_centro">2.859,92</td>
+<td class="cuerpo_tabla_centro">0,46</td>
+<td class="cuerpo_tabla_centro">199.254,56</td>
+<td class="cuerpo_tabla_centro">18,7179</td>
+<td class="cuerpo_tabla_centro">9048,350632</td>
+<td class="cuerpo_tabla_centro">8,087967424</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0098</td>
+<td class="cuerpo_tabla_centro">CANDELARIA 11, GAS 1</td>
+<td class="cuerpo_tabla_centro">32,34</td>
+<td class="cuerpo_tabla_centro">6,79</td>
+<td class="cuerpo_tabla_centro">04/11/1988</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0060</td>
+<td class="cuerpo_tabla_centro">29.363,27</td>
+<td class="cuerpo_tabla_centro">2.225,92</td>
+<td class="cuerpo_tabla_centro">1,36</td>
+<td class="cuerpo_tabla_centro">10.150,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">21,19468128</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0099</td>
+<td class="cuerpo_tabla_centro">CANDELARIA 12, GAS 2</td>
+<td class="cuerpo_tabla_centro">32,34</td>
+<td class="cuerpo_tabla_centro">6,79</td>
+<td class="cuerpo_tabla_centro">13/07/1989</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0060</td>
+<td class="cuerpo_tabla_centro">29.363,27</td>
+<td class="cuerpo_tabla_centro">2.225,92</td>
+<td class="cuerpo_tabla_centro">1,36</td>
+<td class="cuerpo_tabla_centro">10.150,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">21,20336728</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0095</td>
+<td class="cuerpo_tabla_centro">CANDELARIA 3, DIÉSEL 1</td>
+<td class="cuerpo_tabla_centro">8,51</td>
+<td class="cuerpo_tabla_centro">4,58</td>
+<td class="cuerpo_tabla_centro">01/05/1972</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0006</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">127,9527739</td>
+<td class="cuerpo_tabla_centro">22,48735287</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0096</td>
+<td class="cuerpo_tabla_centro">CANDELARIA 4, DIÉSEL 2</td>
+<td class="cuerpo_tabla_centro">8,51</td>
+<td class="cuerpo_tabla_centro">4,58</td>
+<td class="cuerpo_tabla_centro">01/02/1973</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0050</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">127,9527739</td>
+<td class="cuerpo_tabla_centro">22,48735287</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0100</td>
+<td class="cuerpo_tabla_centro">CANDELARIA 5, GAS 3</td>
+<td class="cuerpo_tabla_centro">14,7</td>
+<td class="cuerpo_tabla_centro">6,79</td>
+<td class="cuerpo_tabla_centro">01/12/1972</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0059</td>
+<td class="cuerpo_tabla_centro">23.254,28</td>
+<td class="cuerpo_tabla_centro">2.742,84</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">14.210,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">24,40293174</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0097</td>
+<td class="cuerpo_tabla_centro">CANDELARIA 6, DIÉSEL 3</td>
+<td class="cuerpo_tabla_centro">8,51</td>
+<td class="cuerpo_tabla_centro">4,58</td>
+<td class="cuerpo_tabla_centro">01/11/1973</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0050</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">127,9527739</td>
+<td class="cuerpo_tabla_centro">22,48735287</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0093</td>
+<td class="cuerpo_tabla_centro">CANDELARIA 9, VAPOR 5</td>
+<td class="cuerpo_tabla_centro">37,28</td>
+<td class="cuerpo_tabla_centro">13,58</td>
+<td class="cuerpo_tabla_centro">14/03/1979</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0062</td>
+<td class="cuerpo_tabla_centro">8.388,39</td>
+<td class="cuerpo_tabla_centro">2.859,92</td>
+<td class="cuerpo_tabla_centro">0,46</td>
+<td class="cuerpo_tabla_centro">199.254,56</td>
+<td class="cuerpo_tabla_centro">18,7179</td>
+<td class="cuerpo_tabla_centro">9048,350632</td>
+<td class="cuerpo_tabla_centro">8,32707548</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0205</td>
+<td class="cuerpo_tabla_centro">COTESA</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">23</td>
+<td class="cuerpo_tabla_centro">06/06/1995</td>
+<td class="cuerpo_tabla_centro">Gas residual refinería/ Gasoil 0,1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0142</td>
+<td class="cuerpo_tabla_centro">EL PALMAR 19, DIÉSEL 18</td>
+<td class="cuerpo_tabla_centro">3,1</td>
+<td class="cuerpo_tabla_centro">1,73</td>
+<td class="cuerpo_tabla_centro">04/12/2004</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0054</td>
+<td class="cuerpo_tabla_centro">865,97</td>
+<td class="cuerpo_tabla_centro">1.678,83</td>
+<td class="cuerpo_tabla_centro">81,52</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">72,71173897</td>
+<td class="cuerpo_tabla_centro">33,63432389</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0136</td>
+<td class="cuerpo_tabla_centro">EL PALMAR 13, DIÉSEL 12</td>
+<td class="cuerpo_tabla_centro">1,4</td>
+<td class="cuerpo_tabla_centro">0,85</td>
+<td class="cuerpo_tabla_centro">01/05/1988</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">399,91</td>
+<td class="cuerpo_tabla_centro">1.895,46</td>
+<td class="cuerpo_tabla_centro">186,52</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">57,16857723</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0137</td>
+<td class="cuerpo_tabla_centro">EL PALMAR 14, DIÉSEL 13</td>
+<td class="cuerpo_tabla_centro">1,4</td>
+<td class="cuerpo_tabla_centro">0,85</td>
+<td class="cuerpo_tabla_centro">01/01/1987</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">399,91</td>
+<td class="cuerpo_tabla_centro">1.895,46</td>
+<td class="cuerpo_tabla_centro">186,52</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">56,6556912</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0138</td>
+<td class="cuerpo_tabla_centro">EL PALMAR 15, DIÉSEL 14</td>
+<td class="cuerpo_tabla_centro">1,84</td>
+<td class="cuerpo_tabla_centro">0,96</td>
+<td class="cuerpo_tabla_centro">01/08/1987</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">630,19</td>
+<td class="cuerpo_tabla_centro">1.780,00</td>
+<td class="cuerpo_tabla_centro">88,06</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">49,62568073</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0139</td>
+<td class="cuerpo_tabla_centro">EL PALMAR 16, DIÉSEL 15</td>
+<td class="cuerpo_tabla_centro">1,84</td>
+<td class="cuerpo_tabla_centro">0,96</td>
+<td class="cuerpo_tabla_centro">01/06/1988</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">630,19</td>
+<td class="cuerpo_tabla_centro">1.780,00</td>
+<td class="cuerpo_tabla_centro">88,06</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">48,66506893</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0140</td>
+<td class="cuerpo_tabla_centro">EL PALMAR 17, DIÉSEL 16</td>
+<td class="cuerpo_tabla_centro">2,51</td>
+<td class="cuerpo_tabla_centro">1,44</td>
+<td class="cuerpo_tabla_centro">01/03/1996</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0054</td>
+<td class="cuerpo_tabla_centro">865,97</td>
+<td class="cuerpo_tabla_centro">1.678,83</td>
+<td class="cuerpo_tabla_centro">81,52</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">36,97499069</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0141</td>
+<td class="cuerpo_tabla_centro">EL PALMAR 18, DIÉSEL 17</td>
+<td class="cuerpo_tabla_centro">2,51</td>
+<td class="cuerpo_tabla_centro">1,44</td>
+<td class="cuerpo_tabla_centro">01/05/2000</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0054</td>
+<td class="cuerpo_tabla_centro">865,97</td>
+<td class="cuerpo_tabla_centro">1.678,83</td>
+<td class="cuerpo_tabla_centro">81,52</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">37,10245608</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0143</td>
+<td class="cuerpo_tabla_centro">EL PALMAR 20, DIÉSEL 19</td>
+<td class="cuerpo_tabla_centro">3,1</td>
+<td class="cuerpo_tabla_centro">1,73</td>
+<td class="cuerpo_tabla_centro">03/06/2005</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0054</td>
+<td class="cuerpo_tabla_centro">865,97</td>
+<td class="cuerpo_tabla_centro">1.678,83</td>
+<td class="cuerpo_tabla_centro">81,52</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">72,71173897</td>
+<td class="cuerpo_tabla_centro">34,06531016</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0211</td>
+<td class="cuerpo_tabla_centro">EL PALMAR 21, DIÉSEL MOVIL 3</td>
+<td class="cuerpo_tabla_centro">0,72</td>
+<td class="cuerpo_tabla_centro">0,39</td>
+<td class="cuerpo_tabla_centro">05/10/2012</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">630,19</td>
+<td class="cuerpo_tabla_centro">1.780,00</td>
+<td class="cuerpo_tabla_centro">88,06</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">48,66506893</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0103</td>
+<td class="cuerpo_tabla_centro">GRANADILLA 1, GAS 1</td>
+<td class="cuerpo_tabla_centro">32,34</td>
+<td class="cuerpo_tabla_centro">6,79</td>
+<td class="cuerpo_tabla_centro">24/08/1990</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0060</td>
+<td class="cuerpo_tabla_centro">29.363,27</td>
+<td class="cuerpo_tabla_centro">2.225,92</td>
+<td class="cuerpo_tabla_centro">1,36</td>
+<td class="cuerpo_tabla_centro">10.150,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">22,24339966</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4">GRANADILLA, CC1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0065</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">68,7</td>
+<td class="cuerpo_tabla_centro">9,70</td>
+<td class="cuerpo_tabla_centro">1TG</td>
+<td class="cuerpo_tabla_centro">60436,761</td>
+<td class="cuerpo_tabla_centro">1925,54</td>
+<td class="cuerpo_tabla_centro">0,53</td>
+<td class="cuerpo_tabla_centro">49.877,10</td>
+<td class="cuerpo_tabla_centro">0,72135</td>
+<td class="cuerpo_tabla_centro">13183,89364</td>
+<td class="cuerpo_tabla_centro">19,0075198</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">103,05</td>
+<td class="cuerpo_tabla_centro">37,80</td>
+<td class="cuerpo_tabla_centro">1TG+1TV</td>
+<td class="cuerpo_tabla_centro">118213,531</td>
+<td class="cuerpo_tabla_centro">-390,57</td>
+<td class="cuerpo_tabla_centro">11,18</td>
+<td class="cuerpo_tabla_centro">281985,0306</td>
+<td class="cuerpo_tabla_centro">0,55379</td>
+<td class="cuerpo_tabla_centro">16.536,196</td>
+<td class="cuerpo_tabla_centro">19,0075198</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">206,1</td>
+<td class="cuerpo_tabla_centro">75,50</td>
+<td class="cuerpo_tabla_centro">2TG+1TV</td>
+<td class="cuerpo_tabla_centro">239683,594</td>
+<td class="cuerpo_tabla_centro">-440,63</td>
+<td class="cuerpo_tabla_centro">5,76</td>
+<td class="cuerpo_tabla_centro">410809,814</td>
+<td class="cuerpo_tabla_centro">0,60483</td>
+<td class="cuerpo_tabla_centro">33072,3906</td>
+<td class="cuerpo_tabla_centro">19,0075198</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0101</td>
+<td class="cuerpo_tabla_centro">GRANADILLA 2, DIÉSEL 1</td>
+<td class="cuerpo_tabla_centro">20,51</td>
+<td class="cuerpo_tabla_centro">14,09</td>
+<td class="cuerpo_tabla_centro">01/06/1991</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0052</td>
+<td class="cuerpo_tabla_centro">7.613,79</td>
+<td class="cuerpo_tabla_centro">1.381,90</td>
+<td class="cuerpo_tabla_centro">15,25</td>
+<td class="cuerpo_tabla_centro">79.576,42</td>
+<td class="cuerpo_tabla_centro">5,53611</td>
+<td class="cuerpo_tabla_centro">203,959799</td>
+<td class="cuerpo_tabla_centro">11,40856871</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0102</td>
+<td class="cuerpo_tabla_centro">GRANADILLA 3, DIÉSEL 2</td>
+<td class="cuerpo_tabla_centro">20,51</td>
+<td class="cuerpo_tabla_centro">14,09</td>
+<td class="cuerpo_tabla_centro">01/08/1991</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0052</td>
+<td class="cuerpo_tabla_centro">7.613,79</td>
+<td class="cuerpo_tabla_centro">1.381,90</td>
+<td class="cuerpo_tabla_centro">15,25</td>
+<td class="cuerpo_tabla_centro">79.576,42</td>
+<td class="cuerpo_tabla_centro">5,53611</td>
+<td class="cuerpo_tabla_centro">203,959799</td>
+<td class="cuerpo_tabla_centro">11,43231367</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO1-1054</td>
+<td class="cuerpo_tabla_centro">GRANADILLA 4, VAPOR 2</td>
+<td class="cuerpo_tabla_centro">74,24</td>
+<td class="cuerpo_tabla_centro">27,84</td>
+<td class="cuerpo_tabla_centro">05/09/1995</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0064</td>
+<td class="cuerpo_tabla_centro">21.254,08</td>
+<td class="cuerpo_tabla_centro">2.159,80</td>
+<td class="cuerpo_tabla_centro">0,23</td>
+<td class="cuerpo_tabla_centro">357.255,00</td>
+<td class="cuerpo_tabla_centro">7,21595</td>
+<td class="cuerpo_tabla_centro">12038,118</td>
+<td class="cuerpo_tabla_centro">5,232969854</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO1-1053</td>
+<td class="cuerpo_tabla_centro">GRANADILLA 5, VAPOR 1</td>
+<td class="cuerpo_tabla_centro">74,24</td>
+<td class="cuerpo_tabla_centro">27,84</td>
+<td class="cuerpo_tabla_centro">08/12/1995</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0064</td>
+<td class="cuerpo_tabla_centro">21.254,08</td>
+<td class="cuerpo_tabla_centro">2.159,80</td>
+<td class="cuerpo_tabla_centro">0,23</td>
+<td class="cuerpo_tabla_centro">357.255,00</td>
+<td class="cuerpo_tabla_centro">7,21595</td>
+<td class="cuerpo_tabla_centro">12038,118</td>
+<td class="cuerpo_tabla_centro">5,20835219</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0104</td>
+<td class="cuerpo_tabla_centro">GRANADILLA 6, GAS 2</td>
+<td class="cuerpo_tabla_centro">39,2</td>
+<td class="cuerpo_tabla_centro">6,79</td>
+<td class="cuerpo_tabla_centro">10/12/2001</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0060</td>
+<td class="cuerpo_tabla_centro">31.391,05</td>
+<td class="cuerpo_tabla_centro">1.773,42</td>
+<td class="cuerpo_tabla_centro">11,58</td>
+<td class="cuerpo_tabla_centro">10.094,78</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3988,381407</td>
+<td class="cuerpo_tabla_centro">20,53421749</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4">GRANADILLA, CC2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td class="cuerpo_tabla_centro" rowspan="4">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0065</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">75,0</td>
+<td class="cuerpo_tabla_centro">9,70</td>
+<td class="cuerpo_tabla_centro">1TG</td>
+<td class="cuerpo_tabla_centro">60436,761</td>
+<td class="cuerpo_tabla_centro">1925,54</td>
+<td class="cuerpo_tabla_centro">0,53</td>
+<td class="cuerpo_tabla_centro">49.877,10</td>
+<td class="cuerpo_tabla_centro">0,72135</td>
+<td class="cuerpo_tabla_centro">13183,89364</td>
+<td class="cuerpo_tabla_centro">18,6949719</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">113,5</td>
+<td class="cuerpo_tabla_centro">37,80</td>
+<td class="cuerpo_tabla_centro">1TG+1TV</td>
+<td class="cuerpo_tabla_centro">118213,531</td>
+<td class="cuerpo_tabla_centro">-390,57</td>
+<td class="cuerpo_tabla_centro">11,18</td>
+<td class="cuerpo_tabla_centro">281985,0306</td>
+<td class="cuerpo_tabla_centro">0,55379</td>
+<td class="cuerpo_tabla_centro">16.536,196</td>
+<td class="cuerpo_tabla_centro">18,6949719</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">227,0</td>
+<td class="cuerpo_tabla_centro">75,50</td>
+<td class="cuerpo_tabla_centro">2TG+1TV</td>
+<td class="cuerpo_tabla_centro">239683,594</td>
+<td class="cuerpo_tabla_centro">-440,63</td>
+<td class="cuerpo_tabla_centro">5,76</td>
+<td class="cuerpo_tabla_centro">410809,814</td>
+<td class="cuerpo_tabla_centro">0,60483</td>
+<td class="cuerpo_tabla_centro">33.072,3906</td>
+<td class="cuerpo_tabla_centro">18,6949719</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0087</td>
+<td class="cuerpo_tabla_centro">JINAMAR 10, GAS 2</td>
+<td class="cuerpo_tabla_centro">32,34</td>
+<td class="cuerpo_tabla_centro">6,79</td>
+<td class="cuerpo_tabla_centro">26/01/1989</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0060</td>
+<td class="cuerpo_tabla_centro">29.363,27</td>
+<td class="cuerpo_tabla_centro">2.225,92</td>
+<td class="cuerpo_tabla_centro">1,36</td>
+<td class="cuerpo_tabla_centro">10.150,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">22,69785764</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0088</td>
+<td class="cuerpo_tabla_centro">JINAMAR 11, GAS 3</td>
+<td class="cuerpo_tabla_centro">32,34</td>
+<td class="cuerpo_tabla_centro">6,79</td>
+<td class="cuerpo_tabla_centro">01/05/1989</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0060</td>
+<td class="cuerpo_tabla_centro">29.363,27</td>
+<td class="cuerpo_tabla_centro">2.225,92</td>
+<td class="cuerpo_tabla_centro">1,36</td>
+<td class="cuerpo_tabla_centro">10.150,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">21,75934061</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0084</td>
+<td class="cuerpo_tabla_centro">JINAMAR 12, DIÉSEL 4</td>
+<td class="cuerpo_tabla_centro">20,51</td>
+<td class="cuerpo_tabla_centro">14,09</td>
+<td class="cuerpo_tabla_centro">07/06/1990</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0052</td>
+<td class="cuerpo_tabla_centro">7.613,79</td>
+<td class="cuerpo_tabla_centro">1.381,90</td>
+<td class="cuerpo_tabla_centro">15,25</td>
+<td class="cuerpo_tabla_centro">79.576,42</td>
+<td class="cuerpo_tabla_centro">5,53611</td>
+<td class="cuerpo_tabla_centro">203,959799</td>
+<td class="cuerpo_tabla_centro">12,69410963</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0085</td>
+<td class="cuerpo_tabla_centro">JINAMAR 13, DIÉSEL 5</td>
+<td class="cuerpo_tabla_centro">20,51</td>
+<td class="cuerpo_tabla_centro">14,09</td>
+<td class="cuerpo_tabla_centro">08/08/1990</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0052</td>
+<td class="cuerpo_tabla_centro">7.613,79</td>
+<td class="cuerpo_tabla_centro">1.381,90</td>
+<td class="cuerpo_tabla_centro">15,25</td>
+<td class="cuerpo_tabla_centro">79.576,42</td>
+<td class="cuerpo_tabla_centro">5,53611</td>
+<td class="cuerpo_tabla_centro">203,959799</td>
+<td class="cuerpo_tabla_centro">12,59885711</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0081</td>
+<td class="cuerpo_tabla_centro">JINAMAR 2, DIÉSEL 1</td>
+<td class="cuerpo_tabla_centro">8,51</td>
+<td class="cuerpo_tabla_centro">4,58</td>
+<td class="cuerpo_tabla_centro">01/02/1973</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0050</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">127,9527739</td>
+<td class="cuerpo_tabla_centro">24,00818225</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0082</td>
+<td class="cuerpo_tabla_centro">JINAMAR 3, DIÉSEL 2</td>
+<td class="cuerpo_tabla_centro">8,51</td>
+<td class="cuerpo_tabla_centro">4,58</td>
+<td class="cuerpo_tabla_centro">27/08/1973</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0050</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">127,9527739</td>
+<td class="cuerpo_tabla_centro">22,48735287</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0083</td>
+<td class="cuerpo_tabla_centro">JINAMAR 4, DIÉSEL 3</td>
+<td class="cuerpo_tabla_centro">8,51</td>
+<td class="cuerpo_tabla_centro">4,58</td>
+<td class="cuerpo_tabla_centro">01/02/1974</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0050</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">127,9527739</td>
+<td class="cuerpo_tabla_centro">22,2381091</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0086</td>
+<td class="cuerpo_tabla_centro">JINAMAR 7, GAS 1</td>
+<td class="cuerpo_tabla_centro">17,64</td>
+<td class="cuerpo_tabla_centro">6,79</td>
+<td class="cuerpo_tabla_centro">21/04/1981</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0059</td>
+<td class="cuerpo_tabla_centro">23.287,86</td>
+<td class="cuerpo_tabla_centro">2.737,04</td>
+<td class="cuerpo_tabla_centro">6,37</td>
+<td class="cuerpo_tabla_centro">12.180,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">23,4912697</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO1-1047</td>
+<td class="cuerpo_tabla_centro">JINAMAR 8, VAPOR 4</td>
+<td class="cuerpo_tabla_centro">55,56</td>
+<td class="cuerpo_tabla_centro">17,7</td>
+<td class="cuerpo_tabla_centro">01/08/1982</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0063</td>
+<td class="cuerpo_tabla_centro">12.991,35</td>
+<td class="cuerpo_tabla_centro">2.677,03</td>
+<td class="cuerpo_tabla_centro">0,19</td>
+<td class="cuerpo_tabla_centro">269.052,81</td>
+<td class="cuerpo_tabla_centro">17,43684</td>
+<td class="cuerpo_tabla_centro">11114,44123</td>
+<td class="cuerpo_tabla_centro">7,148321746</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO1-1048</td>
+<td class="cuerpo_tabla_centro">JINAMAR 9, VAPOR 5</td>
+<td class="cuerpo_tabla_centro">55,56</td>
+<td class="cuerpo_tabla_centro">17,7</td>
+<td class="cuerpo_tabla_centro">05/12/1984</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0063</td>
+<td class="cuerpo_tabla_centro">12.991,35</td>
+<td class="cuerpo_tabla_centro">2.677,03</td>
+<td class="cuerpo_tabla_centro">0,19</td>
+<td class="cuerpo_tabla_centro">269.052,81</td>
+<td class="cuerpo_tabla_centro">17,43684</td>
+<td class="cuerpo_tabla_centro">11114,44123</td>
+<td class="cuerpo_tabla_centro">7,369001112</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0118</td>
+<td class="cuerpo_tabla_centro">LAS SALINAS 1, DIÉSEL 1</td>
+<td class="cuerpo_tabla_centro">3,82</td>
+<td class="cuerpo_tabla_centro">2,4</td>
+<td class="cuerpo_tabla_centro">06/10/1975</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0054</td>
+<td class="cuerpo_tabla_centro">504,22</td>
+<td class="cuerpo_tabla_centro">2.248,31</td>
+<td class="cuerpo_tabla_centro">23,65</td>
+<td class="cuerpo_tabla_centro">9.675,39</td>
+<td class="cuerpo_tabla_centro">6,04355</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">28,99447731</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0179</td>
+<td class="cuerpo_tabla_centro">LAS SALINAS 10, DIÉSEL 7</td>
+<td class="cuerpo_tabla_centro">17,2</td>
+<td class="cuerpo_tabla_centro">11,8</td>
+<td class="cuerpo_tabla_centro">16/07/2004</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0056</td>
+<td class="cuerpo_tabla_centro">9.556,47</td>
+<td class="cuerpo_tabla_centro">1.039,20</td>
+<td class="cuerpo_tabla_centro">36,11</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">206,7067848</td>
+<td class="cuerpo_tabla_centro">21,98163647</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0199</td>
+<td class="cuerpo_tabla_centro">LAS SALINAS 11, DIÉSEL 8</td>
+<td class="cuerpo_tabla_centro">17,2</td>
+<td class="cuerpo_tabla_centro">11,8</td>
+<td class="cuerpo_tabla_centro">25/07/2005</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0056</td>
+<td class="cuerpo_tabla_centro">9.556,47</td>
+<td class="cuerpo_tabla_centro">1.039,20</td>
+<td class="cuerpo_tabla_centro">36,11</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">206,7067848</td>
+<td class="cuerpo_tabla_centro">22,12963861</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0200</td>
+<td class="cuerpo_tabla_centro">LAS SALINAS 12, DIÉSEL 9</td>
+<td class="cuerpo_tabla_centro">17,2</td>
+<td class="cuerpo_tabla_centro">11,8</td>
+<td class="cuerpo_tabla_centro">28/09/2005</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0056</td>
+<td class="cuerpo_tabla_centro">9.556,47</td>
+<td class="cuerpo_tabla_centro">1.039,20</td>
+<td class="cuerpo_tabla_centro">36,11</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">206,7067848</td>
+<td class="cuerpo_tabla_centro">22,38439344</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0119</td>
+<td class="cuerpo_tabla_centro">LAS SALINAS 2, DIÉSEL 2</td>
+<td class="cuerpo_tabla_centro">3,82</td>
+<td class="cuerpo_tabla_centro">2,4</td>
+<td class="cuerpo_tabla_centro">01/02/1976</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0054</td>
+<td class="cuerpo_tabla_centro">504,22</td>
+<td class="cuerpo_tabla_centro">2.248,31</td>
+<td class="cuerpo_tabla_centro">23,65</td>
+<td class="cuerpo_tabla_centro">9.675,39</td>
+<td class="cuerpo_tabla_centro">6,04355</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">29,29342578</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0120</td>
+<td class="cuerpo_tabla_centro">LAS SALINAS 3, DIÉSEL 3</td>
+<td class="cuerpo_tabla_centro">4,11</td>
+<td class="cuerpo_tabla_centro">2,8</td>
+<td class="cuerpo_tabla_centro">01/02/1980</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0055</td>
+<td class="cuerpo_tabla_centro">346,04</td>
+<td class="cuerpo_tabla_centro">2.406,12</td>
+<td class="cuerpo_tabla_centro">17,63</td>
+<td class="cuerpo_tabla_centro">11.287,89</td>
+<td class="cuerpo_tabla_centro">6,04425</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">40,9710065</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0121</td>
+<td class="cuerpo_tabla_centro">LAS SALINAS 4, DIÉSEL 4</td>
+<td class="cuerpo_tabla_centro">6,21</td>
+<td class="cuerpo_tabla_centro">4,2</td>
+<td class="cuerpo_tabla_centro">15/11/1981</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0055</td>
+<td class="cuerpo_tabla_centro">1.588,74</td>
+<td class="cuerpo_tabla_centro">2.247,64</td>
+<td class="cuerpo_tabla_centro">10,23</td>
+<td class="cuerpo_tabla_centro">16.842,61</td>
+<td class="cuerpo_tabla_centro">6,04405</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">33,29885207</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0122</td>
+<td class="cuerpo_tabla_centro">LAS SALINAS 5, DIÉSEL 5</td>
+<td class="cuerpo_tabla_centro">6,21</td>
+<td class="cuerpo_tabla_centro">4,2</td>
+<td class="cuerpo_tabla_centro">07/10/1981</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0055</td>
+<td class="cuerpo_tabla_centro">1.588,74</td>
+<td class="cuerpo_tabla_centro">2.247,64</td>
+<td class="cuerpo_tabla_centro">10,23</td>
+<td class="cuerpo_tabla_centro">16.842,61</td>
+<td class="cuerpo_tabla_centro">6,04405</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">34,04457672</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0123</td>
+<td class="cuerpo_tabla_centro">LAS SALINAS 6, DIÉSEL 6</td>
+<td class="cuerpo_tabla_centro">20,51</td>
+<td class="cuerpo_tabla_centro">14,09</td>
+<td class="cuerpo_tabla_centro">18/06/1990</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0052</td>
+<td class="cuerpo_tabla_centro">7.613,79</td>
+<td class="cuerpo_tabla_centro">1.381,90</td>
+<td class="cuerpo_tabla_centro">15,25</td>
+<td class="cuerpo_tabla_centro">79.576,42</td>
+<td class="cuerpo_tabla_centro">5,53611</td>
+<td class="cuerpo_tabla_centro">203,959799</td>
+<td class="cuerpo_tabla_centro">12,49249904</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0124</td>
+<td class="cuerpo_tabla_centro">LAS SALINAS 7,GAS 1</td>
+<td class="cuerpo_tabla_centro">21,85</td>
+<td class="cuerpo_tabla_centro">6,79</td>
+<td class="cuerpo_tabla_centro">01/10/1992</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0059</td>
+<td class="cuerpo_tabla_centro">23.439,54</td>
+<td class="cuerpo_tabla_centro">2.526,18</td>
+<td class="cuerpo_tabla_centro">3,36</td>
+<td class="cuerpo_tabla_centro">14.210,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">30,99275751</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0125</td>
+<td class="cuerpo_tabla_centro">LAS SALINAS 8, GAS 2</td>
+<td class="cuerpo_tabla_centro">29,4</td>
+<td class="cuerpo_tabla_centro">9,69</td>
+<td class="cuerpo_tabla_centro">01/07/2000</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0060</td>
+<td class="cuerpo_tabla_centro">29.363,27</td>
+<td class="cuerpo_tabla_centro">2.225,92</td>
+<td class="cuerpo_tabla_centro">1,36</td>
+<td class="cuerpo_tabla_centro">10.150,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">25,67660445</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0135</td>
+<td class="cuerpo_tabla_centro">LAS SALINAS 9 (GAS MÓVIL 1)</td>
+<td class="cuerpo_tabla_centro">11,74</td>
+<td class="cuerpo_tabla_centro">2,93</td>
+<td class="cuerpo_tabla_centro">01/01/1988</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0058</td>
+<td class="cuerpo_tabla_centro">25.849,66</td>
+<td class="cuerpo_tabla_centro">2.113,22</td>
+<td class="cuerpo_tabla_centro">12,27</td>
+<td class="cuerpo_tabla_centro">10.150,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">69,40764102</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0149</td>
+<td class="cuerpo_tabla_centro">LLANOS BLANCOS 1, DIÉSEL MÓVIL 1</td>
+<td class="cuerpo_tabla_centro">1,07</td>
+<td class="cuerpo_tabla_centro">0.29</td>
+<td class="cuerpo_tabla_centro">01/06/1987</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">347,82</td>
+<td class="cuerpo_tabla_centro">2.189,28</td>
+<td class="cuerpo_tabla_centro">57,43</td>
+<td class="cuerpo_tabla_centro">2.791,00</td>
+<td class="cuerpo_tabla_centro">1,44307</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">83,8013545</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0144</td>
+<td class="cuerpo_tabla_centro">LLANOS BLANCOS 11, DIÉSEL 9</td>
+<td class="cuerpo_tabla_centro">0,88</td>
+<td class="cuerpo_tabla_centro">0,44</td>
+<td class="cuerpo_tabla_centro">01/03/1996</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">413,31</td>
+<td class="cuerpo_tabla_centro">1.778,65</td>
+<td class="cuerpo_tabla_centro">174,99</td>
+<td class="cuerpo_tabla_centro">2.791,00</td>
+<td class="cuerpo_tabla_centro">1,44307</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">81,04675844</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0145</td>
+<td class="cuerpo_tabla_centro">LLANOS BLANCOS 12, DIÉSEL 10</td>
+<td class="cuerpo_tabla_centro">1,07</td>
+<td class="cuerpo_tabla_centro">0,48</td>
+<td class="cuerpo_tabla_centro">11/09/1991</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">693,68</td>
+<td class="cuerpo_tabla_centro">1.762,03</td>
+<td class="cuerpo_tabla_centro">127,38</td>
+<td class="cuerpo_tabla_centro">2.791,00</td>
+<td class="cuerpo_tabla_centro">1,44307</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">69,47077039</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0146</td>
+<td class="cuerpo_tabla_centro">LLANOS BLANCOS 13, DIÉSEL 11</td>
+<td class="cuerpo_tabla_centro">1,07</td>
+<td class="cuerpo_tabla_centro">0,48</td>
+<td class="cuerpo_tabla_centro">04/12/1991</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">693,68</td>
+<td class="cuerpo_tabla_centro">1.762,03</td>
+<td class="cuerpo_tabla_centro">127,38</td>
+<td class="cuerpo_tabla_centro">2.791,00</td>
+<td class="cuerpo_tabla_centro">1,44307</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">69,35290075</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0147</td>
+<td class="cuerpo_tabla_centro">LLANOS BLANCOS 14, DIÉSEL 12</td>
+<td class="cuerpo_tabla_centro">1,26</td>
+<td class="cuerpo_tabla_centro">0,48</td>
+<td class="cuerpo_tabla_centro">01/02/1995</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">622,56</td>
+<td class="cuerpo_tabla_centro">1.765,84</td>
+<td class="cuerpo_tabla_centro">72,6</td>
+<td class="cuerpo_tabla_centro">2.791,00</td>
+<td class="cuerpo_tabla_centro">1,44307</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">66,55279257</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0148</td>
+<td class="cuerpo_tabla_centro">LLANOS BLANCOS 15, DIÉSEL 13</td>
+<td class="cuerpo_tabla_centro">1,36</td>
+<td class="cuerpo_tabla_centro">0,48</td>
+<td class="cuerpo_tabla_centro">30/03/2000</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">622,56</td>
+<td class="cuerpo_tabla_centro">1.765,84</td>
+<td class="cuerpo_tabla_centro">72,6</td>
+<td class="cuerpo_tabla_centro">2.791,00</td>
+<td class="cuerpo_tabla_centro">1,44307</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">62,87395791</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0176</td>
+<td class="cuerpo_tabla_centro">LLANOS BLANCOS 16, DIÉSEL, 14</td>
+<td class="cuerpo_tabla_centro">1,9</td>
+<td class="cuerpo_tabla_centro">0,91</td>
+<td class="cuerpo_tabla_centro">21/10/2005</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">865,97</td>
+<td class="cuerpo_tabla_centro">1.678,83</td>
+<td class="cuerpo_tabla_centro">81,52</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">72,71173897</td>
+<td class="cuerpo_tabla_centro">46,09137694</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0186</td>
+<td class="cuerpo_tabla_centro">LLANOS BLANCOS 17, DIÉSEL 15</td>
+<td class="cuerpo_tabla_centro">1,9</td>
+<td class="cuerpo_tabla_centro">0,91</td>
+<td class="cuerpo_tabla_centro">17/10/2007</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">865,97</td>
+<td class="cuerpo_tabla_centro">1.678,83</td>
+<td class="cuerpo_tabla_centro">81,52</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">72,71173897</td>
+<td class="cuerpo_tabla_centro">46,07529148</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0019</td>
+<td class="cuerpo_tabla_centro">LLANOS BLANCOS 9, DIÉSEL 7</td>
+<td class="cuerpo_tabla_centro">0,67</td>
+<td class="cuerpo_tabla_centro">0,29</td>
+<td class="cuerpo_tabla_centro">01/08/1977</td>
+<td class="cuerpo_tabla_centro">Diéseloil</td>
+<td class="cuerpo_tabla_centro">IT-0053</td>
+<td class="cuerpo_tabla_centro">104,77</td>
+<td class="cuerpo_tabla_centro">2.697,39</td>
+<td class="cuerpo_tabla_centro">194,85</td>
+<td class="cuerpo_tabla_centro">2.791,00</td>
+<td class="cuerpo_tabla_centro">1,44307</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">109,2030179</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0131</td>
+<td class="cuerpo_tabla_centro">LOS GUINCHOS 10, DIÉSEL 10</td>
+<td class="cuerpo_tabla_centro">6,69</td>
+<td class="cuerpo_tabla_centro">4,2</td>
+<td class="cuerpo_tabla_centro">17/03/1983</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0055</td>
+<td class="cuerpo_tabla_centro">1.599,88</td>
+<td class="cuerpo_tabla_centro">2.243,21</td>
+<td class="cuerpo_tabla_centro">10,66</td>
+<td class="cuerpo_tabla_centro">16.842,61</td>
+<td class="cuerpo_tabla_centro">6,04405</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">31,61210672</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0132</td>
+<td class="cuerpo_tabla_centro">LOS GUINCHOS 12, DIÉSEL 11</td>
+<td class="cuerpo_tabla_centro">6,69</td>
+<td class="cuerpo_tabla_centro">5,2</td>
+<td class="cuerpo_tabla_centro">01/03/1995</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0055</td>
+<td class="cuerpo_tabla_centro">1.599,88</td>
+<td class="cuerpo_tabla_centro">2.243,21</td>
+<td class="cuerpo_tabla_centro">10,66</td>
+<td class="cuerpo_tabla_centro">16.842,61</td>
+<td class="cuerpo_tabla_centro">6,04405</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">29,37454498</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0133</td>
+<td class="cuerpo_tabla_centro">LOS GUINCHOS 13, DIÉSEL 12</td>
+<td class="cuerpo_tabla_centro">11,5</td>
+<td class="cuerpo_tabla_centro">6,63</td>
+<td class="cuerpo_tabla_centro">01/02/2001</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0055</td>
+<td class="cuerpo_tabla_centro">1.203,38</td>
+<td class="cuerpo_tabla_centro">2.038,81</td>
+<td class="cuerpo_tabla_centro">9,45</td>
+<td class="cuerpo_tabla_centro">58.446,37</td>
+<td class="cuerpo_tabla_centro">5,52231</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">23,67562899</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0134</td>
+<td class="cuerpo_tabla_centro">LOS GUINCHOS 14, DIÉSEL 13</td>
+<td class="cuerpo_tabla_centro">11,2</td>
+<td class="cuerpo_tabla_centro">6,63</td>
+<td class="cuerpo_tabla_centro">10/11/2003</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0055</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">15.172,71</td>
+<td class="cuerpo_tabla_centro">2,88669</td>
+<td class="cuerpo_tabla_centro">161,5685504</td>
+<td class="cuerpo_tabla_centro">26,93248976</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0187</td>
+<td class="cuerpo_tabla_centro">LOS GUINCHOS 15, GAS MÓVIL 2</td>
+<td class="cuerpo_tabla_centro">21,6</td>
+<td class="cuerpo_tabla_centro">4,85</td>
+<td class="cuerpo_tabla_centro">30/03/2006</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0057</td>
+<td class="cuerpo_tabla_centro">9.167,14</td>
+<td class="cuerpo_tabla_centro">2.154,04</td>
+<td class="cuerpo_tabla_centro">1,59</td>
+<td class="cuerpo_tabla_centro">8.120,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">818,4926475</td>
+<td class="cuerpo_tabla_centro">31,01029224</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0191</td>
+<td class="cuerpo_tabla_centro">LOS GUINCHOS 16 (DIÉSEL 14)</td>
+<td class="cuerpo_tabla_centro">11,5</td>
+<td class="cuerpo_tabla_centro">6,63</td>
+<td class="cuerpo_tabla_centro">01/07/2006</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0055</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">15.172,71</td>
+<td class="cuerpo_tabla_centro">2,88669</td>
+<td class="cuerpo_tabla_centro">161,5685504</td>
+<td class="cuerpo_tabla_centro">26,77791788</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0192</td>
+<td class="cuerpo_tabla_centro">LOS GUINCHOS 17 (DIÉSEL 15)</td>
+<td class="cuerpo_tabla_centro">11,5</td>
+<td class="cuerpo_tabla_centro">6,63</td>
+<td class="cuerpo_tabla_centro">01/08/2006</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0055</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">15.172,71</td>
+<td class="cuerpo_tabla_centro">2,88669</td>
+<td class="cuerpo_tabla_centro">161,5685504</td>
+<td class="cuerpo_tabla_centro">26,56744182</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0127</td>
+<td class="cuerpo_tabla_centro">LOS GUINCHOS 6, DIÉSEL 6</td>
+<td class="cuerpo_tabla_centro">3,82</td>
+<td class="cuerpo_tabla_centro">2,35</td>
+<td class="cuerpo_tabla_centro">01/02/1973</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0054</td>
+<td class="cuerpo_tabla_centro">504,22</td>
+<td class="cuerpo_tabla_centro">2.248,31</td>
+<td class="cuerpo_tabla_centro">23,65</td>
+<td class="cuerpo_tabla_centro">9.675,39</td>
+<td class="cuerpo_tabla_centro">6,04355</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">28,50325754</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0128</td>
+<td class="cuerpo_tabla_centro">LOS GUINCHOS 7, DIÉSEL 7</td>
+<td class="cuerpo_tabla_centro">3,82</td>
+<td class="cuerpo_tabla_centro">2,35</td>
+<td class="cuerpo_tabla_centro">07/12/1973</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0054</td>
+<td class="cuerpo_tabla_centro">504,22</td>
+<td class="cuerpo_tabla_centro">2.248,31</td>
+<td class="cuerpo_tabla_centro">23,65</td>
+<td class="cuerpo_tabla_centro">9.675,39</td>
+<td class="cuerpo_tabla_centro">6,04355</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">28,14652181</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0129</td>
+<td class="cuerpo_tabla_centro">LOS GUINCHOS 8, DIÉSEL 8</td>
+<td class="cuerpo_tabla_centro">3,82</td>
+<td class="cuerpo_tabla_centro">2,35</td>
+<td class="cuerpo_tabla_centro">01/05/1975</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0054</td>
+<td class="cuerpo_tabla_centro">504,22</td>
+<td class="cuerpo_tabla_centro">2.248,31</td>
+<td class="cuerpo_tabla_centro">23,65</td>
+<td class="cuerpo_tabla_centro">9.675,39</td>
+<td class="cuerpo_tabla_centro">6,04355</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">27,80194416</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0130</td>
+<td class="cuerpo_tabla_centro">LOS GUINCHOS 9, DIÉSEL 9</td>
+<td class="cuerpo_tabla_centro">4,3</td>
+<td class="cuerpo_tabla_centro">2,82</td>
+<td class="cuerpo_tabla_centro">07/07/1980</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0055</td>
+<td class="cuerpo_tabla_centro">346,04</td>
+<td class="cuerpo_tabla_centro">2.406,12</td>
+<td class="cuerpo_tabla_centro">17,63</td>
+<td class="cuerpo_tabla_centro">11.287,89</td>
+<td class="cuerpo_tabla_centro">6,04425</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">41,46980323</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0110</td>
+<td class="cuerpo_tabla_centro">PUNTA GRANDE 11, DIÉSEL 4</td>
+<td class="cuerpo_tabla_centro">12,85</td>
+<td class="cuerpo_tabla_centro">8,7</td>
+<td class="cuerpo_tabla_centro">14/07/1989</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0051</td>
+<td class="cuerpo_tabla_centro">3.418,40</td>
+<td class="cuerpo_tabla_centro">1.606,25</td>
+<td class="cuerpo_tabla_centro">14,55</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">127,9527739</td>
+<td class="cuerpo_tabla_centro">11,82342316</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0111</td>
+<td class="cuerpo_tabla_centro">PUNTA GRANDE 12, DIÉSEL 5</td>
+<td class="cuerpo_tabla_centro">12,85</td>
+<td class="cuerpo_tabla_centro">8,7</td>
+<td class="cuerpo_tabla_centro">05/05/1989</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0051</td>
+<td class="cuerpo_tabla_centro">3.418,40</td>
+<td class="cuerpo_tabla_centro">1.606,25</td>
+<td class="cuerpo_tabla_centro">14,55</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">127,9527739</td>
+<td class="cuerpo_tabla_centro">12,05824741</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0112</td>
+<td class="cuerpo_tabla_centro">PUNTA GRANDE 13, DIÉSEL 6</td>
+<td class="cuerpo_tabla_centro">20,51</td>
+<td class="cuerpo_tabla_centro">14,09</td>
+<td class="cuerpo_tabla_centro">01/09/1992</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0052</td>
+<td class="cuerpo_tabla_centro">7.613,79</td>
+<td class="cuerpo_tabla_centro">1.381,90</td>
+<td class="cuerpo_tabla_centro">15,25</td>
+<td class="cuerpo_tabla_centro">79.576,42</td>
+<td class="cuerpo_tabla_centro">5,53611</td>
+<td class="cuerpo_tabla_centro">203,959799</td>
+<td class="cuerpo_tabla_centro">12,00511999</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0116</td>
+<td class="cuerpo_tabla_centro">PUNTA GRANDE 14, GAS 2</td>
+<td class="cuerpo_tabla_centro">32,34</td>
+<td class="cuerpo_tabla_centro">6,79</td>
+<td class="cuerpo_tabla_centro">01/01/1998</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0060</td>
+<td class="cuerpo_tabla_centro">29.363,27</td>
+<td class="cuerpo_tabla_centro">2.225,92</td>
+<td class="cuerpo_tabla_centro">1,36</td>
+<td class="cuerpo_tabla_centro">10.150,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">28,32403325</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0113</td>
+<td class="cuerpo_tabla_centro">PUNTA GRANDE 15, DIÉSEL 7</td>
+<td class="cuerpo_tabla_centro">17,2</td>
+<td class="cuerpo_tabla_centro">11,8</td>
+<td class="cuerpo_tabla_centro">21/02/2002</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0056</td>
+<td class="cuerpo_tabla_centro">9.556,47</td>
+<td class="cuerpo_tabla_centro">1.039,20</td>
+<td class="cuerpo_tabla_centro">36,11</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">206,7067848</td>
+<td class="cuerpo_tabla_centro">21,80018492</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0114</td>
+<td class="cuerpo_tabla_centro">PUNTA GRANDE 16, DIÉSEL 8</td>
+<td class="cuerpo_tabla_centro">17,2</td>
+<td class="cuerpo_tabla_centro">11,8</td>
+<td class="cuerpo_tabla_centro">21/01/2002</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0056</td>
+<td class="cuerpo_tabla_centro">9.556,47</td>
+<td class="cuerpo_tabla_centro">1.039,20</td>
+<td class="cuerpo_tabla_centro">36,11</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">206,7067848</td>
+<td class="cuerpo_tabla_centro">21,74905269</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0107</td>
+<td class="cuerpo_tabla_centro">PUNTA GRANDE 2, DIÉSEL 1</td>
+<td class="cuerpo_tabla_centro">6,49</td>
+<td class="cuerpo_tabla_centro">4,2</td>
+<td class="cuerpo_tabla_centro">06/06/1986</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0055</td>
+<td class="cuerpo_tabla_centro">1.599,88</td>
+<td class="cuerpo_tabla_centro">2.243,21</td>
+<td class="cuerpo_tabla_centro">10,66</td>
+<td class="cuerpo_tabla_centro">16.842,61</td>
+<td class="cuerpo_tabla_centro">6,04405</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">33,64430149</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0108</td>
+<td class="cuerpo_tabla_centro">PUNTA GRANDE 3, DIÉSEL 2</td>
+<td class="cuerpo_tabla_centro">6,49</td>
+<td class="cuerpo_tabla_centro">4,2</td>
+<td class="cuerpo_tabla_centro">01/12/1986</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0055</td>
+<td class="cuerpo_tabla_centro">1.599,88</td>
+<td class="cuerpo_tabla_centro">2.243,21</td>
+<td class="cuerpo_tabla_centro">10,66</td>
+<td class="cuerpo_tabla_centro">16.842,61</td>
+<td class="cuerpo_tabla_centro">6,04405</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">33,67957051</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0109</td>
+<td class="cuerpo_tabla_centro">PUNTA GRANDE 7, DIÉSEL 3</td>
+<td class="cuerpo_tabla_centro">6,49</td>
+<td class="cuerpo_tabla_centro">4,2</td>
+<td class="cuerpo_tabla_centro">06/10/1987</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0055</td>
+<td class="cuerpo_tabla_centro">1.599,88</td>
+<td class="cuerpo_tabla_centro">2.243,21</td>
+<td class="cuerpo_tabla_centro">10,66</td>
+<td class="cuerpo_tabla_centro">16.842,61</td>
+<td class="cuerpo_tabla_centro">6,04405</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">33,81121183</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0115</td>
+<td class="cuerpo_tabla_centro">PUNTA GRANDE 9, GAS 1</td>
+<td class="cuerpo_tabla_centro">19,6</td>
+<td class="cuerpo_tabla_centro">6,79</td>
+<td class="cuerpo_tabla_centro">01/06/1988</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0059</td>
+<td class="cuerpo_tabla_centro">23.411,65</td>
+<td class="cuerpo_tabla_centro">2.530,00</td>
+<td class="cuerpo_tabla_centro">3,24</td>
+<td class="cuerpo_tabla_centro">14.210,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">34,53837956</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0194</td>
+<td class="cuerpo_tabla_centro">PUNTA GRANDE DIÉSEL 10</td>
+<td class="cuerpo_tabla_centro">17,6</td>
+<td class="cuerpo_tabla_centro">11,8</td>
+<td class="cuerpo_tabla_centro">01/03/2006</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0056</td>
+<td class="cuerpo_tabla_centro">9.556,47</td>
+<td class="cuerpo_tabla_centro">1.039,20</td>
+<td class="cuerpo_tabla_centro">36,41</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">206,7067848</td>
+<td class="cuerpo_tabla_centro">21,81331169</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0193</td>
+<td class="cuerpo_tabla_centro">PUNTA GRANDE DIÉSEL 9</td>
+<td class="cuerpo_tabla_centro">17,6</td>
+<td class="cuerpo_tabla_centro">11,8</td>
+<td class="cuerpo_tabla_centro">01/02/2006</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
+<td class="cuerpo_tabla_centro">IT-0056</td>
+<td class="cuerpo_tabla_centro">9.556,47</td>
+<td class="cuerpo_tabla_centro">1.039,20</td>
+<td class="cuerpo_tabla_centro">36,41</td>
+<td class="cuerpo_tabla_centro">57.689,14</td>
+<td class="cuerpo_tabla_centro">6,74387</td>
+<td class="cuerpo_tabla_centro">206,7067848</td>
+<td class="cuerpo_tabla_centro">21,67986737</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0215</td>
+<td class="cuerpo_tabla_centro">GUÍA DE ISORA GAS 1</td>
+<td class="cuerpo_tabla_centro">43,1</td>
+<td class="cuerpo_tabla_centro">4,8</td>
+<td class="cuerpo_tabla_centro">01/03/2006</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0057</td>
+<td class="cuerpo_tabla_centro">9.167,14</td>
+<td class="cuerpo_tabla_centro">2.154,04</td>
+<td class="cuerpo_tabla_centro">1,59</td>
+<td class="cuerpo_tabla_centro">8.120,00</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">818,493</td>
+<td class="cuerpo_tabla_centro">18,06</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">Denominación Ciclo</th>
+<th class="cabeza_tabla">Denominación Grupo</th>
+<th class="cabeza_tabla">Potencia Neta</th>
+<th class="cabeza_tabla">Fecha de alta</th>
+<th class="cabeza_tabla">Número de Registro</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">BARRANCO DE TIRAJANA, CC1</td>
+<td class="cuerpo_tabla_izq">BARRANCO DE TIRAJANA 5, GAS 3 (CC1)</td>
+<td class="cuerpo_tabla_centro">68,700</td>
+<td class="cuerpo_tabla_centro">19/07/2003</td>
+<td class="cuerpo_tabla_centro">RO1-1051</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">BARRANCO DE TIRAJANA 6, GAS 4 (CC1)</td>
+<td class="cuerpo_tabla_centro">68,700</td>
+<td class="cuerpo_tabla_centro">21/08/2003</td>
+<td class="cuerpo_tabla_centro">RO1-1052</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">BARRANCO DE TIRAJANA 7, VAPOR 3 (CC1)</td>
+<td class="cuerpo_tabla_centro">68,7</td>
+<td class="cuerpo_tabla_centro">22/11/2004</td>
+<td class="cuerpo_tabla_centro">RO1-2000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">BARRANCO DE TIRAJANA, CC2</td>
+<td class="cuerpo_tabla_izq">BARRANCO DE TIRAJANA 8, GAS 5 CC2</td>
+<td class="cuerpo_tabla_centro">75,000</td>
+<td class="cuerpo_tabla_centro">01/08/2006</td>
+<td class="cuerpo_tabla_centro">RO2-0188</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">BARRANCO DE TIRAJANA 9, GAS 6 CC2</td>
+<td class="cuerpo_tabla_centro">75,000</td>
+<td class="cuerpo_tabla_centro">27/11/2006</td>
+<td class="cuerpo_tabla_centro">RO2-0189</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">BARRANCO DE TIRAJANA 10, VAPOR 4 CC2</td>
+<td class="cuerpo_tabla_centro">77,000</td>
+<td class="cuerpo_tabla_centro">18/06/2008</td>
+<td class="cuerpo_tabla_centro">RO2-0190</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">GRANADILLA, CC1</td>
+<td class="cuerpo_tabla_izq">GRANADILLA 7, GAS 3 (CC1)</td>
+<td class="cuerpo_tabla_centro">68,700</td>
+<td class="cuerpo_tabla_centro">21/09/2003</td>
+<td class="cuerpo_tabla_centro">RO1-1055</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">GRANADILLA 8, GAS 4 (CC1)</td>
+<td class="cuerpo_tabla_centro">68,700</td>
+<td class="cuerpo_tabla_centro">09/04/2004</td>
+<td class="cuerpo_tabla_centro">RO1-1056</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">GRANADILLA 9, VAPOR, 3 (CC1)</td>
+<td class="cuerpo_tabla_centro">68,700</td>
+<td class="cuerpo_tabla_centro">01/06/2005</td>
+<td class="cuerpo_tabla_centro">RO1-1087</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">GRANADILLA, CC2</td>
+<td class="cuerpo_tabla_izq">GRANADILLA 10, TG5 (CC2)</td>
+<td class="cuerpo_tabla_centro">75,000</td>
+<td class="cuerpo_tabla_centro">16/06/2010</td>
+<td class="cuerpo_tabla_centro">RO1-2015</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">GRANADILLA 11, TG6 (CC2)</td>
+<td class="cuerpo_tabla_centro">75,000</td>
+<td class="cuerpo_tabla_centro">09/07/2010</td>
+<td class="cuerpo_tabla_centro">RO1-2016</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">GRANADILLA 12, VAPOR 4 (CC2)</td>
+<td class="cuerpo_tabla_centro">76,200</td>
+<td class="cuerpo_tabla_centro">21/10/2011</td>
+<td class="cuerpo_tabla_centro">RO1-1063</td>
+</tr>
+</tbody>
+</table>
+
+SISTEMA ELÉCTRICO DE CEUTA Y MELILLA
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="3">Número de Registro</th>
+<th class="cabeza_tabla" rowspan="3">Denominación Central</th>
+<th class="cabeza_tabla" rowspan="3">Potencia Neta</th>
+<th class="cabeza_tabla" rowspan="3">Mínimo Técnico declarado</th>
+<th class="cabeza_tabla" rowspan="3">Fecha de alta</th>
+<th class="cabeza_tabla" rowspan="3">Combustible a efectos de este Real Decreto</th>
+<th class="cabeza_tabla" rowspan="3">Instalación tipo</th>
+<th class="cabeza_tabla" colspan="3">Datos técnicos despacho</th>
+<th class="cabeza_tabla" colspan="3">Daos de despacho</th>
+<th class="cabeza_tabla" rowspan="2">Datos costes variables de operación y mantenimiento despacho</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="3">Costes de funcionamiento</th>
+<th class="cabeza_tabla" colspan="3">Costes arranque</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">A (th/h)</th>
+<th class="cabeza_tabla">B (th/h.MW)</th>
+<th class="cabeza_tabla">C (th/h.MW2)</th>
+<th class="cabeza_tabla">A' (th)</th>
+<th class="cabeza_tabla">B' (horas)</th>
+<th class="cabeza_tabla">D (€/arranque)</th>
+<th class="cabeza_tabla">O&amp;MVDi (€/MWh )</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0020</td>
+<td class="cuerpo_tabla_centro">MELILLA 5, G-5</td>
+<td class="cuerpo_tabla_centro">5,3</td>
+<td class="cuerpo_tabla_centro">2,82</td>
+<td class="cuerpo_tabla_centro">01/12/1980</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.213,64</td>
+<td class="cuerpo_tabla_centro">2.232,14</td>
+<td class="cuerpo_tabla_centro">19,52</td>
+<td class="cuerpo_tabla_centro">14.065,26</td>
+<td class="cuerpo_tabla_centro">6,04419</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">40,32268879</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0021</td>
+<td class="cuerpo_tabla_centro">MELILLA 6, G-6</td>
+<td class="cuerpo_tabla_centro">5,3</td>
+<td class="cuerpo_tabla_centro">2,82</td>
+<td class="cuerpo_tabla_centro">01/11/1980</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.213,64</td>
+<td class="cuerpo_tabla_centro">2.232,14</td>
+<td class="cuerpo_tabla_centro">19,52</td>
+<td class="cuerpo_tabla_centro">14.065,26</td>
+<td class="cuerpo_tabla_centro">6,04419</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">40,87740569</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0024</td>
+<td class="cuerpo_tabla_centro">MELILLA 9, G-9</td>
+<td class="cuerpo_tabla_centro">11,5</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro">01/07/1991</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0106</td>
+<td class="cuerpo_tabla_centro">19.938,33</td>
+<td class="cuerpo_tabla_centro">2.202,48</td>
+<td class="cuerpo_tabla_centro">29,24</td>
+<td class="cuerpo_tabla_centro">13.850,36</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3873,331944</td>
+<td class="cuerpo_tabla_centro">133,1744561</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0025</td>
+<td class="cuerpo_tabla_centro">MELILLA 10, G-10</td>
+<td class="cuerpo_tabla_centro">8,51</td>
+<td class="cuerpo_tabla_centro">4,58</td>
+<td class="cuerpo_tabla_centro">01/06/1997</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">15.142,71</td>
+<td class="cuerpo_tabla_centro">2,88669</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">30,20301242</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0175</td>
+<td class="cuerpo_tabla_centro">MELILLA 11, DIÉSEL 10</td>
+<td class="cuerpo_tabla_centro">11,8</td>
+<td class="cuerpo_tabla_centro">6,68</td>
+<td class="cuerpo_tabla_centro">01/10/2002</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">15.172,71</td>
+<td class="cuerpo_tabla_centro">2,88669</td>
+<td class="cuerpo_tabla_centro">161,5685504</td>
+<td class="cuerpo_tabla_centro">26,97183613</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0027</td>
+<td class="cuerpo_tabla_centro">MELILLA 12, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">01/01/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0101</td>
+<td class="cuerpo_tabla_centro">2.060,90</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">65,52007469</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0028</td>
+<td class="cuerpo_tabla_centro">MELILLA 13, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">01/01/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0101</td>
+<td class="cuerpo_tabla_centro">2.060,90</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">65,52007469</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0029</td>
+<td class="cuerpo_tabla_centro">MELILLA 14, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">01/01/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0101</td>
+<td class="cuerpo_tabla_centro">2.060,90</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">65,52007469</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0030</td>
+<td class="cuerpo_tabla_centro">MELILLA 15, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">01/01/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0101</td>
+<td class="cuerpo_tabla_centro">2.060,90</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">65,52007469</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0031</td>
+<td class="cuerpo_tabla_centro">MELILLA 16, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">01/01/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0101</td>
+<td class="cuerpo_tabla_centro">2.060,90</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">65,52007469</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0032</td>
+<td class="cuerpo_tabla_centro">MELILLA 17, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">01/01/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0101</td>
+<td class="cuerpo_tabla_centro">2.060,90</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">65,52007469</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0033</td>
+<td class="cuerpo_tabla_centro">MELILLA 18, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">01/01/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0101</td>
+<td class="cuerpo_tabla_centro">2.060,90</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">65,52007469</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0034</td>
+<td class="cuerpo_tabla_centro">MELILLA 19, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">01/01/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0101</td>
+<td class="cuerpo_tabla_centro">2.060,90</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">65,52007469</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0035</td>
+<td class="cuerpo_tabla_centro">MELILLA 20, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">01/01/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0101</td>
+<td class="cuerpo_tabla_centro">2.060,90</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">65,52007469</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0036</td>
+<td class="cuerpo_tabla_centro">MELILLA 21, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">01/01/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0101</td>
+<td class="cuerpo_tabla_centro">2.060,90</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">65,52007469</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0037</td>
+<td class="cuerpo_tabla_centro">MELILLA 22, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">01/01/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0101</td>
+<td class="cuerpo_tabla_centro">2.060,90</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">65,52007469</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0038</td>
+<td class="cuerpo_tabla_centro">MELILLA 23, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">0,8</td>
+<td class="cuerpo_tabla_centro">01/01/2003</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0101</td>
+<td class="cuerpo_tabla_centro">2.060,90</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">5.075,00</td>
+<td class="cuerpo_tabla_centro">1,4429</td>
+<td class="cuerpo_tabla_centro">70,61428497</td>
+<td class="cuerpo_tabla_centro">65,52007469</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0180</td>
+<td class="cuerpo_tabla_centro">MELILLA 12</td>
+<td class="cuerpo_tabla_centro">11,8</td>
+<td class="cuerpo_tabla_centro">6,63</td>
+<td class="cuerpo_tabla_centro">12/02/2007</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">15.172,71</td>
+<td class="cuerpo_tabla_centro">2,88669</td>
+<td class="cuerpo_tabla_centro">161,5685504</td>
+<td class="cuerpo_tabla_centro">27,09618781</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0185</td>
+<td class="cuerpo_tabla_centro">MELILLA 13</td>
+<td class="cuerpo_tabla_centro">11,8</td>
+<td class="cuerpo_tabla_centro">6,63</td>
+<td class="cuerpo_tabla_centro">15/04/2008</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">15.172,71</td>
+<td class="cuerpo_tabla_centro">2,88669</td>
+<td class="cuerpo_tabla_centro">161,5685504</td>
+<td class="cuerpo_tabla_centro">27,09618781</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0011</td>
+<td class="cuerpo_tabla_centro">CEUTA 1, G-1</td>
+<td class="cuerpo_tabla_centro">5,3</td>
+<td class="cuerpo_tabla_centro">2,84</td>
+<td class="cuerpo_tabla_centro">01/10/1980</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.213,64</td>
+<td class="cuerpo_tabla_centro">2.232,14</td>
+<td class="cuerpo_tabla_centro">19,52</td>
+<td class="cuerpo_tabla_centro">14.065,26</td>
+<td class="cuerpo_tabla_centro">6,04419</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">44,04850902</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0026</td>
+<td class="cuerpo_tabla_centro">CEUTA 2, G-2</td>
+<td class="cuerpo_tabla_centro">5,3</td>
+<td class="cuerpo_tabla_centro">2,84</td>
+<td class="cuerpo_tabla_centro">01/11/1980</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.213,64</td>
+<td class="cuerpo_tabla_centro">2.232,14</td>
+<td class="cuerpo_tabla_centro">19,52</td>
+<td class="cuerpo_tabla_centro">14.065,26</td>
+<td class="cuerpo_tabla_centro">6,04419</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">44,10319223</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0014</td>
+<td class="cuerpo_tabla_centro">CEUTA 5, G-3</td>
+<td class="cuerpo_tabla_centro">1,9</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_centro">01/06/1985</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_centro">-</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0015</td>
+<td class="cuerpo_tabla_centro">CEUTA 6, G-6</td>
+<td class="cuerpo_tabla_centro">5,3</td>
+<td class="cuerpo_tabla_centro">2,84</td>
+<td class="cuerpo_tabla_centro">01/11/1986</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.213,64</td>
+<td class="cuerpo_tabla_centro">2.232,14</td>
+<td class="cuerpo_tabla_centro">19,52</td>
+<td class="cuerpo_tabla_centro">14.065,26</td>
+<td class="cuerpo_tabla_centro">6,04419</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">43,86421515</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0016</td>
+<td class="cuerpo_tabla_centro">CEUTA 7, G-7</td>
+<td class="cuerpo_tabla_centro">6,21</td>
+<td class="cuerpo_tabla_centro">2,84</td>
+<td class="cuerpo_tabla_centro">01/07/1993</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.588,74</td>
+<td class="cuerpo_tabla_centro">2.247,64</td>
+<td class="cuerpo_tabla_centro">10,23</td>
+<td class="cuerpo_tabla_centro">16.842,61</td>
+<td class="cuerpo_tabla_centro">6,04405</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">42,0555426</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0177</td>
+<td class="cuerpo_tabla_centro">CEUTA 8, G-8</td>
+<td class="cuerpo_tabla_centro">8,51</td>
+<td class="cuerpo_tabla_centro">4,6</td>
+<td class="cuerpo_tabla_centro">01/12/1998</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">15.138,95</td>
+<td class="cuerpo_tabla_centro">2,88669</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">32,0557959</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0178</td>
+<td class="cuerpo_tabla_centro">CEUTA 9, G-9</td>
+<td class="cuerpo_tabla_centro">11,5</td>
+<td class="cuerpo_tabla_centro">6,6</td>
+<td class="cuerpo_tabla_centro">01/12/2001</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.203,38</td>
+<td class="cuerpo_tabla_centro">2.038,81</td>
+<td class="cuerpo_tabla_centro">9,45</td>
+<td class="cuerpo_tabla_centro">58.446,37</td>
+<td class="cuerpo_tabla_centro">5,52231</td>
+<td class="cuerpo_tabla_centro">156,9079191</td>
+<td class="cuerpo_tabla_centro">24,19693791</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0184</td>
+<td class="cuerpo_tabla_centro">CEUTA, GRUPO 11</td>
+<td class="cuerpo_tabla_centro">11,8</td>
+<td class="cuerpo_tabla_centro">6,6</td>
+<td class="cuerpo_tabla_centro">13/03/2009</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">15.172,71</td>
+<td class="cuerpo_tabla_centro">2,88669</td>
+<td class="cuerpo_tabla_centro">161,5685504</td>
+<td class="cuerpo_tabla_centro">27,05435912</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0204</td>
+<td class="cuerpo_tabla_centro">CEUTA, GRUPO 12</td>
+<td class="cuerpo_tabla_centro">13,3</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro">01/12/2010</td>
+<td class="cuerpo_tabla_centro">Gasoil</td>
+<td class="cuerpo_tabla_centro">IT-0107</td>
+<td class="cuerpo_tabla_centro">31.391,05</td>
+<td class="cuerpo_tabla_centro">1.773,42</td>
+<td class="cuerpo_tabla_centro">11,58</td>
+<td class="cuerpo_tabla_centro">10.094,78</td>
+<td class="cuerpo_tabla_centro">0,21715</td>
+<td class="cuerpo_tabla_centro">3.720,04</td>
+<td class="cuerpo_tabla_centro">32,7666851</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0181</td>
+<td class="cuerpo_tabla_centro">CEUTA, GRUPO 10</td>
+<td class="cuerpo_tabla_centro">11,8</td>
+<td class="cuerpo_tabla_centro">6,6</td>
+<td class="cuerpo_tabla_centro">03/07/2008</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">15.172,71</td>
+<td class="cuerpo_tabla_centro">2,88669</td>
+<td class="cuerpo_tabla_centro">161,5685504</td>
+<td class="cuerpo_tabla_centro">27,15937907</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0206</td>
+<td class="cuerpo_tabla_centro">CEUTA, GRUPO 13</td>
+<td class="cuerpo_tabla_centro">11,8</td>
+<td class="cuerpo_tabla_centro">6,6</td>
+<td class="cuerpo_tabla_centro">16/06/2011</td>
+<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
+<td class="cuerpo_tabla_centro">IT-0103</td>
+<td class="cuerpo_tabla_centro">1.286,06</td>
+<td class="cuerpo_tabla_centro">2.511,43</td>
+<td class="cuerpo_tabla_centro">6,13</td>
+<td class="cuerpo_tabla_centro">15.172,71</td>
+<td class="cuerpo_tabla_centro">2,88669</td>
+<td class="cuerpo_tabla_centro">161,5685504</td>
+<td class="cuerpo_tabla_centro">27,13535559</td>
+</tr>
+</tbody>
+</table>
+
+En el caso de que en una transición entre modos de operación de un ciclo combinado el coste de la misma calculado a partir de los valores A’, B’ y D de las tablas anteriores resultará un valor negativo, se tomará para dicha transición un coste de transición nulo con el objeto de no distorsionar el despacho económico.
+
+> Se añade un último párrafo por la disposición final 2.4 de la Orden TED/1315/2022, de 23 de diciembre. [Ref. BOE-A-2022-23752](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23752)
+
+> Se modifica por el apartado tercero, en los términos referidos en el Anexo II, de la Orden TEC/1260/2019, de 26 de diciembre. [Ref. BOE-A-2019-18620](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18620)
+
+> Se modifica por la disposición final 3.5 a 21 de la Orden IET/2735/2015, de 17 de diciembre. [Ref. BOE-A-2015-13782](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13782)
+
+## ANEXO XIV — Parámetros a aplicar para el cálculo de la retribución desde el 1 de enero de 2012 hasta la entrada en vigor del real decreto
+
+1\. Los valores unitarios de operación y mantenimiento variable en €/Mwh de las instalaciones tipo serán los siguientes:
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">Tecnología</th>
+<th class="cabeza_tabla" rowspan="2">Intervalo Potencia Neta (MW)</th>
+<th class="cabeza_tabla" colspan="3">2012</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Baleares</th>
+<th class="cabeza_tabla">Canarias</th>
+<th class="cabeza_tabla">Ceuta y Melilla</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">22,28</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
+<td class="cuerpo_tabla_centro">11,61</td>
+<td class="cuerpo_tabla_centro">11,53</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">11,94</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">68,90</td>
+<td class="cuerpo_tabla_centro">65,35</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">34,38</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">29,51</td>
+<td class="cuerpo_tabla_centro">28,21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
+<td class="cuerpo_tabla_centro">21,21</td>
+<td class="cuerpo_tabla_centro">21,14</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
+<td class="cuerpo_tabla_centro">13,32</td>
+<td class="cuerpo_tabla_centro">18,06</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
+<td class="cuerpo_tabla_centro">63,69</td>
+<td class="cuerpo_tabla_centro">69,90</td>
+<td class="cuerpo_tabla_centro">128,79</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
+<td class="cuerpo_tabla_centro">25,92</td>
+<td class="cuerpo_tabla_centro">34,11</td>
+<td class="cuerpo_tabla_centro">36,19</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
+<td class="cuerpo_tabla_centro">23,72</td>
+<td class="cuerpo_tabla_centro">23,30</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4,85</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
+<td class="cuerpo_tabla_centro">0,00</td>
+<td class="cuerpo_tabla_centro">8,16</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
+<td class="cuerpo_tabla_centro">0,00</td>
+<td class="cuerpo_tabla_centro">7,47</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
+<td class="cuerpo_tabla_centro">0,00</td>
+<td class="cuerpo_tabla_centro">5,20</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_centro">23,78</td>
+<td class="cuerpo_tabla_centro">18,79</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_centro">17,03</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 3 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">Tecnología</th>
+<th class="cabeza_tabla" rowspan="2">Intervalo Potencia Neta (MW)</th>
+<th class="cabeza_tabla" colspan="3">2013</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Baleares</th>
+<th class="cabeza_tabla">Canarias</th>
+<th class="cabeza_tabla">Ceuta y Melilla</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">22,11</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
+<td class="cuerpo_tabla_centro">11,52</td>
+<td class="cuerpo_tabla_centro">11,44</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">11,85</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">68,35</td>
+<td class="cuerpo_tabla_centro">64,83</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">34,10</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">29,28</td>
+<td class="cuerpo_tabla_centro">27,99</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
+<td class="cuerpo_tabla_centro">21,04</td>
+<td class="cuerpo_tabla_centro">20,97</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
+<td class="cuerpo_tabla_centro">13,21</td>
+<td class="cuerpo_tabla_centro">17,92</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
+<td class="cuerpo_tabla_centro">63,18</td>
+<td class="cuerpo_tabla_centro">69,34</td>
+<td class="cuerpo_tabla_centro">127,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
+<td class="cuerpo_tabla_centro">25,71</td>
+<td class="cuerpo_tabla_centro">33,83</td>
+<td class="cuerpo_tabla_centro">35,90</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
+<td class="cuerpo_tabla_centro">23,53</td>
+<td class="cuerpo_tabla_centro">23,12</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4,82</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">8,10</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7,41</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5,16</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_centro">23,59</td>
+<td class="cuerpo_tabla_centro">18,64</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_centro">16,90</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 3 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">Tecnología</th>
+<th class="cabeza_tabla" rowspan="2">Intervalo Potencia Neta (MW)</th>
+<th class="cabeza_tabla" colspan="3">2014</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Baleares</th>
+<th class="cabeza_tabla">Canarias</th>
+<th class="cabeza_tabla">Ceuta y Melilla</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">21,93</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
+<td class="cuerpo_tabla_centro">11,42</td>
+<td class="cuerpo_tabla_centro">11,35</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">11,75</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">67,80</td>
+<td class="cuerpo_tabla_centro">64,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">33,83</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">29,04</td>
+<td class="cuerpo_tabla_centro">27,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
+<td class="cuerpo_tabla_centro">20,87</td>
+<td class="cuerpo_tabla_centro">20,80</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
+<td class="cuerpo_tabla_centro">13,11</td>
+<td class="cuerpo_tabla_centro">17,78</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
+<td class="cuerpo_tabla_centro">62,68</td>
+<td class="cuerpo_tabla_centro">68,79</td>
+<td class="cuerpo_tabla_centro">126,74</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
+<td class="cuerpo_tabla_centro">25,51</td>
+<td class="cuerpo_tabla_centro">33,56</td>
+<td class="cuerpo_tabla_centro">35,61</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
+<td class="cuerpo_tabla_centro">23,34</td>
+<td class="cuerpo_tabla_centro">22,93</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4,78</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">8,03</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7,35</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5,12</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_centro">23,40</td>
+<td class="cuerpo_tabla_centro">18,49</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_centro">16,76</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 3 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+Los valores unitarios de operación y mantenimiento variable a aplicar durante los meses del año 2015 en los que sea de aplicación la disposición transitoria séptima serán los establecidos en el anexo XII.6.
+
+2\. El parámetro «d» de la retribución por costes variables de operación y mantenimiento adicionales debidos al arranque, en euros por arranque, de las instalaciones tipo para los años 2012, 2013 y 2014, será:
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">Tecnología</th>
+<th class="cabeza_tabla" rowspan="2">Intervalo Potencia Neta (MW)</th>
+<th class="cabeza_tabla" colspan="3">2012</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Baleares</th>
+<th class="cabeza_tabla">Canarias</th>
+<th class="cabeza_tabla">Ceuta y Melilla</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">127,953</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
+<td class="cuerpo_tabla_der">107,523</td>
+<td class="cuerpo_tabla_der">127,953</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">127,953</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">70,964</td>
+<td class="cuerpo_tabla_der">70,614</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">71,080</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">157,984</td>
+<td class="cuerpo_tabla_der">158,573</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
+<td class="cuerpo_tabla_der">180,028</td>
+<td class="cuerpo_tabla_der">206,707</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
+<td class="cuerpo_tabla_der">751,045</td>
+<td class="cuerpo_tabla_der">818,493</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
+<td class="cuerpo_tabla_der">3.669,609</td>
+<td class="cuerpo_tabla_der">3.873,332</td>
+<td class="cuerpo_tabla_der">3.873,332</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
+<td class="cuerpo_tabla_der">3.479,191</td>
+<td class="cuerpo_tabla_der">3.873,332</td>
+<td class="cuerpo_tabla_der">3.873,332</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
+<td class="cuerpo_tabla_der">3.692,109</td>
+<td class="cuerpo_tabla_der">3.884,837</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
+<td class="cuerpo_tabla_der">11.116,770</td>
+<td class="cuerpo_tabla_der">13.183,894</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">16.080,422</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">9.048,351</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">11.114,441</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">12.038,118</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 1TG</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">11.116,770</td>
+<td class="cuerpo_tabla_der">13.183,891</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">27.791,925</td>
+<td class="cuerpo_tabla_der">33.072,391</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">27.791,925</td>
+<td class="cuerpo_tabla_der">33.072,391</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 1TG</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">10.796,094</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">32.383,095</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">32.383,095</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 3 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">32.383,095</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">Tecnología</th>
+<th class="cabeza_tabla" rowspan="2">Intervalo Potencia Neta (MW)</th>
+<th class="cabeza_tabla" colspan="3">2013</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Baleares</th>
+<th class="cabeza_tabla">Canarias</th>
+<th class="cabeza_tabla">Ceuta y Melilla</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">126,929</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
+<td class="cuerpo_tabla_der">106,663</td>
+<td class="cuerpo_tabla_der">126,929</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">126,929</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">70,396</td>
+<td class="cuerpo_tabla_der">70,049</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">70,512</td>
+<td class="cuerpo_tabla_der">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">156,720</td>
+<td class="cuerpo_tabla_der">157,304</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
+<td class="cuerpo_tabla_der">178,588</td>
+<td class="cuerpo_tabla_der">205,053</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
+<td class="cuerpo_tabla_der">745,037</td>
+<td class="cuerpo_tabla_der">811,945</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
+<td class="cuerpo_tabla_der">3.640,252</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">3.842,345</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
+<td class="cuerpo_tabla_der">3.451,357</td>
+<td class="cuerpo_tabla_der">3.842,345</td>
+<td class="cuerpo_tabla_der">3.842,345</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
+<td class="cuerpo_tabla_der">3.662,572</td>
+<td class="cuerpo_tabla_der">3.853,758</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
+<td class="cuerpo_tabla_der">11.027,836</td>
+<td class="cuerpo_tabla_der">13.078,423</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">15.951,779</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">8.975,964</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">11.025,525</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">11.941,813</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 1TG</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">11.027,836</td>
+<td class="cuerpo_tabla_der">13.078,420</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">27.569,590</td>
+<td class="cuerpo_tabla_der">32.807,812</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">27.569,590</td>
+<td class="cuerpo_tabla_der">32.807,812</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 1TG</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">10.709,725</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">32.124,030</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">32.124,030</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 3 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">32.124,030</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">Tecnología</th>
+<th class="cabeza_tabla" rowspan="2">Intervalo Potencia Neta (MW)</th>
+<th class="cabeza_tabla" colspan="3">2014</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Baleares</th>
+<th class="cabeza_tabla">Canarias</th>
+<th class="cabeza_tabla">Ceuta y Melilla</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">125,914</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
+<td class="cuerpo_tabla_der">105,810</td>
+<td class="cuerpo_tabla_der">125,914</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">125,914</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">69,833</td>
+<td class="cuerpo_tabla_der">70,049</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">69,948</td>
+<td class="cuerpo_tabla_der">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">155,466</td>
+<td class="cuerpo_tabla_der">157,304</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
+<td class="cuerpo_tabla_der">177,159</td>
+<td class="cuerpo_tabla_der">203,413</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
+<td class="cuerpo_tabla_der">739,076</td>
+<td class="cuerpo_tabla_der">805,449</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
+<td class="cuerpo_tabla_der">3.611,130</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">3.842,345</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
+<td class="cuerpo_tabla_der">3.423,746</td>
+<td class="cuerpo_tabla_der">3.811,607</td>
+<td class="cuerpo_tabla_der">3.842,345</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
+<td class="cuerpo_tabla_der">3.633,272</td>
+<td class="cuerpo_tabla_der">3.822,928</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
+<td class="cuerpo_tabla_der">10.939,613</td>
+<td class="cuerpo_tabla_der">12.973,795</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">15.824,164</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">8.904,156</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">10.937,321</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">11.846,279</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 1TG</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">10.939,613</td>
+<td class="cuerpo_tabla_der">12.973,793</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">27.349,033</td>
+<td class="cuerpo_tabla_der">32.545,349</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">27.349,033</td>
+<td class="cuerpo_tabla_der">32.545,349</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 1TG</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">10.624,047</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">31.867,038</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">31.867,038</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Funcionamiento 3 TG+1 TV</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">31.867,038</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+</tbody>
+</table>
+
+El parámetro d a aplicar durante los meses del año 2015 en los que sea de aplicación la disposición transitoria séptima será el establecido en el anexo XII.7
+
+3\. De acuerdo con lo indicado en la disposición transitoria séptima.2.b) 3.º se obtienen los siguientes precios de combustibles:
+
+a) Combustibles fósiles distintos de gas natural:
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2"> </th>
+<th class="cabeza_tabla" colspan="5">Primer semestre 2012 - Precios del producto €/Tm</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Hulla</th>
+<th class="cabeza_tabla">Fuel oil BIA 1% S / 0,3 % S</th>
+<th class="cabeza_tabla">Fuel oil BIA 0,73% S</th>
+<th class="cabeza_tabla">Diésel oil</th>
+<th class="cabeza_tabla">GasoiL 0,1% S</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Canarias</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">541,31</td>
+<td class="cuerpo_tabla_centro">582,34</td>
+<td class="cuerpo_tabla_centro">699,60</td>
+<td class="cuerpo_tabla_centro">740,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Baleares</td>
+<td class="cuerpo_tabla_centro">74,00</td>
+<td class="cuerpo_tabla_centro">548,76</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">746,23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ceuta y Melilla</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">548,76</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">706,10</td>
+<td class="cuerpo_tabla_centro">746,23</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2"> </th>
+<th class="cabeza_tabla" colspan="5">Segundo semestre 2012 - Precios del producto €/Tm</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Hulla</th>
+<th class="cabeza_tabla">Fuel oil BIA 1% S / 0,3 % S</th>
+<th class="cabeza_tabla">Fuel oil BIA 0,73% S</th>
+<th class="cabeza_tabla">Diésel oil</th>
+<th class="cabeza_tabla">Gasoil 0,1% S</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Canarias</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">514,82</td>
+<td class="cuerpo_tabla_centro">552,85</td>
+<td class="cuerpo_tabla_centro">699,39</td>
+<td class="cuerpo_tabla_centro">745,96</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Baleares</td>
+<td class="cuerpo_tabla_centro">70,66</td>
+<td class="cuerpo_tabla_centro">516,67</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">748,02</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ceuta y Melilla</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">516,67</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">702,69</td>
+<td class="cuerpo_tabla_centro">748,02</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2"> </th>
+<th class="cabeza_tabla" colspan="5">Primer semestre 2013 - Precios del producto €/Tm</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Hulla</th>
+<th class="cabeza_tabla">Fuel oil BIA 1% S / 0,3 % S</th>
+<th class="cabeza_tabla">Fuel oil BIA 0,73% S</th>
+<th class="cabeza_tabla">Diésel oil</th>
+<th class="cabeza_tabla">Gasoil 0,1% S</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Canarias</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">480,06</td>
+<td class="cuerpo_tabla_centro">525,40</td>
+<td class="cuerpo_tabla_centro">654,49</td>
+<td class="cuerpo_tabla_centro">696,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Baleares</td>
+<td class="cuerpo_tabla_centro">63,69</td>
+<td class="cuerpo_tabla_centro">482,52</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">700,29</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ceuta y Melilla</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">482,52</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">659,36</td>
+<td class="cuerpo_tabla_centro">700,29</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2"> </th>
+<th class="cabeza_tabla" colspan="5">Segundo semestre 2013 - Precios del producto €/Tm</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Hulla</th>
+<th class="cabeza_tabla">Fuel oil BIA 1% S / 0,3 % S</th>
+<th class="cabeza_tabla">Fuel oil BIA 0,73% S</th>
+<th class="cabeza_tabla">Diésel oil</th>
+<th class="cabeza_tabla">Gasoil 0,1% S</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Canarias</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">455,94</td>
+<td class="cuerpo_tabla_centro">513,25</td>
+<td class="cuerpo_tabla_centro">649,99</td>
+<td class="cuerpo_tabla_centro">694,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Baleares</td>
+<td class="cuerpo_tabla_centro">59,41</td>
+<td class="cuerpo_tabla_centro">461,20</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">697,23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ceuta y Melilla</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">461,20</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">654,13</td>
+<td class="cuerpo_tabla_centro">697,23</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2"> </th>
+<th class="cabeza_tabla" colspan="5">Primer semestre 2014 - Precios del producto €/Tm</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Hulla</th>
+<th class="cabeza_tabla">Fuel oil BIA 1% S / 0,3 % S</th>
+<th class="cabeza_tabla">Fuel oil BIA 0,73% S</th>
+<th class="cabeza_tabla">Diésel oil</th>
+<th class="cabeza_tabla">Gasoil 0,1% S</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Canarias</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">460,58</td>
+<td class="cuerpo_tabla_centro">513,74</td>
+<td class="cuerpo_tabla_centro">624,37</td>
+<td class="cuerpo_tabla_centro">667,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Baleares</td>
+<td class="cuerpo_tabla_centro">56,12</td>
+<td class="cuerpo_tabla_centro">469,88</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">667,29</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ceuta y Melilla</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">469,88</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">626,65</td>
+<td class="cuerpo_tabla_centro">667,29</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2"> </th>
+<th class="cabeza_tabla" colspan="5">Segundo semestre 2014 - Precios del producto €/Tm</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Hulla</th>
+<th class="cabeza_tabla">Fuel oil BIA 1% S / 0,3 % S</th>
+<th class="cabeza_tabla">Fuel oil BIA 0,73% S</th>
+<th class="cabeza_tabla">Diésel oil</th>
+<th class="cabeza_tabla">Gasoil 0,1% S</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Canarias</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">385,94</td>
+<td class="cuerpo_tabla_centro">423,34</td>
+<td class="cuerpo_tabla_centro">560,98</td>
+<td class="cuerpo_tabla_centro">601,03</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Baleares</td>
+<td class="cuerpo_tabla_centro">57,33</td>
+<td class="cuerpo_tabla_centro">394,08</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">602,22</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ceuta y Melilla</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">394,08</td>
+<td class="cuerpo_tabla_centro">–</td>
+<td class="cuerpo_tabla_centro">564,40</td>
+<td class="cuerpo_tabla_centro">602,22</td>
+</tr>
+</tbody>
+</table>
+
+Los precios del producto para el año 2015 serán aprobados por Resolución de la Dirección General de Política Energética y Minas de acuerdo con lo establecido en la disposición transitoria tercera.
+
+La retribución por costes de logística a aplicar para el año 2012, 2013 y 2014 serán los siguientes:
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">2012</th>
+<th class="cabeza_tabla" rowspan="2">Hulla</th>
+<th rowspan="2">
+<p class="cabeza_tabla">Fuel oil BIA 1%</p>
+<p class="cabeza_tabla">0.7-0.73%</p>
+</th>
+<th class="cabeza_tabla" rowspan="2">Fuel oil BIA 0,3%</th>
+<th class="cabeza_tabla" rowspan="2">Diésel oil</th>
+<th class="cabeza_tabla" rowspan="2">Gasoil</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">€/tm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">
+<em>Baleares </em>
+</td>
+<td class="cuerpo_tabla_centro" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mallorca</td>
+<td class="cuerpo_tabla_centro">13,40</td>
+<td class="cuerpo_tabla_centro">40,85</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">44,20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Menorca</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">33,48</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">42,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ibiza-Formentera</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">35,29</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">43,98</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<em>Canarias </em>
+</td>
+<td class="cuerpo_tabla_centro" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tenerife</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">21,03</td>
+<td class="cuerpo_tabla_centro">32,60</td>
+<td class="cuerpo_tabla_centro">21,03</td>
+<td class="cuerpo_tabla_centro">21,03</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Gran Canaria</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">25,49</td>
+<td class="cuerpo_tabla_centro">43,48</td>
+<td class="cuerpo_tabla_centro">31,91</td>
+<td class="cuerpo_tabla_centro">31,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fuerteventura</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">25,49</td>
+<td class="cuerpo_tabla_centro">43,48</td>
+<td class="cuerpo_tabla_centro">38,34</td>
+<td class="cuerpo_tabla_centro">38,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Lanzarote</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">25,49</td>
+<td class="cuerpo_tabla_centro">43,48</td>
+<td class="cuerpo_tabla_centro">35,77</td>
+<td class="cuerpo_tabla_centro">35,77</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">La Palma, Hierro y Gomera</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">38,34</td>
+<td class="cuerpo_tabla_centro">56,32</td>
+<td class="cuerpo_tabla_centro">56,36</td>
+<td class="cuerpo_tabla_centro">35,77</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<em>Ceuta y Melilla </em>
+</td>
+<td class="cuerpo_tabla_centro" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ceuta</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">33,58</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">37,26</td>
+<td class="cuerpo_tabla_centro">37,26</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Melilla</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">60,18</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">66,05</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">2013</th>
+<th class="cabeza_tabla" rowspan="2">Hulla</th>
+<th rowspan="2">
+<p class="cabeza_tabla">Fuel oil BIA 1%</p>
+<p class="cabeza_tabla">0,7-0,73%</p>
+</th>
+<th class="cabeza_tabla" rowspan="2">Fuel oil BIA 0,3%</th>
+<th class="cabeza_tabla" rowspan="2">Diésel oil</th>
+<th class="cabeza_tabla" rowspan="2">Gasoil</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">€/tm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">
+<em>Baleares </em>
+</td>
+<td class="cuerpo_tabla_centro" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mallorca</td>
+<td class="cuerpo_tabla_centro">13,30</td>
+<td class="cuerpo_tabla_centro">40,52</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">43,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Menorca</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">33,21</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">41,83</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ibiza-Formentera</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">35,01</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">43,63</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<em>Canarias </em>
+</td>
+<td class="cuerpo_tabla_centro" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tenerife</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">20,87</td>
+<td class="cuerpo_tabla_centro">32,33</td>
+<td class="cuerpo_tabla_centro">20,87</td>
+<td class="cuerpo_tabla_centro">20,87</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Gran Canaria</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">25,29</td>
+<td class="cuerpo_tabla_centro">43,13</td>
+<td class="cuerpo_tabla_centro">31,66</td>
+<td class="cuerpo_tabla_centro">31,66</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fuerteventura</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">25,29</td>
+<td class="cuerpo_tabla_centro">43,13</td>
+<td class="cuerpo_tabla_centro">38,03</td>
+<td class="cuerpo_tabla_centro">38,03</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Lanzarote</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">25,29</td>
+<td class="cuerpo_tabla_centro">43,13</td>
+<td class="cuerpo_tabla_centro">35,48</td>
+<td class="cuerpo_tabla_centro">35,48</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">La Palma, Hierro y Gomera</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">38,03</td>
+<td class="cuerpo_tabla_centro">55,87</td>
+<td class="cuerpo_tabla_centro">55,90</td>
+<td class="cuerpo_tabla_centro">35,48</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<em>Ceuta y Melilla </em>
+</td>
+<td class="cuerpo_tabla_centro" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ceuta</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">33,31</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">36,97</td>
+<td class="cuerpo_tabla_centro">36,97</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Melilla</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">59,69</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">65,52</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">2014</th>
+<th class="cabeza_tabla" rowspan="2">Hulla</th>
+<th rowspan="2">
+<p class="cabeza_tabla">Fuel oil BIA 1%</p>
+<p class="cabeza_tabla">0,7-0,73%</p>
+</th>
+<th class="cabeza_tabla" rowspan="2">Fuel oil BIA 0,3%</th>
+<th class="cabeza_tabla" rowspan="2">Diésel oil</th>
+<th class="cabeza_tabla" rowspan="2">Gasoil</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">€/tm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">
+<em>Baleares </em>
+</td>
+<td class="cuerpo_tabla_centro" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mallorca</td>
+<td class="cuerpo_tabla_centro">13,19</td>
+<td class="cuerpo_tabla_centro">40,20</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">43,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Menorca</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">32,94</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">41,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ibiza-Formentera</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">34,73</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">43,28</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<em>Canarias </em>
+</td>
+<td class="cuerpo_tabla_centro" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tenerife</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">20,70</td>
+<td class="cuerpo_tabla_centro">32,08</td>
+<td class="cuerpo_tabla_centro">20,70</td>
+<td class="cuerpo_tabla_centro">20,70</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Gran Canaria</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">25,08</td>
+<td class="cuerpo_tabla_centro">42,78</td>
+<td class="cuerpo_tabla_centro">31,41</td>
+<td class="cuerpo_tabla_centro">31,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fuerteventura</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">25,08</td>
+<td class="cuerpo_tabla_centro">42,78</td>
+<td class="cuerpo_tabla_centro">37,73</td>
+<td class="cuerpo_tabla_centro">37,73</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Lanzarote</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">25,08</td>
+<td class="cuerpo_tabla_centro">42,78</td>
+<td class="cuerpo_tabla_centro">35,20</td>
+<td class="cuerpo_tabla_centro">35,20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">La Palma, Hierro y Gomera</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">37,73</td>
+<td class="cuerpo_tabla_centro">55,42</td>
+<td class="cuerpo_tabla_centro">55,46</td>
+<td class="cuerpo_tabla_centro">35,20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<em>Ceuta y Melilla </em>
+</td>
+<td class="cuerpo_tabla_centro" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ceuta</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">33,04</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">36,67</td>
+<td class="cuerpo_tabla_centro">36,67</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Melilla</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">59,22</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">65,00</td>
+</tr>
+</tbody>
+</table>
+
+La retribución por costes de logística a aplicar durante los meses del año 2015 en los que sea de aplicación la disposición transitoria séptima serán los establecidos en la disposición transitoria tercera.5.
+
+b) Gas natural:
+
+El precio del combustible, prc (c,i,h,j) en euros/tonelada, del gas natural para el año 2012 y primer semestre del 2013 a aplicar en la liquidación de la retribución por costes variables de generación en el territorio Balear tomará los valores que se indican a continuación:
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="3"> </th>
+<th class="cabeza_tabla" colspan="3">2012</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="3">prc (i,h,j) €/t</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">CCGT 1 de Son Reus</th>
+<th class="cabeza_tabla">CCGT 2 de Cas Tresorer</th>
+<th class="cabeza_tabla">CCGT 2 de ibiza</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Enero</td>
+<td class="cuerpo_tabla_der">1.143,55</td>
+<td class="cuerpo_tabla_der">509,45</td>
+<td class="cuerpo_tabla_der">4.273,98</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Febrero</td>
+<td class="cuerpo_tabla_der">480,51</td>
+<td class="cuerpo_tabla_der">516,68</td>
+<td class="cuerpo_tabla_der">73.183,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Marzo</td>
+<td class="cuerpo_tabla_der">1.130,59</td>
+<td class="cuerpo_tabla_der">540,88</td>
+<td class="cuerpo_tabla_der">148.175,97</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Abril</td>
+<td class="cuerpo_tabla_der">924,76</td>
+<td class="cuerpo_tabla_der">553,19</td>
+<td class="cuerpo_tabla_der">1.088.847,57</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mayo</td>
+<td class="cuerpo_tabla_der">1.550,56</td>
+<td class="cuerpo_tabla_der">534,38</td>
+<td class="cuerpo_tabla_der">3.198,32</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Junio</td>
+<td class="cuerpo_tabla_der">622,55</td>
+<td class="cuerpo_tabla_der">497,15</td>
+<td class="cuerpo_tabla_der">732,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Julio</td>
+<td class="cuerpo_tabla_der">648,51</td>
+<td class="cuerpo_tabla_der">511,93</td>
+<td class="cuerpo_tabla_der">590,81</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Agosto</td>
+<td class="cuerpo_tabla_der">536,59</td>
+<td class="cuerpo_tabla_der">499,27</td>
+<td class="cuerpo_tabla_der">457,67</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Septiembre</td>
+<td class="cuerpo_tabla_der">4.910,22</td>
+<td class="cuerpo_tabla_der">564,51</td>
+<td class="cuerpo_tabla_der">467,14</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Octubre</td>
+<td class="cuerpo_tabla_der">1.829,87</td>
+<td class="cuerpo_tabla_der">503,86</td>
+<td class="cuerpo_tabla_der">445,01</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Noviembre</td>
+<td class="cuerpo_tabla_der">561,95</td>
+<td class="cuerpo_tabla_der">723,22</td>
+<td class="cuerpo_tabla_der">400,12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Diciembre</td>
+<td class="cuerpo_tabla_der">1.318,31</td>
+<td class="cuerpo_tabla_der">607,57</td>
+<td class="cuerpo_tabla_der">439,81</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="3"> </th>
+<th class="cabeza_tabla" colspan="3">primer semestre 2013</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="3">prc (i,h,j) €/t</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">CCGT 1 de Son Reus</th>
+<th class="cabeza_tabla">CCGT 2 de Cas Tresorer</th>
+<th class="cabeza_tabla">CCGT 2 de ibiza</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Enero</td>
+<td class="cuerpo_tabla_der">45.400,09</td>
+<td class="cuerpo_tabla_der">566,08</td>
+<td class="cuerpo_tabla_der">434,77</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Febrero</td>
+<td class="cuerpo_tabla_der">1.385,45</td>
+<td class="cuerpo_tabla_der">521,60</td>
+<td class="cuerpo_tabla_der">425,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Marzo</td>
+<td class="cuerpo_tabla_der">3.533,29</td>
+<td class="cuerpo_tabla_der">553,79</td>
+<td class="cuerpo_tabla_der">430,57</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Abril</td>
+<td class="cuerpo_tabla_der">7.912,99</td>
+<td class="cuerpo_tabla_der">638,15</td>
+<td class="cuerpo_tabla_der">449,83</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mayo</td>
+<td class="cuerpo_tabla_der">1.493,10</td>
+<td class="cuerpo_tabla_der">573,26</td>
+<td class="cuerpo_tabla_der">431,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Junio</td>
+<td class="cuerpo_tabla_der">719,34</td>
+<td class="cuerpo_tabla_der">4.282,92</td>
+<td class="cuerpo_tabla_der">438,92</td>
+</tr>
+</tbody>
+</table>
+
+El valor del poder calorífico inferior, pci, a los efectos del cálculo de pr(i,h,j) para el año 2012 y primer semestre de 2013, tomará los valores que se indican a continuación, expresados en te/tm en:
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="3"> </th>
+<th class="cabeza_tabla" colspan="3">2012</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="3">pci te/Tm</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">CCGT 1 de Son Reus</th>
+<th class="cabeza_tabla">CCGT 2 de Cas Tresorer</th>
+<th class="cabeza_tabla">CCGT 2 de ibiza</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Enero</td>
+<td class="cuerpo_tabla_der">11.463,58</td>
+<td class="cuerpo_tabla_der">11.463,58</td>
+<td class="cuerpo_tabla_der">11.415,77</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Febrero</td>
+<td class="cuerpo_tabla_der">11.611,07</td>
+<td class="cuerpo_tabla_der">11.611,07</td>
+<td class="cuerpo_tabla_der">11.623,32</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Marzo</td>
+<td class="cuerpo_tabla_der">11.356,34</td>
+<td class="cuerpo_tabla_der">11.356,34</td>
+<td class="cuerpo_tabla_der">11.376,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Abril</td>
+<td class="cuerpo_tabla_der">11.411,67</td>
+<td class="cuerpo_tabla_der">11.411,67</td>
+<td class="cuerpo_tabla_der">11.382,30</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mayo</td>
+<td class="cuerpo_tabla_der">11.308,13</td>
+<td class="cuerpo_tabla_der">11.308,13</td>
+<td class="cuerpo_tabla_der">11.256,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Junio</td>
+<td class="cuerpo_tabla_der">11.147,95</td>
+<td class="cuerpo_tabla_der">11.147,95</td>
+<td class="cuerpo_tabla_der">11.151,12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Julio</td>
+<td class="cuerpo_tabla_der">11.311,48</td>
+<td class="cuerpo_tabla_der">11.311,48</td>
+<td class="cuerpo_tabla_der">11.341,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Agosto</td>
+<td class="cuerpo_tabla_der">11.559,56</td>
+<td class="cuerpo_tabla_der">11.559,56</td>
+<td class="cuerpo_tabla_der">11.585,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Septiembre</td>
+<td class="cuerpo_tabla_der">11.535,69</td>
+<td class="cuerpo_tabla_der">11.535,69</td>
+<td class="cuerpo_tabla_der">11.516,54</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Octubre</td>
+<td class="cuerpo_tabla_der">11.385,37</td>
+<td class="cuerpo_tabla_der">11.385,37</td>
+<td class="cuerpo_tabla_der">11.365,54</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Noviembre</td>
+<td class="cuerpo_tabla_der">11.341,83</td>
+<td class="cuerpo_tabla_der">11.341,83</td>
+<td class="cuerpo_tabla_der">11.358,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Diciembre</td>
+<td class="cuerpo_tabla_der">11.317,48</td>
+<td class="cuerpo_tabla_der">11.317,48</td>
+<td class="cuerpo_tabla_der">11.333,44</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="3"> </th>
+<th class="cabeza_tabla" colspan="3">Primer semestre 2013</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="3">pci te/Tm</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">CCGT 1 de Son Reus</th>
+<th class="cabeza_tabla">CCGT 2 de Cas Tresorer</th>
+<th class="cabeza_tabla">CCGT 2 de ibiza</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Enero</td>
+<td class="cuerpo_tabla_der">11.361,21</td>
+<td class="cuerpo_tabla_der">11.361,21</td>
+<td class="cuerpo_tabla_der">11.367,75</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Febrero</td>
+<td class="cuerpo_tabla_der">11.400,50</td>
+<td class="cuerpo_tabla_der">11.400,50</td>
+<td class="cuerpo_tabla_der">11.403,02</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Marzo</td>
+<td class="cuerpo_tabla_der">11.410,47</td>
+<td class="cuerpo_tabla_der">11.410,47</td>
+<td class="cuerpo_tabla_der">11.417,28</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Abril</td>
+<td class="cuerpo_tabla_der">11.421,03</td>
+<td class="cuerpo_tabla_der">11.421,03</td>
+<td class="cuerpo_tabla_der">11.430,95</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mayo</td>
+<td class="cuerpo_tabla_der">11.381,93</td>
+<td class="cuerpo_tabla_der">11.381,93</td>
+<td class="cuerpo_tabla_der">11.379,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Junio</td>
+<td class="cuerpo_tabla_der">11.305,19</td>
+<td class="cuerpo_tabla_der">11.305,19</td>
+<td class="cuerpo_tabla_der">11.254,07</td>
+</tr>
+</tbody>
+</table>
+
+Para el cálculo del precio del combustible gas natural para el segundo semestre del año 2013 y para los años 2014 y 2015 se seguirá el método establecido en al Orden ITC/1559/2010, de 11 de junio, por la que se regulan diferentes aspectos de la normativa de los sistemas eléctricos insulares y extrapeninsulares.
+
+c) En el precio del combustible se deberá incluir, en su caso, los costes derivados de la aplicación del impuesto especial sobre el carbón y del impuesto sobre hidrocarburos definidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+
+4\. La anualidad de la retribución por inversión CIn (i) de cada grupo i, en los años 2012, 2013 y 2014 será la siguiente:
+
+| N.º Registro | Denominación oficial | CIn 2012<br>(M€) | CIn 2013<br>(M€) | CIn 2014<br>(M€) |
+|---|---|---|---|---|
+| RO1-1064 | ALCUDIA 1, GRUPO N.º 1 | 0,000 | 0,000 | 0,000 |
+| RO1-1065 | ALCUDIA 2, GRUPO N.º 2 | 0,000 | 0,000 | 0,000 |
+| RO2-0057 | ALCUDIA 3, TURBINA DE GAS N.º 1 | 0,355 | 0,335 | 0,028 |
+| RO2-0058 | ALCUDIA 4, TURBINA DE GAS N.º 2 | 0,338 | 0,319 | 0,026 |
+| RO1-1066 | ALCUDIA 5, GRUPO N.º 3 | 10,954 | 10,858 | 9,783 |
+| RO1-1067 | ALCUDIA 6, GRUPO N.º 4 | 11,069 | 10,986 | 9,892 |
+| RO2-0063 | FORMENTERA 1, TURBINA DE GAS N.º 1 | 0,000 | 0,000 | 0,000 |
+| RO2-0036 | IBIZA 5, BURMEISTER N.º 1 | 0,000 | 0,000 | 0,000 |
+| RO2-0038 | IBIZA 6, BURMEISTER N.º 2 | 0,000 | 0,000 | 0,000 |
+| RO2-0039 | IBIZA 7, BURMEISTER N.º 3 | 0,000 | 0,000 | 0,000 |
+| RO2-0040 | IBIZA 8, BURMEISTER N.º 4 | 0,000 | 0,000 | 0,000 |
+| RO2-0043 | IBIZA 9, BURMEISTER N.º 5 | 0,000 | 0,000 | 0,000 |
+| RO2-0044 | IBIZA 10, BURMEISTER N.º 6 | 0,000 | 0,000 | 0,000 |
+| RO2-0045 | IBIZA 11, BURMEISTER N.º 7 | 0,000 | 0,000 | 0,000 |
+| RO2-0059 | IBIZA 12, TURBINA DE GAS N.º 1 | 0,215 | 0,105 | 0,000 |
+| RO2-0046 | IBIZA 13, BURMEISTER N.º 8 | 1,009 | 0,983 | 0,894 |
+| RO2-0047 | IBIZA 14, BURMEISTER N.º 9 | 0,915 | 0,893 | 0,812 |
+| RO2-0060 | IBIZA 15, TURBINA DE GAS N.º 2 | 0,000 | 0,000 | 0,000 |
+| RO2-0159 | IBIZA 16, DIÉSEL MAN 1 | 1,464 | 1,470 | 1,315 |
+| RO2-0160 | IBIZA 17, DIÉSEL MAN 2 | 1,513 | 1,519 | 1,359 |
+| RO2-0158 | IBIZA TURBINA DE GAS N.º 3 (SON MOLINAS 5) | 0,000 | 0,000 | 0,000 |
+| RO2-0161 | IBIZA TURBINA DE GAS N.º 4 | 0,000 | 0,000 | 0,000 |
+| RO2-0182 | IBIZA 20 (MAN 3) | 2,630 | 2,676 | 2,378 |
+| RO2-0183 | IBIZA 21 (MAN 4) | 2,642 | 2,690 | 2,389 |
+| RO2-0201 | IBIZA 22, TURBINA DE GAS N.º 5 | 1,817 | 1,854 | 1,645 |
+| RO2-0202 | IBIZA 23, TURBINA DE GAS N.º 6 | 1,976 | 2,018 | 1,789 |
+| RO2-0208 | IBIZA 24, TURBINA DE GAS N.º 6B | PDTE | PDTE | PDTE |
+| RO2-0037 | MAHÓN 9, BURMEISTER N.º 1 | 0,961 | 0,922 | 0,846 |
+| RO2-0041 | MAHÓN 10, BURMEISTER N.º 2 | 0,913 | 0,876 | 0,804 |
+| RO2-0042 | MAHÓN 11, BURMEISTER N.º 3 | 0,928 | 0,890 | 0,816 |
+| RO2-0061 | MAHÓN 12, TURBINA DE GAS N.º 2 | 0,491 | 0,479 | 0,435 |
+| RO2-0077 | MAHÓN 13, TURBINA DE GAS N.º 1 | 0,729 | 0,728 | 0,653 |
+| RO1-1074 | MAHÓN 14, TURBINA DE GAS N.º 3 | 1,997 | 2,020 | 1,800 |
+| RO2-0198 | MAHÓN TG4 | 3,880 | 3,958 | 3,511 |
+| RO2-0203 | MAHÓN 16, TURBINA DE GAS N.º 5 | 3,944 | 4,027 | 3,571 |
+| RO2-0031 | SON REUS 1, TURBINA DE GAS N.º 1 | 0,958 | 0,959 | 0,860 |
+| RO2-0032 | SON REUS 2, TURBINA DE GAS N.º 2 | 0,956 | 0,957 | 0,858 |
+| RO2-0033 | SON REUS 3, TURBINA DE GAS N.º 3 | 0,956 | 0,957 | 0,858 |
+| RO2-0034 | SON REUS 4, TURBINA DE GAS N.º 4 | 0,959 | 0,960 | 0,860 |
+| RO1-1068<br>RO1-1069<br>RO1-1070<br>RO1-1073 | SON REUS 5, TURBINA DE GAS N.º 5<br>SON REUS 6, TURBINA DE GAS N.º 6<br>SON REUS 7, TURBINA DE GAS N.º 7<br>SON REUS VAPOR 10 | 18,034 | 18,149 | 16,219 |
+| RO1-1072 | SON REUS 9, TURBINA DE GAS N.º 9 (CC2) | 5,584 | 5,635 | 5,028 |
+| RO1-1071 | SON REUS TURBINA DE GAS N.º 8 (CC2) | 5,584 | 5,635 | 5,028 |
+| RO1-1075 | SON REUS TURBINA DE VAPOR N.º 2 (CC2) | 5,942 | 6,022 | 5,362 |
+| RO2-0195 | CA'S TRESORER TG1, CC1 | 7,176 | 7,290 | 6,482 |
+| RO2-0196 | CA'S TRESORER TG2, CC1 | 7,180 | 7,294 | 6,486 |
+| RO2-0197 | CA'S TRESORER TV, CC1 | 7,711 | 7,847 | 6,971 |
+| RO1-2012 | CA'S TRESORER TG3, CC2 | 8,182 | 8,355 | 7,409 |
+| RO1-2013 | CA'S TRESORER TG4, CC2 | 8,225 | 8,401 | 7,448 |
+| RO1-2014 | CA'S TRESORER TV2, CC2 | 8,549 | 8,741 | 7,746 |
+
+| N.º Registro | Denominación oficial | CIn 2012<br>M€ | CIn 2013<br>M€ | CIn 2014<br>M€ |
+|---|---|---|---|---|
+| RO2-0089 | BARRANCO DE TIRAJANA 1, GAS 1 | 0,516 | 0,499 | 0,455 |
+| RO2-0090 | BARRANCO DE TIRAJANA 2, GAS 2 | 0,719 | 0,706 | 0,639 |
+| RO1-1049 | BARRANCO DE TIRAJANA 3, VAPOR 1 | 9,515 | 9,371 | 8,473 |
+| RO1-1050 | BARRANCO DE TIRAJANA 4, VAPOR 2 | 8,493 | 8,379 | 7,569 |
+| RO1-1051 | BARRANCO DE TIRAJANA 5, GAS 3 (CC1) | 6,630 | 6,691 | 5,970 |
+| RO1-1052 | BARRANCO DE TIRAJANA 6, GAS 4 (CC1) | 6,649 | 6,712 | 5,988 |
+| RO1-2000 | BARRANCO DE TIRAJANA 7, VAPOR 3 (CC1) | 6,924 | 7,009 | 6,244 |
+| RO2-0188 | BARRANCO DE TIRAJANA 8, GAS 5 CC2 | 7,372 | 7,489 | 6,659 |
+| RO2-0189 | BARRANCO DE TIRAJANA 9, GAS 6 CC2 | 7,443 | 7,566 | 6,725 |
+| RO2-0190 | BARRANCO DE TIRAJANA 10, VAPOR 4 CC2 | 8,245 | 8,405 | 7,460 |
+| RO2-0081 | JINAMAR 2, DIÉSEL 1 | 0,000 | 0,000 | 0,000 |
+| RO2-0082 | JINAMAR 3, DIÉSEL 2 | 0,000 | 0,000 | 0,000 |
+| RO2-0083 | JINAMAR 4, DIÉSEL 3 | 0,000 | 0,000 | 0,000 |
+| RO2-0086 | JINAMAR 7, GAS 1 | 0,000 | 0,000 | 0,000 |
+| RO1-1047 | JINAMAR 8, VAPOR 4 | 0,000 | 0,000 | 0,000 |
+| RO1-1048 | JINAMAR 9, VAPOR 5 | 0,000 | 0,000 | 0,000 |
+| RO2-0087 | JINAMAR 10, GAS 2 | 0,392 | 0,369 | 0,030 |
+| RO2-0088 | JINAMAR 11, GAS 3 | 0,392 | 0,370 | 0,120 |
+| RO2-0084 | JINAMAR 12, DIÉSEL 4 | 1,848 | 1,761 | 1,621 |
+| RO2-0085 | JINAMAR 13, DIÉSEL 5 | 1,978 | 1,888 | 1,737 |
+| RO2-0118 | LAS SALINAS 1, DIÉSEL 1 | 0,000 | 0,000 | 0,000 |
+| RO2-0119 | LAS SALINAS 2, DIÉSEL 2 | 0,000 | 0,000 | 0,000 |
+| RO2-0120 | LAS SALINAS 3, DIÉSEL 3 | 0,000 | 0,000 | 0,000 |
+| RO2-0121 | LAS SALINAS 4, DIÉSEL 4 | 0,000 | 0,000 | 0,000 |
+| RO2-0122 | LAS SALINAS 5, DIÉSEL 5 | 0,000 | 0,000 | 0,000 |
+| RO2-0123 | LAS SALINAS 6, DIÉSEL 6 | 2,010 | 1,916 | 1,764 |
+| RO2-0124 | LAS SALINAS 7, GAS 1 | 0,481 | 0,466 | 0,425 |
+| RO2-0125 | LAS SALINAS 8, GAS 2 | 1,268 | 1,270 | 1,138 |
+| RO2-0135 | SALINAS,LAS 9 (GUINCHOS, LOS 11) | 0,215 | 0,000 | 0,000 |
+| RO2-0179 | LAS SALINAS 10, DIÉSEL 7 | 3,302 | 3,340 | 2,977 |
+| RO2-0199 | LAS SALINAS 11, DIÉSEL 8 | 2,424 | 2,458 | 2,188 |
+| RO2-0200 | LAS SALINAS 12, DIÉSEL 9 | 2,507 | 2,543 | 2,263 |
+| RO2-0107 | PUNTA GRANDE 2, DIÉSEL 1 | 0,000 | 0,000 | 0,000 |
+| RO2-0108 | PUNTA GRANDE 3, DIÉSEL 2 | 0,000 | 0,000 | 0,000 |
+| RO2-0109 | PUNTA GRANDE 7, DIÉSEL 3 | 0,174 | 0,000 | 0,000 |
+| RO2-0115 | PUNTA GRANDE 9, GAS 1 | 0,264 | 0,107 | 0,000 |
+| RO2-0110 | PUNTA GRANDE 11, DIÉSEL 4 | 0,812 | 0,768 | 0,366 |
+| RO2-0111 | PUNTA GRANDE 12, DIÉSEL 5 | 0,794 | 0,749 | 0,241 |
+| RO2-0112 | PUNTA GRANDE 13, DIÉSEL 6 | 1,982 | 1,919 | 1,751 |
+| RO2-0116 | PUNTA GRANDE 14, GAS 2 | 0,974 | 0,967 | 0,870 |
+| RO2-0113 | PUNTA GRANDE 15, DIÉSEL 7 | 2,089 | 2,101 | 1,878 |
+| RO2-0114 | PUNTA GRANDE 16, DIÉSEL 8 | 2,118 | 2,130 | 1,904 |
+| RO2-0193 | PUNTA GRANDE DIÉSEL 9 | 2,881 | 2,924 | 2,601 |
+| RO2-0194 | PUNTA GRANDE DIÉSEL 10 | 2,930 | 2,974 | 2,645 |
+| RO2-0095 | CANDELARIA 3, DIÉSEL 1 | 0,000 | 0,000 | 0,000 |
+| RO2-0096 | CANDELARIA 4, DIÉSEL 2 | 0,000 | 0,000 | 0,000 |
+| RO2-0100 | CANDELARIA 5, GAS 3 | 0,000 | 0,000 | 0,000 |
+| RO2-0097 | CANDELARIA 6, DIÉSEL 3 | 0,000 | 0,000 | 0,000 |
+| RO2-0093 | CANDELARIA 9, VAPOR 5 | 0,000 | 0,000 | 0,000 |
+| RO2-0094 | CANDELARIA 10, VAPOR 6 | 0,000 | 0,000 | 0,000 |
+| RO2-0098 | CANDELARIA 11, GAS 1 | 0,358 | 0,285 | 0,000 |
+| RO2-0099 | CANDELARIA 12, GAS 2 | 0,410 | 0,388 | 0,185 |
+| RO2-0103 | GRANADILLA 1, GAS 1 | 0,531 | 0,507 | 0,466 |
+| RO2-0101 | GRANADILLA 2, DIÉSEL 1 | 1,340 | 1,286 | 1,179 |
+| RO2-0102 | GRANADILLA 3, DIÉSEL 2 | 1,366 | 1,314 | 1,204 |
+| RO1-1054 | GRANADILLA 4, VAPOR 2 | 9,414 | 9,258 | 8,378 |
+| RO1-1053 | GRANADILLA 5, VAPOR 1 | 8,433 | 8,303 | 7,509 |
+| RO2-0104 | GRANADILLA 6, GAS 2 | 2,531 | 2,544 | 2,275 |
+| RO1-1055 | GRANADILLA 7, GAS 3 (CC1) | 6,354 | 6,415 | 5,723 |
+| RO1-1056 | GRANADILLA 8, GAS 4 (CC1) | 6,469 | 6,540 | 5,830 |
+| RO1-1087 | GRANADILLA 9, VAPOR, 3 (CC1) | 6,621 | 6,704 | 5,971 |
+| RO1-2015 | GRANADILLA 10, TG 5 (CC2) | 9,662 | 9,882 | 8,755 |
+| RO1-2016 | GRANADILLA 11, TG 6 (CC2) | 9,679 | 9,900 | 8,771 |
+| RO1-1063 | GRANADILLA 12, VAPOR 4 (CC2) | 10,229 | 10,483 | 9,277 |
+| RO2-0105 | ARONA 1, GAS 1 | 1,397 | 1,409 | 1,258 |
+| RO2-0106 | ARONA 2, GAS 2 | 1,449 | 1,462 | 1,305 |
+| RO2-0127 | LOS GUINCHOS 6, DIÉSEL 6 | 0,000 | 0,000 | 0,000 |
+| RO2-0128 | LOS GUINCHOS 7, DIÉSEL 7 | 0,000 | 0,000 | 0,000 |
+| RO2-0129 | LOS GUINCHOS 8, DIÉSEL 8 | 0,000 | 0,000 | 0,000 |
+| RO2-0130 | LOS GUINCHOS 9, DIÉSEL 9 | 0,000 | 0,000 | 0,000 |
+| RO2-0131 | LOS GUINCHOS 10, DIÉSEL 10 | 0,000 | 0,000 | 0,000 |
+| RO2-0132 | LOS GUINCHOS 12, DIÉSEL 11 | 0,515 | 0,506 | 0,458 |
+| RO2-0133 | LOS GUINCHOS 13, DIÉSEL 12 | 0,994 | 0,997 | 0,892 |
+| RO2-0134 | LOS GUINCHOS 14, DIÉSEL 13 | 2,578 | 2,604 | 2,323 |
+| RO2-0187 | LOS GUINCHOS 15, GAS MÓVIL 2 | 1,866 | 1,889 | 1,683 |
+| RO2-0191 | LOS GUINCHOS 16 (DIÉSEL 14) | 2,390 | 2,427 | 2,159 |
+| RO2-0192 | LOS GUINCHOS 17 (DIÉSEL 15) | 2,415 | 2,453 | 2,181 |
+| RO2-0136 | EL PALMAR 13, DIÉSEL 12 | 0,055 | 0,018 | 0,000 |
+| RO2-0137 | EL PALMAR 14, DIÉSEL 13 | 0,027 | 0,000 | 0,000 |
+| RO2-0138 | EL PALMAR 15, DIÉSEL 14 | 0,062 | 0,000 | 0,000 |
+| RO2-0139 | EL PALMAR 16, DIÉSEL 15 | 0,107 | 0,043 | 0,000 |
+| RO2-0140 | EL PALMAR 17, DIÉSEL 16 | 0,186 | 0,183 | 0,165 |
+| RO2-0141 | EL PALMAR 18, DIÉSEL 17 | 0,217 | 0,217 | 0,194 |
+| RO2-0142 | EL PALMAR 19, DIÉSEL 18 | 0,644 | 0,652 | 0,581 |
+| RO2-0143 | EL PALMAR 20, DIÉSEL 19 | 0,814 | 0,825 | 0,734 |
+| RO2-0149 | LLANOS BLANCOS 1, DIÉSEL MÓVIL 1 | 0,009 | 0,000 | 0,000 |
+| RO3-0019 | LLANOS BLANCOS 9, DIÉSEL 7 | 0,000 | 0,000 | 0,000 |
+| RO2-0144 | LLANOS BLANCOS 11, DIÉSEL 9 | 0,000 | 0,000 | 0,000 |
+| RO2-0145 | LLANOS BLANCOS 12, DIÉSEL 10 | 0,038 | 0,036 | 0,033 |
+| RO2-0146 | LLANOS BLANCOS 13, DIÉSEL 11 | 0,053 | 0,051 | 0,047 |
+| RO2-0147 | LLANOS BLANCOS 14, DIÉSEL 12 | 0,065 | 0,064 | 0,058 |
+| RO2-0148 | LLANOS BLANCOS 15, DIÉSEL 13 | 0,091 | 0,091 | 0,081 |
+| RO2-0176 | LLANOS BLANCOS 16, DIÉSEL, 14 | 0,373 | 0,378 | 0,336 |
+| RO2-0186 | LLANOS BLANCOS 17, DIÉSEL 15 | 0,381 | 0,386 | 0,344 |
+| RO2-0213 | LLANOS BLANCOS 18, DIÉSEL 16 | PDTE | PDTE | PDTE |
+| RO3-0018 | EL MULATO, HIDRÁULICA 1 | 0,018 | 0,018 | 0,016 |
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">N.º Registro</th>
+<th class="cabeza_tabla">Denominación oficial</th>
+<th>
+<p class="cabeza_tabla">CIn 2012</p>
+<p class="cabeza_tabla">M€</p>
+</th>
+<th>
+<p class="cabeza_tabla">CIn 2013</p>
+<p class="cabeza_tabla">M€</p>
+</th>
+<th>
+<p class="cabeza_tabla">CIn 2014</p>
+<p class="cabeza_tabla">M€</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0020</td>
+<td class="cuerpo_tabla_izq">MELILLA 5, G-5</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0021</td>
+<td class="cuerpo_tabla_izq">MELILLA 6, G-6</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0024</td>
+<td class="cuerpo_tabla_izq">MELILLA 9, G-9</td>
+<td class="cuerpo_tabla_centro">0,458</td>
+<td class="cuerpo_tabla_centro">0,440</td>
+<td class="cuerpo_tabla_centro">0,403</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0025</td>
+<td class="cuerpo_tabla_izq">MELILLA 10, G-10</td>
+<td class="cuerpo_tabla_centro">1,177</td>
+<td class="cuerpo_tabla_centro">1,166</td>
+<td class="cuerpo_tabla_centro">1,051</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0175</td>
+<td class="cuerpo_tabla_izq">MELILLA 11, DIÉSEL 10</td>
+<td class="cuerpo_tabla_centro">1,564</td>
+<td class="cuerpo_tabla_centro">1,575</td>
+<td class="cuerpo_tabla_centro">1,407</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">MELILLA G. Electrógenos (*)</td>
+<td class="cuerpo_tabla_izq">MELILLA G. Electrógenos (*)</td>
+<td class="cuerpo_tabla_centro">1,720</td>
+<td class="cuerpo_tabla_centro">1,734</td>
+<td class="cuerpo_tabla_centro">1,548</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0180</td>
+<td class="cuerpo_tabla_izq">MELILLA G-12</td>
+<td class="cuerpo_tabla_centro">2,578</td>
+<td class="cuerpo_tabla_centro">2,621</td>
+<td class="cuerpo_tabla_centro">2,330</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0185</td>
+<td class="cuerpo_tabla_izq">MELILLA 13</td>
+<td class="cuerpo_tabla_centro">2,641</td>
+<td class="cuerpo_tabla_centro">2,690</td>
+<td class="cuerpo_tabla_centro">2,389</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0011</td>
+<td class="cuerpo_tabla_izq">CEUTA 1, G-1</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0026</td>
+<td class="cuerpo_tabla_izq">CEUTA 2, G-2</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0015</td>
+<td class="cuerpo_tabla_izq">CEUTA 6, G-6</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0016</td>
+<td class="cuerpo_tabla_izq">CEUTA 7, G-7</td>
+<td class="cuerpo_tabla_centro">0,318</td>
+<td class="cuerpo_tabla_centro">0,309</td>
+<td class="cuerpo_tabla_centro">0,282</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0177</td>
+<td class="cuerpo_tabla_izq">CEUTA 8, G-8</td>
+<td class="cuerpo_tabla_centro">0,451</td>
+<td class="cuerpo_tabla_centro">0,450</td>
+<td class="cuerpo_tabla_centro">0,404</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0178</td>
+<td class="cuerpo_tabla_izq">CEUTA 9, G-9</td>
+<td class="cuerpo_tabla_centro">1,532</td>
+<td class="cuerpo_tabla_centro">1,539</td>
+<td class="cuerpo_tabla_centro">1,377</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0181</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 10</td>
+<td class="cuerpo_tabla_centro">2,416</td>
+<td class="cuerpo_tabla_centro">2,452</td>
+<td class="cuerpo_tabla_centro">2,182</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0184</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 11</td>
+<td class="cuerpo_tabla_centro">2,642</td>
+<td class="cuerpo_tabla_centro">2,691</td>
+<td class="cuerpo_tabla_centro">2,390</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0204</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 12</td>
+<td class="cuerpo_tabla_centro">1,684</td>
+<td class="cuerpo_tabla_centro">1,721</td>
+<td class="cuerpo_tabla_centro">1,525</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0206</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 13</td>
+<td class="cuerpo_tabla_centro">2,890</td>
+<td class="cuerpo_tabla_centro">2,956</td>
+<td class="cuerpo_tabla_centro">2,619</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">DENTRO DE MELILLA G. Electrógenos (*) están los siguientes grupos:</td>
+<td class="cuerpo_tabla_centro" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0027</td>
+<td class="cuerpo_tabla_izq">MELILLA 12, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0028</td>
+<td class="cuerpo_tabla_izq">MELILLA 13, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0029</td>
+<td class="cuerpo_tabla_izq">MELILLA 14, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0030</td>
+<td class="cuerpo_tabla_izq">MELILLA 15, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0031</td>
+<td class="cuerpo_tabla_izq">MELILLA 16, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0032</td>
+<td class="cuerpo_tabla_izq">MELILLA 17, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0033</td>
+<td class="cuerpo_tabla_izq">MELILLA 18, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0034</td>
+<td class="cuerpo_tabla_izq">MELILLA 19, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0035</td>
+<td class="cuerpo_tabla_izq">MELILLA 20, G. ELECTRÓGENO (ANTES CEUTA 10)</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0036</td>
+<td class="cuerpo_tabla_izq">MELILLA 21, G. ELECTRÓGENO (ANTES CEUTA 11)</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0037</td>
+<td class="cuerpo_tabla_izq">MELILLA 22, G. ELECTRÓGENO (ANTES CEUTA 12)</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0038</td>
+<td class="cuerpo_tabla_izq">MELILLA 23, G. ELECTRÓGENO (ANTES CEUTA 13)</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+La anualidad de la retribución por inversión CI<sub>n</sub> (i) de cada grupo i para los meses del año 2015 en los que sea de aplicación la disposición transitoria séptima será la siguiente:
+
+| N.º Registro | Denominación oficial | CIn 2015 M€ |
+|---|---|---|
+| RO1-1064 | ALCUDIA 1, GRUPO N.º 1 | 0,000 |
+| RO1-1065 | ALCUDIA 2, GRUPO N.º 2 | 0,000 |
+| RO2-0057 | ALCUDIA 3, TURBINA DE GAS N.º 1 | 0,000 |
+| RO2-0058 | ALCUDIA 4, TURBINA DE GAS N.º 2 | 0,000 |
+| RO1-1066 | ALCUDIA 5, GRUPO N.º 3 | 8,563 |
+| RO1-1067 | ALCUDIA 6, GRUPO N.º 4 | 8,641 |
+| RO2-0063 | FORMENTERA 1, TURBINA DE GAS N.º 1 | 0,000 |
+| RO2-0036 | IBIZA 5, BURMEISTER N.º 1 | 0,000 |
+| RO2-0038 | IBIZA 6, BURMEISTER N.º 2 | 0,000 |
+| RO2-0039 | IBIZA 7, BURMEISTER N.º 3 | 0,000 |
+| RO2-0040 | IBIZA 8, BURMEISTER N.º 4 | 0,000 |
+| RO2-0043 | IBIZA 9, BURMEISTER N.º 5 | 0,000 |
+| RO2-0044 | IBIZA 10, BURMEISTER N.º 6 | 0,000 |
+| RO2-0045 | IBIZA 11, BURMEISTER N.º 7 | 0,000 |
+| RO2-0059 | IBIZA 12, TURBINA DE GAS N.º 1 | 0,000 |
+| RO2-0046 | IBIZA 13, BURMEISTER N.º 8 | 0,805 |
+| RO2-0047 | IBIZA 14, BURMEISTER N.º 9 | 0,730 |
+| RO2-0060 | IBIZA 15, TURBINA DE GAS N.º 2 | 0,000 |
+| RO2-0159 | IBIZA 16, DIÉSEL MAN 1 | 1,128 |
+| RO2-0160 | IBIZA 17, DIÉSEL MAN 2 | 1,165 |
+| RO2-0158 | IBIZA TURBINA DE GAS N.º 3 (SON MOLINAS 5) | 0,000 |
+| RO2-0161 | IBIZA TURBINA DE GAS N.º 4 | 0,000 |
+| RO2-0182 | IBIZA 20 (MAN 3) | 1,991 |
+| RO2-0183 | IBIZA 21 (MAN 4) | 2,000 |
+| RO2-0201 | IBIZA 22, TURBINA DE GAS N.º 5 | 1,372 |
+| RO2-0202 | IBIZA 23, TURBINA DE GAS N.º 6 | 1,489 |
+| RO2-0208 | IBIZA 24, TURBINA DE GAS N.º 6B | PDTE |
+| RO2-0037 | MAHÓN 9, BURMEISTER N.º 1 | 0,779 |
+| RO2-0041 | MAHÓN 10, BURMEISTER N.º 2 | 0,741 |
+| RO2-0042 | MAHÓN 11, BURMEISTER N.º 3 | 0,754 |
+| RO2-0061 | MAHÓN 12, TURBINA DE GAS N.º 2 | 0,391 |
+| RO2-0077 | MAHÓN 13, TURBINA DE GAS N.º 1 | 0,565 |
+| RO1-1074 | MAHÓN 14, TURBINA DE GAS N.º 3 | 1,524 |
+| RO2-0198 | MAHÓN TG4 | 2,929 |
+| RO2-0203 | MAHÓN 16, TURBINA DE GAS N.º 5 | 2,973 |
+| RO2-0031 | SON REUS 1, TURBINA DE GAS N.º 1 | 0,740 |
+| RO2-0032 | SON REUS 2, TURBINA DE GAS N.º 2 | 0,739 |
+| RO2-0033 | SON REUS 3, TURBINA DE GAS N.º 3 | 0,739 |
+| RO2-0034 | SON REUS 4, TURBINA DE GAS N.º 4 | 0,741 |
+| RO1-1068<br>RO1-1069<br>RO1-1070<br>RO1-1073 | SON REUS 5, TURBINA DE GAS N.º 5<br>SON REUS 6, TURBINA DE GAS N.º 6<br>SON REUS 7, TURBINA DE GAS N.º 7<br>SON REUS VAPOR 10 | 13,844 |
+| RO1-1072 | SON REUS 9, TURBINA DE GAS N.º 9 (CC2) | 4,273 |
+| RO1-1071 | SON REUS TURBINA DE GAS N.º 8 (CC2) | 4,273 |
+| RO1-1075 | SON REUS TURBINA DE VAPOR N.º 2 (CC2) | 4,522 |
+| RO2-0195 | CA'S TRESORER TG1, CC1 | 5,446 |
+| RO2-0196 | CA'S TRESORER TG2, CC1 | 5,448 |
+| RO2-0197 | CA'S TRESORER TV, CC1 | 5,839 |
+| RO1-2012 | CA'S TRESORER TG3, CC2 | 6,168 |
+| RO1-2013 | CA'S TRESORER TG4, CC2 | 6,197 |
+| RO1-2014 | CA'S TRESORER TV2, CC2 | 6,434 |
+
+| N.º Registro | Denominación oficial | CIn 2015 M€ |
+|---|---|---|
+| RO2-0089 | BARRANCO DE TIRAJANA 1, GAS 1 | 0,415 |
+| RO2-0090 | BARRANCO DE TIRAJANA 2, GAS 2 | 0,568 |
+| RO1-1049 | BARRANCO DE TIRAJANA 3, VAPOR 1 | 7,495 |
+| RO1-1050 | BARRANCO DE TIRAJANA 4, VAPOR 2 | 6,676 |
+| RO1-1051 | BARRANCO DE TIRAJANA 5, GAS 3 (CC1) | 5,072 |
+| RO1-1052 | BARRANCO DE TIRAJANA 6, GAS 4 (CC1) | 5,085 |
+| RO1-2000 | BARRANCO DE TIRAJANA 7, VAPOR 3 (CC1) | 5,277 |
+| RO2-0188 | BARRANCO DE TIRAJANA 8, GAS 5 CC2 | 5,594 |
+| RO2-0189 | BARRANCO DE TIRAJANA 9, GAS 6 CC2 | 5,643 |
+| RO2-0190 | BARRANCO DE TIRAJANA 10, VAPOR 4 CC2 | 6,229 |
+| RO2-0081 | JINAMAR 2, DIÉSEL 1 | 0,000 |
+| RO2-0082 | JINAMAR 3, DIÉSEL 2 | 0,000 |
+| RO2-0083 | JINAMAR 4, DIÉSEL 3 | 0,000 |
+| RO2-0086 | JINAMAR 7, GAS 1 | 0,000 |
+| RO1-1047 | JINAMAR 8, VAPOR 4 | 0,000 |
+| RO1-1048 | JINAMAR 9, VAPOR 5 | 0,000 |
+| RO2-0087 | JINAMAR 10, GAS 2 | 0,000 |
+| RO2-0088 | JINAMAR 11, GAS 3 | 0,000 |
+| RO2-0084 | JINAMAR 12, DIÉSEL 4 | 0,647 |
+| RO2-0085 | JINAMAR 13, DIÉSEL 5 | 0,962 |
+| RO2-0118 | LAS SALINAS 1, DIÉSEL 1 | 0,000 |
+| RO2-0119 | LAS SALINAS 2, DIÉSEL 2 | 0,000 |
+| RO2-0120 | LAS SALINAS 3, DIÉSEL 3 | 0,000 |
+| RO2-0121 | LAS SALINAS 4, DIÉSEL 4 | 0,000 |
+| RO2-0122 | LAS SALINAS 5, DIÉSEL 5 | 0,000 |
+| RO2-0123 | LAS SALINAS 6, DIÉSEL 6 | 0,704 |
+| RO2-0124 | LAS SALINAS 7, GAS 1 | 0,386 |
+| RO2-0125 | LAS SALINAS 8, GAS 2 | 0,980 |
+| RO2-0135 | SALINAS,LAS 9 (GUINCHOS, LOS 11) | 0,000 |
+| RO2-0179 | LAS SALINAS 10, DIÉSEL 7 | 2,519 |
+| RO2-0199 | LAS SALINAS 11, DIÉSEL 8 | 1,844 |
+| RO2-0200 | LAS SALINAS 12, DIÉSEL 9 | 1,907 |
+| RO2-0107 | PUNTA GRANDE 2, DIÉSEL 1 | 0,000 |
+| RO2-0108 | PUNTA GRANDE 3, DIÉSEL 2 | 0,000 |
+| RO2-0109 | PUNTA GRANDE 7, DIÉSEL 3 | 0,000 |
+| RO2-0115 | PUNTA GRANDE 9, GAS 1 | 0,000 |
+| RO2-0110 | PUNTA GRANDE 11, DIÉSEL 4 | 0,000 |
+| RO2-0111 | PUNTA GRANDE 12, DIÉSEL 5 | 0,000 |
+| RO2-0112 | PUNTA GRANDE 13, DIÉSEL 6 | 1,592 |
+| RO2-0116 | PUNTA GRANDE 14, GAS 2 | 0,760 |
+| RO2-0113 | PUNTA GRANDE 15, DIÉSEL 7 | 1,605 |
+| RO2-0114 | PUNTA GRANDE 16, DIÉSEL 8 | 1,628 |
+| RO2-0193 | PUNTA GRANDE DIÉSEL 9 | 2,189 |
+| RO2-0194 | PUNTA GRANDE DIÉSEL 10 | 2,225 |
+| RO2-0095 | CANDELARIA 3, DIÉSEL 1 | 0,000 |
+| RO2-0096 | CANDELARIA 4, DIÉSEL 2 | 0,000 |
+| RO2-0100 | CANDELARIA 5, GAS 3 | 0,000 |
+| RO2-0097 | CANDELARIA 6, DIÉSEL 3 | 0,000 |
+| RO2-0093 | CANDELARIA 9, VAPOR 5 | 0,000 |
+| RO2-0094 | CANDELARIA 10, VAPOR 6 | 0,000 |
+| RO2-0098 | CANDELARIA 11, GAS 1 | 0,000 |
+| RO2-0099 | CANDELARIA 12, GAS 2 | 0,000 |
+| RO2-0103 | GRANADILLA 1, GAS 1 | 0,257 |
+| RO2-0101 | GRANADILLA 2, DIÉSEL 1 | 1,086 |
+| RO2-0102 | GRANADILLA 3, DIÉSEL 2 | 1,106 |
+| RO1-1054 | GRANADILLA 4, VAPOR 2 | 7,428 |
+| RO1-1053 | GRANADILLA 5, VAPOR 1 | 6,646 |
+| RO2-0104 | GRANADILLA 6, GAS 2 | 1,946 |
+| RO1-1055 | GRANADILLA 7, GAS 3 (CC1) | 4,859 |
+| RO1-1056 | GRANADILLA 8, GAS 4 (CC1) | 4,939 |
+| RO1-1087 | GRANADILLA 9, VAPOR, 3 (CC1) | 5,044 |
+| RO1-2015 | GRANADILLA 10, TG5 (CC2) | 7,269 |
+| RO1-2016 | GRANADILLA 11, TG6 (CC2) | 7,281 |
+| RO1-1063 | GRANADILLA 12, VAPOR 4 (CC2) | 7,676 |
+| RO2-0105 | ARONA 1, GAS 1 | 1,069 |
+| RO2-0106 | ARONA 2, GAS 2 | 1,109 |
+| RO2-0127 | LOS GUINCHOS 6, DIÉSEL 6 | 0,000 |
+| RO2-0128 | LOS GUINCHOS 7, DIÉSEL 7 | 0,000 |
+| RO2-0129 | LOS GUINCHOS 8, DIÉSEL 8 | 0,000 |
+| RO2-0130 | LOS GUINCHOS 9, DIÉSEL 9 | 0,000 |
+| RO2-0131 | LOS GUINCHOS 10, DIÉSEL 10 | 0,000 |
+| RO2-0132 | LOS GUINCHOS 12, DIÉSEL 11 | 0,408 |
+| RO2-0133 | LOS GUINCHOS 13, DIÉSEL 12 | 0,766 |
+| RO2-0134 | LOS GUINCHOS 14, DIÉSEL 13 | 1,971 |
+| RO2-0187 | LOS GUINCHOS 15, GAS MÓVIL 2 | 1,422 |
+| RO2-0191 | LOS GUINCHOS 16 (DIÉSEL 14) | 1,814 |
+| RO2-0192 | LOS GUINCHOS 17 (DIÉSEL 15) | 1,833 |
+| NO ESTÁ EN EL REGISTRO | PALMAR,EL 12 | 0,000 |
+| RO2-0136 | EL PALMAR 13, DIÉSEL 12 | 0,000 |
+| RO2-0137 | EL PALMAR 14, DIÉSEL 13 | 0,000 |
+| RO2-0138 | EL PALMAR 15, DIÉSEL 14 | 0,000 |
+| RO2-0139 | EL PALMAR 16, DIÉSEL 15 | 0,000 |
+| RO2-0140 | EL PALMAR 17, DIÉSEL 16 | 0,146 |
+| RO2-0141 | EL PALMAR 18, DIÉSEL 17 | 0,168 |
+| RO2-0142 | EL PALMAR 19, DIÉSEL 18 | 0,491 |
+| RO2-0143 | EL PALMAR 20, DIÉSEL 19 | 0,619 |
+| RO2-0149 | LLANOS BLANCOS 1, DIÉSEL MÓVIL 1 | 0,000 |
+| RO3-0019 | LLANOS BLANCOS 9, DIÉSEL 7 | 0,000 |
+| RO2-0144 | LLANOS BLANCOS 11, DIÉSEL 9 | 0,000 |
+| RO2-0145 | LLANOS BLANCOS 12, DIÉSEL 10 | 0,030 |
+| RO2-0146 | LLANOS BLANCOS 13, DIÉSEL 11 | 0,043 |
+| RO2-0147 | LLANOS BLANCOS 14, DIÉSEL 12 | 0,052 |
+| RO2-0148 | LLANOS BLANCOS 15, DIÉSEL 13 | 0,070 |
+| RO2-0176 | LLANOS BLANCOS 16, DIÉSEL, 14 | 0,283 |
+| RO2-0186 | LLANOS BLANCOS 17, DIÉSEL 15 | 0,289 |
+| RO2-0213 | LLANOS BLANCOS 18, DIÉSEL 16 | PDTE |
+| RO3-0018 | EL MULATO, HIDRÁULICA 1 | 0,014 |
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">N.º Registro</th>
+<th class="cabeza_tabla">Denominación oficial</th>
+<th class="cabeza_tabla">CIn 2015 M€</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0020</td>
+<td class="cuerpo_tabla_izq">MELILLA 5, G-5</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0021</td>
+<td class="cuerpo_tabla_izq">MELILLA 6, G-6</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0024</td>
+<td class="cuerpo_tabla_izq">MELILLA 9, G-9</td>
+<td class="cuerpo_tabla_centro">0,371</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0025</td>
+<td class="cuerpo_tabla_izq">MELILLA 10, G-10</td>
+<td class="cuerpo_tabla_centro">0,921</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0175</td>
+<td class="cuerpo_tabla_izq">MELILLA 11, DIÉSEL 10</td>
+<td class="cuerpo_tabla_centro">1,199</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">MELILLA G. Electrógenos (*)</td>
+<td class="cuerpo_tabla_izq">MELILLA G. Electrógenos (*)</td>
+<td class="cuerpo_tabla_centro">1,318</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0180</td>
+<td class="cuerpo_tabla_izq">MELILLA G-12</td>
+<td class="cuerpo_tabla_centro">1,954</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0185</td>
+<td class="cuerpo_tabla_izq">MELILLA 13</td>
+<td class="cuerpo_tabla_centro">1,998</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0011</td>
+<td class="cuerpo_tabla_izq">CEUTA 1, G-1</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0026</td>
+<td class="cuerpo_tabla_izq">CEUTA 2, G-2</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0015</td>
+<td class="cuerpo_tabla_izq">CEUTA 6, G-6</td>
+<td class="cuerpo_tabla_centro">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0016</td>
+<td class="cuerpo_tabla_izq">CEUTA 7, G-7</td>
+<td class="cuerpo_tabla_centro">0,254</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0177</td>
+<td class="cuerpo_tabla_izq">CEUTA 8, G-8</td>
+<td class="cuerpo_tabla_centro">0,351</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0178</td>
+<td class="cuerpo_tabla_izq">CEUTA 9, G-9</td>
+<td class="cuerpo_tabla_centro">1,178</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0181</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 10</td>
+<td class="cuerpo_tabla_centro">1,836</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0184</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 11</td>
+<td class="cuerpo_tabla_centro">1,999</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0204</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 12</td>
+<td class="cuerpo_tabla_centro">1,267</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0206</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 13</td>
+<td class="cuerpo_tabla_centro">2,174</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">DENTRO DE MELILLA G. Electrógenos (*) están los siguientes grupos:</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0027</td>
+<td class="cuerpo_tabla_izq">MELILLA 12, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0028</td>
+<td class="cuerpo_tabla_izq">MELILLA 13, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0029</td>
+<td class="cuerpo_tabla_izq">MELILLA 14, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0030</td>
+<td class="cuerpo_tabla_izq">MELILLA 15, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0031</td>
+<td class="cuerpo_tabla_izq">MELILLA 16, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0032</td>
+<td class="cuerpo_tabla_izq">MELILLA 17, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0033</td>
+<td class="cuerpo_tabla_izq">MELILLA 18, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0034</td>
+<td class="cuerpo_tabla_izq">MELILLA 19, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0035</td>
+<td class="cuerpo_tabla_izq">MELILLA 20, G. ELECTRÓGENO (ANTES CEUTA 10)</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0036</td>
+<td class="cuerpo_tabla_izq">MELILLA 21, G. ELECTRÓGENO (ANTES CEUTA 11)</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0037</td>
+<td class="cuerpo_tabla_izq">MELILLA 22, G. ELECTRÓGENO (ANTES CEUTA 12)</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0038</td>
+<td class="cuerpo_tabla_izq">MELILLA 23, G. ELECTRÓGENO (ANTES CEUTA 13)</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+5\. Los valores unitarios de la anualidad de operación y mantenimiento fijos de las instalaciones tipo para el año 2012, 2013 y 2014 serán los siguientes:
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="5">Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2012</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Tecnología</th>
+<th>
+<p class="cabeza_tabla">Potencia Neta</p>
+<p class="cabeza_tabla">(MW)</p>
+</th>
+<th class="cabeza_tabla">Baleares</th>
+<th class="cabeza_tabla">Canarias</th>
+<th class="cabeza_tabla">Ceuta y Melilla</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
+<td class="cuerpo_tabla_der">80.582</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">92.373</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
+<td class="cuerpo_tabla_der">56.526</td>
+<td class="cuerpo_tabla_der">64.796</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
+<td class="cuerpo_tabla_der">47.743</td>
+<td class="cuerpo_tabla_der">54.728</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
+<td class="cuerpo_tabla_der">56.705</td>
+<td class="cuerpo_tabla_der">65.001</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">145.413</td>
+<td class="cuerpo_tabla_der">145.413</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">145.413</td>
+<td class="cuerpo_tabla_der">145.413</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">119.350</td>
+<td class="cuerpo_tabla_der">119.350</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
+<td class="cuerpo_tabla_der">68.476</td>
+<td class="cuerpo_tabla_der">78.496</td>
+<td class="cuerpo_tabla_der">78.496</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
+<td class="cuerpo_tabla_der">22.088</td>
+<td class="cuerpo_tabla_der">25.321</td>
+<td class="cuerpo_tabla_der">25.321</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
+<td class="cuerpo_tabla_der">37.115</td>
+<td class="cuerpo_tabla_der">42.546</td>
+<td class="cuerpo_tabla_der">42.546</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
+<td class="cuerpo_tabla_der">28.336</td>
+<td class="cuerpo_tabla_der">32.483</td>
+<td class="cuerpo_tabla_der">32.483</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
+<td class="cuerpo_tabla_der">19.557</td>
+<td class="cuerpo_tabla_der">22.420</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
+<td class="cuerpo_tabla_der">13.348</td>
+<td class="cuerpo_tabla_der">15.302</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">47.236</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
+<td class="cuerpo_tabla_der">22.249</td>
+<td class="cuerpo_tabla_der">25.506</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">23.727</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">22.499</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_der">33.549</td>
+<td class="cuerpo_tabla_der">38.457</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_der">33.549</td>
+<td class="cuerpo_tabla_der">38.457</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Hidráulica</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">133.159</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="5">Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2013</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Tecnología</th>
+<th>
+<p class="cabeza_tabla">Potencia Neta</p>
+<p class="cabeza_tabla">(MW)</p>
+</th>
+<th class="cabeza_tabla">Baleares</th>
+<th class="cabeza_tabla">Canarias</th>
+<th class="cabeza_tabla">Ceuta y Melilla</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
+<td class="cuerpo_tabla_der">80.001</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">91.708</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
+<td class="cuerpo_tabla_der">56.119</td>
+<td class="cuerpo_tabla_der">64.330</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
+<td class="cuerpo_tabla_der">47.399</td>
+<td class="cuerpo_tabla_der">54.334</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
+<td class="cuerpo_tabla_der">56.296</td>
+<td class="cuerpo_tabla_der">64.533</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">144.366</td>
+<td class="cuerpo_tabla_der">144.366</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">144.366</td>
+<td class="cuerpo_tabla_der">144.366</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">118.490</td>
+<td class="cuerpo_tabla_der">118.490</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
+<td class="cuerpo_tabla_der">67.983</td>
+<td class="cuerpo_tabla_der">77.931</td>
+<td class="cuerpo_tabla_der">77.931</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
+<td class="cuerpo_tabla_der">21.929</td>
+<td class="cuerpo_tabla_der">25.138</td>
+<td class="cuerpo_tabla_der">25.138</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
+<td class="cuerpo_tabla_der">36.847</td>
+<td class="cuerpo_tabla_der">42.240</td>
+<td class="cuerpo_tabla_der">42.240</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
+<td class="cuerpo_tabla_der">28.132</td>
+<td class="cuerpo_tabla_der">32.249</td>
+<td class="cuerpo_tabla_der">32.249</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
+<td class="cuerpo_tabla_der">19.417</td>
+<td class="cuerpo_tabla_der">22.258</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
+<td class="cuerpo_tabla_der">13.252</td>
+<td class="cuerpo_tabla_der">15.192</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">46.896</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
+<td class="cuerpo_tabla_der">22.089</td>
+<td class="cuerpo_tabla_der">25.322</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">23.556</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">22.337</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_der">33.307</td>
+<td class="cuerpo_tabla_der">38.180</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_der">33.307</td>
+<td class="cuerpo_tabla_der">38.180</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Hidráulica</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">132.200</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="5">Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2014</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Tecnología</th>
+<th>
+<p class="cabeza_tabla">Potencia Neta</p>
+<p class="cabeza_tabla">(MW)</p>
+</th>
+<th class="cabeza_tabla">Baleares</th>
+<th class="cabeza_tabla">Canarias</th>
+<th class="cabeza_tabla">Ceuta y Melilla</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt;5</td>
+<td class="cuerpo_tabla_der">79.265</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">90.865</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
+<td class="cuerpo_tabla_der">55.603</td>
+<td class="cuerpo_tabla_der">63.738</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
+<td class="cuerpo_tabla_der">46.963</td>
+<td class="cuerpo_tabla_der">53.834</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
+<td class="cuerpo_tabla_der">55.778</td>
+<td class="cuerpo_tabla_der">63.939</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">143.038</td>
+<td class="cuerpo_tabla_der">143.038</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">143.038</td>
+<td class="cuerpo_tabla_der">143.038</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">117.400</td>
+<td class="cuerpo_tabla_der">117.400</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
+<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
+<td class="cuerpo_tabla_der">67.358</td>
+<td class="cuerpo_tabla_der">77.214</td>
+<td class="cuerpo_tabla_der">77.214</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
+<td class="cuerpo_tabla_der">21.727</td>
+<td class="cuerpo_tabla_der">24.907</td>
+<td class="cuerpo_tabla_der">24.907</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
+<td class="cuerpo_tabla_der">36.508</td>
+<td class="cuerpo_tabla_der">41.851</td>
+<td class="cuerpo_tabla_der">41.851</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
+<td class="cuerpo_tabla_der">27.873</td>
+<td class="cuerpo_tabla_der">31.952</td>
+<td class="cuerpo_tabla_der">31.952</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
+<td class="cuerpo_tabla_der">19.238</td>
+<td class="cuerpo_tabla_der">22.054</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
+<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
+<td class="cuerpo_tabla_der">13.130</td>
+<td class="cuerpo_tabla_der">15.052</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der">46.464</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
+<td class="cuerpo_tabla_der">21.886</td>
+<td class="cuerpo_tabla_der">25.089</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">23.339</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
+<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">22.131</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_der">33.001</td>
+<td class="cuerpo_tabla_der">37.829</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
+<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
+<td class="cuerpo_tabla_der">33.001</td>
+<td class="cuerpo_tabla_der">37.829</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Hidráulica</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der">130.984</td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+</tbody>
+</table>
+
+Los valores unitarios de la anualidad de operación y mantenimiento fijos de las instalaciones tipo para los meses del año 2015 que aplique este transitorio serán los establecidos en el anexo XII.3.
+
+6\. Valores unitarios máximos de inversión.
+
+El valor unitario máximo de inversión, en €/KW, definido en la disposición transitoria séptima, se obtendrá, para una determinada tecnología, a partir de la siguiente expresión:
+
+Iu = k * PN^l
+
+Siendo
+
+PN: potencia neta en MW del grupo que conste en el registro administrativo de instalaciones de producción.
+
+k y l: parámetros que se calcularán de acuerdo con lo previsto a continuación.
+
+Los valores de k y l aplicables a Baleares se muestran en la tabla siguiente:
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">Inversión unitaria (por kW neto) Tipo de planta</th>
+<th class="cabeza_tabla" colspan="2">Año 2015</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Parámetros</th>
+<th class="cabeza_tabla">k</th>
+<th class="cabeza_tabla">l</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Turbina de gas aeroderivada</td>
+<td class="cuerpo_tabla_centro">1551,10</td>
+<td class="cuerpo_tabla_centro">-0,2099</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbina de gas ciclo simple. Heavy Duty</td>
+<td class="cuerpo_tabla_centro">1314,65</td>
+<td class="cuerpo_tabla_centro">-0,1774</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 1TG+1TV</td>
+<td class="cuerpo_tabla_centro">1669,17</td>
+<td class="cuerpo_tabla_centro">-0,1337</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 2TG+1TV</td>
+<td class="cuerpo_tabla_centro">997,14</td>
+<td class="cuerpo_tabla_centro">-0,0204</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 3TG+1TV</td>
+<td class="cuerpo_tabla_centro">1105,08</td>
+<td class="cuerpo_tabla_centro">-0,0428</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Motores diésel 4T</td>
+<td class="cuerpo_tabla_centro">2389,69</td>
+<td class="cuerpo_tabla_centro">-0,2264</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Motores diésel 2T</td>
+<td class="cuerpo_tabla_centro">2328,76</td>
+<td class="cuerpo_tabla_centro">-0,2244</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Vapor Carbón</td>
+<td class="cuerpo_tabla_centro">3439,22</td>
+<td class="cuerpo_tabla_centro">-0,2090</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">Inversión unitaria (por kW neto) Tipo de planta</th>
+<th class="cabeza_tabla" colspan="2">año 2014</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Parámetros</th>
+<th class="cabeza_tabla">k</th>
+<th class="cabeza_tabla">l</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Turbina de gas aeroderivada</td>
+<td class="cuerpo_tabla_centro">1566,41</td>
+<td class="cuerpo_tabla_centro">-0,2099</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbina de gas ciclo simple. Heavy Duty</td>
+<td class="cuerpo_tabla_centro">1327,63</td>
+<td class="cuerpo_tabla_centro">-0,1774</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 1TG+1TV</td>
+<td class="cuerpo_tabla_centro">1685,64</td>
+<td class="cuerpo_tabla_centro">-0,1337</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 2TG+1TV</td>
+<td class="cuerpo_tabla_centro">1006,98</td>
+<td class="cuerpo_tabla_centro">-0,0204</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 3TG+1TV</td>
+<td class="cuerpo_tabla_centro">1115,99</td>
+<td class="cuerpo_tabla_centro">-0,0428</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Motores diésel 4T</td>
+<td class="cuerpo_tabla_centro">2413,28</td>
+<td class="cuerpo_tabla_centro">-0,2264</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Motores diésel 2T</td>
+<td class="cuerpo_tabla_centro">2351,74</td>
+<td class="cuerpo_tabla_centro">-0,2244</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Vapor Carbón</td>
+<td class="cuerpo_tabla_centro">3473,16</td>
+<td class="cuerpo_tabla_centro">-0,209</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">Inversión unitaria (por kW neto) Tipo de planta</th>
+<th class="cabeza_tabla" colspan="2">año 2013</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Parámetros</th>
+<th class="cabeza_tabla">k</th>
+<th class="cabeza_tabla">l</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Turbina de gas aeroderivada</td>
+<td class="cuerpo_tabla_centro">1578,16</td>
+<td class="cuerpo_tabla_centro">-0,2099</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbina de gas ciclo simple. Heavy Duty</td>
+<td class="cuerpo_tabla_centro">1337,58</td>
+<td class="cuerpo_tabla_centro">-0,1774</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 1TG+1TV</td>
+<td class="cuerpo_tabla_centro">1698,28</td>
+<td class="cuerpo_tabla_centro">-0,1337</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 2TG+1TV</td>
+<td class="cuerpo_tabla_centro">1014,53</td>
+<td class="cuerpo_tabla_centro">-0,0204</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 3TG+1TV</td>
+<td class="cuerpo_tabla_centro">1124,36</td>
+<td class="cuerpo_tabla_centro">-0,0428</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Motores diésel 4T</td>
+<td class="cuerpo_tabla_centro">2431,37</td>
+<td class="cuerpo_tabla_centro">-0,2264</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Motores diésel 2T</td>
+<td class="cuerpo_tabla_centro">2369,38</td>
+<td class="cuerpo_tabla_centro">-0,2244</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Vapor Carbón</td>
+<td class="cuerpo_tabla_centro">3499,21</td>
+<td class="cuerpo_tabla_centro">-0,2090</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">Inversión unitaria (por kW neto) Tipo de planta</th>
+<th class="cabeza_tabla" colspan="2">Año 2012</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Parámetros</th>
+<th class="cabeza_tabla">k</th>
+<th class="cabeza_tabla">l</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Turbina de gas aeroderivada</td>
+<td class="cuerpo_tabla_centro">1585,77</td>
+<td class="cuerpo_tabla_centro">-0,2099</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Turbina de gas ciclo simple. Heavy Duty</td>
+<td class="cuerpo_tabla_centro">1344,03</td>
+<td class="cuerpo_tabla_centro">-0,1774</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 1TG+1TV</td>
+<td class="cuerpo_tabla_centro">1706,47</td>
+<td class="cuerpo_tabla_centro">-0,1337</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 2TG+1TV</td>
+<td class="cuerpo_tabla_centro">1019,42</td>
+<td class="cuerpo_tabla_centro">-0,0204</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciclo combinado 3TG+1TV</td>
+<td class="cuerpo_tabla_centro">1129,78</td>
+<td class="cuerpo_tabla_centro">-0,0428</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Motores diésel 4T</td>
+<td class="cuerpo_tabla_centro">2443,10</td>
+<td class="cuerpo_tabla_centro">-0,2264</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Motores diésel 2T</td>
+<td class="cuerpo_tabla_centro">2380,81</td>
+<td class="cuerpo_tabla_centro">-0,2244</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Vapor Carbón</td>
+<td class="cuerpo_tabla_centro">3516,09</td>
+<td class="cuerpo_tabla_centro">-0,2090</td>
+</tr>
+</tbody>
+</table>
+
+El parámetro l aplicable a Canarias, Ceuta y Melilla tomará el valor de la tabla de Baleares.
+
+El parámetro «k» aplicable a Canarias tomará el valor de la tabla de Baleares multiplicado por 1,15, y el parámetro «k» aplicable a Ceuta y Melilla se obtendrá de multiplicar el valor correspondiente a Baleares por 1,1.
+
+> Se modifica por la disposición final 3.22 a 29 de la Orden IET/2735/2015, de 17 de diciembre. [Ref. BOE-A-2015-13782](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13782)
+
+## ANEXO XV — Potencia bruta y neta de las instalaciones de generación
+
+1\. A todos los efectos, la potencia bruta y neta de las instalaciones de generación de energía eléctrica se expresarán en MW con un decimal.
+
+2\. La potencia neta, dependiendo de la tecnología utilizada, se define de la siguiente forma:
+
+a) La potencia neta de cada grupo térmico se define como la máxima potencia que pueda mantenerse en marcha continuada durante al menos cien horas y referida a los bornes del generador del grupo deducidos los consumos auxiliares para expresarlo en barras de central, suponiendo que la totalidad de sus instalaciones está en servicio y que existe en el parque correspondiente una cantidad de combustible suficiente y con la calidad habitual.
+
+En aquellos sistemas eléctricos aislados de los territorios no peninsulares, en los cuales no se pueda llevar a cabo la prueba definida en este apartado sin que se vea comprometida la seguridad de suministro, la potencia neta se definirá a partir de la prueba de fiabilidad del grupo.
+
+La circunstancia de que la seguridad de suministro pueda verse afectada por la realización de la prueba de potencia neta será declarada por el operador del sistema.
+
+La prueba de fiabilidad consistirá en mantener al grupo térmico a una carga cercana a la nominal durante al menos 100 horas, según las instrucciones dadas por el operador del sistema, con el objetivo de verificar la fiabilidad de las prestaciones del grupo en una operación ininterrumpida en las condiciones de explotación propias de estos sistemas.
+
+b) La potencia neta de cada grupo hidráulico convencional o mixto se define como la máxima potencia que pueda mantenerse en servicio de forma continuada durante al menos quince horas y referida a los bornes del generador del grupo deducidos los consumos auxiliares para expresarlo en barras de central, suponiendo que la totalidad de sus instalaciones está en servicio y siendo óptimas las condiciones de caudal y altura del salto.
+
+c) La potencia neta de cada grupo de bombeo puro se define como la máxima potencia que pueda mantenerse en servicio de forma continuada durante al menos dos horas y referida a los bornes del generador del grupo deducidos los consumos auxiliares para expresarlo en barras de central, suponiendo que la totalidad de sus instalaciones está en servicio.
+
+3\. La potencia neta a la que se hace referencia en los párrafos anteriores y la potencia bruta se calcularán de acuerdo al siguiente protocolo genérico:
+
+a) Comunicación al operador del sistema de la prueba a realizar.
+
+b) Confirmación de la disponibilidad de combustible o agua, según corresponda.
+
+c) Señalamiento con fecha y hora del comienzo y fin de la prueba.
+
+d) Comprobación de la lectura de los contadores de energía del grupo en el inicio de la prueba y posterior sellado de las cajas de los contadores. A este respecto, la central deberá disponer de todos aquellos equipos de medida que sean necesarios para obtener los valores indicados en el apartado g). De no ser así, los equipos deberán instalarse con anterioridad a la realización de la prueba de potencia.
+
+e) Comprobación de la lectura de los contadores de energía del grupo al final de la prueba.
+
+f) Comprobación de los datos más característicos de funcionamiento de la caldera a fin de determinar que no se sobrepasan las especificaciones del fabricante.
+
+g) Deducción por diferencia de lecturas de los siguientes valores:
+
+− Energía generada por el grupo, medida en bornes del mismo (E1).
+
+− Energía generada por el grupo medida después del transformador del grupo o en barras de central (E2).
+
+− Otros flujos de energía internos o entrantes a la central con destino a los consumos propios de la instalación (E3).
+
+h) Obtención de la potencia bruta media durante la prueba (E1), los consumos auxiliares y pérdidas de transformación (E1-E2+E3), y la potencia neta del grupo (bien directamente, si se dispone de equipo de medida específico (E2), bien por combinación de las anteriores).
+
+i) En el caso de grupos hidráulicos, una vez determinada la potencia bruta y neta partiendo de las condiciones del salto y caudal hidráulico durante la prueba de funcionamiento, se calculará la máxima potencia bruta y neta que se podría obtener en condiciones óptimas de caudal y salto. Esta extrapolación a condiciones óptimas de salto y caudal se deberá realizar empleando la curva de rendimiento de turbina certificada por el fabricante o confeccionada por un organismo de control.
+
+4\. La potencia bruta será la potencia bruta media obtenida durante la prueba (E1).
+
+## ANEXO XVI — Valor de la inversión reconocida de las instalaciones categoría A
+
+De acuerdo con lo establecido en la disposición transitoria undécima, los valores de la inversión reconocida, la inversión pendiente de amortizar a 31 de diciembre de 2011 y el inicio de la vida útil regulatoria de las instalaciones de producción de energía eléctrica categoría A que con anterioridad a la entrada en vigor de este real decreto tuvieran reconocido su valor de la inversión, son los siguientes:
+
+| N.º Registro | Denominación oficial | Potencia Neta<br>MW | Inicio VUregulatoria | Valor bruto de la inversión<br>M€ | Valor neto (amort. lineal) 31/12/2011 |
+|---|---|---|---|---|---|
+| RO1-1064 | ALCUDIA 1, GRUPO N.º 1 | 113,60 | 01/12/1981 | 95,600 | 0,000 |
+| RO1-1065 | ALCUDIA 2, GRUPO N.º 2 | 113,60 | 01/08/1982 | 95,600 | 0,000 |
+| RO2-0057 | ALCUDIA 3, TURBINA DE GAS N.º 1 | 32,70 | 01/02/1989 | 7,712 | 0,642 |
+| RO2-0058 | ALCUDIA 4, TURBINA DE GAS N.º 2 | 32,70 | 01/02/1989 | 7,338 | 0,611 |
+| RO1-1066 | ALCUDIA 5, GRUPO N.º 3 | 120,60 | 01/08/1997 | 154,490 | 65,401 |
+| RO1-1067 | ALCUDIA 6, GRUPO N.º 4 | 120,60 | 01/12/1997 | 154,000 | 67,247 |
+| RO2-0063 | FORMENTERA 1, TURBINA DE GAS N.º 1 | 11,50 | 01/03/1966 | 6,269 | 0,000 |
+| RO2-0036 | IBIZA 5, BURMEISTER N.º 1 | 7,10 | 01/04/1973 | 3,630 | 0,000 |
+| RO2-0038 | IBIZA 6, BURMEISTER N.º 2 | 7,10 | 01/11/1973 | 3,630 | 0,000 |
+| RO2-0039 | IBIZA 7, BURMEISTER N.º 3 | 7,10 | 01/10/1974 | 3,630 | 0,000 |
+| RO2-0040 | IBIZA 8, BURMEISTER N.º 4 | 7,10 | 01/12/1974 | 3,630 | 0,000 |
+| RO2-0043 | IBIZA 9, BURMEISTER N.º 5 | 14,20 | 01/07/1982 | 9,253 | 0,000 |
+| RO2-0044 | IBIZA 10, BURMEISTER N.º 6 | 14,20 | 01/09/1982 | 9,253 | 0,000 |
+| RO2-0045 | IBIZA 11, BURMEISTER N.º 7 | 14,20 | 01/06/1986 | 10,178 | 0,000 |
+| RO2-0059 | IBIZA 12, TURBINA DE GAS N.º 1 | 21,10 | 01/07/1988 | 4,855 | 0,292 |
+| RO2-0046 | IBIZA 13, BURMEISTER N.º 8 | 14,50 | 01/10/1993 | 16,894 | 4,561 |
+| RO2-0047 | IBIZA 14, BURMEISTER N.º 9 | 14,50 | 01/12/1993 | 15,208 | 4,207 |
+| RO2-0060 | IBIZA 15, TURBINA DE GAS N.º 2 | 11,50 | 01/01/1968 | 2,814 | 0,000 |
+| RO2-0159 | IBIZA 16, DIÉSEL MAN 1 | 17,40 | 01/07/2001 | 17,784 | 10,315 |
+| RO2-0160 | IBIZA 17, DIÉSEL MAN 2 | 17,40 | 01/08/2001 | 18,322 | 10,688 |
+| RO2-0158 | IBIZA TURBINA DE GAS N.º 3) | 17,7 | 01/12/1980 | 3,316 | 0,000 |
+| RO2-0161 | IBIZA TURBINA DE GAS N.º 4 | 17,7 | 01/11/1980 | 3,316 | 0,000 |
+| RO2-0182 | IBIZA 20 (MAN 3) | 17,40 | 29/06/2007 | 26,339473 | 21,595 |
+| RO2-0183 | IBIZA 21 (MAN 4) | 17,40 | 27/08/2007 | 26,339473 | 21,763 |
+| RO2-0201 | IBIZA 22, TURBINA DE GAS N.º 5 | 23,00 | 29/10/2008 | 17,516685 | 15,294 |
+| RO2-0202 | IBIZA 23, TURBINA DE GAS N.º 6 | 24,00 | 24/07/2009 | 18,662112 | 16,844 |
+| RO2-0037 | MAHÓN 9, BURMEISTER N.º 1 | 13,60 | 01/06/1991 | 18,159 | 3,208 |
+| RO2-0041 | MAHÓN 10, BURMEISTER N.º 2 | 13,60 | 01/04/1991 | 17,425 | 2,962 |
+| RO2-0042 | MAHÓN 11, BURMEISTER N.º 3 | 13,60 | 01/03/1991 | 17,788 | 2,965 |
+| RO2-0061 | MAHÓN 12, TURBINA DE GAS N.º 2 | 32,70 | 01/01/1994 | 8,126 | 2,275 |
+| RO2-0077 | MAHÓN 13, TURBINA DE GAS N.º 1 | 33,70 | 01/07/1999 | 9,531 | 4,766 |
+| RO1-1074 | MAHÓN 14, TURBINA DE GAS N.º 3 | 39,40 | 01/06/2004 | 21,981 | 15,314 |
+| RO2-0198 | MAHÓN TG4 | 50,00 | 21/10/2008 | 37,425234 | 32,644 |
+| RO2-0203 | MAHÓN 16, TURBINA DE GAS N.º 5 | 48,60 | 18/06/2009 | 37,345358 | 33,561 |
+| RO2-0031 | SON REUS 1, TURBINA DE GAS N.º 1 | 33,70 | 01/07/2000 | 12,067 | 6,516 |
+| RO2-0032 | SON REUS 2, TURBINA DE GAS N.º 2 | 33,70 | 01/07/2000 | 12,039 | 6,502 |
+| RO2-0033 | SON REUS 3, TURBINA DE GAS N.º 3 | 33,70 | 01/07/2000 | 12,039 | 6,501 |
+| RO2-0034 | SON REUS 4, TURBINA DE GAS N.º 4 | 33,70 | 01/08/2000 | 12,034 | 6,539 |
+| RO1-1068<br>RO1-1069<br>RO1-1070<br>RO1-1073 | SON REUS 5, TURBINA DE GAS N.º 5<br>SON REUS 6, TURBINA DE GAS N.º 6<br>SON REUS 7, TURBINA DE GAS N.º 7<br>SON REUS VAPOR 10 | 217,55 | 01/06/2002 | 212,106 | 130,799 |
+| RO1-1072 | SON REUS 9, TURBINA DE GAS N.º 9 (CC2) | 63,30 | 24/06/2003 | 63,361 | 41,768 |
+| RO1-1071 | SON REUS TURBINA DE GAS N.º 8 (CC2) | 74,10 | 24/06/2003 | 63,361 | 41,768 |
+| RO1-1075 | SON REUS TURBINA DE VAPOR N.º 2 (CC2) | 74,00 | 01/06/2005 | 63,361 | 46,675 |
+| RO2-0195 | CA'S TRESORER TG1, CC1 | 71,00 | 28/07/2006 | 73,862010 | 57,835 |
+| RO2-0196 | CA'S TRESORER TG2, CC1 | 71,00 | 04/08/2006 | 73,862010 | 57,890 |
+| RO2-0197 | CA'S TRESORER TV, CC1 | 72,50 | 28/06/2007 | 77,232614 | 63,314 |
+| RO1-2012 | CA'S TRESORER TG3, CC2 | 71,00 | 30/06/2009 | 77,406684 | 69,666 |
+| RO1-2013 | CA'S TRESORER TG4, CC2 | 71,00 | 08/09/2009 | 77,406684 | 70,251 |
+| RO1-2014 | CA'S TRESORER TV2, CC2 | 72,50 | 19/04/2010 | 79,123418 | 73,752 |
+
+| N.º Registro | Denominación oficial | Potencia Neta<br>MW | Inicio VUregulatoria | Valor bruto de la inversión<br>M€ | Valor neto (amort. lineal) 31/12/2011 |
+|---|---|---|---|---|---|
+| RO2-0089 | BARRANCO DE TIRAJANA 1, GAS 1 | 32,34 | 01/07/1992 | 9,198 | 2,023 |
+| RO2-0090 | BARRANCO DE TIRAJANA 2, GAS 2 | 32,34 | 01/05/1995 | 11,181 | 3,727 |
+| RO1-1049 | BARRANCO DE TIRAJANA 3, VAPOR 1 | 74,24 | 01/01/1996 | 143,557 | 51,680 |
+| RO1-1050 | BARRANCO DE TIRAJANA 4, VAPOR 2 | 74,24 | 01/06/1996 | 125,821 | 47,393 |
+| RO1-1051 | BARRANCO DE TIRAJANA 5, GAS 3 (CC1) | 68,70 | 19/07/2003 | 75,059 | 49,689 |
+| RO1-1052 | BARRANCO DE TIRAJANA 6, GAS 4 (CC1) | 68,70 | 21/08/2003 | 75,059 | 49,956 |
+| RO1-2000 | BARRANCO DE TIRAJANA 7, VAPOR 3 (CC1) | 68.70 | 22/11/2004 | 75,059 | 53,717 |
+| RO2-0188 | BARRANCO DE TIRAJANA 8, GAS 5 CC2 | 75,00 | 01/08/2006 | 75,846050 | 59,421 |
+| RO2-0189 | BARRANCO DE TIRAJANA 9, GAS 6 CC2 | 75,00 | 27/11/2006 | 75,846050 | 60,399 |
+| RO2-0190 | BARRANCO DE TIRAJANA 10, VAPOR 4 CC2 | 77,00 | 18/06/2008 | 80,294727 | 68,946 |
+| RO2-0081 | JINAMAR 2, DIÉSEL 1 | 8,51 | 01/02/1973 | 4,781 | 0,000 |
+| RO2-0082 | JINAMAR 3, DIÉSEL 2 | 8,51 | 01/09/1973 | 4,158 | 0,000 |
+| RO2-0083 | JINAMAR 4, DIÉSEL 3 | 8,51 | 01/02/1974 | 4,870 | 0,000 |
+| RO2-0086 | JINAMAR 7, GAS 1 | 17,64 | 01/05/1981 | 3,879 | 0,000 |
+| RO1-1047 | JINAMAR 8, VAPOR 4 | 55,56 | 01/08/1982 | 41,875 | 0,000 |
+| RO1-1048 | JINAMAR 9, VAPOR 5 | 55,56 | 01/11/1985 | 52,731 | 0,000 |
+| RO2-0087 | JINAMAR 10, GAS 2 | 32,34 | 01/02/1989 | 8,502 | 0,709 |
+| RO2-0088 | JINAMAR 11, GAS 3 | 32,34 | 01/05/1989 | 8,378 | 0,782 |
+| RO2-0084 | JINAMAR 12, DIÉSEL 4 | 20,51 | 01/06/1990 | 36,973 | 5,053 |
+| RO2-0085 | JINAMAR 13, DIÉSEL 5 | 20,51 | 01/08/1990 | 39,198 | 5,618 |
+| RO2-0118 | LAS SALINAS 1, DIÉSEL 1 | 3,82 | 01/10/1975 | 2,336 | 0,000 |
+| RO2-0119 | LAS SALINAS 2, DIÉSEL 2 | 3,82 | 01/02/1976 | 2,503 | 0,000 |
+| RO2-0120 | LAS SALINAS 3, DIÉSEL 3 | 4,11 | 01/02/1980 | 2,652 | 0,000 |
+| RO2-0121 | LAS SALINAS 4, DIÉSEL 4 | 6,21 | 01/11/1981 | 3,967 | 0,000 |
+| RO2-0122 | LAS SALINAS 5, DIÉSEL 5 | 6,21 | 01/10/1981 | 4,648 | 0,000 |
+| RO2-0123 | LAS SALINAS 6, DIÉSEL 6 | 20,51 | 01/06/1990 | 40,228 | 5,497 |
+| RO2-0124 | LAS SALINAS 7, GAS 1 | 21,85 | 01/10/1992 | 8,486 | 1,951 |
+| RO2-0125 | LAS SALINAS 8, GAS 2 | 29,40 | 01/07/2000 | 15,965 | 8,621 |
+| RO2-0135 | SALINAS,LAS 9 (GUINCHOS, LOS 11) | 11,74 | 01/01/1988 | 4,997 | 0,200 |
+| RO2-0179 | LAS SALINAS 10, DIÉSEL 7 | 17,20 | 16/07/2004 | 36,193 | 25,396 |
+| RO2-0199 | LAS SALINAS 11, DIÉSEL 8 | 17,20 | 25/07/2005 | 25,737 | 19,560 |
+| RO2-0200 | LAS SALINAS 12, DIÉSEL 9 | 17,20 | 28/09/2005 | 26,463 | 20,112 |
+| RO2-0107 | PUNTA GRANDE 2, DIÉSEL 1 | 6,49 | 01/06/1986 | 7,912 | 0,000 |
+| RO2-0108 | PUNTA GRANDE 3, DIÉSEL 2 | 6,49 | 01/12/1986 | 7,773 | 0,000 |
+| RO2-0109 | PUNTA GRANDE 7, DIÉSEL 3 | 6,49 | 01/10/1987 | 5,392 | 0,162 |
+| RO2-0115 | PUNTA GRANDE 9, GAS 1 | 19,60 | 01/06/1988 | 5,964 | 0,338 |
+| RO2-0110 | PUNTA GRANDE 11, DIÉSEL 4 | 12,85 | 01/07/1989 | 17,172 | 1,718 |
+| RO2-0111 | PUNTA GRANDE 12, DIÉSEL 5 | 12,85 | 01/05/1989 | 16,959 | 1,583 |
+| RO2-0112 | PUNTA GRANDE 13, DIÉSEL 6 | 20,51 | 01/09/1992 | 35,052 | 7,945 |
+| RO2-0116 | PUNTA GRANDE 14, GAS 2 | 32,34 | 01/01/1998 | 13,512 | 5,945 |
+| RO2-0113 | PUNTA GRANDE 15, DIÉSEL 7 | 17,20 | 21/02/2002 | 24,811 | 15,024 |
+| RO2-0114 | PUNTA GRANDE 16, DIÉSEL 8 | 17,20 | 21/01/2002 | 25,228 | 15,193 |
+| RO2-0193 | PUNTA GRANDE DIÉSEL 9 | 17,60 | 01/02/2006 | 30,094336 | 22,976 |
+| RO2-0194 | PUNTA GRANDE DIÉSEL 10 | 17,60 | 01/03/2006 | 30,526430 | 23,407 |
+| RO2-0095 | CANDELARIA 3, DIÉSEL 1 | 8,51 | 01/05/1972 | 4,027 | 0,000 |
+| RO2-0096 | CANDELARIA 4, DIÉSEL 2 | 8,51 | 01/02/1972 | 3,983 | 0,000 |
+| RO2-0100 | CANDELARIA 5, GAS 3 | 14,70 | 01/12/1972 | 3,512 | 0,000 |
+| RO2-0097 | CANDELARIA 6, DIÉSEL 3 | 8,51 | 01/11/1973 | 3,954 | 0,000 |
+| RO2-0093 | CANDELARIA 9, VAPOR 5 | 37,28 | 01/03/1979 | 14,161 | 0,000 |
+| RO2-0094 | CANDELARIA 10, VAPOR 6 | 37,28 | 01/10/1985 | 42,992 | 0,000 |
+| RO2-0098 | CANDELARIA 11, GAS 1 | 32,34 | 01/11/1988 | 7,906 | 0,580 |
+| RO2-0099 | CANDELARIA 12, GAS 2 | 32,34 | 01/07/1989 | 8,664 | 0,867 |
+| RO2-0103 | GRANADILLA 1, GAS 1 | 32,34 | 01/08/1990 | 10,519 | 1,508 |
+| RO2-0101 | GRANADILLA 2, DIÉSEL 1 | 20,51 | 01/06/1991 | 25,317 | 4,473 |
+| RO2-0102 | GRANADILLA 3, DIÉSEL 2 | 20,51 | 01/08/1991 | 25,588 | 4,691 |
+| RO1-1054 | GRANADILLA 4, VAPOR 2 | 74,24 | 01/09/1995 | 144,155 | 49,974 |
+| RO1-1053 | GRANADILLA 5, VAPOR 1 | 74,24 | 01/12/1995 | 127,711 | 45,550 |
+| RO2-0104 | GRANADILLA 6, GAS 2 | 39,20 | 10/12/2001 | 30,208 | 19,263 |
+| RO1-1055 | GRANADILLA 7, GAS 3 (CC1) | 68,70 | 21/09/2003 | 71,532 | 47,847 |
+| RO1-1056 | GRANADILLA 8, GAS 4 (CC1) | 68,70 | 09/04/2004 | 71,532 | 49,420 |
+| RO1-1087 | GRANADILLA 9, VAPOR, 3 (CC1) | 68,70 | 01/06/2005 | 71,532 | 52,695 |
+| RO1-2015 | GRANADILLA 10, TG 5 (CC2) | 75,00 | 16/06/2010 | 89,048 | 80,986 |
+| RO1-2016 | GRANADILLA 11, TG 6 (CC2) | 75,00 | 09/07/2010 | 89,048 | 81,194 |
+| RO1-1063 | GRANADILLA 12, VAPOR 4 (CC2) | 76,20 | 21/10/2011 | PDTE | PDTE |
+| RO2-0105 | ARONA 1, GAS 1 | 21,60 | 19/05/2003 | 15,905 | 10,423 |
+| RO2-0106 | ARONA 2, GAS 2 | 21,60 | 03/06/2003 | 16,472 | 10,821 |
+| RO2-0127 | LOS GUINCHOS 6, DIÉSEL 6 | 3,82 | 01/02/1973 | 2,026 | 0,000 |
+| RO2-0128 | LOS GUINCHOS 7, DIÉSEL 7 | 3,82 | 01/12/1973 | 1,949 | 0,000 |
+| RO2-0129 | LOS GUINCHOS 8, DIÉSEL 8 | 3,82 | 01/05/1975 | 2,443 | 0,000 |
+| RO2-0130 | LOS GUINCHOS 9, DIÉSEL 9 | 4,30 | 01/07/1980 | 2,567 | 0,000 |
+| RO2-0131 | LOS GUINCHOS 10, DIÉSEL 10 | 6,69 | 01/03/1983 | 3,976 | 0,000 |
+| RO2-0132 | LOS GUINCHOS 12, DIÉSEL 11 | 6,69 | 01/03/1995 | 8,064 | 2,635 |
+| RO2-0133 | LOS GUINCHOS 13, DIÉSEL 12 | 11,50 | 01/02/2001 | 12,254 | 6,903 |
+| RO2-0134 | LOS GUINCHOS 14, DIÉSEL 13 | 11,20 | 10/11/2003 | 28,888 | 19,480 |
+| RO2-0187 | LOS GUINCHOS 15, GAS MÓVIL 2 | 21,60 | 11/12/2004 | 20,190 | 14,492 |
+| RO2-0191 | LOS GUINCHOS 16 (DIÉSEL 14) | 11,50 | 01/07/2006 | 24,652224 | 19,231 |
+| RO2-0192 | LOS GUINCHOS 17 (DIÉSEL 15) | 11,50 | 01/08/2006 | 24,845187 | 19,465 |
+| RO2-0136 | EL PALMAR 13, DIÉSEL 12 | 1,40 | 01/05/1988 | 1,255 | 0,067 |
+| RO2-0137 | EL PALMAR 14, DIÉSEL 13 | 1,40 | 01/01/1987 | 1,249 | 0,000 |
+| RO2-0138 | EL PALMAR 15, DIÉSEL 14 | 1,84 | 01/08/1987 | 2,492 | 0,058 |
+| RO2-0139 | EL PALMAR 16, DIÉSEL 15 | 1,84 | 01/06/1988 | 2,416 | 0,137 |
+| RO2-0140 | EL PALMAR 17, DIÉSEL 16 | 2,51 | 01/03/1996 | 2,786 | 1,021 |
+| RO2-0141 | EL PALMAR 18, DIÉSEL 17 | 2,51 | 01/05/2000 | 2,742 | 1,463 |
+| RO2-0142 | EL PALMAR 19, DIÉSEL 18 | 3,10 | 04/12/2004 | 6,966 | 4,994 |
+| RO2-0143 | EL PALMAR 20, DIÉSEL 19 | 3,10 | 03/06/2005 | 8,681 | 6,598 |
+| RO2-0149 | LLANOS BLANCOS 1, DIÉSEL MÓVIL 1 | 1,07 | 01/06/1987 | 0,470 | 0,008 |
+| RO3-0019 | LLANOS BLANCOS 9, DIÉSEL 7 | 0,67 | 01/08/1979 | 0,374 | 0,000 |
+| RO2-0144 | LLANOS BLANCOS 11, DIÉSEL 9 | 0,88 | 01/03/1986 | 0,716 | 0,000 |
+| RO2-0145 | LLANOS BLANCOS 12, DIÉSEL 10 | 1,07 | 01/09/1991 | 0,711 | 0,132 |
+| RO2-0146 | LLANOS BLANCOS 13, DIÉSEL 11 | 1,07 | 01/12/1991 | 0,972 | 0,191 |
+| RO2-0147 | LLANOS BLANCOS 14, DIÉSEL 12 | 1,26 | 01/02/1995 | 1,028 | 0,332 |
+| RO2-0148 | LLANOS BLANCOS 15, DIÉSEL 13 | 1,36 | 01/03/2000 | 1,160 | 0,611 |
+| RO2-0176 | LLANOS BLANCOS 16, DIÉSEL, 14 | 1,90 | 21/10/2005 | 3,928 | 2,985 |
+| RO2-0186 | LLANOS BLANCOS 17, DIÉSEL 15 | 1,90 | 01/12/2005 | 3,994 | 3,035 |
+| RO2-0213 | LLANOS BLANCOS 18, DIÉSEL 16 |  |  | PDTE | PDTE |
+| RO3-0018 | EL MULATO, HIDRÁULICA 1 | 0,3 | 01/01/1956 | 0,708 | 0,098 |
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">N.º Registro</th>
+<th class="cabeza_tabla">Denominación oficial</th>
+<th>
+<p class="cabeza_tabla">Potencia Neta</p>
+<p class="cabeza_tabla">MW</p>
+</th>
+<th class="cabeza_tabla">Inicio VUregulatoria</th>
+<th>
+<p class="cabeza_tabla">Valor bruto de la inversión</p>
+<p class="cabeza_tabla">M€</p>
+</th>
+<th class="cabeza_tabla">Valor neto (amort. lineal) 31/12/2011</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0020</td>
+<td class="cuerpo_tabla_izq">MELILLA 5, G-5</td>
+<td class="cuerpo_tabla_der">5,30</td>
+<td class="cuerpo_tabla_centro">01/12/1980</td>
+<td class="cuerpo_tabla_der">5,413</td>
+<td class="cuerpo_tabla_der">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0021</td>
+<td class="cuerpo_tabla_izq">MELILLA 6, G-6</td>
+<td class="cuerpo_tabla_der">5,30</td>
+<td class="cuerpo_tabla_centro">01/11/1980</td>
+<td class="cuerpo_tabla_der">5,413</td>
+<td class="cuerpo_tabla_der">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0024</td>
+<td class="cuerpo_tabla_izq">MELILLA 9, G-9</td>
+<td class="cuerpo_tabla_der">11,50</td>
+<td class="cuerpo_tabla_centro">01/07/1991</td>
+<td class="cuerpo_tabla_der">8,615</td>
+<td class="cuerpo_tabla_der">1,548</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0025</td>
+<td class="cuerpo_tabla_izq">MELILLA 10, G-10</td>
+<td class="cuerpo_tabla_der">8,51</td>
+<td class="cuerpo_tabla_centro">01/06/1997</td>
+<td class="cuerpo_tabla_der">16,71</td>
+<td class="cuerpo_tabla_der">6,963</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0175</td>
+<td class="cuerpo_tabla_izq">MELILLA 11, DIÉSEL 10</td>
+<td class="cuerpo_tabla_der">11,80</td>
+<td class="cuerpo_tabla_centro">01/10/2002</td>
+<td class="cuerpo_tabla_der">18,19</td>
+<td class="cuerpo_tabla_der">11,458</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">MELILLA G. Electrógenos (*)</td>
+<td class="cuerpo_tabla_izq">MELILLA G. Electrógenos (*)</td>
+<td class="cuerpo_tabla_der">9,60</td>
+<td class="cuerpo_tabla_centro">01/01/2003</td>
+<td class="cuerpo_tabla_der">19,84</td>
+<td class="cuerpo_tabla_der">12,699</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0180</td>
+<td class="cuerpo_tabla_izq">MELILLA G-12</td>
+<td class="cuerpo_tabla_der">11,80</td>
+<td class="cuerpo_tabla_centro">12/02/2007</td>
+<td class="cuerpo_tabla_der">26,11</td>
+<td class="cuerpo_tabla_der">21,009</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0185</td>
+<td class="cuerpo_tabla_izq">MELILLA 13</td>
+<td class="cuerpo_tabla_der">11,80</td>
+<td class="cuerpo_tabla_centro">13/12/2007</td>
+<td class="cuerpo_tabla_der">26,11</td>
+<td class="cuerpo_tabla_der">21,009</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0011</td>
+<td class="cuerpo_tabla_izq">CEUTA 1, G-1</td>
+<td class="cuerpo_tabla_der">5,30</td>
+<td class="cuerpo_tabla_centro">01/10/1980</td>
+<td class="cuerpo_tabla_der">4,311</td>
+<td class="cuerpo_tabla_der">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0026</td>
+<td class="cuerpo_tabla_izq">CEUTA 2, G-2</td>
+<td class="cuerpo_tabla_der">5,30</td>
+<td class="cuerpo_tabla_centro">01/11/1980</td>
+<td class="cuerpo_tabla_der">4,311</td>
+<td class="cuerpo_tabla_der">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0015</td>
+<td class="cuerpo_tabla_izq">CEUTA 6, G-6</td>
+<td class="cuerpo_tabla_der">5,30</td>
+<td class="cuerpo_tabla_centro">01/11/1986</td>
+<td class="cuerpo_tabla_der">3,566</td>
+<td class="cuerpo_tabla_der">0,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0016</td>
+<td class="cuerpo_tabla_izq">CEUTA 7, G-7</td>
+<td class="cuerpo_tabla_der">6,21</td>
+<td class="cuerpo_tabla_centro">01/07/1993</td>
+<td class="cuerpo_tabla_der">5,393</td>
+<td class="cuerpo_tabla_der">1,402</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0177</td>
+<td class="cuerpo_tabla_izq">CEUTA 8, G-8</td>
+<td class="cuerpo_tabla_der">8,51</td>
+<td class="cuerpo_tabla_centro">01/12/1998</td>
+<td class="cuerpo_tabla_der">6,034</td>
+<td class="cuerpo_tabla_der">2,876</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0178</td>
+<td class="cuerpo_tabla_izq">CEUTA 9, G-9</td>
+<td class="cuerpo_tabla_der">11,50</td>
+<td class="cuerpo_tabla_centro">01/12/2001</td>
+<td class="cuerpo_tabla_der">18,332</td>
+<td class="cuerpo_tabla_der">10,938</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0181</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 10</td>
+<td class="cuerpo_tabla_der">11,80</td>
+<td class="cuerpo_tabla_centro">05/02/2006</td>
+<td class="cuerpo_tabla_der">25,23</td>
+<td class="cuerpo_tabla_der">19,179</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0184</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 11</td>
+<td class="cuerpo_tabla_der">11,80</td>
+<td class="cuerpo_tabla_centro">19/12/2007</td>
+<td class="cuerpo_tabla_der">26,11</td>
+<td class="cuerpo_tabla_der">21,895</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0204</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 12</td>
+<td class="cuerpo_tabla_der">13,30</td>
+<td class="cuerpo_tabla_centro">01/03/2010</td>
+<td class="cuerpo_tabla_der">15,64</td>
+<td class="cuerpo_tabla_der">14,493</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO2-0206</td>
+<td class="cuerpo_tabla_izq">CEUTA, GRUPO 13</td>
+<td class="cuerpo_tabla_der">11,80</td>
+<td class="cuerpo_tabla_centro">27/07/2010</td>
+<td class="cuerpo_tabla_der">26,55</td>
+<td class="cuerpo_tabla_der">25,036</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">DENTRO DE MELILLA G. Electrógenos (*) están los siguientes grupos:</td>
+<td class="cuerpo_tabla_der" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0027</td>
+<td class="cuerpo_tabla_izq">MELILLA 12, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0028</td>
+<td class="cuerpo_tabla_izq">MELILLA 13, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0029</td>
+<td class="cuerpo_tabla_izq">MELILLA 14, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0030</td>
+<td class="cuerpo_tabla_izq">MELILLA 15, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0031</td>
+<td class="cuerpo_tabla_izq">MELILLA 16, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0032</td>
+<td class="cuerpo_tabla_izq">MELILLA 17, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0033</td>
+<td class="cuerpo_tabla_izq">MELILLA 18, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0034</td>
+<td class="cuerpo_tabla_izq">MELILLA 19, G. ELECTRÓGENO</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0035</td>
+<td class="cuerpo_tabla_izq">MELILLA 20, G. ELECTRÓGENO (ANTES CEUTA 10)</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0036</td>
+<td class="cuerpo_tabla_izq">MELILLA 21, G. ELECTRÓGENO (ANTES CEUTA 11)</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0037</td>
+<td class="cuerpo_tabla_izq">MELILLA 22, G. ELECTRÓGENO (ANTES CEUTA 12)</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">RO3-0038</td>
+<td class="cuerpo_tabla_izq">MELILLA 23, G. ELECTRÓGENO (ANTES CEUTA 13)</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO XVII — Factor de correlación entre energía bruta y la energía neta a efectos de la retribución por costes de los derechos de emisión
+
+Los factores de correlación Cor_p a aplicar en el cálculo de la retribución por costes de los derechos de emisión de un grupo son los siguientes:
+
+|  | Cor_p |
+|---|---|
+| CTCC(Gasóleo). | 1,028 |
+| CTCC(Gas Natural). | 1,035 |
+| Carbón. | 1,102 |
+| Motores diesel. | 1,054 |
+| Central Térmica Vapor (FO). | 1,095 |
+| Turbina de Gas (Gasóleo). | 1,016 |
+| Turbina Gas (Gas Natural). | 1,038 |
+
+> Se añade por la disposición final 1.10 del Real Decreto 446/2023, de 13 de junio. [Ref. BOE-A-2023-14048](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14048)

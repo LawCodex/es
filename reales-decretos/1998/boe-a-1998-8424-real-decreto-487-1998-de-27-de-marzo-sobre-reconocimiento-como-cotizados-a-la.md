@@ -1,0 +1,131 @@
+---
+title: "Real Decreto 487/1998, de 27 de marzo, sobre reconocimiento, como cotizados a la Seguridad Social, de períodos de actividad sacerdotal o religiosa de los sacerdotes y religiosos o religiosas de la Iglesia Católica secularizados"
+identifier: "BOE-A-1998-8424"
+eli: "https://www.boe.es/eli/es/rd/1998/03/27/487"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Asuntos Sociales"
+date: 1998-03-27
+published: 1998-04-09
+in_force_from: 1998-04-10
+last_amended: 2026-09-25
+consolidated: 2026-09-25
+gazette: "Boletín Oficial del Estado núm. 85"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-8424"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 487/1998, de 27 de marzo, sobre reconocimiento, como cotizados a la Seguridad Social, de períodos de actividad sacerdotal o religiosa de los sacerdotes y religiosos o religiosas de la Iglesia Católica secularizados
+
+La Ley 13/1996, de 30 de diciembre, de Medidas fiscales, administrativas y de orden social, establece, en su disposición adicional décima, que el Gobierno aprobará las disposiciones normativas que sean necesarias a los efectos de computar, para los religiosos y sacerdotes secularizados, el tiempo que estuvieron ejerciendo su ministerio o religión, y en el que no les fue permitido cotizar por su falta de inclusión en el sistema de la Seguridad Social, con objeto de que se les reconozca el derecho a la percepción de la pensión de jubilación denegada o a una cuantía superior a la que tienen reconocida.
+
+A la hora de abordar la regulación señalada se hace preciso distinguir dos colectivos: de una parte, las personas que, por falta de cotización necesaria, no han podido tener derecho a una pensión de jubilación en el sistema de Seguridad Social; de otra, aquellas que, a pesar de no haber podido cotizar por períodos anteriores a la secularización, sin embargo, a través de cotizaciones posteriores, han podido generar derecho a la clase de pensión señalada.
+
+No obstante, teniendo en cuenta la situación más desfavorable en que se encuentra el primero de los colectivos indicados, resulta conveniente abordar en un primer momento el desarrollo legal en lo que respecta a quienes carecen de pensión de jubilación, y que, si se computa, siquiera sea parcialmente, el tiempo de ejercicio ministerial o de religión, generarían derecho a la misma.
+
+A tal finalidad responde el presente Real Decreto, mediante el que se da cumplimiento parcial al contenido de la disposición adicional décima de la Ley 13/1996. A través del mismo, y para los sacerdotes y religiosos o religiosas de la Iglesia Católica secularizados, se consideran, como cotizados a la Seguridad Social y a efectos de completar el período mínimo de cotización actualmente exigible para la pensión contributiva de jubilación, los períodos que sean necesarios y que coincidan en el tiempo con el ejercicio del ministerio o de religión, con anterioridad a la fecha de inclusión en la Seguridad Social del colectivo de sacerdotes o de religiosos y religiosas de dicha Iglesia.
+
+En el cómputo de esos períodos se ha procurado buscar la mayor aproximación posible con la regulación que se dio, en su día, respecto a los sacerdotes y religiosos de la Iglesia Católica, de edad avanzada en el momento de la incorporación a la Seguridad Social de los respectivos colectivos.
+
+La regulación contenida en el presente Real Decreto no agota el desarrollo reglamentario de la disposición adicional décima de la Ley 13/1996, sino que, por las razones indicadas, constituye un primer paso, que deberá completarse posteriormente, a través de un segundo Real Decreto, que permita el cómputo de todos los períodos de ejercicio ministerial o de religión, en los términos señalados en el último inciso de la citada disposición adicional.
+
+En su virtud, a propuesta del Ministro de Trabajo y Asuntos Sociales, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 27 de marzo de 1998,
+
+## D I S P O N G O :
+
+### Artículo 1. Ámbito subjetivo.
+
+Lo establecido en este real decreto será de aplicación a quienes ostentaron la condición de sacerdotes o religiosos y religiosas de la Iglesia Católica y que, en la fecha de 1 de enero de 1997, se hubiesen secularizado o cesado en la profesión religiosa, siempre que reúnan los siguientes requisitos:
+
+a) Tener la edad ordinaria de jubilación prevista en el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.
+
+b) No tener derecho a pensión por jubilación de la Seguridad Social, en su modalidad contributiva.
+
+> Téngase en cuenta que esta actualización, establecida por la disposición final 3 del Real Decreto 737/2026, de 23 de septiembre, [Ref. BOE-A-2026-19846](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-19846), entra en vigor el 25 de diciembre de 2026, según determina su disposición final 6.
+
+> Redacción anterior:
+
+> "Lo establecido en el presente Real Decreto será de aplicación a quienes ostentaron la condición de sacerdotes o religiosos y religiosas de la Iglesia Católica y que, en la fecha de 1 de enero de 1997, se hubiesen secularizado o cesado en la profesión religiosa, siempre que reúnan los siguientes requisitos:
+
+> a) Tener sesenta y cinco o más años de edad.
+
+> b) No tener derecho a pensión por jubilación de la Seguridad Social, en su modalidad contributiva."
+
+> Se modifica, con efectos de 25 de diciembre de 2026, por la disposición final 3 del Real Decreto 737/2026, de 23 de septiembre. [Ref. BOE-A-2026-19846](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-19846)
+
+> Téngase en cuenta la disposición transitoria única del citado Real Decreto para los hechos causantes anteriores a su entrada en vigor.
+
+> Véase el art. 3 del Real Decreto 1512/2009, de 2 de octubre respecto a la ampliación del ámbito subjetivo. [Ref. BOE-A-2009-16770](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-16770).
+
+### Artículo 2. Períodos reconocidos como cotizados a la Seguridad Social.
+
+1\. A las personas a que se refiere el artículo anterior, y previa solicitud de los interesados, se les reconocerá como cotizados a la Seguridad Social, para poder acceder al derecho a la pensión de jubilación, el número de años de ejercicio sacerdotal o de profesión de religión que resulten necesarios para que, sumados a los años de cotización efectiva, que, en su caso, se pudieran acreditar, se alcance un cómputo global de quince años de cotización.
+
+Los períodos a reconocer en virtud de lo establecido en el párrafo anterior no podrán, en ningún caso, exceder de los períodos de ejercicio sacerdotal o de profesión religiosa, acreditados con anterioridad a:
+
+a) En el supuesto de sacerdotes secularizados: 1 de enero de 1978.
+
+b) En el caso de personas que abandonaron la profesión religiosa: 1 de mayo de 1982.
+
+Los períodos asimilados a cotizados a la Seguridad Social serán reconocidos, en el caso de los sacerdotes secularizados, en el Régimen General y, en el supuesto de personas que abandonaron la profesión de religión, en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos.
+
+2\. A los efectos previstos en el apartado anterior, los interesados deberán acreditar el tiempo de ejercicio sacerdotal o de profesión de religión, mediante certificación expedida, en el caso de los sacerdotes, por el Ordinario correspondiente y, en los supuestos de religioso o religiosa, por la autoridad competente de la respectiva Congregación.
+
+3\. Cuando con la suma de los períodos de cotización efectiva y los asimilados a cotizados de acuerdo con lo establecido en el apartado 1 no se alcance el período mínimo de cotización exigido para causar derecho a la pensión de jubilación, con carácter excepcional y en la medida necesaria para completar dicho período mínimo, podrán reconocerse, como cotizados a la Seguridad Social, los períodos en los que los interesados desarrollaron su actividad religiosa fuera del territorio español, siempre que acrediten que dicha actividad se prestó para la comunidad religiosa a la que pertenecían en ese momento y exclusivamente bajo las órdenes de sus superiores.
+
+> Se añade el apartado 3 por el art. 1.1 del Real Decreto 1512/2009, de 2 de octubre. [Ref. BOE-A-2009-16770](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-16770).
+
+### Artículo 3. Reconocimiento y cálculo de la pensión.
+
+1\. Una vez reconocidos como cotizados, de acuerdo con lo previsto en el artículo anterior, los períodos de ejercicio sacerdotal o de profesión de la religión que correspondan, se procederá al reconocimiento del derecho a la pensión de jubilación.
+
+A efectos de reconocimiento de la pensión de jubilación, no será exigible el período de carencia específica establecido con carácter general.
+
+2\. Para el cálculo de la pensión se tomarán, en primer lugar, si las hubiere, las bases reales de cotización acreditadas durante el período que integre la base reguladora, y las lagunas se completarán con las bases mínimas de cotización, previstas para los trabajadores mayores de dieciocho años en el régimen de que se trate, y que hubiesen correspondido a los meses que se les reconozca, contados, hacia atrás, desde la fecha de petición.
+
+### Artículo 4. Obligaciones de los interesados.
+
+1\. Los interesados deberán abonar el capital coste de la parte de la pensión que se derive de los años de cotización que se le hayan reconocido, en virtud de lo previsto en los artículos anteriores.
+
+A tal fin, la pensión a capitalizar será el resultado de aplicar a la correspondiente base reguladora el porcentaje obtenido de multiplicar por 3,33 el número de años que hayan sido reconocidos, como cotizados a la Seguridad Social, de acuerdo con lo previsto en el ar tículo 2.
+
+2\. El abono del capital coste a que se refiere el apartado anterior podrá ser aplazado por un período máximo de veinte años y fraccionado en pagos mensuales, deducibles de cada mensualidad de la pensión reconocida.
+
+> Se modifica el apartado 2 por el art. 1.2 del Real Decreto 1512/2009, de 2 de octubre. [Ref. BOE-A-2009-16770](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-16770).
+
+### Artículo 5. Garantía de pensión.
+
+1\. Los titulares de pensiones que se tramiten al amparo de lo dispuesto en este real decreto, si reúnen los requisitos determinantes del derecho al complemento por mínimos y hubieran optado por el abono del capital coste mediante su fraccionamiento en pagos mensuales deducibles de cada mensualidad de pensión, tendrán derecho a percibir, al menos, el importe del 95 por ciento de la cuantía mínima de la correspondiente pensión en la fecha del hecho causante. Esta medida se extenderá a los titulares de pensiones cuyo importe, como consecuencia de la citada deducción mensual, resultara inferior a la cantidad garantizada, siempre que, asimismo, reunieran los requisitos determinantes del derecho al complemento por mínimos.
+
+En el supuesto de concurrencia de pensiones, para la aplicación de la garantía establecida en el párrafo anterior, se tendrán en cuenta todas las pensiones percibidas por el beneficiario.
+
+2\. La cantidad mensual a deducir de la pensión para el abono del capital coste, en los supuestos regulados en el apartado anterior, será la diferencia entre la cuantía de la pensión, bien en su importe mínimo, bien en el superior que corresponda, y el importe garantizado, aplicándose la deducción a las mensualidades ordinarias de la pensión durante todo el tiempo necesario para la total amortización de la deuda. Una vez fijada la cuantía de dicha deducción, esta permanecerá invariable, con independencia de las modificaciones que pudiera experimentar el importe de la pensión en sucesivos ejercicios o del reconocimiento de pensiones derivadas.
+
+3\. Lo dispuesto en los apartados precedentes se entiende sin perjuicio de otro tipo de retenciones sobre los importes de la pensión que legalmente procedan.
+
+> Se añade por la disposición final 3 del Real Decreto 1335/2005, de 11 de noviembre. [Ref. BOE-A-2005-19151](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19151).
+
+> Téngase en cuenta para su aplicación la disposición final 6.3.
+
+### Disposición adicional única. Aplicación supletoria.
+
+En lo no previsto en el presente Real Decreto, serán de aplicación las disposiciones comunes que regulan los respectivos regímenes de la Seguridad Social en que se causen las correspondientes pensiones.
+
+### Disposición final primera. Facultades de desarrollo.
+
+Se faculta al Ministro de Trabajo y Asuntos Sociales para dictar las disposiciones generales que sean necesarias para la aplicación y desarrollo de este Real De creto.
+
+### Disposición final segunda. Entrada en vigor.
+
+Lo previsto en el presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 27 de marzo de 1998.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Asuntos Sociales,
+
+JAVIER ARENAS BOCANEGRA

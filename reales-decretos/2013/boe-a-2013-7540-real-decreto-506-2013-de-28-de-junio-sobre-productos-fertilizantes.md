@@ -1,0 +1,7087 @@
+---
+title: "Real Decreto 506/2013, de 28 de junio, sobre productos fertilizantes"
+identifier: "BOE-A-2013-7540"
+eli: "https://www.boe.es/eli/es/rd/2013/06/28/506"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2013-06-28
+published: 2013-07-10
+in_force_from: 2013-07-11
+last_amended: 2026-09-30
+consolidated: 2026-10-01
+gazette: "Boletín Oficial del Estado núm. 164"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-7540"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 506/2013, de 28 de junio, sobre productos fertilizantes
+
+Incluye la corrección de errores publicada en BOE núm 7, de 8 de enero de 2014. [Ref. BOE-A-2014-188](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-188).
+
+El suelo agrícola es un recurso inestimable y limitado, cuyo potencial agronómico actual se debe a la labor desarrollada por el hombre durante siglos. La degradación irreversible de este recurso supone no sólo destruir el bien más preciado de los agricultores, sino hipotecar las oportunidades agrícolas de generaciones futuras. Por este motivo, la protección del suelo constituye un objetivo prioritario en un buen abonado, para garantizar su fertilidad y su valor agronómico, presente y futuro.
+
+La aparición de nuevos productos que contienen nutrientes para las plantas y capacidad fertilizante no debe ser óbice para que se olviden sus posibles repercusiones en la salud y seguridad de las personas y del medio ambiente, por lo que procede regular la utilización de nuevos ingredientes en la elaboración de productos fertilizantes, de modo que eviten sus posibles efectos nocivos en el agua, el suelo, la flora, la fauna y el ser humano.
+
+En desarrollo de lo dispuesto en el Reglamento (CE) n.º 2003/2003 del Parlamento Europeo y del Consejo de 13 de octubre de 2003, relativo a los abonos, se publicó el Real Decreto 824/2005, de 8 de julio, sobre productos fertilizantes que complementa el citado Reglamento e introduce la regulación de nuevos tipos de abonos y enmiendas así como establece la normativa básica en lo relativo a todos estos productos y las normas necesarias de coordinación con la comunidades autónomas.
+
+Con posterioridad a dicho Reglamento se han aprobado una serie de disposiciones de ámbito comunitario y estatal, que afectan al articulado del Real Decreto 824/2005 y al contenido de sus anexos, por lo que se considera necesario derogar este real decreto y sustituirlo por la presente norma. Como disposiciones más destacadas convendría citar las siguientes:
+
+– Ley 17/2009, de 23 de noviembre, sobre libre acceso a las actividades de servicios y su ejercicio, que aplica en nuestro país la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, con el fin de garantizar el libre acceso a las actividades y simplificar procedimientos.
+
+– Ley 22/2011, de 28 de julio, de residuos y suelos contaminados, que afecta a la posible fabricación de productos fertilizantes de origen orgánico.
+
+– Real Decreto-ley 8/2011, de 1 de julio, de medidas de apoyo a los deudores hipotecarios, de control del gasto público y cancelación de deudas con empresas y autónomos contraídas por las entidades locales, de fomento de la actividad empresarial e impulso de la rehabilitación y de simplificación administrativa, por el que se regula el silencio positivo en materia de autorización y registro de fertilizantes y se amplía el plazo de resolución.
+
+– Reglamento (CE) n.º 1907/2006, del Parlamento Europeo y del Consejo, de 18 de diciembre de 2006, relativo al registro, la evaluación, la autorización y la restricción de las sustancias y preparados peligrosos (REACH).
+
+– Reglamento (CE) n.º 1272/2008, del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas.
+
+– Reglamento (CE) n.º 1069/2009, del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen las normas sanitarias aplicables a los subproductos animales y los productos derivados no destinados al consumo humano y por el que se deroga el Reglamento (CE) n.º 1774/2002, considerando su posible utilización en la fabricación de abonos y enmiendas.
+
+Al tratarse de la normativa básica en materia de fertilizantes que recoge concreciones sobre algunas de las disposiciones de los precitados reglamentos comunitarios y refunde y actualiza la normativa nacional existente en la materia, hace necesario su elaboración con rango de real decreto, de tal forma que garantice una mayor transparencia normativa para el sector y para las administraciones públicas.
+
+En consecuencia, con este real decreto se pretende, en primer lugar, concretar algunas de las disposiciones del Reglamento (CE) n.º 2003/2003, respecto de las que dicha norma establece que deben ser desarrolladas y completadas por los Estados miembros, y en segundo lugar, refundir y actualizar la normativa nacional existente relativa al resto de los abonos y a todo tipo de enmiendas, adaptándola, en su caso, a las exigencias de las disposiciones legales citadas anteriormente.
+
+Este real decreto incluye muy pocas modificaciones respecto del Real Decreto 824/2005, de 8 de julio, que afectan al contenido de sus artículos 2, 12, 13, 14, 19, 21, 24, 26, 27, 30 y 31 y a algunos apartados de los anexos, para precisar en detalle la regulación vigente y actualizar las remisiones que el citado Real Decreto 824/2005 que se deroga contenía a otras normas españolas y de la Unión Europea, habiéndose sin embargo optado por una refundición con el texto anterior aunque en su práctica totalidad permanece invariable.
+
+Se presta una especial atención a determinados fertilizantes, particularmente a los que utilizan materias primas de origen orgánico, que están sometidas a reglamentaciones competentes en materia de vigilancia y control y por todos los interesados en general, y se establece la obligatoriedad de su inscripción en el Registro de productos fertilizantes, actualizándose los requisitos de la comunicación al mismo.
+
+De igual forma, se contempla la adecuación de esta normativa al progreso técnico, estableciéndose el procedimiento de modificación de los anexos y el de inclusión de nuevos tipos de fertilizantes.
+
+En el caso de los laboratorios competentes para la realización de las pruebas y controles que deben hacer las administraciones públicas, es necesario clarificar las diferencias entre los acreditados de acuerdo con una norma EN y los autorizados de forma transitoria.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados.
+
+Este real decreto ha sido sometido al procedimiento de información en materia de normas y reglamentaciones técnicas, previsto en la Directiva 98/34/CE, del Parlamento Europeo y del Consejo, de 22 de junio de 1998, así como en el Real Decreto 1337/1999, de 31 de julio, por el que se regula la remisión de información en materia de normas y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad de la información.
+
+En su virtud, a propuesta de los Ministros de Agricultura, Alimentación y Medio Ambiente, de Industria, Energía y Turismo y de Sanidad, Servicios Sociales e Igualdad, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 28 de junio de 2013,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto y fines.
+
+1\. Este real decreto tiene por objeto establecer la normativa básica en materia de productos fertilizantes y las normas necesarias de coordinación con las comunidades autónomas.
+
+2\. Constituyen fines de este real decreto:
+
+a) Regular los aspectos del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, relativo a los abonos, cuya concreción y desarrollo han sido encomendados a los Estados miembros.
+
+b) Definir y tipificar los productos fertilizantes, distintos de los «abonos CE», que puedan utilizarse en la agricultura y la jardinería.
+
+c) Garantizar que las riquezas nutritivas y otras características de los productos fertilizantes se ajustan a las exigencias de este real decreto.
+
+d) Prevenir los riesgos para la salud y el medio ambiente por el uso de determinados productos.
+
+e) Regular el Registro de productos fertilizantes para la inscripción de determinados productos.
+
+f) Actualizar el procedimiento para la inscripción en el Registro de productos fertilizantes, previo a la puesta en el mercado de determinados productos.
+
+g) Establecer el procedimiento para la actualización de los anexos de este real decreto.
+
+### Artículo 2. Definiciones.
+
+A los efectos del presente real decreto, se entenderá como:
+
+1\. Nutriente: elemento químico esencial para la vida vegetal y el crecimiento de las plantas. Además del carbono (C), el oxígeno (O) y el hidrógeno (H), procedentes especialmente del aire y del agua, los elementos nutrientes se clasifican en: nutrientes principales, nutrientes secundarios y micronutrientes.
+
+2\. Nutriente principal: exclusivamente los elementos nitrógeno (N), fósforo (P) y potasio (K).
+
+3\. Nutriente secundario: los elementos calcio (Ca), magnesio (Mg), sodio (Na) y azufre (S).
+
+4\. Micronutriente: los elementos boro (B), cobalto (Co), cobre (Cu), hierro (Fe), manganeso (Mn), molibdeno (Mo) y zinc (Zn), esenciales para el crecimiento de las plantas, aunque en pequeñas cantidades si se compara con los nutrientes principales o secundarios.
+
+5\. Nutriente quelado: nutriente ligado a una de las moléculas orgánicas reconocidas como agente quelante.
+
+6\. Nutriente complejado: nutriente ligado a una o varias de las moléculas reconocidas como agente complejante.
+
+7\. Producto fertilizante: producto utilizado en agricultura o jardinería que, por su contenido en nutrientes, facilita el crecimiento de las plantas, aumenta su rendimiento y mejora la calidad de las cosechas o que, por su acción específica, modifica, según convenga, la fertilidad del suelo o sus características físicas, químicas o biológicas, que cumpla con los requisitos establecidos en el artículo 4.2 y que deberá especificarse como tal en el anexo I de este real decreto. Se incluyen en esta definición los abonos, los productos especiales y las enmiendas.
+
+8\. Abono o fertilizante: producto cuya función principal es proporcionar elementos nutrientes a las plantas.
+
+9\. Abono inorgánico o abono mineral: abono obtenido mediante extracción o mediante procedimientos industriales de carácter físico o químico, cuyos nutrientes declarados se presentan en forma mineral. Por convenio, la cianamida cálcica, la urea y sus productos de condensación y asociación y los abonos minerales que contienen nutrientes quelados o complejados se clasifican como abonos inorgánicos.
+
+10\. Abono CE: los abonos inorgánicos pertenecientes a uno de los tipos que figuran en el anexo I del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, relativo a los abonos.
+
+11\. Abono inorgánico nacional: los abonos inorgánicos no incluidos en el anexo I del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, y pertenecientes a alguno de los tipos incluidos en el grupo 1 del anexo I de este real decreto.
+
+12\. Abono orgánico: producto cuya función principal es aportar nutrientes para las plantas, los cuales proceden de materiales carbonados de origen animal o vegetal, cuya relación se incluye en el grupo 2 del anexo I.
+
+13\. Abono órgano-mineral: producto cuya función principal es aportar nutrientes para las plantas, los cuales son de origen orgánico y mineral, y se obtiene por mezcla o combinación química de abonos inorgánicos con materiales carbonados de origen animal o vegetal o abonos orgánicos, cuya relación se incluye en el grupo 3 del anexo I.
+
+14\. Otros abonos y productos especiales: productos que aportan a otro material fertilizante, al suelo o a la planta, sustancias para favorecer y regular la absorción de los nutrientes o corregir determinadas anomalías de tipo fisiológico, cuyos tipos se incluyen en el grupo 4 del anexo I.
+
+15\. Abono simple: abono nitrogenado, fosfatado o potásico con un contenido declarable de un único nutriente principal.
+
+16\. Abono compuesto: abono obtenido químicamente o por mezcla, o por una combinación de ambos, con un contenido declarable de, al menos, dos de los nutrientes principales.
+
+17\. Abono complejo: abono compuesto obtenido mediante reacción química, mediante solución, o en estado sólido mediante granulación, y con un contenido declarable de, al menos, dos nutrientes principales. En su estado sólido cada gránulo contiene todos los nutrientes en su composición declarada.
+
+18\. Abono de mezcla: abono obtenido mediante la mezcla en seco de varios abonos, sin reacción química.
+
+19\. Abono líquido: abono en solución o en suspensión.
+
+20\. Abono en solución: abono líquido sin partículas sólidas.
+
+21\. Abono en suspensión: abono o producto en dos fases cuyas partículas sólidas son mantenidas en suspensión en la fase líquida.
+
+22\. Abono foliar: abono indicado para aplicación a las hojas de un cultivo y absorción foliar del nutriente.
+
+23\. Abono hidrosoluble: fertilizante o abono de alta solubilidad, cuyo residuo insoluble en agua a 15 ºC sea menor del 0,5 por ciento, cuando se utilice en la mayor concentración recomendada para su uso.
+
+24\. Enmienda: materia orgánica o inorgánica, capaz de modificar o mejorar las propiedades y características físicas, químicas o biológicas del suelo, cuyos tipos se incluyen en los grupos 5, 6 y 7 del anexo I.
+
+25\. Enmienda caliza (cálcica o magnésica): enmienda que contiene calcio y/o magnesio, esencialmente en forma de óxido, hidróxido, carbonato o silicato, utilizada principalmente para mantener o aumentar el pH del suelo o para modificar sus propiedades físicas, cuyos tipos se incluyen en el grupo 5 del anexo I.
+
+26\. Enmienda orgánica: enmienda procedente de materiales carbonados de origen vegetal o animal, utilizada fundamentalmente para mantener o aumentar el contenido en materia orgánica del suelo, mejorar sus propiedades físicas y mejorar también sus propiedades o actividad química o biológica, cuyos tipos se incluyen en el grupo 6 del anexo I.
+
+27\. Otras enmiendas: enmiendas no incluidas en los párrafos anteriores, utilizadas fundamentalmente para mejorar las propiedades físicas, químicas o biológicas del suelo, cuyos tipos se incluyen en el grupo 7 del anexo I.
+
+28\. Materia prima: cualquier ingrediente utilizado en la elaboración de un producto fertilizante.
+
+29\. Residuo orgánico biodegradable: residuo o subproducto de origen vegetal o animal utilizado como materia prima, cuya descripción se incluye en el anexo IV.
+
+30\. Estiércol: todo excremento u orina de animales de granja o aves, con o sin cama, sin transformar o transformado, de acuerdo con los procesos previstos en el Reglamento (CE) n.º 1069/2009, del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen las normas sanitarias aplicables a los subproductos animales, y productos derivados, no destinados al consumo humano.
+
+31\. Compostaje: proceso controlado de transformación biológica aeróbica y termófila de materiales orgánicos biodegradables que da lugar a los tipos de abonos o enmiendas orgánicos, cuyas características se detallan en los grupos 2 y 6 del anexo I.
+
+32\. Riqueza: expresa la concentración de un producto fertilizante en nutrientes dados, normalmente en porcentaje (%) en masa del producto.
+
+33\. Tolerancia: diferencia admisible entre el valor encontrado en el análisis del contenido de un elemento o de otra característica específica, con respecto a su valor declarado.
+
+34\. Declaración: mención de la cantidad de nutrientes y otras riquezas y características, incluyendo su forma, solubilidad y masa, garantizados dentro de las tolerancias especificadas en el anexo III.
+
+35\. Contenido declarado: contenido de un elemento –o su óxido– que figura en la etiqueta del producto con arreglo a la legislación, o en el documento de acompañamiento si el producto no está envasado.
+
+36\. Relación C/N: cociente entre el carbono orgánico y el nitrógeno orgánico.
+
+37\. Solubilidad: cualidad de los abonos que indica la proporción de sus nutrientes disueltos en agua o en un reactivo determinado.
+
+38\. Valor neutralizante: en una enmienda caliza, número que representa la cantidad de kilogramos de óxido de calcio (CaO) que tiene el mismo efecto neutralizante que 100 kg del producto considerado.
+
+39\. Norma europea: norma EN del Comité Europeo de Normalización (CEN) oficialmente reconocida por la Unión Europea, cuya referencia haya sido publicada en el Diario Oficial de la Unión Europea.
+
+40\. Método oficial de análisis: método de análisis o de toma de muestras aprobado por la Comisión Europea o el Ministerio de Agricultura, Alimentación y Medio Ambiente, para comprobar las condiciones de calidad y composición de los productos fertilizantes y que se relacionan en el anexo VI.
+
+41\. Método de análisis recomendado: método o técnica analítica utilizable cuando no exista método oficial, establecido en normas nacionales vigentes o en métodos internacionales de reconocida solvencia y que se relacionan en el anexo VI.
+
+42\. Acreditación: procedimiento mediante el cual una entidad nacional de acreditación evalúa y declara formalmente que una organización es técnicamente competente y realiza la actividad de certificación de conformidad con las normas EN 45011 o EN 45012, según el caso.
+
+43\. Certificación: procedimiento llevado a cabo por una entidad acreditada, mediante el que se manifiesta la conformidad de una planta de almacenaje o procesado o de un producto fertilizante y que cumple con los requisitos definidos en este real decreto.
+
+44\. Entidad certificadora: organización acreditada por una entidad nacional de acreditación para realizar la actividad de certificación.
+
+45\. Puesta en el mercado: el suministro de un producto fertilizante a título oneroso o gratuito o su almacenamiento con fines de suministro. La importación de un producto fertilizante en el territorio aduanero de la Unión Europea se considerará puesta en el mercado a los efectos de este real decreto.
+
+46\. Fabricante: persona física o jurídica responsable de la puesta en el mercado de un producto fertilizante; en particular, un productor, importador o envasador que trabaje por cuenta propia, así como cualquier distribuidor u otra persona que modifique las características de un producto fertilizante, su envasado o etiquetado, se considerará fabricante. Sin embargo, un distribuidor que no modifique dichas características no se considerará fabricante.
+
+47\. Trazabilidad: posibilidad de encontrar y seguir el rastro, a través de todas las etapas de producción, transformación y distribución de un producto fertilizante, mediante un sistema de procedimientos que permite realizar su seguimiento, desde su producción hasta su puesta en el mercado.
+
+48\. Lote: unidad de producción fabricada en una misma planta elaboradora o envasadora, con materias primas y parámetros de producción uniformes, que puede ser identificada al ponerse en el mercado con las mismas características.
+
+49\. Envase: recipiente que puede ser precintado, utilizado para conservar, proteger, manipular y distribuir productos, capaz de contener hasta 1.000 kilogramos.
+
+50\. Producto a granel: producto no envasado con arreglo a este real decreto.
+
+51\. Tipificar: definir un conjunto de características comunes a un mismo tipo de productos.
+
+52\. Tipo de productos: productos con una misma denominación y características, conforme a lo indicado en el anexo I de este real decreto y en el anexo I del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003.
+
+53\. Inscripción: acto administrativo necesario para que ciertos productos fertilizantes específicos puedan ser puestos en el mercado y empleados en agricultura y jardinería; según se establece en el capítulo V.
+
+### Artículo 3. Ámbito de aplicación.
+
+1\. Se considerarán sujetos a este real decreto aquellos productos fertilizantes puestos en el mercado español para ser utilizados en agricultura, jardinería o restauración de suelos degradados y que correspondan a alguno de los tipos incluidos en la relación referida en el artículo 5.
+
+2\. Los «abonos CE» se regularán por el Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, así como por lo previsto en los artículos 8.3 a), 9.1 y 12.1.h), en el capítulo VII y en la disposición adicional primera de este real decreto.
+
+3\. Se excluyen del ámbito de aplicación de este real decreto:
+
+a) Los productos fitosanitarios y sus sustancias activas, que están regulados por el Reglamento (CE) n.º 1107/2009, del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, relativo a la comercialización de productos fitosanitarios, aunque puedan contener nutrientes para las plantas.
+
+b) Los productos que sean medios de defensa fitosanitarios distintos de los referidos en el párrafo a), regulados por la Ley 43/2002, de 20 de noviembre, de sanidad vegetal.
+
+c) Los productos fertilizantes destinados a cultivar, en viviendas o locales habitados, plantas ornamentales o de flor (jardinería doméstica y plantas de interior), siempre que estén envasados en recipientes que no excedan de un litro o un kilo y se especifique este uso en la etiqueta.
+
+d) Los sustratos de cultivo, es decir, los materiales sólidos distintos de los suelos «in situ», donde se cultivan las plantas, regulados en el Real Decreto 865/2010, de 2 de julio, sobre sustratos de cultivo.
+
+e) Los estiércoles que no hayan sufrido algún proceso de transformación en una planta técnica, de compostaje o de biogás, tal como se describen en el Reglamento (CE) n.º 1069/2009, del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, cuando se comercialicen a granel.
+
+f) Los lodos de depuradora previstos en el Real Decreto 1310/1990, de 29 de octubre, por el que se regula la utilización de los lodos de depuración en el sector agrario.
+
+g) Cualquier otro producto que tenga una reglamentación específica, comunitaria o nacional.
+
+### Artículo 4. Requisitos.
+
+1\. Sin perjuicio de lo establecido en el Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, y en las normas que lo desarrollen, para los «abonos CE» incluidos en su anexo I, el resto de productos fertilizantes deberán cumplir los requisitos relativos a su envasado e identificación, puesta en el mercado, materias primas, registro y demás disposiciones de este real decreto y estar incluidos en la relación de tipos de productos fertilizantes del anexo I.
+
+2\. Sólo podrá ser considerado como producto fertilizante, el que cumpla con la definición establecida en el artículo 2.7, y reúna los siguientes requisitos:
+
+a) Que aporte nutrientes a las plantas de manera eficaz o mejore las propiedades del suelo.
+
+b) Que se disponga, para el producto, de métodos adecuados de toma de muestras, de análisis y de ensayo para poder comprobar sus riquezas y cualidades.
+
+c) Que, en condiciones normales de uso, no produzca efectos perjudiciales para la salud y el medio ambiente.
+
+### Artículo 5. Grupos y tipos de productos fertilizantes.
+
+1\. Los productos fertilizantes que pueden usarse como abonos o enmiendas en agricultura y jardinería deben pertenecer a alguno de los tipos incluidos en el anexo I del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, o en el anexo I de este real decreto integrados en los siguientes grupos:
+
+a) Grupo 1. Abonos inorgánicos nacionales.
+
+b) Grupo 2. Abonos orgánicos.
+
+c) Grupo 3. Abonos órgano-minerales.
+
+d) Grupo 4. Otros abonos y productos especiales.
+
+e) Grupo 5. Enmiendas calizas.
+
+f) Grupo 6. Enmiendas orgánicas.
+
+g) Grupo 7. Otras enmiendas.
+
+2\. En el anexo I se especifican, para cada uno de los tipos de productos fertilizantes, incluidos en los grupos citados en el apartado anterior, las siguientes características:
+
+a) La denominación del tipo de producto.
+
+b) Su forma de obtención y sus componentes esenciales.
+
+c) Los contenidos mínimos o máximos en nutrientes.
+
+d) La forma, solubilidades y demás requisitos que deben cumplir estos productos.
+
+e) La riqueza nutritiva que debe declararse y garantizarse al consumidor.
+
+f) En su caso, las instrucciones específicas relativas al uso, almacenaje y manipulación del producto.
+
+### Artículo 6. Ingredientes autorizados.
+
+1\. Con carácter general, sólo está autorizado formular productos fertilizantes con los ingredientes especificados, para cada uno de los tipos de productos fertilizantes incluidos en el anexo I. Cuando, por la incorporación de algún ingrediente o componente no incluido en el tipo del producto fertilizante, se genere un nuevo tipo, este deberá ser expresamente tipificado e incluido en el citado anexo I, siguiendo el procedimiento previsto en el capítulo VI.
+
+2\. En la fabricación de abonos inorgánicos o de enmiendas inorgánicas, no está permitida la incorporación de materia orgánica de origen animal o vegetal, ni de componentes que no figuren como ingredientes específicos del producto en el correspondiente tipo del anexo I.
+
+3\. Las materias primas utilizadas en la elaboración de productos fertilizantes deberán ajustarse a lo especificado en el capítulo IV.
+
+### Artículo 6 bis. Abonos a base de nitrato amónico con alto contenido de nitrógeno.
+
+A efectos del presente real decreto, se consideran abonos a base de nitrato amónico con alto contenido de nitrógeno:
+
+1\. Los abonos inorgánicos sólidos, simples o compuestos, incluidos en alguno de los tipos del grupo 1 del anexo I de este real decreto, que se fabriquen a base de nitrato amónico (NH<sub>4</sub>NO<sub>3</sub>), con un contenido de un 28 % en masa o más de nitrógeno (N) procedente del nitrato amónico (NH<sub>4</sub>NO<sub>3</sub>). En estos abonos:
+
+a) Cualquier materia distinta del nitrato amónico (NH<sub>4</sub>NO<sub>3</sub>) será inerte con respecto al nitrato amónico (NH<sub>4</sub>NO<sub>3</sub>).
+
+b) El fabricante deberá garantizar que los abonos simples y compuestos a base de nitrato amónico con alto contenido en nitrógeno cumplen lo dispuesto en los apartados 4, 5, 6, 7, 8 y 9 del CFP 1 (C)(1)(a)(i-ii)(A) de la parte II del anexo I del Reglamento (UE) 2019/1009 del Parlamento Europeo y del Consejo, de 5 de junio de 2019.
+
+2\. Los abonos de mezcla previstos en el grupo 1.1.1 del anexo I de este real decreto que utilicen como ingrediente nitrato amónico (NH<sub>4</sub>NO<sub>3</sub>) y cuyo contenido en nitrógeno debido al nitrato amónico sea superior al 16% en masa, en su suministro al usuario final, deberán asimismo haber superado el ensayo de detonabilidad que se recoge en el apartado 5 del CFP1(C)(1)(a)(i-ii)(A) de la parte II del anexo I del Reglamento (UE) 2019/1009 del Parlamento Europeo y del Consejo, de 5 de junio de 2019.
+
+> Se añade por el art. único.1 del Real Decreto 529/2023, de 20 de junio. [Ref. BOE-A-2023-15736](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15736)
+
+## CAPÍTULO II — Envasado e identificación de los productos fertilizantes
+
+### Artículo 7. Denominación del tipo de producto.
+
+Con independencia de los «abonos CE» incluidos en el anexo I del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, solamente podrán ponerse en el mercado con la denominación de abono, fertilizante o enmienda los productos pertenecientes a alguno de los tipos incluidos en los grupos del artículo 5, relacionados en el anexo I, y que cumplan con las demás condiciones establecidas en este real decreto.
+
+### Artículo 8. Envasado.
+
+1\. Para que un producto tenga la consideración de envasado, su envase deberá ir cerrado de tal manera o mediante un dispositivo tal que al abrirse se deteriore irremediablemente el cierre, el precinto del cierre o el propio envase. Se admitirá el uso de sacos de válvula.
+
+2\. Todo producto que no cumpla con lo dispuesto en el apartado anterior se considerará a granel.
+
+3\. Deberán estar obligatoriamente envasados los siguientes productos:
+
+a) abonos a base de nitrato amónico con alto contenido de nitrógeno especificados en el artículo 6 bis e incluidos en el anexo I de este real decreto, como se suministran al usuario final.
+
+b) Los abonos inorgánicos con micronutrientes del grupo 1.3 del anexo I, excepto los del tipo 1.3.5, desde su fabricación hasta el usuario final.
+
+c) Los abonos clasificados como peligrosos, de conformidad con el Reglamento (CE) n.º 1272/2008, del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas, o bien de acuerdo con el Real Decreto 255/2003, de 28 de febrero, por el que se aprueba el Reglamento sobre clasificación, envasado y etiquetado de preparados peligrosos, durante el periodo transitorio contemplado en el artículo 61.1, párrafo segundo del Reglamento (CE) n.º 1272/2008. No obstante, estos abonos podrán transportarse a granel cuando esta operación se realice según lo estipulado en el Acuerdo europeo sobre transporte internacional de mercancías peligrosas por carretera (ADR), hecho en Ginebra el 30 de septiembre de 1957 y ratificado por España, y en sus anexos A y B vigente.
+
+> Se modifica la letra a) del apartado 3 por el art. único.2 del Real Decreto 529/2023, de 20 de junio. [Ref. BOE-A-2023-15736](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15736)
+
+### Artículo 9. Etiquetado.
+
+1\. En los «abonos CE», las etiquetas y toda la documentación o información que acompañe al producto deberán ajustarse a las normas sobre etiquetado del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003. Los contenidos en elementos nutrientes se expresarán del modo siguiente:
+
+a) El nitrógeno, únicamente en forma de elemento (N).
+
+b) El fósforo y el potasio, en forma de óxido (P<sub>2</sub>O<sub>5</sub> y K<sub>2</sub>O).
+
+c) El calcio, el magnesio, el sodio y el azufre, en forma de óxido (CaO, MgO, Na<sub>2</sub>O y SO<sub>3</sub>).
+
+2\. Para los demás productos fertilizantes se respetarán las disposiciones generales de identificación y etiquetado que se detallan en el anexo II y, además, se tendrán en cuenta las siguientes normas:
+
+a) Las etiquetas o indicaciones impresas sobre el envase que contengan los datos a los que se refiere el anexo II deberán colocarse en un lugar bien visible.
+
+b) Si la información no está impresa en el envase, las etiquetas deberán fijarse al envase o a su sistema de cierre. Si el sistema de cierre está constituido por un sello o precinto, este deberá llevar el nombre o marca del envasador.
+
+c) El etiquetado deberá ser y permanecer indeleble y claramente legible.
+
+d) En los casos de productos fertilizantes a granel, la mercancía siempre deberá ir junto con una copia de los documentos de acompañamiento. Esta copia de los documentos deberá ser accesible a los organismos de control.
+
+e) La indicación obligatoria del fabricante del producto se refiere, de acuerdo con el artículo 2.46, a la persona responsable de la puesta en el mercado, y deberá especificar si es productor, importador, envasador, etc.
+
+f) La etiqueta, las indicaciones que figuran en el envase y los documentos de acompañamiento deben estar redactados, al menos, en la lengua española oficial del Estado.
+
+### Artículo 10. Contenido de las etiquetas y de los documentos de acompañamiento.
+
+1\. Las únicas indicaciones relativas al producto que se admitirán en etiquetas y en documentos de acompañamiento serán las identificaciones y menciones obligatorias y facultativas del anexo II. Cualquier otra información que figure en el envase deberá estar claramente separada de las indicaciones que figuran en la etiqueta.
+
+2\. La información incluida en los envases, etiquetas, documentos de acompañamiento, publicidad y presentación del producto, en ningún caso, inducirán a confusión al consumidor, ni contendrán afirmaciones contrarias a los principios básicos de la nutrición vegetal o de la fertilización de los suelos agrícolas.
+
+3\. La etiqueta o documentos de acompañamiento de los productos clasificados como peligrosos, de acuerdo con la normativa del apartado 3.c) indicada en el artículo 8, deberán contener los pictogramas de peligro, las palabras de advertencia, las indicaciones de peligro y los consejos de prudencia establecidos en el Reglamento (CE) n.º 1272/2008, del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008 o bien los símbolos e indicaciones de peligro, las frases de riesgo (frase R) y los consejos de prudencia (frase S) establecidos en el Real Decreto 255/2003, de 28 de febrero, durante el periodo transitorio.
+
+## CAPÍTULO III — Puesta en el mercado
+
+### Artículo 11. Previsiones generales.
+
+1\. No está permitido poner en el mercado productos fertilizantes que no estén incluidos en alguno de los tipos del anexo I del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, o en alguno de los tipos del anexo I de este real decreto, y que no satisfagan la calidad y demás requisitos previstos en este real decreto.
+
+2\. La inscripción previa en el Registro de productos fertilizantes, a que se refiere el capítulo V, es requisito imprescindible para poner en el mercado productos fertilizantes pertenecientes a los grupos 2, 3 y 6 del anexo I.
+
+### Artículo 12. Requisitos del fabricante.
+
+1\. El fabricante de un producto fertilizante deberá cumplir con los siguientes requisitos:
+
+a) Estar establecido en la Unión Europea. En el caso de los productos sometidos a la inscripción en el Registro de productos fertilizantes, a que se refiere el capítulo V, tener delegación en España.
+
+b) Sus instalaciones de almacenamiento y procesado y sus sistemas de control de calidad y trazabilidad de los productos elaborados se ajustan a las exigencias establecidas en este real decreto.
+
+c) El producto fertilizante es conforme a la legislación vigente y es suministrado en el mercado provisto de las indicaciones sobre identificación y etiquetado del anexo II.
+
+d) Disponer de pruebas documentales emitidas por un laboratorio contemplado en el artículo 14.3 b), que demuestren la veracidad de la información que figura en la etiqueta, en los documentos de acompañamiento, en la publicidad o en la presentación de los productos fertilizantes, sin que puedan inducir a engaño o confusión a los usuarios finales, tal como se indica en el artículo 10.2.
+
+e) En el caso que se utilicen materias primas de origen animal, garantizar que se cumple con los requisitos establecidos en el Reglamento (CE) n.º 1069/2009, de 21 de octubre.
+
+f) En los casos contemplados en el artículo 31 del Reglamento (CE) 1907/2006, del Parlamento Europeo y del Consejo, de 18 de diciembre de 2006 relativo al registro, la evaluación, la autorización y la restricción de las sustancias y preparados químicos (REACH), facilitar el distribuidor, para su entrega al usuario final, una ficha de datos de seguridad elaborada conforme al modelo establecido en el anexo II de dicho reglamento y mantenerla actualizada. Esta ficha de datos de seguridad servirá para poder evaluar y prevenir los riesgos potenciales, tanto para las personas que manejan estos productos como para los medios o instrumentos de aplicación del producto fertilizante.
+
+g) Cumplir con las exigencias sobre control de calidad y trazabilidad de los productos a que se refieren los artículos 14 y 15.
+
+h) Garantizar que los abonos a base de nitrato amónico con alto contenido en nitrógeno, tal y como se definen en el artículo 6 bis e incluidos en el anexo I de este real decreto, cumplen con los requisitos mencionados en dicho artículo y van acompañados de un certificado de haber superado los ensayos previstos en dicho artículo.
+
+2\. Los requisitos establecidos en los apartados b), c), d) y g) del punto anterior, podrán garantizarse mediante la oportuna certificación de la empresa fabricante, llevada a cabo por una entidad certificadora.
+
+3\. Las entidades certificadoras enviarán a la Dirección General de Producciones y Mercados Agrarios, antes del 31 de diciembre de cada año, la relación actualizada de empresas fabricantes certificadas.
+
+> Se modifica la letra h) del apartado 1 por el art. único.3 del Real Decreto 529/2023, de 20 de junio. [Ref. BOE-A-2023-15736](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15736)
+
+### Artículo 13. Márgenes de tolerancia.
+
+1\. Los márgenes de tolerancia están destinados a tener en cuenta las diferencias admisibles a que se refiere el artículo 2.33, tanto en la fabricación como en la toma de muestras y en el análisis, considerando que ya se encuentra incluida la incertidumbre del laboratorio.
+
+2\. El contenido y otros requisitos y características de los productos fertilizantes deberán cumplir los márgenes de tolerancia que se establecen en el anexo III.
+
+3\. El fabricante no podrá beneficiarse sistemáticamente de los márgenes de tolerancia.
+
+4\. No se admitirá tolerancia alguna en lo que se refiere a los contenidos mínimos o máximos ni a los requisitos y características, especificados para los tipos de fertilizantes del anexo I.
+
+### Artículo 14. Sistemas internos de control de calidad.
+
+1\. El fabricante deberá realizar un seguimiento analítico, con periodicidad, al menos semestral, del producto final, para asegurarse de que mantienen las riquezas garantizadas.
+
+2\. En los productos con componentes orgánicos, el fabricante ha de velar por el mantenimiento de la composición, riquezas y demás características garantizadas del producto final y asegurarse de que éste sigue cumpliendo las condiciones especificadas en la regulación prevista en el anexo V, mediante análisis de control con periodicidad, al menos, trimestral en estos casos.
+
+El fabricante de productos con componentes orgánicos velará durante el proceso para que las materias primas cumplan en todo momento los requisitos legales a que estén sometidas por su origen y naturaleza.
+
+3\. Para cumplir con las obligaciones que se prevén en este capítulo, los fabricantes habrán de disponer de los siguientes medios, propios o externos:
+
+a) Una persona cualificada, responsable del control de calidad en las plantas elaboradoras del producto.
+
+b) Un laboratorio para los controles analíticos correspondientes.
+
+c) Un plan de control de calidad que prevea procedimientos, periodicidad y frecuencia de toma de muestras y análisis, tanto de los ingredientes como del producto final.
+
+> Se modifican los apartados 1 y 2 por el art. único.1 del Real Decreto 999/2017, de 24 de noviembre. [Ref. BOE-A-2017-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14332)
+
+### Artículo 15. Trazabilidad de los productos fertilizantes.
+
+1\. Para realizar y garantizar la trazabilidad de los productos fertilizantes pertenecientes a los grupos 1, 4, 5 y 7 del anexo I se utilizará el mismo procedimiento establecido para los «abonos CE», en aplicación del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003.
+
+2\. En los productos fertilizantes pertenecientes a los grupos 2, 3 y 6 del anexo I se garantizará su trazabilidad, mediante procedimientos que contengan, al menos, los siguientes elementos:
+
+a) Identidad del producto, de acuerdo con lo especificado en el capítulo II.
+
+b) Numeración de la partida o del lote que le corresponda en su fabricación.
+
+c) Nombre y dirección de la planta o instalación donde se elabora el producto.
+
+d) Materias primas utilizadas en su fabricación y sus suministradores.
+
+e) Responsable de su puesta en el mercado.
+
+3\. El sistema de trazabilidad establecido en el apartado anterior deberá tener en cuenta los siguientes criterios:
+
+a) Que permita conocer todas las materias primas utilizadas en el proceso de elaboración del producto fertilizante.
+
+b) Todo producto fertilizante que se pone en el mercado deberá ser identificado mediante una numeración, partida o lote, para permitir documentar su trazabilidad.
+
+c) Cada variación de las materias primas utilizadas como ingredientes o de los procedimientos de fabricación de un determinado producto fertilizante deberá corresponder con una numeración, lote o unidad de producción, y así deberá registrarse internamente y documentarse.
+
+d) Llevar registros internos para poder identificar las materias primas utilizadas como ingredientes del producto final, así como a sus fabricantes o suministradores.
+
+e) Los registros internos estarán disponibles para las autoridades de inspección y control que lo demanden, mientras el producto esté en el mercado, y durante un período adicional de dos años después de que el fabricante deje de comercializarlo.
+
+## CAPÍTULO IV — Materias primas
+
+### Artículo 16. Declaración de ingredientes.
+
+El fabricante deberá identificar ante la Administración competente que lo requiera todos los ingredientes que intervienen en la fabricación de los productos fertilizantes, con el porcentaje en masa que corresponda a cada uno de ellos, el proceso detallado seguido hasta la obtención del producto final y los informes de prueba y documentación pertinente, para demostrar que en la elaboración del producto fertilizante se cumplen los requisitos exigidos en este capítulo.
+
+### Artículo 17. Utilización de residuos.
+
+1\. Cuando se utilicen como materia prima, aditivo o reactivo, uno o varios de los residuos incluidos en la Lista Europea de Residuos, recogidos en la Decisión 2014/955/UE, de la Comisión, de 18 de diciembre de 2014, por la que se modifica la Decisión 2000/532/CE, sobre la lista de residuos, en la fabricación de «abonos CE» o de productos fertilizantes contemplados en el anexo I de este real decreto, se deberá cumplir con lo establecido en la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados y en particular con lo establecido en los artículos 27 y 41 relativos a las autorizaciones y obligaciones de información.
+
+2\. Con el fin de garantizar que se cumplen los requisitos del artículo 4 de este real decreto*,*sólo se podrán utilizar:
+
+a) Los residuos que se encuentren incluidos expresamente en la “Lista de residuos orgánicos biodegradables” del anexo IV, conforme a lo establecido en el artículo 18, o
+
+b) Los residuos que se encuentren incluidos expresamente en la “Lista de otros residuos”. Esta nueva lista será elaborada y publicada por el Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente como anexo del presente real decreto. Los productos fertilizantes constituidos total o parcialmente por residuos incluidos en la “Lista de otros residuos” deberán cumplir, además, los criterios aplicables a estos productos fertilizantes, que se elaborarán y publicarán por el Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente como anexo del presente real decreto.
+
+> Se modifica por el art. único.1 del Real Decreto 535/2017, de 26 de mayo. [Ref. BOE-A-2017-6291](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-6291)
+
+### Artículo 17 bis. Subproductos conforme a la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+
+Los materiales enumerados en la parte I del anexo IX que cumplan con los requisitos detallados en la parte II de ese mismo anexo serán considerados subproductos a los efectos de la Ley 7/2022, de 8 de abril, y podrán utilizarse en la elaboración de los productos fertilizantes, de acuerdo con este real decreto.
+
+Los interesados que utilicen dichos materiales como subproductos deberán comunicarlo, antes del inicio de las actividades, al órgano ambiental competente de la comunidad autónoma donde se halle la instalación productora de dicho material, indicando que cumple con lo establecido en el anexo IX de este real decreto.
+
+La autoridad competente de la comunidad autónoma podrá verificar, cuando lo estime conveniente, el cumplimiento de los requisitos medioambientales en materia de residuos. La verificación podrá realizarse en las instalaciones del productor, durante el transporte o en las instalaciones del usuario o usuario intermedio del subproducto.
+
+Cuando la administración autonómica verifique la inexactitud, falsedad u omisión, de carácter esencial, de cualquier dato o información que se incorpore a la declaración responsable a que se refiere el párrafo anterior, todo ello de acuerdo con lo exigido en este real decreto, determinará la imposibilidad de seguir gestionando el material como subproducto desde el momento en que se tenga constancia de tales hechos, de conformidad con el artículo 69.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En este caso, dictará resolución en la que se haga constar esta circunstancia y se informe al productor que deberá gestionar esos residuos de producción como residuo de conformidad con la Ley 7/2022, de 8 de abril.
+
+A efectos estadísticos y de control, las comunidades autónomas procederán a inscribir al productor del subproducto en el registro específico para subproductos, cuando éste se haya desarrollado reglamentariamente.
+
+> Se añade por el art. único.4 del Real Decreto 529/2023, de 20 de junio. [Ref. BOE-A-2023-15736](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15736)
+
+### Artículo 17 ter. Subproductos de la industria alimentaria, conforme dispone el Reglamento (UE) 2019/1009, del Parlamento Europeo y del Consejo, de 5 de junio de 2019, anexo II en la CMC 6.
+
+Los materiales procedentes de la industria alimentaria que cumplan con los requisitos incluidos en el anexo X serán considerados subproductos a los efectos de la Ley 7/2022, de 8 de abril, y podrán utilizarse en la elaboración de los productos fertilizantes, de acuerdo con este real decreto.
+
+Los interesados que utilicen dichos materiales como subproductos deberán comunicarlo, antes del inicio de las actividades, al órgano ambiental competente de la comunidad autónoma donde se halle la instalación productora de dicho material, indicando que cumple con lo establecido en el anexo X de este real decreto.
+
+La autoridad competente de la comunidad autónoma podrá verificar, cuando lo estime conveniente, el cumplimiento de los requisitos medioambientales en materia de residuos. La verificación podrá realizarse en las instalaciones del productor, durante el transporte o en las instalaciones del usuario o usuario intermedio del subproducto.
+
+Cuando la administración autonómica verifique la inexactitud, falsedad u omisión, de carácter esencial, de cualquier dato o información que se incorpore a la declaración responsable a que se refiere el párrafo anterior, todo ello de acuerdo con lo exigido en este real decreto, determinará la imposibilidad de seguir gestionando el material como subproducto desde el momento en que se tenga constancia de tales hechos, de conformidad con el artículo 69.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En este caso, dictará resolución en la que se haga constar esta circunstancia y se informe al productor que deberá gestionar esos residuos de producción como residuo de conformidad con la Ley 7/2022, de 8 de abril.
+
+A efectos estadísticos y de control, las comunidades autónomas procederán a inscribir al productor del subproducto en el registro específico para subproductos, cuando éste se haya desarrollado reglamentariamente.
+
+> Se añade por el art. único.5 del Real Decreto 529/2023, de 20 de junio. [Ref. BOE-A-2023-15736](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15736)
+
+### Artículo 18. Materias orgánicas biodegradables.
+
+1\. Para elaborar productos fertilizantes de los grupos 2, 3 y 6 del anexo I, solo está permitida la utilización de materias primas de origen orgánico, animal o vegetal, incluidas expresamente en la lista de residuos orgánicos biodegradables del anexo IV.
+
+2\. Las materias primas de origen animal utilizadas en la elaboración de productos fertilizantes deberán cumplir los requisitos previstos en el Reglamento (CE) n.º 1069/2009, del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, y las correspondientes disposiciones que lo desarrollen o modifiquen.
+
+3\. Los productos fertilizantes constituidos, total o parcialmente, por residuos orgánicos biodegradables deberán cumplir, además, los requisitos que se definen en el anexo V.
+
+### Artículo 18 bis. Microorganismos que pueden formar parte de un producto fertilizante.
+
+1\. Para elaborar productos fertilizantes solo podrán emplearse microorganismos que hayan demostrado que solos o mezclados con un abono, con independencia de su contenido en nutrientes, estimulan los procesos biológicos de la planta mejorando la eficiencia de la planta en la absorción o en el uso de nutrientes, su tolerancia al estrés abiótico o la calidad de la cosecha.
+
+2\. Los productos fertilizantes en cuya composición formen parte los microorganismos contemplados en este artículo deben de cumplir además con los requisitos especificados en el anexo VIII.
+
+> Se añade por el art. único.2 del Real Decreto 999/2017, de 24 de noviembre. [Ref. BOE-A-2017-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14332)
+
+### Artículo 19. Nivel máximo de microorganismos patógenos.
+
+1\. Los productos que contengan materias primas de origen orgánico, animal, vegetal o microbiano, no podrán superar los valores máximos de microorganismos patógenos incluidos en el anexo V.
+
+2\. Los productos que contengan materias primas de origen vegetal deberán encontrarse exentos de los organismos nocivos citados en el Real Decreto 58/2005, de 21 de enero, por el que se adoptan medidas de protección contra la introducción y difusión en el territorio nacional y de la Comunidad Europea de organismos nocivos para los vegetales o productos vegetales, así como para la exportación y tránsito hacía países terceros. Esto sin perjuicio de las disposiciones específicas del citado Real Decreto 58/2005, de 21 de enero, con respecto a la introducción y tránsito de productos vegetales.
+
+> Se modifica el título y el apartado 1 por el art. único.3 del Real Decreto 999/2017, de 24 de noviembre. [Ref. BOE-A-2017-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14332)
+
+### Artículo 20. Nivel máximo de metales pesados.
+
+Los productos elaborados con materias primas de origen orgánico, animal o vegetal, no podrán superar el contenido en metales pesados que corresponde a las clases A, B o C del anexo V.
+
+En el caso de los tipos del apartado 4 del grupo 4 del anexo I del presente real decreto, solo se aplicará a aquellos productos que contengan en su composición materias orgánicas de origen animal o vegetal.
+
+> Se añade el último párrafo por el art. único.4 del Real Decreto 999/2017, de 24 de noviembre. [Ref. BOE-A-2017-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14332)
+
+## CAPÍTULO V — Registro de productos fertilizantes elaborados con materiales de origen orgánico o con microorganismos
+
+> Se modifica por el art. único.5 del Real Decreto 999/2017, de 24 de noviembre. [Ref. BOE-A-2017-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14332)
+
+### Artículo 21. Inscripción en el registro.
+
+1\. Los productos fertilizantes incluidos en alguno de los grupos 2, 3, y 6 o en apartado 4 del grupo 4 “Productos especiales basados en microorganismos” del anexo I solo podrán ser puestos en el mercado si previamente han sido inscritos en el Registro de productos fertilizantes de la Dirección General de Producciones y Mercados Agrarios del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, a que se refiere el artículo 25.
+
+2\. A este fin, al menos tres meses antes de la fecha en que pretenda iniciar la comercialización de un nuevo producto, el fabricante deberá presentar una solicitud de inscripción que contenga los datos especificados en el artículo 24.1 a la Dirección General de Producciones y Mercados Agrarios que remitirá una copia al Ministerio de Sanidad, Servicios Sociales e Igualdad y a la Secretaría de Estado de Medio Ambiente. En el caso de los productos contemplados en la sección 1, del capítulo II, del anexo XI del Reglamento (UE) n.º 142/2011, de la Comisión, de 25 de febrero de 2011, que desarrolla el Reglamento (CE) n.º 1069/2009, se remitirá además una copia a la Dirección General de Sanidad de la Producción Agraria.
+
+3\. La inscripción, que deberá efectuarse en el plazo de tres meses, estará sujeta a que las características del producto fertilizante se ajusten a las denominaciones, formas de obtención, componentes, contenidos en nutrientes y otros requisitos, especificados para cada uno de los tipos de fertilizantes del anexo I. En ningún caso podrán ser objeto de inscripción aquellos productos que no cumplan alguno de los requisitos previstos en este real decreto.
+
+4\. El plazo para resolver y notificar la resolución será de tres meses desde la fecha en que la solicitud haya tenido entrada en el registro del órgano competente para su tramitación, teniendo en cuenta a estos efectos los posibles casos de suspensión del procedimiento a que se refiere el artículo 22 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas. Dicho plazo podrá ampliarse de acuerdo con lo previsto en el artículo 23 de la Ley 39/2015, de 1 de octubre.
+
+Transcurrido este plazo, sin que se haya notificado al fabricante resolución expresa de la Dirección General de Producciones y Mercados Agrarios, se entenderá desestimada la solicitud.
+
+Contra la resolución que deniegue la inscripción de un producto fertilizante en el Registro de productos fertilizantes, el interesado podrá interponer recurso de alzada ante el titular de la Secretaría General de Agricultura y Alimentación, en los términos previstos en el apartado 1 del artículo 122 de la Ley 39/2015, de 1 de octubre.
+
+5\. También deberán ser inscritas en el Registro de productos fertilizantes toda renovación, revisión o cualquier otra modificación de la inscripción, así como su cancelación o extinción.
+
+> Se modifican los apartados 1 y 4 por el art. único.6 del Real Decreto 999/2017, de 24 de noviembre. [Ref. BOE-A-2017-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14332)
+
+### Artículo 22. Duración de la inscripción.
+
+La inscripción tendrá una validez de diez años, sin que en ningún modo pueda generar, por sí misma, derechos exclusivos de comercialización del producto. Esta inscripción podrá ser renovable, siempre que no se modifiquen los ingredientes utilizados como materias primas, ni la composición final del producto ni el tratamiento o proceso de fabricación.
+
+### Artículo 23. Revisión de la inscripción.
+
+1\. La Dirección General de Producciones y Mercados Agrarios procederá a la revisión de la inscripción a que se refiere el artículo 21, cuando existan indicios fundados de riesgos en la utilización del producto, de que ya no se cumple alguno de los requisitos establecidos en la normativa vigente, de que la información que la sustentó contenía elementos falsos o engañosos, o bien porque la evolución de los conocimientos científicos y técnicos así lo determine.
+
+2\. A los efectos del seguimiento de que los datos contenidos en las solicitudes se ajustan a lo establecido en la normativa aplicable en cada caso, el Ministerio de Agricultura, Alimentación y Medio Ambiente y el de Sanidad, Servicios Sociales e Igualdad podrán requerir, programada o aleatoriamente, al titular de la inscripción la documentación justificativa correspondiente. Cuando la evaluación de esta documentación determine que se produce alguna de las circunstancias previstas en el apartado 1, se procederá igualmente a la revisión de la inscripción.
+
+3\. Como consecuencia de la revisión, se podrá proceder a modificar o, en su caso, a declarar nula la referida inscripción.
+
+### Artículo 24. Requisitos de la solicitud.
+
+1\. La solicitud, tanto para la inscripción como para renovar la inscripción del producto, deberá estar redactada en la lengua española oficial del Estado, y se dirigirá, utilizando los correspondientes modelos de formulario normalizados al Director General de Producciones y Mercados Agrarios, y que incluya, al menos, los datos siguientes:
+
+a) Nombre o razón social, dirección y número de identificación fiscal del fabricante como responsable del producto.
+
+b) Denominación del tipo de producto de acuerdo con lo señalado en el anexo I.
+
+c) Nombre comercial del producto en España.
+
+d) Instalación donde se fabrica el producto.
+
+e) Declaración detallada de todas las materias primas utilizadas en su fabricación, con el porcentaje en masa que corresponda a cada una de ellas. Las materias primas de origen orgánico se detallarán e identificarán con la nomenclatura y código numérico (seis dígitos) del anexo IV, y el resto de los ingredientes distintos de los abonos minerales o de las enmiendas calizas, con la denominación establecida en la nomenclatura de la International Union of Pure and Applied Chemistry (IUPAC) y si se dispone, el número Chemical Abstracts Service (CAS) o el número CE.
+
+En el caso de los microorganismos se identificarán a nivel de género y especie, de acuerdo con lo establecido en el anexo VIII.
+
+f) Descripción del proceso de fabricación. En el caso de los microorganismos, además, se indicará el método de obtención, propagación y cultivo de cada microorganismo, tanto para obtener industrialmente el cultivo, como las condiciones para que se pueda crecer y aislar en laboratorio, con el fin de poder identificarlo.
+
+g) Forma de presentación del producto y modo de empleo. En el caso de los microorganismos se debe declarar:
+
+El sustrato o carrier en el que se presentan los microorganismos.
+
+Los cultivos y condiciones (dosis, fertirrigación, aplicación en siembra, etc.) en los que hayan demostrado su eficiencia, de acuerdo con los requisitos del anexo VIII.
+
+Incompatibilidades conocidas, es decir, aquellas prácticas culturales que disminuyan la eficiencia de estos productos, como pueden ser el uso de productos fitosanitarios que interfieran con su crecimiento o función, otros microorganismos incompatibles, etc.
+
+h) Declaración del contenido en nutrientes, parámetros y demás características exigibles para el tipo de producto fertilizante al que corresponda, según lo indicado en las columnas 5 y 6 del anexo I y en los anexos V y VIII. El pH del producto se declarará en todos los casos. En aquellos casos en que, por variaciones del proceso de fabricación o en las características de la materia prima, los valores antes especificados puedan tener diferente magnitud, se declararán límites mínimo y máximo correspondientes.
+
+i) Certificado analítico del producto fertilizante, en el que se contemplen los contenidos de nutrientes y demás requisitos indicados para cada tipo de abono o enmienda, en la columna 5 del anexo I, así como los parámetros especificados en el anexo V. Este certificado analítico no será exigible cuando el fabricante esté certificado por una entidad certificadora.
+
+j) Cuando del origen de la materia prima pueda sospecharse razonablemente la presencia de medicamentos, sustancias con propiedades persistentes, bioacumulables y/o tóxicas o con riesgo para la salud de las personas, animales o medio ambiente, la autoridad competente podrá solicitar la determinación analítica de sus contenidos en el producto fertilizante.
+
+k) Ficha de datos de seguridad en aquellos supuestos en los que así lo establezca el artículo 31 del Reglamento (CE) 1907/2006.
+
+l) Informe técnico de acuerdo con el anexo VIII, en el caso de los productos del apartado 4 del grupo 4.
+
+m) Justificación de haber depositado los microorganismos en una colección oficial, en el caso de los productos del apartado 4 del grupo 4.
+
+2\. La solicitud a la que se refiere el apartado 1 se presentará en el Registro General del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente o en los lugares previstos en el artículo 16 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica por el art. único.7 del Real Decreto 999/2017, de 24 de noviembre. [Ref. BOE-A-2017-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14332)
+
+### Artículo 25. Contenidos del Registro de productos fertilizantes.
+
+El Registro de productos fertilizantes, adscrito a la Dirección General de Producciones y Mercados Agrarios, tiene la finalidad de mantener, respecto a cada uno de los productos inscritos, la siguiente información:
+
+a) Nombre comercial.
+
+b) Tipo de producto fertilizante, conforme a la clasificación del anexo I.
+
+c) Fabricante del producto, responsable de su puesta en el mercado en España.
+
+d) Ingredientes utilizados en su fabricación.
+
+e) Contenido en nutrientes y otras características declarados.
+
+f) Clase de producto (A, B o C), en cuanto a sus contenidos máximos en metales pesados.
+
+g) Las limitaciones y condicionamientos de uso, si las hubiera.
+
+h) Número de registro.
+
+i) Fecha de inscripción y caducidad de esta.
+
+### Artículo 26. Publicidad del Registro de productos fertilizantes.
+
+1\. La inscripción de un producto en el Registro de productos fertilizantes tiene por objeto que las administraciones públicas y los ciudadanos tengan conocimiento de su puesta en el mercado y, si existen, las condiciones específicas para su utilización.
+
+2\. El Registro de productos fertilizantes será público, a través de la página de Internet del Ministerio de Agricultura, Alimentación y Medio Ambiente, sin perjuicio de la debida protección de los datos de carácter personal, y mantendrá a disposición de las entidades y ciudadanos interesados la siguiente información:
+
+a) El nombre y dirección del fabricante, como persona responsable de la puesta en el mercado.
+
+b) El número de registro.
+
+c) La fecha de caducidad de la inscripción.
+
+d) El tipo de producto, sus riquezas garantizadas y demás características.
+
+e) La clasificación de peligrosidad, con la información establecida en el artículo 10, punto 3.
+
+## CAPÍTULO VI — Adaptación de los anexos
+
+### Artículo 27. Modificación de los anexos.
+
+1\. Las modificaciones necesarias para adecuar los anexos de este real decreto al progreso técnico y a los conocimientos científicos deberán ajustarse al procedimiento establecido en este capítulo y en las instrucciones del anexo VII.
+
+2\. El fabricante, sus asociaciones o cualquier otro interesado que deseen proponer una modificación o actualización de los anexos, distinta de la inclusión de un nuevo tipo en el anexo I, deberán presentar la correspondiente propuesta a la Dirección General de Producciones y Mercados Agrarios acompañada de un expediente técnico justificativo de la citada modificación.
+
+3\. La propuesta de modificación de los anexos será informada por el Comité de expertos, creado por Orden APA/1593/2006, de 19 de mayo, tras lo cual, informarán preceptivamente el Ministerio de Sanidad, Servicios Sociales e Igualdad, respecto de su incidencia en la salud humana, y el Ministerio de Industria, Energía y Turismo, respecto a los procedimientos de fabricación.
+
+4\. Las modificaciones o actualizaciones del anexo V, a instancia de parte o por iniciativa del Ministerio de Sanidad, Servicios Sociales e Igualdad, será informada por un comité de expertos, tras lo cual, informará preceptivamente el Ministerio de Agricultura, Alimentación y Medio Ambiente, respecto a su viabilidad agronómica y a su incidencia sobre el medio ambiente.
+
+### Artículo 28. Inclusión de nuevos tipos de productos fertilizantes.
+
+1\. La modificación de la relación vigente de tipos de productos fertilizantes se realizará por el Ministerio de Agricultura, Alimentación y Medio Ambiente, tanto a iniciativa propia, como de los departamentos ministeriales mencionados en el apartado 4 o de los órganos competentes de las comunidades autónomas.
+
+2\. Asimismo, el fabricante o sus asociaciones, que deseen proponer un nuevo tipo para su inclusión en la relación de tipos de productos fertilizantes del anexo I, o la modificación de la relación vigente, deberán presentar la correspondiente propuesta a la Dirección General de Producciones y Mercados Agrarios, acompañada de un expediente técnico, de acuerdo con lo dispuesto en el anexo VII.
+
+3\. Para establecer un nuevo tipo de producto fertilizante, éste deberá reunir los requisitos indicados en el artículo 4.2.
+
+4\. La propuesta de inclusión de un nuevo tipo de productos fertilizantes será informada por el Comité de expertos que propondrá, en cada caso, los ensayos que estime necesarios para evaluar sus características y comportamiento. Tras el citado informe del Comité de expertos, informarán preceptivamente sobre el nuevo tipo de productos fertilizantes el Ministerio de Sanidad, Servicios Sociales e Igualdad, respecto de su incidencia en la salud humana, y el Ministerio de Industria, Energía y Turismo, respecto a sus procedimientos de fabricación.
+
+5\. Una vez comprobadas sus propiedades y que reúne los requisitos anteriores, el Ministro de Agricultura, Alimentación y Medio Ambiente podrá revisar o actualizar, en consecuencia, la relación de tipos de productos fertilizantes del anexo I, en los términos previstos en la disposición final segunda.
+
+## CAPÍTULO VII — Controles y régimen sancionador
+
+### Artículo 29. Competencias.
+
+1\. Corresponde a las distintas administraciones públicas, en el ámbito de sus respectivas competencias, la realización de los controles e inspecciones necesarios para asegurar el cumplimiento de lo previsto en el Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, y de los requisitos establecidos en este real decreto.
+
+2\. Las inspecciones de vigilancia en la fabricación, almacenamiento, comercialización y utilización de los productos fertilizantes, particularmente de las riquezas nutritivas garantizadas, así como la vigilancia de sus niveles de seguridad, corresponden a los órganos competentes de las comunidades autónomas, que, en particular, controlarán el cumplimiento de las disposiciones previstas en el artículo 29 del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, y en este real decreto.
+
+### Artículo 30. Medidas de control.
+
+1\. Los controles e inspecciones podrán ser sistemáticos, conforme a los planes de control, o extraordinarios, y se realizarán, según corresponda, en los puntos de inspección fronterizos autorizados según el Real Decreto 58/2005, de 21 de enero, y en las plantas de almacenaje o procesado y demás dependencias donde se almacenen o comercialicen productos fertilizantes, o en cualquier momento y lugar donde circulen o estén dichos productos.
+
+2\. Cuando se trate de fabricantes adscritos al sistema de certificación a que se refiere el artículo 2.43, esta adscripción será un factor a tener en cuenta en el análisis de riesgo previo a la programación de los controles oficiales.
+
+3\. Se prestará una especial atención a los abonos a base de nitrato amónico con alto contenido en nitrógeno, así como a los abonos de mezcla, previstos en el grupo I del anexo I que utilicen como ingrediente nitrato amónico y cuyo contenido en nitrógeno debido al nitrato amónico sea superior al 16 por ciento en masa, por su riesgo potencial de explosión. El fabricante presentará a la autoridad competente los resultados del ensayo de detonabilidad, al menos cinco días antes de la puesta en el mercado o de la llegada del abono a las fronteras de la Unión Europea en el caso de importaciones. Posteriormente, el fabricante seguirá garantizando que todas las partidas de abono puestas en el mercado pueden superar el ensayo antes mencionado.
+
+4\. Para los «abonos CE» los métodos de toma de muestras y de análisis serán los indicados en el anexo IV del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003. Para los demás productos fertilizantes, serán los indicados en el anexo VI de este real decreto.
+
+5\. Si los resultados de los análisis inicial y contradictorio son ambos disconformes con lo reflejado en la etiqueta, se considerará que no existe desacuerdo entre ellos, sin tener que acudir al análisis arbitral o dirimente, salvo que la diferencia entre los dos resultados de los análisis sea superior a la tolerancia permitida.
+
+6\. El Ministerio de Agricultura, Alimentación y Medio Ambiente y las comunidades autónomas, podrán establecer, conjuntamente, planes nacionales de control.
+
+### Artículo 31. Laboratorios.
+
+1\. Como instrumentos de apoyo a la realización de las pruebas y controles que deban realizar las Administraciones Públicas, los órganos competentes de las comunidades autónomas designarán los laboratorios públicos y autorizarán, en su caso, los laboratorios privados, que realizarán las siguientes funciones:
+
+a) Los análisis de las muestras tomadas en la ejecución de los programas de vigilancia.
+
+b) Los análisis, en su caso, a que se refiere el artículo 29.2 del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, y además de lo previsto en este real decreto en materia de control de calidad para el resto de productos fertilizantes.
+
+2\. Los laboratorios designados o autorizados deberán estar acreditados de acuerdo con la norma EN ISO/IEC 17025 Requisitos generales para la competencia de los laboratorios de ensayo y de calibración, en relación con al menos uno de los métodos del anexo VI.
+
+3\. Los laboratorios designados o autorizados deberán participar en las actuaciones coordinadas de armonización de las técnicas y los métodos que hayan de utilizarse, determinados por el Laboratorio Nacional de Referencia.
+
+4\. Las comunidades autónomas comunicarán su lista de laboratorios designados o autorizados para los ámbitos previstos en los artículos 27 y 29 del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, y al Ministerio de Agricultura, Alimentación y Medio Ambiente que confeccionará la lista de aquellos, para su remisión a la Comisión Europea, en aplicación del artículo 30 del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003.
+
+5\. El Ministerio de Agricultura, Alimentación y Medio Ambiente, difundirá y actualizará a través de su página de Internet, la lista de laboratorios competentes, públicos designados y privados autorizados, que puedan intervenir en la realización de los análisis (inicial y contradictorio) establecidos por el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria.
+
+6\. En el caso de que una comunidad autónoma tenga motivos justificados para considerar que un laboratorio, inicialmente autorizado, carece de la competencia exigida, deberá plantear esta cuestión ante el Ministerio de Agricultura, Alimentación y Medio Ambiente, para iniciar las actuaciones previstas en el artículo 30 del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003.
+
+7\. Los laboratorios nacionales de referencia en el ámbito de aplicación de este real decreto son los previstos en la Orden por la que se designan los laboratorios nacionales de referencia en materia agroalimentaria y de sanidad de la producción primaria.
+
+8\. Las funciones y actuaciones del Laboratorio Nacional de Referencia, citado en el punto anterior, serán las mismas que las especificadas en el artículo 33 del Reglamento (CE) n.º 882/2004, del Parlamento Europeo y del Consejo, de 29 de abril de 2004, sobre los controles oficiales efectuados para garantizar la verificación del cumplimiento de la legislación en materia de piensos y alimentos y la normativa sobre salud animal y bienestar de los animales.
+
+> Se modifica el apartado 7 por la disposición final undécima del Real Decreto 682/2026, de 26 de agosto. [Ref. BOE-A-2026-20270](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20270)
+
+### Artículo 32. Medidas provisionales.
+
+1\. Las autoridades competentes y, en su caso, los inspectores acreditados podrán adoptar, de forma motivada, por razones de urgencia o necesidad, medidas provisionales de carácter cautelar, en los términos establecidos en la normativa sancionadora aplicable.
+
+2\. Asimismo, si las comunidades autónomas comprobaran que un producto fertilizante específico constituye un riesgo para la seguridad o la salud humana, animal o vegetal o un riesgo para el medio ambiente, podrán paralizar la puesta en el mercado de dicho producto fertilizante o someterlo a condiciones especiales, de acuerdo con lo establecido en las respectivas leyes reguladoras y, en concreto, en el artículo 31.2 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+3\. Si alguna comunidad autónoma adoptase alguna de las decisiones señaladas anteriormente, lo pondrá en conocimiento del Ministerio de Agricultura, Alimentación y Medio Ambiente e informará sobre los motivos que justifiquen su decisión.
+
+4\. El Ministerio de Agricultura, Alimentación y Medio Ambiente informará inmediatamente de ello a las demás comunidades autónomas y, si el fertilizante es un «abono CE», se informará, por los cauces establecidos, a la Comisión Europea y a los demás Estados miembros, para que se ponga en marcha el mecanismo previsto en el artículo 15 del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003.
+
+5\. Si se trata de un producto inscrito en el Registro de productos fertilizantes, previsto en el capítulo V, el Ministerio de Agricultura, Alimentación y Medio Ambiente suspenderá su inscripción temporalmente y hará la correspondiente anotación en el citado registro, a partir de la recepción de la información en un plazo máximo de quince días, en tanto se proceda a la revisión de la inscripción, lo que será notificado a las partes.
+
+6\. En el caso de los productos fertilizantes no previstos en el apartado anterior, el Ministerio de Agricultura, Alimentación y Medio Ambiente iniciará el procedimiento de modificación de los anexos correspondientes, conforme a lo previsto en el capítulo VI.
+
+### Artículo 33. Régimen sancionador.
+
+En el caso de incumplimiento de lo dispuesto en el Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, para los «abonos CE», o en este real decreto, será de aplicación la normativa sancionadora vigente en la materia y, en concreto, el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y la producción agroalimentaria.
+
+### Disposición adicional primera. Procedimiento para modificar la relación de «abonos CE».
+
+1\. La relación de «abonos CE» vigente está contenida en el anexo I del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, y se modifica por la Unión Europea siguiendo el procedimiento previsto en sus artículos 31 y 32.
+
+2\. El fabricante de fertilizantes que desee proponer un nuevo tipo de «abono CE», o la modificación de los que aparecen en el anexo I del Reglamento (CE) n.º 2003/2003, del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, deberá presentar a la Dirección General de Producciones y Mercados Agrarios un expediente técnico que justifique su propuesta, siguiendo las instrucciones que ha fijado la Comisión Europea en el anexo V del citado reglamento.
+
+### Disposición adicional segunda. Listado de establecimientos a inspeccionar.
+
+A los efectos de la realización de los controles a que se refiere el capítulo VII, el Ministerio de Agricultura, Alimentación y Medio Ambiente podrá remitir anualmente, a los efectos de coordinación, a las autoridades competentes de las comunidades autónomas, un listado de establecimientos susceptibles de ser objeto de inspección por aquellas.
+
+### Disposición adicional tercera. Reconocimiento mutuo.
+
+Conserva su validez el principio del mutuo reconocimiento extensivo a los productos legítimamente fabricados o comercializados en otros países de la Unión Europea, en los países firmantes del Acuerdo sobre el Espacio Económico Europeo y en los Estados que tengan un Acuerdo de Asociación Aduanera con la Unión Europea, de acuerdo con su propia normativa y acompañado de la correspondiente documentación acreditativa, previo a su puesta en el mercado español.
+
+### Disposición adicional cuarta. Exportación.
+
+Los productos fertilizantes exclusivamente destinados a la exportación, que no cumplan las disposiciones de este real decreto, deberán estar etiquetados de forma que se identifiquen inequívocamente como tales y que sus referencias se correspondan con el contenido y composición de producto.
+
+### Disposición adicional quinta. Registro.
+
+El Registro de productos fertilizantes será atendido con los medios personales y materiales existentes en el Ministerio de Agricultura, Alimentación y Medio Ambiente, sin que su funcionamiento suponga incremento de gasto público alguno.
+
+### Disposición transitoria primera. Comercialización.
+
+Los productos inscritos en el Registro de productos fertilizantes, según el Real Decreto 824/2005, de 8 de julio, podrán comercializarse de acuerdo con la citada normativa, hasta la fecha de caducidad de su autorización.
+
+### Disposición transitoria segunda. Etiquetado.
+
+Los productos fertilizantes actualmente comercializados podrán seguir etiquetándose de acuerdo con el Real Decreto 824/2005, de 8 de julio, hasta 18 meses después de la entrada en vigor de este real decreto.
+
+### Disposición transitoria tercera. Tramitación de expedientes.
+
+Las solicitudes pendientes de resolución e inscripción en el Registro de productos fertilizantes se ajustarán a los requisitos fijados en este real decreto, respecto a los trámites no realizados. Asimismo, las solicitudes pendientes de modificación de productos fertilizantes ya inscritos se regirán por lo dispuesto en el presente real decreto.
+
+### Disposición transitoria cuarta. Laboratorios autorizados.
+
+Los laboratorios aún no acreditados que demuestren que han iniciado y están siguiendo los procedimientos de acreditación necesarios conforme a la norma EN ISO/IEC 17025 en relación con uno o varios de los métodos del anexo VI, y que demuestren a la autoridad competente que participan en ensayos interlaboratorios con resultados positivos, podrán ser autorizados hasta el 31 de diciembre de 2016.
+
+### Disposición transitoria quinta. Regularización de los productos fertilizantes en cuya composición se incluyan residuos de conformidad con el artículo 17.
+
+1\. Hasta que se publiquen la “Lista de otros residuos” y los criterios aplicables a los productos fertilizantes elaborados a partir de los mismos, no se podrán utilizar residuos en la fabricación de fertilizantes, ni “abonos CE”, ni productos fertilizantes contemplados en el anexo I de este real decreto, salvo los residuos incluidos en la “Lista de residuos orgánicos biodegradables” del anexo IV, conforme a lo establecido en el artículo 18.
+
+2\. En el caso de los productos fertilizantes en cuya fabricación se empleen residuos no incluidos en el anexo IV, que hubieran sido autorizados por la autoridad medioambiental competente con anterioridad a la entrada en vigor de esta disposición transitoria, el fabricante dispondrá de un plazo de dieciocho meses a partir de la publicación de la presente modificación para continuar con su fabricación, comercialización y venta, sin perjuicio del cumplimiento de lo establecido en el artículo 4 de este real decreto y en la Ley 22/2011, de 28 de julio.
+
+No obstante lo anterior, si dentro del plazo de dieciocho meses mencionado para la fabricación, comercialización y venta, se publicaran la “Lista de otros residuos” y los criterios aplicables a los productos fertilizantes elaborados con estos residuos, y el residuo utilizado en la fabricación del producto fertilizante estuviera incluido en dicha lista y cumpliera con los criterios establecidos, y de ello no se derivara ninguna modificación en sus condiciones de comercialización o uso, dicho producto fertilizante podrá seguir comercializándose durante un plazo adicional de un año, plazo en el que se actualizarán las autorizaciones previstas en el artículo 17.
+
+> Se añade por el art. único.2 del Real Decreto 535/2017, de 26 de mayo. [Ref. BOE-A-2017-6291](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-6291)
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en este real decreto y, expresamente, las siguientes:
+
+a) El Real Decreto 824/2005, de 8 de julio, sobre productos fertilizantes.
+
+b) El artículo 2 del Real Decreto 108/2010, de 5 de febrero, por el que se modifican diversos reales decretos en materia de agricultura e industrias agrarias, para su adaptación a la Ley 17/2009, de 23 de noviembre, sobre el libre acceso de las actividades de servicios y su ejercicio.
+
+c) La Orden APA/863/2008, de 25 de marzo, por la que se modifican los anexos I, II, III y IV del Real Decreto 824/2005, de 8 de julio, sobre productos fertilizantes.
+
+d) La Orden PRE/630/2011, de 23 de marzo, por la que se modifican los anexos I, II, III, IV, V y VI del Real Decreto 824/2005, de 8 de julio, sobre productos fertilizantes.
+
+### Disposición final primera. Título competencial.
+
+Lo dispuesto en este real decreto tiene el carácter de normativa básica, al amparo de lo establecido en el artículo 149.1.13.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica. La regulación contenida en los artículos 17 bis, 17 ter, 18, 19 y 20, disposición adicional cuarta y anexos IV, V, IX y X, se dictan al amparo de lo dispuesto en el artículo 149.1.16.ª y 23.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre bases y coordinación general de la sanidad, sanidad exterior y legislación básica sobre protección del medio ambiente, respectivamente.
+
+> Se modifica por el art. único.6 del Real Decreto 529/2023, de 20 de junio. [Ref. BOE-A-2023-15736](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15736)
+
+### Disposición final segunda. Facultad de desarrollo.
+
+1\. Se faculta a los Ministros de Agricultura, Alimentación y Medio Ambiente, de Sanidad, Servicios Sociales e Igualdad, y de Industria, Energía y Turismo, en el ámbito de sus respectivas competencias, a adoptar las normas de aplicación y desarrollo de este real decreto.
+
+2\. Se faculta al Ministro de Agricultura y Pesca, Alimentación y Medio Ambiente para modificar los anexos I, II, III, IV, VI, VII y VIII, de acuerdo con el procedimiento establecido en el capítulo VI, así como para aprobar los modelos normalizados de solicitud señalados en el capítulo V.
+
+3\. Se faculta a la Ministra de Sanidad, Servicios Sociales e Igualdad para modificar el anexo V, de acuerdo con el procedimiento establecido en el capítulo VI.
+
+4\. Se faculta a la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico a modificar mediante orden ministerial los anexos IX y X en aquellos aspectos relacionados con la determinación de los requisitos para que sean considerados como subproductos, conforme a la Ley 7/2022, de 8 de abril.
+
+5\. Se faculta a la persona titular del Ministerio de Agricultura, Pesca y Alimentación a modificar los anexos IX y X en aquellos aspectos relacionados con la eficacia agronómica.
+
+> Se añaden los apartados 4 y 5 por el art. único.7 del Real Decreto 529/2023, de 20 de junio. [Ref. BOE-A-2023-15736](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15736)
+
+> Se modifica el apartado 2 por el art. único.8 del Real Decreto 999/2017, de 24 de noviembre. [Ref. BOE-A-2017-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14332)
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 28 de junio de 2013.
+
+JUAN CARLOS R.
+
+La Vicepresidenta del Gobierno y Ministra de la Presidencia,
+
+SORAYA SÁENZ DE SANTAMARÍA ANTÓN
+
+## ANEXO I — Relación de tipos de productos fertilizantes
+
+Grupo 1. Abonos inorgánicos nacionales.
+
+Grupo 2. Abonos orgánicos.
+
+Grupo 3. Abonos órgano-minerales.
+
+Grupo 4. Otros abonos y productos especiales.
+
+Grupo 5. Enmiendas calizas.
+
+Grupo 6. Enmiendas orgánicas.
+
+Grupo 7. Otras enmiendas .
+
+Nota general: Los porcentajes a los que se hace referencia a lo largo del presente anexo se entenderán expresados sobre materia fresca, salvo que se especifique lo contrario.
+
+En los productos fertilizantes de los grupos 2, 3 y 6 se considerarán “aditivos o reactivos” aquellos ingredientes que se añadan al producto fertilizante en un porcentaje de hasta el 5 %. Dichos ingredientes solo pueden añadirse si, además de cumplir con los requisitos del presente real decreto (en particular el artículo 17):
+
+Se justifica técnicamente su empleo.
+
+No aportan nutrientes u otros contenidos que influyan en el tipo o uso del producto fertilizante.
+
+La suma total de “aditivos y reactivos” no supere el 10 %.
+
+En el caso de la cal viva empleada para higienizar los lodos de depuradora (correspondientes al código LER 19 08 05) o los lodos de tratamiento incluidos en el anexo IV, se admitirá su uso hasta un máximo de un 10 %, siempre que se cumplan con los requisitos de los artículos 17 y 18 y figure de forma expresa en la correspondiente autorización medioambiental. En ese caso, se admitirá, de forma excepcional, un 5 % adicional de otros “aditivos y reactivos”.
+
+Los lodos de depuradora (correspondientes a los códigos LER 19 08 05 incluidos en el anexo IV) que se higienicen empleando cal no podrán superar el 10 % de la composición final del producto fertilizante.
+
+En los productos fertilizantes en cuya elaboración se hayan utilizado lodos de depuradora (correspondientes al código LER 19 08 05) o lodos de tratamiento incluidos en el anexo IV como materia prima de origen orgánico, se deberá añadir un mínimo del 40 % de otra materia prima de origen orgánico, animal o vegetal (distinta de lodos de depuradora o lodos de tratamiento de las expresamente autorizadas en el real decreto.
+
+De forma análoga, todos los otros ingredientes usados en la elaboración de un producto fertilizante deberán emplearse en porcentajes superiores al 5 % (salvo que el ingrediente en cuestión aporte micronutrientes o microorganismos del subgrupo 4.4).
+
+Cuando se utilicen residuos orgánicos biodegradables de la lista del anexo IV, no se podrán mezclar más de cinco materiales provenientes de distintos códigos LER.
+
+Cuando en la elaboración de un producto fertilizante se emplee material con los códigos LER 19 05 01 o 19 05 02 solo podrá emplearse material sólido.
+
+Las industrias a las que se refieren los códigos LER 19 08 12 y 19 08 14 son exclusivamente las industrias autorizadas en el mismo anexo IV para los códigos LER 02, 03 y 04.
+
+Se limita el uso de los lodos de fosas sépticas (LER 20 03 04) a un 5 %.
+
+Para su empleo los lodos, licores o lixiviados autorizados en el anexo IV deben ser higienizados, preferentemente por compostaje, salvo que la autorización ambiental permita de forma expresa otro método de higienización, que cumpla con todos los requisitos del presente real decreto y demuestre que es, al menos, igual de eficiente que el compostaje.
+
+Grupo 1. Abonos inorgánicos nacionales
+
+1.1 Abonos inorgánicos con nutrientes principales.
+
+1.1.1 Nitrogenados.
+
+| N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en nutrientes (porcentaje en masa)<br>Información sobre la evaluación de los nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse.<br>Formas y solubilidad de los nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 01 | Solución amoniacal. | Producto obtenido por vía química cuyo componente esencial es el amoníaco en agua. | 20% de N total, en forma amoniacal. | Agua amoniacal. | Nitrógeno amoniacal. |
+| 02 | Amoníaco anhidro. | Producto obtenido por vía química, conteniendo como componente esencial el amoníaco anhidro (NH<sub>3</sub>) licuado a presión. | 80% de N total, en forma amoniacal. |  | Nitrógeno amoniacal. |
+| 03 | Solución de nitrato amónico y amoníaco, con o sin urea. | Producto obtenido por vía química mediante una disolución estable a la presión atmosférica de los tipos de abonos nitrato amónico, amoníaco, con o sin urea. | – 35% de N total, en forma nítrica, amoniacal y, en su caso, ureica.<br>– Contenido máximo en biuret: 0,5%. |  | – Nitrógeno total<br>– Nitrógeno amoniacal<br>– Nitrógeno nítrico<br>– Nitrógeno ureico (si procede). |
+| 04 | Ácido nítrico. | Producto obtenido por vía química, cuyo componente principal es el ácido nítrico. | 10% de N total, en forma nítrica. |  | Nitrógeno nítrico. |
+| 05 | Solución ácida de abono nitrogenado con azufre. | Producto obtenido por vía química, mediante reacción controlada de ácido sulfúrico con urea. | – 8% de N total, en forma ureica<br>– 40% de SO<sub>3</sub> soluble en agua. |  | – Nitrógeno ureico<br>– Trióxido de azufre soluble en agua. |
+| 06 | Solución de sulfato amónico-nitrato amónico. | Producto líquido obtenido químicamente o por disolución en agua, cuyos componentes principales son sulfato amónico y nitrato amónico. | 9% de N total<br>– N amoniacal: 7,5%<br>– N nítrico: 1,5%<br>– 12% de SO<sub>3</sub> soluble en agua. | La denominación del tipo podrá ir seguida según los casos, por una o varias de las menciones siguientes:<br>Para aplicación directa al suelo<br>– Para fabricación de soluciones nutritivas<br>– Para fertirrigación. | – Nitrógeno total<br>– Nitrógeno amoniacal<br>– Nitrógeno nítrico<br>– Trióxido de azufre soluble en agua. |
+| 07 | Abono nitrogenado mixto. | Producto obtenido por combinación química o por mezcla de abonos del grupo 1.4 nitrogenados simples, con excepción de urea con nitrato amónico y aquellos que sean incompatibles químicamente. | – 20% de N total<br>– 4% de N, al menos, en dos de las siguientes formas: nítrica, amoniacal o ureica<br>– Contenido máximo en biuret: 0,8%. | Nombre de los abonos del grupo 1.4 utilizados en su obtención. | – Nitrógeno total<br>Si superan el 1%:<br>– Nitrógeno nítrico<br>– Nitrógeno amoniacal<br>– Nitrógeno ureico. |
+| 08 | Solución nitrogenada. | Producto líquido obtenido químicamente y/o por disolución en agua, en forma estable a la presión atmosférica, de abonos nitrogenados CE del grupo A.1 o del grupo 1.1.1 de este anexo o productos similares que no alcancen la riqueza exigida para esos tipos, sin incorporación de materia orgánica de origen animal o vegetal. | – 15% de N total<br>– Contenido máximo en biuret: N ureico × 0,026. |  | – Nitrógeno total<br>Si superan el 0,5%:<br>o Nitrógeno nítrico<br>o Nitrógeno amoniacal<br>o Nitrógeno ureico<br>Podrán declararse:<br>– CaO soluble en agua (si supera el 0,2%),<br>– MgO soluble en agua (si supera el 0,2%) y<br>– SO<sub>3</sub> soluble en agua (si supera el 2,5%).<br>– Si el contenido en biuret es inferior al 0,2% podrá incluirse la indicación “Pobre en biuret”. |
+| 09 | Solución nitrogenada con elementos secundarios. | Producto líquido obtenido químicamente y/o por disolución en agua, en forma estable a la presión atmosférica, de abonos nitrogenados CE del grupo A.1 o del grupo 1.1.1 de este anexo o productos similares que no alcancen la riqueza exigida para esos tipos, sin incorporación de materia orgánica de origen animal o vegetal. | – 6% de N total y, al menos,<br>– 17% de SO<sub>3</sub> soluble en agua o<br>– 5% de CaO soluble en agua y/o<br>– 4% de MgO soluble en agua<br>– Contenido máximo en biuret: N ureico × 0,026. |  | – Nitrógeno total<br>Si superan el 0,5%:<br>o Nitrógeno nítrico<br>o Nitrógeno amoniacal<br>o Nitrógeno ureico<br>– CaO soluble en agua cuando supere el 5%<br>– MgO soluble en agua cuando supere el 4%<br>– SO<sub>3</sub> soluble en agua cuando supere el 17%.<br>Podrán declararse:<br>– CaO soluble en agua (si supera el 0,2%),<br>– MgO soluble en agua (si supera el 0,2%) y<br>– SO<sub>3</sub> soluble en agua (si supera el 2,5%).<br>– Si el contenido en biuret es inferior al 0,2% podrá incluirse la indicación “Pobre en biuret”. |
+| 10 | Solución de tiosulfato amónico. | Producto obtenido por vía química cuyo componente esencial es el tiosulfato amónico. | 10% de N total, en forma amoniacal<br>54% de SO<sub>3</sub> soluble en agua, del cual, al menos, el 90% está presente en forma de tiosulfato. |  | Nitrógeno amoniacal<br>Trióxido de azufre (SO<sub>3</sub>) soluble en agua<br>Trióxido de azufre (SO<sub>3</sub>) soluble en agua en forma de tiosulfato. |
+| 11 | Abono nitrogenado mixto con secundarios. | Producto obtenido por combinación química o por mezcla de abonos del grupo 1.4 nitrogenados simples, con excepción de urea con nitrato amónico y aquellos que sean incompatibles químicamente y que debe contener elementos secundarios. | 16% N total<br>4% N, al menos, en dos de las siguientes formas: nítrica, amoniacal o ureica<br>Contenido máximo en biuret: 0,8%<br>2% CaO soluble en agua y/o 2% MgO soluble en agua<br>25% SO<sub>3</sub> soluble en agua. | Nombre de los abonos del grupo 1.4 utilizados en su obtención. | N total<br>Si supera el 1%:<br>o N nítrico<br>o N amoniacal<br>o N ureico<br>• CaO soluble en agua cuando supere el 2%<br>• MgO soluble en agua cuando supere el 2%<br>• SO<sub>3</sub> soluble en agua. |
+
+1.1.2 Fosfatados.
+
+| N.º | Denominación del tipo. | Informaciones sobre la forma de obtención y los componentes esenciales. | Contenido mínimo en nutrientes (porcentaje en masa)<br>Información sobre la evaluación de los nutrientes<br>Otros requisitos. | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse.<br>Formas y solubilidad de los nutrientes<br>Otros criterios. |
+|---|---|---|---|---|---|
+| 1 | 2. | 3. | 4. | 5 | 6. |
+| 01 | Ácido fosfórico. | Producto obtenido por vía química y cuyo componente principal es el ácido ortofosfórico. | – 40% P<sub>2</sub>O<sub>5</sub> soluble en agua<br>– Fósforo en forma de pentóxido de fósforo (P<sub>2</sub>O<sub>5</sub>) del ácido ortofosfórico. |  | Pentóxido de fósforo (P<sub>2</sub>O<sub>5</sub>) soluble en agua. |
+
+1.1.3 Potásicos.
+
+| N.º | Denominación del tipo. | Informaciones sobre la forma de obtención y los componentes esenciales. | Contenido mínimo en nutrientes (porcentaje en masa)<br>Información sobre la evaluación de los nutrientes<br>Otros requisitos. | Otras informaciones sobre la denominación del tipo o del etiquetado. | Contenido en nutrientes que debe declararse y garantizarse.<br>Formas y solubilidad de los nutrientes<br>Otros criterios. |
+|---|---|---|---|---|---|
+| 1 | 2. | 3. | 4. | 5. | 6. |
+| 01 | Solución potásica. | Producto obtenido por vía química y/o física, puesto en solución acuosa, conteniendo como componentes esenciales sustancias portadoras de potasio, sin incorporación de materia orgánica de origen animal o vegetal. | 6% de K<sub>2</sub>O soluble en agua. | Las soluciones potásicas en las que el potasio proceda exclusivamente del sulfato potásico, podrán denominarse “Solución de sulfato potásico”. | – Óxido de potasio soluble en agua<br>– Contenido en cloruro<br>– Contenido en SO<sub>3</sub> soluble en agua (si supera el 2,5%). |
+| 02 | Solución de tiosulfato potásico. | Producto obtenido por vía química cuyo componente esencial es el tiosulfato potásico. | 20% de K<sub>2</sub>O soluble en agua<br>33% de SO<sub>3</sub> soluble en agua, del cual, al menos, el 90% está presente en forma de tiosulfato. |  | Óxido de potasio (K<sub>2</sub>O) soluble en agua<br>Trióxido de azufre (SO<sub>3</sub>) soluble en agua<br>Trióxido de azufre (SO<sub>3</sub>) soluble en agua en forma de tiosulfato. |
+
+1.1.4 Abonos de compuestos líquidos.
+
+| N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en nutrientes (porcentaje en masa)<br>Información sobre la evaluación de los nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse.<br>Formas y solubilidad de los nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 01 | Solución NPK. | Producto obtenido químicamente y por disolución en agua, en forma estable a la presión atmosférica, de abonos del grupo 1.4 de los grupos A, B o C o del grupo 1 de este anexo o productos similares que no alcancen la riqueza exigida para esos tipos, sin incorporación de materia orgánica de origen animal o vegetal. | – N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 7%<br>– N total: 1%<br>– P<sub>2</sub>O<sub>5</sub>: 1%<br>– K<sub>2</sub>O: 1%<br>– Contenido máximo en biuret: N ureico × 0,026. |  | – Nitrógeno total<br>Si superan el 0,5%<br>o Nitrógeno nítrico<br>o Nitrógeno amoniacal<br>o Nitrógeno ureico<br>– P<sub>2</sub>O<sub>5</sub> soluble en agua<br>– K<sub>2</sub>O soluble en agua<br>Podrán declararse:<br>– CaO soluble en agua (si supera el 0,2%),<br>– MgO soluble en agua (si supera el 0,2%) y<br>– SO<sub>3</sub> soluble en agua (si supera el 2,5%).<br>– Si el contenido en biuret es inferior al 0,2% podrá incluirse la indicación “Pobre en biuret”. |
+| 02 | Solución NP. | Producto obtenido químicamente y por disolución en agua, en forma estable a la presión atmosférica, de abonos del grupo 1.4 de los grupos A, B o C o del grupo 1 de este anexo o productos similares que no alcancen la riqueza exigida para esos tipos, sin incorporación de materia orgánica de origen animal o vegetal. | – N + P<sub>2</sub>O<sub>5</sub>: 9%<br>– N total: 1%<br>– P<sub>2</sub>O<sub>5</sub>: 1%<br>– Contenido máximo en biuret: N ureico × 0,026. |  | – Nitrógeno total<br>Si superan el 0,5%<br>o Nitrógeno nítrico<br>o Nitrógeno amoniacal<br>o Nitrógeno ureico<br>– P<sub>2</sub>O<sub>5</sub> soluble en agua<br>Podrán declararse:<br>– K<sub>2</sub>O soluble en agua (si supera el 0,5%)<br>– CaO soluble en agua (si supera el 0,2%),<br>– MgO soluble en agua (si supera el 0,2%) y<br>– SO<sub>3</sub> soluble en agua (si supera el 2,5%).<br>– Si el contenido en biuret es inferior al 0,2% podrá incluirse la indicación “Pobre en biuret”. |
+| 03 | Solución NK. | Producto obtenido químicamente y por disolución en agua, en forma estable a la presión atmosférica, de abonos del grupo 1.4 del grupo A, B o C o del grupo 1 de este anexo o productos similares que no alcancen la riqueza exigida para esos tipos, sin incorporación de materia orgánica de origen animal o vegetal. | N + K<sub>2</sub>O: 7%<br>– N total: 1%<br>– K<sub>2</sub>O: 1%<br>– Contenido máximo en biuret: N ureico × 0,026. |  | – Nitrógeno total<br>Si superan el 0,5%:<br>o Nitrógeno nítrico<br>o Nitrógeno amoniacal<br>o Nitrógeno ureico<br>– K<sub>2</sub>O soluble en agua<br>Podrán declararse<br>– P<sub>2</sub>O<sub>5</sub> soluble en agua (si supera el 0,5%)<br>– CaO soluble en agua (si supera el 0,2%),<br>– MgO soluble en agua (si supera el 0,2%) y<br>– SO<sub>3</sub> soluble en agua (si supera el 2,5%).<br>– Si el contenido en biuret es inferior al 0,2% podrá incluirse la indicación “Pobre en biuret”. |
+| 04 | Solución PK. | Producto obtenido químicamente y por disolución en agua, en forma estable a la presión atmosférica, de abonos del grupo 1.4 del grupo A, B o C o del grupo 1 de este anexo o productos similares que no alcancen la riqueza exigida para esos tipos, sin incorporación de materia orgánica de origen animal o vegetal. | – P<sub>2</sub>O<sub>5</sub>+ K<sub>2</sub>O: 7%<br>– P<sub>2</sub>O<sub>5</sub>: 1%<br>– K<sub>2</sub>O: 1%. |  | – P<sub>2</sub>O<sub>5</sub> soluble en agua<br>– K<sub>2</sub>O soluble en agua<br>Podrán declararse:<br>– N total (si supera el 0,5%)<br>– CaO soluble en agua (si supera el 0,2%),<br>– MgO soluble en agua (si supera el 0,2%) y<br>– SO<sub>3</sub> soluble en agua (si supera el 2,5%). |
+| 05 | Suspensión NPK. | Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto en suspensión como disueltas en agua, de abonos del grupo 1.4 del grupo A, B o C o del grupo 1 de este anexo o productos similares que no alcancen la riqueza exigida para esos tipos, sin incorporación de materia orgánica de origen animal o vegetal. | – N +P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 20%<br>– N total: 2%<br>– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y agua: 4%<br>– K<sub>2</sub>O soluble en agua: 4%<br>– Contenido máximo en biuret: N ureico × 0,026. |  | – Nitrógeno total<br>Si superan el 1%<br>o Nitrógeno nítrico<br>o Nitrógeno amoniacal<br>o Nitrógeno ureico<br>– P<sub>2</sub>O<sub>5</sub> soluble en agua<br>– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y agua<br>– K<sub>2</sub>O soluble en agua<br>Podrán declararse:<br>– CaO soluble en agua (si supera el 0,5%),<br>– MgO soluble en agua (si supera el 0,3%) y<br>– SO<sub>3</sub> soluble en agua (si supera el 2,5%).<br>– Si el contenido en biuret es inferior al 0,2% podrá incluirse la indicación “Pobre en biuret”. |
+
+1.2 Abonos inorgánicos con nutrientes secundarios.
+
+Nota 1. Se especificará si el producto es para aplicación foliar, para fertirrigación, en soluciones nutritivas, en sustratos inertes o en varias de estas formas
+
+Nota 2. Los únicos agentes quelantes o complejantes autorizados son los reflejados en los apartados 1.2.3 o 1.2.4 de este Anexo, los cuales podrán denominarse por sus abreviaturas también allí indicadas.
+
+Nota 3. Si un nutriente está presente en forma quelada o complejada, habrá que indicar en qué intervalo de pH se garantiza una buena estabilidad de estas fracciones, para cada una de sus formas de aplicación.
+
+1.2.1 Con un solo nutriente secundario.
+
+| N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en nutrientes (porcentaje en masa)<br>Información sobre la evaluación de los nutriente.<br>Otros requisitos | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse<br>Formas y solubilidad de los nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 01 | Cloruro cálcico. | Producto obtenido químicamente que se compone esencialmente de cloruro cálcico. | 12% de CaO soluble en agua. | pH. | Óxido de calcio (CaO) soluble en agua. |
+| 02 | Acetato cálcico. | Producto obtenido químicamente que se compone esencialmente de acetato cálcico soluble en agua. | 12% de CaO soluble en agua. | pH. | Óxido de calcio (CaO) soluble en agua. |
+| 03 | Solución de acetato cálcico. | Producto líquido obtenido químicamente o por disolución que se compone esencialmente de acetato cálcico. | 6% de CaO soluble en agua. | pH. | Óxido de calcio (CaO) soluble en agua. |
+| 04 | Quelato de Calcio. | Producto soluble en agua obtenido por combinación química de calcio con agentes quelantes. | 10% de CaO soluble en agua (al menos 8/10 del contenido declarado debe estar quelado). | Nombre de los agentes quelantes. | – Óxido de calcio (CaO) soluble en agua.<br>– Óxido de calcio (CaO) quelado por cada uno de los agentes quelantes. |
+| 05 | Solución de calcio quelado. | Producto obtenido por disolución en agua del tipo 04. | 2% de CaO soluble en agua (al menos 8/10 del contenido declarado debe estar quelado). | Nombre de los agentes quelantes. | – Óxido de calcio (CaO) soluble en agua.<br>– Óxido de calcio (CaO) quelado por cada uno de los agentes quelantes. |
+| 06 | Calcio complejado. | Producto soluble en agua obtenido por combinación química de calcio con agentes complejantes. | 5% de CaO soluble en agua (al menos 5/10 del contenido declarado debe estar complejado). | Nombre de los agentes complejantes. | – Óxido de calcio (CaO) soluble en agua.<br>– Óxido de calcio (CaO) complejado por cada uno de los agentes complejantes. |
+| 07 | Solución de calcio complejado. | Producto obtenido por disolución en agua del tipo 06. | 2% de CaO soluble en agua (al menos 5/10 del contenido declarado debe estar complejado). | Nombre de los agentes complejantes. | – Óxido de calcio (CaO) soluble en agua.<br>– Óxido de calcio (CaO) complejado por cada uno de los agentes complejantes. |
+| 08 | Quelato de Magnesio. | Producto soluble en agua obtenido por combinación química de magnesio con agentes quelantes. | 6% de MgO soluble en agua (al menos 8/10 del contenido declarado deben estar quelado). | Nombre de los agentes quelantes. | – Óxido de magnesio (MgO) soluble en agua.<br>– Óxido de magnesio (MgO) quelado por cada uno de los agentes quelantes. |
+| 09 | Solución de magnesio quelado. | Producto obtenido por disolución en agua del tipo 08. | 1% de MgO soluble en agua (al menos 8/10 del contenido declarado debe estar quelado). | Nombre de los agentes quelantes. | – Óxido de magnesio (MgO) soluble en agua.<br>– Óxido de magnesio (MgO) quelado por cada uno de los agentes quelantes. |
+| 10 | Magnesio complejado. | Producto soluble en agua obtenido por combinación química de magnesio con agentes complejantes. | 3% de MgO soluble en agua (al menos 5/10 del contenido declarado debe estar complejado). | Nombre de los agentes complejantes. | – Óxido de magnesio (MgO) soluble en agua.<br>– Óxido de magnesio (MgO) complejado por cada uno de los agentes complejantes.<br>. |
+| 11 | Solución de magnesio complejado. | Producto obtenido por disolución en agua del tipo 10. | 1% de MgO soluble en agua (al menos 5/10 del contenido declarado debe estar complejado). | Nombre de los agentes complejantes. | – Óxido de magnesio (MgO) soluble en agua.<br>– Óxido de magnesio (MgO) complejado por cada uno de los agentes complejantes. |
+| 12 | Azufre elemental con arcilla. | Producto obtenido por mezcla de azufre elemental al estado fundido y de arcilla. | 80% de S (200% SO<sub>3</sub>). |  | – Trióxido de azufre (SO<sub>3</sub>) en forma elemental. |
+
+1.2.2 Con más de un nutriente secundario.
+
+| N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en nutrientes (porcentaje en masa)<br>Información sobre la evaluación de los nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse.<br>Formas y solubilidad de los nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 01 | Mezcla sólida de Ca y Mg. | Producto obtenido por mezcla de productos a base de Ca y Mg. | – La suma mínima de CaO y MgO debe ser un 6% de la masa del abono, con un mínimo de 2% de CaO soluble en agua y 2% de MgO soluble en agua.<br>– Además, cuando el Ca y/o el Mg estén presentes en forma quelada: 1% de CaO y/o 0,5% de MgO, quelados por cada uno de los agentes quelantes.<br>Además, cuando el Ca y/o el Mg estén presentes en forma complejada: 1% de CaO y/o 0,5% de MgO, complejados por cada uno de los agentes complejantes. | Nombre de los agentes quelantes o complejantes, en su caso.<br>pH. | Óxido de calcio (CaO) soluble en agua.<br>– Óxido de magnesio (MgO) soluble en agua.<br>Si alguno de los nutrientes secundarios está quelado o complejado, para cada uno de los agentes quelantes o complejantes:<br>– Óxido de calcio (CaO) quelado o complejado.<br>– Óxido de magnesio (MgO) quelado o complejado. |
+| 02 | Mezcla líquida de Ca y Mg. | Producto líquido obtenido por mezcla de productos a base de Ca y Mg. | La suma mínima de CaO y MgO debe ser un 2% de la masa del abono, con un mínimo de:<br>– 0,5% de CaO soluble en agua, cuando esté presente en forma mineral, quelada o complejada.<br>– 0,3% de MgO soluble en agua, cuando esté presente en forma mineral, quelada o complejada. | Nombre de los agentes quelantes o complejantes, en su caso.<br>pH. | – Óxido de calcio (CaO) soluble en agua.<br>– Óxido de magnesio (MgO) soluble en agua.<br>Si alguno de los nutrientes secundarios está quelado o complejado, para cada uno de los agentes quelantes o complejantes:<br>– Óxido de calcio (CaO) quelado o complejado.<br>– Óxido de magnesio (MgO) quelado o complejado. |
+| 03 | Solución de tiosulfato cálcico. | Producto obtenido por vía química cuyo componente esencial es el tiosulfato de calcio. | 6% de CaO soluble en agua<br>17% de SO<sub>3</sub> soluble en agua, del cual, al menos, el 90% está presente en forma de tiosulfato. |  | Óxido de Calcio (CaO) soluble en agua.<br>Trióxido de azufre (SO<sub>3</sub>) soluble en agua .<br>Trióxido de azufre (SO<sub>3</sub>) soluble en agua en forma de tiosulfato. |
+
+1.2.3 Lista de materias orgánicas autorizadas para quelar Ca o Mg
+
+| Ácidos o sales de sodio, potasio o amonio de: |  |  | N.º CAS |
+|---|---|---|---|
+| Ácido etilendiaminotetraacético | EDTA | C<sub>10</sub>H<sub>16</sub>O<sub>8</sub>N<sub>2</sub> | 60-00-4 |
+| Ácido dietilentriaminopentaacético | DTPA | C<sub>14</sub>H<sub>23</sub>O<sub>10</sub>N<sub>3</sub> | 67-43-6 |
+| Ácido 2-hidroxietil etilendiaminotriacético | HEEDTA | C<sub>10</sub>H<sub>18</sub>O<sub>7</sub>N<sub>2</sub> | 150-39-0 |
+
+1.2.4 Lista de materias orgánicas autorizadas para complejar Ca o Mg, únicamente para aplicación foliar y para los nutrientes especificados
+
+| Ácidos o sales de sodio, potasio o amonio de: |  |  | N.º CAS |
+|---|---|---|---|
+| Ácido glucónico, para Ca y Mg | AG | C<sub>6</sub>H<sub>12</sub>O<sub>7</sub> | 526-95-4 |
+| Ácido heptaglucónico, para Ca y Mg | AHG | C<sub>7</sub>H<sub>14</sub>O<sub>8</sub> | 2782-86-7 |
+| Ácido cítrico, para Ca | AC | C<sub>6</sub>H<sub>8</sub>O<sub>7</sub> | 77-92-9 |
+| Ácido lignosulfónico, para Ca y Mg | LS |  | 8062-15-5 |
+
+1.3 Abonos inorgánicos con micronutrientes.
+
+Nota 1. Se especificará si el producto es para aplicación foliar, para fertirrigación, en soluciones nutritivas, en sustratos inertes o en varias de estas formas
+
+Nota 2. Los únicos agentes complejantes o quelantes autorizados son los reflejados en el apartado 1.3.5 de este Anexo, así como los de la lista E.3.1. del Reglamento CE nº 2003/2003, los cuales podrán denominarse por sus abreviaturas también allí indicadas.
+
+Nota 3. Si un nutriente está presente en forma complejada, habrá que indicar en qué intervalo de pH se garantiza una buena estabilidad de estas fracciones para cada una de sus formas de aplicación.
+
+1.3.1 Con un solo micronutriente.
+
+| N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en nutrientes (porcentaje en masa)<br>Información sobre la evaluación de los nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse.<br>Formas y solubilidad de los nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 01 | Acetato de cobre. | Producto obtenido por vía química conteniendo como componente esencial acetato de cobre soluble en agua. | 34% de Cu soluble en agua (2% al menos para productos en solución o suspensión). | pH. | – Cobre (Cu) soluble en agua. |
+| 02 | Cobre complejado. | Producto soluble en agua obtenido por combinación química de cobre con un agente complejante. | 5% Cu soluble en agua (al menos 5/10 del contenido declarado debe estar complejado). | Nombre del agente complejante. | – Cobre (Cu) soluble en agua.<br>– Cobre (Cu) complejado. |
+| 03 | Solución de cobre complejado. | Producto obtenido por disolución en agua del tipo 02. | 2% Cu soluble en agua (al menos 5/10 del contenido declarado deben estar complejado). | Nombre del agente complejante. | – Cobre (Cu) soluble en agua.<br>– Cobre (Cu) complejado. |
+| 04 | Hierro complejado. | Producto soluble en agua obtenido por combinación química de hierro con un agente complejante. | 5% Fe soluble en agua (al menos 5/10 del contenido declarado debe estar complejado). | Nombre del agente complejante. | – Hierro (Fe) soluble en agua.<br>– Hierro (Fe) complejado. |
+| 05 | Solución de hierro complejado. | Producto obtenido por disolución en agua del tipo 04. | 2% Fe soluble en agua (al menos 5/10 del contenido declarado debe estar complejado). | Nombre del agente complejante. | – Hierro (Fe) soluble en agua.<br>– Hierro (Fe) complejado. |
+| 06 | Manganeso complejado. | Producto soluble en agua obtenido por combinación química de manganeso y un agente complejante. | 5% Mn soluble en agua (al menos 5/10 del contenido declarado debe estar complejado). | Nombre del agente complejante. | – Manganeso (Mn) soluble en agua.<br>– Manganeso (Mn) complejado. |
+| 07 | Solución de manganeso complejado. | Producto obtenido por disolución en agua del tipo 06. | 2% Mn soluble en agua (al menos 5/10 del contenido declarado debe estar complejado). | Nombre del agente complejante. | – Manganeso (Mn) soluble en agua.<br>– Manganeso (Mn) complejado. |
+| 08 | Zinc complejado. | Producto soluble en agua obtenido por combinación química de zinc y un agente complejante. | 5% Zn soluble en agua (al menos 5/10 del contenido declarado debe estar complejado). | Nombre del agente complejante. | – Zinc (Zn) soluble en agua.<br>– Zinc (Zn) complejado. |
+| 09 | Solución de zinc complejado. | Producto obtenido por disolución en agua del tipo 08. | 2% Zn soluble en agua (al menos 5/10 del contenido declarado debe estar complejado). | Nombre del agente complejante. | – Zinc (Zn) soluble en agua.<br>– Zinc (Zn) complejado. |
+| 10 | Fosfato ferroso. | Producto obtenido por vía química a partir de la precipitación de sales ferrosas (Fe II) con distintos fosfatos. | 25% Fe total, siendo la mitad, al menos, en forma ferrosa.<br>20% P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales.<br>Polvo apto para preparar suspensiones en agua. | Polvo para preparar suspensiones inyectables en el suelo. | – Fe total.<br>– Fe ferroso.<br>– P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales.<br>– N total (si supera el 1%).<br>– SO<sub>3</sub> soluble en agua (si supera el 5%). |
+| 11 | Quelato de hierro. | Producto soluble en agua obtenido por combinación química de hierro con uno o varios agentes quelantes mencionados en la lista 1.3.6 o del anexo I, sección E.3.1, del Reglamento 2003/2003. | 5 % de hierro soluble en agua (al menos 8/10 del contenido declarado debe estar quelado) y al menos el 50 % del hierro soluble en agua está quelado por el o los agentes quelantes declarados. | Nombre de cada uno de los agentes quelantes mencionados en la lista 1.3.6 o en la lista del anexo I, sección E.3.1, que quelan al menos un 1 % del hierro soluble en agua. | – Hierro (Fe) soluble en agua.<br>– Hierro quelado por cada agente quelante declarado en la denominación del tipo e identificable y cuantificable. |
+
+1.3.2 Mezclas de micronutrientes exclusivamente minerales.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th>
+<p class="cabeza_tabla">Denominación del tipo</p>
+</th>
+<th>
+<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido mínimo de los micronutrientes</p>
+<p class="cabeza_tabla">(porcentaje en masa del abono)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th>
+<p class="cabeza_tabla">1</p>
+</th>
+<th>
+<p class="cabeza_tabla">2</p>
+</th>
+<th>
+<p class="cabeza_tabla">3</p>
+</th>
+<th>
+<p class="cabeza_tabla">4</p>
+</th>
+<th>
+<p class="cabeza_tabla">5</p>
+</th>
+<th>
+<p class="cabeza_tabla">6</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mezcla sólida de micronutrientes minerales.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla de dos o más micronutrientes, en forma mineral exclusivamente, de los tipos de abonos 1.3.1 y 1.4.5.1.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Boro (B) 0,2</p>
+<p class="cuerpo_tabla_izq">Cobalto (Co) 0,02</p>
+<p class="cuerpo_tabla_izq">Cobre (Cu) 0,5</p>
+<p class="cuerpo_tabla_izq">Hierro(Fe) 2,0</p>
+<p class="cuerpo_tabla_izq">Manganeso (Mn) 0,5</p>
+<p class="cuerpo_tabla_izq">Molibdeno (Mo) 0,02</p>
+<p class="cuerpo_tabla_izq">Zinc (Zn) 0,5</p>
+<p class="cuerpo_tabla_izq">Expresados en forma soluble en agua.</p>
+<p class="cuerpo_tabla_izq">– En la mezcla sólida, la suma mínima de todos los micronutrientes: 5% de la masa del abono.</p>
+<p class="cuerpo_tabla_izq">– En la mezcla líquida, la suma mínima de todos los micronutrientes: 2% de la masa del abono.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Nombre de los aniones minerales.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">– Contenido total de cada micronutriente expresado en porcentaje del abono en masa, excepto si un micronutriente es totalmente soluble en agua. Contenido soluble en agua de cada micronutriente, expresado en porcentaje en masa del abono, cuando el contenido soluble alcance como mínimo la mitad del contenido total. Cuando un micronutriente sea totalmente soluble en agua, solo se declarará el contenido soluble en agua.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="tabla_ancha">02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mezcla líquida de micronutrientes minerales.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+1.3.3 Mezcla de nutrientes quelados o complejados
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th>
+<p class="cabeza_tabla">Denominación del tipo</p>
+</th>
+<th>
+<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+</th>
+<th colspan="3">
+<p class="cabeza_tabla">Contenido mínimo de los micronutrientes</p>
+<p class="cabeza_tabla">(porcentaje en masa del abono)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th>
+<p class="cabeza_tabla">1</p>
+</th>
+<th>
+<p class="cabeza_tabla">2</p>
+</th>
+<th>
+<p class="cabeza_tabla">3</p>
+</th>
+<th colspan="3">
+<p class="cabeza_tabla">4</p>
+</th>
+<th>
+<p class="cabeza_tabla">5</p>
+</th>
+<th>
+<p class="cabeza_tabla">6</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+<th colspan="3">
+<p class="cabeza_tabla">Cuando el nutriente es presentado en forma</p>
+</th>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+</tr>
+<tr>
+<td> </td>
+<th>
+<p class="cabeza_tabla">Solo mineral</p>
+<p class="cabeza_tabla">(soluble en agua)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Complejado</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="7">
+<p class="cuerpo_tabla_centro">01</p>
+</td>
+<td rowspan="7">
+<p class="cuerpo_tabla_izq">Mezcla sólida de micronutrientes complejados.</p>
+</td>
+<td rowspan="8">
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla de dos o más micronutrientes, uno de ellos, al menos, en forma complejada, sin presencia de micronutrientes quelados.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Boro (B).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">0,2</p>
+</td>
+<td> </td>
+<td rowspan="8">
+<p class="cuerpo_tabla_izq">Nombre de los aniones minerales si existen y de los agentes complejantes.</p>
+</td>
+<td rowspan="8">
+<p class="cuerpo_tabla_izq">– Porcentaje de cada uno de los micronutrientes presentes solubles en agua.</p>
+<p class="cuerpo_tabla_izq">– Porcentaje de cada uno de los micronutrientes en forma complejada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Cobalto (Co).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">0,02</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Cobre (Cu).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">0,5</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">0,1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Hierro(Fe).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2,0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">0,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Manganeso (Mn).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">0,5</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">0,1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Molibdeno (Mo).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">0,02</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Zinc (Zn) .</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">0,5</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">0,1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mezcla líquida de micronutrientes complejados.</p>
+</td>
+<td colspan="3">
+<p class="cuerpo_tabla_izq">– En la mezcla sólida, la suma mínima de todos los micronutrientes: 5% de la masa del abono.</p>
+<p class="cuerpo_tabla_izq">– En la mezcla líquida, la suma mínima de todos los micronutrientes: 2% de la masa del abono.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">N.º</th>
+<th class="cabeza_tabla">Denominación del tipo</th>
+<th class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</th>
+<th class="cabeza_tabla" colspan="3">Contenido mínimo de los micronutrientes (porcentaje en masa del abono)</th>
+<th class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Contenido en nutrientes que debe</p>
+<p class="cabeza_tabla">declararse y garantizarse. Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla" colspan="3">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" rowspan="2"> </th>
+<th class="cabeza_tabla" rowspan="2"> </th>
+<th class="cabeza_tabla" rowspan="2"> </th>
+<th class="cabeza_tabla" colspan="3">Cuando el nutriente es presentado en forma</th>
+<th class="cabeza_tabla" rowspan="2"> </th>
+<th class="cabeza_tabla" rowspan="2"> </th>
+</tr>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Solo mineral</p>
+<p class="cabeza_tabla">(soluble en agua)</p>
+</th>
+<th class="cabeza_tabla">Quelado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="7">03</td>
+<td class="cuerpo_tabla_izq" rowspan="7">Mezcla sólida de micronutrientes quelados.</td>
+<td class="cuerpo_tabla_izq" rowspan="8">Producto obtenido por mezcla de dos o más micronutrientes, uno de ellos, al menos, en forma quelada, sin presencia de micronutrientes complejados.</td>
+<td class="cuerpo_tabla_izq">Boro (B).</td>
+<td class="cuerpo_tabla_coma">0,2</td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_izq" rowspan="8">Nombre de los aniones minerales si existen y de los agentes quelantes autorizados.</td>
+<td class="cuerpo_tabla_izq" rowspan="8">
+<p class="cuerpo_tabla_izq">– Porcentaje de cada uno de los micronutrientes presentes solubles en agua.</p>
+<p class="cuerpo_tabla_izq">– Porcentaje de cada uno de los micronutrientes en forma quelada.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cobalto (Co).</td>
+<td class="cuerpo_tabla_coma">0,02</td>
+<td class="cuerpo_tabla_coma"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cobre (Cu).</td>
+<td class="cuerpo_tabla_coma">0,5</td>
+<td class="cuerpo_tabla_coma">0,1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Hierro(Fe).</td>
+<td class="cuerpo_tabla_coma">2,0</td>
+<td class="cuerpo_tabla_coma">0,3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Manganeso (Mn).</td>
+<td class="cuerpo_tabla_coma">0,5</td>
+<td class="cuerpo_tabla_coma">0,1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Molibdeno (Mo).</td>
+<td class="cuerpo_tabla_coma">0,02</td>
+<td class="cuerpo_tabla_coma"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Zinc (Zn).</td>
+<td class="cuerpo_tabla_coma">0,5</td>
+<td class="cuerpo_tabla_coma">0,1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">04</td>
+<td class="cuerpo_tabla_izq">Mezcla líquida de micronutrientes quelados.</td>
+<td class="cuerpo_tabla_izq" colspan="3">
+<p class="cuerpo_tabla_izq">– En la mezcla sólida, la suma mínima de todos los</p>
+<p class="cuerpo_tabla_izq">micronutrientes: 5% de la masa del abono.</p>
+<p class="cuerpo_tabla_izq">– En la mezcla líquida, la suma mínima de todos los micronutrientes: 2% de la masa del abono.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+1.3.4 abonos con nutrientes principales y/o secundarios que contienen micronutrientes (contenidos mínimos expresados en porcentaje de la masa del abono).
+
+| Si el micronutriente es: | En cultivos extensivos y pastos con aplicación al suelo | En fertirrigación o en uso hortícola con aplicación al suelo | En aplicación foliar |
+|---|---|---|---|
+| Boro (B) | 0,01 | 0,01 | 0,01 |
+| Cobalto (Co) | 0,002 | – | 0,002 |
+| Cobre (Cu) | 0,01 | 0,002 | 0,002 |
+| Hierro (Fe) | 0,5 | 0,02 | 0,02 |
+| Manganeso (Mn) | 0,1 | 0,01 | 0,01 |
+| Molibdeno (Mo) | 0,001 | 0,001 | 0,001 |
+| Zinc (Zn) | 0,01 | 0,002 | 0,002 |
+
+1.3.5 Agentes complejantes, únicamente para aplicación foliar y/o fertirrigación y para los micronutrientes especificados
+
+| Ácidos o sales de sodio, potasio o amonio de: |  |  | N.º CAS |
+|---|---|---|---|
+| Ácido lignosulfónico, para todos los micronutrientes <sup>1</sup> | LS |  | 8062-15-5 |
+| Ácido glucónico, para todos los micronutrientes | AG | C<sub>6</sub> H<sub>12</sub> O<sub>7</sub> | 526-95-4 |
+| Ácido heptaglucónico, para todos los micronutrientes | AHG | C<sub>7</sub> H<sub>14</sub> O<sub>8</sub> | 2782-86-7 |
+| Sustancias húmicas (al menos 60% de ácidos húmicos), para Fe, Cu y Zn | SH |  | 68514-28-3 |
+| Aminoácidos libres, para Cu y Zn | AA |  |  |
+| Ácido cítrico, para Fe | AC | C<sub>6</sub> H<sub>8</sub> O<sub>7</sub> | 77-92-9 |
+
+1 En el caso del Zn y del Mn, podrá aplicarse también, directamente al suelo.
+
+1.3.6 Agentes quelantes, únicamente para aplicación al suelo por fertirrigación y para el hierro.
+
+| Sales de sodio de: |  |  | N.º CAS |
+|---|---|---|---|
+| Ácido 2-hidroxi-α-[(2-hidroxietil)amino]- fenilacético | orto-MEAHA | C10H13NO4 | 24223-84-5 |
+
+1.4 Abonos del antiguo Reglamento (CE) N.º 2003/2003
+
+**1.4.1 Abonos inorgánicos simples con elementos nutrientes primarios**
+
+| N.<sup>o</sup> | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en elementos nutrientes (porcentaje en masa) Informaciones sobre la evaluación de los elementos nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo | Contenido en elementos nutrientes que debe declararse<br>Formas y solubilidades de los elementos nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1(a) | Nitrato cálcico (de cal) | Producto obtenido químicamente que contiene como componente esencial nitrato cálcico y ocasionalmente nitrato amónico | 15 % N<br>Nitrógeno expresado como nitrógeno total o como nitrógeno nítrico y amoniacal. Contenido máximo en nitrógeno amoniacal: 1,5 % N |  | Nitrógeno total<br>Información facultativa suplementaria:<br>Nitrógeno nítrico Nitrógeno amoniacal |
+| 1(b) | Nitrato cálcico y magnésico (nitrato de cal y de magnesio) | Producto obtenido químicamente que contiene como componentes esenciales nitrato cálcico y nitrato magnésico | 13 % N<br>Nitrógeno expresado como nitrógeno nítrico. Contenido mínimo en magnesio en forma de sales solubles en agua expresado como óxido de magnesio: 5 % MgO |  | Nitrógeno nítrico<br>Óxido de magnesio soluble en agua |
+| 1(c) | Nitrato magnésico | Producto obtenido químicamente que se compone esencialmente de nitrato magnésico hexahidratado | 10 % N<br>Nitrógeno expresado como nitrógeno nítrico<br>14 % MgO<br>Magnesio expresado como óxido de magnesio soluble en agua | Si se comercializa en forma de cristales, puede añadirse la indicación «en forma cristalizada» | Nitrógeno nítrico<br>Óxido de magnesio soluble en agua |
+| 2(a) | Nitrato sódico (de sosa) | Producto obtenido químicamente que contiene como componente esencial nitrato sódico | 15 % N<br>Nitrógeno expresado como nitrógeno nítrico |  | Nitrógeno nítrico |
+| 2(b) | Nitrato de Chile | Producto preparado a partir de caliche, que contiene como componente esencial nitrato sódico | 15 % N<br>Nitrógeno expresado como nitrógeno nítrico |  | Nitrógeno nítrico |
+| 3 | Sulfato amónico | Producto obtenido químicamente que contiene como componente esencial sulfato amónico, posiblemente con hasta un 15 % de nitrato cálcico (de cal). | 19,7 % N<br>Nitrógeno expresado como nitrógeno total.<br>Contenido máximo de nitrógeno nítrico 2,2 % N si se añade nitrato cálcico (de cal). | Cuando se comercialice en forma de combinación de sulfato amónico y nitrato cálcico (de cal), su denominación deberá incluir la expresión «con hasta un 15 % de nitrato cálcico (de cal)». | Nitrógeno amoniacal.<br>Nitrógeno total, si se añade nitrato cálcico (de cal). |
+| 4 | Nitrato amónico, Nitrato amónico cálcico | Producto obtenido químicamente que contiene como componente esencial nitrato amónico, que puede contener otros productos tales como piedra caliza triturada, sulfato cálcico, dolomita triturada, sulfato de magnesio, kieserita | 20 % N Nitrógeno expresado como nitrógeno nítrico y nitrógeno amoniacal, representando cada una de estas formas de nitrógeno alrededor de la mitad del nitrógeno presente. | La denominación «nitrato amónico cálcico» sólo podrá utilizarse para abonos que contengan, además de nitrato amónico, carbonato cálcico (por ejemplo, piedra caliza) y/o carbonato de magnesio y carbonato cálcico (por ejemplo, dolomita). El contenido mínimo del abono en carbonatos deberá ser del 20 %. El grado de pureza de tales carbonatos deberá ser como mínimo del 90 % | Nitrógeno total<br>Nitrógeno nítrico<br>Nitrógeno amoniacal |
+| 5 | Nitrosulfato amónico | Producto obtenido químicamente y que contiene como componentes esenciales nitrato amónico y sulfato amónico | 25 % N Nitrógeno expresado como nitrógeno amoniacal y nítrico. Contenido mínimo en nitrógeno nítrico: 5 % |  | Nitrógeno total Nitrógeno amoniacal Nitrógeno nítrico |
+| 6 | Nitrosulfato magnésico | Producto obtenido químicamente y que contiene como componentes esenciales nitrato amónico, sulfato amónico y sulfato magnésico | 19 % N<br>Nitrógeno expresado como nitrógeno amoniacal y nitrógeno nítrico. Contenido mínimo en nitrógeno nítrico: 6 % N<br>5 % MgO<br>Magnesio en forma de sales solubles en agua, expresado como óxido de magnesio |  | Nitrógeno total Nitrógeno amoniacal<br>Nitrógeno nítrico Óxido de magnesio soluble en agua |
+| 7 | Nitrato amónico con magnesio o Nitromagnesio | Producto obtenido químicamente y que contiene como componentes esenciales nitratos amónicos y sales compuestas de magnesio (dolomita, carbonato de magnesio y/o sulfato de magnesio) | 19 % N<br>Nitrógeno expresado como nitrógeno amoniacal y nítrico. Contenido mínimo en nitrógeno nítrico: 6 % N<br>5 % MgO<br>Magnesio expresado como óxido de magnesio total |  | Nitrógeno total Nitrógeno amoniacal Nitrógeno nítrico<br>Óxido de magnesio total y, ocasionalmente, óxido de magnesio soluble en agua |
+| 8 | Urea | Producto obtenido químicamente que contiene como componente esencial diamida carbónica (carbamida) | 44 % N<br>Nitrógeno ureico total (incluido biuret). Contenido máximo de biuret: 1,2 % |  | Nitrógeno total, expresado como nitrógeno ureico |
+| 9 | Crotonilidendiurea | Producto obtenido por reacción de la urea con el crotonaldehído Compuesto monómero | 28 % N<br>Nitrógeno expresado como nitrógeno total<br>Al menos 25 % N de la crotonilidendiurea<br>Contenido máximo de nitrógeno ureico: 3 % |  | Nitrógeno total<br>Nitrógeno ureico, si alcanza el 1 % en peso<br>Nitrógeno de la crotonilidendiurea |
+| 10 | Isobutilidendiurea | Producto obtenido por reacción de la urea con el isobutilaldehído Compuesto monómero | 28 % N<br>Nitrógeno expresado como nitrógeno total<br>Al menos 25 % N de la isobutilidendiurea<br>Contenido máximo de nitrógeno ureico: 3 % |  | Nitrógeno total<br>Nitrógeno ureico, si alcanza el 1 % en peso<br>Nitrógeno de la isobutilidendiurea |
+| 11 | Urea formaldehído | Producto obtenido por reacción de la urea con el formaldehído, compuesto esencialmente por moléculas de urea folmaldehído Compuesto polímero | 36 % N total<br>Nitrógeno expresado como nitrógeno total<br>Al menos <sup>3</sup>/<sub>5</sub> del contenido de nitrógeno total declarado debe ser soluble en agua caliente<br>Al menos 31 % N de la urea formaldehído<br>Contenido máximo de nitrógeno ureico: 5 % |  | Nitrógeno total<br>Nitrógeno ureico, si alcanza el 1 % en peso<br>Nitrógeno de la urea formaldehído soluble en agua fría<br>Nitrógeno de la urea formaldehído soluble únicamente en agua caliente |
+| 12 | Abono nitrogenado que contiene crotonilidendiurea | Producto obtenido químicamente, que contiene crotonilidendiurea y un abono nitrogenado simple [lista A-1, a excepción de los productos 3 a), 3 b) y 5] | 18 % N expresado como nitrógeno total<br>Al menos 3 % de nitrógeno en forma amoniacal y/o nítrica y/o ureica<br>Al menos <sup>1</sup>/<sub>3</sub> del contenido de nitrógeno total declarado debe proceder de la crotonilidendiurea Contenido máximo de biuret:<br>(N ureico + N crotonilidendiurea) × 0,026 |  | Nitrógeno total<br>Para todas las formas cuyo contenido alcance el 1 %:<br>nitrógeno nítrico nitrógeno amoniacal nitrógeno ureico<br>Nitrógeno de la crotonilidendiurea |
+| 13 | Abono nitrogenado que contiene isobutilidendiurea | Producto obtenido químicamente, que contiene isobutilidendiurea y un abono nitrogenado simple [lista A-1, a excepción de los productos 3 a), 3 b) y 5] | 18 % N expresado como nitrógeno total<br>Al menos 3 % de nitrógeno en forma amoniacal y/o nítrica y/o ureica<br>Al menos <sup>1</sup>/<sub>3</sub> del contenido de nitrógeno total declarado debe proceder de la isobutilidendiurea Contenido máximo de biuret:<br>(N ureico + N isobutilidendiurea) × 0,026 |  | Nitrógeno total<br>Para todas las formas cuyo contenido alcance el 1 %:<br>nitrógeno nítrico nitrógeno amoniacal nitrógeno ureico<br>Nitrógeno de la isobutilidendiurea |
+| 14 | Abono nitrogenado que contiene urea formaldehído | Producto obtenido químicamente, que contiene urea formaldehído y un abono nitrogenado simple [lista A-1, a excepción de los productos 3 a), 3 b) y 5] | 18 % N expresado como nitrógeno total<br>Al menos 3 % de nitrógeno en forma amoniacal y/o nítrica y/o ureica<br>Al menos <sup>1</sup>/<sub>3</sub> del contenido de nitrógeno total declarado debe proceder de la urea formaldehído<br>El nitrógeno de la urea formaldehído debe contener al menos <sup>3</sup>/<sub>5</sub> de nitrógeno soluble en agua caliente<br>Contenido máximo de biuret:<br>(N ureico + N urea formaldehído) × 0,026 |  | Nitrógeno total<br>Para todas las formas cuyo contenido alcance el 1 %:<br>– nitrógeno nítrico<br>– nitrógeno amoniacal<br>– nitrógeno ureico<br>Nitrógeno de la urea formaldehído Nitrógeno de la urea formaldehído soluble en agua fría<br>Nitrógeno de la urea formaldehído soluble únicamente en agua caliente |
+| 15 | Sulfato amónico-urea | Producto obtenido químicamente a partir de urea y sulfato amónico | 30 % N<br>Nitrógeno expresado como nitrógeno amoniacal y ureico Contenido mínimo en nitrógeno amoniacal: 4 %<br>Contenido mínimo en azufre expresado como trióxido de azufre: 12 %<br>Contenido máximo en biuret: 0,9 % |  | Nitrógeno total Nitrógeno amoniacal Nitrógeno ureico<br>Trióxido de azufre soluble en agua |
+
+| N.<sup>o</sup> | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en elementos nutrientes (porcentaje en masa)<br>Informaciones sobre la evaluación de los elementos nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo | Contenido en elementos nutrientes que debe declararse<br>Formas y solubilidades de los elementos nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Escorias de desfosforación<br>– fosfatos Thomas<br>– escorias Thomas | Producto obtenido en siderurgia por tratamiento de la fundición fosforosa y que contiene como componentes esenciales silicofosfatos cálcico | 12 % P<sub>2</sub>O<sub>5</sub><br>Fósforo expresado como pentóxido de fósforo soluble en ácidos minerales, siendo soluble en ácido cítrico al 2 % el 75 % como mínimo del contenido declarado en pentóxido de fósforo, o 10 % P<sub>2</sub>O<sub>5</sub><br>Fósforo expresado como pentóxido de fósforo soluble en ácido cítrico al 2 %<br>Granulometría:<br>– paso de, por lo menos, el 75 % por el tamiz de 0,160 mm de abertura de malla,<br>– paso de, por lo menos, el 96 % por el tamiz de 0,630 mm de abertura de malla |  | Pentóxido de fósforo total (soluble en ácidos minerales), 75 % del cual (indicar en porcentaje de peso) soluble en ácido cítrico al 2 % |
+| 2(a) | Superfosfato simple | Producto obtenido por reacción del fosfato mineral triturado con ácido sulfúrico y que contiene como componentes esenciales fosfato monocálcico y sulfato cálcico | 16 % P<sub>2</sub>O<sub>5</sub><br>Fósforo expresado como P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro, siendo el 93 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en agua<br>Muestra de análisis: 1 g |  | Pentóxido de fósforo soluble en citrato amónico neutro<br>Pentóxido de fósforo soluble en agua |
+| 2(b) | Superfosfato concentrado | Producto obtenido por reacción del fosfato mineral triturado con ácido sulfúrico y ácido fosfórico y que contiene como componente esencial fosfato monocálcico y sulfato cálcico | 25 % P<sub>2</sub>O<sub>5</sub><br>Fósforo expresado como P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro, siendo el 93 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en agua<br>Muestra de análisis: 1 g |  | Pentóxido de fósforo soluble en citrato amónico neutro<br>Pentóxido de fósforo soluble en agua |
+| 2(c) | Superfosfato triple | Producto obtenido por reacción del fosfato mineral triturado con ácido fosfórico y que contiene como componente esencial fosfato monocálcico | 38 % P<sub>2</sub>O<sub>5</sub><br>Fósforo expresado como P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro siendo el 85 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en agua<br>Muestra de análisis: 3 g |  | Pentóxido de fósforo soluble en citrato amónico neutro<br>Pentóxido de fósforo soluble en agua |
+| 3 | Fosfato roca parcialmente solubilizado | Producto obtenido por ataque parcial del fosfato roca triturado por ácido sulfúrico o ácido fosfórico y que contiene como componentes esenciales fosfato monocálcico, fosfato tricálcico y sulfato cálcico | 20 % P<sub>2</sub>O<sub>5</sub><br>Fósforo expresado como P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 40 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en agua Granulometría:<br>– paso de, por lo menos, el 90 % por el tamiz de 0,160 mm de abertura de malla,<br>– paso de, por lo menos, el 98 % por el tamiz de 0,630 mm de abertura de malla |  | Pentóxido de fósforo total (soluble en ácidos minerales)<br>Pentóxido de fósforo soluble en agua |
+| 3 bis | Fosfato roca parcialmente solubilizado con magnesio | Producto obtenido por solubilización parcial de fosfato roca triturado con ácido sulfúrico o ácido fosfórico añadiendo sulfato de magnesio u óxido de magnesio, y que contiene como ingredientes esenciales fosfato monocálcico, fosfato tricálcico, sulfato cálcico y sulfato magnésico | 16 % de P<sub>2</sub>O<sub>5</sub><br>6 % de MgO<br>Fósforo expresado como P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo soluble en agua, como mínimo, el 40 % del contenido declarado de P<sub>2</sub>O<sub>5</sub>. Granulometría:<br>– paso de, por lo menos, el 90 % por el tamiz de 0,160 mm de abertura de malla,<br>– paso de, por lo menos, el 98 % por el tamiz de 0,630 mm de abertura de malla |  | Pentóxido de fósforo total (soluble en ácidos minerales)<br>Pentóxido de fósforo soluble en agua Óxido de magnesio total<br>Óxido de magnesio soluble en agua |
+| 4 | Fosfato bicálcico | Producto obtenido por la precipitación del ácido fosfórico solubilizado de fosfatos minerales o de huesos y que contiene como componente esencial fosfato bicálcico dihidratado | 38 % P<sub>2</sub>O<sub>5</sub><br>Fósforo expresado como P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Petermann)<br>Granulometría:<br>– paso de, por lo menos, el 90 % por el tamiz de 0,160 mm de abertura de malla,<br>– paso de, por lo menos, el 98 % por el tamiz de 0,630 mm de abertura de malla |  | Pentóxido de fósforo soluble en citrato amónico alcalino |
+| 5 | Fosfato calcinado | Producto obtenido por reacción térmica del fosfato roca molido bajo la acción de compuestos alcalinos y de ácido silícico y que contiene como componentes esenciales fosfato alcalino cálcico y silicato cálcico | 25 % P<sub>2</sub>O<sub>5</sub><br>Fósforo expresado como P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Petermann)<br>Granulometría:<br>– paso de, por lo menos, el 75 % por el tamiz de 0,160 mm de abertura de malla,<br>– paso de, por lo menos, el 96 % por el tamiz de 0,630 mm de abertura de malla |  | Pentóxido de fósforo soluble en citrato amónico alcalino |
+| 6 | Fosfato aluminocálcico | Producto obtenido en forma amorfa por tratamiento térmico y triturado, que contiene como componentes esenciales fosfatos cálcico y de aluminio | 30 % P<sub>2</sub>O<sub>5</sub><br>Fósforo expresado como P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Joulie)<br>Granulometría:<br>– paso de, por lo menos, el 90 % por el tamiz de 0,160 mm de malla,<br>– paso de, por lo menos, el 98 % por el tamiz de 0,630 mm de abertura de malla |  | Pentóxido de fósforo total (soluble en ácidos minerales)<br>Pentóxido de fósforo soluble en citrato amónico alcalino |
+| 7 | Fosfato roca blando | Producto obtenido por trituración de fosfatos minerales blandos y que contiene como componentes esenciales fosfato tricálcico y carbonato cálcico | 25 % P<sub>2</sub>O<sub>5</sub><br>Fósforo expresado como P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales siendo el 55 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido fórmico al 2 %<br>Granulometría:<br>– paso de, por lo menos, el 90 % por el tamiz de 0,063 mm de malla,<br>– paso de, por lo menos, el 99 % por el tamiz de 0,125 mm de abertura de malla |  | Pentóxido de fósforo total (soluble en ácidos minerales)<br>Pentóxido de fósforo soluble en ácido fórmico al 2 %<br>Porcentaje en masa del producto que pueda pasar a través del tamiz de 0,063 m de abertura de malla |
+
+| N.<sup>o</sup> | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en elementos nutrientes (porcentaje en masa)<br>Informaciones sobre la evaluación de los elementos nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo | Contenido en elementos nutrientes que debe declararse<br>Formas y solubilidades de los elementos nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Sal potásica en bruto | Producto obtenido a partir de sales potásicas en bruto | 9 % K<sub>2</sub>O<br>Potasio expresado como K<sub>2</sub>O soluble en agua<br>2 % MgO<br>Magnesio en forma de sales solubles en agua, expresado como óxido de magnesio | Podrán añadirse las denominaciones usuales en el comercio | Óxido de potasio soluble en agua Óxido de magnesio soluble en agua Total de óxido de sodio<br>Debe declararse el contenido de cloruro |
+| 2 | Sal potásica en bruto enriquecida | Producto obtenido a partir de sales potásicas en bruto enriquecidas por mezcla con cloruro potásico | 18 % K<sub>2</sub>O<br>Potasio expresado como K<sub>2</sub>O soluble en agua | Podrán añadirse las denominaciones usuales en el comercio | Óxido de potasio soluble en agua Indicación facultativa del contenido en óxido de magnesio soluble en agua si es superior al 5 % de MgO |
+| 3 | Cloruro potásico | Producto obtenido a partir de sales potásicas en bruto y que contiene como componente esencial cloruro potásico | 37 % K<sub>2</sub>O<br>Potasio expresado como K<sub>2</sub>O soluble en agua | Se podrán añadir las denominaciones usuales en el comercio | Óxido de potasio soluble en agua |
+| 4 | Cloruro potásico con sales de magnesio | Producto obtenido a partir de sales potásicas en bruto con adición de sales de magnesio y que contiene como componentes esenciales cloruro potásico y sales de magnesio | 37 % K<sub>2</sub>O<br>Potasio expresado como K<sub>2</sub>O soluble en agua<br>5 % MgO<br>Magnesio en forma de sales solubles en agua, expresado como óxido de magnesio |  | Óxido de potasio soluble en agua Óxido de magnesio soluble en agua |
+| 5 | Sulfato potásico | Producto obtenido químicamente a partir de las sales de potasio y que contiene como componente esencial sulfato potásico | 47 % K<sub>2</sub>O<br>Potasio expresado como K<sub>2</sub>O soluble en agua Contenido máximo en cloruro: 3 % Cl<sup>-</sup> |  | Óxido de potasio soluble en agua Indicación facultativa del contenido en cloruro |
+| 6 | Sulfato potásico con sales de magnesio | Producto obtenido químicamente a partir de sales de potasio con una posible adición de sales de magnesio y que contiene como componentes esenciales sulfato potásico y sulfato de magnesio | 22 % K<sub>2</sub>O<br>Potasio expresado como K<sub>2</sub>O soluble en agua<br>8 % MgO<br>Magnesio en forma de sales solubles en agua, expresado como óxido de magnesio. Contenido máximo en cloruro: 3 % Cl<sup>-</sup> | Se podrán añadir las denominaciones usuales en el comercio | Óxido de potasio soluble en agua Óxido de magnesio soluble en agua Indicación facultativa del contenido en cloruro |
+| 7 | Kieserita con sulfato potásico | Producto obtenido a base de kieserita enriquecida con sulfato potásico | 8 % MgO<br>Magnesio expresado como MgO soluble en agua<br>6 % K<sub>2</sub>O<br>Potasio expresado como K<sub>2</sub>O soluble en agua<br>Total MgO + K<sub>2</sub>O: 20 % Contenido máximo en cloruro: 3 % Cl<sup>-</sup> | Podrán añadirse las denominaciones usuales en el comercio | Óxido de magnesio soluble en agua Óxido de potasio soluble en agua Indicación facultativa del contenido en cloruro |
+
+**1.4.2 Abonos inorgánicos compuestos con elementos nutrientes primarios**
+
+<table class="tabla_ancha">
+<caption>
+<p class="centro_cursiva">1.4.2.1 Abonos NPK</p>
+</caption>
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="64%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">1.4.2.1.1</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo:</td>
+<td class="cuerpo_tabla_izq">Abonos NPK.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto obtenido químicamente o por mezcla sin incorporación de materia orgánica de origen animal o vegetal.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total: 20 % (N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O);</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes: 3 % N, 5 % P<sub>2</sub>O<sub>5</sub>, 5 % K<sub>2</sub>O.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="7%">
+<col width="21%">
+<col width="6%">
+<col width="12%">
+<col width="37%">
+<col width="17%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">
+<p class="cabeza_tabla">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
+<p class="cabeza_tabla">Granulometría</p>
+</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
+<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
+<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+<p class="cuerpo_tabla_izq">(5) Nitrógeno cianamídico</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+<p class="cuerpo_tabla_izq">(4) P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales</p>
+<p class="cuerpo_tabla_izq">(5) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Petermann)</p>
+<p class="cuerpo_tabla_izq">(6 a) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
+<p class="cuerpo_tabla_izq">(6 b) P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
+<p class="cuerpo_tabla_izq">(7) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Joulie)</p>
+<p class="cuerpo_tabla_izq">(8) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 55 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido fórmico al 2 %</p>
+</td>
+<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2) a (5) alcanza al menos el 1 % en masa, el contenido en esa forma de nitrógeno deberá declararse y garantizarse</p>
+<p class="cuerpo_tabla_izq">(3) Si supera el 28 %, véase anexo I (CFP 1(C)(I)(a)(i-ii)(A)) y Anexo IV parte I-2 del Reglamento (UE) 2019/1009</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">1. Un abono NPK sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado y fosfato roca deberá garantizarse de conformidad con la solubilidad (1), (2) o (3):</p>
+<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará únicamente la solubilidad (2);</p>
+<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance el 2 %, se declará la solubilidad (3) con la obligación de indicar el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p class="cuerpo_tabla_izq">El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %. Para este tipo 1, la muestra para la determinación de las solubilidades (2) y (3) será de l g. 2 (a) Un abono NPK que contenga fosfato roca o fosfato roca parcialmente solubilizado no deberá contener escorias Thomas, fosfato calcinado ni fosfato aluminocálcico. Se garantizará de acuerdo con la solubilidad (1), (3) y (4).</p>
+<p class="cuerpo_tabla_izq">Este tipo de abono deberá responder a las siguientes exigencias:</p>
+<p class="cuerpo_tabla_izq">– contener al menos un 2 % de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales [solubilidad (4)].</p>
+<p class="cuerpo_tabla_izq">– contener al menos un 5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua y en citrato amónico neutro [solubilidad (3)].</p>
+<p class="cuerpo_tabla_izq">– contener al menos un 2,5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">1. Óxido de potasio soluble en agua</p>
+<p class="cuerpo_tabla_izq">2. La indicación «Pobre en cloruro» equivaldrá a un contenido máximo de 2 % Cl</p>
+<p class="cuerpo_tabla_izq">3. Se permitirá declarar el contenido en cloruro</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="3">
+<p class="cuerpo_tabla_izq">Granulometría de los componentes fosfatados básicos</p>
+<p class="cuerpo_tabla_izq">Escorias Thomas: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p class="cuerpo_tabla_izq">Fosfato aluminocálcico: paso de, por lo menos, el 90 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p class="cuerpo_tabla_izq">Fosfato calcinado: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p class="cuerpo_tabla_izq">Fosfato roca blando: paso de, por lo menos, el 90 % a través de un tamiz de 0,063 mm de abertura de malla</p>
+<p class="cuerpo_tabla_izq">Fosfato roca parcialmente solubilizado: paso de, por lo menos, el 90 % a través</p>
+<p class="cuerpo_tabla_izq">de un tamiz de 0,160 de abertura de malla</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Este tipo de abono deberá comercializarse bajo la denominación «Abono NPK con fosfato roca» o «Abono NPK con fosfato roca parcialmente solubilizado». Para este tipo 2(a), la muestra de análisis para la determinación de la solubilidad (3) será de 3 g.</p>
+<p class="cuerpo_tabla_izq">2 (b) Un abono NPK que contenga fosfato aluminocálcico no deberá tener escorias Thomas, fosfato calcinado, fosfato roca parcialmente solubilizado ni fosfato roca.</p>
+<p class="cuerpo_tabla_izq">Se garantizará de acuerdo con las solubilidades (1) y (7), aplicándose esta última una vez deducida la solubilidad en agua.</p>
+<p class="cuerpo_tabla_izq">Este tipo de abono deberá responder a las siguientes exigencias:</p>
+<p class="cuerpo_tabla_izq">– contener al menos un 2 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p class="cuerpo_tabla_izq">– contener al menos un 5 % de P<sub>2</sub>O<sub>5</sub> según la solubilidad (7).</p>
+<p class="cuerpo_tabla_izq">Este tipo de abono deberá comercializarse bajo la denominación «Abono NPK con fosfato aluminocálcico».</p>
+<p class="cuerpo_tabla_izq">3. Cuando se trate de abono NPK que sólo contenga uno de los tipos de abonos fosfatados siguientes: escorias Thomas, fosfato aluminocálcico o fosfato roca blando, el componente fosfatado deberá indicarse a continuación de la denominación del tipo de abono.</p>
+<p class="cuerpo_tabla_izq">La garantía de la solubilidad del P<sub>2</sub>O<sub>5</sub> deberá darse de la siguiente forma:</p>
+<p class="cuerpo_tabla_izq">– para los abonos a base de escorias Thomas: solubilidad (6a)</p>
+<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato calcinado: solubilidad (5)</p>
+<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato aluminocálcico: solubilidad (7)</p>
+<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato roca blando: solubilidad (8).</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<caption>
+<p class="centro_cursiva">1.4.2.1. Abonos NPK (cont.)</p>
+</caption>
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="64%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">1.4.2.1.2</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo:</td>
+<td class="cuerpo_tabla_izq">Abono NPK que contiene crotonilidendiurea, isobutilidendiurea o urea formaldehído, según los casos</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto obtenido químicamente, que contiene crotonilidendiurea, isobutilidendiurea o urea folmaldehído, sin adición de materia orgánica de origen animal o vegetal</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total: 20 % (N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O);</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
+<p class="cuerpo_tabla_izq">– 5 % N. Al menos ¼ del contenido de nitrógeno total declarado debe proceder de la forma de nitrógeno (5),</p>
+<p class="cuerpo_tabla_izq">(6) o (7). Al menos <sup>3</sup>/<sub>5</sub> del contenido de nitrógeno (7) declarado deben ser solubles en agua caliente</p>
+<p class="cuerpo_tabla_izq">– 5 % P<sub>2</sub>O<sub>5</sub>,</p>
+<p class="cuerpo_tabla_izq">– 5 % K<sub>2</sub>O.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">
+<p class="cabeza_tabla">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
+<p class="cabeza_tabla">Granulometría</p>
+</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
+<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
+<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+<p class="cuerpo_tabla_izq">(5) Nitrógeno de la crotonilidendiurea</p>
+<p class="cuerpo_tabla_izq">(6) Nitrógeno de la isobutilidendiurea</p>
+<p class="cuerpo_tabla_izq">(7) Nitrógeno de la urea formaldehído</p>
+<p class="cuerpo_tabla_izq">(8) Nitrógeno de la urea formaldehído soluble únicamente en agua caliente</p>
+<p class="cuerpo_tabla_izq">(9) Nitrógeno de la urea formaldehído soluble en agua fría</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+</td>
+<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2) a (4) alcanza, al menos, el 1 % en masa, deberá garantizarse</p>
+<p class="cuerpo_tabla_izq">(3) Una de las formas de nitrógeno (5) a (7) (según los casos). La forma de nitrógeno (7) deberá garantizarse en forma de nitrógeno (8) y (9)</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Este abono NPK sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado, ni fosfato roca blando deberá garantizarse de acuerdo con la solubilidad (1), (2) o (3):</p>
+<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará únicamente la solubilidad (2)</p>
+<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance el 2 %, se declarará la solubilidad (3), indicando obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)]</p>
+<p class="cuerpo_tabla_izq">El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %</p>
+<p class="cuerpo_tabla_izq">La muestra para la determinación de la solubilidad (2) y (3) será de 1 g</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» equivaldrá a un contenido máximo de 2 % Cl</p>
+<p class="cuerpo_tabla_izq">(3) Podrá declararse el contenido en cloruro</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<caption>
+<p class="centro_cursiva">1.4.2.2 Abonos NP</p>
+</caption>
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="64%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">
+<p class="cuerpo_tabla_centro">1.4.2.2.1</p>
+</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo:</td>
+<td class="cuerpo_tabla_izq">Abonos NP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto obtenido químicamente o por mezcla, sin incorporación de materia orgánica de origen animal o vegetal.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total: 18 % (N + P<sub>2</sub>O<sub>5</sub>);</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes: 3 % N, 5 % P<sub>2</sub>O<sub>5</sub>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="10%">
+<col width="27%">
+<col width="6%">
+<col width="17%">
+<col width="34%">
+<col width="6%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">
+<p class="cabeza_tabla">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
+<p class="cabeza_tabla">Granulometría</p>
+</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
+<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
+<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+<p class="cuerpo_tabla_izq">(5) Nitrógeno cianamídico</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+<p class="cuerpo_tabla_izq">(4) P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales</p>
+<p class="cuerpo_tabla_izq">(5) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Petermann)</p>
+<p class="cuerpo_tabla_izq">(6 a) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % al menos del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
+<p class="cuerpo_tabla_izq">(6 b) P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
+<p class="cuerpo_tabla_izq">(7) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Joulie)</p>
+<p class="cuerpo_tabla_izq">(8) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 55 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido fórmico al 2 %</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2) a (5) alcanza al menos el 1 % en peso, el contenido en esa forma de nitrógeno deberá declararse y garantizarse</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">1. Deberá garantizarse un abono NP sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado ni fosfato roca, de conformidad con la solubilidad (1), (2) o (3):</p>
+<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará únicamente la solubilidad (2),</p>
+<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance el 2 %, se declarará la solubilidad</p>
+<p class="cuerpo_tabla_izq">(3) con la obligación de indicar el P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p class="cuerpo_tabla_izq">El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %.</p>
+<p class="cuerpo_tabla_izq">Para este tipo 1, la muestra de análisis para la determinación de la solubilidad será de 1 g.</p>
+<p class="cuerpo_tabla_izq">2 (a) Un abono NP que contenga fosfato roca o fosfato roca parcialmente solubilizado no deberá tener escorias Thomas, fosfato calcinado ni fosfato aluminocálcico. Se garantizará de acuerdo con las solubilidades (1), (3) y (4)</p>
+<p class="cuerpo_tabla_izq">Este tipo de abono deberá responder a las siguientes exigencias:</p>
+<p class="cuerpo_tabla_izq">– contener al menos un 2 % de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales [solubilidad (4)]</p>
+<p class="cuerpo_tabla_izq">– contener al menos un 5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua y en el citrato amónico neutro [solubilidad (3)]</p>
+<p class="cuerpo_tabla_izq">– contener al menos 2,5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p class="cuerpo_tabla_izq">Este tipo de abono deberá comercializarse bajo la denominación «Abono NP con fosfato roca» o</p>
+<p class="cuerpo_tabla_izq">«Abono NP con fosfato roca parcialmente solubilizado».</p>
+<p class="cuerpo_tabla_izq">La muestra para la determinación de la solubilidad (3) en este tipo de abono será de 3 g.</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="3">
+<p class="cuerpo_tabla_izq">Granulometría de los componentes fosfatados básicos:</p>
+<p class="cuerpo_tabla_izq">Escorias Thomas: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p class="cuerpo_tabla_izq">Fosfato aluminocálcico: paso de, por lo menos, el 90 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p class="cuerpo_tabla_izq">Fosfato calcinado: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p class="cuerpo_tabla_izq">Fosfato roca blando: paso de, por lo menos, el 90 % a través de un tamiz de 0,063 mm de abertura de malla</p>
+<p class="cuerpo_tabla_izq">Fosfato roca parcialmente solubilizado paso de, por lo menos, el 90 % a través de un tamiz de 0,160 de abertura de malla</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">2 (b) Un abono NP que contenga fosfato aluminocálcico no deberá tener escorias Thomas, fosfato calcinado, fosfato roca parcialmente solubilizado ni fosfato roca.</p>
+<p class="cuerpo_tabla_izq">Se garantizará de acuerdo con la solubilidad (1) y (7), aplicándose esta última, una vez deducido la solubilidad en agua.</p>
+<p class="cuerpo_tabla_izq">Este tipo de abono deberá responder a las siguientes exigencias:</p>
+<p class="cuerpo_tabla_izq">– contener al menos 2 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)]</p>
+<p class="cuerpo_tabla_izq">– contener al menos 5 % de P<sub>2</sub>O<sub>5</sub> según la solubilidad (7).</p>
+<p class="cuerpo_tabla_izq">Este tipo de abono deberá comercializarse bajo la denominación «Abono NP con fosfato aluminocálcico».</p>
+<p class="cuerpo_tabla_izq">3. Cuando se trate de abonos NP que sólo contengan uno de los tipos de abonos fosfatados siguientes: escorias Thomas, fosfato calcinado, fosfato aluminocálcico, o fosfato roca blando, el componente fosfatado deberá indicarse a continuación del tipo de abono.</p>
+<p class="cuerpo_tabla_izq">La garantía de la solubilidad del P<sub>2</sub>O<sub>5</sub> deberá darse de la siguiente forma:</p>
+<p class="cuerpo_tabla_izq">– para los abonos a base de escorias Thomas: solubilidad (6a)</p>
+<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato calcinado: solubilidad (5)</p>
+<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato aluminocálcico: solubilidad (7)</p>
+<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato roca blando: solubilidad (8).</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<caption>
+<p class="centro_cursiva">1.4.2.2 Abonos NP (cont.)</p>
+</caption>
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="64%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">
+<p class="cuerpo_tabla_centro">1.4.2.2.2</p>
+</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo:</td>
+<td class="cuerpo_tabla_izq">Abono NPK que contiene crotonilidendiurea, isobutilidendiurea o urea formaldehído, según los casos</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto obtenido químicamente, que contiene crotonilidendiurea, isobutilidendiurea o urea folmaldehído, sin adición de materia orgánica de origen animal o vegetal</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total: 18 % (N + P<sub>2</sub>O<sub>5</sub>);</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
+<p class="cuerpo_tabla_izq">– 5 % N. Al menos ¼ del contenido de nitrógeno total declarado debe proceder de la forma de nitrógeno (5),</p>
+<p class="cuerpo_tabla_izq">(6) o (7). Al menos <sup>3</sup>/<sub>5</sub> del contenido de nitrógeno (7) declarado deben ser solubles en agua caliente</p>
+<p class="cuerpo_tabla_izq">– 5 % P<sub>2</sub>O<sub>5</sub>,</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">
+<p class="cabeza_tabla">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
+<p class="cabeza_tabla">Granulometría</p>
+</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
+<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
+<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+<p class="cuerpo_tabla_izq">(5) Nitrógeno de la crotonilidendiurea</p>
+<p class="cuerpo_tabla_izq">(6) Nitrógeno de la isobutilidendiurea</p>
+<p class="cuerpo_tabla_izq">(7) Nitrógeno de la urea formaldehído</p>
+<p class="cuerpo_tabla_izq">(8) Nitrógeno de la urea formaldehído soluble únicamente en agua caliente</p>
+<p class="cuerpo_tabla_izq">(9) Nitrógeno de la urea formaldehído soluble en agua fría</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2) a (4) alcanza, al menos, el 1 % en masa, deberá declararse</p>
+<p class="cuerpo_tabla_izq">(3) Una de las formas de nitrógeno (5) a (7) (según los casos). La forma de nitrógeno (7) deberá declararse en forma de nitrógeno (8) y (9)</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Este abono NP sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado, ni fosfato roca blando deberá declararse de acuerdo con la solubilidad (1), (2) o (3):</p>
+<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará únicamente la solubilidad (2)</p>
+<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance el 2 %, se declarará la solubilidad (3), indicando obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p class="cuerpo_tabla_izq">El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %</p>
+<p class="cuerpo_tabla_izq">La muestra para la determinación de las solubilidades (2) y (3) será de 1 g.</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<caption>
+<p class="centro_cursiva">1.4.2.3 Abonos NK</p>
+</caption>
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="64%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">1.4.2.3.1.</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo:</td>
+<td class="cuerpo_tabla_izq">Abonos NK.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto obtenido químicamente o por mezcla, sin incorporación de materia orgánica de origen animal o vegetal</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total: 18 % (N + K<sub>2</sub>O);</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes: 3 % N, 5 % K<sub>2</sub>O.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">
+<p class="cabeza_tabla">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
+<p class="cabeza_tabla">Granulometría</p>
+</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
+<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
+<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+<p class="cuerpo_tabla_izq">(5) Nitrógeno cianamídico</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Si una de las formas de nitrógeno de (2) a (5) alcanza al menos el 1 % en masa, el contenido en esa forma de nitrógeno deberá declararse</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» equivaldrá a un contenido máximo de 2 % Cl</p>
+<p class="cuerpo_tabla_izq">(3) El contenido en cloruro podrá declararse</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<caption>
+<p class="centro_cursiva">1.4.2.3 Abonos NK (cont.)</p>
+</caption>
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="64%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">1.4.2.3.2</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo:</td>
+<td class="cuerpo_tabla_izq">Abono NK que contiene crotonilidendiurea, isobutilidendiurea o urea formaldehído según los casos</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto obtenido químicamente, que contiene crotonilidendiurea, isobutilidendiurea o urea folmaldehído, sin adición de materia orgánica de origen animal o vegetal</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total: 18 % (N + K<sub>2</sub>O);</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
+<p class="cuerpo_tabla_izq">– 5 % N</p>
+<p class="cuerpo_tabla_izq">Al menos ¼ del contenido de nitrógeno total declarado debe proceder de la forma de nitrógeno (5), (6) o (7). Al menos <sup>3</sup>/<sub>5</sub> del contenido de nitrógeno (7) declarado deben ser solubles en agua caliente</p>
+<p class="cuerpo_tabla_izq">– 5 % K<sub>2</sub>O.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">
+<p class="cabeza_tabla">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
+<p class="cabeza_tabla">Granulometría</p>
+</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
+<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
+<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+<p class="cuerpo_tabla_izq">(5) Nitrógeno de la crotonilidendiurea</p>
+<p class="cuerpo_tabla_izq">(6) Nitrógeno de la isobutilidendiurea</p>
+<p class="cuerpo_tabla_izq">(7) Nitrógeno de la urea formaldehído</p>
+<p class="cuerpo_tabla_izq">(8) Nitrógeno de la urea formaldehído soluble únicamente en agua caliente</p>
+<p class="cuerpo_tabla_izq">(9) Nitrógeno de la urea formaldehído soluble en agua fría</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2) a</p>
+<p class="cuerpo_tabla_izq">(4) alcanza, al menos, el 1 % en masa, deberá declararse</p>
+<p class="cuerpo_tabla_izq">(3) Una de las formas de nitrógeno (5) a (7) (según los casos). La forma de nitrógeno</p>
+<p class="cuerpo_tabla_izq">(7) deberá declararse en forma de nitrógeno (8) y (9)</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) La indicación</p>
+<p class="cuerpo_tabla_izq">«pobre en cloruro» equivaldrá a un contenido máximo de 2 %</p>
+<p class="cuerpo_tabla_izq">Cl</p>
+<p class="cuerpo_tabla_izq">(3) Podrá declararse el contenido en cloruro</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+| Denominación del tipo: | Abonos PK. |
+|---|---|
+| Información sobre la forma de obtención: | Producto obtenido químicamente o por mezcla, sin incorporación de materia orgánica de origen animal o vegetal. |
+| Contenido mínimo en elementos fertilizantes (porcentaje en masa): | – Total: 18 % (P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O);<br>– Para cada uno de los elementos nutrientes: 5 % P<sub>2</sub>O<sub>5</sub>, 5 % K<sub>2</sub>O. |
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="3%">
+<col width="26%">
+<col width="10%">
+<col width="5%">
+<col width="37%">
+<col width="19%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">
+<p class="cabeza_tabla">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
+<p class="cabeza_tabla">Granulometría</p>
+</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+<p class="cuerpo_tabla_izq">(4) P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales</p>
+<p class="cuerpo_tabla_izq">(5) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Petermann)</p>
+<p class="cuerpo_tabla_izq">(6 a) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
+<p class="cuerpo_tabla_izq">(6 b) P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
+<p class="cuerpo_tabla_izq">(7) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Joulie)</p>
+<p class="cuerpo_tabla_izq">(8) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 55 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido fórmico al 2 %</p>
+</td>
+<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">1. Un abono PK sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado y fosfato roca, deberá declararse de conformidad con la solubilidad (1), (2) o (3):</p>
+<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará solamente la solubilidad (2);</p>
+<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble</p>
+<p class="cuerpo_tabla_izq">en agua alcance el 2 %, se declarará la solubilidad (3) con la obligación de indicar el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p class="cuerpo_tabla_izq">El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %.</p>
+<p class="cuerpo_tabla_izq">Para este tipo 1, la muestra de análisis para la determinación de la solubilidad (2) y (3) será de 1 g.</p>
+<p class="cuerpo_tabla_izq">2 (a) Un abono PK que contenga fosfato roca parcialmente solubilizado no deberá tener escorias Thomas, fosfato calcinado ni fosfato aluminocálcico. Se declarará de acuerdo con las solubilidades (1), (3) y (4)</p>
+<p class="cuerpo_tabla_izq">Este tipo de abono deberá responder a las siguientes exigencias:</p>
+<p class="cuerpo_tabla_izq">– contener al menos un 2 % de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales [solubilidad (4)]</p>
+<p class="cuerpo_tabla_izq">– contener al menos un 5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua y en el citrato amónico neutro [solubilidad (3)]</p>
+<p class="cuerpo_tabla_izq">– contener al menos un 2,5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p class="cuerpo_tabla_izq">Este tipo de abono deberá comercializarse bajo la denominación «Abono PK con fosfato roca» o «Abono PK con fosfato roca parcialmente solubilizado». La muestra para la determinación de la solubilidad será de 3 g.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» equivaldrá a un contenido máximo de 2 % Cl</p>
+<p class="cuerpo_tabla_izq">(3) El contenido en cloruro podrá declararse</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="3">
+<p class="cuerpo_tabla_izq">Granulometría de los componentes fosfatados básicos</p>
+<p class="cuerpo_tabla_izq">Escorias Thomas: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p class="cuerpo_tabla_izq">Fosfato aluminocálcico: paso de, por lo menos, el 90 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p class="cuerpo_tabla_izq">Fosfato calcinado: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p class="cuerpo_tabla_izq">Fosfato roca blando: paso de, por lo menos, el 90 % a través de un tamiz de 0,063 mm de abertura de malla</p>
+<p class="cuerpo_tabla_izq">Fosfato roca parcialmente solubilizado: paso de, por lo menos, el 90 % a través de un</p>
+<p class="cuerpo_tabla_izq">tamiz de 0,160 de abertura de malla</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">2 (b) Un abono PK que contenga fosfato aluminocálcico no deberá tener escorias Thomas, fosfato calcinado, fosfato roca parcialmente solubilizado ni fosfato roca.</p>
+<p class="cuerpo_tabla_izq">Se declarará de acuerdo con las solubilidades (1) y (7), aplicándose esta última, una vez deducida la solubilidad en agua.</p>
+<p class="cuerpo_tabla_izq">Este tipo de abono deberá responder a las siguientes exigencias:</p>
+<p class="cuerpo_tabla_izq">– contener al menos 2 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p class="cuerpo_tabla_izq">– contener al menos 5 % de P<sub>2</sub>O<sub>5</sub> según la solubilidad (7).</p>
+<p class="cuerpo_tabla_izq">Este tipo de abono deberá comercializarse bajo la denominación «Abono PK con fosfato aluminocálcico».</p>
+<p class="cuerpo_tabla_izq">3. Cuando se trate de abonos PK que sólo contengan uno de los tipos de abonos fosfatados siguientes: escorias Thomas, fosfato calcinado, fosfato aluminocálcico, o fosfato roca blando, el componente fosfatado deberá indicarse a continuación del tipo de abono.</p>
+<p class="cuerpo_tabla_izq">La garantía de la solubilidad del P<sub>2</sub>O<sub>5</sub> deberá darse de la siguiente forma:</p>
+<p class="cuerpo_tabla_izq">– para los abonos a base de escorias Thomas: solubilidad (6a)</p>
+<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato disgregado: solubilidad (5)</p>
+<p class="cuerpo_tabla_izq">– para los abonos a base fosfato aluminocálcico: solubilidad (7)</p>
+<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato roca blando: solubilidad (8).</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+**1.4.3 Abonos líquidos inorgánicos**
+
+| N.<sup>o</sup> | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en elementos nutrientes (porcentaje en masa)<br>Informaciones sobre la evaluación de los elementos nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo | Contenido en elementos nutrientes que debe declararse<br>Formas y solubilidades de los elementos nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Solución de nitrato amónico-urea | Producto obtenido químicamente y por disolución en agua de nitrato amónico y urea | 26 % N<br>Nitrógeno expresado como nitrógeno total, del cual aproximadamente la mitad representa nitrógeno ureico<br>Contenido máximo en biuret: 0,5 % |  | Nitrógeno total<br>Nitrógeno nítrico, nitrógeno amoniacal, nitrógeno ureico<br>Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret» |
+| 2 | Solución de nitrato cálcico | Producto obtenido por disolución en agua de nitrato cálcico | 8 % N<br>Nitrógeno expresado como nitrógeno nítrico, del cual un 1 % como máximo está constituido por nitrógeno amoniacal<br>Calcio expresado como CaO soluble en agua | La denominación del tipo podrá ir seguida, según los casos, por una de las indicaciones siguientes:<br>– para aplicación foliar<br>– para fabricación de soluciones nutritivas<br>– para fertirrigación | Nitrógeno total<br>Óxido cálcico soluble en agua para los usos mencionados en la columna 5<br>Facultativamente:<br>– nitrógeno nítrico<br>– nitrógeno amoniacal |
+| 3 | Solución de nitrato magnésico | Producto obtenido químicamente y por disolución en agua de nitrato magnésico | 6 % N<br>Nitrógeno expresado como nitrógeno nítrico<br>9 % MgO<br>Magnesio expresado como óxido de magnesio soluble en agua<br>pH mínimo: 4 |  | Nitrógeno nítrico<br>Óxido de magnesio soluble en agua |
+| 4 | Suspensión de nitrato cálcico | Producto obtenido por suspensión en agua de nitrato cálcico | 8 % N<br>Nitrógeno expresado como nitrógeno total o como nitrógeno nítrico y amoniacal<br>Contenido máximo en nitrógeno amoniacal: 1,0 %<br>14 % CaO<br>Calcio expresado como CaO soluble en agua | La denominación del tipo podrá ir seguida por una de las siguientes indicaciones:<br>– para aplicación foliar<br>– para fabricación de soluciones y suspensiones nutritivas<br>– para fertirrigación | Nitrógeno total Nitrógeno nítrico<br>Óxido cálcico soluble en agua para los usos mencionados en la columna 5 |
+| 5 | Solución de abono nitrogenado con urea formaldehído | Producto obtenido químicamente o por disolución en agua de urea formaldehído y un abono nitrogenado de la lista A-1 del presente Reglamento, excluidos los productos 3(a), 3(b) y 5 | 18 % N expresado como nitrógeno total<br>Al menos <sup>1</sup>/<sub>3</sub> del contenido de nitrógeno total declarado debe proceder de la urea formaldehído<br>Contenido máximo en biuret: (N ureico + N ureico formaldehído) x 0,026 |  | Nitrógeno total<br>Para todas las formas cuyo contenido alcance el 1 %:<br>– nitrógeno nítrico<br>– nitrógeno amoniacal<br>– nitrógeno ureico<br>Nitrógeno de la urea formaldehído |
+| 6 | Suspensión de abono nitrogenado con urea formaldehído | Producto obtenido químicamente o por suspensión en agua de urea formaldehído y un abono nitrogenado de la lista A-1 del presente Reglamento, excluidos los productos 3(a), 3(b) y 5 | 18 % N expresado como nitrógeno total<br>Al menos <sup>1</sup>/<sub>3</sub> del contenido de nitrógeno total declarado debe proceder de la urea formaldehído, del cual al menos <sup>3</sup>/<sub>5</sub> tienen que ser solubles en agua caliente<br>Contenido máximo en biuret: (N ureico + N ureico formaldehído) x 0,026 |  | Nitrógeno total<br>Para todas las formas cuyo contenido alcance el 1 %:<br>– nitrógeno nítrico<br>– nitrógeno amoniacal<br>– nitrógeno ureico<br>Nitrógeno de la urea formaldehído<br>Nitrógeno de la urea formaldehído soluble en agua fría<br>Nitrógeno de la urea formaldehído soluble únicamente en agua caliente |
+
+<table class="tabla_ancha">
+<caption>
+<p class="centro_cursiva">1.4.3.2 Abonos líquidos compuestos</p>
+</caption>
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="64%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.1</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo</td>
+<td class="cuerpo_tabla_izq">Solución de abono NPK que contenga urea formaldehído</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto obtenido químicamente y por disolución en agua en forma estable a la presión atmosférica, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total 15 % (N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O)</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
+<p class="cuerpo_tabla_izq">– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
+<p class="cuerpo_tabla_izq">– 3 % P<sub>2</sub>O<sub>5</sub></p>
+<p class="cuerpo_tabla_izq">– 3 % K<sub>2</sub>O</p>
+<p class="cuerpo_tabla_izq">Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Nítrógeno nítrico</p>
+<p class="cuerpo_tabla_izq">(3) Nítrógeno amoniacal</p>
+<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+<p class="cuerpo_tabla_izq">(5) Nitrógeno de urea formaldehído</p>
+</td>
+<td class="cuerpo_tabla_izq">P<sub>2</sub>O<sub>5</sub> soluble en agua</td>
+<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
+<p class="cuerpo_tabla_izq">(4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p class="cuerpo_tabla_izq">(3) Nitrógeno de urea formaldehído</p>
+<p class="cuerpo_tabla_izq">(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+</td>
+<td class="cuerpo_tabla_izq">P<sub>2</sub>O<sub>5</sub> soluble en agua</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
+<p class="cuerpo_tabla_izq">(3) Podrá indicarse el contenido en cloruro</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="64%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.2</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo</td>
+<td class="cuerpo_tabla_izq">Suspensión de abono NPK que contenga urea formaldehído</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total 20 % (N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O)</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
+<p class="cuerpo_tabla_izq">– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
+<p class="cuerpo_tabla_izq">Al menos 3/5 del contenido de nitrógeno (5) declarado debe ser soluble en agua caliente</p>
+<p class="cuerpo_tabla_izq">– 4 % P<sub>2</sub>O<sub>5</sub></p>
+<p class="cuerpo_tabla_izq">– 4 % K<sub>2</sub>O</p>
+<p class="cuerpo_tabla_izq">Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Nítrógeno nítrico</p>
+<p class="cuerpo_tabla_izq">(3) Nítrógeno amoniacal</p>
+<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+<p class="cuerpo_tabla_izq">(5) Nitrógeno de urea formaldehído</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+</td>
+<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
+<p class="cuerpo_tabla_izq">(4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p class="cuerpo_tabla_izq">(3) Nitrógeno de urea formaldehído</p>
+<p class="cuerpo_tabla_izq">(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Los abonos no pueden contener escorias Thomas ni fosfato de aluminio cálcico, ni fosfatos desagregados, fosfatos parcialmente solubilizados ni fosfatos roca</p>
+<p class="cuerpo_tabla_izq">(1) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua sea inferior al 2 %, se declarará solo la solubilidad (2)</p>
+<p class="cuerpo_tabla_izq">(2) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance al menos el 2 %, se declarará la solubilidad (3) indicándose obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
+<p class="cuerpo_tabla_izq">(3) Podrá indicarse el contenido en cloruro</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="64%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.3</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo</td>
+<td class="cuerpo_tabla_izq">Solución de abono NP que contenga urea formaldehído</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto obtenido químicamente y por disolución en agua en forma estable a la presión atmosférica, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total 18 % (N + P<sub>2</sub>O<sub>5</sub>)</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
+<p class="cuerpo_tabla_izq">– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
+<p class="cuerpo_tabla_izq">– 5 % P<sub>2</sub>O<sub>5</sub></p>
+<p class="cuerpo_tabla_izq">Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Nítrógeno nítrico</p>
+<p class="cuerpo_tabla_izq">(3) Nítrógeno amoniacal</p>
+<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+<p class="cuerpo_tabla_izq">(5) Nitrógeno de urea formaldehído</p>
+</td>
+<td class="cuerpo_tabla_izq">P<sub>2</sub>O<sub>5</sub> soluble en agua</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
+<p class="cuerpo_tabla_izq">(4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p class="cuerpo_tabla_izq">(3) Nitrógeno de urea formaldehído</p>
+<p class="cuerpo_tabla_izq">(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+</td>
+<td class="cuerpo_tabla_izq">P<sub>2</sub>O<sub>5</sub> soluble en agua</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="64%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.4</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo</td>
+<td class="cuerpo_tabla_izq">Suspensión de abono NP</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total: 18 %, (N + P<sub>2</sub>O<sub>5</sub>)</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes: 3 % N, 5 % P<sub>2</sub>O<sub>5</sub></p>
+<p class="cuerpo_tabla_izq">– Contenido máximo en biuret: N ureico × 0,026</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
+<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
+<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
+<p class="cuerpo_tabla_izq">(4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p class="cuerpo_tabla_izq">(3) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Los abonos no pueden contener escorias Thomas ni fosfato de aluminio cálcico, ni fosfatos desagregados, fosfatos parcialmente solubilizados ni fosfatos roca</p>
+<p class="cuerpo_tabla_izq">(1) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua sea inferior al 2 %, se declarará solo la solubilidad (2)</p>
+<p class="cuerpo_tabla_izq">(2) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance al menos el 2 %, se declarará la solubilidad (3) indicándose obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="64%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.5</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo</td>
+<td class="cuerpo_tabla_izq">Suspensión de abono NP que contenga urea formaldehído</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total 18 % (N + P<sub>2</sub>O<sub>5</sub>)</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
+<p class="cuerpo_tabla_izq">– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
+<p class="cuerpo_tabla_izq">Al menos 3/5 del contenido de nitrógeno (5) declarado debe ser soluble en agua caliente</p>
+<p class="cuerpo_tabla_izq">– 5 % P<sub>2</sub>O<sub>5</sub></p>
+<p class="cuerpo_tabla_izq">Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Nítrógeno nítrico</p>
+<p class="cuerpo_tabla_izq">(3) Nítrógeno amoniacal</p>
+<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+<p class="cuerpo_tabla_izq">(5) Nitrógeno de urea formaldehído</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) P2O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p class="cuerpo_tabla_izq">(3) P3O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
+<p class="cuerpo_tabla_izq">(4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p class="cuerpo_tabla_izq">(3) Nitrógeno de urea formaldehído</p>
+<p class="cuerpo_tabla_izq">(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Los abonos no pueden contener escorias Thomas ni fosfato de aluminio cálcico, ni fosfatos desagregados, fosfatos parcialmente solubilizados ni fosfatos roca</p>
+<p class="cuerpo_tabla_izq">(1) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua sea inferior al 2 %, se declarará solo la solubilidad (2)</p>
+<p class="cuerpo_tabla_izq">(2) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance al menos el 2 %, se declarará la solubilidad (3) indicándose obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="64%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.6</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo</td>
+<td class="cuerpo_tabla_izq">Solución de abono NK que contenga urea formaldehído</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto obtenido químicamente y por disolución en agua en forma estable a la presión atmosférica, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total 15 % (N + K<sub>2</sub>O)</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
+<p class="cuerpo_tabla_izq">– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
+<p class="cuerpo_tabla_izq">– 5 % K<sub>2</sub>O</p>
+<p class="cuerpo_tabla_izq">Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Nítrogeno nítrico</p>
+<p class="cuerpo_tabla_izq">(3) Nítrogeno amoniacal</p>
+<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+<p class="cuerpo_tabla_izq">(5) Nitrógeno de urea formaldehído</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
+<p class="cuerpo_tabla_izq">(4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p class="cuerpo_tabla_izq">(3) Nitrógeno de urea formaldheído</p>
+<p class="cuerpo_tabla_izq">(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
+<p class="cuerpo_tabla_izq">(3) Podrá indicarse el contenido en cloruro</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="64%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.7</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo</td>
+<td class="cuerpo_tabla_izq">Suspensión de abono NK</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total: 18 % (N + K<sub>2</sub>O)</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes: 3 % N, 5 % K<sub>2</sub>O</p>
+<p class="cuerpo_tabla_izq">– Contenido máximo en biuret: N ureico × 0,026</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
+<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
+<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y (4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p class="cuerpo_tabla_izq">(3) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
+<p class="cuerpo_tabla_izq">(3) Podrá indicarse el contenido en cloruro</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup> </colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.8</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo</td>
+<td class="cuerpo_tabla_izq">Suspensión de abono NK que contenga urea formaldehído</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal que contiene urea formaldehído</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total 18 % (N + K<sub>2</sub>O)</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
+<p class="cuerpo_tabla_izq">– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
+<p class="cuerpo_tabla_izq">Al menos 3/5 del contenido de nitrógeno (5) declarado debe ser soluble en agua caliente</p>
+<p class="cuerpo_tabla_izq">– 5 % K<sub>2</sub>O</p>
+<p class="cuerpo_tabla_izq">Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+<col width="17%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Nítrogeno nítrico</p>
+<p class="cuerpo_tabla_izq">(3) Nítrogeno amoniacal</p>
+<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+<p class="cuerpo_tabla_izq">(5) Nitrógeno de urea formaldehído</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
+<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
+<p class="cuerpo_tabla_izq">(4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p class="cuerpo_tabla_izq">(3) Nitrógeno de urea formaldehído</p>
+<p class="cuerpo_tabla_izq">(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
+<p class="cuerpo_tabla_izq">(3) Podrá indicarse el contenido en cloruro</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="64%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.9</td>
+<td class="cuerpo_tabla_izq">Denominación del tipo</td>
+<td class="cuerpo_tabla_izq">Suspensión de abono PK</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
+<td class="cuerpo_tabla_izq">Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Total: 18 % (P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O)</p>
+<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes: 5 % P<sub>2</sub>O<sub>5</sub>, 5 % K<sub>2</sub>O</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="3%">
+<col width="20%">
+<col width="8%">
+<col width="8%">
+<col width="41%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th class="cabeza_tabla">N</th>
+<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
+<th class="cabeza_tabla">K<sub>2</sub>O</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub>-soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+</td>
+<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Los abonos no pueden contener escorias Thomas ni fosfato de aluminio cálcico, ni fosfatos desagregados, fosfatos parcialmente solubilizados ni fosfatos roca</p>
+<p class="cuerpo_tabla_izq">(1) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua sea inferior al 2 %, se declarará solo la solubilidad (2)</p>
+<p class="cuerpo_tabla_izq">(2) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance al menos el 2 %, se declarará la solubilidad (3) indicándose obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
+<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
+<p class="cuerpo_tabla_izq">(3) Podrá indicarse el contenido en cloruro</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**1.4.4 Abonos inorgánicos con elementos nutrientes secundarios**
+
+| No | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en elementos nutrientes (porcentaje en masa): Informaciones sobre la evaluación de los elementos nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo | Elementos cuyo contenido debe declararse<br>Solubilidad de los elementos nutrientes Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Sulfato cálcico | Producto de origen natural o industrial que contiene sulfato cálcico con diferentes grados de hidratación | 25 % CaO<br>35 % SO<sub>3</sub><br>Calcio y azufre expresados como CaO + SO<sub>3</sub> total<br>Granulometría:<br>– Paso de al menos, el 80 % a través del tamiz de 2 mm de abertura de malla,<br>– Paso de al menos, el 99 % a través del tamiz de 10 mm de abertura de malla | Podrán añadirse las denominaciones usuales en el comercio | Trióxido de azufre total Facultativamente: óxido cálcico total |
+| 2 | Solución de cloruro cálcico | Solución de cloruro cálcico de origen industrial | 12 % CaO<br>Calcio expresado como CaO soluble en agua |  | Óxido cálcico<br>Facultativamente: para aplicación foliar |
+| 2.1 | Formiato de calcio | Producto obtenido químicamente con el formiato de calcio como ingrediente esencial | 33,6 % de CaO<br>Calcio expresado como CaO soluble en agua<br>56 % de formiato |  | Óxido de calcio Formiato |
+| 2.2 | Formiato de calcio líquido | Producto obtenido por disolución de formiato de calcio en agua | 21 % de CaO<br>Calcio expresado como CaO soluble en agua<br>35 % de formiato |  | Óxido de calcio Formiato |
+| 3 | Azufre elemental | Producto de origen natural o industrial más o menos refinado | 98 % S (245 %: SO<sub>3</sub>)<br>azufre expresado como SO<sub>3</sub> total |  | Trióxido de azufre total |
+| 4 | Kieserita | Producto extraído de minas que contiene como componente esencial sulfato de magnesio monohidratado | 24 % MgO<br>45 % SO<sub>3</sub><br>Magnesio y azufre expresados como óxido de magnesio y trióxido de azufre solubles en agua | Podrán añadirse las denominaciones usuales en el comercio | Óxido de magnesio soluble en agua Facultativamente: trióxido de azufre soluble en agua |
+| 5 | Sulfato de magnesio | Producto que contiene sulfato de magnesio heptahidratado como ingrediente principal | 15 % de MgO 28 % de SO<sub>3</sub><br>Si se añaden micronutrientes y se declaran de conformidad con el artículo 6, apartados 4 y 6:<br>10 % de MgO 17 % de SO<sub>3</sub><br>Magnesio y azufre expresados como óxido de magnesio y trióxido de azufre solubles en agua | Podrán añadirse las denominaciones usuales en el comercio | Óxido de magnesio soluble en agua Trióxido de azufre soluble en agua |
+| 5.1 | Solución de sulfato de magnesio | Producto obtenido mediante disolución en agua de sulfato de magnesio de origen industrial | 5 % MgO<br>10 % SO<sub>3</sub><br>Magnesio y azufre expresados como óxido de magnesio y trióxido de azufre solubles en agua | Se podrán añadir las denominaciones usuales en el comercio | Óxido de magnesio soluble en agua<br>Facultativamente: trióxido de azufre soluble en agua |
+| 5.2 | Hidróxido de magnesio | Producto obtenido químicamente que se compone esencialmente de hidróxido de magnesio | 60 % MgO<br>Granulometría: paso del 99 %, como mínimo, a través del tamiz de 0,063 mm de abertura de malla |  | Óxido de magnesio total |
+| 5.3 | Suspensión de hidróxido de magnesio | Producto obtenido por suspensión del tipo 5.2 | 24 % MgO |  | Óxido de magnesio total |
+| 6 | Solución de cloruro de magnesio | Producto obtenido por disolución de cloruro de magnesio de origen industrial | 13 % MgO<br>Magnesio expresado como óxido de magnesio<br>Contenido máximo en calcio 3 % de CaO |  | Óxido de magnesio |
+
+**1.4.5 Abonos inorgánicos que contienen micronutrientes**
+
+Nota explicativa: Las notas siguientes se refieren al conjunto de la Parte 1.4.5.
+
+Nota 1: Los agentes quelantes podrán denominarse por sus abreviaturas, tal y como figuran en la tabla 1.4.5.2
+
+Nota 2: Si el producto no deja ningún residuo sólido después de su disolución en agua podrá designarse «para disolución».
+
+Nota 3: Si un micronutriente está presente en forma quelada, habrá que indicar en qué intervalo de pH se garantiza una buena estabilidad de la fracción quelada.
+
+1.4.5.1 Abonos que sólo contienen un micronutriente
+
+| N.<sup>o</sup> | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en elementos nutrientes (porcentaje en masa)<br>Informaciones sobre la evaluación de los elementos nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo | Elementos cuyo contenido debe declararse<br>Formas y solubilidades de los elementos nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1(a) | Ácido bórico | Producto obtenido por la acción de un ácido sobre un borato | 14 % B soluble en agua | Se podrán añadir las denominaciones usuales del comercio | Boro (B) soluble en agua |
+| 1(b) | Borato sódico | Producto obtenido químicamente que se compone esencialmente de borato sódico | 10 % B soluble en agua | Se podrán añadir las denominaciones usuales del comercio | Boro (B) soluble en agua |
+| 1(c) | Borato cálcico | Producto obtenido a partir de colemanita o de pandermita y que se compone esencialmente de boratos cálcico | 7 % total B<br>Granulometría: paso del 98 %, como mínimo, por el tamiz de 0,063 mm de abertura de malla | Se podrán añadir las denominaciones usuales del comercio | Boro (B) total |
+| 1(d) | Boro etanolamina | Producto obtenido por reacción de ácido bórico con una etanolamina | 8 % B soluble en agua |  | Boro (B) soluble en agua |
+| 1(e) | Abono boratado en solución | Producto obtenido por disolución<br>en agua de los tipos 1(a) y/o 1(b) y/o 1(d) | 2 % B soluble en agua | La denominación deberá incluir el<br>nombre de los compuestos de boro presentes | Boro (B) soluble en agua |
+| 1(f) | Suspensión de abono a base de boro | Producto obtenido por suspensión en agua de los tipos 1(a) y/o 1(b) y/o 1(c) y/o 1(d) | 2 % B total | La denominación deberá incluir los nombres de los compuestos de boro presentes | Boro (B) total<br>Boro (B) soluble en agua, si está presente |
+
+| N.<sup>o</sup> | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en elementos nutrientes (porcentaje en masa)<br>Informaciones sobre la evaluación de los elementos nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo | Elementos cuyo contenido debe declararse Formas y solubilidades de los elementos nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 2(a) | Sal de cobalto | Producto obtenido químicamente que se compone esencialmente de sal mineral de cobalto | 19 % Co soluble en agua | La denominación deberá llevar el nombre del anión mineral | Cobalto (Co) soluble en agua |
+| 2(b) | Quelato de cobalto | Producto soluble en agua que contiene cobalto combinado químicamente con uno o varios agentes quelantes autorizados | 5 % de cobalto soluble en agua, del cual al menos el 80 % está quelado por uno o varios agentes quelantes autorizados | Nombre de cada agente quelante autorizado que quele al menos un 1 % del cobalto soluble en agua y que pueda ser identificado y cuantificado por una norma europea | Cobalto (Co) soluble en agua Facultativamente: Cobalto (Co) total quelado por agentes quelantes autorizados<br>Cobalto (Co) quelado por cada agente quelante autorizado que quele al menos un 1 % del cobalto soluble en agua y que pueda ser identificado y cuantificado por una norma europea |
+| 2(c) | Solución de abono a base de cobalto | Solución acuosa de los tipos 2(a) y/o 2(b) o 2(d) | 2 % Co soluble en agua Cuando los tipos 2(a) y 2(d) estén mezclados, la fracción complejada deberá ser al menos el 40 % del Co soluble en agua | La denominación deberá incluir:<br>1) el nombre del anión o aniones minerales, si están presentes;<br>2) el nombre de cada agente quelante autorizado presente que quele al menos un 1 % del cobalto soluble en agua y que pueda ser identificado y cuantificado por una norma europea, o el nombre del agente complejante autorizado que pueda ser identificado por una norma europea, si está presente | Cobalto (Co) soluble en agua<br>Cobalto (Co) quelado por cada agente quelante autorizado que quele al menos un 1% del cobalto soluble en agua y que pueda ser identificado y cuantificado por una norma europea<br>Cobalto (Co) complejado por el agente complejante autorizado que pueda ser identificado por una norma europea<br>Facultativamente: Cobalto (Co) total quelado por agentes quelantes autorizados |
+| 2(d) | Complejo de cobalto | Producto soluble en agua que contiene cobalto combinado químicamente con un agente complejante autorizado | 5 % de Co soluble en agua; la fracción complejada debe ser al menos el 80 % del Co soluble en agua | La denominación debe incluir el nombre del agente complejante autorizado que pueda ser identificado por una norma europea | Cobalto (Co) soluble en agua Cobalto (Co) total complejado |
+
+| N.<sup>o</sup> | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en elementos nutrientes (porcentaje en masa)<br>Informaciones sobre la evaluación de los elementos nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo | Elementos cuyo contenido debe declararse Formas y solubilidades de los elementos nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 3(a) | Sal de cobre | Producto obtenido químicamente que se compone esencialmente de sal mineral de cobre | 20 % Cu soluble en agua | La denominación deberá llevar el nombre del anión mineral | Cobre (Cu) soluble en agua |
+| 3(b) | Óxido de cobre | Producto obtenido químicamente que se compone esencialmente de óxido de cobre | 70 % Cu total<br>Granulometría: paso del 98 %, como mínimo, por el tamiz de 0,063 mm |  | Cobre (Cu) total |
+| 3(c) | Hidróxido de cobre | Producto obtenido químicamente que se compone esencialmente de hidróxido de cobre | 45 % Cu total<br>Granulometría: paso del 98 %, como mínimo, por el tamiz de 0,063 mm |  | Cobre (Cu) total |
+| 3(d) | Quelato de cobre | Producto soluble en agua que contiene cobre combinado químicamente con uno o varios agentes quelantes autorizados | 5 % de cobre soluble en agua, del cual al menos el 80 % está quelado por uno o varios agentes quelantes autorizados | Nombre de cada agente quelante autorizado que quele al menos un 1 % del cobre soluble en agua y que pueda ser identificado y cuantificado por una norma europea | Cobre (Cu) soluble en agua<br>Facultativamente: Cobre (Cu) total quelado por agentes quelantes autorizados<br>Cobre (Cu) quelado por cada agente quelante autorizado que quele al menos un 1 % del cobre soluble en agua y que pueda ser identificado y cuantificado por una norma europea |
+| 3(e) | Abono a base de cobre | Producto obtenido por mezcla de los tipos 3(a) y/o 3(b) y/o 3(c) y/o uno solo del tipo 3(d), y, en su caso, de una carga no nutritiva ni tóxica | 5 % Cu total | La denominación deberá incluir:<br>(1) el nombre de los compuestos de cobre,<br>(2) el nombre del agente quelante, si procede | Cobre (Cu) total<br>Cobre soluble en agua, si éste alcanza, al menos, 1/4 del cobre total<br>Cobre (Cu) quelado, si procede |
+| 3(f) | Solución de abono a base de cobre | Solución acuosa de los tipos 3(a) y/o 3(d) o 1.3.1.02 | 2 % Cu soluble en agua<br>Cuando los tipos 3(a) y 1.3.1.02 estén mezclados, la fracción complejada deberá ser al menos el 40 % del Cu soluble en agua | La denominación deberá incluir:<br>1) el nombre del anión o aniones minerales, si están presentes;<br>2) el nombre de cada agente quelante autorizado presente que quele al menos un 1 % del cobre soluble en agua y que pueda ser identificado y cuantificado por una norma europea, o el nombre del agente complejante autorizado que pueda ser identificado por una norma europea | Cobre (Cu) soluble en agua<br>Cobre (Cu) quelado por cada agente quelante autorizado que quele al menos un 1% del cobre soluble en agua y que pueda ser identificado y cuantificado por una norma europea<br>Cobre (Cu) complejado por el agente complejante autorizado que pueda ser identificado por una norma europea<br>Facultativamente: Cobre (Cu) total quelado por agentes quelantes autorizados |
+| 3(g) | Oxicloruro de cobre | Producto obtenido químicamente que se compone esencialmente de oxicloruro de cobre [Cu<sub>2</sub>Cl(OH)<sub>3</sub>] | 50 % Cu total<br>Granulometría: paso del 98 %, como mínimo, por el tamiz de 0,063 mm |  | Cobre (Cu) total |
+| 3(h) | Suspensión de abono a base de cobre | Producto obtenido por suspensión en agua de los tipos 3(a) y/o 3(b) y/o 3(c) y/o 3(d) y/o 3(g) | 17 % Cu total | La denominación deberá incluir:<br>1) los nombres de los aniones, si están presentes;<br>2) el nombre de cada agente quelante autorizado presente que quele al menos un 1% del cobre soluble en agua y que pueda ser identificado y cuantificado por una norma europea | Cobre (Cu) total<br>Cobre (Cu) soluble en agua, si está presente<br>Cobre (Cu) quelado por cada agente quelante autorizado que quele al menos un 1 % del cobre soluble en agua y que pueda ser identificado y cuantificado por una norma europea |
+
+| N.<sup>o</sup> | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en elementos nutrientes (porcentaje en masa)<br>Informaciones sobre la evaluación de los elementos nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo | Elementos cuyo contenido debe declararse Formas y solubilidades de los elementos nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 4(a) | Sal de hierro | Producto obtenido químicamente<br>que se compone esencialmente de una sal mineral de hierro | 12% Fe soluble en agua | La denominación deberá incluir el nombre del anión mineral | Hierro (Fe) soluble en agua |
+| 4(b) | Quelato de hierro | Producto soluble en agua que contiene hierro combinado químicamente con uno o varios agentes quelantes autorizados | 5 % de hierro soluble en agua, del cual la fracción quelada es, como mínimo, del 80 %, y del que al menos el 50 % está quelado por uno o varios agentes quelantes autorizados | Nombre de cada agente quelante autorizado que quele al menos un 1 % del hierro soluble en agua y que pueda ser identificado y cuantificado por una norma europea | Hierro (Fe) soluble en agua Facultativamente: Hierro (Fe) total quelado por agentes quelantes autorizados<br>Hierro (Fe) quelado por cada agente quelante autorizado que quele al menos un 1 % del hierro soluble en agua y que pueda ser identificado y cuantificado por una<br>norma europea |
+| 4(c) | Solución de abono a base de hierro | Solución acuosa de los tipos 4(a) y/o 4(b) o 1.3.1.04 | 2 % Fe soluble en agua<br>Cuando los tipos 4(a) y 1.3.1.04 estén mezclados, la fracción complejada deberá ser al menos el 40 % del Fe<br>soluble en agua | La denominación deberá incluir:<br>1) el nombre del anión o aniones minerales, si están presentes;<br>2) el nombre de cada agente quelante autorizado presente que quele al menos un 1 % del hierro soluble en agua y que pueda ser identificado y cuantificado por una norma europea, o el nombre del agente complejante autorizado que pueda ser identificado por una norma europea | Hierro (Fe) soluble en agua<br>Hierro (Fe) quelado por cada agente quelante autorizado que quele al menos un 1% del hierro soluble en agua y que pueda ser identificado y cuantificado por una norma europea<br>Hierro (Fe) complejado por el agente complejante autorizado que pueda ser identificado por una norma europea Facultativamente: Hierro (Fe) total quelado por agentes quelantes autorizados |
+
+| N.<sup>o</sup> | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en elementos nutrientes (porcentaje en masa) Informaciones sobre la evaluación de los elementos nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo | Elementos cuyo contenido debe declararse<br>Formas y solubilidades de los elementos nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 5(a) | Sal de manganeso | Producto obtenido químicamente que se compone esencialmente de una sal mineral de manganeso (II) | 17 % Mn soluble en agua | La denominación deberá incluir el nombre del anión combinado | Manganeso (Mn) soluble en agua |
+| 5(b) | Quelato de manganeso | Producto soluble en agua que contiene manganeso combinado químicamente con uno o varios agentes quelantes autorizados | 5 % de manganeso soluble en agua, del cual al menos el 80 % está quelado por uno o varios agentes quelantes autorizados | Nombre de cada agente quelante autorizado que quele al menos un 1 % del manganeso soluble en agua y que pueda ser identificado y cuantificado por una norma europea | Manganeso (Mn) soluble en agua Facultativamente: Manganeso (Mn) total quelado por agentes quelantes autorizados<br>Manganeso (Mn) quelado por cada agente quelante autorizado que quele al menos un 1 % del manganeso soluble en agua y que pueda ser identificado y cuantificado por una norma europea |
+| 5(c) | Óxido de manganeso | Producto obtenido químicamente que se compone esencialmente de óxido de manganeso | 40 % Mn total<br>Granulometría: paso del 80 %, como mínimo, por el tamiz de 0,063 mm |  | Manganeso (Mn) total |
+| 5(d) | Abono a base de manganeso | Producto obtenido por mezcla de los tipos 5(a) y 5(c) | 17 % Mn total | La denominación deberá incluir el nombre de los compuestos de manganeso | Manganeso (Mn) total<br>Manganeso (Mn) soluble en agua si éste alcanza, al menos, 1/4 del manganeso total |
+| 5(e) | Solución de abono a base de manganeso | Solución acuosa de los tipos 5(a) y/o 5(b) o 1.3.1.06 | 2 % Mn soluble en agua<br>Cuando los tipos 5(a) y 1.3.1.06 estén mezclados, la fracción complejada deberá ser al menos el 40 % del Mn soluble en agua | La denominación deberá incluir:<br>1) el nombre del anión o aniones minerales, si están presentes;<br>2) el nombre de cada agente quelante autorizado presente que quele al menos un 1 % del manganeso soluble en agua y que pueda ser identificado y cuantificado por una norma europea, o el nombre del agente complejante autorizado que pueda ser identificado por una norma europea | Manganeso (Mn) soluble en agua Manganeso (Mn) quelado por cada agente quelante autorizado que quele al menos un 1 % del manganeso soluble en agua y que pueda ser identificado y cuantificado por una norma europea<br>Manganeso (Mn) complejado por el agente complejante autorizado que pueda ser identificado por una norma europea<br>Facultativamente: Manganeso (Mn) total quelado por agentes quelantes autorizados |
+| 5(f) | Suspensión de abono a base de manganeso | Producto obtenido por suspensión en agua de los tipos 5(a) y/o 5(b) y/o 5(c) | 17 % Mn total | La denominación deberá incluir:<br>1) los nombres de los aniones, si están presentes;<br>2) el nombre de cada agente quelante autorizado presente que quele al menos un 1% del manganeso soluble en agua y que pueda ser identificado y cuantificado por una norma europea | Manganeso (Mn) total<br>Manganeso (Mn) soluble en agua, si está presente<br>Manganeso (Mn) quelado por cada agente quelante autorizado que quele al menos un 1 % del manganeso soluble en agua y que pueda ser identificado y cuantificado por una norma europea |
+
+| N.<sup>o</sup> | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en elementos nutrientes (porcentaje en masa) Informaciones sobre la evaluación de los elementos nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo | Elementos cuyo contenido debe declararse<br>Formas y solubilidades de los elementos nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 6(a) | Molibdato sódico | Producto obtenido químicamente que se compone esencialmente de molibdato sódico | 35 % Mo soluble en agua |  | Molibdeno (Mo) soluble en agua |
+| 6(b) | Molibdato amónico | Producto obtenido químicamente que se compone esencialmente de molibdato amónico | 50 % Mo soluble en agua |  | Molibdeno (Mo) soluble en agua |
+| 6(c) | Abono a base de molibdeno | Producto obtenido por mezcla de los tipos 6(a) y 6(b) | 35 % Mo soluble en agua | La denominación deberá incluir el nombre de los compuestos de molibdeno presentes | Molibdeno (Mo) soluble en agua |
+| 6(d) | Solución de abono a base de molibdeno | Producto obtenido por disolución en agua de los tipos 6(a) y/o uno solo del tipo 6(b) | 3 % Mo soluble en agua | La denominación deberá incluir el nombre de los compuestos de molibdeno presentes | Molibdeno (Mo) soluble en agua |
+
+| N.<sup>o</sup> | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en elementos nutrientes (porcentaje en masa) Informaciones sobre la evaluación de los elementos nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo | Elementos cuyo contenido debe declararse<br>Formas y solubilidades de los elementos nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 7(a) | Sal de zinc | Producto obtenido químicamente que se compone esencialmente de una sal mineral de zinc | 15 % Zn soluble en agua | La denominación deberá incluir el nombre del anión mineral | Zinc (Zn) soluble en agua |
+| 7(b) | Quelato de zinc | Producto soluble en agua que contiene zinc combinado químicamente con uno o varios agentes quelantes autorizados | 5 % de zinc soluble en agua, del cual al menos el 80 % está quelado por uno o varios agentes quelantes autorizados | Nombre de cada agente quelante autorizado que quele al menos un 1 % del zinc soluble en agua y que pueda ser identificado y cuantificado por una norma europea | Zinc (Zn) soluble en agua Facultativamente: Zinc (Zn) total quelado por agentes quelantes autorizados<br>Zinc (Zn) quelado por cada agente quelante autorizado que quele al menos un 1 % del zinc soluble en agua y que pueda ser identificado y cuantificado por una norma europea |
+| 7(c) | Óxido de zinc | Producto obtenido químicamente que se compone esencialmente de óxido de zinc | 70 % Zn total Granulometría: paso del 80 %, como mínimo, por el tamiz de 0,063 mm de abertura de malla |  | Zinc (Zn) total |
+| 7(d) | Abono a base de zinc | Producto obtenido por mezcla de los tipos 7(a) y 7(c) | 30 % Zn total | La denominación deberá incluir el nombre de los compuestos de zinc presentes | Zinc (Zn) total<br>Zinc (Zn) soluble en agua si éste alcanza, al menos, 1/4 del zinc (Zn) total |
+| 7(e) | Solución de abono a base de zinc | Solución acuosa de los tipos 7(a) y/o 7(b) o 1.3.1.08 | 2 % Zn soluble en agua<br>Cuando los tipos 7(a) y 1.3.1.08 estén mezclados, la fracción complejada deberá ser al menos el 40 % del Zn soluble en agua | La denominación deberá incluir:<br>1) el nombre del anión o aniones minerales, si están presentes;<br>2) el nombre de cada agente quelante autorizado presente que quele al menos un 1 % del zinc soluble en agua y que pueda ser identificado y cuantificado por una norma europea, o el nombre del agente complejante autorizado que pueda ser identificado por una norma europea | Zinc (Zn) soluble en agua<br>Zinc (Zn) quelado por cada agente quelante autorizado que quele al menos un 1 % del zinc soluble en agua y que pueda ser identificado y cuantificado por una norma europea<br>Zinc (Zn) complejado por el agente complejante autorizado que pueda ser identificado por una norma europea<br>Facultativamente: Zinc (Zn) total quelado por agentes quelantes autorizados |
+| 7(f) | Suspensión de abono a base de zinc | Producto obtenido por suspensión en agua de los tipos 7(a), 7(c) y/o 7(b) | 20 % de zinc total | La denominación deberá incluir:<br>1) los nombres de los aniones,<br>2) el nombre de todo agente quelante autorizado presente que quele al menos un 1 % del zinc soluble en agua y que pueda ser identificado y cuantificado por una norma europea. | Zinc (Zn) total Zinc<br>(Zn) soluble en agua, si está presente<br>Zinc (Zn) quelado por cada agente quelante autorizado que quele al menos un 1 % del zinc soluble en agua y que pueda ser identificado y cuantificado por una norma europea |
+
+1.4.5.1.8 Mezclas sólidas o líquidas de abonos con micronutrientes
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">N.º</th>
+<th class="cabeza_tabla">Denominación del tipo</th>
+<th class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</th>
+<th class="cabeza_tabla">Contenido mínimo de los micronutrientes (porcentaje en masa del abono)</th>
+<th class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Contenido en nutrientes que debe</p>
+<p class="cabeza_tabla">declararse y garantizarse. Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">01</td>
+<td class="cuerpo_tabla_izq">Mezcla de micronutrientes.</td>
+<td class="cuerpo_tabla_izq">Producto obtenido mediante la mezcla de dos o más tipos de abono E.1 u obtenido por la disolución y/o la suspensión en agua de dos o más tipos de abono de los grupos 1.3 y 1.4.5.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">1) 5 % del contenido total de una mezcla sólida, o</p>
+<p class="cuerpo_tabla_izq">2) 2 % del contenido total de una mezcla líquida Micronutrientes conforme a la siguiente tabla.</p>
+<p class="cuerpo_tabla_izq">Cuando el micronutriente está presente en forma:</p>
+<table class="tabla">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Micronutriente</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Solo mineral</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla"><span class="no_partir">Quelad</span>o/c<span class="no_partir">omplejado</span></p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Boro (B).</td>
+<td class="cuerpo_tabla_coma">0,2</td>
+<td class="cuerpo_tabla_coma">0,2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cobalto (Co).</td>
+<td class="cuerpo_tabla_coma">0,02</td>
+<td class="cuerpo_tabla_coma">0,02</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cobre (Cu).</td>
+<td class="cuerpo_tabla_coma">0,5</td>
+<td class="cuerpo_tabla_coma">0,1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Hierro (Fe).</td>
+<td class="cuerpo_tabla_coma">2,0</td>
+<td class="cuerpo_tabla_coma">0,3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Manganeso (Mn).</td>
+<td class="cuerpo_tabla_coma">0,5</td>
+<td class="cuerpo_tabla_coma">0,1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Molibdeno (Mo).</td>
+<td class="cuerpo_tabla_coma">0,02</td>
+<td class="cuerpo_tabla_coma">_</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Zinc (Zn).</td>
+<td class="cuerpo_tabla_coma">0,5</td>
+<td class="cuerpo_tabla_coma">0,1</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="cuerpo_tabla_izq">Nombre de cada micronutriente y su símbolo químico, por orden alfabético de los símbolos químicos, seguidos de sus contra-iones inmediatamente después de la denominación de tipo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Contenido total de cada micronutriente expresado en porcentaje del abono en masa, excepto si un micronutriente es totalmente soluble en agua.</p>
+<p class="cuerpo_tabla_izq">– Contenido soluble en agua de cada micronutriente, expresado en porcentaje en masa del abono, cuando el contenido soluble alcance como mínimo la mitad del contenido total.</p>
+<p class="cuerpo_tabla_izq">Cuando un micronutriente sea totalmente soluble en agua, solo se declarará el contenido soluble en agua.</p>
+<p class="cuerpo_tabla_izq">– Cuando un micronutriente esté ligado químicamente a una molécula orgánica, el contenido del micronutriente se declarará inmediatamente a continuación del contenido soluble en agua, en porcentaje en masa del producto, seguido por las expresiones «quelado por» o "complejado por" y el nombre de cada agente quelante o complejante tal y como figura en la letra E.3. El nombre de la molécula orgánica podrá ser substituido por su abreviatura. Debajo de las declaraciones obligatoria y facultativa, se añadirá la siguiente indicación: "Utilícese solamente en caso de reconocida necesidad. No sobrepasar las dosis recomendadas".</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_cursiva">1.4.5.2 Lista de agentes orgánicos autorizados quelantes para micronutrientes</p>
+<p class="parrafo_2">Las siguientes sustancias están autorizadas siempre que el correspondiente quelato del nutriente haya cumplido los requisitos de la Directiva 67/548/CEE del Consejo (1).(2)</p>
+<p class="parrafo">Ácidos o sales de sodio, potasio o amonio de:</p>
+</caption>
+<colgroup>
+<col width="3%">
+<col width="43%">
+<col width="18%">
+<col width="18%">
+<col width="18%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">N.<sup>o</sup></th>
+<th class="cabeza_tabla">Denominación</th>
+<th class="cabeza_tabla">Denominación alternativa</th>
+<th class="cabeza_tabla">Fórmula química</th>
+<th class="cabeza_tabla">Número CAS del ácido (1)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq">Ácido etilendiaminotetraacético</td>
+<td class="cuerpo_tabla_izq">EDTA</td>
+<td class="cuerpo_tabla_izq">C<sub>10</sub>H<sub>16</sub>O<sub>8</sub>N<sub>2</sub></td>
+<td class="cuerpo_tabla_izq">60-00-4</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Ácido 2-hidroxietiletilendiaminotriacético</td>
+<td class="cuerpo_tabla_izq">HEEDTA</td>
+<td class="cuerpo_tabla_izq">C<sub>10</sub>H<sub>18</sub>O7N<sub>2</sub></td>
+<td class="cuerpo_tabla_izq">150-39-0</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Ácido dietilentriaminopentaacético</td>
+<td class="cuerpo_tabla_izq">DTPA</td>
+<td class="cuerpo_tabla_izq">C<sub>14</sub>H<sub>23</sub>O<sub>10</sub>N3</td>
+<td class="cuerpo_tabla_izq">67-43-6</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Ácido etilendiamino-N,N’-di[(orto-hidroxifenil)acético]</td>
+<td class="cuerpo_tabla_izq">[o,o] EDDHA</td>
+<td class="cuerpo_tabla_izq">C<sub>18</sub>H<sub>20</sub>O<sub>6</sub>N<sub>2</sub></td>
+<td class="cuerpo_tabla_izq">1170-02-1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq">Ácido etilendiamino-N-[(orto-hidroxifenil)acético]-N’- [(para-hidroxifenil)acético]</td>
+<td class="cuerpo_tabla_izq">[o,p] EDDHA</td>
+<td class="cuerpo_tabla_izq">C<sub>18</sub>H<sub>20</sub>O<sub>6</sub>N<sub>2</sub></td>
+<td class="cuerpo_tabla_izq">475475-49-1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Ácido etilendiamino-N,N’-di[(orto-hidroximetilfenil)acético]</td>
+<td class="cuerpo_tabla_izq">[o,o] EDDHMA</td>
+<td class="cuerpo_tabla_izq">C<sub>20</sub>H<sub>24</sub>O<sub>6</sub>N<sub>2</sub></td>
+<td class="cuerpo_tabla_izq">641632-90-8</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_izq">Ácido etilendiamino-N-[(orto-hidroximetilfenil)acético]-N’-[(para-hidroximetilfenil)acético]</td>
+<td class="cuerpo_tabla_izq">[o,p] EDDHMA</td>
+<td class="cuerpo_tabla_izq">C<sub>20</sub>H<sub>24</sub>O<sub>6</sub>N<sub>2</sub></td>
+<td class="cuerpo_tabla_izq">641633-41-2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_izq">Ácido etilendiamino-N,N’-di[(5-carboxi-2-hidroxifenil)acético]</td>
+<td class="cuerpo_tabla_izq">EDDCHA</td>
+<td class="cuerpo_tabla_izq">C<sub>20</sub>H<sub>20</sub>O<sub>10</sub>N<sub>2</sub></td>
+<td class="cuerpo_tabla_izq">85120-53-2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_izq">Ácido etilendiamino-N,N’-di[(2-hidroxi-5-sulfofenil)acético] y sus productos de condensación</td>
+<td class="cuerpo_tabla_izq">EDDHSA</td>
+<td class="cuerpo_tabla_izq">C<sub>18</sub>H<sub>20</sub>O<sub>12</sub>N<sub>2</sub>S<sub>2</sub> + n*(C<sub>12</sub>H<sub>14</sub>O<sub>8</sub>N<sub>2</sub>S)</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">57368-07-7 y</p>
+<p class="cuerpo_tabla_izq">642045-40-7</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_izq">Ácido iminodisuccínico</td>
+<td class="cuerpo_tabla_izq">IDHA</td>
+<td class="cuerpo_tabla_izq">C<sub>8</sub>H<sub>11</sub>O<sub>8</sub>N</td>
+<td class="cuerpo_tabla_izq">131669-35-7</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_izq">Ácido etilendiamino-N,N'-di(2-hidroxibenzil) N,N'-diacético</td>
+<td class="cuerpo_tabla_izq">HBED</td>
+<td class="cuerpo_tabla_izq">C<sub>20</sub>H<sub>24</sub>N<sub>2</sub>O<sub>6</sub></td>
+<td class="cuerpo_tabla_izq">35998-29-9</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq">Ácido [S,S]-etilendiaminodisuccínico</td>
+<td class="cuerpo_tabla_izq">[S,S]-EDDS</td>
+<td class="cuerpo_tabla_izq">C<sub>10</sub>H<sub>16</sub>O<sub>8</sub>N2</td>
+<td class="cuerpo_tabla_izq">20846-91-7</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="5">
+<p class="cita">(1) A título meramente informativo.</p>
+<p class="cita">(1) DO 196 de 16.8.1967, p. 1.</p>
+<p class="cita">(2) Los agentes quelantes se identificarán y cuantificarán conforme a las normas europeas que cubran los mencionados agentes.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Grupo 2. Abonos orgánicos
+
+Nota. El uso de conservantes para evitar la contaminación microbiana en productos fertilizantes se encuentra dentro del ámbito de aplicación del Reglamento (UE) n.º 528/2012, del Parlamento Europeo y del Consejo, de 22 de mayo de 2012, relativo a la comercialización y el uso de los biocidas. No se podrán utilizar sustancias que no se correspondan con el tipo de producto 6 según el anexo V del citado reglamento y que se encuentren en la Lista Europea de Sustancias Activas o en el Programa de Revisión notificadas para tipo 6. Igualmente, el etiquetado del producto final al que se le adicionan estos conservantes, deberá cumplir con lo requerido en los artículos 58 y 94 del Reglamento 528/2012.
+
+2.1 Nitrogenados.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th>
+<p class="cabeza_tabla">Denominación del tipo</p>
+</th>
+<th>
+<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
+<p class="cabeza_tabla">Otros requisitos</p>
+</th>
+<th>
+<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th>
+<p class="cabeza_tabla">1</p>
+</th>
+<th>
+<p class="cabeza_tabla">2</p>
+</th>
+<th>
+<p class="cabeza_tabla">3</p>
+</th>
+<th>
+<p class="cabeza_tabla">4</p>
+</th>
+<th>
+<p class="cabeza_tabla">5</p>
+</th>
+<th>
+<p class="cabeza_tabla">6</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono orgánico nitrogenado de origen animal.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto sólido obtenido por tratamiento, con o sin mezcla, de materia orgánica animal.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N total: 6%.</p>
+<p class="cuerpo_tabla_izq">– C/N no mayor de 10.</p>
+</td>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">Humedad mínima y máxima.</p>
+</td>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">– N total y N orgánico.</p>
+<p class="cuerpo_tabla_izq">– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– C/N.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> y K<sub>2</sub>O totales (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono orgánico nitrogenado de origen vegetal .</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto sólido obtenido por tratamiento, con o sin mezcla, de materia orgánica vegetal.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N total: 2%</p>
+<p class="cuerpo_tabla_izq">– C/N no mayor de 15.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">03</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono orgánico nitrogenado de origen animal y vegetal.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto sólido obtenido por tratamiento, con o sin mezcla, de materias orgánicas animales y vegetales .</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N total: 3%</p>
+<p class="cuerpo_tabla_izq">– C/N no mayor de 12.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+2.2 Fosfatados.
+
+| N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en nutrientes (porcentaje en masa)<br>Información sobre la evaluación de los nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse.<br>Formas y solubilidad de los nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 01 | Abono orgánico fosfatado de origen animal | Producto sólido obtenido por tratamiento de huesos. | P<sub>2</sub>O<sub>5 </sub>total: 25 %. | Humedad mínima y máxima. | – P<sub>2</sub>O<sub>5</sub> total.<br>– N y K<sub>2</sub>O totales (si superan el 1%). |
+
+2.3 NPK.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th>
+<p class="cabeza_tabla">Denominación del tipo</p>
+</th>
+<th>
+<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
+<p class="cabeza_tabla">Otros requisitos</p>
+</th>
+<th>
+<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th>
+<p class="cabeza_tabla">1</p>
+</th>
+<th>
+<p class="cabeza_tabla">2</p>
+</th>
+<th>
+<p class="cabeza_tabla">3</p>
+</th>
+<th>
+<p class="cabeza_tabla">4</p>
+</th>
+<th>
+<p class="cabeza_tabla">5</p>
+</th>
+<th>
+<p class="cabeza_tabla">6</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono orgánico NPK de origen animal.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto sólido obtenido por tratamiento de excrementos animales, –con o sin cama–, sin ácidos minerales.</p>
+<p class="cuerpo_tabla_izq">Se incluyen los restos de pescado compostado.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 6%.</p>
+<p class="cuerpo_tabla_izq">– C/N no mayor de 10.</p>
+<p class="cuerpo_tabla_izq">– Cada nutriente debe ser al menos un 1,5%.</p>
+<p class="cuerpo_tabla_izq">– El N orgánico debe ser al menos un 50% de N total, con un mínimo del 1%.</p>
+<p class="cuerpo_tabla_izq">– El N nítrico no debe exceder del 1,5%.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Humedad mínima y máxima.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">– N total y N orgánico.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>total.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O total.</p>
+<p class="cuerpo_tabla_izq">– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– C/N.</p>
+<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono orgánico NPK de origen animal y vegetal.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto sólido obtenido por tratamiento de excrementos animales y/u otras materias orgánicas animales mezclados con materias orgánicas vegetales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 4%</p>
+<p class="cuerpo_tabla_izq">– C/N no mayor de 15</p>
+<p class="cuerpo_tabla_izq">– Cada nutriente debe ser al menos un 1% .</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+2.4 NP.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th>
+<p class="cabeza_tabla">Denominación del tipo</p>
+</th>
+<th>
+<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
+<p class="cabeza_tabla">Otros requisitos</p>
+</th>
+<th>
+<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th>
+<p class="cabeza_tabla">1</p>
+</th>
+<th>
+<p class="cabeza_tabla">2</p>
+</th>
+<th>
+<p class="cabeza_tabla">3</p>
+</th>
+<th>
+<p class="cabeza_tabla">4</p>
+</th>
+<th>
+<p class="cabeza_tabla">5</p>
+</th>
+<th>
+<p class="cabeza_tabla">6</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono orgánico NP de origen animal.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto sólido obtenido por tratamiento, con o sin mezcla, de materias orgánicas animales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> : 8%.</p>
+<p class="cuerpo_tabla_izq">– N total: 3 %.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> total: 4%.</p>
+<p class="cuerpo_tabla_izq">– C/N no mayor de 6.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Humedad mínima y máxima.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">– N total y N orgánico.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>total.</p>
+<p class="cuerpo_tabla_izq">– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– C/N.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O total (si supera el 1%).</p>
+<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono orgánico NP de origen animal y vegetal.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto sólido obtenido por tratamiento, con o sin mezcla, de materias orgánicas animales y vegetales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> : 6%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> total: 3%.</p>
+<p class="cuerpo_tabla_izq">– C/N no mayor de 12.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+2.5 NK
+
+| N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en nutrientes (porcentaje en masa)<br>Información sobre la evaluación de los nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse.<br>Formas y solubilidad de los nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 01 | Abono orgánico NK líquido de origen vegetal. | Producto líquido obtenido en la destilación de subproductos de remolacha, caña de azúcar o uva. | – N + K<sub>2</sub>O :6%.<br>– N total: 2 %.<br>– K<sub>2</sub>O total: 3%.<br>– C/N no mayor de 15. | – pH. | – N total y N orgánico.<br>– K<sub>2</sub>Ototal.<br>– C orgánico.<br>– C/N.<br>– P<sub>2</sub>O<sub>5</sub> total (si supera el 1%).<br>– Ácidos húmicos (si superan el 1%). |
+
+Grupo 3. Abonos órgano-minerales
+
+Notas: 1. En todos los abonos órgano-minerales compuestos, ya sean ternarios o binarios, los contenidos en elementos nutritivos se expresarán con idénticas normas que en el caso de los abonos del grupo 1.4 inorgánicos compuestos ternarios o binarios correspondientes.
+
+2\. Las materias orgánicas deben ser tratadas, al igual que en los abonos orgánicos del grupo 2
+
+3\. El uso de conservantes para evitar la contaminación microbiana en productos fertilizantes se encuentra dentro del ámbito de aplicación del Reglamento (UE) n.º 528/2012, del Parlamento Europeo y del Consejo, de 22 de mayo de 2012, relativo a la comercialización y el uso de los biocidas. No se podrán utilizar sustancias que no se correspondan con el tipo de producto 6 según el anexo V del citado reglamento y que se encuentren en la Lista Europea de Sustancias Activas o en el Programa de Revisión notificadas para tipo 6. Igualmente, el etiquetado del producto final al que se le adicionan estos conservantes, deberá cumplir con lo requerido en los artículos 58 y 94 del Reglamento 528/2012.
+
+4\. Cuando en la columna 3 se mencionen los abonos minerales, se refiere exclusivamente a los abonos del grupo 1.4 de los grupos A, B, C, D y E y a los abonos del grupo 1 del presente anexo.
+
+5\. Las enmiendas calizas incluidas en el Grupo G del Reglamento 2003/2003 no se considerarán abonos minerales en el sentido del apartado 13 del artículo 2 del presente real decreto, de forma que no podrán emplearse como abonos minerales en la fabricación de abonos órgano-minerales.
+
+3.1 Nitrogenados.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th>
+<p class="cabeza_tabla">Denominación del tipo</p>
+</th>
+<th>
+<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
+<p class="cabeza_tabla">Otros requisitos</p>
+</th>
+<th>
+<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th>
+<p class="cabeza_tabla">1</p>
+</th>
+<th>
+<p class="cabeza_tabla">2</p>
+</th>
+<th>
+<p class="cabeza_tabla">3</p>
+</th>
+<th>
+<p class="cabeza_tabla">4</p>
+</th>
+<th>
+<p class="cabeza_tabla">5</p>
+</th>
+<th>
+<p class="cabeza_tabla">6</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral nitrogenado.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto sólido obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N total: 10%.</p>
+<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+</td>
+<td> </td>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">– N total y N orgánico.</p>
+<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> y K<sub>2</sub>O totales, (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral nitrogenado con turba.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto sólido obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N total: 10%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p class="cuerpo_tabla_izq">– Turba 5%.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">03</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral nitrogenado con lignito o leonardita.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto sólido obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N total: 10%.</p>
+<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p class="cuerpo_tabla_izq">– Lignito o leonardita 5%.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">04</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral nitrogenado líquido.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N total: 8%.</p>
+<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 5%.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– pH.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">– N total y N orgánico.</p>
+<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> y K<sub>2</sub>O totales, (si superan el 1%)</p>
+<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">05</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral nitrogenado líquido con turba.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin materias o abonos orgánicos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N total: 8%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 5%.</p>
+<p class="cuerpo_tabla_izq">– Turba 5%.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– pH.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+3.2 NPK sólidos.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Denominación del tipo</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
+<p class="cabeza_tabla">Otros requisitos</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">1</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">2</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">3</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">4</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">5</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">6</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NPK.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 12%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+</td>
+<td> </td>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">– N total.</p>
+<p class="cuerpo_tabla_izq">– N orgánico.</p>
+<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O soluble en agua.</p>
+<p class="cuerpo_tabla_izq">– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NPK con turba.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 12%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p class="cuerpo_tabla_izq">– Turba: 5%.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">03</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NPK con lignito o leonardita.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 12%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p class="cuerpo_tabla_izq">– Lignito o leonardita 5%.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">04</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NPK (con o sin turba) con fosfato roca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de abonos orgánicos u otras materias orgánicas, con o sin turba, con abonos minerales,incluyendo fosfato roca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 12%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– N orgánico: 1% (sin turba).</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua: 3%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales: 2%.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p class="cuerpo_tabla_izq">– En los productos con turba 5%.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">En el caso de P<sub>2</sub>O<sub>5</sub>, tanto la denominación del tipo como el nombre comercial deberán hacer mención únicamente al P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N total y N orgánico.</p>
+<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales.</p>
+<p class="cuerpo_tabla_izq">-– K<sub>2</sub>O soluble en agua.</p>
+<p class="cuerpo_tabla_izq">-– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– Contenido de turba si está presente.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+3.3 NPK líquidos.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th>
+<p class="cabeza_tabla">Denominación del tipo</p>
+</th>
+<th>
+<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
+<p class="cabeza_tabla">Otros requisitos</p>
+</th>
+<th>
+<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th>
+<p class="cabeza_tabla">1</p>
+</th>
+<th>
+<p class="cabeza_tabla">2</p>
+</th>
+<th>
+<p class="cabeza_tabla">3</p>
+</th>
+<th>
+<p class="cabeza_tabla">4</p>
+</th>
+<th>
+<p class="cabeza_tabla">5</p>
+</th>
+<th>
+<p class="cabeza_tabla">6</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NPK líquido.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 8%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 2%.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 2%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 4%.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">– pH.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">– N total.</p>
+<p class="cuerpo_tabla_izq">– N orgánico.</p>
+<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en agua.</p>
+<p class="cuerpo_tabla_izq">– En suspensión: P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O soluble en agua.</p>
+<p class="cuerpo_tabla_izq">– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– En los tipos con turba, indicar su contenido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NPK líquido con turba.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 8%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 2%.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 2%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico:4%.</p>
+<p class="cuerpo_tabla_izq">– Turba 5%.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+3.4 NP sólidos
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th>
+<p class="cabeza_tabla">Denominación del tipo</p>
+</th>
+<th>
+<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
+<p class="cabeza_tabla">Otros requisitos</p>
+</th>
+<th>
+<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th>
+<p class="cabeza_tabla">1</p>
+</th>
+<th>
+<p class="cabeza_tabla">2</p>
+</th>
+<th>
+<p class="cabeza_tabla">3</p>
+</th>
+<th>
+<p class="cabeza_tabla">4</p>
+</th>
+<th>
+<p class="cabeza_tabla">5</p>
+</th>
+<th>
+<p class="cabeza_tabla">6</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NP.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub>: 8%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+</td>
+<td> </td>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">– N total.</p>
+<p class="cuerpo_tabla_izq">– N orgánico.</p>
+<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en agua.</p>
+<p class="cuerpo_tabla_izq">– En suspensión: P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
+<p class="cuerpo_tabla_izq">– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O total (si supera el 1 %).</p>
+<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NP con turba.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub>: 8%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p class="cuerpo_tabla_izq">– Turba: 5%.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">03</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NP con lignito o leonardita.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto sólido obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub>: 8%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p class="cuerpo_tabla_izq">– Lignito o leonardita 5%.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">04</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NP (con o sin turba) con fosfato roca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de abonos orgánicos u otras materias orgánicas, con o sin turba, con abonos minerales, incluyendo fosfato roca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub>: 8%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– N orgánico: 1% (sin turba).</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua: 3%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales: 2%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p class="cuerpo_tabla_izq">– En los productos con turba 5%.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">En el caso de P<sub>2</sub>O<sub>5</sub>, tanto la denominación del tipo como el nombre comercial deberán hacer mención únicamente al P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N total y N orgánico.</p>
+<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales.</p>
+<p class="cuerpo_tabla_izq">-– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– Contenido de turba si está presente.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+3.5 NP líquidos
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th>
+<p class="cabeza_tabla">Denominación del tipo</p>
+</th>
+<th>
+<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
+<p class="cabeza_tabla">Otros requisitos</p>
+</th>
+<th>
+<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th>
+<p class="cabeza_tabla">1</p>
+</th>
+<th>
+<p class="cabeza_tabla">2</p>
+</th>
+<th>
+<p class="cabeza_tabla">3</p>
+</th>
+<th>
+<p class="cabeza_tabla">4</p>
+</th>
+<th>
+<p class="cabeza_tabla">5</p>
+</th>
+<th>
+<p class="cabeza_tabla">6</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NP líquido.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub>: 6%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 2%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico:4%.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">– pH.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">– N total.</p>
+<p class="cuerpo_tabla_izq">– N orgánico.</p>
+<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en agua.</p>
+<p class="cuerpo_tabla_izq">– En suspensión: P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
+<p class="cuerpo_tabla_izq">– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O total (si supera el 1 %).</p>
+<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– En los tipos con turba, indicar su contenido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NP líquido con turba.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub>: 6%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 2%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 4%.</p>
+<p class="cuerpo_tabla_izq">– Turba: 5%.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+3.6 NK sólidos.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th>
+<p class="cabeza_tabla">Denominación del tipo</p>
+</th>
+<th>
+<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
+<p class="cabeza_tabla">Otros requisitos</p>
+</th>
+<th>
+<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th>
+<p class="cabeza_tabla">1</p>
+</th>
+<th>
+<p class="cabeza_tabla">2</p>
+</th>
+<th>
+<p class="cabeza_tabla">3</p>
+</th>
+<th>
+<p class="cabeza_tabla">4</p>
+</th>
+<th>
+<p class="cabeza_tabla">5</p>
+</th>
+<th>
+<p class="cabeza_tabla">6</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NK.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + K<sub>2</sub>O: 8%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+</td>
+<td> </td>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">– N total.</p>
+<p class="cuerpo_tabla_izq">– N orgánico.</p>
+<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O<sub> </sub> soluble en agua.</p>
+<p class="cuerpo_tabla_izq">– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> total (si supera el 1 %).</p>
+<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NK con turba.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + K<sub>2</sub>O: 8%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p class="cuerpo_tabla_izq">– Turba: 5%.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">03</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NK con lignito o leonardita.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + K<sub>2</sub>O: 8%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p class="cuerpo_tabla_izq">– Lignito o leonardita 5%.</p>
+</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+3.7 NK líquidos.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th>
+<p class="cabeza_tabla">Denominación del tipo</p>
+</th>
+<th>
+<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
+<p class="cabeza_tabla">Otros requisitos</p>
+</th>
+<th>
+<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th>
+<p class="cabeza_tabla">1</p>
+</th>
+<th>
+<p class="cabeza_tabla">2</p>
+</th>
+<th>
+<p class="cabeza_tabla">3</p>
+</th>
+<th>
+<p class="cabeza_tabla">4</p>
+</th>
+<th>
+<p class="cabeza_tabla">5</p>
+</th>
+<th>
+<p class="cabeza_tabla">6</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NK líquido.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + K<sub>2</sub>O<sub> </sub>: 6%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O<sub> </sub>: 2%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico:4%.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">– pH.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">– N total.</p>
+<p class="cuerpo_tabla_izq">– N orgánico.</p>
+<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O<sub> </sub> soluble en agua.</p>
+<p class="cuerpo_tabla_izq">– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua (si supera el 1%).</p>
+<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– En los tipos con turba, indicar su contenido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral NK líquido con turba.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– N + K<sub>2</sub>O<sub> </sub>: 6%.</p>
+<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O<sub> </sub>: 2%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 4%.</p>
+<p class="cuerpo_tabla_izq">– Turba: 5%.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+3.8 PK sólidos.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th>
+<p class="cabeza_tabla">Denominación del tipo</p>
+</th>
+<th>
+<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
+<p class="cabeza_tabla">Otros requisitos</p>
+</th>
+<th>
+<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th>
+<p class="cabeza_tabla">1</p>
+</th>
+<th>
+<p class="cabeza_tabla">2</p>
+</th>
+<th>
+<p class="cabeza_tabla">3</p>
+</th>
+<th>
+<p class="cabeza_tabla">4</p>
+</th>
+<th>
+<p class="cabeza_tabla">5</p>
+</th>
+<th>
+<p class="cabeza_tabla">6</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral PK.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>+ K<sub>2</sub>O: 8%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>: 3 %.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+</td>
+<td> </td>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O soluble en agua.</p>
+<p class="cuerpo_tabla_izq">– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– N total (si supera el 1 %).</p>
+<p class="cuerpo_tabla_izq">– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral PK con turba.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>+ K<sub>2</sub>O: 8%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>: 3%.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p class="cuerpo_tabla_izq">– Turba: 5%.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">03</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral PK con lignito o leonardita.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>+ K<sub>2</sub>O: 8%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>: 3%.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p class="cuerpo_tabla_izq">– Lignito o leonardita 5%.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">04</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral PK (con o sin turba) con fosfato roca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de abonos orgánicos u otras materias orgánicas, con o sin turba, con abonos minerales, incluyendo fosfato roca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>+ K<sub>2</sub>O: 8%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua: 3%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales: 2%.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p class="cuerpo_tabla_izq">– En los productos con turba 5%.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">En el caso de P<sub>2</sub>O<sub>5</sub>, tanto la denominación del tipo como el nombre comercial deberán hacer mención únicamente al P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O soluble en agua.</p>
+<p class="cuerpo_tabla_izq">-– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+<p class="cuerpo_tabla_izq">– Contenido de turba si está presente.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+3.9 PK líquidos.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th>
+<p class="cabeza_tabla">Denominación del tipo</p>
+</th>
+<th>
+<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
+<p class="cabeza_tabla">Otros requisitos</p>
+</th>
+<th>
+<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th>
+<p class="cabeza_tabla">1</p>
+</th>
+<th>
+<p class="cabeza_tabla">2</p>
+</th>
+<th>
+<p class="cabeza_tabla">3</p>
+</th>
+<th>
+<p class="cabeza_tabla">4</p>
+</th>
+<th>
+<p class="cabeza_tabla">5</p>
+</th>
+<th>
+<p class="cabeza_tabla">6</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral PK líquido.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub> + K<sub>2</sub>O<sub> </sub>: 6%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>: 2 %.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O<sub> </sub>: 2%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico:4%.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">– pH.</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en agua.</p>
+<p class="cuerpo_tabla_izq">– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O soluble en agua.</p>
+<p class="cuerpo_tabla_izq">– C orgánico.</p>
+<p class="cuerpo_tabla_izq">– N total (si supera el 1%).</p>
+<p class="cuerpo_tabla_izq">– Contenido en turba.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Abono órgano-mineral PK líquido con turba.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub> + K<sub>2</sub>O<sub> </sub>: 6%.</p>
+<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>: 2 %.</p>
+<p class="cuerpo_tabla_izq">– K<sub>2</sub>O<sub> </sub>: 2%.</p>
+<p class="cuerpo_tabla_izq">– C orgánico:4%.</p>
+<p class="cuerpo_tabla_izq">– Turba: 5%.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Grupo 4. Otros abonos y productos especiales
+
+Nota: El uso de conservantes para evitar la contaminación microbiana en productos fertilizantes se encuentra dentro del ámbito de aplicación del Reglamento (UE) n.º 528/2012, del Parlamento Europeo y del Consejo, de 22 de mayo de 2012, relativo a la comercialización y el uso de los biocidas. No se podrán utilizar sustancias que no se correspondan con el tipo de producto 6 según el anexo V del citado reglamento y que se encuentren en la Lista Europea de Sustancias Activas o en el Programa de Revisión notificadas para tipo 6. Igualmente, el etiquetado del producto final al que se le adicionan estos conservantes, deberá cumplir con lo requerido en los artículos 58 y 94 del Reglamento 528/2012.
+
+4.1 Productos especiales.
+
+tr class="row_column_4">
+
+tr class="row_column_15">
+
+| N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en nutrientes (porcentaje en masa)<br>Otros requisitos | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse.<br>Formas y solubilidad de los nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 01 | Aminoácidos. | Producto a base de aminoácidos libres, incluidos en la tabla 4.3, obtenidos por algunos de los siguientes procesos:<br>– Hidrólisis de proteínas.<br>– Síntesis<br>– Fermentación. | – Aminoácidos libres: 6%.<br>– Peso molecular inferior a 10.000 dalton, en el caso de que el origen de las proteínas sea especies de rumiantes.<br>– Declarar el origen de los aminoácidos. | – pH.<br>La denominación del tipo podrá ir seguida, según los casos, por una o varias de las menciones siguientes:<br>– Para aplicación foliar.<br>– Para preparación de soluciones nutritivas.<br>– Para fertirrigación. | – Aminoácidos libres.<br>– Nitrógeno total.<br>– Nitrógeno orgánico.<br>– Otras formas de N (si superan el 1%).<br>– Aminograma cualitativo con la cuantificación, al menos, de aquellos aminoácidos que superen el 20% del total. |
+| 02 | Abono con aminoácidos. | Abono CE de los grupos A, B, C, D o E o abono del grupo 1, al que se han incorporado aminoácidos del tipo 01. | – Aminoácidos libres: 2%.<br>– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 7%, en el caso de que contenga alguno de estos elementos en forma mineral.<br>– En el resto de los abonos, incluidos los abonos inorgánicos con un solo nutriente principal, lo exigido para el tipo de que se trate .<br>– Peso molecular inferior a 10.000 dalton, en el caso de que el origen de las proteínas sea especies de rumiantes.<br>– Declarar el origen de los aminoácidos. | – pH.<br>La denominación del tipo podrá ir seguida, según los casos, por una o varias de las menciones siguientes:<br>– Para aplicación foliar.<br>– Para preparación de soluciones nutritivas.<br>– Para fertirrigación. | – Aminoácidos libres.<br>– Nitrógeno total.<br>– Nitrógeno orgánico.<br>– Todo lo exigido para el abono al que se adicionan los aminoácidos.<br>– Aminograma cualitativo con la cuantificación, al menos, de aquellos aminoácidos que superen el 20% del total. |
+| 03a | Ácidos húmicos de turba leonardita o lignito. | Producto obtenido por tratamiento de turba, leonardita o lignito con hidróxido potásico, que contiene fundamentalmente ácidos húmicos. | Ácidos húmicos 7 %.<br>Extracto húmico total (ácidos húmicos + ácidos fúlvicos) 15 %. | Origen de las materias primas utilizadas.<br>pH. | Extracto húmico total.<br>Ácidos húmicos.<br>Ácidos fúlvicos.<br>N total (si supera el 1 %).<br>K<sub>2</sub>O soluble en agua (si supera el 1 %).<br>P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y agua, si supera el 1 %. |
+| 03b | Ácidos húmicos de enmienda orgánica. | Producto obtenido por tratamiento o procesado de alguna de las enmiendas orgánicas de los grupos 6.01.a, 6.01.b o 6.01.c, que contiene fundamentalmente ácidos húmicos. | Ácidos húmicos 7 %.<br>Extracto húmico total (ácidos húmicos + ácidos fúlvicos) 15 %. | Origen de las materias primas utilizadas.<br>pH.<br>Número de inscripción de la enmienda orgánica en el Registro de productos fertilizantes. | Extracto húmico total.<br>Ácidos húmicos.<br>Ácidos fúlvicos.<br>N total (si supera el 1 %).<br>K<sub>2</sub>O soluble en agua (si supera el 1 %).<br>P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y agua, si supera el 1 %. |
+| 04 | Abono con ácidos húmicos. | Abono CE de los grupos A, B, C, D o E o abono del grupo 1, al que se han incorporado ácidos húmicos de los tipos 03a y 03b. | – Ácidos húmicos: 3%.<br>– Extracto húmico total (ácidos húmicos + ácidos fúlvicos): 6%.<br>– Todos los requisitos exigidos para el abono al que se adicionan los ácidos húmicos. | – Origen de las materias primas utilizadas.<br>– pH.<br>– Número de inscripción de la enmienda orgánica en el Registro de productos fertilizantes. | – Todo lo exigido para el abono al que se adicionan los ácidos húmicos.<br>– Extracto húmico total.<br>– Ácidos húmicos.<br>– Ácidos fúlvicos.<br>– N total (si supera el 1%).<br>– K<sub>2</sub>O soluble en agua, (si supera el 1%). |
+| 05 | Extracto de algas sólido. | Producto a base de extracto del alga *Ascophyllum nodosum,* obtenido por extracción física (deshidratación, trituración, percolación y evaporación) o extracción con soluciones alcalinas (potasa). | – Ácido algínico: 9%.<br>– Manitol: 3%.<br>– Arsénico (As) <50 mg/kg. | – pH.<br>– Conductividad eléctrica.<br>– la denominación del tipo podrá ir seguida, según los casos, por una o varias de las menciones siguientes:<br>– para aplicación foliar.<br>– para preparación de soluciones nutritivas.<br>– para fertirrigación. | – Ácido algínico.<br>– Manitol.<br>– K<sub>2</sub>O soluble en agua (si supera el 10%).<br>– Nitrógeno total (N) (si supera el 1%).<br>– Aminoácidos libres (de la tabla 4.3, siempre que provengan del alga y si superan el 1%).<br>– Identificación de la especie. |
+| 06 | Extracto de algas líquido. | Producto obtenido por disolución acuosa del tipo 05 o producto obtenido a base de extracto líquido del alga *Ascophyllum nodosum* obtenido por extracción física o extracciones con soluciones alcalinas (potasa) o a base de extracto líquido del alga *Ecklonia maxima* por extracción física exclusivamente. | En el caso del alga *Ascophyllum nodosum*:<br>-Ácido algínico: 1,5 %<br>-Manitol: 0,5%<br>– Arsénico (As) < 50 mg/kg.<br>En el caso del alga *Ecklonia maxima*:<br>– Ácido algínico: 0,5 %<br>– Arsénico (As) < 50 mg/kg. | pH.<br>Conductividad eléctrica.<br>La denominación del tipo podrá ir seguida, según los casos, por una o varias de las menciones siguientes:<br>– Para aplicación foliar.<br>– Para preparación de soluciones nutritivas.<br>– Para fertirrigación. | – Ácido algínico.<br>– Manitol (no se exigirá para *E. maxima*).<br>– K<sub>2</sub>O soluble en agua si supera el 2,5 %).<br>– Nitrógeno total (N) (si supera el 1 %).<br>– Aminoácidos libres (de la tabla 4.3 siempre que provengan del alga y si superan el 1%).<br>– Identificación de la especie. |
+| 07a | Abono sólido con extracto de algas. | Abono sólido CE de los grupos A, B, D o E, o abono sólido del grupo 1 al que se le ha incorporado extracto de algas del tipo 05. | – Manitol: 1%.<br>– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 10%, en el caso de que contenga alguno de estos elementos en forma mineral.<br>– En el resto de los abonos simples, lo exigido para el tipo de que se trate.<br>– Arsénico (As) <50 mg/kg. | – pH.<br>– Conductividad eléctrica.<br>– la denominación del tipo podrá ir seguida, según los casos, por una o varias de las menciones siguientes:<br>– para aplicación foliar.<br>– para preparación de soluciones nutritivas.<br>– para fertirrigación. | – Manitol.<br>– Aminoácidos (de la tabla 4.3, siempre que provengan del alga y si superan el 1%.<br>– Todo lo exigido para el abono al que se adiciona el extracto de algas.<br>– Identificación de la especie. |
+| 07b | Abono líquido con extracto de algas. | Abono líquido CE de los grupos C, D o E, o abono líquido del grupo 1 al que se le ha incorporado extracto de algas del tipo 06 de la especie As*cophyllum nodosum.* | – Manitol: 0,1% .<br>– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 7%, en el caso de que contenga alguno de estos elementos en forma mineral.<br>– En el resto de los abonos simples, lo exigido para el tipo de que se trate.<br>– Arsénico (As) <50 mg/kg. | – pH.<br>– Conductividad eléctrica.<br>– la denominación del tipo podrá ir seguida, según los casos, por una o varias de las menciones siguientes:<br>– para aplicación foliar.<br>– para preparación de soluciones nutritivas.<br>– para fertirrigación. | – Manitol.<br>– Aminoácidos (de la tabla 4.3, siempre que provengan del alga y si superan el 1%.<br>– Todo lo exigido para el abono al que se adiciona el extracto de algas. |
+| 08 | Producto líquido a base de silicio. | Producto en suspensión coloidal de SiO<sub>2</sub> amorfo procedente de silicato potásico o silicato sódico. | 30% SiO<sub>2</sub> amorfo suspendido en agua. | En el etiquetado deberán figurar las siguientes menciones:<br>– Uso exclusivo por aplicación radicular. No deberá aplicarse por pulverización, atomización, nebulización u otros métodos que puedan hacer al producto susceptible de inhalación.<br>– Uso exclusivo para usuarios profesionales.<br>– Contiene nanomaterial: dióxido de silicio.<br>– Contenido en Na<sub>2</sub>O, K<sub>2</sub>O o ambos, según corresponda. | Óxido de silicio amorfo (SiO<sub>2</sub>). |
+| 09 | Abono sólido a base de silicio. | Producto obtenido por fusión de arena con carbonato de potasio. | – SiO<sub>2</sub>>50% p/p.<br>– K<sub>2</sub>O >20% p/p.<br>– La Relación Molar SiO<sub>2</sub>/K<sub>2</sub>O deberá ser superior a 3,2.<br>– El pH de los preparados deberá ser inferior a 11,5 y mayor de 2.<br>– La cantidad de sílice cristalina en la fracción respirable (5µm) deberá ser inferior al 0,1%. | En el etiquetado deberán figurar las siguientes menciones:<br>– pH.<br>– Uso exclusivo por aplicación radicular. No deberá aplicarse por pulverización, atomización, nebulización u otros métodos que puedan hacer al producto susceptible de inhalación.<br>– Uso exclusivo para usuarios profesionales.<br>– Contiene nanomaterial: dióxido de silicio. | Óxido de silicio amorfo (SiO<sub>2</sub>).<br>Óxido de potasio (K<sub>2</sub>O) soluble en agua.<br>Grado de solubilidad en agua. |
+| 10 | Mezcla líquida a base de silicio y Aminoácidos. | Producto obtenido de la mezcla del tipo 08 al que se han incorporado aminoácidos del tipo 01. | – 8% de SiO<sub>2</sub> amorfo suspendido en agua.<br>– Aminoácidos libres 3%.<br>– Peso molecular inferior a 10.000 dalton, en el caso de que el origen de las proteínas sea especies de rumiantes.<br>– El pH de los preparados deberá ser menor o igual a 12,7 y mayor de 2.<br>– La cantidad de sílice cristalina en la fracción respirable (5µm) deberá ser inferior al 0,1%.<br>– Declarar el origen de los aminoácidos. | En el etiquetado deberán figurar las siguientes menciones:<br>– pH.<br>– Uso exclusivo por aplicación radicular. No deberá aplicarse por pulverización, atomización, nebulización u otros métodos que puedan hacer al producto susceptible de inhalación.<br>– Uso exclusivo para usuarios profesionales.<br>– Contiene nanomaterial: dióxido de silicio. | – Óxido de silicio amorfo (SiO<sub>2</sub>).<br>– Aminoácidos libres (de la tabla 4.3).<br>– Nitrógeno total.<br>– Nitrógeno orgánico.<br>– Otras formas de N (si superan el 1%).<br>– Aminograma cualitativo con la cuantificación, al menos, de aquellos aminoácidos que superen el 20% del total. |
+| 11 | Mezcla sólida de aminoácidos y extracto de algas. | Producto obtenido de la mezcla del tipo 05 al que se han incorporado aminoácidos del tipo 01. | – Aminoácidos libres: 2%.<br>– Peso molecular inferior a 10.000 dalton, en el caso de que el origen de las proteínas sea especies de rumiantes.<br>– Ácido algínico: 3%.<br>– Manitol: 1%.<br>– Declarar el origen de los aminoácidos.<br>– Arsénico (As) < 50 mg/kg. | – pH.<br>– Conductividad eléctrica.<br>La denominación del tipo podrá ir seguida, según los casos, por una o varias de las menciones siguientes:<br>– Para aplicación foliar.<br>– Para preparación de soluciones nutritivas.<br>Para fertirrigación. | – Aminoácidos libres (de la tabla 4.3).<br>– Nitrógeno total.<br>– Nitrógeno orgánico.<br>– Otras formas de N (si superan el 1%).<br>– Aminograma cualitativo con la cuantificación, al menos, de aquellos aminoácidos que superen el 20% del total.<br>– Ácido algínico.<br>– Manitol. |
+| 12 | Mezcla líquida de aminoácidos y extracto de algas. | Producto obtenido de la mezcla del tipo 06 al que se han incorporado aminoácidos del tipo 01. | – Aminoácidos libres: 2%.<br>– Peso molecular inferior a 10.000 dalton, en el caso de que el origen de las proteínas sea especies de rumiantes.<br>– Ácido algínico: 0,5% (0,25% en el caso de *E. maxima*).<br>– Manitol: 0,1% (no se exige para *E. maxima*).<br>– Declarar el origen de los aminoácidos.<br>– Arsénico (As) < 50 mg/kg. | – pH.<br>– Conductividad eléctrica.<br>La denominación del tipo podrá ir seguida, según los casos, por una o varias de las menciones siguientes:<br>– Para aplicación foliar.<br>– Para preparación de soluciones nutritivas.<br>Para fertirrigación. | – Aminoácidos libres (de la tabla 4.3).<br>– Nitrógeno total.<br>– Nitrógeno orgánico.<br>– Otras formas de N (si superan el 1%).<br>– Aminograma cualitativo con la cuantificación, al menos, de aquellos aminoácidos que superen el 20% del total.<br>– Ácido algínico.<br>– Manitol (no se exigirá para *E. maxima*).<br>– Identificación de la especie. |
+| 13 | Abono sólido con extracto de algas y aminoácidos. | Abono sólido CE de los grupos A, B, D o E, o abono sólido del grupo 1 al que se le ha incorporado extracto de algas del tipo 05 y aminoácidos del tipo 01. | – Aminoácidos libres: 2%.<br>– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 10%, en el caso de que contenga alguno de estos elementos en forma mineral.<br>– En el resto de los abonos, incluidos los abonos inorgánicos con un solo nutriente principal, lo exigido para el tipo de que se trate.<br>– Peso molecular inferior a 10.000 dalton, en el caso de que el origen de las proteínas sea especies de rumiantes.<br>– Manitol: 1%.<br>– Declarar el origen de los aminoácidos.<br>– Arsénico (As) < 50 mg/kg. | – pH.<br>– Conductividad eléctrica.<br>La denominación del tipo podrá ir seguida, según los casos, por una o varias de las menciones siguientes:<br>– Para aplicación foliar.<br>– Para preparación de soluciones nutritivas.<br>– Para fertirrigación. | – Aminoácidos libres (de la tabla 4.3).<br>– Nitrógeno total.<br>– Nitrógeno orgánico.<br>– Todo lo exigido para el abono al que se adicionan los aminoácidos.<br>– Aminograma cualitativo con la cuantificación, al menos, de aquellos aminoácidos que superen el 20% del total.<br>– Manitol. |
+| 14 | Abono líquido con extracto de algas y aminoácidos. | Abono líquido CE de los grupos C, D o E, o abono líquido del grupo 1 al que se le ha incorporado extracto de algas del tipo 06 de la especie *Ascophyllum nodosumy* aminoácidos del tipo 01. | – Aminoácidos libres: 2%.<br>– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 7%, en el caso de que contenga alguno de estos elementos en forma mineral.<br>– En el resto de los abonos, incluidos los abonos inorgánicos con un solo nutriente principal, lo exigido para el tipo de que se trate.<br>– Peso molecular inferior a 10.000 dalton, en el caso de que el origen de las proteínas sea especies de rumiantes.<br>– Manitol: 0,1%.<br>– Declarar el origen de los aminoácidos.<br>– Arsénico (As) < 50 mg/kg. | – pH.<br>– Conductividad eléctrica.<br>La denominación del tipo podrá ir seguida, según los casos, por una o varias de las menciones siguientes:<br>– Para aplicación foliar.<br>– Para preparación de soluciones nutritivas.<br>– Para fertirrigación. | – Aminoácidos libres (de la tabla 4.3).<br>– Nitrógeno total.<br>– Nitrógeno orgánico.<br>– Todo lo exigido para el abono al que se adicionan los aminoácidos.<br>– Aminograma cualitativo con la cuantificación, al menos, de aquellos aminoácidos que superen el 20% del total.<br>– Manitol. |
+| 15 | Acondicionadores de la hidratación. | Producto líquido a base de carboximetil-celulosa (CMC), en la que la celulosa procede directamente de vegetales fibrosos, obtenida por extracción con ácido monocloroacético y sosa cáustica. | – CMC disuelta en agua > 30% p/p.<br>– CMC en sustancia anhidra ≥ 99,5 %.<br>– Pureza igual a la descrita para el aditivo alimentario “Carboximetilcelulosa”.<br>– Viscosidad (25ªC) 2000-5000 mPa.<br>– As < 3 ppm.<br>– Pb < 2 ppm.<br>– Hg < 1 ppm.<br>– Cd < 1 ppm.<br>– Glicolato total inferior al 1%.<br>– Glicolato total en la CMC no superior a 0.4% expresado como glicolato sódico en sustancia anhidra.<br>– Na < 12,4 % en sustancia anhidra. | – pH.<br>– Densidad.<br>– Indicaciones de uso y periodo de aplicación previo a cosecha. | – CMC disuelta en agua.<br>– CMC en sustancia anhidra.<br>– Viscosidad.<br>– Contenido en metales pesados.<br>– Glicolato.<br>– Na. |
+| 16 | Abono a base de Lipo-Quito-oligosacáridos (LCOs) SP-104. | Componente obtenido por síntesis química. | Contenido en LCOs entre 3,6 x 10<sup>-7</sup> y 3,5 x 10<sup>-5</sup> %. | Para uso exclusivo de tratamiento de semillas de cultivos extensivos.<br>Dosis de aplicación. | Contenido de LCO expresado como % p/p. |
+
+4.2 Abonos con inhibidores de la nitrificación y de la ureasa.
+
+| N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en nutrientes (porcentaje en masa)<br>Otros requisitos | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse.<br>Formas y solubilidad de los nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 01 | Abono con inhibidor de la nitrificación. | Abono CE nitrogenado, simple o compuesto, o abono nitrogenado del grupo 1, cuyo contenido en nitrógeno total en forma nitrificable (amoniacal, ureica o cianamídica es al menos el 50 % del nitrógeno total, al que se ha adicionado un inhibidor de la nitrificación mencionado en la tabla A del grupo 4.2. | Todos los requisitos exigidos para el abono. | – pH. | – Todo lo exigido para el abono al que se adicionan los inhibidores de la nitrificación.<br>– Nombre del inhibidor (mencionado en la tabla A) y su porcentaje en relación con el nitrógeno en forma nitrificable. |
+| 02 | Abono con inhibidor de la ureasa. | Abono CE nitrogenado, simple o compuesto, o abono nitrogenado del grupo 1, cuyo contenido en nitrógeno ureico es al menos el 50 % del nitrógeno total, al que se ha adicionado un inhibidor de la ureasa mencionado en la tabla B del grupo 4.2. | Todos los requisitos exigidos para el abono. | – pH. | – Todo lo exigido para el abono al que se adicionan los inhibidores de la ureasa.<br>– Nombre del inhibidor (mencionado en la tabla B) y su porcentaje en relación con el nitrógeno ureico. |
+
+Los inhibidores de la nitrificación y de la ureasa enumerados en los cuadros A y B siguientes podrán añadirse a los tipos de abonos del grupo 1 de este real decreto, para los que se cumpla lo siguiente:
+
+1) al menos el 50% del contenido total de nitrógeno del abono debe consistir en formas de nitrógeno especificadas en la columna 3;
+
+2) no deben encontrarse entre los tipos de abono mencionados en la columna 4.
+
+En el caso de los abonos a los que se haya añadido uno de los inhibidores de la nitrificación enumerados en el cuadro A, deberá añadirse a la denominación de su tipo la expresión “con inhibidor de la nitrificación ([denominación del tipo de inhibidor de la nitrificación])”, así como su porcentaje en relación con el nitrógeno nitrificable.
+
+En el caso de los abonos a los que se haya añadido uno de los inhibidores de la ureasa enumerados en el cuadro B, deberá añadirse a la denominación de su tipo la expresión “con inhibidor de la ureasa ([denominación del tipo de inhibidor de la ureasa])”, así como su porcentaje en relación con el nitrógeno ureico.
+
+La persona responsable de la comercialización deberá incluir información técnica, lo más completa posible, en cada envase o entrega a granel. Esta información deberá permitir que el usuario, en particular, determine las dosis y los periodos de aplicación en función del cultivo de que se trate.
+
+Podrán incluirse nuevos inhibidores de la nitrificación o de la ureasa en los cuadros A y B, respectivamente, previa evaluación de los expedientes técnicos presentados de conformidad con el anexo VII.
+
+A. Inhibidores de la nitrificación.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">N.º</p>
+</th>
+<th>
+<p class="cabeza_tabla">Denominación del tipo y composición del inhibidor de la nitrificación</p>
+</th>
+<th>
+<p class="cabeza_tabla">Contenido mínimo y máximo de inhibidor expresado como porcentaje en masa referido al nitrógeno amónico, ureico y cianamídico</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de abonos para los que no puede utilizarse el inhibidor</p>
+</th>
+<th>
+<p class="cabeza_tabla">Descripción de los inhibidores de la nitrificación con los que las mezclas están autorizadas Datos sobres los porcentajes permitidos</p>
+</th>
+</tr>
+<tr>
+<th>
+<p class="cabeza_tabla">1</p>
+</th>
+<th>
+<p class="cabeza_tabla">2</p>
+</th>
+<th>
+<p class="cabeza_tabla">3</p>
+</th>
+<th>
+<p class="cabeza_tabla">4</p>
+</th>
+<th>
+<p class="cabeza_tabla">5</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_centro">01</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Diciandiamida (DCD).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mínimo: 3%.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Máximo: 10%.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_centro">02</p>
+</td>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">3,4-dimetilpirazolfosfato (DMPP).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mínimo: 0,8%.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Máximo: 2%.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">03</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Diciandiamida (DCD)-Soluble.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mínimo: 0,15 %.</p>
+<p class="cuerpo_tabla_izq">Máximo: 0,8 %.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="row_column_23">
+<td>
+<p class="cuerpo_tabla_centro">04</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mezcla isomérica de ácido 2-(3,4-dimetilpirazol-1-il)-succínico y ácido 2-(4,5-dimetilpirazol-1il)-succínico (DMPSA). CE No 940-877-5</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mínimo 0,8 %.</p>
+<p class="cuerpo_tabla_izq">Máximo 1,6 %.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+| N.<sup>o</sup> | Denominación del tipo y composición del inhibidor de la nitrificación | Contenido mínimo y máximo de inhibidor expresado como porcentaje en masa del nitrógeno total presente como nitrógeno amónico y nitrógeno ureico | Tipos de abonos para los que no puede utilizarse el inhibidor | Descripción de los inhibidores de la nitrificación con los que las mezclas están autorizadas<br>Datos sobre los porcentajes permitidos |
+|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 |
+| 1 | Diciandiamida<br>N.<sup>o</sup> ELINCS 207-312-8 | Mínimo 2,25<br>Máximo 4,5 |  |  |
+| 2 | Productos que contengan diciandiamida (DCD) y 1,2,4- triazol (TZ)<br>N.<sup>o</sup> EC (EINECS): 207- 312-8<br>N.<sup>o</sup> EC (EINECS): 206- 022-9 | Mínimo 2,0<br>Máximo 4,0 |  | Proporción de la mezcla 10:1<br>(DCD:TZ) |
+| 3 | Productos que contengan 1,2,4-triazol (TZ) y 3-metilpirazol (MP)<br>N.<sup>o</sup> EC (EINECS): 206- 022-9<br>N.<sup>o</sup> EC (EINECS): 215- 925-7 | Mínimo 0,2<br>Máximo 1,0 |  | Proporción de la mezcla 2:1<br>(TZ:MP) |
+| 4. | 3,4-dimetil- 1H-pirazol fosfato (DMPP)<br>N.<sup>o</sup> EC 424-640-9 | Mínimo: 0,8<br>Máximo: 1,6 |  |  |
+| 5 | Mezcla isomérica de ácido 2-(3,4-dimetilpirazol-1-il)- succínico y ácido 2-(4,5-dimetilpirazol-1-il)-succínico (DMPSA)<br>N.<sup>o</sup> CE 940-877-5 | Mínimo: 0,8<br>Máximo: 1,6 |  |  |
+
+B. Inhibidores de la ureasa.
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="3%">
+<col width="43%">
+<col width="18%">
+<col width="18%">
+<col width="18%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">N.<sup>o</sup></th>
+<th class="cabeza_tabla">Denominación del tipo y composición del inhibidor de la ureasa</th>
+<th class="cabeza_tabla">Contenido mínimo y máximo de inhibidor expresado como porcentaje en masa del nitrógeno total presente como nitrógeno ureico</th>
+<th class="cabeza_tabla">Tipos de abonos para los que no puede utilizarse el inhibidor</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Descripción de los inhibidores de la ureasa con los que las mezclas están autorizadas</p>
+<p class="cabeza_tabla">Datos sobre los porcentajes permitidos</p>
+</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq">Monocarbamidadihidrógeno sulfato (MCDHS).</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Mínimo: 1%.</p>
+<p class="cuerpo_tabla_izq">Máximo: 4%.</p>
+</td>
+<td class="cuerpo_tabla_izq">Cualquier abono distinto de: «abonos nitrogenados simples que tengan exclusivamente N ureico»</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Triamida N-(n-butil) tiofosfórica (NBPT)</p>
+<p class="cuerpo_tabla_izq">N<sup>o</sup> ELINCS 435-740-7</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Mínimo 0,09</p>
+<p class="cuerpo_tabla_izq">Máximo 0,20</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">N-(2-nitrofenil) triamida de ácido fosfórico (2-NPT) N<sup>o</sup> EC (EINECS): 477- 690-9</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Mínimo 0,04</p>
+<p class="cuerpo_tabla_izq">Máximo 0,15</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Mezcla de triamida N-butil- tiofosfórica (NBPT) y triamida N-propil-tiofosfórica (NPPT) (relación 3:1) (1)</p>
+<p class="cuerpo_tabla_izq">Mezcla de reacción:</p>
+<p class="cuerpo_tabla_izq">N.<sup>o</sup> EC 700-457-2</p>
+<p class="cuerpo_tabla_izq">Mezcla de NBPT/NPPT:</p>
+<p class="cuerpo_tabla_izq">NBPT: N.<sup>o</sup> ELINCS</p>
+<p class="cuerpo_tabla_izq">435-740-7</p>
+<p class="cuerpo_tabla_izq">NPPT: N.<sup>o</sup> CAS</p>
+<p class="cuerpo_tabla_izq">916809-14-8</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Mínimo: 0,02</p>
+<p class="cuerpo_tabla_izq">Máximo: 0,3</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="5">
+<p class="cita">(1) Tolerancia en la parte de NPPT: 20 %.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+4.3 Lista de aminoácidos.
+
+| Nombre | Abreviatura |
+|---|---|
+| Alanina | Ala |
+| Arginina | Arg |
+| Ácido aspártico | Asp |
+| Ácido glutámico | Glu |
+| Glicina | Gly |
+| Hidroxiprolina | Hip |
+| Histidina | His |
+| Isoleucina | Ile |
+| Leucina | Leu |
+| Lisina | Lys |
+| Metionina | Met |
+| Fenilalanina | Phe |
+| Prolina | Pro |
+| Serina | Ser |
+| Tirosina | Tyr |
+| Treonina | Thr |
+| Triptófano | Trp |
+| Valina | Val |
+
+4.4 Productos especiales basados en microorganismos.
+
+| N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo<br>Otros requisitos | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse.<br>Formas y solubilidad de los nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 01 | Micorrizas. | Producto a base de micorrizas. | – Identificación de las cepas de micorrizas (secuencias moleculares).<br>– Inóculo de cada cepa (con eficiencia agronómica demostrada por ensayos según anexo VIII). | – Incompatibilidades.<br>– Sustrato .<br>– Grupo de cultivos autorizados y condiciones de uso.<br>– Fecha de caducidad. | – Identificación (género y especie).<br>– Inóculo de cada cepa. |
+| 02 | Abono con micorrizas. | Abono CE de los grupos A, B, C, D o E o Producto fertilizante de los grupos 1, 2, 3 y 4 al que se han incorporado micorrizas del tipo 01. | – Todos los requisitos exigidos al tipo 01.<br>– Todos los requisitos exigidos al abono al que se adicionan las micorrizas. | – Incompatibilidades.<br>– Sustrato.<br>– Fecha de caducidad.<br>– Grupo de cultivos autorizados y condiciones de uso. | – Identificación (género y especie).<br>– Inóculo de cada cepa.<br>– Todos los requisitos exigidos al abono al que se adicionan las micorrizas. |
+| 03 | Microorganismos no micorrícicos. | Producto a base de microorganismos no micorrizas. | – Identificación de las cepas de microorganismos (secuencias moleculares).<br>– Inóculo de cada cepa mínimo para cada microorganismo presente 10<sup>7</sup>ufc/ml o 10<sup>7</sup>ufc/g, salvo que se demuestre la eficiencia según el protocolo mencionado en el anexo VIII. | – Incompatibilidades.<br>– Sustrato.<br>– Grupo de cultivos autorizados y condiciones de uso.<br>– Fecha de caducidad. | – Identificación (género y especie).<br>– Inóculo de cada cepa. |
+| 04 | Abono con microorganismos no micorrícicos. | Abono CE de los grupos A, B, C, D o E o Producto fertilizante de los grupos 1, 2, 3 y 4 al que se han incorporado microorganismos del tipo 03. | – Todos los requisitos exigidos al tipo 03.<br>– Todos los requisitos exigidos al abono al que se adicionan los organismos no micorrícicos. | – Incompatibilidades.<br>– Sustrato.<br>– Fecha de caducidad.<br>– Grupo de cultivos autorizados y condiciones de uso. | – Identificación (género y especie).<br>– Inóculo de cada cepa.<br>– Todos los requisitos exigidos al abono al que se adicionan los organismos no micorrícicos. |
+| 05 | Mezcla de microorganismos. | Producto a base de micorrizas y microorganismos no micorrícicos de los tipos 01 y 03. | – Todos los requisitos exigidos al tipo 01.<br>– Todos los requisitos exigidos al tipo 03. | – Incompatibilidades.<br>– Sustrato.<br>– Fecha de caducidad.<br>– Grupo de cultivos autorizados y condiciones de uso. | – Identificación (género y especie).<br>– Inóculo de cada cepa. |
+| 06 | Abono con microorganismos. | Abono CE de los grupos A, B, C, D o E o Producto fertilizante de los grupos 1, 2, 3 y 4 al que se ha incorporado mezcla de micorrizas y microorganismos no micorrícicos del tipo 05. | – Todos los requisitos exigidos al tipo 01.<br>– Todos los requisitos exigidos al tipo 03.<br>– Todos los requisitos exigidos al abono al que se adiciona la mezcla de microorganismos. | – Incompatibilidades.<br>– Sustrato.<br>– Fecha de caducidad.<br>– Grupo de cultivos autorizados y condiciones de uso. | – Identificación (género y especie).<br>– Inóculo de cada cepa.<br>– Todos los requisitos exigidos al abono al que se adicionan la mezcla de microorganismos. |
+
+Grupo 5. Enmiendas calizas (cálcicas o magnésicas)
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="3%">
+<col width="19%">
+<col width="20%">
+<col width="20%">
+<col width="19%">
+<col width="19%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">Denominación del tipo</th>
+<th class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
+<p class="cabeza_tabla">Otros requisitos</p>
+</th>
+<th class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p class="cabeza_tabla">Formas y solubilidad de los nutrientes.</p>
+<p class="cabeza_tabla">Otros criterios</p>
+</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">1</th>
+<th class="cabeza_tabla">2</th>
+<th class="cabeza_tabla">3</th>
+<th class="cabeza_tabla">4</th>
+<th class="cabeza_tabla">5</th>
+<th class="cabeza_tabla">6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">01</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Enmienda caliza</p>
+<p class="cuerpo_tabla_izq">Carbonato cálcico</p>
+</td>
+<td class="cuerpo_tabla_izq">Producto de origen natural conteniendo como componente esencial el carbonato cálcico</td>
+<td class="cuerpo_tabla_izq">– 35% de CaO en forma de carbonato cálcico</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Carbonato de cal</p>
+<p class="cuerpo_tabla_izq">– Piedra caliza</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– CaO total</p>
+<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
+<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">02</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Enmienda caliza</p>
+<p class="cuerpo_tabla_izq">Carbonato cálcico- magnésico</p>
+</td>
+<td class="cuerpo_tabla_izq">Producto de origen natural conteniendo como componente esencial el carbonato cálcico magnésico</td>
+<td class="cuerpo_tabla_izq">29% de CaO y 13% de MgO, ambos en forma de carbonato</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Dolomita</p>
+<p class="cuerpo_tabla_izq">– Dolomía</p>
+<p class="cuerpo_tabla_izq">– Caliza dolomítica</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">CaO total</p>
+<p class="cuerpo_tabla_izq">MgO total</p>
+<p class="cuerpo_tabla_izq">Clase granulométrica</p>
+<p class="cuerpo_tabla_izq">Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Enmienda caliza</p>
+<p class="cuerpo_tabla_izq">Carbonato cálcico magnésico calcinado</p>
+</td>
+<td class="cuerpo_tabla_izq">Producto obtenido por calcinación de carbonato cálcico magnésico, conteniendo como componentes esenciales CaO y MgO</td>
+<td class="cuerpo_tabla_izq">– 45% de CaO y 25% de MgO, ambos en forma de óxido</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Dolomita calcinada</p>
+<p class="cuerpo_tabla_izq">– Dolomía calcinada</p>
+<p class="cuerpo_tabla_izq">– Caliza dolomítica calcinada</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">CaO total</p>
+<p class="cuerpo_tabla_izq">MgO total</p>
+<p class="cuerpo_tabla_izq">Clase granulométrica</p>
+<p class="cuerpo_tabla_izq">Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">04</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Enmienda caliza</p>
+<p class="cuerpo_tabla_izq">Carbonato cálcico magnesico calcinado y apagado</p>
+</td>
+<td class="cuerpo_tabla_izq">Producto obtenido por calcinación e hidratación de carbonato cálcico magnésico.</td>
+<td class="cuerpo_tabla_izq">45% de CaO y 15% de MgO, ambos en forma de hidróxido</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Dolomita calcinada y apagada</p>
+<p class="cuerpo_tabla_izq">– Dolomía calcinada y apagada</p>
+<p class="cuerpo_tabla_izq">– Caliza dolomítica calcinada y apagada</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">CaO total</p>
+<p class="cuerpo_tabla_izq">MgO total</p>
+<p class="cuerpo_tabla_izq">Clase granulométrica</p>
+<p class="cuerpo_tabla_izq">Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">05</td>
+<td class="cuerpo_tabla_izq">Enmienda caliza Cal viva</td>
+<td class="cuerpo_tabla_izq">Producto obtenido por calcinación de roca caliza, conteniendo como componente esencial CaO</td>
+<td class="cuerpo_tabla_izq">– 77% de CaO en forma de óxido de calcio</td>
+<td class="cuerpo_tabla_izq">Podrán añadirse las denominaciones usuales en el comercio</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– CaO total</p>
+<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
+<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">06</td>
+<td class="cuerpo_tabla_izq">Enmienda caliza Cal apagada</td>
+<td class="cuerpo_tabla_izq">Producto obtenido por hidratación de la cal viva</td>
+<td class="cuerpo_tabla_izq">– 56% de CaO en forma de hidróxido</td>
+<td class="cuerpo_tabla_izq">Hidróxido de calcio</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– CaO total</p>
+<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
+<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">07</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Enmienda caliza</p>
+<p class="cuerpo_tabla_izq">Suspensión de cal</p>
+</td>
+<td class="cuerpo_tabla_izq">Producto obtenido por suspensión acuosa de alguno de los tipos 05 y/o 06</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– 25% de CaO en forma de hidróxido</p>
+<p class="cuerpo_tabla_izq">– Contenido en cloruro menor del 2%</p>
+<p class="cuerpo_tabla_izq">– Contenido en óxido de sodio menor del 2%</p>
+</td>
+<td class="cuerpo_tabla_izq">Lechada de cal</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– CaO total</p>
+<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
+<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">08</td>
+<td class="cuerpo_tabla_izq">Enmienda caliza Suspensión de cal y magnesio</td>
+<td class="cuerpo_tabla_izq">Producto obtenido por suspensión acuosa de hidróxidos u óxidos de calcio (tipos 04 y/o 05) y de hidróxido de magnesio (tipo abono CE )</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– 25% de (MgO + CaO), con un mínimo del 5% para cada uno de ellos</p>
+<p class="cuerpo_tabla_izq">– Contenido en cloruro menor del 2%</p>
+<p class="cuerpo_tabla_izq">– Contenido en óxido de sodio menor del 2%</p>
+</td>
+<td class="cuerpo_tabla_izq">Lechada de cal y magnesio, lechada de dolomía calcinada o suspensión de dolomía</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– CaO total</p>
+<p class="cuerpo_tabla_izq">– MgO total</p>
+<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
+<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">09</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Enmienda caliza</p>
+<p class="cuerpo_tabla_izq">Espuma de azucarería</p>
+</td>
+<td class="cuerpo_tabla_izq">Producto obtenido en el proceso de fabricación de azúcar a partir de remolacha</td>
+<td class="cuerpo_tabla_izq">– 20% de (CaO + MgO)</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– CaO total</p>
+<p class="cuerpo_tabla_izq">– Humedad</p>
+<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_izq">Enmienda caliza Margas</td>
+<td class="cuerpo_tabla_izq">Roca sedimentaria constituida esencialmente por mezcla de materiales calcáreos y arcillosos</td>
+<td class="cuerpo_tabla_izq">– 25% de CaO en forma de carbonato</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– CaO total</p>
+<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
+<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_izq">Enmienda caliza Carbonato magnésico</td>
+<td class="cuerpo_tabla_izq">Producto que contiene como componente esencial el carbonato magnésico</td>
+<td class="cuerpo_tabla_izq">– 40% de MgO en forma de carbonato</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– MgO total</p>
+<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
+<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Enmienda caliza</p>
+<p class="cuerpo_tabla_izq">Oxido de magnesio (magnesita)</p>
+</td>
+<td class="cuerpo_tabla_izq">Producto que contiene como componente esencial el óxido de magnesio</td>
+<td class="cuerpo_tabla_izq">– 20% de MgO en forma de óxido</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– MgO total</p>
+<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
+<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">13</td>
+<td class="cuerpo_tabla_izq">Enmienda caliza Merl</td>
+<td class="cuerpo_tabla_izq">Producto que contiene como componente esencial algas marinas calcificadas</td>
+<td class="cuerpo_tabla_izq">– 42% de CaO y 2,5% de MgO, ambos en forma de carbonato</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– CaO total</p>
+<p class="cuerpo_tabla_izq">– MgO total</p>
+<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
+<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Enmienda caliza</p>
+<p class="cuerpo_tabla_izq">Enmienda cálcica mixta</p>
+</td>
+<td class="cuerpo_tabla_izq">Producto obtenido por mezcla de enmiendas calizas contempladas en los tipos anteriores.</td>
+<td class="cuerpo_tabla_izq">– 25% de CaO</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– CaO total</p>
+<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
+<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">15</td>
+<td class="cuerpo_tabla_izq">Enmienda cálcico- magnésica mixta</td>
+<td class="cuerpo_tabla_izq">Producto obtenido por mezcla de enmiendas cálcicas y magnésicas contempladas en los tipos anteriores.</td>
+<td class="cuerpo_tabla_izq">– 25% de (CaO + MgO), con un mínimo del 5% para cada uno de ellos</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– CaO total</p>
+<p class="cuerpo_tabla_izq">– MgO total</p>
+<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
+<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p class="cita">NOTA: Clasificación granulométrica.</p>
+<p class="cita">Polvo: al menos el 98% ha de pasar por el tamiz de 1 mm, y el 80% por el de 0,25 mm</p>
+<p class="cita">Molido: al menos el 80% ha de pasar por el tamiz de 5 mm</p>
+<p class="cita">Granulado: producto en polvo, granulado artificialmente. La granulometria específica del producto deberá ser dada por el fabricante, y, al menos el 98% deberá pasar por el tamiz de 5 mm, salvo en los productos 04, 06, 14 y 15 de este grupo, que podrá llegar hasta 7mm.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Grupo 6 Enmiendas orgánicas
+
+Nota: El uso de conservantes para evitar la contaminación microbiana en productos fertilizantes se encuentra dentro del ámbito de aplicación del Reglamento (UE) n.º 528/2012, del Parlamento Europeo y del Consejo, de 22 de mayo de 2012, relativo a la comercialización y el uso de los biocidas. No se podrán utilizar sustancias que no se correspondan con el tipo de producto 6 según el anexo V del citado reglamento y que se encuentren en la Lista Europea de Sustancias Activas o en el Programa de Revisión notificadas para tipo 6. Igualmente, el etiquetado del producto final al que se le adicionan estos conservantes, deberá cumplir con lo requerido en los artículos 58 y 94 del Reglamento 528/2012.
+
+La relación C/N (solo se declarará si la concentración de carbono orgánico y nitrógeno orgánico son ambas superiores al 1 %).
+
+| N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo y máximo (porcentaje en masa)<br>Otros requisitos | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse.<br>Formas y solubilidad de los nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 01a | Enmienda orgánica húmica de turba, leonardita o lignito. | Producto obtenido exclusivamente a partir de turba, leonardita o lignito tratados:<br>– Con hidróxido potásico o<br>– con tratamiento físico por cribado y posterior trituración (y granulación si es necesario) hasta obtener un material homogéneo de tamaño inferior a 10 mm. | Materia orgánica total 25 %.<br>Extracto húmico total (ácidos húmicos + ácidos fúlvicos) 5 %.<br>Ácidos húmicos 3 %.<br>Humedad máxima 40 %. | pH.<br>Conductividad eléctrica.<br>Relación C/N.<br>Humedad mínima y máxima.<br>Tratamiento o proceso de elaboración, según la descripción indicada en la columna 3. | Materia orgánica total.<br>C orgánico.<br>Ácidos húmicos.<br>Nitrógeno orgánico (si supera el 1 %)<br>P<sub>2</sub>O<sub>5</sub> total (si supera el 1 %).<br>K<sub>2</sub>O total (si supera el 1 %) |
+| 01b | Enmienda orgánica húmica de origen animal o vegetal.. | Producto de origen animal o vegetal. | Materia orgánica total 25 %.<br>Extracto húmico total (ácidos húmicos + ácidos fúlvicos) 5 %.<br>Ácidos húmicos 3 %.Humedad máxima 40 %.<br>C/N < 20 %. | pH.<br>Conductividad eléctrica.<br>Relación C/N.<br>Humedad mínima y máxima. | Materia orgánica total.<br>C orgánico.<br>Ácidos húmicos.<br>Nitrógeno orgánico (si supera el 1 %).<br>P<sub>2</sub>O<sub>5</sub> total (si supera el 1 %).<br>K<sub>2</sub>O total (si supera el 1 %). |
+| 01c | Enmienda orgánica húmica de origen animal o vegetal con turba, leonardita o lignito. | Producto de origen animal o vegetal, al que se incorporara, en un porcentaje no superior al 20 %, turba leonardita o lignito y que ha seguido alguno de los procesamientos descritos en el tipo 6.01.a. | Materia orgánica total 25 %.<br>Extracto húmico total (ácidos húmicos + ácidos fúlvicos) 5 %.<br>Ácidos húmicos 3 %.<br>Humedad máxima 40 %.<br>C/N < 20%. | pH.<br>Conductividad eléctrica<br>Relación C/N.<br>Humedad mínima y máxima.<br>Tratamiento o proceso de elaboración, según la descripción indicada en la columna 3. | Materia orgánica total.<br>C orgánico.<br>Ácidos húmicos.<br>Nitrógeno orgánico (si supera el 1 %).<br>P<sub>2</sub>O<sub>5</sub> total (si supera el 1 %).K<sub>2</sub>O total (si supera el 1 %). |
+| 02 | Enmienda orgánica Compost. | Producto higienizado y estabilizado, obtenido mediante descomposición biológica aeróbica (incluyendo fase termofílica), bajo condiciones controladas, de materiales orgánicos biodegradables del anexo IV, recogidos separadamente | – Materia orgánica total: 35%.<br>– Humedad máxima: 40%.<br>– C/N < 20.<br>Las piedras y gravas eventualmente presentes de diámetro superior a 5 mm, no superarán el 2%.<br>Las impurezas (metales, vidrios y plásticos) eventualmente presentes de diámetro superior a 2 mm, no superarán el 1,5%.<br>El 90% de las partículas pasarán por la malla de 25 mm. | – pH.<br>– Conductividad eléctrica.<br>– Relación C/N.<br>– Humedad mínima y máxima.<br>– Materias primas utilizadas.<br>– Tratamiento o proceso de elaboración, según la descripción indicada en la columna 3 | – Materia orgánica total.<br>– C orgánico.<br>– N total (si supera el 1%).<br>– N orgánico (si supera el 1%).<br>– N amoniacal (si supera el 1%).<br>– P<sub>2</sub>O<sub>5</sub> total (si supera el 1%).<br>– K<sub>2</sub>O total (si supera el 1%).<br>– Ácidos húmicos.<br>– Granulometría. |
+| 03 | Enmienda orgánica Compost vegetal. | Producto higienizado y estabilizado, obtenido mediante descomposición biológica aeróbica (incluyendo fase termofílica), exclusivamente de hojas, hierba cortada y restos vegetales o de poda, bajo condiciones controladas | – Materia orgánica total: 40%.<br>– Humedad máxima: 40%.<br>– C/N < 15.<br>– No podrá contener impurezas ni inertes de ningún tipo tales como piedras, gravas, metales, vidrios o plásticos. | – pH.<br>– Conductividad eléctrica.<br>– Relación C/N.<br>– Humedad mínima y máxima.<br>– Tratamiento o proceso de elaboración, según la descripción indicada en la columna 3 | – Materia orgánica total.<br>– C orgánico.<br>– N total (si supera el 1%).<br>– N orgánico (si supera el 1%).<br>– N amoniacal (si supera el 1%).<br>– P<sub>2</sub>O<sub>5</sub> total (si supera el 1%).<br>– K<sub>2</sub>O total (si supera el 1%).<br>– Ácidos húmicos.<br>– Granulometría. |
+| 04 | Enmienda orgánica Compost de estiércol. | Producto higienizado y estabilizado, obtenido mediante descomposición biológica aeróbica (incluyendo fase termofílica), exclusivamente de estiércol, bajo condiciones controladas | – Materia orgánica total: 35%.<br>– Humedad máxima: 40%.<br>– C/N < 20.<br>No podrá contener impurezas ni inertes de ningún tipo tales como: piedras, gravas, metales, vidrios o plásticos. | – pH.<br>– Conductividad eléctrica.<br>– Relación C/N.<br>– Humedad mínima y máxima.<br>– Tratamiento o proceso de elaboración, según la descripción indicada en la columna 3 | – Materia orgánica total.<br>– C orgánico.<br>– N total (si supera el 1%).<br>– N orgánico (si supera el 1%).<br>– N amoniacal (si supera el 1%).<br>– P<sub>2</sub>O<sub>5</sub> total (si supera el 1%).<br>– K<sub>2</sub>O total (si supera el 1%).<br>– Ácidos húmicos.<br>– Granulometría. |
+| 05 | Enmienda orgánica Vermicompost. | Producto estabilizado obtenido a partir de materiales orgánicos, por digestión con lombrices, bajo condiciones controladas | – Materia orgánica total: 30%.<br>– Humedad máxima: 40%.<br>– C/N < 20.<br>– El 90% de las partículas pasarán por la malla de 25 mm. | – pH.<br>– Conductividad eléctrica.<br>– Relación C/N.<br>– Humedad mínima y máxima.<br>– Se podrán añadir las denominaciones usuales en el comercio | – Materia orgánica total.<br>– C orgánico.<br>– N total (si supera el 1%).<br>– N orgánico (si supera el 1%).<br>– P<sub>2</sub>O<sub>5</sub> total (si supera el 1%).<br>– K<sub>2</sub>O total (si supera el 1%).<br>– Ácidos húmicos.<br>– Granulometría.<br>– Tipo o tipos de estiércoles empleados. |
+| 06 | Enmienda orgánica Turba de musgo Tipo Sphagnum). | Producto orgánico procedente de turberas altas, formadas principalmente por musgos del género Sphagnum | Materia orgánica total : 90% (s.m.s.). | – pH.<br>– Conductividad eléctrica.<br>– Relación C/N.<br>– Humedad mínima y máxima | – Materia orgánica total.<br>– Materia orgánica total (s.m.s.).<br>– N total (si supera el 1%).<br>– Granulometría. |
+| 07 | Enmienda orgánica Turba herbácea. | Producto orgánico procedente de turberas bajas, formadas principalmente por especies herbáceas (Carex, Phragmytes, etc.) | Materia orgánica total: 45% (s.m.s.). | – pH.<br>– Conductividad eléctrica.<br>– Relación C/N.<br>– Humedad mínima y máxima | Materia orgánica total.<br>– Materia orgánica total (s.m.s.).<br>– N total (si supera el 1%).<br>– Granulometría. |
+| 08 | Alperujo desecado. | Producto procedente de almazaras con un proceso posterior de secado para reducir su fitotoxicidad | Materia orgánica total: 25%.<br>Humedad máxima: 25%.<br>Contenido máximo en polifenoles: 0,8%.<br>No podrá contener impurezas ni inertes de ningún tipo tales como piedras, gravas, metales, vidrios o plásticos. | – pH.<br>– Conductividad eléctrica.<br>– Relación C/N.<br>– Humedad mínima y máxima.<br>– Tratamiento o proceso de elaboración, según la descripción indicada en la columna 3 | – Materia orgánica total.<br>– C orgánico.<br>– N total y N orgánico (si superan el 1%).<br>– Otras formas de N (si superan el 1%).<br>– P<sub>2</sub>O<sub>5</sub> total (si supera el 1%).<br>– K<sub>2</sub>O total (si supera el 1%).<br>– Ácidos húmicos.<br>– Granulometría. |
+| 09 | Compost de alperujo. | Producto obtenido por descomposición biológica y estabilización de la materia orgánica procedente del alperujo, bajo condiciones que permitan un desarrollo de temperaturas termofílicas | Materia orgánica total: 45%.<br>Humedad máxima: 40%.<br>Relación C/N < 20.<br>Contenido máximo en polifenoles: 0,8%.<br>No podrá contener impurezas ni inertes de ningún tipo tales como piedras, gravas, metales, vidrios o plásticos. | – pH.<br>– Conductividad eléctrica.<br>– Relación C/N.<br>– Humedad mínima y máxima.<br>– Tratamiento o proceso de elaboración, según la descripción indicada en la columna 3 | – Materia orgánica total.<br>– C orgánico.<br>– N total y N orgánico (si superan el 1%).<br>– Otras formas de N (si superan el 1%).<br>– P<sub>2</sub>O<sub>5</sub> total (si supera el 1%).<br>– K<sub>2</sub>O total (si supera el 1%).<br>– Ácidos húmicos.<br>– Granulometría. |
+
+Grupo 7 Otras enmiendas
+
+| N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en nutrientes (porcentaje en masa)<br>Información sobre la evaluación de los nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse.<br>Formas y solubilidad de los nutrientes<br>Otros criterios |
+|---|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 01 | Enmienda Yeso roca. | Producto de origen natural constituido esencialmente por sulfato cálcico dihidratado. | – 25% de CaO.<br>– 35% de SO<sub>3.</sub> | Sulfato cálcico dihidratado. | – CaO total.<br>– SO<sub>3</sub> total.<br>– Clase granulométrica. |
+| 02 | Enmienda Anhidrita. | Producto de origen natural constituido esencialmente por sulfato de calcio anhidro. | – 30% de CaO.<br>– 45% de SO<sub>3.</sub> |  | – CaO total.<br>– SO<sub>3</sub> total.<br>– Clase granulométrica. |
+| 03 | Enmienda Sulfato cálcico precipitado. | Producto obtenido en el proceso industrial de fabricación del ácido fosfórico. | – 25% de CaO.<br>– 35% de SO<sub>3.</sub> | Podrán añadirse las denominaciones usuales en el comercio. | – CaO total.<br>– SO<sub>3</sub> total.<br>– Clase granulométrica. |
+| 04 | Enmienda retenedora de humedad. | Producto a base de homopolímero y/o copolímero de sal potásica del ácido propenamida-propenoico (n.º CAS: 25608-12-2), pudiendo contener además polímeros de sal amónica, roca volcánica y/o un abono CE o del grupo 1. | – Capacidad de absorción en agua destilada: 450g H<sub>2</sub>O / 100 g producto.<br>– Capacidad de absorción en solución de (NO<sub>3</sub>)<sub>2</sub>Ca a 2 gr/l: 150 gr H<sub>2</sub>O / 100 gr producto.<br>– Contenido máximo en monómeros de acrilamida: 0,002% p/p.<br>– Contenido máximo en ácido acrílico (propenoico): 600 mg/kg. | pH. | – Capacidad de absorción en agua destilada.<br>– Contenido en monómeros de acrilamida y en ácido acrílico.<br>– Todo lo exigido para el abono que entra en la mezcla, si procede. |
+| 05 | Enmienda azufre elemental. | Producto de origen natural o subproducto industrial constituido mayoritariamente por azufre elemental. | Azufre (S): 87% (217% SO<sub>3</sub>).<br>El 98% de las partículas pasarán por la malla de 4 mm. | Podrá añadirse la denominación usual del mercado. | – SO<sub>3</sub> total.<br>– Clase granulométrica. |
+| 06 | Enmienda silícea vermiculita exfoliada. | Producto obtenido a partir del tratamiento térmico de la vermiculita. | 30% SiO<sub>2.</sub><br>Tamaño de partícula: 0,1-5 mm.<br>Densidad: 60-150 kg/m<sup>3</sup>.<br>Espacio poroso > 85%.<br>Volumen de aire > 30%.<br>Volumen de agua > 35%. | Cantidad en volumen. | – Clase granulométrica.<br>– Espacio poroso.<br>– Volumen de aire.<br>– Volumen de agua. |
+| 07 | Enmienda silícea perlita expandida. | Producto obtenido a partir del tratamiento térmico de una roca volcánica del grupo de las riolitas. | 70% SiO<sub>2.</sub><br>Tamaño de partícula: 1,5-6 mm.<br>Densidad: 100-140 kg/m<sup>3</sup>.<br>Espacio poroso > 85%.<br>Volumen de aire > 60%.<br>Volumen de agua > 10%. | Cantidad en volumen. | – Clase granulométrica.<br>– Espacio poroso.<br>– Volumen de aire.<br>– Volumen de agua. |
+| 08 | Enmienda retenedora de humedad a base de homopolímero y/o copolímero del ácido propenoico (n.º CAS: 79-10-7. | Producto a base de homopolímero y/o copolímero del ácido propenoico (nº CAS: 79-10-7), pudiendo contener además lignocelulosa, roca volcánica y/o un abono CE o del grupo 1. | – Capacidad de absorción en agua destilada: 450g H<sub>2</sub>O / 100 g producto.<br>– Capacidad de absorción en solución de (NO<sub>3</sub>)<sub>2</sub>Ca a 2 g/l: 150 gH<sub>2</sub>O / 100 g producto.<br>– Contenido máximo en monómeros de acrilamida: 0,01% p/p.<br>– Contenido máximo en ácido acrílico (propenoico): 10.000 mg/kg . | – pH. | – Capacidad de absorción en agua destilada.<br>– Contenido en monómeros de acrilamida y en ácido acrílico.<br>– Todo lo exigido para el abono que entra en la mezcla, si procede. |
+
+Nota: Clasificación granulométrica.
+
+Polvo: al menos el 98% ha de pasar por el tamiz de 1 mm, y el 80% por el de 0,25 mm.
+
+Molido: al menos el 80% ha de pasar por el tamiz de 5 mm.
+
+Granulado: producto en polvo, granulado artificialmente. La granulometría específica del producto deberá ser dada por el fabricante, sin que pueda superar los 5 mm.
+
+> Se modifican las tablas 1.3.2, 1.3.3 1.4.1.1 y se añade la 1.4.5.1.8 en el grupo 1 por el art. único.8 del Real Decreto 529/2023, de 20 de junio. [Ref. BOE-A-2023-15736](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15736)
+
+> Se modifican las referencias a «abonos CE» por «abonos del grupo 1.4» y el nombre del cuadro 1.3.3 y se añade el cuadro 1.4 en el grupo 1, se añade una lista en la tabla A y se sustituye la tabla B en el apartado 4.2 del grupo 4 y se modifican el cuadro y nota del grupo 5, por el art. único.1 a 6 de la Orden APA/104/2022, de 11 de febrero. [Ref. BOE-A-2022-2621](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2621)
+
+> Se modifica por el art. único.1 a 18 de la Orden APA/161/2020, de 20 de febrero. [Ref. BOE-A-2020-2612](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2612)
+
+> Se sustituye por el art. único.9 y Anexo I del Real Decreto 999/2017, de 24 de noviembre. [Ref. BOE-A-2017-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14332)
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 39, de 13 de febrero de 2018. [Ref. BOE-A-2018-1916](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1916)
+
+> Se sustituye por el art. único.1 y Anexo I de la Orden AAA/2564/2015, de 27 de noviembre. [Ref. BOE-A-2015-13094](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13094).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 305, de 22 de diciembre de 2015. [Ref. BOE-A-2015-13977](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13977).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 7, de 8 de enero de 2014. [Ref. BOE-A-2014-188](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-188).
+
+## ANEXO II — Disposiciones generales de identificación y etiquetado
+
+Las únicas indicaciones relativas al producto que se admitirán en etiquetas y documentos de acompañamiento serán las siguientes:
+
+las identificaciones y menciones obligatorias del apartado A.
+
+las identificaciones y menciones facultativas del apartado B.
+
+Todas las indicaciones obligatorias y facultativas deberán estar claramente separadas de cualquier otra información que figure en las etiquetas, envases y documentos de acompañamiento.
+
+A. IDENTIFICACIONES Y MENCIONES OBLIGATORIAS
+
+Las etiquetas y documentos de acompañamiento de todos los productos fertilizantes, en los que se incluyen los abonos, los abonos especiales y las enmiendas, que correspondan a uno de los tipos relacionados en el Anexo I, deberán ajustarse a las siguientes indicaciones:
+
+1\. Respecto a la denominación del tipo.
+
+a) La denominación del tipo del producto fertilizante, en letras mayúsculas, de conformidad con la columna 2 de los cuadros del Anexo I.
+
+b) En los productos de mezcla, la mención «DE MEZCLA» en la denominación del tipo.
+
+c) En el caso de los abonos, a la denominación del tipo se añadirán los símbolos químicos de los nutrientes principales, seguidos a continuación, entre paréntesis, por los símbolos de los nutrientes secundarios obligatoriamente declarados.
+
+d) Cuando se declaren micronutrientes que hayan sido incorporados como abono mineral, las palabras «con micronutrientes» o la palabra «con» seguida del nombre o nombres de los micronutrientes presentes *y* de sus símbolos químicos.
+
+e) En la denominación del tipo solamente podrán incluirse las cifras que indiquen el contenido en nutrientes principales y secundarios. Los números que indiquen el contenido en nutrientes principales en el orden establecido por dicha denominación, que se referirán al contenido global de cada elemento en las formas y solubilidades que deben declararse y garantizarse según cada tipo de producto (columnas 5 y 6 de los cuadros del Anexo I). Los contenidos en nutrientes secundarios obligatoriamente declarados se indicarán, entre paréntesis, a continuación del contenido de los nutrientes principales.
+
+f) Cuando en las instrucciones específicas se indique que el producto puede ser utilizado en fertirrigación, el abono deberá tener la solubilidad definida en el apartado 23 del artículo 2, e incorporarse, tras la denominación del tipo, la mención siguiente: «Abono hidrosoluble».
+
+Un ejemplo para ilustrar las indicaciones y menciones anteriores.
+
+Se trata de un abono órgano-mineral NPK, producto sólido que contiene las siguientes riquezas:
+
+10% de carbono (C) orgánico;
+
+7% de nitrógeno (N) total, 5% de nitrógeno (N) orgánico, 2% de nitrógeno (N) amoniacal;
+
+10% de pentóxido de fósforo (P<sub>2</sub>O<sub>5</sub>) soluble en citrato amónico neutro y en agua;
+
+7% de óxido de potasio (K<sub>2</sub>O) soluble en agua;
+
+3% de óxido de calcio (CaO) soluble en agua;
+
+2,4% de óxido de magnesio (MgO) soluble en agua
+
+0,1% de hierro (Fe) total; 0,02% de zinc (Zn) total.
+
+La denominación será:
+
+ABONO ÓRGANO-MINERAL NPK (Ca-Mg) 7-10-7 (3 – 2,4) con hierro (Fe) y zinc (Zn)
+
+2\. Respecto al contenido.
+
+El contenido en nutrientes que debe declararse y garantizarse, en las formas y solubilidades que corresponda, se refleja en la columna 6 de los cuadros del Anexo I. La indicación de los elementos nutritivos se hará tanto con su denominación literal como con su símbolo químico.
+
+2.1. Expresión de los nutrientes principales.-
+
+a) El contenido del nitrógeno, fósforo y potasio, se expresará en el etiquetado del modo siguiente:
+
+el nitrógeno únicamente en forma de elemento (N);
+
+el fósforo únicamente en forma de pentóxido de fósforo (P<sub>2</sub>O<sub>5</sub>);
+
+el potasio únicamente en forma de óxido de potasio (K<sub>2</sub>O);
+
+b) El contenido de los nutrientes principales se declarará en porcentaje en masa, en números enteros o, en caso necesario, si existe un método de análisis adecuado, con un decimal.
+
+c) Además, salvo que en las denominaciones del tipo del Anexo I se establezca expresamente que se indique de otra manera, los nutrientes principales se expresarán:
+
+i) El nitrógeno (N), en las siguientes formas: nítrico, amoniacal, ureico y orgánico;
+
+ii) El pentóxido de fósforo (P<sub>2</sub>O<sub>5</sub>), en sus dos solubilidades: soluble en agua, y soluble en agua y en citrato amónico neutro;
+
+iii) El óxido de potasio (K<sub>2</sub>O) soluble en agua.
+
+2.2. Expresión de los nutrientes secundarios.-
+
+a) Tanto en los productos del grupo 1.2 como en los de los grupos 1.1, 1.4, 2, 3, 4 y 6 del anexo I que contengan nutrientes secundarios, deberá declararse el contenido en calcio, magnesio, sodio y azufre, siempre que estos elementos estén presentes, al menos, en las cantidades mínimas siguientes, salvo que, en los requisitos específicos del tipo, se dispongan otros valores:
+
+2 % de óxido de calcio (CaO),
+
+2 % de óxido de magnesio (MgO),
+
+3 % de óxido de sodio (Na<sub>2</sub>O),
+
+5 % de trióxido de azufre (SO<sub>3</sub>).
+
+b) El contenido del calcio, magnesio, sodio y azufre, se expresará únicamente en forma de óxido (CaO, MgO, Na<sub>2</sub>O y SO<sub>3</sub>).
+
+c) El contenido de estos nutrientes se declarará en porcentaje en masa, en números enteros o, en caso necesario, si existe un método de análisis adecuado, con un decimal.
+
+d) La declaración del contenido en sodio y azufre en los productos fertilizantes, se efectuará de una de las siguientes maneras:
+
+el contenido total;
+
+el contenido total y el contenido soluble en agua, cuando dicha solubilidad alcance al menos una cuarta parte del contenido total;
+
+cuando un elemento sea completamente soluble en agua, únicamente se declarará el contenido soluble en agua.
+
+e) En cuanto al contenido en calcio y magnesio, salvo que en la denominación del tipo del anexo I se disponga lo contrario, únicamente deberá declararse el porcentaje soluble en agua. No obstante, en los productos del grupo 1.4, el contenido en magnesio se podrá expresar de una de las siguientes maneras:
+
+i) El contenido total expresado en porcentaje en masa del abono;
+
+ii) El contenido total y el contenido soluble en agua, expresado en porcentaje en masa del abono cuando dicha solubilidad alcance al menos una cuarta parte del contenido total;
+
+iii) Cuando un elemento sea completamente soluble en agua, únicamente se declarará el contenido soluble en agua como porcentaje en masa.
+
+f) Cuando un nutriente secundario esté ligado químicamente a alguna molécula orgánica, a continuación del contenido soluble en agua, se declarará inmediatamente este contenido del nutriente, seguido por las expresiones «quelado por» o «complejado por» y el nombre de la o las moléculas orgánicas, tal y como figuran en los apartados 1.2.3 ó 1.2.4 del Anexo I. El nombre de las moléculas orgánicas podrá ser sustituido por sus abreviaturas.
+
+g) Las indicaciones que figuran con carácter general como notas en el apartado 1.2 del Anexo I
+
+2.3. Expresión de los micronutrientes.
+
+a) El contenido de los micronutrientes cobalto (Co), cobre (Cu), hierro (Fe), manganeso (Mn), molibdeno (Mo) y zinc (Zn) se declarará en los abonos de los grupos 1.1, 1.2, 1.4, 3 y 4, siempre que cumplan las dos condiciones siguientes:
+
+Que dichos micronutrientes se añadan como abono mineral al producto fertilizante, en cantidades por lo menos iguales a los contenidos mínimos que figuran en el apartado 1.3.4 del anexo I.
+
+Que el producto siga cumpliendo los requisitos indicados en su grupo correspondiente del anexo I.
+
+b) El contenido en boro (B) se declarará siempre que esté presente en cantidades iguales o superiores a los contenidos mínimos que figuran en el apartado 1.3.4 del Anexo I, independientemente de si se ha añadido como abono mineral o si es ingrediente normal de la materia prima destinada a aportar nutrientes principales y secundarios.
+
+c) El contenido de los micronutrientes se declarará en porcentaje en masa, expresado con el máximo de decimales indicados en el apartado 1.3.4 del Anexo I.
+
+d) El contenido de micronutrientes se declarará del modo siguiente:
+
+en el caso de los abonos inorgánicos que solo declaran un micronutriente, de conformidad con lo prescrito en su columna 6.
+
+en el resto de los casos, se indicará:
+
+el contenido total,
+
+el contenido soluble en agua, cuando el contenido soluble alcance como mínimo la mitad del contenido total.
+
+cuando un micronutriente sea totalmente soluble en agua, sólo se declarará el contenido soluble en agua.
+
+e) Cuando un micronutriente esté ligado químicamente a alguna molécula orgánica, el contenido del nutriente presente en el producto fertilizante se declarará inmediatamente a continuación del contenido soluble en agua, seguido por las expresiones «quelado por» o «complejado por» y el nombre de la o las moléculas orgánicas, tal y como figuran en la lista 1.4.5.2 del anexo I del presente real decreto y en el apartado 1.3.5 del Anexo I del presente Real Decreto. El nombre de las moléculas orgánicas podrá ser sustituido por sus abreviaturas.
+
+f) Los micronutrientes que contenga el producto fertilizante, se enumerarán por orden alfabético de sus símbolos químicos: B, Co, Cu, Fe, Mn, Mo, Zn.
+
+g) Las indicaciones que figuran con carácter general como notas en los apartados 1.3 y 1.4.5 del anexo I.
+
+h) En la etiqueta del envase, en lo que respecta a los productos incluidos en el apartado 1.3 del Anexo I, con excepción de los del tipo 1.3.4, debajo de las indicaciones obligatorias o facultativas, deberá aparecer el texto siguiente: «*Utilícese solamente en caso de reconocida necesidad. No sobrepasar las dosis adecuadas*.»
+
+2.4. Se indicarán todas las especies de microorganismos que entren a formar parte del producto fertilizante, siempre y cuando estén presentes en una cantidad mínima que garantice su eficacia agronómica en las condiciones de los ensayos que se presenten de acuerdo con lo exigido en el anexo VIII. El contenido se expresará en el caso de las bacterias como ufc/ml en productos líquidos, o ufc/g en productos sólidos y en el caso de los hongos como n.º propágulos/ml en productos líquidos o n.º propágulos/g en productos sólidos.
+
+3\. Respecto a otros contenidos y características.-
+
+a) En los productos líquidos y en el tipo 6.05 Enmienda orgánica vermicompost, el contenido en nutrientes se expresará en porcentaje en masa, pudiendo también incluirse el equivalente de la masa en relación con el volumen (kilogramos por hectolitro o gramos por litro).
+
+b) En los productos fertilizantes elaborados con materias primas de origen orgánico deberán declararse los ingredientes que intervienen en su fabricación, con el porcentaje en masa que corresponde a cada uno de ellos.
+
+c) El resto de informaciones, tales como: pH, conductividad eléctrica (dS/m), ácidos húmicos, carbono orgánico, materia orgánica, etc.... que aparecen en las columnas 5 y 6 de los cuadros del Anexo I, deberán declararse a continuación de las riquezas garantizadas.
+
+d) En los productos con componentes orgánicos (Anexo V), deberá indicarse la clasificación a que corresponda (A, B ó C), de acuerdo con el Anexo V y añadirse: «*Contenido en metales pesados inferior a los límites autorizados para esta clasificación*».
+
+e) En los productos fertilizantes de los grupos 2, 3 y 6 deberá declararse el contenido en cobre (Cu) y zinc (Zn) cuando sobrepasen los límites máximos de concentración correspondientes a la clase A (70 y 200 mg/kg de materia seca, respectivamente), sin que puedan superarse las cantidades de la clase C.
+
+f) En los abonos del grupo 4 que contengan aminoácidos libres, debe incluirse el proceso seguido en su obtención:
+
+En los hidrolizados, la materia prima que se hidroliza.
+
+En los de fermentación, en su caso, el microorganismo utilizado.
+
+En los de síntesis, el método utilizado.
+
+g) En los productos fertilizantes de los grupos 2, 3 y 6 que utilicen como materia prima el sustrato agotado de setas, deberá declararse la conductividad eléctrica.
+
+4\. Respecto a las instrucciones de uso y aplicación.-
+
+Las instrucciones específicas sobre dosis a emplear y método de aplicación, para el suelo y el cultivo en que se utilizará el producto fertilizante, serán de exclusiva responsabilidad del fabricante, y respetarán las normas fijadas en este real decreto.
+
+En el caso de los productos del grupo 4.4., se hará mención a las condiciones de uso para las que dicho producto ha sido autorizado de acuerdo con los requisitos fijados en el presente real decreto y los resultados de los ensayos que la empresa haya presentado para la inscripción del producto en el Registro de productos fertilizantes mencionado en el artículo 21. Esta información incluirá también las incompatibilidades conocidas, de acuerdo con lo establecido en el artículo 24. También se incluirá fecha de caducidad que en ningún caso podrá superar un año desde la fecha de fabricación. Además, en caso de que los productos necesiten condiciones especiales de almacenamiento deberán indicarse también en la etiqueta.
+
+Cuando una Comunidad Autónoma haya regulado la utilización de determinados fertilizantes o establecido zonas de especial protección, el fabricante deberá facilitar al agricultor una información adicional a la etiqueta con estos requisitos.
+
+5\. Otras informaciones que deberán incluirse en las etiquetas.-
+
+a) Los productos fertilizantes elaborados con subproductos de origen animal deberán incluir en la etiqueta o documentos de acompañamiento las indicaciones exigidas en el Reglamento (CE) n.º 1069/2009 y disposiciones que lo desarrollan.
+
+b) Los productos fertilizantes líquidos sólo podrán ponerse en el mercado si el fabricante da las oportunas instrucciones adicionales referentes a la temperatura de almacenamiento.
+
+c) En el caso de los productos fertilizantes clasificados como peligrosos se deberá incluir la clasificación de peligrosidad de acuerdo con lo establecido en el artículo 10.3.
+
+d) Para todos los productos fertilizantes, deberán incluirse los siguientes consejos de prudencia establecidos en el Reglamento (CE) n.º 1272/2008, del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008:
+
+P102 Mantener fuera del alcance de los niños.
+
+P270 No comer, beber ni fumar durante su utilización
+
+O bien, las frases de seguridad siguientes de conformidad con el Real Decreto 255/2003, de 28 de febrero, durante el periodo transitorio:
+
+S2 Manténgase fuera del alcance de los niños
+
+S13 Manténgase lejos de alimentos, bebidas y piensos.
+
+e) La indicación de la cantidad expresada en masa (kilogramos) neta o bruta. En caso de que se indique la masa bruta, deberá indicarse al lado la masa de la tara. Cuando se trate de productos líquidos, además de la masa, la cantidad podrá ser expresada en volumen (litros).
+
+f) El número de inscripción en el Registro de Productos Fertilizantes, en su caso.
+
+g) En los productos fertilizantes de los grupos 2, 3 y 6, la denominación comercial, en la que no se podrán utilizar cifras o expresiones que induzcan a confusión sobre el tipo de producto, riquezas o contenidos, así como el empleo de palabras o prefijos como «biológico», «ecológico», «abono ecológico», «bio» o «eco», sin el correspondiente certificado de conformidad emitido por las entidades certificadoras de insumos autorizados en agricultura ecológica.
+
+h) El nombre o razón social y la dirección de la persona física o jurídica responsable de la puesta en el mercado (productor, importador, envasador etc.), de acuerdo con el punto 46 del articulo 2.
+
+i) La identificación de la partida o lote, para documentar su trazabilidad, de acuerdo con lo establecido en el artículo 15.
+
+j) En el caso de los productos del apartado 4 del grupo 4, se debe de incorporar la frase Contiene microorganismos. Puede provocar reacciones de sensibilización. Se recomienda la utilización de equipo de protección respiratoria (respirador desechable o careta filtrante, al menos EN 149 FFP3 o equivalente) al manipular el preparado o aplicar el producto.
+
+k) Si está presente la urea, información sobre las posibles repercusiones en la calidad del aire de la liberación de amoníaco a partir del uso de abonos, y una invitación a que los usuarios apliquen medidas correctoras apropiadas.
+
+B. IDENTIFICACIONES Y MENCIONES FACULTATIVAS
+
+Los envases, etiquetas y documentos de acompañamiento podrán llevar las siguientes indicaciones:
+
+a) La marca del fabricante.
+
+b) En los productos fertilizantes de los grupos 2, 3 y 6, la denominación comercial, en la que no se podrán utilizar cifras o expresiones que induzcan a confusión sobre el tipo de producto, riquezas o contenidos, así como el empleo de palabras o prefijos como «biológico», «ecológico», «abono ecológico», «bio» o «eco», sin el correspondiente certificado de conformidad emitido por las entidades certificadoras de insumos autorizados en agricultura ecológica.
+
+c) No podrá utilizarse la denominación «abono de liberación lenta», «abono de liberación gradual» o similares, salvo en el caso de los abonos de los grupos 1, 3 y 4, formulados a base de urea de baja solubilidad (tipos 1.4.1.1.9, 1.4.1.1.10 y 1.4.1.1.11 del anexo I del presente real decreto) o los abonos con inhibidores de la nitrificación o de la ureasa autorizados.
+
+d) En el caso de que existan indicaciones facultativas reseñadas en las columnas 4, 5 y 6 de los cuadros del Anexo I, conforme a lo especificado en los mismos.
+
+e) El contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua en los productos fosfatados del grupo 3, salvo en los productos en solución en los que será obligatorio.
+
+f) El contenido en micronutrientes, salvo en el caso de boro (B), en los grupos 2, 3 y 4, cuando sean ingredientes normales de materias primas destinadas a aportar nutrientes principales y secundarios, siempre que estén presentes en cantidades iguales o superiores a los contenidos mínimos que figuran en el apartado 1.3.4 del Anexo I y se declarará conforme a lo especificado en el punto A.2.3. d) de este anexo.
+
+g) El contenido en materia orgánica en los productos de los grupos 2 (abonos orgánicos) y 3 (abonos órgano-minerales).
+
+h) **(Suprimido)**
+
+i) El contenido en ácidos fúlvicos en los productos del grupo 6 (enmiendas orgánicas).
+
+j) La conductividad eléctrica, expresada en dS/m, salvo en el caso de los productos del grupo 6 (enmiendas orgánicas) que será obligatoria.
+
+k) Las instrucciones de almacenamiento y manipulación para los productos sólidos.
+
+l) La indicación «*pobre en cloruro*» sólo podrá incluirse cuando el contenido en cloruro sea inferior al 2 %. Así mismo, la indicación «libre de cloruro» sólo podrá incluirse cuando el contenido en cloruro sea inferior al 0,3%.
+
+m) Valor del pH en aquellos productos que no sea obligatoria su mención.
+
+> Se modifican las letras a) y e) del apartado A.2.2 y la letra a) del apartado A.2.3 por el art. único.9 del Real Decreto 529/2023, de 20 de junio. [Ref. BOE-A-2023-15736](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15736)
+
+> Se modifican las letras e) y g) del apartado 2.3 y se añade la letra k) al apartado 5 de la Sección A y se modifica la letra c) de la Sección B, por el art. único.7 a 10 de la Orden APA/104/2022, de 11 de febrero. [Ref. BOE-A-2022-2621](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2621)
+
+> Se modifican los apartados A.2, A.3, A.4 y A.5 por el art. único.10 del Real Decreto 999/2017, de 24 de noviembre. [Ref. BOE-A-2017-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14332)
+
+> Se modifican los apartados A.3, A.5, B.b) y B.g) y se elimina el B.h) por el art. único.2 de la Orden AAA/2564/2015, de 27 de noviembre. [Ref. BOE-A-2015-13094](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13094).
+
+## ANEXO III — Márgenes de tolerancia
+
+Las tolerancias indicadas en el presente anexo son las mayores diferencias admisibles entre el valor declarado y el comprobado del contenido de un elemento o de otra característica específica.
+
+Los márgenes de tolerancia incluidos en el presente anexo son valores máximos de la deficiencia de contenido (por defecto) en la misma unidad de expresión y en términos absolutos de porcentaje en masa.
+
+En todos los productos fertilizantes, la tolerancia admisible será también aplicable al exceso (positiva o valores comprobados superiores a los declarados), en cuantía equivalente al doble de lo establecido para las tolerancias del defecto que se especifican en este anexo.
+
+Los márgenes de tolerancia establecidos incluyen las diferencias que puedan proceder de la fabricación, la cadena de distribución, la toma de muestras para comprobación y la incertidumbre del resultado del laboratorio. No se admitirá, por tanto, la consideración de cualquiera de esas fuentes de error para añadirlas a la tolerancia.
+
+En definitiva, para considerar que un producto cumple las tolerancias establecidas para un parámetro (o suma de ellos), deberá cumplirse que:
+
+Tolerancia del parámetro ≤ (Valor declarado - Valor comprobado)
+
+Y que:
+
+(Valor comprobado – Valor declarado) ≤ 2 * Tolerancia parámetro
+
+Siendo:
+
+Valor declarado: el declarado en etiqueta para ese parámetro.
+
+Valor comprobado: el resultado emitido por el Laboratorio para ese parámetro (sin tener en cuenta la incertidumbre, que ya está incluida en la tolerancia).
+
+El margen de tolerancia permitida para el defecto, en cuanto a los contenidos declarados en elementos nutrientes o de otras características especificadas en las denominaciones de los diversos tipos de productos fertilizantes del anexo I, serán los siguientes:
+
+1\. ABONOS INORGÁNICOS
+
+Elementos nutrientes primarios: N, P y K
+
+Abonos sólidos:
+
+N total: 1,1
+
+*P<sub>2</sub>O<sub>5</sub>: 1,1
+
+K<sub>2</sub>O: 1,1
+
+Valor máximo de la suma de las desviaciones negativas respecto al valor declarado:
+
+Abonos binarios: 1,5.
+
+Abonos ternarios: 1,9.
+
+Abonos líquidos:
+
+Un 15% del valor declarado para los contenidos en cualquier elemento nutriente principal, con un máximo de:
+
+N total: 0,5.
+
+*P<sub>2</sub>O<sub>5</sub>: 0,5.
+
+K<sub>2</sub>O: 0,5.
+
+Valor máximo de la suma de las desviaciones negativas respecto al valor declarado:
+
+Abonos binarios: 0,7.
+
+Abonos ternarios: 1,0.
+
+*Esta tolerancia del P<sub>2</sub>O<sub>5. </sub>se aplicará a la solubilidad que se declara en la fórmula principal según las tablas del ANEXO I.
+
+Tanto en abonos sólidos como en líquidos, en lo que se refiere al contenido declarado para otras formas de nitrógeno distintas del nitrógeno total y para las solubilidades garantizadas del pentóxido de fósforo distintas de la solubilidad de declaración obligatoria para el tipo, garantizada en la fórmula principal, un 20 % de desviación relativa del valor declarado, hasta un máximo de 1,5% en masa.
+
+K<sub>2</sub>O sol en agua en una solución potásica: 0,5
+
+Elementos nutrientes secundarios: Ca, Mg, Na y S
+
+25 % del contenido declarado de estos nutrientes, hasta un máximo de 1,0 punto porcentual en términos absolutos para el CaO, MgO y SO<sub>3</sub>, es decir, de 0,71 para el Ca, 0,60 para el Mg, y 0,40 para el S. Cuando el contenido en SO<sub>3</sub> sea Igual o superior al 60% la tolerancia será de un 2,5% en valor absoluto.
+
+Óxido de sodio (Na<sub>2</sub>O) total y soluble en agua. 25 % del contenido declarado, hasta un máximo de 0,9 puntos porcentuales en términos absolutos hasta un máximo de 1,8 puntos porcentuales en términos absolutos
+
+Cuando CaO y MgO estén quelados o complejados:
+
+25 % del contenido declarado de estos nutrientes, hasta un máximo de 1,0 punto porcentual en términos absolutos
+
+Micronutrientes
+
+Tolerancias admisibles para los contenidos declarados de formas de micronutrientes:
+
+Concentración inferior o igual al 2 %: 20 % del valor declarado.
+
+Concentración superior al 2 % e inferior o igual al 10 %: 20 % del valor declarado y 1,0 punto porcentual en términos absolutos.
+
+Concentración superior al 10 %: 1,0 punto porcentual en términos absolutos.
+
+Otros elementos
+
+Cloruro 0,2.
+
+2\. ABONOS ORGÁNICOS
+
+Elementos nutrientes primarios: N, P y K
+
+Un 25% del valor declarado, para los contenidos en cualquier elemento nutriente, con un máximo de:
+
+N total: 1,1.
+
+P<sub>2</sub>O<sub>5</sub>: 1,1.
+
+K<sub>2</sub>O: 1,1.
+
+Valor máximo de la suma de las desviaciones negativas respecto al valor declarado:
+
+Abonos binarios: 1,5.
+
+Abonos ternarios: 1,9.
+
+N orgánico: 50 % de desviación relativa del valor declarado, hasta un máximo de 1,0 punto porcentual en términos absolutos.
+
+Elementos nutrientes secundarios: Ca, Mg, Na y S
+
+25 % del contenido declarado de estos nutrientes, hasta un máximo de 1,5 puntos porcentuales en términos absolutos.
+
+Otras características específicas
+
+Carbono orgánico: 20% del valor declarado con un máximo del 2 % en valor absoluto. Relación C/N: 20 % del valor declarado con un máximo del 2 % en valor absoluto.
+
+Ácidos húmicos:
+
+Abonos líquidos: 20 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Abonos sólidos: 30 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Materia orgánica total: 20% del valor declarado con un máximo del 4% en valor absoluto.
+
+3\. ABONOS ÓRGANO-MINERALES
+
+Elementos nutrientes primarios: N, P y K
+
+Un 20% del valor declarado, para los contenidos en cualquier elemento nutriente principal, con un máximo de:
+
+N total: 1,1.
+
+*P<sub>2</sub>O<sub>5</sub>: 1,1.
+
+K<sub>2</sub>O: 1,1.
+
+Valor máximo de la suma de las desviaciones negativas respecto al valor declarado:
+
+Abonos binarios: 1,5.
+
+Abonos ternarios: 1,9.
+
+N orgánico: 50 % de desviación relativa del valor declarado, hasta un máximo de 1,0 punto porcentual en términos absolutos
+
+*Esta tolerancia del P<sub>2</sub>O<sub>5. </sub>se aplicará a la solubilidad que se declara en la fórmula principal según las tablas del ANEXO I.
+
+Tanto en abonos sólidos como en líquidos, en lo que se refiere al contenido declarado para otras formas de nitrógeno distintas del nitrógeno total y para las solubilidades garantizadas del pentóxido de fósforo distintas de la solubilidad de declaración obligatoria para el tipo, garantizada en la fórmula principal, un 20 % de desviación relativa del valor declarado, hasta un máximo de 1,5% en masa.
+
+Elementos nutrientes secundarios: Ca, Mg, Na y S
+
+Un 25% del contenido declarado en CaO, MgO, Na<sub>2</sub>O y SO<sub>3 </sub>con un máximo del 1% del valor absoluto.
+
+Micronutrientes
+
+Concentración inferior o igual al 2 %: 20 % del valor declarado.
+
+Concentración superior al 2 % e inferior o igual al 10 %: 20 % del valor declarado y 1,0 punto porcentual en términos absolutos.
+
+Concentración superior al 10 %: 1,0 punto porcentual en términos absolutos.
+
+Otras características específicas
+
+Carbono orgánico: 20% del valor declarado con un máximo del 2 % en valor absoluto. Relación C/N: 20 % del valor declarado con un máximo del 2 % en valor absoluto.
+
+Ácidos húmicos:
+
+Abonos líquidos: 20 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Abonos sólidos: 30 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Materia orgánica total: 20% del valor declarado con un máximo del 4% en valor absoluto.
+
+4\. OTROS ABONOS Y PRODUCTOS ESPECIALES
+
+En los abonos del grupo 1 del anexo I a los que se adicionan productos especiales (aminoácidos, ácidos húmicos, diciandiamida, DMPP, etc.), los márgenes de tolerancia serán equivalentes a los exigidos a los mismos.
+
+En los aminoácidos y ácidos húmicos, un 20% del valor declarado del contenido en cualquier elemento nutriente principal, con un máximo en valor absoluto de:
+
+N total: 1,1.
+
+*P<sub>2</sub>O<sub>5</sub>: 1,1.
+
+K<sub>2</sub>O: 1,1.
+
+Valor máximo de la suma de las desviaciones negativas respecto al valor declarado:
+
+Abonos binarios: 1,5.
+
+Abonos ternarios: 1,9.
+
+N orgánico: 50 % de desviación relativa del valor declarado, hasta un máximo de 1,0 punto porcentual en términos absolutos.
+
+*Esta tolerancia del P<sub>2</sub>O<sub>5. </sub>se aplicará a la solubilidad que se declara en la fórmula principal según las tablas del ANEXO I.
+
+Tanto en abonos sólidos como en líquidos, en lo que se refiere al contenido declarado para otras formas de nitrógeno distintas del nitrógeno total y para las solubilidades garantizadas del pentóxido de fósforo distintas de la solubilidad de declaración obligatoria para el tipo, garantizada en la fórmula principal, un 20 % de desviación relativa del valor declarado, hasta un máximo de 1,5% en masa.
+
+Total de aminoácidos libres:
+
+Valor declarado ≥ 10%: 10% del valor declarado con un máximo del 3% en valor absoluto.
+
+Valor declarado < 10%: 10% del valor declarado.
+
+Para cada uno de los aminoácidos libres declarados en el aminograma: 25% del valor declarado.
+
+Ácidos húmicos:
+
+Abonos líquidos: 20 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Abonos sólidos: 30 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Ácidos fúlvicos:
+
+Abonos líquidos: 30 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Abonos sólidos: 40 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Extracto húmico total:
+
+Abonos líquidos: 20 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Abonos sólidos: 30 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Contenido en ácido algínico:
+
+Concentraciones superiores al 5%: 20% del valor declarado.
+
+Concentraciones inferiores o iguales al 5%: 30% del valor declarado.
+
+Contenido en manitol: 20% del valor declarado.
+
+Producto líquido a base de silicio: Un 25% del contenido declarado en SiO<sub>2</sub>, con un máximo del 3% en valor absoluto.
+
+Inhibidores de la nitrificación, inhibidor de la desnitrificación o inhibidores de la ureasa:
+
+Concentración inferior o igual al 2 %: 20 % del valor declarado.
+
+Concentración superior al 2 %: 0,3 puntos porcentuales en términos absolutos.
+
+5\. ENMIENDAS CALIZAS
+
+Valor neutralizante: 3 puntos.
+
+Granulometría: 10 % de desviación relativa del porcentaje declarado de material que pasa por un tamiz determinado.
+
+Óxido de calcio (CaO) total: 3,0 puntos porcentuales en términos absolutos.
+
+Óxido de magnesio (MgO) total:
+
+Concentración inferior al 8 %: 1,0 punto porcentual en términos absolutos.
+
+Concentración entre el 8 y el 16 %: 2,0 puntos porcentuales en términos absolutos.
+
+Concentración igual o superior al 16 %: 3,0 puntos porcentuales en términos absolutos.
+
+S0<sub>3</sub> Un 25% del contenido declarado con un máximo del 3% en valor absoluto.
+
+Reactividades (ensayo del ácido clorhídrico y ensayo de incubación): 5,0 puntos porcentuales en términos absolutos.
+
+Cantidad: 1 % de desviación relativa del valor declarado.
+
+6\. ENMIENDAS ORGÁNICAS
+
+Materia orgánica total 20% del valor declarado, con un máximo del 4% en valor absoluto.
+
+C orgánico: 20% del valor declarado con un máximo del 2% en valor absoluto.
+
+Relación C/N: 20 % del valor declarado con un máximo del 2 % en valor absoluto.
+
+Ácidos húmicos:
+
+Abonos líquidos: 20 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Abonos sólidos: 30 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Ácidos fúlvicos:
+
+Abonos líquidos: 30 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Abonos sólidos: 40 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Para los contenidos en cualquier elemento nutriente, un 25% del valor declarado, con un máximo en valor absoluto de:
+
+N total: 1,1.
+
+P<sub>2</sub>O<sub>5</sub>: 1,1.
+
+K<sub>2</sub>O: 1,1.
+
+Valor máximo de la suma de las desviaciones negativas respecto al valor declarado:
+
+Abonos binarios: 1,5.
+
+Abonos ternarios: 1,9.
+
+N orgánico: 50 % de desviación relativa del valor declarado, hasta un máximo de 1,0 punto porcentual en términos absolutos.
+
+7\. OTRAS ENMIENDAS
+
+Un 25% del contenido declarado en CaO y SO<sub>3</sub>, con un máximo del 3% en valor absoluto.
+
+Capacidad de absorción en agua destilada: 10% del valor declarado.
+
+Porcentaje de polímeros hidroabsorbentes: 10% del valor declarado, con un máximo del 1% en valor absoluto.
+
+Densidad: 20% del valor declarado.
+
+Clase granulométrica: máximo un 5% en volumen fuera del rango declarado.
+
+Cantidad en volumen: 5% del valor declarado.
+
+Espacio poroso: 10% del valor declarado.
+
+Volumen de aire: 10% del valor declarado.
+
+Volumen de agua a 1, 5 y 10 kPa: 10% del valor declarado.
+
+8\. OTROS REQUISITOS Y CARACTERÍSTICAS DE CARÁCTER GENERAL
+
+Cuando existen distintas formas declaradas de N, P y K, la tolerancia será ± 25 % de desviación relativa del valor declarado, hasta un máximo de 1,5 puntos porcentuales en términos absolutos.
+
+Conductividad eléctrica:
+
+• 100 % si la conductividad eléctrica es < 50 mS/m.
+
+• 50 % si la conductividad eléctrica está comprendida entre 50-200 mS/m.
+
+• 25 % si la conductividad eléctrica es > 200 mS/m.
+
+pH: ± 1,0 salvo en los productos clasificados como peligrosos, en los que no se admitirá tolerancia alguna.
+
+> Se modifica por el art. único.11 de la Orden APA/104/2022, de 11 de febrero. [Ref. BOE-A-2022-2621](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2621)
+
+> Se modifican los apartados 2 y 4 por el art. único.19 y 20 de la Orden APA/161/2020, de 20 de febrero. [Ref. BOE-A-2020-2612](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2612)
+
+> Se modifica el apartado 4 por el art. único.11 del Real Decreto 999/2017, de 24 de noviembre. [Ref. BOE-A-2017-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14332)
+
+> Se sustituye por el art. único.3 y Anexo II de la Orden AAA/2564/2015, de 27 de noviembre. [Ref. BOE-A-2015-13094](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13094).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 7, de 8 de enero de 2014. [Ref. BOE-A-2014-188](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-188).
+
+## ANEXO IV — Lista de residuos orgánicos biodegradables
+
+Materiales relacionados en la lista europea de residuos. Decisión 2001/118/CE de 16 de enero de 2001, transpuesta por la Orden MAM/304/2002, de 8 de febrero.
+
+### 02 RESIDUOS DE LA AGRICULTURA, HORTICULTURA, ACUICULTURA, SILVICULTURA, CAZA Y PESCA; RESIDUOS DE LA PREPARACIÓN Y ELABORACIÓN DE ALIMENTOS
+
+02 01 Residuos de la agricultura, horticultura, acuicultura, silvicultura, caza y pesca
+
+02 01 01 Lodos de lavado y limpieza
+
+02 01 02 Residuos de tejidos animales (salvo lo exceptuado en el Reglamento 1069/2009)
+
+02 01 03 Residuos de tejidos vegetales
+
+02.01.06 Deyecciones de animales, estiércoles y efluentes recogidos selectivamente y tratados fuera del lugar donde se generan
+
+02 01 07 Residuos de la silvicultura
+
+02 01 99 Residuos no especificados en otra categoría: sustrato agotado y posteriormente higienizado del cultivo de setas.
+
+02 02 Residuos de la preparación y elaboración de carne, pescado y otros alimentos de origen animal (salvo lo exceptuado en el Reglamento 1069/2009)
+
+02 02 01 Lodos de lavado y limpieza
+
+02 02 02 Residuos de tejidos de animales
+
+02 02 03 Materiales inadecuados para el consumo o la elaboración
+
+02 02 04 Lodos del tratamiento «in situ» de efluentes
+
+02 03 Residuos de la preparación y elaboración de frutas, hortalizas, cereales, aceites comestibles, cacao, café, té y tabaco; producción de conservas; producción de levadura y extracto de levadura, preparación y fermentación de melazas
+
+02 03 01 Lodos de lavado, limpieza, pelado, centrifugado y separación
+
+02 03 04 Materiales inadecuados para el consumo o la elaboración
+
+02 03 05 Lodos de tratamiento «in situ» de efluentes
+
+02 04 Residuos de la elaboración de azúcar
+
+02 04 03 Lodos de tratamiento «in situ» de efluentes
+
+02 05 Residuos de la industria de productos lácteos
+
+02 05 01 Materiales inadecuados para el consumo o la elaboración
+
+02 05 02 Lodos de tratamiento «in situ» de efluentes
+
+02 06 Residuos de la industria de panadería y pastelería
+
+02 06 01 Materiales inadecuados para el consumo o la elaboración
+
+02 06 03 Lodos de tratamiento «in situ» de efluentes
+
+02 07 Residuos de la producción de bebidas alcohólicas y no alcohólicas (excepto café, té y cacao)
+
+02 07 01 Residuos de lavado, limpieza y separación mecánica de materias primas
+
+02 07 02 Residuos de la destilación de alcoholes
+
+02 07 04 Materiales inadecuados para el consumo o la elaboración
+
+02 07 05 Lodos de tratamiento «in situ» de efluentes
+
+### 03 RESIDUOS DE LA TRANSFORMACIÓN DE LA MADERA Y DE LA PRODUCCIÓN DE TABLEROS Y MUEBLES, PASTA DE PAPEL, PAPEL Y CARTÓN
+
+03 01 Residuos de la transformación de la madera y de la producción de tableros y muebles
+
+03 01 01 Residuos de corteza y corcho
+
+03 01 05 Serrín, virutas, recortes, madera, tableros de partículas y chapas que no contienen sustancias peligrosas.
+
+03 03 Residuos de la producción y transformación de pasta de papel, papel y cartón
+
+03 03 01 Residuos de corteza y madera
+
+03 03 02 Lodos de lejías verdes (procedentes de la recuperación de lejías de cocción)
+
+03 03 08 Residuos procedentes de la clasificación de papel y cartón destinados al reciclado
+
+03 03 10 Desechos de fibras y lodos de fibras, de materiales de carga y de estucado, obtenidos por separación mecánica
+
+03 03 11 Lodos del tratamiento «in situ» de efluentes, distintos de los especificados en el código 03 03 10
+
+### 04 RESIDUOS DE LAS INDUSTRIAS DEL CUERO, DE LA PIEL Y TEXTIL
+
+04 01 Residuos de las industrias del cuero y de la piel
+
+04 01 01 Carnazas y serrajes del encalado
+
+04 01 07 Lodos, en particular los procedentes del tratamiento in situ de efluentes, que no contienen cromo
+
+04 01 99 Residuos no especificados en otra categoría: residuos del curtido vegetal de piel (virutas) que no contienen cromo.
+
+04 02 Residuos de la industria textil
+
+04 02 10 Materia orgánica de productos naturales (por ejemplo grasa, cera)
+
+04 02 20 Lodos de tratamiento in situ de efluentes que no contienen sustancias peligrosas
+
+04 02 21 Residuos de fibras textiles no procesadas
+
+### 19 RESIDUOS DE LAS INSTALACIONES PARA EL TRATAMIENTO DE RESIDUOS
+
+19 05 Residuos del tratamiento aeróbico de residuos sólidos
+
+19 05 01 Fracción no compostada de residuos municipales y asimilados
+
+19 05 02 Fracción no compostada de residuos de procedencia animal (salvo lo exceptuado en el Reglamento 1069/2009) o vegetal
+
+19 06 Residuos del tratamiento anaeróbico de residuos
+
+19 06 03 Licores («digestato») del tratamiento anaeróbico de residuos municipales
+
+19 06 04 Materiales de digestión del tratamiento anaeróbico de residuos municipales
+
+19 06 05 Licores («digestato») del tratamiento anaeróbico de residuos animales (salvo lo exceptuado en el Reglamento 1069/2009) y vegetales
+
+19 06 06 Materiales de digestión del tratamiento anaeróbico de residuos animales (salvo lo exceptuado en el Reglamento 1069/2009) y vegetales.
+
+19 08 Residuos de plantas de tratamiento de aguas residuales no especificadas en otra categoría
+
+19 08 05 Lodos del tratamiento de aguas residuales urbanas, con contenidos en metales pesados inferiores a los establecidos en el real decreto 1310/1990.
+
+19 08 12 Lodos procedentes del tratamiento biológico de aguas residuales industriales, que no contienen sustancias peligrosas
+
+19 08 14 Lodos procedentes de otros tratamientos de aguas residuales industriales, que no contienen sustancias peligrosas
+
+### 20 RESIDUOS MUNICIPALES (RESIDUO DOMÉSTICOS Y RESIDUOS ASIMILABLES PROCEDENTES DE LOS COMERCIOS, INDUSTRIAS E INSTITUCIONES), INCLUIDAS LAS FRACCIONES RECOGIDAS SELECTIVAMENTE
+
+20 01 Fracciones recogidas selectivamente
+
+20 01 08 Residuos biodegradables de cocinas y restaurantes
+
+20 01 25 Aceites y grasas comestibles
+
+20 01 38 Madera que no contiene sustancias peligrosas
+
+20 02 Residuos de parques y jardines
+
+20 02 01 Residuos biodegradables
+
+20 03 Otros residuos municipales
+
+20 03 02 Residuos de mercados de origen vegetal y animal
+
+20 03 04 Lodos de fosas sépticas
+
+> Se modifica el punto 02 01 por el art. único.4 de la Orden AAA/2564/2015, de 27 de noviembre. [Ref. BOE-A-2015-13094](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13094).
+
+## ANEXO V — Criterios aplicables a los productos fertilizantes elaborados con residuos y otros componentes orgánicos
+
+1\. Porcentaje de nitrógeno orgánico
+
+En los abonos orgánicos, el contenido en nitrógeno orgánico, deberá ser al menos un 85 por ciento del nitrógeno total, salvo que en los requisitos específicos del tipo se dispongan otros valores.
+
+2\. Humedad
+
+En los abonos granulados o peletizados, el contenido máximo en humedad permitido, expresado en porcentaje en masa, será del 14 por ciento, salvo que en la especificación del tipo se fije una cifra diferente.
+
+3\. Granulometría
+
+Con carácter general, en los abonos orgánicos y las enmiendas orgánicas, el 90 por ciento del producto fertilizante, deberá pasar por una malla de 10 mm, salvo que en la especificación del tipo se fije una cifra diferente. Este requisito no obliga a los productos que están industrialmente granulados o peletizados.
+
+4\. Límite máximo de microorganismos
+
+1\. La materia prima transformada, lista para ser usada como ingrediente de abonos orgánicos de origen animal, debe ser sometida a un proceso de higienización que garantice que su carga microbiana no supera los valores máximos establecidos en el Reglamento (CE) N.º 1069/2009
+
+2\. En los productos fertilizantes de origen orgánico, se acreditará que no superan los siguientes niveles máximos de microorganismos:
+
+*Salmonella*: Ausente en 25 g de producto elaborado
+
+*Escherichia coli*: < 1000 número más probable (NMP) por gramo de producto elaborado
+
+5\. Límite máximo de metales pesados
+
+Los productos fertilizantes elaborados con materias primas de origen animal o vegetal no podrán superar el contenido de metales pesados indicado en el Cuadro siguiente, según sea su clase A, B o C:
+
+<table class="tabla">
+<tr>
+<td rowspan="3">
+<p class="cabeza_tabla">Metal pesado</p>
+</td>
+<td colspan="3">
+<p class="cabeza_tabla">Límites de concentración</p>
+<p class="cabeza_tabla">Sólidos: mg/kg de materia seca</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p class="cabeza_tabla">Líquidos: mg/kg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cabeza_tabla">Clase A</p>
+</td>
+<td>
+<p class="cabeza_tabla">Clase B</p>
+</td>
+<td>
+<p class="cabeza_tabla">Clase C</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Cadmio</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">0,7</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Cobre</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">70</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">300</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">400</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Níquel</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">25</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">90</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Plomo</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">45</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">150</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">200</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Zinc</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">200</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">500</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Mercurio</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">0,4</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1,5</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">2,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Cromo (total)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">70</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">250</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">300</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Cromo (VI) *</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">No detectable según método oficial</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">No detectable según método oficial</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">No detectable según método oficial</p>
+</td>
+</tr>
+</table>
+
+Clase A: Productos fertilizantes cuyo contenido en metales pesados no superan ninguno de ellos los valores de la columna A.
+
+Clase B: Productos fertilizantes cuyo contenido en metales pesados no superan ninguno de ellos los valores de la columna B.
+
+Clase C: Productos fertilizantes cuyo contenido en metales pesados no superan ninguno de ellos los valores de la columna C.
+
+6\. Limitaciones de uso
+
+1\. Sin perjuicio de las limitaciones establecidas en el capítulo IV, los productos fertilizantes elaborados con componentes de origen orgánico se aplicarán al suelo siguiendo los códigos de buenas prácticas agrarias. En las zonas designadas como vulnerables la aplicación de estos productos se ajustará al programa de actuación establecido en cada caso.
+
+2\. Los productos de la clase C no podrán aplicarse sobre suelos agrícolas en dosis superiores a cinco toneladas de materia seca por ha y año. En zonas de especial protección, las Comunidades Autónomas modificaran, en su caso, la cantidad anterior.
+
+7\. Límite máximo de furfural
+
+En los productos que contengan como materia prima lignosulfonatos, lodos procedentes de la industria del papel o de la elaboración de azúcar, se acreditará que no supera el 0,05% p/p como límite máximo de contenido de furfural (2 furaldehido)
+
+8\. Límite máximo de polifenoles
+
+En los productos que contengan como materia prima subproductos o residuos procedentes de almazaras, se acreditará que no superan el 0,8% p/p como límite máximo de contenido de polifenoles.
+
+## ANEXO VI — Métodos analíticos
+
+| Tipo de determinación | Ámbito aplicación/ Producto fertilizante concernido | Normativa oficial |
+|---|---|---|
+| Método de toma de muestras para el control de los abonos. |  | UNE-EN 1482-1 |
+| Preparación de la muestra que se ha de analizar |  | UNE-EN 1482-2 |
+| Toma de muestras de montones estáticos para análisis |  | UNE-EN 1482-3 |
+| Grado de finura de molienda en seco. |  | UNE-EN 15928 |
+| Grado de finura de molienda en los fosfatos naturales blandos. | Fosfatos naturales blandos. | UNE-EN 15924 |
+| Agua total. |  | Método 3<br>Orden 1 de diciembre de 1981<br>(BOE de 20 de enero de 1982). |
+| Agua libre. |  | Método 4<br>Orden 30 de noviembre de 1976<br>(BOE de 4 de enero de 1977). |
+| Nitrógeno (detección de nitratos). |  | Método 5<br>Orden 30 de noviembre de 1976<br>(BOE de 4 de enero de 1977). |
+| Nitrógeno total en la urea. | Urea exenta de nitratos. | UNE-EN 15478. |
+| Nitrógeno total en abonos que contengan nitrógeno solamente en forma nítrica, amoniacal y ureica mediante dos métodos diferentes |  | UNE-EN 15750 |
+| Diferentes formas de nitrógeno presentes simultáneamente en los abonos que lo contienen en forma nítrica, amoniacal, ureica y cianamídica. |  | UNE-EN 15604. |
+| Nitrógeno amoniacal. | Abonos nitrogenados y compuestos, en los que el nitrógeno se encuentre exclusivamente en forma de sales de amonio o de sales de amonio y de nitratos. | UNE-EN 15475. |
+| Nitrógeno nítrico y amoniacal (Método Ulsch). | Abonos nitrogenados y compuestos, en los que el nitrógeno se encuentre exclusivamente en forma nítrica o en forma amoniacal y nítrica. | UNE-EN 15558. |
+| Nitrógeno nítrico y amoniacal (Método Arnd). | Abonos nitrogenados y compuestos, en los que el nitrógeno se encuentre exclusivamente en forma nítrica o en forma amoniacal y nítrica. | UNE-EN 15559. |
+| Nitrógeno nítrico y amoniacal (Método Devarda). | Abonos nitrogenados y compuestos, en los que el nitrógeno se encuentre exclusivamente en forma nítrica o en forma amoniacal y nítrica. | UNE-EN 15476. |
+| Biuret en la urea (Método espectrofotométrico) | Urea. | UNE-EN 15479. |
+| Determinación del contenido en condensados de urea por HPLC. Isobutilidendiurea y crotonilidendiurea (método A) y oligómeros de urea metileno (método B) |  | UNE-EN 15705 |
+| Extracción de fósforo soluble en los ácidos minerales. |  | UNE-EN 15956. |
+| Extracción de fósforo soluble en agua. |  | UNE-EN 15958 |
+| Extracción de fósforo soluble en citrato de amonio neutro. |  | UNE-EN 15957. |
+| Extracción de fósforo soluble en citrato de amonio alcalino (Método de Petermann a 65.ºC). | Fosfato ácido de calciodihidrato precipitado (PO<sub>4</sub>HCa 2H<sub>2</sub>O). | UNE-EN 15921. |
+| Extracción de fósforo soluble en citrato de amonio alcalino (Método de Petermann a la temperatura ambiente). | Fosfatos calcinados. | UNE-EN 15922. |
+| Extracción de fósforo soluble en el citrato de amonio alcalino (Método de Joulie). | Abonos fosfatados simples o compuestos a base de fosfatos aluminocálcicos. | UNE-EN 15923. |
+| Extracción de fósforo soluble en ácido cítrico al 2%. | Escorias de defosforación. | UNE-EN 15920. |
+| Extracción de fósforo soluble en ácido fórmico al 2%. | Fosfatos naturales blandos. | UNE-EN 15919. |
+| Determinación del fósforo extraído. |  | UNE-EN 15959. |
+| Potasio soluble en agua. |  | UNE-EN 15477. |
+| Determinación cuantitativa del boro en los extractos de abonos por espectrometría de la azometina-H. | Abonos con un contenido de micronutrientes igual o inferior al 10%. | UNE-EN 17041 |
+| Determinación cuantitativa del boro en los extractos de abonos por acidimetría. | Abonos con un contenido de micronutrientes superior al 10%. | UNE-EN 17042 |
+| Extracción de los micronutrientes totales. |  | UNE-EN 16964 |
+| Extracción de los micronutrientes solubles en agua y eliminación de compuestos orgánicos de los extractos de fertilizantes |  | UNE-EN 16962 |
+| Determinación de cobalto, cobre, hierro, manganeso y zinc utilizando espectrometría de absorción atómica de llama (FAAS) |  | UNE-EN 16965 |
+| Determinación de boro, cobalto, cobre, hierro, manganeso, molibdeno y zinc utilizando ICP-AES |  | UNE-EN 16963 |
+| Extracción del calcio total, del magnesio total, del sodio total y del azufre total en forma de sulfato. |  | UNE-EN 15960. |
+| Extracción del azufre total presente en diversas formas. | Abonos que contienen azufre en forma de elemental, tiosulfato, sulfito y sulfatos. | UNE-EN 15925. |
+| Extracción de las formas solubles en agua del calcio, del magnesio, del sodio y del azufre presente en forma de sulfato. |  | UNE-EN 15961. |
+| Extracción del azufre soluble en agua, presente en diversas formas. |  | UNE-EN 15926. |
+| Extracción y determinación cuantitativa del azufre elemental. | Abonos que contienen azufre en forma elemental. | UNE-EN 16032. |
+| Trióxido de azufre soluble en agua, en forma de tiosulfato. |  | Valoración Iodométrica. |
+| Determinación manganimétrica del calcio extraído por precipitación en forma de oxalato. |  | UNE-EN 16196. |
+| Determinación cuantitativa del magnesio por espectrometría de absorción atómica. | Abonos que declaren el magnesio total y/o el magnesio soluble en agua a excepción de los abonos especificados en el ámbito de aplicación del método 24(h). | UNE-EN 16197. |
+| Determinación cuantitativa del magnesio por complexometría. | Abonos que declaren el magnesio total y/o magnesio soluble en agua:<br>Nitrato de calcio y de magnesio, sulfonitrato de magnesio, abono nitrogenado con magnesio, sal bruta de potasa enriquecida, cloruro de potasio con magnesio y sulfato de potasio con sal de magnesio, kieserita, sulfato de magnesio y kieserita con sulfato de potasio. | UNE-EN 16198. |
+| Determinación cuantitativa de los sulfatos utilizando tres métodos diferentes. |  | UNE-EN 15749. |
+| Determinación cuantitativa del sodio extraído. |  | UNE-EN 16199. |
+| Determinación de calcio y formiato en el formiato de calcio | Fertilizantes foliares con calcio | UNE-EN 15909 |
+| Cloruros | Abonos que no tengan materia orgánica. | UNE-EN 16195. |
+| Determinación cuantitativa del molibdeno en los extractos de abonos por espectrometría de un complejo con tiocianato amónico. | Abonos con un contenido de oligoelementos igual o inferior al 10%. | UNE-EN 17043 |
+| Determinación cuantitativa del molibdeno en los extractos de abonos por gravimetría con 8-hidroxiquinoleína. | Abonos con un contenido de oligoelementos superior al 10%. | CEN/TS 17060 |
+| Índice de actividades de liberación lenta del nitrógeno. | Compuestos de urea-formaldehído y mezclas que contengan tales compuestos. | Método 36<br>Publicación Métodos Oficiales del Ministerio de Agricultura, Pesca y Alimentación. |
+| Valor neutralizante. | Enmiendas calizas. | UNE-EN 12945. |
+| Determinación de la distribución de tamaño de partícula de las enmiendas calizas mediante tamización por vía seca y por vía húmeda | Enmiendas calizas. | UNE-EN 12948 |
+| Determinación de la reactividad por el método de valoración automática con ácido cítrico | Enmiendas calizas. | UNE-EN 16357 |
+| Determinación del contenido de calcio de las enmiendas calizas por el método del oxalato | Enmiendas calizas. | UNE-EN 13475 |
+| Determinación del contenido de magnesio de las enmiendas calizas mediante el método por espectrometría de absorción atómica | Enmiendas calizas. | UNE-EN 12947 |
+| Determinación del contenido de humedad | Enmiendas calizas. | UNE-EN 12048 |
+| Determinación de la ruptura de gránulos | Enmiendas calizas. | UNE-EN 15704 |
+| Determinación del impacto del producto mediante incubación del suelo | Enmiendas calizas. | UNE-EN 14984 |
+| Determinación del dióxido de carbono | Abonos sólidos y enmiendas calizas | UNE-EN 14397-1 |
+
+> <table class="tabla_ancha">
+> <caption>
+> <p class="centro_cursiva">2. Métodos de análisis de los productos fertilizantes orgánicos y órgano-minerales</p>
+> </caption>
+> <colgroup>
+> <col>
+> <col>
+> <col>
+> <col>
+> </colgroup>
+> <thead>
+> <tr>
+> <th class="cabeza_tabla">Tipo de determinación</th>
+> <th class="cabeza_tabla">Ámbito de aplicación/Producto fertilizante concernido</th>
+> <th class="cabeza_tabla">Normativa oficial española</th>
+> <th class="cabeza_tabla">Métodos o técnicas recomendados</th>
+> </tr>
+> </thead>
+> <tbody>
+> <tr>
+> <td class="cuerpo_tabla_izq">Método de toma de muestras de fertilizantes sólidos orgánicos y afines.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">Anexo III</p>
+> <p class="cuerpo_tabla_izq">Orden de 13 de mayo de 1982.</p>
+> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Preparación de la muestra.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">Método 2</p>
+> <p class="cuerpo_tabla_izq">Orden de 18 de julio de 1989 por la que se aprueban los métodos oficiales de análisis de fertilizantes</p>
+> <p class="cuerpo_tabla_izq">(BOE de 25 de julio de 1989).</p>
+> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Humedad.</td>
+> <td class="cuerpo_tabla_izq">Fertilizantes sólidos y enmiendas calizas.</td>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">Anexo VIII. Método 2</p>
+> <p class="cuerpo_tabla_izq">Orden 17 de septiembre de 1981</p>
+> <p class="cuerpo_tabla_izq">(BOE de 14 de octubre de 1981).</p>
+> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">Materia orgánica total por calcinación</p>
+> <p class="cuerpo_tabla_izq">Sobre muestra natural*.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">Aplicable a abonos organominerales con el lavado previo con ácido clorhídrico. Abonos orgánicos y enmiendas orgánicas sin el lavado previo con ácido clorhídrico.</p>
+> <p class="cuerpo_tabla_izq">Los productos líquidos no se lavan.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">Método 3(a)</p>
+> <p class="cuerpo_tabla_izq">Orden 1 de diciembre de 1981</p>
+> <p class="cuerpo_tabla_izq">(BOE de 20 de enero de 1982</p>
+> <p class="cuerpo_tabla_izq">Referencia: Norma U44-160)</p>
+> <p class="cuerpo_tabla_izq">AFNOR 1976.</p>
+> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">Extracto húmico total y ácidos húmicos.</p>
+> <p class="cuerpo_tabla_izq">Sobre muestra natural*.</p>
+> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">Método 4</p>
+> <p class="cuerpo_tabla_izq">R.D. 1110/1991</p>
+> <p class="cuerpo_tabla_izq">(BOE n.º 170 de 17 de julio de 1991).*<sup>2</sup></p>
+> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Cenizas.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">Método 5</p>
+> <p class="cuerpo_tabla_izq">Orden 17 de septiembre de 1981</p>
+> <p class="cuerpo_tabla_izq">(BOE de 14 de octubre de 1981).</p>
+> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Carbono orgánico.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">Método materia orgánica total por calcinación/1,724.</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">pH.</td>
+> <td class="cuerpo_tabla_izq">En los productos líquidos se aplicará el método oficial con la siguiente modificación: La medida del pH será directa, sin efectuar una dilución previa de la muestra.</td>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">Método 6</p>
+> <p class="cuerpo_tabla_izq">Orden 1 de diciembre de 1981</p>
+> <p class="cuerpo_tabla_izq">(BOE de 20 de enero de 1982).</p>
+> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Grado de finura.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">Método 7</p>
+> <p class="cuerpo_tabla_izq">R.D. 1110/1991</p>
+> <p class="cuerpo_tabla_izq">(BOE n.º 170 de 17 de julio de 1991).</p>
+> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Nitrógeno total en abonos que contengan nitrógeno solamente en forma nítrica, amoniacal y ureica mediante dos métodos diferentes</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 15750</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Diferentes formas de nitrógeno presentes simultáneamente en los abonos que lo contienen en forma nítrica, amoniacal, ureica y cianamídica.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 15604.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Nitrógeno ureico (amídico).</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 15604.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Nitrógeno nítrico.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 15604.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Nitrógeno amoniacal.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 15604.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Nitrógeno orgánico.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">Método 12</p>
+> <p class="cuerpo_tabla_izq">R.D. 1110/1991</p>
+> <p class="cuerpo_tabla_izq">(BOE n.º 170 de 17 de julio de 1991)</p>
+> <p class="cuerpo_tabla_izq">Referencia: AOAC.</p>
+> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Extracción del fósforo total (soluble en ácidos minerales)</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 15956</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Extracción del fósforo soluble en agua y en citrato amónico.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 15957</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Extracción del fósforo soluble en agua.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 15958</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Determinación del fósforo extraído</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 15959</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Potasio soluble en agua.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 15477.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Potasio total.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">Método 17</p>
+> <p class="cuerpo_tabla_izq">R.D. 1110/1991</p>
+> <p class="cuerpo_tabla_izq">(BOE n.º 170 de 17 de julio de 1991).</p>
+> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Extracción del calcio total, del magnesio total, del sodio total y del azufre total en forma de sulfato.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">.</td>
+> <td class="cuerpo_tabla_izq">UNE-EN 15960.</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Extracción del azufre total presente en diversas formas.</td>
+> <td class="cuerpo_tabla_izq">Abonos que contienen azufre en forma de elemental, tiosulfato, sulfito y sulfatos.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 15925.</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Aminoácidos libres.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">Método 18</p>
+> <p class="cuerpo_tabla_izq">R.D. 1110/1991</p>
+> <p class="cuerpo_tabla_izq">(BOE n.º 170 de 17 de julio de 1991).</p>
+> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Extracción de las formas solubles en agua del calcio, del magnesio, del sodio y del azufre presente en forma de sulfato.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 15961.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Conductividad eléctrica.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 13038.</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Boro, Cobre, Hierro, Manganeso, Molibdeno y Zinc solubles en agua</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">
+> <p class="cuerpo_tabla_izq">UNE-EN 16962 (extracción)</p>
+> <p class="cuerpo_tabla_izq">UNE-EN 13650 ó ISO11885, (cuantificación)</p>
+> </td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Boro, Cobre, Hierro, Manganeso, Molibdeno y Zinc totales.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 13650, ó UNE-EN16964 (extracción) y UNE-EN 16965 y UNE-EN 19963 (cuantificación)</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Calcio.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 13650.</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Magnesio.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN-13650.</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Arsénico</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 16317</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Cadmio</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN-13650 ó UNE-EN16319</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Cromo.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 13650 ó UNE-EN16319</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Cromo hexavalente.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">ISO 17075/2.</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mercurio.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 13806 ó UNE-EN 16320</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Níquel.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 13650 ó UNE-EN16319</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Plomo.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN 13650 ó UNE-EN16319</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">
+> <em>Escherichia coli.</em>
+> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">ISO-7251.</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">
+> <em>Salmonella.</em>
+> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">UNE-EN-ISO 6579</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Contenido en polifenoles expresados en Ac. cumárico.</td>
+> <td class="cuerpo_tabla_izq">Enmiendas orgánicas a base de alperujos.</td>
+> <td class="cuerpo_tabla_izq"> </td>
+> <td class="cuerpo_tabla_izq">Kuwatsuka y Shindo.</td>
+> </tr>
+> </tbody>
+> <tfoot>
+> <tr>
+> <td colspan="4">
+> <p class="cita">* Las determinaciones de Materia orgánica por calcinación (3a) y Extracto húmico total y Ácidos húmicos (4) se expresan sobre muestra natural, hay que modificar el método analítico no se desecando la muestra previamente.</p>
+> <p class="cita">*<sup>2</sup> En las determinaciones del extracto húmico y los ácidos húmicos se podrá aplicar una modificación del método indicado, realizando una cuantificación de la materia orgánica mediante espectrofotometría.</p>
+> </td>
+> </tr>
+> </tfoot>
+> </table>
+
+> | Tipo de determinación | Ámbito de aplicación/Producto fertilizante concernido | Normativa oficial | Métodos o técnicas recomendados |
+> |---|---|---|---|
+> | Contenido de micronutrientes quelados y la fracción quelados de micronutrientes. |  | UNE-EN 13366. |  |
+> | Contenido de micronutrientes quelados y agentes quelantes por cromatografía<br>EDTA, HEDTA y DTPA:. | Abonos con micronutrientes,<br>Ca y Mg. | UNE-EN 13368-1. |  |
+> | Contenido de hierro quelado y agentes quelantes por cromatografía:<br>(o–o) EDDHA, (o–o) EDDHMA y HBED. | Abonos con hierro. | UNE-EN 13368-2. |  |
+> | Contenido de hierro quelado y agente quelante (o-p) EDDHA. | Abonos con hierro. | UNE-EN 15452. |  |
+> | Determinación del agente quelante ácido 2-Hidroxi-α-[(2-hidriexietil) amino]-fenilacético orto-MEAHA | Abonos con hierro. |  | HPLC/UV |
+> | Contenido de hierro quelado y agente quelante EDDHSA y sus productos de condensación. | Abonos con hierro. | UNE-EN 15451. |  |
+> | Determinación del contenido de [S,S]-EDDS |  | UNE-EN 13368-3 |  |
+> | Determinación de ácido N-(1,2-dicarboxietil)-D,L-aspártico (ácido iminodisuccínico, IDHA) | Abonos con micronutrientes | UNE-EN 15950 |  |
+> | Contenido de micronutrientes complejados y fracción complejada de micronutrientes. | Abonos con micronutrientes,<br>Ca y Mg. | UNE-EN 15962. |  |
+> | Identificación del agente complejante Ac. Lignosulfónico. | Abonos con micronutrientes, Ca y Mg. | UNE-EN 16109. |  |
+> | Determinación del agente complejante<br>Ac. Glucónico. | Abonos con micronutrientes,<br>Ca y Mg. |  | MA-F-AS313-17<br>Recueil Internacional des Méthodes D´Analyses<br>OIV. |
+> | Identificación del agente complejante<br>Ac. Heptaglucónico. | Abonos con micronutrientes,<br>Ca y Mg. | UNE-EN 16847 |  |
+> | Contenido de micronutrientes complejados y agentes complejantes<br>Ácidos húmicos. | Abonos con Fe, Cu y Zn. | Método 4<br>R.D. 1110/1991<br>(BOE n.º 170 de 17 de julio de 1991). |  |
+> | Contenido de micronutrientes complejados y agentes complejantes<br>Aminoácidos libres. | Abonos con Cu y Zn. | Método 18<br>R.D.110/1991<br>(BOE n.º170 de 17 de julio de 1991). |  |
+> | Contenido de nutrientes complejados y agente complejante<br>Ac. Cítrico. | Abonos con Fe y Ca. |  | MA-F-AS313-17<br>Recueil Internacional des Méthodes D´Analyses<br>OIV. |
+> | Determinación de Inhibidor de la nitrificación: Diciandiamida (DCD). | Abonos con N en forma nitrificable. | UNE-EN 15360. |  |
+> | Determinación de inhibidor de la ureasa N-(n-butil) triamida trifosfórica (NBPT) |  | UNE-EN 15688 |  |
+> | Determinación de 3-metilpirazol |  | UNE-EN 15905 |  |
+> | Determinación del 1H,1,2,4-triazol (TZ) en urea y en fertilizantes que contienen urea. |  | UNE-EN 16024 |  |
+> | Determinación de N-(2-nitrofenil) triamida de ácido fosfórico (2-NPT) en urea y fertilizantes que contienen urea. |  | UNE-EN 16075 |  |
+> | Determinación de inhibidor de la nitrificación:<br>Dimetildihidrógeno fosfato (DMPP). | Abonos con N en forma nitrificable. | UNE-EN 16328. |  |
+> | Determinación de Triamida del ácido N-(n-butil) tiofosfórico (NBPT) y Triamida del ácido N-(n-propil) tiofosfórico (NPPT) |  | UNE-EN 16651 |  |
+> | Determinación de inhibidor de la ureasa: monocarbamidadihidrógeno sulfato (MCDHS). | Fertilizantes inorgánicos nitrogenados simples que tengan exclusivamente N ureico |  | Espectroscopía Raman |
+> | Determinación del contenido de cadmio |  | UNE-EN 14888 |  |
+> | Contenido en 2-furaldehido (furfural). | Abonos que contengan como materia prima, lignosulfonatos, lodos procedentes de la industria del papel o de la elaboración de azúcar.<br>Sólidos se determina la fracción soluble. |  | OENO 18/2003<br>Codex Enológico Internacional. |
+> | Contenido en monómeros de acrilamida. | Enmiendas a base de polímeros de acrilamida. |  | Extracción acetonitrilo/agua<br>LC-MS/MS. |
+> |  |  |  |  |
+> | Capacidad de absorción de agua. | Enmiendas a base de polímeros de acrilamida. |  | Gravimetría. |
+> | Contenido en ácido algínico. |  |  | Espectrofotometría. |
+> | Contenido en manitol. |  |  | Cromatografía de intercambio aniónico (HPAE-PAD). |
+> | Contenido en SiO<sub>2</sub> amorfo. | Productos líquidos a base de silicio. |  | Espectrometría de absorción atómica. |
+> | Cantidad de sílice cristalina en la fracción respirable. | Abono sólido a base de silicio y mezcla líquida a base de silicio y aminoácidos. |  | Difracción de rayos X (método publicado por el Instituto de Seguridad e Higiene en el Trabajo). |
+> | Cantidad de glicolato. | Acondicionadores de la hidratación. |  | Espectrofotometría. |
+> | Determinación de carboximetil-celulosa (CMC). | Acondicionadores de la hidratación. |  | Espectroscopía de infrarrojo (FT-IR). |
+> | Viscosidad. | Acondicionadores de la hidratación. |  | Viscosímetro de Brookfield. |
+> | Cantidad en volumen para materiales con tamaño de particular menores de 60 mm. | Enmiendas silíceas. |  | UNE-EN 12580. |
+> | Cantidad en volumen para materiales con tamaño de particular mayores de 60 mm. | Enmiendas silíceas. |  | UNE-EN 15238. |
+> | Densidad aparente seca. | Enmiendas silíceas. |  | UNE-EN 13041. |
+> | Granulometría. | Enmiendas silíceas. |  | UNE-EN 15428. |
+> | Porosidad total. | Enmiendas silíceas. |  | UNE-EN 13041. |
+> | Volumen de agua. | Enmiendas silíceas. |  | UNE-EN 13041. |
+> | Volumen de aire. | Enmiendas silíceas. |  | UNE-EN 13041. |
+> | Determinación del inhibidor de la nitrificación Mezcla isomérica de ácido 2-(3,4-dimetilpirazol-1-il)-succínico y ácido 2-(4,5-dimetilpirazol-1il) succínico (DMPSA) | Abonos con N en forma nitrificable | UNE-EN 17090 |  |
+> | Contenido en Lipo-Quito-oligosacáridos (LCO) SP-104 | Abono a base de Lipo-Quito-oligosacáridos (LCO) SP-104 |  | HPLC/UV |
+
+> Se modifica por el art. único.12 de la Orden APA/104/2022, de 11 de febrero. [Ref. BOE-A-2022-2621](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2621)
+
+> Se modifica por el art. único.21 a 27 de la Orden APA/161/2020, de 20 de febrero. [Ref. BOE-A-2020-2612](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2612)
+
+> Se sustituye por el art. único.12 y Anexo II del Real Decreto 999/2017, de 24 de noviembre. [Ref. BOE-A-2017-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14332)
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 39, de 13 de febrero de 2018. [Ref. BOE-A-2018-1916](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1916)
+
+> Se sustituye por el art. único.5 y Anexo III de la Orden AAA/2564/2015, de 27 de noviembre. [Ref. BOE-A-2015-13094](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13094).
+
+## ANEXO VII — Instrucciones para la inclusión de un nuevo tipo en la relación de productos fertilizantes
+
+1\. La inclusión de un nuevo tipo de abono en el Anexo I del Reglamento (CE) N.º 2003/2003 deberá adoptarse con arreglo al procedimiento contemplado en el apartado 2 del artículo 31 del Reglamento (CE) N.º 2003/2003.
+
+2\. Para la inclusión de un nuevo tipo de producto fertilizante en alguno de los grupos del Anexo I, o la modificación de la relación vigente, el interesado deberá presentar un expediente técnico, de acuerdo con los apartados siguientes:
+
+a) IDENTIFICACIÓN DEL PRODUCTO
+
+1\. En este apartado se describirá el tipo de producto fertilizante, su composición, contenido mínimo de nutrientes, características fisicoquímicas, y proceso de fabricación, especificando todas las materias primas utilizadas y los procedimientos empleados.
+
+2\. Se resaltará el efecto principal del producto en las condiciones de uso recomendadas, mencionando los elementos o materias que causan el efecto indicado.
+
+b) INFORMACIÓN AGRONÓMICA.
+
+Como norma general, en este apartado se debe facilitar toda la información necesaria para la correcta y eficaz utilización del producto. En resumen, se trata de describir las condiciones de uso, los períodos de utilización, las dosis de aplicación del abono, en función del cultivo a que se destina, de acuerdo con las buenas prácticas agrícolas.
+
+Cultivos: se resaltarán los cultivos en los que se haya demostrado la eficacia del producto; se señalarán aquellos para los que no es aconsejable su utilización.
+
+Dosis de empleo: se indicarán la dosis de empleo necesaria para obtener el efecto principal en el cultivo de que se trate. La dosis recomendada deberá expresarse en peso o volumen de producto, tal como se comercializa, y en cantidad de elementos nutritivos, por ejemplo, en kilogramos de nitrógeno y de producto por hectárea y año. Si el producto se aplica varias veces a un mismo cultivo, deberá indicarse la dosis por aplicación y el número de aplicaciones. Cuando se trate de productos que hayan de diluirse antes del uso, deberá mencionarse el volumen de diluyente necesario.
+
+Método de aplicación. Se precisará si el producto debe aplicarse directamente al suelo, a la planta o ambos. Se indicará el método de aplicación: esparcido general o localizado, riego por aspersión, riego localizado, aplicación foliar, etc. Especificar los períodos del año en que debe aplicarse y las etapas del desarrollo de las plantas (estados fenológicos) en los que resulta más eficaz. Describir las situaciones en que se desaconseja el empleo del producto, las mezclas permitidas y las prohibidas (incompatibilidad con otros productos), el intervalo de pH en el que se garantiza la estabilidad del producto, la temperatura adecuada, los plazos de espera y demás precauciones, si las hubiere; limitaciones de uso, etc.
+
+Eficacia: Aportación de estudios, ensayos y experiencias realizadas que puedan servir para la constatación de su eficacia agronómica, indicando la entidad que los realizó. Los ensayos aportados deben referirse a España o a condiciones similares a las españolas, y no sólo a terceros países.
+
+c) INFORMACIÓN RELATIVA A LOS EFECTOS SOBRE LA SALUD Y A LA SEGURIDAD
+
+El expediente técnico deberá exponer los posibles riesgos para la salud pública y la seguridad de las personas y determinar los ensayos realizados sobre riesgo en personas o acumulación de residuos en alimentos. En caso de algún tipo de riesgo, será necesario determinar las precauciones en su almacenamiento y uso o manipulación.
+
+Indicar en la mayor medida que permitan los conocimientos, las sustancias no deseadas y los agentes químicos o biológicos que repercutan o puedan repercutir en la salud de las personas, los animales o en el medio ambiente.
+
+Se seguirá como modelo la Ficha de Datos de Seguridad, que se establece en el Anexo II del Reglamento (CE) n.º 1907/2006, modificado por el Reglamento (CE) n.º 453/2010 de la Comisión de 20 de mayo.
+
+d) INFORMACIÓN RELATIVA A LOS EFECTOS SOBRE EL SUELO Y EL MEDIOAMBIENTE.
+
+Se deberán proporcionar datos suficientes para evaluar posibles daños sobre la naturaleza (agua, aire, suelo, flora y fauna). Especialmente, se deberá demostrar que su utilización en la agricultura no acumulará metales pesados en el suelo, ni incrementará su salinidad, ni incorporará ningún contaminante.
+
+Se especificarán los cambios que el producto pueda originar sobre las propiedades físicas y químicas del suelo, así como sobre su actividad biológica. Se informará sobre el destino final y comportamiento en el medio ambiente del producto, en especial en el suelo, así como, la posible afección al resto de los compartimentos ambientales y se proporcionarán las instrucciones para su correcto empleo.
+
+La autoridad ambiental competente podrá requerir, caso por caso, información adicional con el fin de evaluar que la utilización de un nuevo tipo no produzca riesgo inaceptable para el medio ambiente y sus organismos
+
+e) MÉTODOS DE ANÁLISIS Y RESULTADOS.
+
+Para poder verificar el contenido mínimo de principios activos y otras exigencias del producto que se pretende incluir en la legislación, se indicarán los métodos de análisis empleados, que serán preferentemente los métodos oficiales del Ministerio de Agricultura, Pesca y Alimentación para productos fertilizantes (Anexo VI).
+
+Sí la determinación no dispone de método oficial, se deberá especificar el método de análisis propuesto. En este caso se utilizarán prioritariamente métodos o normas EN, ISO, OCDE, AOAC o UNE. Cualquier otra alternativa deberá justificarse, adjuntando una versión completa del mismo, incluido el método de preparación de las muestras.
+
+Con el fin de completar la información, se adjuntará una relación de resultados de los distintos análisis del producto realizados por un laboratorio acorde con el apartado 5 del artículo 31.
+
+f) INFORMACIÓN COMPLEMENTARIA Y BIBLIOGRAFÍA.
+
+Incluir cualquier otra información que se considere útil y no quede recogida en los apartados anteriores. Se completará este apartado con una bibliografía tan amplia como sea posible.
+
+g) PROPUESTA DE INCLUSIÓN EN LA RELACIÓN DE TIPOS DE PRODUCTOS FERTILIZANTES.
+
+Elaborar una propuesta de inclusión en la relación de tipos del Anexo I, y facilitar la denominación del tipo, así como completar las columnas correspondientes, de acuerdo con modelo de cuadro siguiente:
+
+| Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en nutrientes (porcentaje en masa)<br>Información sobre la evaluación de los nutrientes<br>Otros requisitos | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse<br>Formas y solubilidad de los nutrientes<br>Otros criterios |
+|---|---|---|---|---|
+| 2 | 3 | 4 | 5 | 6 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+> Se modifica el apartado e) por el art. único.13 del Real Decreto 999/2017, de 24 de noviembre. [Ref. BOE-A-2017-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14332)
+
+## ANEXO VIII — Requisitos específicos de los productos fertilizantes elaborados con microorganismos, para su inscripción en el Registro de productos fertilizantes
+
+Informe técnico
+
+Con el fin de inscribirse en el Registro de productos fertilizantes, los productos incluidos en el apartado 4 del grupo 4 del anexo I deberán presentar en el momento de la solicitud el informe técnico a que hace referencia el artículo 24.1. El informe será realizado por un organismo independiente, que puede ser un centro de investigación, universidad o empresa acreditada para ensayos agronómicos. Dicho informe deberá ajustarse al modelo normalizado al efecto y como mínimo contendrá los dos apartados siguientes:
+
+1\. Identificación y caracterización de los microorganismos:
+
+a) Los microorganismos que formen parte del producto fertilizante deben de identificarse a nivel de género, especie con base en la secuencia del gen 16s en procariotas, y la del ITS18s, en caso de los eucariotas. Además, podrán utilizarse otros genes como marcadores inequívocos de la cepa, caso de conocerlos, incluyendo la secuencia (o secuencias diferenciadora y señalando los cambios de base específicos para cada microorganismo objeto de registro.
+
+b) Descripción del método de aislamiento y cuantificación de los microorganismos a partir del producto fertilizante que se quiere inscribir.
+
+c) Condiciones de crecimiento en el laboratorio de los microorganismos y de purificación del material genético para poder realizar su caracterización molecular.
+
+d) Condiciones de la PCR para amplificar la secuencia a que hace referencia el apartado a), incluyendo la secuencia de los cebadores que se deben de emplear.
+
+2\. Demostración de la eficiencia agronómica del producto que se pretende registrar:
+
+Los productos deben de demostrar la eficiencia agronómica de la formulación concreta que pretenden inscribir. La parte del informe que se refiere a la eficiencia agronómica debe estar firmada por el responsable de los ensayos, con experiencia en campo y perteneciente a un organismo independiente, de acuerdo con el Protocolo de ensayo aprobado por la Dirección General de Producciones y Mercados Agrarios. El informe tiene que incluir:
+
+a) Conclusión favorable de la eficiencia agronómica del producto objeto de ensayo, resumiendo las condiciones de uso, como dosis, formas de aplicación, cultivos, incompatibilidades e interferencias detectadas, etc. El uso de cada producto se autoriza solo en aquellos grupos de cultivos en los que se ha demostrado su eficiencia agronómica, estableciéndose los siguientes grandes grupos:
+
+1\. Cultivos hortícolas.
+
+1.a En suelo.
+
+1.b Hidropónicos o sobre sustrato.
+
+2\. Cultivos herbáceos extensivos.
+
+3\. Cultivos leñosos.
+
+4\. Producción de planta.
+
+4.a Semilleros (mejora de producción de planta).
+
+4.b Vivero (enraizamiento de leñosas).
+
+b) Descripción de la composición completa del producto que se utiliza en los ensayos y que debe coincidir con la que se inscribe en el registro, incluyendo no solo los microorganismos, sino también el sustrato o *carrier* y, en su caso el producto fertilizante con el que haya sido mezclado.
+
+c) Ensayos en campo realizados en España, en los que se deben de incluir:
+
+– Descripción de las condiciones en las que se han llevado a cabo los ensayos, que debe incluir como mínimo:
+
+• Tipo de suelo (análisis) o sustrato,
+
+• Manejo agronómico (marco de siembra o plantación, riegos, tratamientos fitosanitarios, tratamientos fertilizantes, etc.)
+
+• Cultivos y variedades empleados que deben de ser comerciales
+
+• Controles empleados
+
+– Tratamiento estadístico de los resultados (ANOVA, si bien, se podría llegar a aceptar una estima, en el casos suficientemente justificados).
+
+Los apartados 1 y 2 del informe pueden ser realizados por un único organismo independiente o por dos diferentes, siempre que quede claro que en ambos casos se está utilizando el mismo producto (es decir, los microorganismos, formulación, nombre comercial, etc. son los mismos).
+
+> Se añade por el art. único.14 y Anexo III del Real Decreto 999/2017, de 24 de noviembre. [Ref. BOE-A-2017-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-14332).
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 39, de 13 de febrero de 2018. [Ref. BOE-A-2018-1916](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1916)
+
+## ANEXO IX — Subproductos conforme a la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular
+
+Parte I. Materiales incluidos en la Categoría de Material Componente 11 del Reglamento (UE) 2019/1009 del Parlamento Europeo y del Consejo, de 5 de junio de 2019.
+
+1\. Sales de amonio, sales de sulfato, sales de fosfato, azufre elemental, carbonato de calcio u óxido de calcio, o mezclas de ellos.
+
+2\. Los materiales con origen en procesos citados en artículo 2 del Reglamento Delegado (UE) 2022/973 de la Comisión, de 14 de marzo de 2022, por el que se completa el Reglamento (UE) 2019/1009 del Parlamento Europeo y del Consejo mediante el establecimiento de criterios de eficiencia agronómica y seguridad para el uso de subproductos en los productos fertilizantes UE.
+
+3\. Quedarán exceptuados los siguientes materiales:
+
+a) Subproductos animales o productos derivados con arreglo al Reglamento (CE) n.º 1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009;
+
+b) Polímeros;
+
+c) Compost;
+
+d) Digestato;
+
+e) Sales de fosfato precipitadas o derivados que se valorizan a partir de residuos o son subproductos en el sentido de la Directiva 2008/98/CE del Parlamento Europeo y del Consejo, de 19 de noviembre de 2008, sobre los residuos y por la que se derogan determinadas Directivas;
+
+f) Materiales de oxidación térmica o sus derivados que se valorizan a partir de residuos o son subproductos en el sentido de la Directiva 2008/98/CE del Parlamento Europeo y del Consejo, de 19 de noviembre de 2008;
+
+g) Materiales de pirólisis y gasificación que se valorizan a partir de residuos o son subproductos en el sentido de la Directiva 2008/98/CE del Parlamento Europeo y del Consejo, de 19 de noviembre de 2008, o
+
+h) Sales de amonio, sales de sulfato, sales de fosfato, azufre elemental, carbonato cálcico u óxido de calcio, valorizados a partir de residuos en el sentido del artículo 3, apartado 1, de la Directiva 2008/98/CE del Parlamento Europeo y del Consejo, de 19 de noviembre de 2008.
+
+4\. Sin perjuicio del resto de obligaciones de otros elementos como sustancias constituyentes o aditivos, los subproductos deberán haber sido registrados de conformidad con lo dispuesto en el Reglamento (CE) n.º 1907/2006 del Parlamento Europeo y el Consejo, de 18 de diciembre de 2006, en un expediente que contenga:
+
+a) La información contemplada en los anexos VI, VII y VIII del Reglamento (CE) n.º 1907/2006 del Parlamento Europeo y el Consejo, de 18 de diciembre de 2006, y
+
+b) Un informe sobre la seguridad química con arreglo a lo dispuesto en el artículo 14 del Reglamento (CE) n.º 1907/2006 del Parlamento Europeo y el Consejo, de 18 de diciembre de 2006, a menos que se le aplique expresamente alguna de las exenciones de la obligación de registro previstas en el anexo IV de dicho Reglamento o en los puntos 6, 7, 8 o 9 del anexo V del mismo Reglamento.
+
+5\. Los subproductos cumplirán los criterios de seguridad y eficacia agronómica detallados en la parte II del presente anexo.
+
+Parte II. Requisitos de seguridad y eficacia agronómica.
+
+1\. Los subproductos conforme al artículo 17 bis que aporten nutrientes a las plantas u hongos o mejoren su eficiencia nutricional deberán cumplir los siguientes criterios de eficiencia agronómica y seguridad:
+
+a) Contener al menos un 95 % en materia seca de sales de amonio, sales de sulfato, sales de fosfato, azufre elemental, carbonato de calcio u óxido de calcio, o mezclas de ellos;
+
+b) Ser producidos como parte integrante de un proceso de producción que utilice como insumos sustancias y mezclas distintas de los subproductos animales o productos derivados dentro del ámbito de aplicación del Reglamento (CE) n.º 1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009;
+
+c) Tener un contenido de carbono orgánico (C<sub>org</sub>) no superior al 0,5 % de materia seca del subproducto;
+
+d) No contener más de 6 mg/kg de materia seca de hidrocarburos aromáticos policíclicos (HAP<sub>16</sub>)<sup><sup>(1)</sup></sup>;
+
+<sup>(1)</sup> Suma de naftaleno, acenaftileno, acenafteno, fluoreno, fenantreno, antraceno, fluoranteno, pireno, benzo[a]antraceno, criseno, benzo[b]fluoranteno, benzo[k]fluoranteno, benzo[a]pireno, indeno[1,2,3-cd]pireno, dibenzo[a,h]antraceno y benzo[ghi]perileno.
+
+e) No contener más de 20 ng equivalentes de toxicidad<sup><sup>(2)</sup></sup> OMS/kg de materia seca de policlorodibenzo-para-dioxinas y dibenzofuranos (PCDD/PCDF)<sup><sup>(3)</sup></sup>.
+
+<sup>(2)</sup> Van den Berg M.; Birnbaum, L. S.; Denison, M.; De Vito, M.; Farland, W. et al. (2006): «The 2005 World Health Organization reevaluation of human and Mammalian toxic equivalency factors for dioxins and dioxin-like compounds», *Ciencias toxicológicas: diario oficial de la Sociedad de Toxicología* 93: 223-241. doi:10.1093/toxsci/kfl055.
+
+<sup>(3)</sup> Suma de 2,3,7,8-TCDD, 1,2,3,7,8-PeCDD; 1,2,3,4,7,8 - HxCDD; 1,2,3,6,7,8 - HxCDD; 1,2,3,7,8,9 - HxCDD; 1,2,3,4,6,7,8 - HpCDD; OCDD; 2,3,7,8 - TCDF; 1,2,3,7,8 - PeCDF; 2,3,4,7,8 - PeCDF; 1,2,3,4,7,8 - HxCDF; 1,2,3,6,7,8 - HxCDF; 1,2,3,7,8,9 - HxCDF; 2,3,4,6,7,8 - HxCDF; 1,2,3,4,6,7,8 - HpCDF; 1,2,3,4,7,8,9 - HpCDF; y OCDF.
+
+Un producto fertilizante que contenga o se componga de subproductos que proporcionen nutrientes a las plantas o los hongos o que mejoren su eficiencia nutricional no contendrá más de:
+
+a) 400 mg/kg de materia seca de cromo total (Cr);
+
+b) 2 mg/kg de materia seca de talio (Tl).
+
+2\. Los subproductos conformes al artículo 17 bis que se utilicen como aditivos técnicos deberán cumplir los siguientes criterios de eficiencia agronómica y seguridad:
+
+a) Desempeñar el papel de mejorar la seguridad o la eficiencia agronómica del producto fertilizante;
+
+b) Estar presentes en el producto fertilizante en una concentración total no superior al 5 % en masa;
+
+c) No contener más de 6 mg/kg de materia seca de hidrocarburos aromáticos policíclicos (HAP<sub>16</sub>);
+
+d) No contener más de 20 ng equivalentes de toxicidad OMS/kg de materia seca de policlorodibenzo-para-dioxinas y dibenzofuranos (PCDD/PCDF).
+
+3\. Los criterios establecidos en los apartados 1 y 2 previos no se aplicarán a los subproductos siguientes:
+
+a) Licor madre de la reacción de la 5(β-metil-tioetilo)-hidantoína con carbonato de potasio en el proceso de producción de metionina;
+
+b) Residuos de la transformación y purificación de minerales y menas, si contienen carbonatos de calcio, carbonatos de magnesio, sulfatos de calcio, óxido de magnesio, sales de fosfato o sales solubles en agua de potasio, magnesio o sodio, en un contenido total superior al 60 % de materia seca de los residuos;
+
+c) Líquido de postdestilación del proceso Solvay;
+
+d) Cal de carburo procedente de la producción de acetileno;
+
+e) Escorias de hierro;
+
+f) Sustancias derivadas del tratamiento de concentrados minerales y del tratamiento de superficies metálicas, que contengan al menos un 2 % en masa de cationes metálicos de transición divalentes o trivalentes [zinc (Zn), cobre (Cu), hierro (Fe), manganeso (Mn) o cobalto (Co)] en solución;
+
+g) Ácidos húmicos y fúlvicos procedentes de la decoloración del agua potable.
+
+4\. Los valores de concentración de actividad de los radionucleidos naturales de las series U-238 y Th-232 en un producto fertilizante que contenga o se componga de residuos del tratamiento o purificación de mineral de fosfato sedimentario, de conformidad con el apartado 3, letra b), no excederán los valores establecidos en la tabla A parte 2 del anexo VII de la Directiva del Consejo 2013/59/EURATOM<sup><sup>(4)</sup></sup>, de 1 kBq/kg del producto.
+
+<sup>(4)</sup> Directiva 2013/59/EURATOM del Consejo, de 5 de diciembre de 2013, por la que se establecen normas de seguridad básicas para la protección contra los peligros derivados de la exposición a radiaciones ionizantes, y se derogan las Directivas 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom y 2003/122/Euratom.
+
+5\. Un producto fertilizante que contenga o se componga de los subproductos mencionados en el apartado 3, letras e) y f) no contendrá más de:
+
+a) 400 mg/kg de materia seca de cromo total (Cr);
+
+b) 2 mg/kg de materia seca de talio (Tl);
+
+c) 600 mg/kg de materia seca de vanadio (V).
+
+6\. Cuando el cumplimiento de un requisito determinado establecido en el apartado 1, párrafo primero, letras d) y e), en el apartado 1, párrafo segundo, en el apartado 2, letras c) y d) y en los apartados 4 y 5 se derive cierta e indiscutiblemente de la naturaleza o del proceso de fabricación del subproducto o del producto fertilizante que contenga dicho subproducto, según proceda, podrá presumirse ese cumplimiento en el proceso de evaluación de la conformidad sin verificación (por ejemplo, ensayos), bajo la responsabilidad del fabricante.
+
+7\. Cuando un producto fertilizante contenga o se componga de los subproductos contemplados en el apartado 1 párrafo primero, y en el apartado 3, letras b) a f), y tenga un contenido de selenio (Se) superior a 10 mg/kg de materia seca, se indicará el contenido de selenio.
+
+8\. Cuando un producto fertilizante contenga o se componga de los subproductos contemplados en el apartado 1, párrafo primero, y en el apartado 3, letras b), c) y g), y tenga un contenido de cloruro (Cl-) superior a 30 g/kg de materia seca, se indicará el contenido de cloruro, a menos que el producto fertilizante se produzca mediante un proceso de fabricación en el que se ha añadido un compuesto que contiene cloruro, con la intención de producir o incluir sales de metales alcalinos o sales de metales alcalinotérreos, y se facilite información sobre dichas sales.
+
+9\. Cuando se indique el contenido de selenio o cloruro, se separará claramente de la declaración de nutrientes y podrá expresarse como un intervalo de valores.
+
+10\. Cuando el hecho de que un producto fertilizante contenga selenio o cloruro por debajo de los valores límite establecidos en los apartados 7 y 8 se derive cierta e indiscutiblemente de la naturaleza o del proceso de fabricación del subproducto o del producto fertilizante que contenga dicho subproducto, según proceda, la etiqueta podrá no contener información sobre estos parámetros, sin verificación (por ejemplo, ensayos), bajo la responsabilidad del fabricante.
+
+> Se añade por el art. único.10 del Real Decreto 529/2023, de 20 de junio. [Ref. BOE-A-2023-15736](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15736)
+
+## ANEXO X — Subproductos de la industria alimentaria
+
+1\. Un producto fertilizante podrá contener como ingredientes lo siguiente:
+
+a) Cal procedente de la industria alimentaria, es decir, material procedente de la industria de transformación de alimentos obtenido por carbonatación de materia orgánica, utilizando exclusivamente cal viva de fuentes naturales;
+
+b) Melaza, es decir, un subproducto viscoso del refinado de la caña de azúcar o la remolacha azucarera para producir azúcar;
+
+c) Vinaza, es decir, un subproducto viscoso del proceso de fermentación de la melaza en etanol, ácido ascórbico u otros productos;
+
+d) Residuos de destilería, es decir, subproductos resultantes de la elaboración de bebidas alcohólicas;
+
+e) Plantas, partes de plantas o extractos vegetales que hayan sido objeto exclusivamente de tratamientos térmicos o de tratamientos térmicos unidos a los métodos de transformación a que se refiere la CMC 2 del anexo II del Reglamento 2019/1009 del Parlamento Europeo y del Consejo, de 5 de junio, o
+
+f) Cal procedente de la producción de agua potable, es decir, residuos generados por la producción de agua potable a partir de aguas subterráneas o superficiales y compuesta principalmente por carbonato cálcico.
+
+2\. Todos los materiales del apartado 1 que sean incorporados al producto fertilizante, solos o en mezcla, deberán estar registrados con arreglo al Reglamento (CE) n.º 1907/2006 del Parlamento Europeo y el Consejo, de 18 de diciembre de 2006, en un expediente que contenga:
+
+a) La información contemplada en los anexos VI, VII y VIII del Reglamento (CE) n.º 1907/2006 del Parlamento Europeo y el Consejo, de 18 de diciembre de 2006, y
+
+b) Un informe sobre la seguridad química con arreglo a lo dispuesto en el artículo 14 del Reglamento (CE) n.º 1907/2006 del Parlamento Europeo y el Consejo, de 18 de diciembre de 2006, a menos que se le aplique expresamente alguna de las exenciones de la obligación de registro previstas en el anexo IV de dicho Reglamento o en los puntos 6, 7, 8 o 9 del anexo V del mismo Reglamento.
+
+> Se añade por el art. único.11 del Real Decreto 529/2023, de 20 de junio. [Ref. BOE-A-2023-15736](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15736)

@@ -1,0 +1,1035 @@
+---
+title: "Resolución 4B0/38008/2014, de 15 de enero, del Instituto Social de las Fuerzas Armadas, sobre Cartera de Servicios de Asistencia Sanitaria del ISFAS"
+identifier: "BOE-A-2014-457"
+eli: "https://www.boe.es/eli/es/res/2014/01/15/4b038008"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 2014-01-15
+published: 2014-01-17
+in_force_from: 2014-01-18
+last_amended: 2020-10-12
+consolidated: 2026-10-07
+gazette: "Boletín Oficial del Estado núm. 15"
+status: repealed
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-457"
+retrieved: 2026-10-11
+---
+
+# Resolución 4B0/38008/2014, de 15 de enero, del Instituto Social de las Fuerzas Armadas, sobre Cartera de Servicios de Asistencia Sanitaria del ISFAS
+
+Norma derogada, desde el 13 de octubre de 2020, por la disposición derogatoria, letra A), de la Resolución 4B0/38303/2020, de 30 de septiembre, con los efectos previstos en la Disposición transitoria segunda de la misma. [Ref. BOE-A-2020-12176](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12176)
+
+El texto refundido de la Ley sobre Seguridad Social de las Fuerzas Armadas, aprobado por el Real Decreto Legislativo 1/2000, de 9 de junio, establece en su artículo 13 el contenido de la asistencia sanitaria de este régimen especial, que se desarrolla en el capítulo V de su Reglamento General, aprobado por Real Decreto 1726/2007, de 21 de diciembre, concretándose que su contenido será análogo al establecido en el ámbito del Sistema Nacional de Salud.
+
+La Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, en su artículo 7.1, establece que el catálogo de prestaciones del Sistema Nacional de Salud tiene por objeto garantizar las condiciones básicas y comunes para una atención integral, continuada y en el nivel adecuado de atención que, conforme a lo previsto en el artículo 8, se harán efectivas mediante la cartera común de servicios.
+
+En la disposición adicional única del Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, se contempla que las mutualidades de funcionarios, en sus respectivos ámbitos de competencia, podrán aprobar sus respectivas carteras de servicios y, atendiendo a esta previsión, por Resolución 4B0/38276/2009, de 16 de diciembre, se aprobó la Cartera de Servicios de Asistencia Sanitaria del ISFAS.
+
+El Real Decreto-ley 16/2012, de 20 de abril, de medidas urgentes para garantizar la sostenibilidad del Sistema Nacional de Salud y mejorar la calidad y seguridad de sus prestaciones, ha introducido diversas modificaciones en la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, reestructurándose la cartera común de servicios del Sistema Nacional de Salud que, conforme a lo dispuesto en el artículo 8 de la citada Ley, se articula ahora en torno a las siguientes modalidades:
+
+a) Cartera común básica de servicios asistenciales del Sistema Nacional de Salud, que comprende todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios, así como el transporte sanitario urgente, cubiertos de forma completa.
+
+b) Cartera común suplementaria del Sistema Nacional de Salud, que incluye aquellas prestaciones cuya provisión se realiza mediante dispensación ambulatoria, en concreto, la prestación farmacéutica, la prestación ortoprotésica, la prestación con productos dietéticos y el transporte sanitario no urgente.
+
+c) Cartera común de servicios accesorios del Sistema Nacional de Salud, que incluye todas aquellas actividades, servicios o técnicas, sin carácter de prestaciones, no esenciales y/o coadyuvantes o de apoyo, estando sujetas a aportación y/o reembolso por parte del usuario.
+
+La Cartera de Servicios de la Asistencia Sanitaria del ISFAS debe adaptarse a este nuevo contexto y, con este objeto, en el ejercicio de las competencias atribuidas por el artículo 18 del Reglamento General de la Seguridad Social de las Fuerzas Armadas, aprobado por Real Decreto 1726/2007, de 21 de diciembre, dispongo:
+
+## 1. Consideraciones de carácter general.
+
+1.1 Contenido de la Cartera de Servicios de la Asistencia Sanitaria.–La Cartera de Servicios es el conjunto de técnicas, tecnologías o procedimientos, entendiendo por tales cada uno de los métodos, actividades y recursos basados en el conocimiento y experimentación científica, mediante los que se harán efectivas las prestaciones sanitarias.
+
+La Cartera de Servicios de la asistencia sanitaria del ISFAS se estructura en las siguientes prestaciones:
+
+a) Prestaciones de atención primaria, atención especializada y asistencia de urgencia, incluidas en la cartera común básica de servicios asistenciales.
+
+b) Prestación Farmacéutica
+
+c) Prestación con productos dietéticos.
+
+d) Trasporte sanitario.
+
+e) Prestación Ortoprotésica.
+
+f) Prestaciones sanitarias complementarias.
+
+1.2 Beneficiarios.–De conformidad con lo dispuesto en el artículo 12 del texto refundido de la Ley sobre Seguridad Social de las Fuerzas Armadas y sus normas de desarrollo, el derecho a las prestaciones de asistencia sanitaria del ISFAS corresponde a los titulares incluidos en el ámbito de aplicación de este régimen especial de Seguridad Social y a los beneficiarios a su cargo.
+
+## 2. Atención Primaria, Atención Especializada y Servicios de Urgencia.
+
+La cartera común básica de servicios comprende todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios, en el ámbito de la Atención Primaria, la Atención Especializada y la Asistencia de Urgencia, incluyendo el transporte sanitario urgente.
+
+La Atención Primaria, la Atención Especializada y la Asistencia de Urgencia se prestarán por los correspondientes servicios asignados en función de la modalidad asistencial a la que haya quedado adscrito el titular, con un contenido análogo al que se recoge en el Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, y con sujeción a los requisitos previstos en los Conciertos suscritos por el ISFAS o en el marco regulador de la colaboración concertada con la Sanidad Militar, para el acceso a los servicios.
+
+La oxigenoterapia y demás técnicas de terapia respiratoria a domicilio, reguladas por la Orden de 3 de marzo de 1999, constituyen procedimientos terapéuticos incluidos en la Cartera de Servicios de la Atención Especializada y se facilitarán por los correspondientes servicios asignados.
+
+En determinados supuestos, podrán reconocerse las prestaciones suplementarias para asistencia primaria, para la atención a la salud mental y para la atención de pacientes diabéticos que se detallan a continuación.
+
+2.1 Prestación para gastos por asistencia primaria prestada por facultativo ajeno.
+
+2.1.1 Objeto y contenido.–Podrán acogerse a esta prestación exclusivamente los beneficiarios adscritos a los consultorios del ISFAS para recibir asistencia primaria «modalidad D1» cuando, por cualquier circunstancia, el ISFAS no disponga de médico de familia, pediatra o profesional de enfermería que pueda asignarse al titular en el correspondiente centro.
+
+La prestación tendrá por objeto la compensación de los gastos que se deriven de la asistencia del beneficiario por un facultativo de su elección.
+
+Con carácter general la prestación se hará efectiva mediante el reintegro de los honorarios del facultativo a cargo del ISFAS, si bien, a petición del interesado, podrá hacerse efectivo su abono directamente a los correspondientes servicios médicos.
+
+2.1.2 Procedimiento.–La prestación se solicitará en impreso normalizado que podrá obtenerse en las Delegaciones del ISFAS o a través de la web de este Instituto, al que se unirá la factura original del facultativo que haya prestado la asistencia y, en el caso de atenciones prestadas por profesionales de enfermería, la prescripción del médico asignado para la asistencia del paciente.
+
+2.2 Hospitalización Psiquiátrica.
+
+2.2.1 Objeto y contenido de la prestación.–La prestación para Hospitalización Psiquiátrica tiene por objeto mejorar las condiciones de acceso a los servicios hospitalarios de psiquiatría, de los titulares y beneficiarios que reciban asistencia sanitaria a través de los servicios de la Sanidad Militar, especialmente de los pacientes con procesos crónicos.
+
+Esta prestación consistirá en una ayuda económica a cargo del ISFAS, por cada día de estancia en régimen de internamiento o de estancia diurna (hospital de día) en el Hospital psiquiátrico que elija el beneficiario, siempre que esté debidamente acreditado por la Administración competente.
+
+El límite o importe máximo de la ayuda económica para Hospitalización Psiquiátrica se recoge en el Anexo 1 y podrá ser actualizado por resolución de la Gerencia del ISFAS.
+
+En ningún caso la ayuda que corresponda abonar por meses podrá ser superior al coste facturado y, a estos efectos, se tendrán en cuenta todos los conceptos derivados de la asistencia psiquiátrica integral del paciente, incluidos las técnicas de diagnóstico y tratamiento que se apliquen, así como toda la medicación y demás productos sanitarios que precise el paciente durante su hospitalización.
+
+Podrá solicitarse el abono directo al centro hospitalario en lugar del reintegro de gastos, en cuyo caso se unirá al expediente, además de la documentación requerida con carácter general, un escrito en el que se ponga de manifiesto la conformidad del centro y se hagan constar los datos de la cuenta bancaria a través de la que deberá materializarse el pago, sin que en este caso la factura emitida al ISFAS pueda reflejar un importe superior al de la prestación que se hubiera reconocido.
+
+2.2.2 Beneficiarios de la prestación.–Tendrán derecho a las ayudas para hospitalización psiquiátrica los titulares y beneficiarios que reúnan los siguientes requisitos:
+
+a) Estar adscritos a los servicios de la Sanidad Militar para la asistencia especializada.
+
+b) Padecer una enfermedad o trastorno psiquiátrico que haga necesaria la asistencia especializada en régimen de internamiento o en régimen de estancia diurna (hospital de día).
+
+2.2.3 Procedimiento.–Las ayudas por hospitalización psiquiátrica se solicitarán mediante formulario normalizado que se obtendrá en la Delegación del ISFAS o a través de la página web de este Instituto, al que se acompañará la siguiente documentación:
+
+a) Informe del especialista en psiquiatría que corresponda en función de la modalidad asistencial de adscripción del titular, en el que habrá de constar el trastorno que motiva la necesidad de atención psiquiátrica y el régimen en que deba dispensarse (internamiento hospitalario o régimen de hospital de día).
+
+b) Facturas originales, en las que debe constar el nombre del paciente, número de estancias y régimen de la asistencia (internamiento u hospital de día), además de los requisitos exigidos en la normativa aplicable.
+
+c) Justificación documental del abono de la factura por parte del interesado o, en caso de solicitud de pago directo al centro, documento que acredite la conformidad del centro con esta forma de pago y datos de la cuenta bancaria para materializarlo.
+
+d) Presupuesto del centro, en el que se detalle el coste de la asistencia por cada día de estancia, exclusivamente cuando en el momento de formularse la solicitud, no se disponga aún de facturas.
+
+La prestación se reconocerá por un periodo máximo de seis meses, debiendo determinarse el límite de la ayuda económica en la correspondiente resolución. No obstante, en el caso de que el límite máximo establecido para la ayuda fuera actualizado, conforme a la previsión recogida en al apartado 2.2.1. precedente, se aplicará el nuevo límite sobre los pagos que deban realizarse por estancias causadas a partir del primer día del mes siguiente al de entrada en vigor de la resolución por la que se modifique el anexo 1, debiendo incluirse en el expediente de pago una diligencia del Delegado del ISFAS, para hacer constar este extremo.
+
+Dentro del periodo y ámbito de validez de la Resolución aprobatoria, por el mismo cauce se podrá solicitar el pago de las sucesivas facturas, adjuntando a las mismas el justificante de su abono o la indicación del pago directo al centro.
+
+Si fuera necesario prolongar la asistencia del beneficiario, habrá de formularse una nueva solicitud a la que se unirá un informe del especialista encargado de su asistencia.
+
+2.3 Ayudas para tratamientos de psicoterapia.
+
+2.3.1 Objeto y contenido.–La prestación para tratamientos de psicoterapia tiene por objeto mejorar las condiciones de accesibilidad a determinadas técnicas de psicoterapia, individual, de grupo o familiar, de los titulares y beneficiarios que reciban asistencia sanitaria a través de los servicios de la Sanidad Militar o de la Red sanitaria pública, equiparándolas con las de los colectivos acogidos a los Conciertos de asistencia sanitaria suscritos con Entidades de Seguro, y consistirá en una ayuda económica a cargo del ISFAS por cada sesión de psicoterapia.
+
+Para el acceso a la prestación será imprescindible que la terapia haya sido prescrita por un especialista en psiquiatría de los correspondientes servicios asignados y que su finalidad sea el tratamiento de patologías psiquiátricas.
+
+El tratamiento se realizará por los profesionales elegidos por el beneficiario, siempre que cuenten con la debida titulación oficial.
+
+Se atenderá un máximo de 20 sesiones por año natural «entre el día 1 de enero y el día 31 de diciembre de cada año», salvo en los trastornos de la alimentación, en los que se facilitarán todas las sesiones que el psiquiatra responsable de la asistencia considere necesario para la correcta evolución del caso.
+
+El importe de la prestación por psicoterapia será equivalente al coste facturado por cada sesión de tratamiento, con el límite que se establece en el Anexo 1.
+
+2.3.2 Exclusiones e incompatibilidades.–Quedan excluidos de este régimen de ayudas, y por tanto no serán objeto de las mismas, los tratamientos mediante psicoanálisis, hipnosis o narcolepsia ambulatoria, los tratamientos que se realicen en régimen de internamiento u hospitalización y las terapias de mantenimiento.
+
+No podrán reconocerse prestaciones por psicoterapia al mismo beneficiario durante más de cinco años consecutivos y, a partir de ese momento, las sesiones que se prescriban tendrán la consideración de terapia de mantenimiento, salvo en el caso de pacientes diagnosticados de trastornos de la alimentación.
+
+Las ayudas económicas por psicoterapia serán incompatibles con las prestaciones por Hospitalización Psiquiátrica, tanto en régimen de internamiento, como de hospital de día.
+
+2.3.3 Beneficiarios de la prestación.–Tendrán derecho a las ayudas para tratamientos de psicoterapia los titulares y beneficiarios adscritos a los servicios de la Red sanitaria pública o de la Sanidad Militar para la asistencia especializada que presenten un trastorno psiquiátrico.
+
+2.3.4 Procedimiento.–Para el reconocimiento de las ayudas por psicoterapia, deberá formularse la correspondiente solicitud mediante impreso normalizado que se obtendrá en la Delegación del ISFAS o a través de la página web de este Instituto, al que se unirá la siguiente documentación:
+
+a) Informe del especialista en psiquiatría que corresponda en función de la modalidad asistencial de adscripción del titular, en el que habrá de constar la indicación del tratamiento y el proceso que motiva la indicación.
+
+b) Informe del profesional que realizará el tratamiento, en el que se especificará la técnica terapéutica y el número previsible de sesiones.
+
+c) Facturas originales, en las que debe constar el nombre del paciente y número de sesiones de tratamiento realizadas, además de los requisitos generales exigidos en la normativa aplicable.
+
+d) Justificación documental del abono de la factura por parte del interesado.
+
+Previamente a dictar resolución, se recabará dictamen del asesor médico de la Delegación del ISFAS o, cuando no fuera posible, del Área de Asistencia Sanitaria de la Subdirección de Prestaciones.
+
+De estimarse la prestación, en la correspondiente Resolución se especificará el importe de la ayuda por sesión y el número de sesiones de tratamiento que serán objeto de ayuda económica. En ningún caso podrán reconocerse ayudas para más de 20 sesiones de tratamiento a un mismo beneficiario dentro del año natural en curso.
+
+El abono de la prestación se podrá efectuar a través de un expediente de pago único. No obstante, de solicitarlo expresamente el interesado, podrá tramitarse un expediente con pagos sucesivos hasta hacer efectiva la totalidad de la prestación reconocida, si bien estos pagos deberán corresponder a un mínimo de diez «10» sesiones, salvo conclusión del tratamiento o finalización del año en curso.
+
+2.4 Ayudas para Pacientes Diabéticos.
+
+2.4.1 Ayudas para compra de jeringuillas de insulina y agujas para inyectores.–Tendrán acceso al reintegro de gastos por compra de jeringuillas para insulina o por adquisición de agujas para inyectores u otros sistemas no precargados de insulina a cargo del ISFAS, los titulares y beneficiarios diagnosticados de Diabetes insulino-dependiente adscritos a los servicios de la Sanidad Militar o de la Red sanitaria pública, cuando no les sean suministradas por los Centros de Atención Primaria.
+
+La prestación cubrirá el coste real de adquisición de un máximo de 60 jeringuillas al mes. En el caso de pacientes diagnosticados de Diabetes en los que se hubiera indicado tratamiento intensivo con inyecciones múltiples, el límite máximo de jeringuillas que podrían ser objeto de financiación se fija en 120 al mes. Cuando esta prestación se solicite para la compra de agujas para inyectores, el importe de la misma no podrá ser superior al importe establecido en el Anexo 1.
+
+2.4.2 Ayudas por la compra de Bomba externa de infusión continua de insulina.
+
+A) Beneficiarios.–Podrán acceder a la ayuda para adquisición de Bomba externa de infusión continua de insulina a cargo del ISFAS, los beneficiarios diagnosticados de Diabetes que cumplan todos los criterios fijados en el anexo de la Orden SCO/710/2004, de 12 de marzo por la que se autoriza la financiación de determinados efectos y accesorios con fondos públicos, adscritos a los servicios de la Sanidad Militar para la asistencia especializada, siempre que no se les facilite gratuitamente por los servicios de la Modalidad asistencial a la que se encuentren adscritos.
+
+B) Prescripción.–La prescripción de las bombas portátiles de infusión subcutánea continua de insulina se formulará por un médico especialista de los correspondientes servicios asignados, en un informe protocolo ajustado al modelo que figura en el Anexo 3 de esta Resolución, basado en las recomendaciones para la selección de pacientes susceptibles de la indicación de bombas de insulina que se establecen en el anexo de la citada Orden SCO/710/2004, de 12 de marzo.
+
+El modelo normalizado de solicitud y el modelo de informe médico protocolo podrá obtenerse en la Delegación del ISFAS o a través de la página web de este Instituto.
+
+C) Suministro.–La bomba de insulina, una vez autorizada su financiación a cargo del ISFAS, se dispensará a través de los servicios hospitalarios asignados en función de la Modalidad Asistencial de adscripción del beneficiario, o que el correspondiente Organismo gestor haya seleccionado para tal fin, bajo la responsabilidad y supervisión del Médico Especialista responsable de la prescripción y del seguimiento posterior del beneficiario.
+
+El citado facultativo informará al paciente sobre cualquier aspecto relacionado con la utilización de la bomba, de acuerdo con lo establecido en la Ley 41/2002, de 14 de noviembre, reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
+
+2.4.3 Ayudas para material fungible de Bomba de infusión de insulina.–Los beneficiarios a los que se les hubiera reconocido la prestación para Bomba externa de infusión continua de Insulina, adscritos al Régimen de colaboración concertada con la Sanidad Militar, tendrán acceso a una ayuda para atender los gastos derivados de la adquisición del correspondiente material fungible, por el importe que se justifique mediante la aportación de las correspondientes facturas, sin que éste pueda exceder el límite establecido en el Anexo 1.
+
+2.4.4 Ayudas por compra de reflectómetro.–Se reconocerán ayudas para la adquisición de reflectómetros o glucómetros (aparatos medidores de glucemia), exclusivamente a beneficiarios adscritos a la Red sanitaria pública o al Régimen de colaboración concertada con la Sanidad Militar que acrediten su condición de diabéticos, con el límite establecido en el Anexo 1.
+
+2.4.5 Sistema de monitorización de glucosa mediante sensores (tipo flash).–Tendrán derecho a la prestación para el Sistema de monitorización de glucosa mediante sensores (tipo flash) los titulares y beneficiarios adscritos a los servicios de la Sanidad Militar para la asistencia especializada, cuando el paciente cumpla los requisitos establecidos en el ámbito del Sistema Nacional de Salud y se indiquen por el especialista en Endocrinología, Medicina Interna o, en su caso, Pediatría de los servicios asignados.
+
+2.4.6 Procedimiento.–Las Ayudas para Pacientes Diabéticos se solicitarán mediante formulario normalizado al que se unirá la correspondiente factura, con los requisitos exigidos en la normativa vigente, en la que constará el nombre del paciente.
+
+Cuando se solicite por primera vez una Ayuda para Pacientes Diabéticos deberá unirse a la solicitud un informe médico del especialista en Endocrinología, Medicina Interna o, en su caso, Pediatría de los correspondientes servicios asignados, en el que se hará constar el tipo de diabetes diagnosticado. A las sucesivas solicitudes de ayudas para el mismo beneficiario no será necesario adjuntar ningún informe, puesto que con el registro de una prestación anterior queda ya acreditado el diagnóstico de la enfermedad.
+
+En el caso de prestaciones para adquisición de bomba externa para infusión continua de insulina, se aportará el informe médico al que se alude en el apartado 2.4.2.B) precedente, ajustado al modelo de protocolo que figura en el Anexo 3, que deberá ser emitido por el especialista de los correspondientes servicios asignados que formule la prescripción. Este informe será trasladado al Área de Asistencia Sanitaria que emitirá dictamen previo a la resolución de la solicitud, pudiendo recabar a tal fin la documentación e informes adicionales que considere necesarios para la emisión del dictamen.
+
+Las ayudas reconocidas se harán efectivas por el procedimiento de reembolso o reintegro de gastos, por lo que habrá de acreditarse que se ha realizado el pago de la factura.
+
+En el caso de las ayudas reconocidas para bomba externa para infusión continua de insulina, el pago se realizará directamente al centro sanitario que la dispense, siempre que el titular no lo hubiera materializado.
+
+> Se modifica el punto 2.2 y 2.4 por el apartado 1.1 y 2 de la Resolución de 18 de diciembre de 2019. [Ref. BOE-A-2019-18764](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18764)
+
+> Téngase en cuenta para la aplicación del punto 2.2 la disposición transitoria de la citada Resolución.
+
+## 3. Prestación farmacéutica y con productos dietéticos, mediante dispensación ambulatoria.
+
+La prestación farmacéutica comprende los medicamentos y productos sanitarios y el conjunto de actuaciones encaminadas a que los pacientes los reciban de forma adecuada a sus necesidades clínicas, en las dosis precisas según sus requerimientos individuales, durante el período de tiempo adecuado y al menor coste posible para ellos y para la comunidad y se regirá por lo dispuesto en la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios y demás disposiciones aplicables.
+
+Por otro lado, la prestación con productos dietéticos comprende la dispensación de los tratamientos dietoterápicos a las personas que padezcan determinados trastornos metabólicos congénitos y la nutrición enteral domiciliaria para pacientes a los que no es posible cubrir sus necesidades nutricionales con alimentos de consumo ordinario, a causa de su situación clínica.
+
+El suministro de los productos dietéticos que se precisen para el tratamiento ambulatorio de los beneficiarios se realizará en oficinas de farmacia, a través de receta oficial.
+
+## 4. Prestaciones por traslados de enfermos.
+
+4.1 Objeto.–La prestación por traslado de enfermos tiene por objeto facilitar el transporte sanitario no urgente de titulares y beneficiarios del ISFAS para recibir asistencia sanitaria y, en determinados supuestos, atender la compensación de gastos de transporte, manutención y estancia del paciente y, en su caso, de un acompañante, mediante ayudas suplementarias, en las condiciones y con los límites que se establecen en la presente Resolución.
+
+Quedan excluidos de estas prestaciones:
+
+Los traslados de ámbito internacional y de repatriación de enfermos.
+
+Los traslados que se realicen para recibir asistencia por servicios distintos a los asignados, salvo en situación de urgencia vital.
+
+Los traslados que se realicen en el ámbito de la asistencia sanitaria atribuida a la Sanidad Militar en los supuestos establecidos en la Disposición adicional quinta de la Ley 39/2007 de 19 de noviembre, de la carrera militar y en el artículo 96 de la Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil.
+
+4.2 Transporte sanitario no urgente.
+
+4.2.1 Normas generales.
+
+A) Contenido.–El transporte sanitario no urgente consiste en el desplazamiento de enfermos o accidentados que no se encuentran en situación de urgencia o emergencia, y que por causas exclusivamente clínicas están incapacitados para desplazarse en los medios ordinarios de transporte a un centro sanitario para recibir asistencia sanitaria o a su domicilio tras recibir la atención sanitaria correspondiente, y que pueden precisar o no atención sanitaria durante el trayecto.
+
+B) Tipos de traslados.–El transporte sanitario no urgente, según el origen y destino del traslado del paciente, así como por el carácter de periodicidad, comprende los siguientes tipos de traslados:
+
+1\. Traslado puntual del paciente desde su domicilio a un centro sanitario o desde un centro sanitario a su domicilio.
+
+2\. Traslados periódicos del paciente desde su domicilio a un centro sanitario o desde un centro sanitario a su domicilio.
+
+3\. Traslado de un paciente a su municipio de residencia, bien a su domicilio o a otro centro sanitario, cuando hubiera recibido asistencia urgente en otro municipio en el que se encontrara desplazado transitoriamente, siempre que su situación clínica haga necesaria la utilización de transporte sanitario.
+
+Se entiende por domicilio del paciente el lugar de residencia habitual o temporal.
+
+En todo caso, los centros sanitarios tanto de origen como de destino deben tener el carácter de servicios asignados, en función de la modalidad asistencial de adscripción del beneficiario.
+
+C) Criterios clínicos de prescripción.–El transporte sanitario no urgente está sujeto a prescripción del médico responsable de la asistencia de los correspondientes servicios asignados.
+
+La prescripción del transporte sanitario no urgente debe estar motivada, exclusivamente, por un problema de salud y no por cualquier otra causa y requerirá inexcusablemente la existencia de una deficiencia física, sensorial, cognitiva, intelectual o mental del paciente, sea temporal o permanente, que le cause imposibilidad para poder desplazarse de forma autónoma y que, a juicio del facultativo prescriptor, no le permita utilizar los medios ordinarios de transporte públicos o privados.
+
+Para la prescripción de transporte sanitario no urgente el médico prescriptor valorará el estado de salud y el grado de autonomía del paciente para poder desplazarse en medios de transporte ordinarios entre su domicilio y un centro sanitario, o viceversa, independientemente del problema de salud que esté en el origen del tratamiento.
+
+D) Situaciones en que el paciente puede llevar acompañante.–Siempre que la situación del paciente lo requiera podrá ir acompañado para el transporte sanitario no urgente.
+
+La indicación de acompañante para el transporte sanitario no urgente se realizará a juicio del facultativo prescriptor de este transporte que valorará si la edad o la situación clínica del paciente lo requiere y tendrá especialmente en cuenta las siguientes circunstancias:
+
+1\. Paciente con discapacidad cognitiva, sensorial, intelectual o mental que limite su comprensión y su comunicación con el medio, o pueda alterar su conducta, durante su traslado.
+
+2\. Paciente que, a causa de su enfermedad o accidente, se encuentre en el momento del traslado en una situación de gran deterioro físico o psíquico.
+
+Los pacientes menores de 16 años irán siempre con acompañante, salvo aquellos de edad comprendida entre 14 y 16 años que dispongan de una autorización escrita de su representante legal para realizar dicho trasladado sin acompañante.
+
+4.2.2 Modalidades de asistencia por Servicios públicos de Salud o por Entidades de Seguro.–Los asegurados del ISFAS adscritos a los servicios de la red sanitaria pública tendrán acceso al transporte sanitario no urgente, en las condiciones establecidas en el ámbito del Servicio de Salud de la correspondiente Comunidad Autónoma o del INGESA, en el caso de Ceuta y Melilla, conforme a los procedimientos establecidos en sus propias normas.
+
+Los titulares y beneficiarios adscritos a una modalidad de asistencia por Entidades de Seguro concertadas obtendrán la prestación a través de los medios de la correspondiente Entidad, con sujeción a las condiciones y requisitos que se establezcan en el concierto suscrito con el ISFAS, vigente en el momento en que se efectúe el traslado.
+
+Las peticiones se gestionarán directamente por los interesados ante los Servicios de Salud de cada Comunidad Autónoma, o del INGESA, o ante la Entidad de Seguro de adscripción, según los casos.
+
+4.2.3 Modalidad de Atención especializada por Servicios de Sanidad Militar.
+
+A) Consideraciones generales.–Los beneficiarios del ISFAS adscritos al régimen de colaboración concertada con la Sanidad Militar, tendrán acceso al transporte sanitario no urgente a través de los correspondientes medios concertados.
+
+B) Criterios de indicación.–La necesidad de transporte sanitario se justificará mediante la prescripción escrita del médico de los servicios asignados responsable de la asistencia que deberá valorar tanto el estado de salud como el grado de autonomía del paciente para poder desplazarse en medios de transporte ordinarios, entre su domicilio y un centro sanitario, o viceversa.
+
+La prescripción se ajustará a los criterios establecidos en el apartado 4.2.1.C). En todo caso, el paciente debe cumplir al menos uno de los dos criterios siguientes:
+
+1\. Que su estado de salud le impida el uso de medios de transporte ordinario por alguno de los siguientes motivos:
+
+Paciente en tratamiento que, o bien por su situación clínica o bien por los efectos secundarios esperados tras el mismo, no puede utilizar el transporte ordinario de manera autónoma.
+
+Paciente en situación clínica de gran deterioro físico o enfermedad en fase terminal que le imposibilita para la utilización de medios ordinarios de transporte.
+
+Paciente que requiere medidas especiales durante el traslado, tales como aislamiento por enfermedades infecto-contagiosas que puedan ocasionar problemas de salud pública.
+
+Paciente en situación de inmunosupresión que desaconseje su contacto con otras personas.
+
+2\. Que tenga una limitación para el desplazamiento autónomo que requiera el apoyo de terceras personas. El grado de limitación de la autonomía del paciente para trasladarse deberá ser moderado o grave, entendiendo como tal el tener grandes dificultades en varias actividades de la vida diaria y deambular con dificultad, necesitando la ayuda de al menos una persona. Dicha limitación puede estar generada por:
+
+Discapacidades para la locomoción mecánicas o motrices que impiden utilizar el transporte ordinario porque el usuario es incapaz de desplazarse por sí mismo.
+
+Deficiencias sensoriales o cognitivas que en el marco del proceso clínico actual impiden utilizar el transporte ordinario porque el usuario es incapaz de desplazarse por sí mismo.
+
+En el caso de traslados periódicos, cuando la imposibilidad para poder desplazarse de forma autónoma por causas clínicas desaparezca como criterio de indicación de transporte sanitario no urgente y los pacientes puedan utilizar los medios de transporte ordinario, dicho transporte sanitario se suspenderá a partir de ese momento, independientemente de la duración o tipo de atención sanitaria que se esté llevando a cabo.
+
+La indicación de acompañante para el transporte sanitario no urgente se realizará a juicio del facultativo prescriptor de este transporte que valorará si la edad o la situación clínica del paciente lo requieren, atendiendo a los criterios previstos en el apartado 4.2.1.D).
+
+4.3 Gastos por transporte en medios ordinarios.
+
+4.3.1 Medios ordinarios de transporte.–Se consideran medios de transporte ordinarios el automóvil, el autobús, el ferrocarril o, si procediese por tratarse de provincias insulares o las ciudades de Ceuta o Melilla, el barco o el avión.
+
+4.3.2 Modalidades de asistencia por Servicios públicos de Salud o por Entidades de Seguro.–Los asegurados del ISFAS adscritos a los servicios de la red sanitaria pública o a Entidades de Seguro concertadas únicamente tendrán acceso a las ayudas o prestaciones previstas en el ámbito del Servicio de Salud de la correspondiente Comunidad Autónoma o del INGESA, en el caso de Ceuta y Melilla, o bien en los conciertos vigentes en cada momento, con sujeción a las condiciones y requisitos que sean de aplicación, según el caso.
+
+4.3.3 Modalidad de Atención especializada por Servicios de Sanidad Militar.–Serán objeto de reintegro o reembolso a través del ISFAS los gastos de transporte en medios ordinarios por desplazamientos interprovinciales que deban realizar los pacientes adscritos al régimen de colaboración concertada con la Sanidad Militar, para su asistencia por otros servicios asignados al no disponerse de los medios requeridos en el Hospital de la Defensa de su provincia de residencia.
+
+El importe de la prestación será igual al que se haya abonado por el billete en cualquier línea regular de autobús o ferrocarril o, tratándose de territorio extrapeninsular, barco o avión, en clase segunda, turista, normal o única.
+
+Cuando el viaje se realice en una clase superior, o en caso de utilización de vehículo particular, se abonará una ayuda económica por importe equivalente al precio del trayecto en tren o autobús de línea regular, en clase normal o turista.
+
+4.4 Ayudas económicas suplementarias.
+
+4.4.1 Beneficiarios.–Tendrán acceso a las ayudas económicas suplementarias, exclusivamente los beneficiarios que hayan accedido al transporte sanitario no urgente o a prestaciones para gastos de transporte en medios ordinarios, a cargo de los correspondientes servicios asignados, cuando se cumplan las condiciones específicas previstas para cada ayuda.
+
+4.4.2 Ayuda para gastos de hospedaje y de manutención del paciente.–Se reconocerán ayudas para gastos de hospedaje y/o manutención del paciente, cuando éste deba desplazarse fuera de su municipio de residencia para su asistencia, con los límites que se establecen en el anexo 1. Cuando la asistencia se preste en régimen de internamiento hospitalario, sólo se tendrá acceso a la ayuda para gastos de manutención correspondiente a los días del desplazamiento.
+
+Para determinar el importe de la prestación, se tendrán en cuenta los siguientes criterios:
+
+a) Cuando el desplazamiento de ida y vuelta se realice en un solo día, se tendrá derecho a la «ayuda para manutención».
+
+b) En general, se tendrá derecho a la ayuda por gastos de hospedaje y manutención por los días que el enfermo deba permanecer fuera de su residencia, excluido el de regreso, en el que únicamente se reconocerá la ayuda para manutención, sirviendo como referencia las fechas reflejadas en los billetes o justificantes del desplazamiento, cuando éste se realice el mismo día en que esté programada la asistencia.
+
+En caso contrario, para determinar los días de estancia se tendrá en cuenta que el desplazamiento podrá realizarse el día previo a la fecha prevista para el ingreso hospitalario o la asistencia en régimen ambulatorio, cuando estuvieran programados en horario de mañana «antes de las 15 horas» o en desplazamientos superiores a 300 kilómetros, por lo que se tendrá derecho a la ayuda por hospedaje y manutención para ese día.
+
+Asimismo, se tomará como fecha de referencia para el regreso la del alta hospitalaria o la fecha de la asistencia ambulatoria, salvo en desplazamientos superiores a 300 kilómetros, supuesto en que podrá tomarse como referencia el día siguiente.
+
+Cuando en los informes no se haga constar el tramo horario en el que tuvo lugar la asistencia, se considerará que se llevó a cabo en el de mañana.
+
+c) Cuando se programen actuaciones sucesivas por los servicios a los que hubiera sido derivado el paciente, dentro de un intervalo de hasta 72 horas, y siempre que el desplazamiento realizado fuera superior a 200 kilómetros, podrá reconocerse la prestación por hospedaje y manutención, sin solución de continuidad, hasta la fecha en que se lleve a cabo la nueva valoración, que se tomará como referencia para determinar el día de regreso.
+
+4.4.3 Ayudas para gastos de acompañante.–En el caso de desplazamientos de beneficiarios menores de 18 años, de beneficiarios que acrediten una discapacidad superior al 65% y de beneficiarios cuyo estado clínico haga indispensable la presencia de un acompañante, de conformidad con la prescripción emitida por el médico de los servicios asignados responsable de la asistencia, y siempre que la persona que acompañe al paciente se desplace y permanezca efectivamente con él, podrán reconocerse las siguientes ayudas:
+
+A) Ayuda por transporte del acompañante.–Se reconocerá esta prestación cuando el desplazamiento del paciente se realice en medios ordinarios, salvo que se utilicen medios propios o al margen de las líneas regulares de transporte público.
+
+La ayuda será igual al importe efectivamente abonado por el billete en cualquier línea regular de autobús o ferrocarril o tratándose de territorio extrapeninsular, barco o avión, en segunda clase, turista, normal o única. Si se utiliza una clase superior, la ayuda tendrá como importe máximo el coste del billete en la clase que, entre las enumeradas como utilizables, exista en el medio de transporte empleado. Si se utilizase barco o avión sin corresponder este medio de transporte, el importe máximo de la ayuda se calculará sobre el coste del billete en la línea de ferrocarril alternativa de tarifa más elevada para cada una de las clases indicadas.
+
+En el caso de pacientes adscritos a una Entidad de Seguro, cuando se establezcan ayudas para gastos de transporte de acompañante en los Conciertos vigentes, únicamente se tendrá acceso a estas prestaciones a cargo de la Entidad.
+
+B) Ayuda para gastos de hospedaje y manutención del acompañante.–Siempre que el enfermo tenga derecho a percibir la ayuda por gastos de hospedaje y manutención, y sea imprescindible la presencia de un acompañante, conforme a los criterios señalados anteriormente, éste tendrá derecho a percibir idéntica ayuda.
+
+Además, se reconocerá la ayuda para hospedaje y manutención de un acompañante, cuando el paciente deba desplazarse a una provincia distinta a la de residencia por indisponibilidad de los medios requeridos para su adecuada asistencia en régimen de internamiento hospitalario.
+
+No obstante, en el caso de pacientes adscritos a una Entidad de Seguro, en los supuestos en que se establezcan prestaciones específicas en los Conciertos vigentes, únicamente se tendrá acceso a las prestaciones a cargo de la Entidad.
+
+Para determinar el importe de la prestación, se tendrán en cuanta los criterios establecidos en el apartado 4.4.2 de la presente Resolución.
+
+4.5 Ayudas en caso de asistencia por accidente en acto de servicio o enfermedad profesional.
+
+4.5.1 Gastos para transporte de enfermos.–Exclusivamente, en el caso de titulares adscritos a la red sanitaria pública, los gastos de transporte por desplazamientos para recibir asistencia por lesiones derivadas de accidente en acto de servicio o por enfermedad profesional, se atenderán por cuenta del ISFAS. En este supuesto se atenderá el coste derivado de la utilización de los medios que se indiquen, teniendo en cuenta que la utilización de vehículo propio dará lugar al pago de una ayuda equivalente al coste del trayecto en tren o autobús de línea regular.
+
+Para los titulares adscritos a otras modalidades asistenciales, será aplicable lo dispuesto con carácter general en los apartados 4.4.1 y 4.4.2.
+
+4.5.2 Gastos de acompañante.–Los titulares tendrán derecho a las ayudas por gastos de un acompañante previstas en el apartado 4.4.3, cuando precisen asistencia en régimen de internamiento hospitalario por accidente en acto de servicio y no cuenten con familiares de primer grado de parentesco en la provincia donde se encuentre el hospital, por lo que resulte obligado el desplazamiento del acompañante desde la provincia en la que resida.
+
+El acompañante deberá autorizar al ISFAS para que pueda verificar el municipio en el que tiene fijada su residencia habitual.
+
+En los demás supuestos, será aplicable lo dispuesto con carácter general en el apartado 4.4.
+
+4.6 Procedimiento.
+
+Las ayudas suplementarias reguladas en la presente Resolución se solicitarán en el impreso normalizado que podrá obtenerse en las Delegaciones del ISFAS y a través de la página web de este Instituto, al que deberá unirse la siguiente documentación:
+
+a) En el caso de beneficiarios adscritos a una Entidad de Seguro o a la Red sanitaria pública, documento que acredite que el transporte del paciente se ha realizado por cuenta de la Entidad de Seguro o del Servicio de Salud de la correspondiente Comunidad Autónoma o del INGESA.
+
+b) Cuando se trate de pacientes acogidos al régimen de colaboración concertada con la Sanidad Militar, informe de los servicios asignados, en el que se justifique la necesidad del desplazamiento, especificando los medios de transporte requeridos.
+
+c) Cuando se soliciten ayudas suplementarias para manutención y hospedaje de pacientes o para gastos de acompañante, informe del médico que corresponda en función de la modalidad asistencial de adscripción del titular, en el que se justifique la necesidad de un acompañante, e informe del centro en el que se lleve a cabo la asistencia, indicando la fecha de la atención dispensada y si se ha llevado a cabo en horario de mañana o tarde.
+
+d) Billetes o justificantes de los gastos de transporte cuyo reintegro se solicite.
+
+En los procedimientos que se inicien a instancia de beneficiarios adscritos al régimen de colaboración concertada con la Sanitaria Militar, la Delegación del ISFAS cumplimentará y unirá al expediente una «hoja de liquidación», ajustada al modelo incluido en el anexo 2.
+
+## 5. Prestación ortoprotésica.
+
+5.1 Consideraciones generales.
+
+Según se establece en los artículos 8 y 17 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la prestación ortoprotésica realizada mediante dispensación ambulatoria se incluye en la cartera común suplementaria, a diferencia de la prestación ortoprotésica utilizada en centros sanitarios que comprende fundamentalmente los implantes quirúrgicos, y se facilitará directamente o dará lugar a ayudas económicas, en los casos y de acuerdo con las normas que se establezcan por parte de las Administraciones sanitarias competentes.
+
+El Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, recoge en su anexo VI el contenido de la prestación ortoprotésica, tanto los implantes quirúrgicos que se encuadran en la cartera de servicios básica, como las ortoprótesis externas incluidas en la cartera suplementaria, determinando en ambos casos los grupos y subgrupos que la integran y, en el caso de las ortoprótesis externas, también los códigos homologados que identifican las respectivas categorías de productos.
+
+El Real Decreto 1506/2012, de 2 de noviembre, por el que se regula la cartera común suplementaria de prestación ortoprotésica del Sistema Nacional de Salud y se fijan las bases para el establecimiento de los importes máximos de financiación en prestación ortoprotésica, delimita el contenido de la prestación ortoprotésica suplementaria ambulatoria, determinando las medidas para el establecimiento de los importes máximos de financiación en toda la prestación ortoprotésica, de acuerdo con lo previsto en el artículo 124 de la Ley 53/2002, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.
+
+La Orden SCB/45/2019, de 22 de enero, por la que se modifica el anexo VI del Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, se regula el procedimiento de inclusión, alteración y exclusión de la oferta de productos ortoprotésicos y se determinan los coeficientes de corrección, viene a dar una nueva redacción al anexo VI del citado Real Decreto 1030/2006. Además establece el importe máximo de financiación de cada tipo de producto, que será de aplicación cuando sean dispensados a usuarios del Sistema Nacional de Salud, incluyendo los titulares y beneficiarios protegidos por el ISFAS y demás mutualidades de funcionarios, puesto que los productos son de precio libre a los restantes efectos, y regula la Oferta de productos y los coeficientes de corrección que determinarán sus precios de Oferta.
+
+La citada Orden SCB/45/2019, de 22 de enero, y posteriormente la Orden SCB/480/2019, de 26 de abril, por la que se modifican los anexos I, III y VI del Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, también modifican el catálogo común de la prestación ortoprotésica suplementaria, determinando los tipos de productos de sillas de ruedas, ortesis, ortoprótesis especiales y prótesis distintas de las de miembros, en el que se actualiza la denominación y codificación de los grupos y subgrupos, mientras que los códigos homologados del citado anexo VI se transforman en códigos alfanuméricos de 6 caracteres que identifican las categorías de productos, con el fin de simplificar la codificación.
+
+5.2 Conceptos.
+
+5.2.1 Implante quirúrgico: Producto sanitario diseñado para ser implantado total o parcialmente en el cuerpo humano mediante intervención quirúrgica y destinado a permanecer allí después de dicha intervención. Tiene finalidad terapéutica cuando sustituye total o parcialmente una estructura corporal o una función fisiológica que presenta algún defecto o anomalía, o bien tiene finalidad diagnóstica.
+
+Los productos destinados a permanecer menos de 30 días no se consideran incluidos en el apartado de implantes quirúrgicos.
+
+5.2.2 Ortoprótesis externa: Producto sanitario no implantable que requiere una elaboración a medida, una adaptación individualizada al usuario o un ajuste básico. Comprende los siguientes apartados:
+
+a) Prótesis externa: Ortoprótesis externa dirigida a sustituir total o parcialmente un órgano o una estructura corporal o su función.
+
+b) Silla de ruedas: Ortoprótesis externa con la consideración de vehículo individual para permitir el traslado de una persona que haya perdido de forma permanente la capacidad de marcha funcional, adecuado a su grado de discapacidad.
+
+c) Órtesis: Ortoprótesis externa que va destinada a modificar las condiciones estructurales o funcionales del sistema neuromuscular o del esqueleto.
+
+d) Ortoprótesis especial: Ortoprótesis externa que modifica o sustituye una estructura corporal o su función o facilita la deambulación sin que pueda considerarse incluido en los apartados anteriores.
+
+5.3 Beneficiarios y entidad responsable.
+
+5.3.1 Tendrán acceso a la prestación ortoprotésica suplementaria a cargo ISFAS los beneficiarios de la asistencia sanitaria, conforme a lo dispuesto en el artículo 52 Reglamento General de la Seguridad Social de las Fuerzas Armadas, aprobado por Real Decreto 1726/2007, de 21 de diciembre, acogidos al Concierto de asistencia sanitaria con Entidades de Seguro y al régimen de colaboración concertada con la Sanidad Militar.
+
+5.3.2 Los titulares y beneficiarios adscritos a los servicios públicos de salud recibirán la prestación ortoprotésica a través del Servicio de Salud de su Comunidad Autónoma, en las mismas condiciones que el resto de la población protegida por ese Servicio, de conformidad con lo previsto en la Disposición adicional segunda del Real Decreto 1506/2012, de 2 de noviembre.
+
+5.3.3 Los implantes quirúrgicos, que forman parte de la cartera común básica de servicios asistenciales, se suministrarán y financiarán por los correspondientes servicios asignados en función de la Modalidad Asistencial de adscripción del titular, con un contenido análogo al que se fija en el del Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización.
+
+5.4 Alcance y contenido de la prestación ortoprotésica gestionada por el ISFAS.
+
+5.4.1 Productos incluidos.–La prestación ortoprotésica del ISFAS atiende las ortoprótesis externas de dispensación ambulatoria incluidas en la cartera común suplementaria de la prestación ortoprotésica del Sistema Nacional de Salud que comprende: prótesis externas, sillas de ruedas, ortesis y ortoprótesis especiales.
+
+Serán financiables a través de la prestación ortoprotésica del ISFAS los productos que se encuadren en alguno de los tipos de productos recogidos en el Catálogo común de Ortoprótesis externas del Sistema Nacional de Salud, incluido en el anexo VI del citado Real Decreto 1030/2006, de 15 de septiembre.
+
+5.4.2 Límite de la prestación.–La prestación que corresponda a un producto no podrá superar el Importe Máximo de Financiación (IMF) fijado para el tipo de producto en el que sea encuadrable. Este importe máximo incluirá los costes de elaboración a medida, la adaptación al paciente, los márgenes del establecimiento y los impuestos que, en el caso de Canarias, Ceuta y Melilla, se reajustarán al régimen fiscal específico.
+
+Cuando concluya el desarrollo y sea aplicable en el conjunto del Sistema Nacional de Salud la Oferta de productos ortoprotésicos a la que se alude en el apartado 5.6, se atenderá la financiación de los productos no elaborados a medida que se recojan en la Oferta, por el importe que se fije a cada producto en la misma, que nunca será superior al IMF que corresponda al tipo de producto, con la salvedad prevista en el apartado 5.7.
+
+En el caso de productos elaborados a medida, se financiarán aquellos encuadrables en alguno de los tipos de productos incluidos en el Catálogo común de Ortoprótesis externas del Sistema Nacional de Salud, hasta el respectivo IMF.
+
+También serán objeto de la prestación ortoprotésica la renovación de los artículos incluidos en el Catálogo y su reparación, en las condiciones y con los requisitos previstos en los apartados 5.9.5 y 5.9.6, salvo que el motivo de las mismas sea una mala utilización por parte del beneficiario o su deseo de sustituir el artículo, a pesar de estar en condiciones de uso.
+
+5.4.3 Exclusiones.–No constituyen parte de esta prestación los artículos ortoprotésicos destinados a uso deportivo, ni los utilizados con finalidad estética que no guarden relación con accidente, enfermedad o malformación congénita, ni aquellos de los que se realice publicidad dirigida al público en general.
+
+Quedan excluidos de la prestación ortoprotésica, con carácter general, los artículos que no figuren en el Catálogo común de Ortoprótesis externas del Sistema Nacional de Salud ni sean encuadrables en ninguno de los tipos recogidos en el mismo, los efectos y accesorios, los artículos ortopédicos destinados a uso deportivo, y los productos publicitarios.
+
+Asimismo se consideran excluidos de la prestación:
+
+Las fajas preventivas.
+
+Las órtesis de pie.
+
+Las rodilleras elaboradas en tejido elástico sin flejes.
+
+Los sujetadores postoperatorios.
+
+Las sillas de ruedas manuales con ruedas grandes delanteras maniobradas por los dos brazos y las sillas de ruedas propulsadas por el pie.
+
+5.4.4 Catálogo de Ortoprótesis externas.–En el ámbito de la prestación ortoprotésica del ISFAS será aplicable el Catálogo común de ortoprótesis externas del Sistema Nacional de Salud, donde se detallan los grupos (codificados con cuatro caracteres) y subgrupos (seis caracteres) en los que quedan agrupados, los códigos homologados (seis caracteres) y los códigos de los tipos de productos (codificados con siete caracteres).
+
+Asimismo para cada tipo de producto se indica:
+
+a) El nivel de elaboración que precisa, diferenciando si requiere un ajuste básico (BAS) o una adaptación individualizada al usuario (ADAP), con su respectivo grado de complejidad, si es un producto a medida (MED) o si se trata de un componente, accesorio o recambio (COMP), también con su correspondiente grado de complejidad.
+
+b) La vida media de cada uno de los Tipos de productos expresada en meses que es el tiempo medio de duración de un producto en condiciones normales de uso.
+
+c) El Importe Máximo de Financiación con IVA del 10% (IMF) y el Importe Máximo de Financiación sin impuestos (IMF s/i) al objeto de que pueda obtenerse el IMF para Canarias, Ceuta y Melilla, aplicando los impuestos específicos.
+
+5.5 Importes máximos de financiación (IMF).
+
+5.5.1 El IMF es la cuantía máxima fijada para cada tipo de producto a efectos de su financiación a través de la prestación ortoprotésica en el Sistema Nacional de Salud y, por tanto, del ISFAS conforme a lo previsto en el apartado 5.4.2, e incluye los márgenes de la distribución y de los establecimientos y los impuestos, así como los costes de adaptación o elaboración individualizada, en su caso, de acuerdo con lo previsto en el Real Decreto 1506/2012, de 2 de noviembre.
+
+5.5.2 Cuando además de un Tipo de producto se prescriban determinados componentes adicionales por el correspondiente especialista, el IMF del producto final se calculará sumando el IMF del tipo de la parte principal del producto y el de los componentes adicionales que requiera para su correcta utilización, teniendo en cuenta que el IMF de la parte principal del producto engloba los costes de la elaboración y adaptación del conjunto de la ortoprótesis externa, así como los asociados a la incorporación de los diferentes componentes adicionales.
+
+5.6 Oferta de productos ortoprotésicos del Sistema Nacional de Salud.
+
+5.6.1 La Oferta de productos ortoprotésicos del Sistema Nacional de Salud (Oferta), que se establece en el artículo 4 del Real Decreto 1506/2012, de 2 de noviembre, y se desarrolla en la Orden SCB/45/2019, de 22 de enero, recogerá los productos ortoprotésicos no elaborados a medida que se clasifiquen en los tipos de productos del Catálogo común de Ortoprótesis externas.
+
+La información de los productos incluidos en la *Oferta* se recogerá en el nomenclátor de la prestación ortoprotésica que la Dirección General de Cartera Básica de Servicios del Sistema Nacional de Salud y Farmacia, en su momento, pondrá a disposición del ISFAS.
+
+5.6.2 Cuando concluya el desarrollo de la *Oferta* y sea aplicable en el conjunto del Sistema Nacional de Salud, sólo serán financiables a través de la prestación ortoprotésica los productos ortoprotésicos incluidos en la Oferta y, por tanto, en el nomenclátor de la prestación ortoprotésica, sin perjuicio de lo previsto en el apartado 5.7 al amparo de la previsión recogida en el artículo 5.5 del Real Decreto 1506/2012, de 2 de noviembre.
+
+Por tanto, los precios que se reflejen en la Oferta serán el referente para la prestación ortoprotésica del ISFAS y determinarán el importe máximo financiable para los artículos no elaborados a medida.
+
+En el caso de productos elaborados a medida, serán objeto de prestaciones aquellos encuadrables en uno de los tipos de productos recogidos en el Catálogo común de Ortoprótesis externas. El importe de la prestación vendrá determinado por el importe facturado, siempre que no supere el respectivo IMF que será el límite máximo financiable. Este importe máximo incluirá los costes de elaboración a medida, la adaptación al paciente, los márgenes del establecimiento y los impuestos.
+
+5.7 Supuesto especial.
+
+Conforme a la previsión recogida en el artículo 5.5. del Real Decreto 1506/2012, de 3 de diciembre, cuando el especialista de los servicios asignados prescriba al beneficiario un determinado producto comprendido en alguno de los Tipos de productos incluidos en el Catálogo común de Ortoprótesis externas, pero que no se encuentre incluido en la Oferta exclusivamente por superar el importe máximo de financiación o tratarse de un producto a medida, el beneficiario podrá adquirir el producto indicado, pero deberá abonar la diferencia entre el importe máximo de financiación correspondiente al tipo de producto y el precio de venta del producto adquirido, además de la aportación que le corresponda, aplicada sobre el importe máximo de financiación de su tipo de producto.
+
+En este caso no podrá atenderse la prestación mediante el procedimiento de pago directo al proveedor.
+
+5.8 Condiciones generales de acceso.
+
+5.8.1 Indicación médica.–La indicación o prescripción médica de un tipo de producto incluido en el Catálogo común de Ortoprótesis externas, deberá ser formulada por un médico de los servicios de Atención Especializada asignados, en función de la Modalidad Asistencial a la que esté adscrito el beneficiario, concretamente por un especialista en la materia correspondiente a la patología que justifique la prescripción.
+
+A fin de garantizar el uso racional, para la indicación se atenderá a criterios de individualización fundados en las condiciones de salud y de calidad de vida del paciente, tales como edad, evolución previsible de la patología o discapacidad, situación laboral y social, grado de autonomía personal y acceso a servicios de la comunidad, y otros de análoga significación.
+
+5.8.2 Establecimientos dispensadores.
+
+A) Los establecimientos sanitarios dispensadores y adaptadores de productos ortoprotésicos que opten por dispensar productos a cargo del Sistema Nacional de Salud deberán asumir todas las condiciones establecidas en la normativa reguladora de la prestación ortoprotésica del Sistema Nacional de Salud y no podrán cobrar al beneficiario cantidades adicionales a la aportación que, en su caso, le pudiera corresponder en función del Tipo de producto, salvo que el interesado opte por acogerse a lo previsto en el apartado 5.7 precedente.
+
+B) Con el fin de garantizar la calidad de la prestación, los productos sanitarios incluidos como prestación ortoprotésica, para poder ser suministrados y utilizados, deben cumplir los requisitos contemplados en la legislación vigente que les resulte de aplicación.
+
+C) La entrega de prótesis externas, las sillas de ruedas, ortesis y ortoprótesis especiales al usuario ha de ir acompañada de la información preceptiva establecida en la normativa de productos sanitarios, del certificado de garantía y de una hoja informativa en lenguaje comprensible y accesible para personas con discapacidad, con las recomendaciones precisas para la mejor conservación del mismo en condiciones de utilización normal y las advertencias para evitar su mal uso. Todo ello, sin perjuicio de lo dispuesto en el Texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios, aprobado por el Real Decreto Legislativo 1/2007, de 16 de noviembre, y otras leyes complementarias.
+
+5.9 Requisitos específicos adicionales para prótesis externas.
+
+5.9.1 Requisitos de la Prescripción.–En la prescripción de productos ortoprotésicos deberán constar los siguientes datos:
+
+a) Responsable de la prescripción: Datos de identificación del facultativo (Nombre, nº de colegiado, centro sanitario y servicio).
+
+b) Beneficiario usuario: Datos de identificación; Clave del Colectivo al que pertenece que para el ISFAS es TSI 006 (asignada a usuarios de mutualidades de funcionarios); fecha de nacimiento; peso y talla, si procede.
+
+c) Motivo de la prescripción: Accidente de trabajo o servicio, accidente de tráfico, accidente deportivo, otro tipo de accidente (especificar), malformación congénita, enfermedad u otro origen (especificar).
+
+d) Diagnóstico: Discapacidad o patología que justifica la prescripción; patologías concomitantes que influyan en la prescripción; otra información clínica de interés.
+
+e) Valoración social (cuando proceda): Actividades que realiza: laborales, ocio, etc., medio en el que vive u otras circunstancias que puedan influir en la prescripción o renovación de los productos.
+
+f) Prescripción: Fecha; producto o Tipo de producto; clase de prescripción (primera prescripción, renovación y la justificación del motivo, reparación); recomendaciones de uso. Cuando sea necesario indicar productos de varios Tipos diferentes para el mismo usuario para componer una misma prescripción final global, todos ellos se indicarán conjuntamente constituyendo a todos los efectos una única prescripción.
+
+g) Firma del responsable de la prescripción.
+
+h) Revisiones que hayan de realizarse.
+
+5.9.2 Adaptación y dispensación.
+
+A) La adaptación y dispensación de los productos ortoprotésicos se realizará en los establecimientos autorizados por la administración competente de la correspondiente comunidad autónoma o ciudad autónoma que, de acuerdo con lo dispuesto en el artículo 3.4 del Real Decreto 1506/2012, de 2 de noviembre, podrán determinar los requisitos específicos en función del grado de complejidad de la elaboración de los Tipos de productos que puede proporcionar cada uno de ellos a los usuarios del Sistema Nacional de Salud, a fin de que se salvaguarde una correcta elaboración y adaptación de la prestación prescrita al usuario. En todo caso, se tratará de establecimientos sanitarios que cuenten con la correspondiente autorización sanitaria, de acuerdo con lo dispuesto en el Real Decreto 1277/2003, de 10 de octubre, por el que se establecen las bases generales sobre autorización de centros, servicios y establecimientos sanitarios.
+
+B) Los establecimientos sólo podrán dispensar productos pertenecientes al Tipo de producto indicado por el facultativo en el documento de prescripción. En caso de que la prescripción se hubiera realizado por producto, podrán dispensar y adaptar otro del mismo Tipo incluido en la Oferta y que el facultativo prescriptor no hubiera indicado nada en contra de la sustitución.
+
+C) Siempre que se trate de productos realizados a medida o que requieren una adaptación individualizada al usuario se tendrá en cuanta que:
+
+i. Correrán a cargo del establecimiento cuantas rectificaciones imputables a la elaboración y adaptación sean precisas.
+
+ii. En la elaboración de los productos, el establecimiento se ajustará a las indicaciones consignadas por el especialista prescriptor.
+
+iii. El facultativo que haya realizado la indicación dará el visto bueno de forma expresa al producto entregado al usuario, tras comprobar que se ajusta a las necesidades del mismo y que está adecuadamente adaptado.
+
+5.9.3 Prestaciones para sillas de ruedas.–Podrán reconocerse prestaciones para sillas de ruedas exclusivamente a beneficiarios con patologías o discapacidades que les impidan la marcha funcional de forma permanente.
+
+Excepcionalmente se reconocerán las prestaciones para sillas de ruedas de propulsión eléctrica y dirección eléctrica para beneficiarios con limitaciones funcionales graves del aparato locomotor por enfermedad, malformación o accidente, que cumplan todos y cada uno de los siguientes requisitos:
+
+Incapacidad permanente para la marcha independiente.
+
+Incapacidad funcional permanente para la propulsión de sillas manuales con las extremidades superiores.
+
+Suficiente capacidad visual, mental y de control que les permita el manejo de sillas de ruedas eléctricas y que ello no suponga un riesgo añadido para su integridad y la de otras personas.
+
+Las limitaciones funcionales de los miembros superiores asociadas habitualmente a la edad, que no obedezcan a enfermedad, malformación o accidente, no darán lugar a prestaciones para sillas eléctricas.
+
+En el caso de adquisición de una silla de ruedas con motor eléctrico para su utilización por beneficiarios que no reúnan los requisitos exigidos, podrá reconocerse la ayuda correspondiente a una silla autopropulsable ligera.
+
+Las prestaciones para silla de ruedas están sujetas a un plazo de renovación, por lo que en caso de reconocerse una ayuda para adquisición de cualquier tipo de silla de ruedas no podrá reconocerse una ayuda para otra de silla de ruedas de cualquier tipo hasta que no haya trascurrido el plazo de vida media establecido y siempre que se establezca la correspondiente indicación motivada por el desgaste o deterioro derivado de un uso normal del producto, salvo que la sustitución venga impuesta por variaciones en la situación clínica del paciente.
+
+5.9.4 Prestaciones para prótesis mioeléctricas de miembro superior.–Podrán reconocerse prestaciones para prótesis mioeléctricas de miembro superior, prescritas por los servicios de Rehabilitación a pacientes mayores de dos años amputados unilaterales o bilaterales, que cumplan todos los requisitos siguientes:
+
+1\. Tener suficiente capacidad mental y de control mioeléctrico que les permita el manejo de la prótesis de forma segura y eficaz.
+
+2\. Desarrollar actividades de la vida diaria o laborales en las que la utilización de la prótesis mioeléctrica les supondría una ventaja respecto al uso de una prótesis funcional o pasiva.
+
+3\. Participar en un programa de rehabilitación para su adiestramiento.
+
+4\. Disponer de un entorno familiar o supervisión externa que favorezca un uso adecuado y continuado de la prótesis en los niños y personas dependientes.
+
+5.9.5 Reparaciones.–Tendrán la consideración de ‹‹reparaciones›› la sustitución o reposición de cualquiera de los componentes de productos recogidos en el Catálogo común de Ortoprótesis externas, que presenten deterioro o desgaste que no sea debido a un mal uso, siempre que haya transcurrido el plazo de garantía establecido en cada caso.
+
+Quedan excluidas de las ayudas contempladas en el presente apartado las reparaciones de:
+
+Grupo 06 33 Calzados ortopédicos.
+
+Grupo 06 30 Prótesis distintas de las de miembros.
+
+Grupo 12 03 Productos de apoyo para caminar, manejados por un brazo.
+
+Grupo 12 06 Productos de apoyo para caminar, manejados por dos brazos.
+
+Grupo 04 06 Productos para la terapia del linfedema.
+
+Grupo 04 07 Productos para la prevención y tratamiento de cicatrices patológicas.
+
+Grupo 04 90 Complementos para las prendas de compresión.
+
+Grupo 04 33 Productos de apoyo para la prevención de úlceras por presión.
+
+La ayuda económica que podrá reconocerse por una reparación será equivalente al coste facturado, sin que pueda superar en ningún caso el 50% del importe de la prestación máxima asignada al correspondiente producto en el citado Catálogo. Cuando el objeto de la reparación sea la sustitución de un componente deteriorado incluido en el Catálogo común de Ortoprótesis externas, el límite de la prestación para la reparación vendrá determinado por el IMF asignado al componente.
+
+Las reparaciones no incidirán en los plazos de renovación.
+
+5.9.6 Renovaciones.–Las ortoprótesis externas podrán renovarse cuando por el correspondiente especialista se prescriba la sustitución del producto, motivada por el desgaste o deterioro derivado de un uso normal y siempre que haya transcurrido el plazo de vida media establecido en el Catálogo común de Ortoprótesis externas. Para realizar el cómputo de los plazos se tendrá en cuenta la fecha de la factura.
+
+No se reconocerán prestaciones para la renovación de una ortoprótesis cuando el motivo de la misma sea una mala utilización por parte del beneficiario o su deseo de sustituir el artículo, a pesar de estar en condiciones de uso.
+
+No se exigirá límite temporal alguno en caso de variación de la talla, u otra condición esencial de la ortoprótesis, o bien por modificaciones relevantes en la situación clínica del paciente que impidan la utilización de la prótesis que tuviera adaptada, circunstancias que serán acreditadas mediante la presentación del informe del correspondiente médico especialista. La última factura se tendrá en cuenta a la hora de realizar el cómputo del plazo de cualquier otra renovación posterior.
+
+5.9.7 Aportación.–En tanto se establezcan los límites de la aportación de la prestación ortoprotésica suplementaria, previstos en el artículo 9.3 del Real Decreto 1506/2012, de 2 de noviembre, se aplicará la aportación que recogida en el anexo VI del Real Decreto 1030/2006, de 15 de septiembre, si bien serán de aplicación las exenciones de aportación previstas en el artículo 9.4 del mencionado Real Decreto 1506/2012, de 2 de noviembre.
+
+Quedan sujetos a aportación a cargo del beneficiario los siguientes subgrupos de órtesis y ortoprótesis especiales, con el importe que se indica:
+
+06 03 06 Órtesis lumbo-sacras. Aportación del usuario: 30 euros.
+
+06 03 09 Órtesis toraco-lumbo-sacras (dorso-lumbares). Aportación del usuario: 30 euros).
+
+06 03 12 Órtesis cervicales. Aportación del usuario: 30 euros.
+
+06 03 15 Órtesis cérvico-torácicas. Aportación del usuario: 30 euros.
+
+06 03 18 Órtesis cérvico-toraco-lumbo-sacras. Aportación del usuario: 30 euros.
+
+06 06 03 Órtesis de dedos. Aportación del usuario: 12 euros.
+
+06 06 06 Órtesis de mano. Aportación del usuario: 12 euros.
+
+06 06 12 Órtesis de muñeca y mano. Aportación del usuario: 30 euros.
+
+06 06 13 Órtesis de muñeca, mano y dedos. Aportación del usuario: 30 euros.
+
+06 06 15 Órtesis de codo. Aportación del usuario: 30 euros.
+
+06 06 20 Órtesis de antebrazo. Aportación del usuario: 30 euros.
+
+06 06 24 Órtesis de hombro y codo. Aportación del usuario: 30 euros.
+
+06 06 27 Órtesis de hombro, codo y muñeca. Aportación del usuario: 30 euros.
+
+06 12 06 Órtesis de tobillo y pie (tibiales). Aportación del usuario: 30 euros.
+
+06 12 09 Órtesis de rodilla. Aportación del usuario: 30 euros.
+
+06 12 12 Órtesis de rodilla, tobillo y pie (femorales). Aportación del usuario: 30 euros.
+
+06 12 15 Órtesis de cadera, incluyendo ortesis de abducción. Aportación del usuario: 30 euros.
+
+06 12 18 Órtesis de cadera, rodilla, tobillo y pie. Aportación del usuario: 30 euros.
+
+06 33 90 Calzados ortopédicos para grandes deformidades. Aportación del usuario: 36 euros.
+
+12 03 09 Muletas de codo con soporte en antebrazo. Aportación del usuario: 12 euros.
+
+12 03 16 Muletas con tres o más patas. Aportación del usuario: 12 euros.
+
+12 06 00 Andadores. Aportación del usuario: 30 euros.
+
+04 06 06 Prendas de compresión para brazos, piernas y otras partes del cuerpo para linfedemas de miembros superiores, linfedemas graves de miembros inferiores y linfedemas de tronco. Aportación del usuario: 30 euros.
+
+04 07 00 Prendas de compresión para brazos, piernas y otras partes del cuerpo para quemados y grandes queloides. Aportación del usuario: 30 euros.
+
+04 33 00 Cojines para prevenir las úlceras por presión. Aportación del usuario: 30 euros.
+
+04 48 06 Aparatos de bipedestación. Aportación del usuario: 30 euros.
+
+04 48 21 Planos inclinables. Aportación del usuario: 30 euros.
+
+5.9.8 Acto de servicio.–El suministro de prótesis externas, sillas de ruedas, ortesis y ortoprótesis especiales incluidos en el Catálogo del ISFAS de Ortoprótesis externas requeridas para el tratamiento de lesiones motivadas por accidente de servicio, dará lugar al abono del importe facturado con el límite del Importe máximo de financiación, quedando exenta del pago de la aportación que pudiera corresponder al beneficiario, conforme a lo previsto en el apartado 5.9.7.
+
+En este supuesto, el reconocimiento de la correspondiente prestación corresponderá a la Subdirección de Prestaciones.
+
+La renovación de las prestaciones queda sujeta a lo dispuesto con carácter general en el apartado 5.9.6.
+
+5.10 Procedimiento para la tramitación y reconocimiento de prestaciones ortoprotésicas.
+
+5.10.1 Modalidades de abono.
+
+A) Con carácter general las prestaciones ortoprotésicas se harán efectivas mediante el reembolso o reintegro de los gastos abonados previamente por los beneficiarios, sin que pueda superarse el IMF que corresponda.
+
+B) Podrá autorizarse la Modalidad de abono directo al Establecimiento dispensador, siempre que conste su conformidad. La factura que se emita para su abono directo por el ISFAS, en ningún caso podrá reflejar un importe superior al IMF y en la misma se hará constar el código del tipo de producto, la descripción del artículo o concepto que puede dar lugar al reconocimiento de la prestación, el importe, desglosando los impuestos y la aportación abonada por el beneficiario, cuyo importe se reflejará deducido del importe final.
+
+No será aplicable el pago directo en el supuesto especial previsto en el apartado 5.7.
+
+5.10.2 Procedimiento administrativo.–Las prestaciones ortoprotésicas se solicitarán mediante el formulario normalizado que se obtendrá en la Delegación del ISFAS o a través de la página web de este Instituto, al que se unirá la siguiente documentación:
+
+a) Informe médico con la prescripción del correspondiente especialista de los servicios asignados en función de la Modalidad asistencial a la que esté adscrito el beneficiario, ajustado al modelo recogido en el Anexo 4, en el que se incluirá la información que se indica en el apartado 5.9.1.
+
+b) Factura con los requisitos exigidos en la normativa vigente, en la que constará el nombre del paciente, el código del tipo de producto que corresponda, la descripción del artículo o concepto dispensado y adaptado y el importe, desglosando los impuestos.
+
+c) Justificación del pago de la factura, salvo que se solicite el pago al proveedor.
+
+d) Cuando se solicite el abono directo al centro o establecimiento dispensador, se indicarán los datos de su cuenta bancaria para realizar el abono y se acreditará su conformidad.
+
+Se someterán a la valoración del Asesor Médico los expedientes relativos a prestaciones para ortoprótesis externas de los grupos o subgrupos que se determinen por la Subdirección de Prestaciones.
+
+Tras la valoración de los datos recogidos en el expediente, se dictará la correspondiente resolución.
+
+> Se modifica por el apartado 1.3 de la Resolución de 18 de diciembre de 2019. [Ref. BOE-A-2019-18764](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18764)
+
+## 6. Prestaciones sanitarias complementarias.
+
+6.1 Contenido.
+
+Las prestaciones sanitarias complementarias son las que quedan recogidas en el Anexo 5 de esta Resolución donde, al mismo tiempo, se establecen sus límites, las condiciones que habrán de cumplirse para el acceso a cada una, la documentación exigible y, en su caso, los plazos de renovación.
+
+Se trata de prestaciones que se configuran como ayudas económicas para prótesis y determinadas actuaciones bucodentales, ayudas oculares y otras ayudas técnicas que tradicionalmente han sido objeto de prestaciones sanitarias a cargo del ISFAS. Las prestaciones tendrán el límite máximo que se establece para cada una, si bien, en ningún caso superarán el importe abonado por el beneficiario.
+
+El contenido y alcance de las prestaciones será el mismo, con independencia de la contingencia de la que derive su necesidad.
+
+6.2 Prescripción y dispensación.
+
+En los apartados específicos para cada prestación se detallan las particularidades sobre prescripción facultativa y dispensación.
+
+Los productos sanitarios y servicios odontológicos o protésicos que pueden dan lugar al reconocimiento de las prestaciones requieren todos ellos adaptación individual, lo que imposibilita, con carácter general, que la adquisición/venta se realice por internet.
+
+Asimismo, la normativa sanitaria general establece que los establecimientos que realicen la venta al público de productos que requieran una adaptación individualizada, deberán contar con el equipamiento necesario para realizar tal adaptación y disponer de un profesional cuya titulación acredite una cualificación adecuada a estas funciones.
+
+El incumplimiento de alguna de las condiciones exigidas en relación con la prescripción facultativa y la dispensación será causa de denegación de la prestación.
+
+6.3 Adquisiciones y servicios en otro Estado de la Unión Europea.
+
+Los expedientes exclusivamente referidos a prestaciones complementarias incluidas en el Anexo 5 para prótesis y determinadas actuaciones bucodentales, ayudas oculares y otras ayudas técnicas, por adquisiciones y servicios realizados en otro Estado Miembro de la Unión Europea y también en los países del EEE (Islandia, Liechtenstein y Noruega) y Suiza, se tramitarán y gestionarán como cualquier expediente de prestaciones complementarias, de manera que se resolverán por el órgano competente para el reconocimiento de las mismas conforme a lo dispuesto en la Resolución 4B0/38106/2019, de 11 de abril, sobre delegación de competencias.
+
+6.4 Procedimiento.
+
+Las solicitudes se realizarán, mediante impreso normalizado que se obtendrá en la Delegación del ISFAS o a través de la página web, al que se unirá la documentación justificativa que en cada caso se determine y la correspondiente factura, que deberá reunir todos los requisitos legales y reglamentarios exigibles para su validez y la acreditación de su pago.
+
+> Se modifica por el apartado 1.4 de la Resolución de 18 de diciembre de 2019. [Ref. BOE-A-2019-18764](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18764)
+
+## 7. Disposición derogatoria.
+
+A la entrada en vigor de la presente Resolución quedarán sin efecto:
+
+A) La Resolución 4B0/38276/2009, de 16 de diciembre, del Instituto Social de las Fuerzas Armadas, por la que se aprueba la Cartera de Servicios de Asistencia Sanitaria del ISFAS.
+
+B) La Resolución 4B0/38116/2012, de 8 de agosto, del Instituto Social de las Fuerzas Armadas, por la que se actualiza el anexo 5 de la Resolución 4B0/38276/2019, de 16 de diciembre, del Instituto Social de las Fuerzas Armadas, por la que se aprueba la Cartera de Servicios de Asistencia Sanitaria del ISFAS.
+
+C) La Resolución 4B0/38185/2012, de 18 de diciembre, del Instituto Social de las Fuerzas Armadas, por la que se actualiza el anexo 1 de la Resolución 4B0/38276/2019, de 16 de diciembre, del Instituto Social de las Fuerzas Armadas, por la que se aprueba la Cartera de Servicios de Asistencia Sanitaria del ISFAS.
+
+D) Cualquier disposición o norma interna sobre la materia objeto de la presente Resolución que hubiera sido dictada por cualquier órgano del ISFAS.
+
+## 8. Disposición final.
+
+Esta Resolución entrará en vigor el día siguiente a su publicación.
+
+Madrid, 15 de enero de 2014.–La Secretaria General Gerente del Instituto Social de las Fuerzas Armadas, María Soledad Álvarez de Miranda Delgado.
+
+## ANEXO 1
+
+## Límites de las ayudas por traslado de enfermos, salud mental y productos sanitarios para diabéticos
+
+| Prestación | Límite de la ayuda |
+|---|---|
+| Ayuda para gastos de hospedaje y manutención. | 25 euros por día. |
+| Ayuda para manutención. | 12 euros por día. |
+| Ayuda por transporte ordinario de acompañante. | Importe de los billetes del medio de transporte utilizado. |
+| Hospitalización psiquiátrica en régimen de internamiento (ayuda por cada estancia). | 95 euros. |
+| Hospitalización psiquiátrica en régimen de hospital de día (ayuda por cada estancia diurna). | 49 euros. |
+| Psicoterapia (importe máximo por cada sesión). | 42,13 euros. |
+| Agujas para inyectores de insulina (importe mensual máximo). | 30,37 euros. |
+| Material fungible para bombas de insulina (importe mensual máximo). | 290,90 euros. |
+| Reflectómetro (ayuda por equipo). | 54,70 euros. |
+| Sistema de monitorización de glucosa mediante sensores (Tipo flash). | 5 euros por sensor.<br>Límite: 13 sensores cada seis meses. |
+
+> Se modifica por el apartado 1.5 de la Resolución de 18 de diciembre de 2019. [Ref. BOE-A-2019-18764](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18764)
+
+> Se modifica por Resolución 4B0/38198/2015, de 21 de diciembre. [Ref. BOE-A-2015-14266](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14266).
+
+> Se modifica por Resolución 4B0/38163/2014, de 10 de diciembre. [Ref. BOE-A-2014-13179](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13179).
+
+## ANEXO 2
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/314/18764_5600.png)
+
+> Se modifica por el apartado 1.6 de la Resolución de 18 de diciembre de 2019. [Ref. BOE-A-2019-18764](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18764)
+
+## ANEXO 3
+
+## Protocolo de solicitud para la autorización de dispensación de bombas infusión subcutánea continua de insulina
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/15/00457_002.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/15/00457_003.png)
+
+## ANEXO 4 — Catálogo del ISFAS sobre material ortoprotésico
+
+PRÓTESIS EXTERNAS.
+
+06 18 PRÓTESIS DE MIEMBRO SUPERIOR.
+
+Período de garantía: 6 meses.
+
+| Código | Descripción prestación | Límite de la prestación | Plazo renov. (en meses) |
+|---|---|---|---|
+| 06 18 03 | PRÓTESIS PARCIALES DE MANO, INCLUYENDO LAS PRÓTESIS DE DEDOS. |  |  |
+| 06 18 03 000A | Prótesis para amputación parcial de mano (incluido el pulgar). | 700 € | 24 |
+| 06 18 03 100A | Prótesis para amputación parcial de mano con amputación de varios dedos (excluido el pulgar). | 691 € | 24 |
+| 06 18 03 200A | Prótesis no funcional para amputación de mano | 662 € | 24 |
+| 06 18 06 | PRÓTESIS DE DESARTICULACION DE MUÑECA |  |  |
+| 06 18 06 000A | Prótesis pasiva de desarticulación de muñeca con encaje infracondilar de antebrazo y mano. | 1.109 € | 24 |
+| 06 18 06 001A | Prótesis pasiva de desarticulación de muñeca con encaje supracondilar de antebrazo y mano. | 1.296 € | 24 |
+| 06 18 06 100A | Prótesis funcional de desarticulación de muñeca con encaje infracondilar de antebrazo y terminal a elección. | 1.527 € | 24 |
+| 06 18 06 101A | Prótesis funcional de desarticulación de muñeca con encaje supracondilar de antebrazo y terminal a elección | 1.815 € | 24 |
+| 06 18 06 200A | Prótesis eléctrica para desarticulación de muñeca, encaje laminado o similar, subepitroclear o supracondilar, mano eléctrica, accesorios y guante cosmético | 10.675 € | 24 |
+| 06 18 09 | PRÓTESIS TRANSRADIAL (POR DEBAJO DEL CODO) |  |  |
+| 06 18 09 000A | Prótesis pasiva transradial con encaje infracondilar, estructura endoesquelética, muñeca y mano. | 1.200 € | 24 |
+| 06 18 09 001A | Prótesis pasiva transradial con encaje supracondilar, estructura endoesquelética, muñeca y mano. | 1.750 € | 24 |
+| 06 18 09 010A | Prótesis pasiva transradial con encaje infracondilar, estructura exoesquelética, muñeca y mano. | 1.250 € | 24 |
+| 06 18 09 011A | Prótesis pasiva transradial con encaje supracondilar, estructura exoesquelética, muñeca y mano. | 1.100 € | 24 |
+| 06 18 09 100A | Prótesis funcional completa transradial con encaje infracondilar, estructura exoesquelética, muñeca y terminal a elección. | 2.400 € | 24 |
+| 06 18 09 101A | Prótesis funcional completa transradial con encaje supracondilar, estructura exoesquelética, muñeca y terminal a elección. | 2.400 € | 24 |
+| 06 18 09 200A | Prótesis eléctrica transradial, encaje doble laminado o similar. Pronosupinación eléctrica, mano eléctrica, accesorios y guante cosmético | 11.225 € | 24 |
+| 06 18 12 | PROTESIS PARA DESARTICULACIÓN DE CODO |  |  |
+| 06 18 12 000A | Prótesis pasiva de desarticulación de codo con encaje, estructura endoesquelética, codo, muñeca y mano. | 2.500 € | 24 |
+| 06 18 12 001A | Prótesis pasiva de desarticulación de codo con encaje, estructura exoesquelética, codo, muñeca y mano. | 2.200 € | 24 |
+| 06 18 12 100A | Prótesis funcional de desarticulación de codo con encaje, estructura exoesquelética, codo, muñeca y terminal a elección. | 3.350 € | 24 |
+| 06 18 12 200A | Prótesis eléctrica para desarticulación de codo, con encaje laminado o similar, articulaciones con bloqueo de codo y elevación asistida, mano eléctrica, correaje, accesorios y guante cosmético | 9.550 € | 24 |
+| 06 18 15 | PROTESIS TRANSHUMERAL POR ENCIMA DEL CODO |  |  |
+| 06 18 15 000A | Prótesis pasiva transhumeral con encaje, estructura endoesquelética, suspensión, codo, muñeca y mano. | 2.400 € | 24 |
+| 06 18 15 001A | Prótesis pasiva transhumeral con encaje, estructura exoesquelética, suspensión, codo, muñeca y mano. | 2.500 € | 24 |
+| 06 18 15 100A | Prótesis funcional transhumeral con encaje, estructura exoesquelética, suspensión, codo, muñeca, y terminal a elección. | 2.700 € | 24 |
+| 06 18 15 200A | Prótesis eléctrica transhumeral con encaje laminado o similar, correaje de suspensión, codo con bloqueo, mano eléctrica, accesorios y guante cosmético | 10.275 € | 24 |
+| 06 18 18 | PRÓTESIS PARA DESARTICULACION DE HOMBRO |  |  |
+| 06 18 18 000A | Prótesis pasiva de desarticulación del hombro con encaje, estructura endoesquelética, suspensión, hombro, codo, muñeca y mano. | 1.800 € | 24 |
+| 06 18 18 001A | Prótesis pasiva de desarticulación del hombro con encaje, estructura exoesquelética, suspensión, hombro, codo, muñeca y mano. | 2.500 € | 24 |
+| 06 18 18 100A | Prótesis funcional de desarticulación del hombro con encaje, estructura exoesquelética, suspensión, hombro, codo, muñeca y mano. | 3.600 € | 24 |
+| 06 18 18 200A | Prótesis eléctrica para desarticulación de hombro con encaje, estructura exoesquelética, suspensión, hombro, codo, muñeca y terminal a elección. | 10.700 € | 24 |
+| 06 18 21 | PRÓTESIS PARA AMPUTADOS EN CUARTO SUPERIOR (INTERESCAPULOTORÁCICA) |  |  |
+| 06 18 21 000A | Prótesis pasiva interescapulotorácica con encaje, estructura endoesquelética, suspensión, hombro, codo, muñeca y mano | 2.000 € | 24 |
+| 06 18 21 001A | Prótesis pasiva interescapulotorácica con encaje, estructura exoesquelética, suspensión, hombro, codo, muñeca y mano | 2.000 € | 24 |
+| 06 18 21 100A | Prótesis funcional interescapulotorácica con encaje, estructura exoesquelética, suspensión, hombro, codo, muñeca y terminal a elección. | 3.907 € | 24 |
+| 06 18 21 200A | Prótesis eléctrica interescapulotorácica con encaje, estructura exoesquelética, suspensión, hombro, codo, muñeca y terminal a elección. | 10.950 € | 24 |
+| 06 18 24 | PRÓTESIS DE MANO |  |  |
+| 06 18 24 000A | Prótesis de mano pasiva | 610 € | 24 |
+| 06 18 24 100A | Prótesis de mano funcional | 780 € | 24 |
+| 06 18 24 200A | Prótesis de mano eléctrica | 5.500 € | 24 |
+| 06 18 27 | PINZAS Y ÚTILES FUNCIONALES |  |  |
+| 06 18 27 000A | Pinzas y útiles estándar. | 780 € | 24 |
+| 06 18 27 101A | Pinza y útiles de estructura reforzada | 1.491 € | 24 |
+| 06 18 27 100A | Pinzas eléctricas. | 5.250 € | 24 |
+| 06 18 30 | ARTICULACIONES DE MUÑECA |  |  |
+| 06 18 30 000A | Articulación de muñeca para terminal pasivo | 300 € | 24 |
+| 06 18 30 100A | Articulación de muñeca para terminal funcional | 580 € | 24 |
+| 06 18 30 200A | Articulación de muñeca para terminal eléctrico | 1.500 € | 36 |
+| 06 18 33 | ARTICULACIONES DE CODO |  |  |
+| 06 18 33 000A | Articulación de codo pasiva | 670 € | 24 |
+| 06 18 33 100A | Articulación de codo funcional | 950 € | 24 |
+| 06 18 33 101A | Articulación de codo funcional con flexión asistida | 1.200 € | 36 |
+| 06 18 33 200A | Articulación de codo eléctrica | 5.500 € | 36 |
+| 06 18 36 | ARTICULACIONES DE HOMBRO |  |  |
+| 06 18 36 000A | Articulación de hombro | 350 € | 24 |
+
+06 24 PRÓTESIS DE MIEMBRO INFERIOR.
+
+Período de garantía: 6 meses.
+
+| Código | Descripción prestación | Límite de la prestación | Plazo renov. (en meses) |
+|---|---|---|---|
+| 06 24 03 | PRÓTESIS PARCIALES DE PIE INCLUYENDO PRÓTESIS DE DEDOS |  |  |
+| 06 24 03 000A | Prótesis para amputación parcial o total de dedos del pie. Plantilla preprotésica. | 190 € | 12 |
+| 06 24 03 100A | Prótesis para amputación transmetatarsiana o de desarticulación de Lisfranc con o sin botín y férula. | 460 € | 12 |
+| 06 24 03 200A | Prótesis completa para amputación de Chopart, con cualquier aditamento. | 910 € | 12 |
+| 06 24 03 300A | Prótesis completa para amputación Pirogoff. | 1.100 € | 12 |
+| 06 24 06 | PRÓTESIS DE DESARTICULACIÓN DE TOBILLO |  |  |
+| 06 24 06 000A | Prótesis completa para amputación de Syme, incluido pie especial. | 1.300 € | 24 |
+| 06 24 09 | PRÓTESIS TRANSTIBIAL (POR DEBAJO DE LA RODILLA) |  |  |
+| 06 24 09 000A | Prótesis completa transtibial, con encaje PTB. Estructura endoesquelética y pie. | 1.700 € | 24 |
+| 06 24 09 001A | Prótesis completa transtibial, con encaje PTB. Estructura exoesquelética y pie. | 1.750 € | 24 |
+| 06 24 09 100A | Prótesis completa transtibial, con encaje PTS. Estructura endoesquelética y pie. | 1.950 € | 24 |
+| 06 24 09 101A | Prótesis completa transtibial, con encaje PTS. Estructura exoesquelética y pie. | 2.200 € | 24 |
+| 06 24 09 200A | Prótesis completa transtibial, con encaje KBM. Estructura endoesquelética y pie. | 1.950 € | 24 |
+| 06 24 09 201A | Prótesis completa transtibial, con encaje KBM. Estructura exoesquelética y pie. | 2.200 € | 24 |
+| 06 24 09 300A | Prótesis completa transtibial, con encaje 3S Estructura endoesquelética y pie. | 2.450 € | 24 |
+| 06 24 09 301A | Prótesis completa transtibial, con encaje 3S Estructura exoesquelética y pie. | 2.450 € | 24 |
+| 06 24 09 301B | Prótesis completa para amputación tibial, con titanio y/o con pie Haberman, hidráulico o graduable, Flexfoot o almacenadores de energía. | 2.450 € | 24 |
+| 06 24 12 | PRÓTESIS PARA DESARTICULACIÓN DE RODILLA |  |  |
+| 06 24 12 000A | Prótesis completa para desarticulación de rodilla con apoyo distal. Estructura endoesquelética. Encaje. Articulación de rodilla, con o sin bloqueo. Pie. Sistema de suspensión. Funda y media. | 1.900 € | 24 |
+| 06 24 12 001A | Prótesis completa para desarticulación de rodilla con apoyo distal. Estructura exoesquelética. Encaje. Articulación de rodilla, con o sin bloqueo. Pie. Sistema de suspensión. Funda y media. | 2.300 € | 24 |
+| 06 24 12 100A | Prótesis completa para desarticulación de rodilla con apoyo isquiático Estructura endoesquelética. Encaje. Articulación de rodilla, con o sin bloqueo. Pie. Sistema de suspensión. Funda y media. | 1.900 € | 24 |
+| 06 24 12 101A | Prótesis completa para desarticulación de rodilla con apoyo isquiático Estructura exoesquelética. Encaje. Articulación de rodilla, con o sin bloqueo. Pie. Sistema de suspensión. Funda y media. | 2.500 € | 24 |
+| 06 24 12 101B | Prótesis completa para desarticulación de rodilla. Estructura modular. Encaje. Rodilla monocéntrica libre con control neumático programado de las fases de balanceo y apoyo o rodilla policéntrica de cuatro ejes. Pie. Sistema de suspensión. Funda y media. | 3.950 € | 24 |
+| 06 24 12 101C | Prótesis completa para desarticulación de rodilla. Estructura endoesquelética. Encaje cuadrangular, con o sin refuerzos en fibra de carbono. Rodilla monocéntrica libre con control hidráulico del balanceo y del frenado en la fase de apoyo. Pie y sistema de suspensión. Funda y media. | 5.110 € | 24 |
+| 06 24 15 | PRÓTESIS TRANSFEMORAL (POR ENCIMA DE LA RODILLA) |  |  |
+| 06 24 15 000A | Prótesis completa transfemoral con encaje cuadrangular laminado o termoconformado al vacio. Estructura exoesquelética. Rodilla, pie y sistema de suspensión. Funda y media. | 3.342 € | 24 |
+| 06 24 15 001A | Prótesis completa transfemoral con encaje cuadrangular laminado o termoconformado al vacio. Estructura endoesquelética. Rodilla, pie y sistema de suspensión. Funda y media. | 2.100 € | 24 |
+| 06 24 15 100A | Prótesis completa transfemoral con encaje cuadrangular ISNY. Estructura exoesquelética. Rodilla, pie y sistema de suspensión. Funda y media. | 2.300 € | 24 |
+| 06 24 15 101A | Prótesis completa transfemoral con encaje cuadrangular ISNY. Estructura endoesquelética. Rodilla, pie y sistema de suspensión. Funda y media. | 2.100 € | 24 |
+| 06 24 15 200A | Prótesis completa transfemoral con encaje CAT-CAM. Estructura exoesquelética. Rodilla, pie y sistema de suspensión. Funda y media. | 2.500 € | 24 |
+| 06 24 15 201A | Prótesis completa transfemoral con encaje CAT-CAM. Estructura endoesquelética. Rodilla, pie y sistema de suspensión. Funda y media. | 2.300 € | 24 |
+| 06 24 15 300A | Prótesis completa transfemoral con encaje de contacto total de silicona. Estructura exoesquelética. Rodilla, pie y sistema de suspensión. Funda y media. | 2.800 € | 24 |
+| 06 24 15 301A | Prótesis completa transfemoral con encaje de contacto total de silicona. Estructura endoesquelética. Rodilla, pie y sistema de suspensión. Funda y media. | 2.500 € | 24 |
+| 06 24 15 301B | Prótesis completa transfemoral. Estructura endoesquelética o modular. Encaje con quilla laminada en resina acrílica con refuerzos en fibra de carbono. Rodilla monocéntrica libre con control neumático programado de las fases de balanceo y apoyo o rodilla policéntrica de cuatro ejes. Pie y sistema de suspensión. Funda y media. | 4.117 € | 24 |
+| 06 24 15 301C | Prótesis completa transfemoral. Estructura endoesquelética o modular. Encaje. Rodilla monocéntrica libre con control hidráulico del balanceo y del frenado en la fase de apoyo. Pie y sistema de suspensión. Funda y media. | 5.529 € | 24 |
+| 06 24 15 301D | Prótesis completa transfemoral. Estructura endoesquelética o modular. Encaje con quilla laminada en resina acrílica con refuerzos en fibra de carbono. Rodilla monocéntrica libre con control hidráulico del balanceo y del frenado en la fase de apoyo. Pie y sistema de suspensión. Funda y media. | 5.619 € | 24 |
+| 06 24 18 | PRÓTESIS PARA DESARTICULACIÓN DE CADERA |  |  |
+| 06 24 18 000A | Prótesis completa para desarticulación de caderacon encaje pélvico laminado o termoconformado al vacío, estructura endoesquelética, cadera, rodilla y pie. | 3.200 € | 24 |
+| 06 24 18 000B | Prótesis completa para desarticulación de cadera. Articulación de cadera con y sin bloqueo. Rodilla monocéntrica libre o policéntrica de dos ejes. Pie y sistema de suspensión. Funda y media. | 4.123 € | 24 |
+| 06 24 18 000C | Prótesis completa para desarticulación de cadera. Estructura modular normal o de titanio. Articulaciones a elección. Pie, sistema de suspensión, funda y media. | 4.778 € | 24 |
+| 06 24 21 | PRÓTESIS PARA HEMIPELVECTOMÍA |  |  |
+| 06 24 21 000A | Prótesis completa para hemipelvectomía con encaje pélvico laminado o termoconformado al vacío, estructura endoesquelética, cadera, rodilla y pie. | 4.538 € | 24 |
+| 06 24 48 | PRÓTESIS TEMPORALES PARA MOVILIZACIÓN PRECOZ DE LOS AMPUTADOS DE MIEMBROS INFERIORES (PRÓTESIS INMEDIATAS) |  |  |
+| 06 24 48 000A | Prótesis provisional para desarticulación de tobillo. | 631 € | Único |
+| 06 24 48 100A | Prótesis provisional para amputación de tibia. | 781 € | Único |
+| 06 24 48 200A | Prótesis provisional para desarticulación de rodilla. | 1.052 € | Único |
+| 06 24 48 300A | Prótesis provisional para amputación de femoral. | 1.112 € | Único |
+| 06 24 48 400A | Prótesis temporal para desarticulación de cadera o para hemipelvectomía. | 1.172 € | Único |
+
+6.90 ORTOPRÓTESIS PARA AGENESIAS.
+
+Período de garantía: 6 meses.
+
+| Código | Descripción | Límite de la prestación | Plazo renov. (en meses) |
+|---|---|---|---|
+| 06 90 00 | ORTOPRÓTESIS PARA AGENESIAS |  |  |
+| 06 90 00 000A | Ortoprótesis para Agenesias de miembro superior. | Según Presupuesto | 12 |
+| 06 90 00 100A | Ortoprótesis para Agenesias demiembro inferior. | Según Presupuesto | 12 |
+
+06 30 PRÓTESIS DISTINTAS DE LAS DE MIEMBROS.
+
+**(Suprimido).**
+
+21 45 AYUDAS PARA LA AUDICIÓN.
+
+**(Suprimido).**
+
+SILLAS DE RUEDAS.
+
+12 21 SILLAS DE RUEDAS.
+
+**(Suprimido).**
+
+12 24 ACCESORIOS PARA SILLAS DE RUEDAS.
+
+**(Suprimido).**
+
+ÓRTESIS.
+
+06 03 ÓRTESIS DE COLUMNA VERTEBRAL.
+
+**(Suprimido).**
+
+06 06 ÓRTESIS DE MIEMBRO SUPERIOR.
+
+**(Suprimido).**
+
+06 12 ÓRTESIS DE MIEMBRO INFERIOR.
+
+**(Suprimido).**
+
+06 33 CALZADOS ORTOPÉDICOS.
+
+**(Suprimido).**
+
+ORTOPRÓTESIS ESPECIALES.
+
+12 03 AYUDAS PARA CAMINAR MANEJADAS POR UN BRAZO.
+
+**(Suprimido).**
+
+12 06 AYUDAS PARA CAMINAR MANEJADAS POR LOS DOS BRAZOS.
+
+**(Suprimido).**
+
+04 06 AYUDAS PARA LA TERAPIA CIRCULATORIA.
+
+**(Suprimido).**
+
+04 33 AYUDAS PARA LA PREVENCIÓN DE ÚLCERAS POR PRESIÓN.
+
+**(Suprimido).**
+
+04 48 EQUIPAMIENTO PARA EL ENTRENAMIENTO DEL MOVIMIENTO, LA FUERZA Y EL EQUILIBRIO.
+
+**(Suprimido).**
+
+> Se suprimen varios apartados por el apartado 1.7 de la Resolución de 18 de diciembre de 2019. [Ref. BOE-A-2019-18764](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18764)
+
+## ANEXO 5 — Prestaciones sanitarias complementarias
+
+1\. Prestaciones dentarias
+
+| Ayudas para prostodoncia o rehabilitación protésica | Límite de la ayuda |
+|---|---|
+| Rehabilitación mediante prótesis completa | 560 € |
+| Rehabilitación mediante prótesis superior o inferior | 280 € |
+| Rehabilitación mediante piezas dentarias, fundas o coronas (cada una) | 35 € |
+
+| Otras prestaciones dentarias | Límite de la ayuda |
+|---|---|
+| Tratamiento con implante osteointegrado (cada uno, hasta un máximo de seis) | 120 € |
+| Empaste, obturaciones o reconstrucciones (cada uno) | 20 € |
+| Endodoncia (cada pieza tratada) | 40 € |
+| Tratamiento de ortodoncia iniciado antes de los 18 años | 500 € |
+| Tartrectomía o limpieza de boca | 12 € |
+
+Delimitación y condiciones de acceso.
+
+A) Los tratamientos odontológicos incluidos entre las prestaciones objeto de los Conciertos suscritos por el ISFAS con Entidades de Seguro no podrán ser objeto de las ayudas establecidas en el presente Anexo, a favor de los titulares y beneficiarios acogidos a esos Conciertos.
+
+B) Quedan excluidas las piezas, fundas o coronas provisionales, por su naturaleza puramente estética.
+
+C) Las ayudas para rehabilitación con prótesis dentarias tienen por objeto atender la cobertura del correspondiente tratamiento, con los límites establecidos, y alcanzará tanto a las actuaciones clínicas precisas como al coste de la correspondiente prótesis.
+
+El conjunto de las ayudas para tratamientos de rehabilitación con prótesis dentarias estarán sujetas a un plazo de renovación de tres años, de forma que la máxima ayuda que podrá reconocerse a un beneficiario por cualquier tipo de tratamiento de rehabilitación con prótesis dentarias (completa, superior, inferior o por piezas fundas o coronas) será de 560 € cada tres años, a contar retrospectivamente desde la fecha de la solicitud.
+
+La ayuda por rehabilitación con prótesis completa será incompatible con otras prestaciones dentarias, con la excepción de las ayudas por implantes osteointegrados.
+
+D) La ayuda por endodoncia incluye la ayuda por el empaste u obturación de la pieza tratada (aunque no se haga constar expresamente en la factura), por entenderse que toda endodoncia concluye con el cierre de la cavidad mediante el correspondiente empaste u obturación.
+
+E) Los tratamientos reparadores sobre la dentición temporal no serán objeto de ayudas.
+
+F) Los tratamientos de ortodoncia iniciados antes de los 18 años, podrán ser objeto de ayudas económicas, que se abonarán por una sola vez y para un único tratamiento. Si el beneficiario ha cumplido los 18 años habrá de aportarse informe del especialista, en el que constará la fecha de inicio del tratamiento.
+
+G) La ayuda para implantes osteointegrados sólo se podrá reconocer para un máximo de seis implantes por cada beneficiario de la misma, de forma que los beneficiarios a los que ya se les haya reconocido la ayuda correspondiente a seis implantes no podrán ser objeto de nuevas prestaciones por este concepto. Estas ayudas son compatibles con las ayudas para rehabilitación protésica.
+
+h) La ayuda para tartrectomía sólo se podrá reconocer una vez cada año natural y, conforme a lo dispuesto en el apartado A) precedente, a ella no podrán acceder los beneficiarios con asistencia completa por una Entidad de Seguro.
+
+I) La solicitud de la correspondiente prestación deberá acompañarse de factura del odontólogo o estomatólogo en la que deberá figurar el detalle del tratamiento efectuado y demás requisitos exigibles.
+
+En las facturas por tratamientos de rehabilitación con prótesis dentarias, de conformidad con lo previsto en la Disposición Adicional 13A de la Ley 29/2006 de Garantías y Uso Racional de Medicamentos y Productos Sanitarios, se deben desglosar todos los conceptos detallando expresamente el coste de la prótesis correspondiente al coste del laboratorio protésico. Cuando se aporte factura emitida por un protésico dental, deberá aportarse también la factura o el informe del odontólogo o estomatólogo que hubiera realizado el tratamiento de rehabilitación con prótesis.
+
+2\. Prestaciones oculares
+
+| Prestaciones por gafas o lentillas | Límite de la ayuda |
+|---|---|
+| Gafas completas (de lejos o cerca) | 42 € |
+| Sustitución de cristal de lejos o cerca (unidad) | 15 € |
+| Gafas completas bifocales o progresivas | 84 € |
+| Sustitución de cristal bifocal/progresivo (unidad) | 36 € |
+| Lentilla (unidad) | 33 € |
+| Lentillas desechables (ayuda anual) | 66 € |
+
+| Otras prestaciones oculares | Límite de la ayuda |
+|---|---|
+| Ayudas para la baja visión (gafas telelupa, lupas, filtros, microscopios) | 180 € |
+| Sustitución de cristal telelupa | 40 € |
+| Lente terapéutica (unidad) | 62 € |
+| Técnicas de Cirugía Refractiva (tratamiento de cada ojo) | 200 € |
+
+Delimitación y condiciones de acceso.
+
+A) Para el acceso a prestaciones por Gafas o Lentillas será preciso que la graduación óptica requerida sea igual o superior a 0,5 dioptrías.
+
+B) Las ayudas para gafas, sustitución de cristales y lentillas, de cualquier tipo, son incompatibles entre sí, pudiendo reconocerse solo una de ellas por cada año natural a favor del mismo beneficiario.
+
+En el caso de la sustitución de cristales y de las lentillas, podrán reconocerse ayudas para dos unidades como máximo, por beneficiario y año natural, pero en cualquier caso se mantendrá la incompatibilidad con otras ayudas para gafas o lentillas.
+
+Si las lentillas fueran desechables, la ayuda máxima a conceder por este concepto será de 66 € por año natural y beneficiario, debiendo solicitarse de una sola vez para su concesión.
+
+Se tendrá en cuenta la fecha de la factura para el control de estos límites.
+
+C) Las solicitudes relativas a ayudas para gafas, cristales y lentillas deberán acompañarse de la correspondiente factura y, salvo en el caso de las lentillas terapéuticas, del informe en el que se refleje la corrección óptica requerida por el beneficiario.
+
+E) Podrán acceder a las prestaciones para ayudas ópticas para la baja visión los beneficiarios que presenten una agudeza visual igual o inferior a 0,3 (3/10) con corrección, en el mejor ojo, o un campo visual inferior a 10° desde el punto de fijación. En este caso, la solicitud deberá acompañarse del informe de un especialista en oftalmología, en el que se detallará la agudeza visual del beneficiario y, en su caso, el campo visual.
+
+F) Los tratamientos mediante técnicas de cirugía refractiva darán lugar a una ayuda económica exclusivamente en el caso de beneficiarios con defectos de refracción estabilizados, por tanto, con edad superior a 21 años, y siempre que se requiera una corrección igual o superior a 4 dioptrías. Cuando exista un defecto combinado el defecto más severo deberá alcanzar el límite señalado.
+
+La solicitud habrá de acompañarse de informe médico de un especialista en Oftalmología, en el que deberá constar el diagnóstico, la corrección óptica requerida y la técnica terapéutica utilizada, así como de la correspondiente factura, con los requisitos legales ya señalados para estas prestaciones.
+
+El importe de la ayuda económica por cirugía refractiva será equivalente al 50% del coste del tratamiento sin que, en ningún caso, esta ayuda pueda superar el límite de 200 € por el tratamiento de cada ojo.
+
+3\. Otras ayudas técnicas
+
+| Prestación | Límite de la ayuda |
+|---|---|
+| Audífono (para beneficiarios mayores de 16 años) | 423€ |
+| Laringófono | Coste, según factura |
+| Cánulas de plata para traqueotomía y laringuectomía | Coste, según factura |
+
+Delimitación y condiciones de acceso.
+
+A) El período mínimo de renovación ordinaria de estas prestaciones será de 4 años desde la fecha de factura, excepto para las cánulas de plata para traqueotomía que no estarán sujetas a plazos de renovación.
+
+B) En el caso de que los artículos precisen algún tipo de reparación, ésta podrá ser objeto de una ayuda económica cuyo importe será, como máximo, del 50% de la ayuda establecida para su adquisición. Las ayudas para reparación no incidirán en los plazos de renovación.
+
+C La ayuda para audífono, prevista en este Anexo, será incompatible con la prestación de audífono prevista en el Catálogo del ISFAS sobre Material Ortoprotésico (código 21 45 00).
+
+Cuando se prescriba la adaptación bilateral de audífonos, ambos podrán ser objeto de ayuda económica.
+
+D) En los expedientes relativos a solicitudes de cánulas de plata para traqueotomía y laringuectomía el informe del especialista deberá justificar la necesidad de este tipo de cánulas.
+
+E) En todos los casos, las solicitudes deberán acompañarse de informe médico de prescripción y de la correspondiente factura, con los requisitos legales establecidos.
+
+## Anexo 6
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/314/18764_5834.png)
+
+> Se añade por el apartado 1.8 de la Resolución de 18 de diciembre de 2019. [Ref. BOE-A-2019-18764](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18764)

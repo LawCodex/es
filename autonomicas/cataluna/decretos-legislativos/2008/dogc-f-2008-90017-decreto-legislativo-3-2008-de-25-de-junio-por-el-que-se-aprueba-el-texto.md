@@ -1,0 +1,12016 @@
+---
+title: "Decreto Legislativo 3/2008, de 25 de junio, por el que se aprueba el Texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña"
+identifier: "DOGC-f-2008-90017"
+type: legislative_decree
+rank: "Decreto Legislativo"
+jurisdiction: es-cataluna
+language: es
+department: "Comunidad Autónoma de Cataluña"
+date: 2008-06-25
+published: 2008-06-27
+in_force_from: 2008-06-28
+last_amended: 2026-05-22
+consolidated: 2026-10-02
+gazette: "Diari Oficial de la Generalitat de Catalunya núm. 5161"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=DOGC-f-2008-90017"
+retrieved: 2026-10-11
+---
+
+# Decreto Legislativo 3/2008, de 25 de junio, por el que se aprueba el Texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña
+
+PREÁMBULO
+
+I
+
+El artículo 202 del Estatuto de autonomía de Cataluña establece, entre los recursos de la hacienda de la Generalidad, el rendimiento derivado de sus tasas propias por aprovechamientos especiales y por la prestación de servicios directos, ya sean de creación propia o bien como consecuencia de los traspasos de servicios especiales.
+
+El año 1984 se aprobó la primera ley que establecía las normas reguladoras de las tasas por la prestación de servicios de la Generalidad de Cataluña y ya en 1986 se incorporaron en un solo texto legal tanto las normas generales como la regulación de cada una de las tasas. Posteriormente, como consecuencia de las sucesivas modificaciones, se elaboró el año 1989 el primer Texto refundido sobre la materia. Más tarde, la adaptación al nuevo régimen de financiación autonómica con la introducción del precio público como categoría de ingresos de las comunidades autónomas hizo necesaria la aprobación de una nueva ley el año 1991, la Ley 33/1991, de 24 de diciembre.
+
+Pero sin duda, uno de los mayores cambios producidos en este terreno fue el operado por la sentencia número 185/1995, de 14 de diciembre, del Tribunal Constitucional, que disponía que determinados supuestos o categorías de precios públicos, en tanto que prestaciones patrimoniales de carácter público, quedaban sometidos al principio de reserva de ley. El contenido de dicho pronunciamiento se trasladó a la regulación de las tasas y precios públicos recogida en la Ley 15/1997, de 24 de diciembre.
+
+Dicha Ley ha sido objeto de múltiples modificaciones. Así, principalmente mediante las leyes de medidas se han creado nuevas tasas, o se han modificado o suprimido otras ya existentes; diferentes elementos han sufrido modificaciones, tales como las definiciones de hecho imponible, la determinación de los sujetos pasivos, la introducción de supuestos de exención, entre otras. Por otra parte, las sucesivas leyes de presupuestos han previsto actualizaciones anuales de las tasas de cuantía fija.
+
+Posteriormente, la Ley 21/2001, de 28 de diciembre, estableció la obligación para todos los departamentos de la Generalidad de publicar durante el primer trimestre de 2002 una relación de las tasas con sus importes convertidos en euros. La línea empezada con esta previsión legislativa tuvo continuidad en las sucesivas leyes de medidas en las que se estableció la obligación de los departamentos de publicar órdenes informativas con una relación de las tasas que gestionan, todo eso con la finalidad de dar cumplimiento al principio de seguridad jurídica.
+
+El legislador quiso dar, sin embargo, un paso más y, así, en la Ley 5/2007, del 4 de julio, de medidas fiscales y financieras, autorizó al Gobierno para que refundiera en un solo texto toda la regulación de las tasas, autorización que fue ampliada en la disposición final primera de la Ley 17/2007, de 21 de diciembre, de medidas fiscales y financieras, a los preceptos que sobre la materia se incluían en esta misma ley, en la Ley 2/2007, del 5 de junio, así como la actualización de los importes de las tasas de cuantía fija prevista en la Ley 16/2007, del 21 de diciembre, de presupuestos de la Generalidad de Cataluña para el 2008.
+
+En cuanto al contenido de dicha autorización se tiene que señalar que admite expresamente la regularización, la aclaración y la armonización de la regulación vigente.
+
+II
+
+Enlazando con el contenido del mandato y con el alcance de la refundición se tiene que señalar que quizás una de las novedades más importantes que presenta esta Ley hay que buscarla en su sistemática. Las modificaciones sustantivas de la regulación arriba mencionadas han puesto de manifiesto la dificultad técnica que ha comportado en ocasiones la introducción de nuevos hechos imponibles o la creación de tasas nuevas, circunstancias que han provocado la necesidad, por ejemplo, de utilizar numeraciones bis de los artículos, hecho previsto en la disposición adicional tercera de la Ley 15/1997, de 24 de diciembre. Por otra parte, la clasificación de las tasas en la Ley mencionada, en títulos que se corresponden con cada uno de los departamentos no se adapta a la realidad cambiante, hecho que origina que tasas reguladas en un título concreto sean prestadas no por aquel departamento sino por otro que ha asumido, posteriormente, la prestación del servicio o actividad que devenga la tasa.
+
+Con el fin de intentar resolver toda esta problemática que da como resultado un articulado complicado de la norma para el operador jurídico o la ciudadanía que accede a él y dado que el mandato del legislador permite la regularización, la aclaración y la armonización de la regulación vigente, se ha optado por utilizar una sistemática diferente. Así, la Ley se divide en veintisiete títulos referidos a materias, ordenadas alfabéticamente, de forma que las tasas no quedan relacionadas con un departamento sino con un ámbito de actuación concreto. A su vez, cada título se compone de capítulos, y cada uno de ellos corresponde a una tasa. Finalmente, los capítulos están integrados por artículos; en este punto, e intentando solucionar el problema de numeración arriba explicado, se opta por utilizar la técnica legislativa utilizada en la Ley 29/2002, de 30 de diciembre, primera Ley del Código Civil de Cataluña. De esta manera, los artículos llevan tres números, el primero corresponde al título, el segundo (separado por un punto del primero) al capítulo, y, el tercero (separado de los anteriores por un guión) a la numeración correlativa de artículos dentro del capítulo. Forman parte también del Texto refundido seis disposiciones adicionales y una disposición transitoria.
+
+Por lo tanto, en ejercicio de la delegación mencionada, de acuerdo con el dictamen emitido por la Comisión Jurídica Asesora, a propuesta del consejero de Economía y Finanzas, y de acuerdo con el Gobierno,
+
+DECRETO
+
+#### Artículo único.
+
+1\. Este Decreto legislativo se dicta en cumplimiento del mandato establecido en la disposición final primera de la Ley 5/2007, del 4 de julio, de medidas fiscales y financieras, y en la disposición final primera de la Ley 17/2007, de 21 de diciembre, de medidas fiscales y financieras.
+
+2\. Se aprueba el Texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña cuyo texto se publica a continuación.
+
+#### Disposición derogatoria.
+
+Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a este Decreto legislativo y al Texto refundido que aprueba y, particularmente, las siguientes:
+
+1\. Ley 15/1997, de 24 de diciembre, de tasas y precios públicos de la Generalidad de Cataluña.
+
+2\. El artículo 13 de la Ley 17/1997, de 24 de diciembre, de medidas administrativas y de organización.
+
+3\. Los artículos, 40, 41, 42, 43, 44, 45 y 46 de la Ley 25/1998, de 30 de diciembre, de medidas administrativas, fiscales y de adaptación al euro.
+
+4\. Los artículos 7, 8, 9, 10, 11, 12 y 13 de la Ley 4/2000, de 26 de mayo, de medidas fiscales y administrativas.
+
+5\. Los artículos 3, 4, 5, 6, 7, 8, 9, 10 y 11 y las disposiciones adicionales duodécima y decimotercera de la Ley 15/2000, de 29 de diciembre, de medidas fiscales y administrativas.
+
+6\. Los artículos 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 y 20 de la Ley 21/2001, de 28 de diciembre, de medidas fiscales y administrativas.
+
+7\. La Ley 9/2002, de 27 de mayo, de modificación de la Ley 15/1997, de tasas y precios públicos de la Generalidad de Cataluña, por la que se introduce una tasa por la obtención y la expedición del título de patrón o patrona de moto náutica.
+
+8\. Los artículos 20, 21, 22, 23, 24, 25, 26 y 27 de la Ley 31/2002, de 30 de diciembre, de medidas fiscales y administrativas.
+
+9\. Los artículos 7, 8, 9, 10, 11, 12, 13 y 14 de la Ley 7/2004, de 16 de julio, de medidas fiscales y administrativas.
+
+10\. Los artículos 2, 3, 4, 5, 6, 7, 8, 9 y 10 de la Ley 12/2004, de 27 de diciembre, de medidas financieras.
+
+11\. Los artículos 3, 4, 5, 6, 7, 8, 9, 10 y 11 de la Ley 21/2005, de 29 de diciembre, de medidas financieras.
+
+12\. La disposición final primera de la Ley 2/2007, de 5 de junio, del «Diari Oficial de la Generalitat de Catalunya».
+
+13\. Los artículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 y 12 de la Ley 5/2007, del 4 de julio, de medidas fiscales y financieras.
+
+14\. Los artículos 2, 3, 4, 5, 6 y 7 de la Ley 17/2007, del 21 de diciembre, de medidas fiscales y financieras.
+
+Se mantiene de forma expresa la vigencia de la disposición adicional quinta de la Ley 21/2001, de 28 de diciembre.
+
+Todas las referencias realizadas a cualquiera de las disposiciones mencionadas objeto de refundida se entenderán realizadas en los artículos correspondientes de este texto.
+
+#### Disposición final. Entrada en vigor.
+
+Este Decreto legislativo y el Texto refundido que aprueba entran en vigor el día siguiente al de su publicación en el «Diari Oficial de la Generalitat de Catalunya».
+
+Barcelona, 25 de junio de 2008.
+
+| JOSÉ MONTILLA I AGUILERA | ANTONI CASTELLS |
+|---|---|
+| Presidente de la Generalidad de Cataluña | Consejero de Economía y Finanzas |
+
+## TEXTO REFUNDIDO DE LA LEY DE TASAS Y PRECIOS PÚBLICOS DE LA GENERALIDAD DE CATALUÑA
+
+## TÍTULO I — Preliminar
+
+### CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1.1-1. Objeto de la Ley.
+
+1\. El objeto de esta Ley es regular el régimen jurídico de las tasas y los precios públicos propios de la Generalidad y de sus entidades autónomas y entidades gestoras.
+
+2\. Son tasas propias de la Generalidad y de sus entidades autónomas y entidades gestoras:
+
+a) Las recogidas en los títulos II a XXVII.
+
+b) Las que establezca la Generalidad.
+
+c) Las que el Estado o las corporaciones locales puedan transferir a la Generalidad.
+
+3\. Son precios públicos propios de la Generalidad y de sus entidades autónomas y entidades gestoras los que se establezcan con sujeción a lo que dispone esta Ley.
+
+#### Artículo 1.1-2. Ámbito de aplicación de la Ley.
+
+1\. Las tasas y los precios públicos de la Generalidad y de sus entidades autónomas y entidades gestoras se rigen por esta Ley y por las normas reglamentarias que la desarrollen, sin perjuicio de la aplicación subsidiaria de la normativa estatal vigente sobre esta materia.
+
+2\. Las tasas y los precios públicos que el Estado o las corporaciones locales transfieran a la Generalidad, de acuerdo con lo que establece el apartado 2c) del artículo 1.1-1 de esta Ley, tienen que continuar rigiéndose por las mismas normas que los regulaban antes de la transferencia, en todo lo que no se oponga a esta Ley y hasta que no sea dictada la normativa propia correspondiente.
+
+3\. Continúan rigiéndose por las mismas disposiciones, dado que no son comprendidas dentro del ámbito de esta Ley:
+
+a) Los cánones percibidos a causa de concesiones administrativas de servicios.
+
+b) Las contraprestaciones por los servicios prestados por los entes públicos que actúan según norma de derecho privado.
+
+c) Los cánones regulados por los artículos 78 y 80 del Decreto legislativo 3/2003, de 4 de noviembre.
+
+#### Artículo 1.1-3. Régimen presupuestario.
+
+Los recursos regulados por esta Ley tienen la naturaleza de ingreso presupuestario de la Generalidad y de sus entidades autónomas y entidades gestoras y son destinados a satisfacer el conjunto de sus obligaciones respectivas, a menos que a título excepcional y por ley se establezca la afectación de algunos recursos a finalidades determinadas.
+
+#### Artículo 1.1-4. Responsabilidades.
+
+1\. Las autoridades y el funcionariado de cualquier orden que por dolo, culpa o negligencia grave exijan indebidamente una tasa o un precio público, o lo hagan en cantidad más elevada de la que corresponde, incurren en falta disciplinaria muy grave, sin perjuicio de las responsabilidades de otro orden que puedan derivar de su actuación.
+
+2\. Las autoridades y el funcionariado de cualquier orden que adopten resoluciones o hagan actos que infrinjan las normas de esta Ley y las disposiciones que la desarrollan tienen que indemnizar las finanzas de la Generalidad por los daños y los perjuicios que sean consecuencia, independientemente de la responsabilidad penal o disciplinaria que les pueda corresponder.
+
+#### Artículo 1.1-5. Recursos y reclamaciones.
+
+Contra los actos dictados en materia de tasas y precios públicos se puede recurrir en vía económico-administrativa ante la Junta de Finanzas, según las normas reguladoras de sus procedimientos, sin perjuicio del derecho a interponer, con carácter potestativo, recurso de reposición.
+
+Los acuerdos de la Junta pueden ser objeto de recurso ante los tribunales de la jurisdicción contenciosa administrativa.
+
+### CAPÍTULO II — Tasas
+
+#### Artículo 1.2-1. Concepto.
+
+Son tasas exigibles por la Administración de la Generalidad o por las entidades dependientes y que, de acuerdo con su normativa específica, sometan su régimen económico-financiero al derecho público, los tributos creados de acuerdo con esta Ley cuyo hecho imponible se produce dentro del ámbito territorial de Cataluña y es constituido por la utilización de su dominio público, y por la prestación de servicios o la realización de actividades en régimen de derecho público, que se refieran, afecten o beneficien de forma particular a los sujetos pasivos cuando concurra cualquiera de las circunstancias siguientes:
+
+a) Si no son de solicitud o de recepción voluntaria por los administrados. A estos efectos, no se considera voluntaria la solicitud por los administrados:
+
+Primero. Si es impuesta por disposiciones.
+
+Segundo. Si los bienes, los servicios o las actividades requeridos son imprescindibles para la vida privada o social de quien los solicita.
+
+b) Si no son prestados o ejercidos por el sector privado, sea o no establecida la reserva a favor del sector público, conforme a la normativa vigente.
+
+#### Artículo 1.2-2. Creación.
+
+Se tienen que regular por ley la creación de las tasas y la determinación del hecho imponible, del sujeto pasivo, de la base imponible, del tipo de gravamen, de la cuota, de la acreditación, de los otros elementos esenciales de las tasas, de acuerdo con lo que establece el artículo 8 de la Ley 58/2003, de 17 de diciembre, general tributaria.
+
+#### Artículo 1.2-3. Modificación.
+
+1\. La modificación de cualquier tasa exigible por la Generalidad y sus entidades autónomas y entidades gestoras se tiene que hacer por ley del Parlamento en todo aquello que afecta a los elementos determinados por el artículo 1.2-2. La modificación del resto de elementos se puede hacer por decreto del Gobierno.
+
+2\. La Ley de presupuestos de la Generalidad de Cataluña puede modificar, de conformidad con lo que establece el apartado 7 del artículo 134 de la Constitución española, los elementos cuantificadores de las tasas.
+
+#### Artículo 1.2-4. Estipulación presupuestaria.
+
+La exacción de las tasas es estipulada en la Ley de presupuestos de la Generalidad de Cataluña.
+
+#### Artículo 1.2-5. Acreditación.
+
+1\. Las tasas se acreditan, según la naturaleza del hecho imponible:
+
+a) Cuando se conceden la utilización privativa o el aprovechamiento especial del dominio público.
+
+b) Cuando se inicia la prestación del servicio o el ejercicio de la actividad, sin perjuicio de la posibilidad de exigir el depósito previo.
+
+c) Cuando se presenta la solicitud que inicia la actuación o el expediente, que no puede ser rellenada o tramitada si no se ha efectuado el ingreso de la tasa.
+
+2\. El pago de las tasas asociadas a la presentación de una declaración responsable o de una comunicación previa debe efectuarse previamente al inicio de la actividad. En estos casos, lo dispuesto por este apartado prevalece sobre el régimen de acreditación que se haya establecido de manera específica en la regulación de cada tasa.
+
+> Se modifica por el art. 17 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 1.2-6. Sujeto pasivo y responsables.
+
+1\. Es sujeto pasivo de la tasa, en concepto de contribuyente, la persona física o jurídica que resulta afectada o beneficiada, personalmente o en sus bienes, por el servicio prestado o la actividad ejercida, y las que utilicen el dominio público o sean titulares de autorizaciones de uso de dominio público, independientemente de la utilización posterior de éste.
+
+2\. Tienen la condición de sujetos pasivos las herencias yacentes, las comunidades de bienes y otras entidades que, sin tener personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptibles de imposición.
+
+3\. La concurrencia de dos o más titulares en el hecho imponible obliga a éstos solidariamente.
+
+4\. Excepcionalmente, pueden ser considerados sustitutos del contribuyente las personas que solicitan la prestación de servicios o la realización de las actividades que constituyen el hecho imponible.
+
+5\. En materia de responsabilidad, tanto si es solidaria como si es subsidiaria, se tiene que aplicar lo que dispone la normativa general correspondiente en el ámbito tributario y, subsidiariamente, la Ley general tributaria.
+
+#### Artículo 1.2-7. Beneficios fiscales.
+
+1\. No pueden establecerse, si no es por ley, exenciones u otros beneficios tributarios, los cuales deben ajustarse a los principios de justicia tributaria recogidos en la Constitución.
+
+2\. Pueden establecerse por ley exenciones a favor del Estado, la Generalidad y otros entes públicos territoriales o institucionales, o como consecuencia de lo dispuesto por los tratados o los acuerdos internacionales.
+
+3.**(Derogado).**
+
+4\. Si como consecuencia de la aplicación de una bonificación o deducción resulta un importe con tres o más decimales, debe hacerse el redondeo monetario al céntimo de euro, de modo que si el tercer decimal es igual o superior a 5, se incrementa la unidad de céntimo de euro. Hecha esta operación:
+
+a) La cifra de las unidades de céntimo de euro, si está comprendida entre 1 y 5, se redondea a 5.
+
+b) La cifra de las unidades de céntimo de euro, si está comprendida entre 6 y 9, se redondea a 0 y se aumenta en una unidad la cifra de las decenas de céntimo de euro.
+
+5\. Si es aplicable más de una bonificación o deducción, estas se aplican acumulativamente, salvo que expresamente se disponga de otro modo.
+
+> Se deroga el apartado 3 por el art. 24 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica el apartado 3 por el art. 28 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 2 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+> Se añade el apartado 3 por el art. 5 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 1.2-8. Elementos cuantitativos de las tasas.
+
+1\. La cuantificación de las cuotas de las tasas se tiene que hacer de manera que el rendimiento de éstas no exceda, en su conjunto, su coste total.
+
+2\. La determinación del rendimiento de cada tasa tiene que tener en cuenta los gastos directos o indirectos que contribuyen a la formación del coste total del servicio o la actividad, incluso las de carácter financiero, la amortización del inmovilizado y las generales que sean aplicables.
+
+3\. En cuanto a las tasas que gravan el dominio público, los costes son los equivalentes a la utilidad derivada de la utilización privativa o del aprovechamiento especial del dominio público. En estos supuestos, se tiene que tomar, además, como referencia el valor de mercado correspondiente. Si la utilización privativa o el aprovechamiento especial comportan la destrucción o el deterioro del dominio público, los beneficiarios, sin perjuicio del pago de la tasa, están obligados al reintegro del coste total de los gastos de reconstrucción o reparación correspondientes. Si los daños son irreparables, la indemnización tiene que consistir en una cuantía igual al valor de los bienes destruidos o al importe del deterioro de los bienes.
+
+4\. Siempre que la tasa lo permita, las cuotas se tienen que fijar atendiendo la capacidad económica de los obligados en el pago.
+
+5\. La cuota tributaria puede consistir en una cantidad fija, puede determinarse en función de un tipo de gravamen aplicable sobre la base imponible, o puede establecerse conjuntamente por ambos procedimientos.
+
+#### Artículo 1.2-9. Gestión.
+
+1\. La gestión, la liquidación y la recaudación de cada tasa corresponden al departamento o a la entidad autónoma o entidad gestora que debe prestar el servicio o realizar la actividad que han sido gravados, o que interviene en la cesión de la utilización privativa o en el aprovechamiento especial del dominio público. Corresponden a la Oficina de Gestión Empresarial, en colaboración con los departamentos competentes, la gestión, liquidación y recaudación de las tasas asociadas a los trámites y servicios que tenga atribuidos por cualquier medio y que constan en su catálogo de servicios. Las funciones inspectoras corresponden al Departamento de la Vicepresidencia y de Economía y Hacienda, que las ejerce tanto con relación al tributo como con relación a los órganos que tienen encomendada su gestión, sin perjuicio de que pueda establecerse, en la regulación de cada tasa, la colaboración del órgano titular de la tasa en la función inspectora.
+
+2\. En caso de que las funciones o determinadas funciones atribuidas a las oficinas de gestión empresarial (OGE) sean encomendadas a órganos, entidades o corporaciones de derecho público, en virtud del acuerdo expreso de encargo de gestión, la gestión, la liquidación y la recaudación de las tasas en periodo voluntario pueden ser hechas por el órgano, la entidad o la corporación correspondiente en nombre y por cuenta del Departamento competente en materia de industria, de acuerdo con el procedimiento aplicable a las OGE.
+
+3\. El Gobierno tiene que dictar las normas para regular la coordinación de estas funciones con las de los departamentos y de las entidades gestoras.
+
+> Se modifica el apartado 1 por el art. 25 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 1.2-10. Autoliquidaciones.
+
+Los sujetos pasivos de las tasas están obligados a practicar operaciones de autoliquidación tributaria y a efectuar el ingreso en los supuestos determinados en esta Ley y en los casos en que se determine por reglamento.
+
+#### Artículo 1.2-11. Pago de las tasas.
+
+1\. El pago de las tasas se puede hacer por alguno de los medios siguientes:
+
+a) En efectivo, consistente en dinero de curso legal.
+
+b) Cheque o talón de cuenta corriente conformado o certificado por la entidad bancaria o la caja de ahorros.
+
+c) Transferencia bancaria o de caja de ahorros.
+
+d) Domiciliación bancaria.
+
+e) Giro postal.
+
+f) Efectos timbrados de la Generalidad.
+
+g) Tarjeta de crédito u otros medios análogos.
+
+2\. Hay que determinar por reglamento los requisitos, las condiciones, el momento del pago cuando no coincida con el de la acreditación, las formas de utilización y los efectos liberadores para el deudor de los medios de pago establecidos en este artículo.
+
+3\. Se puede determinar, mediante una orden del consejero o consejera competente en razón de la materia, con el informe favorable previo del Departamento de Economía y Finanzas y en los términos que se establezcan por reglamento, la obligatoriedad de utilizar uno o algunos de los medios de pago admitidos en relación con una tasa determinada, o la exclusión de alguno de ellos.
+
+4\. Se autoriza al Gobierno para crear efectos timbrados de la Generalidad destinados a pagar las tasas que constituyen tributos propios de la Generalidad y para regular su utilización.
+
+5\. El pago de las tasas en periodo voluntario se efectúa ante el órgano que presta el servicio o la actividad gravados.
+
+En los términos que se establezcan por reglamento, cada departamento puede autorizar entidades financieras para actuar como entidades colaboradoras en la recaudación de las tasas respectivas.
+
+6\. En caso de discrepancia sobre la procedencia o el importe de la tasa, la consignación o el afianzamiento de ésta produce los efectos del pago. Si el sujeto pasivo no justifica que ha presentado recurso de reposición o reclamación económica-administrativa dentro del plazo legal, las cantidades consignadas o las resultantes de hacer efectiva la fianza se tienen que ingresar en el Tesoro de la Generalidad.
+
+7\. Si la tasa se acredita periódicamente, por razón de prestación de servicios continuados que no requieren la adopción de nuevas resoluciones de admisión al servicio, el organismo perceptor de la tasa no puede suspender la prestación por falta de pago, si no lo autoriza la regulación de ésta, sin perjuicio de exigir el importe por la vía de apremio.
+
+#### Artículo 1.2-12. Aplazamiento y fraccionamiento.
+
+El Gobierno puede regular por reglamento el aplazamiento del pago de las tasas. También puede regular el fraccionamiento del pago de las cuotas de importe superior a 90,15 euros. Este límite puede ser revisado por la Ley de presupuestos. Mientras no se haga uso de esta autorización, se aplican las normas del Reglamento general de recaudación.
+
+Las competencias que éste atribuye al ministro o ministra de Economía y Hacienda, al director o directora general de Presupuestos y a los delegados de Hacienda corresponden, respectivamente, al consejero o consejera de Economía y Finanzas, al director o directora general de Presupuestos y a los delegados territoriales de este Departamento.
+
+#### Artículo 1.2-13. Apremio.
+
+La Administración utiliza el procedimiento de apremio para recaudar las tasas no ingresadas en periodo voluntario.
+
+#### Artículo 1.2-14. Devoluciones.
+
+El sujeto pasivo tiene derecho a la devolución de las tasas que ha satisfecho si, por causas que no le son imputables, no se han prestado las actividades o los servicios gravados.
+
+#### Artículo 1.2-15. Procedimiento.
+
+Corresponde al Gobierno y al consejero o consejera de Economía y Finanzas, dentro del ámbito de las atribuciones respectivas, dictar las normas de procedimiento encaminadas a regular y a controlar la gestión de las tasas y a ingresar el importe en la Tesorería de la Generalidad. La periodicidad de este ingreso no puede ser superior a un mes; este ingreso tiene que hacerse especificando el concepto y los rendimientos de cada tasa.
+
+#### Artículo 1.2-16. Sanciones.
+
+La calificación de los expedientes sancionadores y la imposición de sanciones se rigen por las disposiciones tributarias generales.
+
+### CAPÍTULO III — Precios públicos
+
+#### Artículo 1.3-1. Concepto.
+
+1\. Tienen la consideración de precios públicos las contraprestaciones pecuniarias que se satisfagan por las prestaciones de servicios y la realización de actividades efectuadas en régimen de derecho público, cuando concurren las circunstancias siguientes:
+
+a) Si se trata de servicios o actividades que no son de solicitud o de recepción obligatorias por los administrados.
+
+b) Si al mismo tiempo son prestados o realizadas por el sector privado.
+
+2\. A los efectos de lo que establece el apartado 1, no se considera voluntaria la solicitud por los administrados:
+
+a) Si les es impuesta por disposiciones legales o reglamentarias.
+
+b) Si el servicio o la actividad solicitados son esenciales o imprescindibles para la vida privada o social de los administrados.
+
+#### Artículo 1.3-2. Creación y modificación.
+
+La creación, la modificación y la derogación de los precios públicos, salvo los referidos a la enseñanza universitaria, que se tienen que hacer por decreto, se tienen que efectuar mediante una orden del consejero o consejera competente en razón de la materia y de acuerdo con el procedimiento establecido por la Ley 13/1989, de 14 de diciembre, de organización, procedimiento y régimen jurídico de la Administración de la Generalidad de Cataluña. En el expediente de elaboración del decreto o de la orden se tienen que incorporar necesariamente los informes previos favorables siguientes:
+
+a) El de la Intervención Delegada.
+
+b) El de la Asesoría Jurídica del Departamento de Economía y Finanzas, la cual se tiene que pronunciar de forma expresa sobre la naturaleza de precio público de la exacción que se crea.
+
+Este informe no hace falta en el caso de que se trate exclusivamente de la modificación del importe del precio o de la derogación de éste.
+
+#### Artículo 1.3-3. Sujetos obligados al pago.
+
+Son sujetos obligados al pago de los precios públicos las personas físicas o jurídicas que son afectadas o beneficiadas personalmente o en sus bienes por el servicio prestado o la actividad realizada.
+
+#### Artículo 1.3-4. Cuantías.
+
+1\. Los precios públicos se fijan de manera que, como mínimo, cubran los costes originados por la prestación de los servicios o por la realización de las actividades gravados.
+
+2\. Si hay razones sociales, benéficas, culturales o de interés público que lo justifiquen, se pueden fijar precios públicos de nivel inferior del indicado en el apartado 1, una vez adoptadas las previsiones presupuestarias necesarias para cubrir la parte de coste subvencionado.
+
+#### Artículo 1.3-5. Exigibilidad.
+
+1\. Los precios públicos pueden exigirse desde que se efectúa la entrega de los bienes o se inicia la realización de la actividad o la prestación del servicio gravado.
+
+2\. Puede exigirse también la anticipación o el depósito previo del importe total o parcial de los precios públicos.
+
+#### Artículo 1.3-6. Gestión.
+
+La gestión, la liquidación y la recaudación de los precios públicos corresponden a los centros, los servicios, los órganos o los entes que en la esfera territorial o central prestan el servicio o realizan la actividad objeto de los precios, sin perjuicio de las facultades de dirección, supervisión y control propias del Departamento de Economía y Finanzas.
+
+#### Artículo 1.3-7. Medios de pago.
+
+El pago de los precios públicos se puede hacer por los medios establecidos por el artículo 1.2-11 de esta Ley.
+
+#### Artículo 1.3-8. Apremio.
+
+Las deudas por precios públicos pueden exigirse mediante el procedimiento de apremio cuando hayan transcurrido seis meses desde su vencimiento sin haber obtenido el ingreso.
+
+#### Artículo 1.3-9. Devolución.
+
+Es procedente la devolución de las cantidades satisfechas si, por causas no imputables a la persona obligada en el pago del precio, no se realiza la actividad o no se presta el servicio. No obstante, en el supuesto de espectáculos y siempre que sea posible, no se tiene que proceder a la devolución, sino al cambio de las entradas.
+
+#### Artículo 1.3-10. Régimen supletorio.
+
+La administración y la recaudación de los ingresos por precios públicos, en aquello que no establece esta Ley, se tienen que efectuar de conformidad con la legislación que sea aplicable y, subsidiariamente, por la Ley general tributaria, el Reglamento general de recaudación y la Ley de tasas y precios públicos del Estado.
+
+## TÍTULO II — Tasas por servicios y actividades de carácter general
+
+### CAPÍTULO I — Tasa por la inscripción en las convocatorias para la selección del personal que tiene que acceder a la Generalidad
+
+#### Artículo 2.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la inscripción en las convocatorias para la selección del personal que debe acceder a la Administración de la Generalidad y a las entidades de derecho público que dependen de la misma tanto en la condición de funcionario o funcionaria como en la condición de laboral fijo.
+
+> Se modifica por el art. 1.1 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+#### Artículo 2.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los que solicitan la inscripción en las convocatorias para la selección de personal que hace la Generalidad.
+
+#### Artículo 2.1-3. Exenciones y bonificaciones.
+
+1\. Están exentos de la tasa regulada por este capítulo, previa justificación documental de su situación, los sujetos pasivos en situación de desempleo que no perciban ninguna prestación económica, las personas jubiladas y las que acrediten una discapacidad igual o superior al 33 %.
+
+2\. Se establece una bonificación del 30 % sobre la tasa regulada por este capítulo para miembros de familias monoparentales y numerosas de categoría general, y una bonificación del 50 % para miembros de familias monoparentales y numerosas de categoría especial, y para mujeres que acrediten la condición de víctima de violencia machista, así como para los hijos que dependan de ella.
+
+> Se modifica por el art. 1.2 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifica el apartado 4 por el art. 18.1 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica el apartado 3 por el art. 6 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 2.1-4. Devengo.
+
+La tasa se devenga en el momento de la inscripción, pero el ingreso correspondiente tiene que ser previo a la solicitud de inscripción.
+
+#### Artículo 2.1-5. Cuota.
+
+El importe de la cuota es:
+
+1\. Para acceder a un puesto de trabajo del grupo A: 51,30 euros.
+
+2\. Para acceder a un puesto de trabajo del grupo B: 40,40 euros.
+
+3\. Para acceder a un puesto de trabajo del grupo C: 29,45 euros.
+
+4\. Para acceder a un puesto de trabajo del grupo C del cuerpo técnico de especialistas, grupo servicios penitenciarios: 32,70 euros.
+
+5\. Para acceder a un puesto de trabajo del grupo D: 22,10 euros.
+
+6\. Para acceder a un puesto de trabajo del grupo D del cuerpo de mozos de escuadra: 33,05 euros.
+
+7\. Para acceder a un puesto de trabajo del grupo D del cuerpo auxiliar técnico, grupo servicios penitenciarios: 32,70 euros.
+
+8\. Para acceder a un puesto de trabajo del grupo E: 18,40 euros.
+
+### CAPÍTULO II — Tasa por el servicio de realización de fotocopias
+
+#### Artículo 2.2-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la realización de fotocopias por la Administración de la Generalidad, cuando la prestación de este servicio sea exigida por la utilización necesaria de los medios materiales y personales de la Administración.
+
+#### Artículo 2.2-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa a título de contribuyente la persona física o jurídica que solicita la prestación del servicio.
+
+#### Artículo 2.2-3. Devengo.
+
+La tasa se devenga en el momento de entregar las fotocopias solicitadas.
+
+#### Artículo 2.2-4. Cuota.
+
+El importe de la cuota es:
+
+Fotocopias estándar, en hoja DIN A4: 0,05 euros/unidad.
+
+Fotocopias en hoja DIN A3: 0,10 euros/unidad.
+
+Fotocopias en hoja DIN A1: 1,25 euros/unidad.
+
+Fotocopias en rollo: 1,85 euros/unidad.
+
+### CAPÍTULO III — Tasa por la venta de impresos
+
+#### Artículo 2.3-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la venta de impresos que son de suministro oficial y de uso obligatorio por los administrados en sus relaciones con los diferentes departamentos y organismos autónomos de la Generalidad de Cataluña.
+
+#### Artículo 2.3-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa a título de contribuyente la persona física o jurídica que adquiere los impresos gravados por la tasa.
+
+#### Artículo 2.3-3. Exenciones.
+
+Quedan exentos de esta tasa los impresos suministrados oficialmente por el Departamento de Educación y que son de uso obligatorio para el alumnado o sus padres o madres o personas que son tutoras.
+
+#### Artículo 2.3-4. Devengo.
+
+La tasa se devenga en el momento en que se entrega el impreso.
+
+#### Artículo 2.3-5. Cuota.
+
+El importe de la tasa de los diferentes impresos suministrados por cada departamento o por los organismos autónomos dependientes tiene que ser aprobado mediante orden del consejero o consejera respectivo. En todo caso, el precio unitario del impreso tiene que coincidir con el importe de su coste directo redondeado al alza hasta el múltiplo de 10 céntimos más próximo.
+
+### CAPÍTULO IV — Tasa por la presentación simultánea de un número superior a diez escritos o documentos en los registros administrativos de la Generalidad dirigidos a otras administraciones públicas
+
+> Se deroga por la disposición derogatoria.1.a) del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
+
+> Se añade por el art. 19 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículos 2.4-1 a 2.4-5.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria.1.a) del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
+
+## TÍTULO III — Actuaciones comunitarias y cívicas
+
+### CAPÍTULO I — Tasa de los hoteles de entidades
+
+> Se modifica por el art. 15 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 3.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la cesión a entidades privadas sin ánimo de lucro del uso de los despachos, las salas y los buzones y apartados de correos adscritos a los hoteles de entidades, para facilitarles el funcionamiento y ejercicio de sus actividades, así como la cesión del uso de las salas de los hoteles de entidades a entes u organismos dependientes de las administraciones públicas.
+
+> Se modifica por el art. 15 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 3.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de esta tasa las entidades privadas sin ánimo de lucro, así como los entes y organismos dependientes de las administraciones públicas cesionarios del uso de los despachos, las salas y los buzones y apartados de correos de los hoteles de entidades.
+
+> Se modifica por el art. 15 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 3.1.3 Exención.
+
+1\. Los sujetos pasivos que tengan cedido el uso de un despacho están exentos del pago de la cuota establecida por el apartado 2 del artículo 3.1.5 en concepto de cesión del uso de sala, y por el apartado 3 del mismo artículo, en concepto de cesión del uso de buzón y apartado de correos.
+
+2\. Las entidades y organismos públicos pertenecientes a la Administración de la Generalidad o dependientes de la misma están exentos del pago de la cuota en concepto de cesión del uso de sala establecida por el apartado 2 del artículo 3.1.5.
+
+> Se modifica por el art. 15 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 3.1.4. Acreditación.
+
+La tasa se acredita en el momento en que se inicia la utilización de los bienes de los que se ha cedido el uso.
+
+> Se modifica por el art. 15 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 3.1-5. Cuota.
+
+La cuota de la tasa se determina según los bienes que se utilicen, especificados a continuación:
+
+1\. Cesión del uso de despachos.
+
+1.1 En la modalidad a tiempo parcial. Uso por horas de un despacho, con un máximo de 12 horas semanales en fracciones mínimas de 4 horas/día: 18 euros mensuales.
+
+1.2 En la modalidad compartida. Uso conjunto con otras entidades, con un espacio mínimo de 6 metros cuadrados por entidad: 30 euros mensuales.
+
+1.3 En la modalidad exclusiva. Uso por una única entidad según la clasificación del despacho, de acuerdo con sus dimensiones.
+
+– Tipo A (menos de 12 metros cuadrados): 40 euros mensuales.
+
+– Tipo B (de 12 metros cuadrados a menos de 18 metros cuadrados): 60 euros mensuales.
+
+– Tipo C (de 18 metros cuadrados o más): 90 euros mensuales.
+
+2\. Cesión del uso de salas.
+
+2.1 Tipo A (menos de 25 metros cuadrados).
+
+Por horas completas o fracción: 2 euros/hora.
+
+2.2 Tipo B (de 25 metros cuadrados a menos de 75 metros cuadrados).
+
+Por horas completas o fracción: 3 euros/hora.
+
+2.3 Tipo C (de 75 metros cuadrados o más).
+
+Por horas completas o fracción: 5 euros/hora.
+
+3\. Cesión del uso de apartado de correos.
+
+Tasa anual: 15 euros.
+
+3.1.6 Afectación.
+
+La tasa tiene carácter finalista, por lo que, de acuerdo con lo establecido por el artículo 1.1.3, los ingresos derivados de la misma se afectan a la financiación del mantenimiento de los hoteles de entidades y de las inversiones para conservarlos, mejorarlos y equiparlos.
+
+> Se modifica por el art. 15 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 3.1-6. Afectación.
+
+La tasa tiene carácter finalista, por lo cual, de acuerdo con lo que establece el artículo 1.1-3, los ingresos que se derivan se afectan a la financiación del mantenimiento de los hoteles de entidades y de las inversiones para conservarlos, mejorarlos y equiparlos.
+
+## TÍTULO III BIS — Administración de justicia
+
+> Se añade por el art. 16 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+## CAPÍTULO I — Tasa por la prestación de servicios personales y materiales en el ámbito de la administración de la Administración de Justicia
+
+> Se modifica por el art. único del Decreto-ley 1/2014, de 3 de junio. [Ref. BOE-A-2014-7324](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7324).
+
+> Se añade por el art. 16 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 3 bis.1-1. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la prestación de servicios personales y materiales en el ámbito de la administración de la Administración de Justicia de competencia de la Generalidad, a instancia de parte, en los órdenes jurisdiccionales civil y contencioso-administrativo, en órganos judiciales con sede en Cataluña. La producción del hecho imponible se manifiesta mediante la realización de los siguientes actos:
+
+a) La presentación del escrito iniciador del procedimiento en primera o única instancia.
+
+b) La presentación del escrito iniciador del incidente en el proceso concursal.
+
+c) La presentación del escrito iniciador de la segunda o superior instancia del procedimiento principal que deban resolver órganos judiciales con sede en Cataluña.
+
+2\. También constituye el hecho imponible de la tasa en los órdenes jurisdiccionales civil y contencioso-administrativo la emisión de segunda certificación y testimonio de sentencias y otros documentos que constan en los expedientes judiciales de los órdenes jurisdiccionales civil y contencioso-administrativo.
+
+3\. La tasa es exigible en el ámbito territorial de Cataluña por la producción o la realización de los hechos imponibles descritos en los apartados 1 y 2 que tengan lugar en los órganos de la Administración de Justicia con sede en Cataluña, sin perjuicio de las tasas y otros tributos de carácter estatal que puedan exigirse.
+
+> Se modifica por el art. único del Decreto-ley 1/2014, de 3 de junio. [Ref. BOE-A-2014-7324](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7324).
+
+> Téngase en cuenta la disposición final 2, para su aplicación.
+
+> Se declara la constitucionalidad del segundo inciso del apartado 1, siempre que se interprete en los términos establecidos en el fj. 6, por Sentencia del TC 71/2014, de 6 de mayo. [Ref. BOE-A-2014-5900](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5900).
+
+> Se mantiene la suspensión de la vigencia y aplicación del apartado 1 por Auto del TC de 21 de mayo de 2013. [Ref. BOE-A-2013-5573](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5573).
+
+> Se suspende la vigencia y aplicación del apartado 1 desde el 21 de diciembre de 2012 para las partes en el proceso y desde el 17 de enero de 2013 para los terceros, por providencia del TC de 15 de enero de 2013 que admite a trámite el recurso de inconstitucionalidad nº 7208/2012. [Ref. BOE-A-2013-447](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-447).
+
+> Se añade por el art. 16 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> La tasa es exigible a los hechos imponibles que se produzcan a partir del 1 de mayo de 2012, según establece la disposición final 8.1
+
+#### Artículo 3 bis.1-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa, en concepto de contribuyente, quien directamente o mediante representación, realice alguno o algunos de los actos a que hace referencia el apartado 1 del artículo 3 bis.1.1, o solicite la realización del hecho imponible descrito en el apartado 2 del artículo 3 bis.1.1. En los supuestos en que haya una pluralidad de solicitantes para la realización de un mismo hecho imponible, se tiene que liquidar una única tasa, y quedan todos ellos solidariamente obligados al pago de la deuda ante la Administración.
+
+> Se modifica por el art. único del Decreto-ley 1/2014, de 3 de junio. [Ref. BOE-A-2014-7324](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7324).
+
+> Se añade por el art. 16 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 3 bis.1-3. Exenciones.
+
+1\. Exenciones objetivas.
+
+Está exenta de la tasa la presentación de solicitud de declaración de concurso.
+
+2\. Exenciones subjetivas.
+
+Están exentos de la tasa:
+
+a) Las personas físicas.
+
+b) Las personas jurídicas que tengan reconocido el derecho a la asistencia jurídica gratuita.
+
+c) Las entidades totalmente o parcialmente exentas del impuesto sobre sociedades.
+
+d) Los sujetos pasivos que estén exentos del impuesto sobre actividades económicas, de acuerdo con la normativa reguladora de las haciendas locales.
+
+e) El Ministerio Fiscal.
+
+> Se modifica por el art. 96 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. único del Decreto-ley 1/2014, de 3 de junio. [Ref. BOE-A-2014-7324](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7324).
+
+> Se añade por el art. 16 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Téngase en cuanta que la bonificación establecida por el apartado 3 es aplicable a los procedimientos monitorios y a los procesos monitorios europeos que se inicien a partir del 1 de enero de 2013, según establece la disposición final 8.2
+
+#### Artículo 3 bis.1-4. Devengo.
+
+1\. En el supuesto al que se refiere el apartado 1 del artículo 3 bis.1.1, el devengo de la tasa coincide con el momento de la realización de los actos que se describen.
+
+2\. En el supuesto al que se refiere el apartado 2 del artículo 3 bis.1.1, el devengo de la tasa se produce en el momento de formular la solicitud de segunda certificación y testimonio de sentencias y otros documentos que constan en los expedientes judiciales.
+
+> Se modifica por el art. único del Decreto-ley 1/2014, de 3 de junio. [Ref. BOE-A-2014-7324](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7324).
+
+> Se añade por el art. 16 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 3 bis.1-5. Cuota.
+
+1\. Es exigible la cantidad fija que, en función de cada tipo de procedimiento, se determina en la siguiente tabla:
+
+En el orden jurisdiccional civil:
+
+Procedimiento monitorio: 60 euros.
+
+Procedimiento en primera o única instancia diferente del procedimiento monitorio: 90 euros.
+
+Incidente del proceso concursal: 90 euros.
+
+Procedimiento en segunda o superior instancia del procedimiento principal que deban resolver órganos judiciales con sede en Cataluña: 120 euros.
+
+En el orden jurisdiccional contencioso-administrativo:
+
+Procedimiento en primera o única instancia: 90 euros.
+
+Procedimiento en segunda o superior instancia del procedimiento principal que deban resolver órganos judiciales con sede en Cataluña: 120 euros.
+
+2\. En el supuesto al que se refiere el apartado 2 del artículo 3 bis.1.1, el importe de la cuota es de 10,50 euros.
+
+> Se modifica por el art. único del Decreto-ley 1/2014, de 3 de junio. [Ref. BOE-A-2014-7324](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7324).
+
+> Se añade por el art. 16 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 3 bis.1-6. Autoliquidación y pago.
+
+1\. Los sujetos pasivos deben autoliquidar la tasa de acuerdo con el modelo oficial que se establezca, y deben ingresar el importe de la cuota en el Tesoro de la Generalidad mediante las entidades colaboradoras habilitadas a tal efecto. En los supuestos de exención, el modelo de autoliquidación debe cumplimentarse indicando esta circunstancia.
+
+2\. En los supuestos a los que se refiere el apartado 1 del artículo 3 bis.1.1, el documento de autoliquidación de la tasa, conforme al modelo oficial, debidamente formalizado y validado, se debe presentar de acuerdo con el procedimiento y los plazos que se establezcan reglamentariamente.
+
+3\. En el supuesto al que se refiere el apartado 2 del artículo 3 bis.1.1, el documento de autoliquidación de la tasa conforme al modelo oficial, debidamente formalizado y validado, debe acompañar la solicitud de segunda certificación o testimonio de sentencias y otros documentos que constan en los expedientes judiciales, a la que, en su caso, debe acompañarse del documento acreditativo del reconocimiento del derecho a la asistencia jurídica gratuita en el procedimiento correspondiente.
+
+> Se modifica por el art. único del Decreto-ley 1/2014, de 3 de junio. [Ref. BOE-A-2014-7324](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7324).
+
+> Se añade por el art. 16 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 3 bis.1-7. Gestión.
+
+La gestión de la tasa corresponde al departamento competente en materia de justicia.
+
+> Se modifica por el art. único del Decreto-ley 1/2014, de 3 de junio. [Ref. BOE-A-2014-7324](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7324).
+
+> Se añade por el art. 16 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 3 bis.1-8. Afectación de los ingresos.
+
+Los ingresos derivados de la tasa quedan afectados a la financiación de los gastos en que incurra la Generalidad para el funcionamiento de los órganos judiciales con sede en Cataluña y generan un crédito a favor de los programas de la Administración de Justicia gestionados por el departamento competente en este ámbito.
+
+> Se modifica por el art. único del Decreto-ley 1/2014, de 3 de junio. [Ref. BOE-A-2014-7324](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7324).
+
+> Se añade por el art. 16 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO II — Tasa por la utilización o el aprovechamiento de los bienes y derechos afectos al servicio de la Administración de justicia
+
+> Se deroga por el art. 26 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 16 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículos 3 bis.2-1 a 3 bis-8
+
+**(Derogados).**
+
+> Se derogan por el art. 26 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO III — Tasa por la realización de sesiones fotográficas, filmaciones y similares en los espacios y equipamientos adscritos al departamento competente en materia de justicia directamente o mediante sus entes instrumentales
+
+> Se deroga por la disposición derogatoria 1.a) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 27 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículos 3 bis.3-1 a 3 bis.3-6.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria 1.a) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+### CAPÍTULO IV — Tasa por la realización de visitas técnicas y culturales en grupo en los espacios y equipamientos adscritos al departamento competente en materia de justicia, directamente o mediante sus entes instrumentales
+
+> Se deroga por la disposición derogatoria 1.a) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 28 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículos 3 bis.4-1 a 3 bis.4-7.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria 1.a) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+## TÍTULO IV — Agricultura y ganadería
+
+### CAPÍTULO I — Tasa por la prestación de servicios a las industrias agrarias y alimenticias
+
+> Se deroga por la disposición derogatoria.1.b) del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
+
+#### Artículos 4.1-1 a 4.1-4.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria.1.b) del Decreto-ley 5/2025, de 25 de marzo. Ref. BOE-A
+
+### CAPÍTULO II — Tasa por la gestión técnica facultativa de los servicios agronómicos
+
+#### Artículo 4.2-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios inherentes al fomento, la defensa y la mejora de la producción agrícola, los cuales se especifican en el artículo 4.2-4.
+
+#### Artículo 4.2-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que utilizan los servicios mencionados en el artículo 4.2-4.
+
+#### Artículo 4.2-3. Devengo.
+
+La tasa se devenga y se hace efectiva cuando se solicita la prestación del servicio.
+
+#### Artículo 4.2-4. Bases y tipo.
+
+La cuota de la tasa se determina por la aplicación de las bases imponibles y los tipos de gravamen que se detallan a continuación:
+
+1\. Por la inscripción registras oficiales.
+
+1.1 Por la inscripción en el Registro Oficial de Establecimientos y Servicios Plaguicidas:
+
+1.1.1 Establecimientos: 66 euros.
+
+1.1.2 Servicios: 66 euros.
+
+1.2 Por la renovación en el Registro Oficial de Establecimientos y Servicios Plaguicidas:
+
+1.2.1 Establecimientos: 30,95 euros.
+
+1.2.2 Servicios: 30,95 euros.
+
+1.3 Por la inscripción en los registros de maquinaria agrícola:
+
+1.3.1 Inscripción de vehículos agrícolas (tractores, maquinaria automotora, remolques agrícolas) y transferencia del sector de obras y servicios al sector agrícola: 31,40 euros.
+
+1.3.2**(Derogado)**
+
+1.3.3 **(Derogado)**
+
+1.3.4 Cambio de titular: 31,95 euros.
+
+1.3.5 Duplicado de certificados de inscripción y de baja: 7,35 euros.
+
+1.3.6 Inscripción de maquinaria agrícola, arrastrada o suspendida: equipos de distribución de fertilizantes y equipos de tratamientos para la aplicación de productos fitosanitarios, equipos de aplicación de fitosanitarios instalados en aeronaves, invernaderos, en otros locales cerrados o al aire libre, equipos para el trabajo de suelo, equipos de siembra, y el resto de maquinaria agrícola: 7,35 euros.
+
+1.4 Por la inscripción en el Registro oficial de productores y operadores de medios de defensa fitosanitaria de Cataluña:
+
+1.4.1 Por la inscripción en la sección I, sector suministrador de medios de defensa fitosanitaria de uso profesional: 85,65 euros.
+
+1.4.2 Por la modificación o renovación de la inscripción en la sección I, sector suministrador de medios de defensa fitosanitaria de uso profesional: 40,22 euros.
+
+1.4.3 Por la inscripción en la sección II, sector de los tratamientos fitosanitarios: 85,65 euros.
+
+1.4.4 Por la modificación o renovación de la inscripción en la sección II, sector de los tratamientos fitosanitarios: 40,22 euros.
+
+1.5 Por la inscripción en el Registro oficial de empresas proveedoras de material vegetal:
+
+1.5.1 Por la inscripción de las empresas que necesitan autorización para inscribirse en el Registro: 85,65 euros.
+
+1.5.2 Por la inscripción de las empresas que deben comunicar el inicio de las actividades previamente a la inscripción en el Registro: 40,22 euros.
+
+2\. Por la autorización de plantaciones de vid:
+
+Solicitud de autorización de replantaciones, conversiones, nuevas plantaciones de vid, notificación de plantación de autoconsumo y experimentación de vid: 18,92 euros por hectárea, con un máximo de 181,84 euros. Cuando la plantación es de menos de una hectárea, la tasa es de 6,45 euros.
+
+3\. Análisis de laboratorio y otros servicios facultativos.
+
+3.1 **(Derogado)**
+
+3.2 **(Derogado)**
+
+3.3 **(Derogado)**
+
+3.4 **(Derogado)**
+
+3.5 **(Derogado)**
+
+3.6 Otros servicios facultativos:
+
+3.6.1 Por informes y certificados relacionados con los análisis de los productos: 26,55 euros.
+
+3.6.2 Por dictámenes sobre productos: 106,25 euros.
+
+3.6.3 Por el registro y la autorización de laboratorios privados: 52,85 euros.
+
+3.6.4 Por la inspección periódica de laboratorios: 35,30 euros.
+
+4\. Por el seguimiento de ensayos oficiales.
+
+4.1 Por el seguimiento de ensayos oficiales de campo de productos o especialidades fitosanitarias en fase de preregistro y la elaboración de informe final: 219,80 euros.
+
+4.2 Por la elaboración de certificados fitosanitarios: 27,95 euros.
+
+4.3 Por la elaboración de dictámenes sobre daños fitosanitarios: 131,90 euros.
+
+5\. Por la autorización en relación con la utilización confinada y la liberación voluntaria de organismos genéticamente modificados (OGM) con finalidades de investigación y desarrollo y cualquier otra diferente de la comercialización.
+
+5.1 Solicitud de autorización de la utilización confinada.
+
+5.1.1 Por comunicación de primera utilización de instalaciones de riesgo nulo o insignificante: 170,60 euros.
+
+5.1.2 Por autorización de primera utilización de instalaciones para actividades confinadas de riesgo bajo o moderado: 341,15 euros.
+
+5.1.3 Por autorización de primera utilización de instalaciones para actividades confinadas con riesgo alto: 682,20 euros.
+
+5.2 Seguimiento anual de actividades de la utilización confinada.
+
+5.2.1 Por comunicación de actividades con OGM en instalaciones previamente notificadas de riesgo nulo o insignificante: 255,95 euros.
+
+5.2.2 Por autorización de actividades con OGM de riesgo bajo o moderado en instalaciones previamente autorizadas por actividades de estos riesgos o superiores: 511,70 euros.
+
+5.2.3 Por autorización de actividades con OGM de alto riesgo en instalaciones previamente autorizadas por actividades de este riesgo: 1.165,35 euros.
+
+5.3 Liberación: 1.131,25 euros.
+
+6\. Por la expedición, renovación y emisión de un duplicado del carné de aplicador y manipulador de productos fitosanitarios:
+
+6.1 Por la expedición del carné de aplicador y manipulador de productos fitosanitarios: 10,30 euros.
+
+6.2 Por la renovación del carné de aplicador y manipulador de productos fitosanitarios: 10,30 euros.
+
+6.3 Por la emisión de un duplicado del carné de aplicador y manipulador de productos fitosanitarios: 10,30 euros.
+
+7\. Por el reconocimiento de la condición de asesor en gestión integrada de plagas: 10,45 euros.
+
+> Se derogan los apartados 3.1 a 3.5 por la disposición derogatoria de la Ley 5/2026, de 20 de mayo. [Ref. BOE-A-2026-15679](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15679)
+
+> Téngase en cuenta que estos apartados ya fueron derogados por el Decreto-ley 21/2025, de 14 de octubre.
+
+> Se derogan los apartados 3.1 a 3.5 por la disposición derogatoria del Decreto-ley 21/2025, de 14 de octubre. [Ref. BOE-A-2026-561](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-561)
+
+> Se derogan los apartados 1.3.2 y 1.3.3 y se modifican los apartados 1.3.5 y 1.3.6 por el art. 29 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifican los apartados 1, 2 y se añaden los apartados 6 y 7 por el art. 97 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica el apartado 1.3.2 y 1.3.3 por el art. 20 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica el apartado 1.3.2 y 1.3.3 por el art. 29.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica el apartado 1.3 por el art. 17 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 4.2-5. Afectación.
+
+1\. Las tasas a las que se refiere el punto 3 del artículo 4.2-4 tienen carácter finalista, por lo que, de acuerdo con el artículo 1.1-3, los ingresos que se derivan de la misma quedan afectados a la financiación de los servicios prestados por el Servicio del Laboratorio Agroalimentario, referidos en el mencionado punto 3.
+
+2\. Los ingresos que se derivan de la tasa por el seguimiento de ensayos oficiales, establecida en el punto 4 del artículo 4.2-4, tienen carácter finalista, por lo que, de acuerdo con el artículo 1.1-3, quedan afectados a la financiación de los servicios de laboratorios de sanidad vegetal prestados por el departamento competente en materia de agricultura.
+
+> Se añade por el art. 29.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO III — Tasa por la prestación de servicios facultativos veterinarios
+
+#### Artículo 4.3-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios inherentes a los trabajos definidos en el artículo 4.3-5.
+
+#### Artículo 4.3-2. Exenciones.
+
+La tasa no es exigible en los casos siguientes:
+
+a) En la prestación de servicios correspondientes a la extensión de la documentación sanitaria que ampare el traslado de las especias animales consignadas por los puntos 2.1.5, 2.1.6, 2.1.7, 2.1.8 y 2.1.12 del cuadro de importes del artículo 4.3-5 que se trasladen desde explotaciones integradas en entidades avícolas pertenecientes al CESAC.
+
+b) En la prestación de servicios correspondientes a la extensión de la documentación sanitaria que ampare el traslado de animales reaccionados positivos dentro de las campañas de saneamiento ganadero.
+
+c) En la prestación de servicios correspondientes a la extensión de la documentación sanitaria que ampare el traslado del ganado trashumante para el aprovechamiento de pastos que debe regresar al punto de origen.
+
+d) En la prestación de servicios correspondientes a la extensión de la documentación sanitaria que ampare el traslado del ganado a ferias o certámenes que debe devolver al punto de origen.
+
+e) En la prestación de servicios correspondientes a la extensión de la documentación sanitaria que ampare el traslado de animales dentro del ámbito territorial de Cataluña presentes en explotaciones ganaderas afectadas por restricciones de movimiento por los siguientes motivos sanitarios:
+
+– La obtención de resultados desfavorables en los programas de control oficial, no imputables al incumplimiento de la normativa vigente en materia de sanidad animal por parte del titular de la explotación.
+
+– La inclusión de la explotación en zonas de protección, vigilancia u otras zonas establecidas por la autoridad competente en sanidad animal, por la sospecha o confirmación de enfermedades de declaración obligatoria o emergentes, que determinen una restricción de movimientos.
+
+> Se modifica la letra e) por el art. 1.1 de la Ley 5/2026, de 20 de mayo. [Ref. BOE-A-2026-15679](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15679)
+
+> Se añade la letra e) por el art. 1.1 del Decreto-ley 21/2025, de 14 de octubre. [Ref. BOE-A-2026-561](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-561)
+
+> Se añade el apartado d) por el art. 2.1 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade el apartado c) por el art. 21.1 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637)
+
+#### Artículo 4.3-3. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, privadas, que solicitan la prestación de los servicios determinados en el artículo 4.3-5.
+
+#### Artículo 4.3-4. Devengo.
+
+La tasa se devenga y se exige en el momento de la prestación del servicio.
+
+#### Artículo 4.3-5. Cuota.
+
+La cuota de la tasa se determina por la aplicación de las bases imponibles y los tipos de gravamen siguientes:
+
+1\. Por los servicios facultativos correspondientes a la organización sanitaria, la estadística y el control de las campañas de tratamiento sanitario y obligatorio.
+
+1.1 Por cada perro: 0,65 euros.
+
+1.2 Por cada animal mayor: 0,065 euros.
+
+1.3 Por cada animal menor (porcino, de lana o cabrío): 0,025 euros.
+
+1.4 Por otros animales y productos de origen animal (por servicio): 1,95 euros.
+
+2\. Por los servicios facultativos en relación con documentación sanitaria de traslado.
+
+2.1 Por los servicios facultativos correspondientes a la extensión de la documentación sanitaria que ampare el traslado de animales y productos de origen animal.
+
+Los ingresos procedentes de la recaudación de estos importes se afectan a la mejora de los recursos destinados a facilitar las actuaciones en materia de salud de los animales
+
+2.1.1 Équidos: 0,80 euros/unidad.
+
+2.1.1 bis Por la expedición de la tarjeta de movimiento equina (TME).
+
+2.1.1 bis.1 Por la solicitud y emisión de la TME: 15 euros.
+
+2.1.1 bis.2 Por la solicitud y emisión del duplicado de la TME: 15 euros.
+
+2.1.1 bis.3 Por la solicitud y emisión del duplicado de la TME que comporte un cambio de titularidad previo: 30 euros.
+
+2.1.2 Grandes rumiantes: 0,65 euros/unidad.
+
+2.1.3 Pequeños rumiantes: 0,045 euros/unidad.
+
+2.1.4 Lepóridos reproductores: 0,0045 euros/unidad.
+
+2.1.5 Gallinas, perdices, faisanes y otros pájaros: 0,0045 euros/unidad.
+
+2.1.6 Pollos y polluelos recría: 0,004 euros/unidad.
+
+2.1.7 Polluelos de un día destinados a la multiplicación: 0,0055 euros/unidad.
+
+2.1.8 Polluelos de un día destinados a producto final: 0,00075 euros/unidad.
+
+2.1.9 Suidos: 0,170 euros/unidad.
+
+2.1.10 Polillas: 0,045 euros/unidad.
+
+2.1.11 Lepóridos: 0,004 euros/unidad.
+
+2.1.12 Pájaros corredores (ratites): 0,60 euros/unidad.
+
+2.1.13 Por cada documento expedido para otros animales y productos: 1,80 euros/documento.
+
+2.2 Si la extensión de la documentación sanitaria comporta una inspección previa para la comprobación de la situación sanitaria antes del traslado de los animales o de los productos de origen animal, al importe total de la tasa se añade la cantidad de 7,40 euros.
+
+2.3 Ganado de deportes y sementales selectos: este tipo de ganado tiene el doble de las tarifas del grupo al que corresponde el animal afectado por la guía.
+
+2.4 **(Suprimido).**
+
+2.5 Por los servicios facultativos correspondientes a la identificación y el registro específico de ganado bovino, en aplicación del Reglamento CE 1760/2000, del Parlamento Europeo y del Consejo, 17 de julio, por el que se establece un sistema de identificación y registro de los animales de la especie bovina y relativo al etiquetaje de la carne de bovino y de los productos a base de carne de bovino.
+
+Los ingresos derivados de la aplicación de este tipo de gravamen quedan afectos a la financiación del coste de la adquisición del material de identificación por parte del Departamento de Agricultura, Alimentación y Acción Rural.
+
+2.5.1 Gestión y suministro de los elementos de identificación para animales nacidos en Cataluña: 0,60 euros.
+
+2.5.2 Gestión y suministro de duplicados en caso de pérdida:
+
+2.5.2.1 Por la autorización de suministro de crótalos: 1,55 euros por solicitud de autorización.
+
+2.5.2.2 Por el suministro de nueva documentación individual: 3,85 euros para cada documentación solicitada y expedida.
+
+2.5.3 Suministro de documentación de animales procedentes de la Unión Europea:
+
+2.5.3.1 Por la comprobación de la documentación de la partida y la consulta de datos: 7,40 euros.
+
+2.5.3.2 Por el suministro del documento individual: 0,60 euros.
+
+2.5.4 Suministro de material de identificación de animales procedentes de países terceros:
+
+2.5.4.1 Por la comprobación de la documentación de la partida y la consulta de datos: 7,40 euros.
+
+2.5.4.2 Por el suministro del elemento de identificación individual: 0,60 euros.
+
+2.5.5 Por la emisión por parte de las oficinas comarcales del documento de identificación bovina por cambio de titular: 0,15 euros.
+
+2.6 **(Suprimido).**
+
+Los ingresos derivados de la aplicación de este tipo de gravamen restan afectados a la financiación de los servicios facultativos de identificación y registro de ovino y caprino prestados por el departamento competente en materia de ganadería.
+
+2.6.1 Gestión y suministro de los elementos de identificación para animales nacidos en Cataluña:
+
+2.6.1.1 Unidad de identificación de dos crotales y bolo de 75 gramos: 1,15 euros.
+
+2.6.1.2 Unidad de identificación de dos crotales y bolo de 20 gramos: 1,15 euros.
+
+2.6.1.3 Unidad de identificación de un crotal visual y un crotal electrónico: 1,66 euros.
+
+2.6.1.4 Unidad de identificación de dos crotales y pulsera electrónica FDX1: 2,38 euros.
+
+2.6.1.5 Unidad de identificación de dos crotales y pulsera electrónica HDX2: 2,38 euros.
+
+(FDX: dúplex)
+
+(HDX: semidúplex)
+
+2.6.2 Por cada solicitud de autorización de suministro de duplicados de elementos de identificación de ovino y caprino: 1,90 euros.
+
+3\. Por la expedición de certificados correspondientes al control y la vigilancia de la desinfección.
+
+3.1 Por los certificados relativos a embarcaciones, vehículos y remolques utilizados en el transporte de ganado, las compañías ferroviarias, las empresas navieras y de transporte y los particulares tienen que liquidar 1,30 euros por este servicio.
+
+3.2 Por los certificados relativos a los locales destinados a ferias, mercados, concursos, exposiciones y otros lugares públicos donde se aloja o contrata ganado o materias contumaces, cuando se establece con carácter obligatorio, se perciben 2,05 euros por cada local inspeccionado.
+
+4\. Por la tramitación de la solicitud de inscripción en el Registro de núcleos zoológicos: 55,45 euros.
+
+5\. Por la expedición del documento de identificación equina (DIE o pasaporte) para équidos de crianza y renta:
+
+5.1 Por la expedición del documento de identificación equina (DIE o pasaporte) para équidos de crianza y renta: 9,15 euros.
+
+5.2 Por la expedición de un duplicado o renovación del documento de identificación equina (DIE o pasaporte) para équidos de crianza y renta y para équidos de razas autóctonas catalanas registradas: 16,25 euros.
+
+En caso de que el duplicado del DIE comporte un cambio de titular previo: 30,00 euros.
+
+5.3 Por la modificación de datos del documento de identificación equina (DIE o pasaporte) para cualquier tipo de équido: 2,60 euros.
+
+Se exceptúan las modificaciones que impliquen únicamente la actualización de la base de datos oficial y la validación de enmiendas o actuaciones realizadas por el personal veterinario en el mismo pasaporte.
+
+Si la modificación consiste en el cambio de titularidad de los équidos para una explotación equina de operadores comerciales o de producción/reproducción, la tasa es de 2,60 euros por el primer animal y de 0,20 euros para el resto.
+
+5.4 Por el suministro del material necesario para la identificación de los équidos de crianza y renta a los veterinarios habilitados que realizan esta tarea en Cataluña (transpondedor electrónico): por cada microchip, 3 euros.
+
+6\. Por la realización de los controles veterinarios en el lugar de destino de los animales y de los productos de origen animal procedentes de comercio intracomunitario o de países terceros, 14,75 euros por servicio. Si hay que efectuar toma de muestras, se tiene que aplicar la tasa que corresponda, por similitud, a las señaladas en el apartado 7.
+
+7\. Por toma de muestras en campañas oficiales:
+
+7.1 Extracción de sangre:
+
+7.1.1 Animales mayores: 2,40 euros/cabeza.
+
+7.1.2 Animales menores: 1,55 euros/cabeza.
+
+7.1.3 Conejos: 0,60 euros/cabeza.
+
+7.2 Otros líquidos orgánicos:
+
+7.2.1 Animales mayores: 4,55 euros/cabeza.
+
+7.2.2 Animales menores: 2,40 euros/cabeza.
+
+La cuota mínima por toma de muestras en campañas oficiales no tiene que ser menor de 36,75 euros.
+
+7.3 Pienso y agua: 7,40 euros/servicio.
+
+7.4 Otras tomas de muestras: 36,75 euros/servicio.
+
+8\. Por la aplicación de productos biológicos en la profilaxis vacunal y realización de pruebas alérgicas en campañas oficiales:
+
+8.1 Profilaxis vacunal:
+
+8.1.1 Animales mayores: 1,95 euros/cabeza.
+
+8.1.2 Animales menores: 0,90 euros/cabeza.
+
+8.1.3 Pájaros y conejos: 0,60 euros/cabeza.
+
+La cuota mínima por profilaxis vacunal en campañas oficiales no tiene que ser menor de 36,75 euros.
+
+8.2 Reacciones diagnósticas tuberculización: 2,40 euros/cabeza.
+
+9\. **(Suprimido).**
+
+10\. Por la expedición de certificados para la comercialización de productos destinados a la alimentación animal y de subproductos animales no destinados al consumo humano (SANDACH) de la categoría 3:
+
+10.1 Certificado de registro del establecimiento: 10,50 euros.
+
+10.2 Certificado de libre venta sin informaciones adicionales: 21 euros.
+
+10.3 Certificado de libre venta con informaciones adicionales: 24,20 euros.
+
+10.4 Certificado para la exportación (previo a exportación o por el registro del producto o empresa en un país tercero): 21 euros.
+
+10.5 Otros certificados: 10,50 euros.
+
+10.6 Sellado de documentación: 2,10 euros/página.
+
+10.7 Copia adicional o duplicado de certificado: lo mismo que corresponda según el tipo de certificado.
+
+11\. Por la emisión de declaraciones veterinarias responsables (DVR) en el marco del sistema de autocontroles específicos para la exportación de productos de origen animal:
+
+11.1 Por la solicitud y emisión de la DVR individual (1 explotación): 3 euros.
+
+11.2 Por la solicitud y emisión de la DVR conjunta (más de 1 explotación): 20 euros.
+
+12\. Para los servicios correspondientes al control y la supervisión de la expedición del pasaporte para desplazamientos, sin ánimo comercial, de perros, gatos y hurones, previstos por el Reglamento UE 576/2013, del Parlamento y del Consejo, del 12 de junio de 2013, relativo a los desplazamientos sin ánimo comercial de animales de compañía: 6 euros.
+
+13\. Por la realización de controles veterinarios a los operadores de productos destinados a la alimentación animal y que estén relacionados específicamente con la exportación de estos productos: 100,00 euros.
+
+14\. Por los derechos de examen relativo a la habilitación de veterinarios para la emisión de atestaciones sanitarias respecto a productos destinados a la alimentación animal o subproductos animales y productos derivados no destinados al consumo humano (SANDACH) con destino la exportación: 50,00 euros.
+
+15\. Por el suministro de la tuberculina necesaria para la realización de la intradermotuberculinización (IDT) exigida para la exportación de ganado a países terceros: vial de 50 dosis, 7 euros.
+
+Los ingresos derivados de la aplicación de dicho tipo de gravamen quedan afectados a la financiación para la implantación, desarrollo y mantenimiento del programa para la gestión telemática ganadera.
+
+16\. Por la expedición de certificados veterinarios sobre la situación sanitaria de un establecimiento, una explotación o un territorio solicitados por operadores para la realización de actividades comerciales o productivas con o sin ánimo de lucro:
+
+16.1 Certificado de situación sanitaria: 10,50 euros.
+
+16.2 Otros certificados vinculados con la prestación de servicios facultativos o las condiciones de establecimientos y explotaciones, solicitados por operadores para la realización de actividades comerciales o productivas con o sin ánimo de lucro: 10,50 euros.
+
+16.3 Copia adicional o duplicado de certificado: lo mismo que corresponda según el tipo de certificado.
+
+> Se modifica el apartado 10 y se añade el 16 por el art. 2.2 y 3 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifican los apartados 4, 5 y 10 por el art. 5 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 5 y se añaden los apartados 13 a 15 por el art. 30.1 a 4 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifican los apartados 2, 5 y se añaden los apartados 11 y 12 por el art. 98 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se suprimen los apartados 2.4 y 6, 9 y se modifican los apartados 5.3 y 10 por el art. 21.2 a 6 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 30.1 a 5 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Redactado conforme a la corrección de erratas publicada en DOGC núm. 6568, de 24 de febrero de 2014. [Ref. BOE-A-2014-3004](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3004).
+
+> Se modifica el apartado 5 por el art. 18 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica el apartado 5 por el art. 3 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 4.3-6. Bonificaciones.
+
+El importe de las tasas por los servicios a los que se refiere el apartado 2.1 del artículo 4.3-5 se reduce en un 30 % en caso de que las personas interesadas presenten la solicitud de extensión de la documentación sanitaria de traslado, por los medios telemáticos específicos establecidos por el departamento competente en materia de ganadería y sanidad animal, y en un 50 % si la tramitación la llevan a cabo los veterinarios habilitados para hacerlo o si la tramitación la realizan directamente los ganaderos telemáticamente para el traslado de ganado a otras comunidades autónomas con las que se haya acordado esta posibilidad.
+
+> Se modifica por el art. 30.5 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 30.6 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO IV — Tasas por los servicios de laboratorios de sanidad agraria dependientes del Departamento de Agricultura, Alimentación y Acción Rural
+
+#### Artículo 4.4-1. Hecho imponible.
+
+Constituyen el hecho imponible de la tasa las pruebas y los análisis oficiales efectuados en los laboratorios de sanidad agraria dependientes del Departamento de Agricultura, Alimentación y Acción Rural que se consignan en el artículo 4.4-5, relativo a la cuota de la tasa.
+
+#### Artículo 4.4-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, privadas, que solicitan el servicio de laboratorio.
+
+#### Artículo 4-4.3. Exención.
+
+1\. No se aplica la tasa por los servicios de los laboratorios de sanidad ganadera cuando simultáneamente concurran las tres circunstancias siguientes:
+
+1.1 Que la solicitud del servicio para hacer los análisis sea efectuada por los veterinarios responsables de las agrupaciones de ganaderos siguientes:
+
+a) Las agrupaciones de defensa sanitaria cuyos estatutos sean aprobados por el Departamento de Agricultura, Alimentación y Acción Rural.
+
+b) Los grupos de saneamiento ganadero de ganado bovino, ovino o cabrío u otras agrupaciones que tengan firmado y vigente el correspondiente concierto.
+
+1.2 Que la toma de muestras haya sido hecha por el veterinario o veterinaria responsable de la agrupación en los animales propiedad de los integrantes de la correspondiente agrupación.
+
+1.3 Que las analíticas solicitadas sean las establecidas como obligatorias en campañas oficiales para el control, la lucha y la erradicación de enfermedades.
+
+2\. Se exime de la aplicación de esta tasa a las organizaciones y las agrupaciones ganaderas que tengan firmado un convenio de colaboración con los servicios competentes en materia de sanidad animal de la Dirección General de Alimentación, Calidad e Industrias Agroalimentarias del Departamento de Agricultura, Alimentación y Acción Rural.
+
+3\. Están exentas de la tasa por los análisis de laboratorio de determinación de parásitos de los vegetales las agrupaciones de defensa vegetal, siempre y cuando las muestras no estén relacionadas con el programa de autocontroles del registro oficial de los proveedores de material vegetal.
+
+> Se modifica el apartado 3 por el art. 31.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.4-4. Devengo.
+
+La tasa se devenga con la prestación del servicio, pero puede ser exigida la justificación del ingreso de la tasa en el momento de la presentación de la solicitud.
+
+#### Artículo 4.4-5. Cuota.
+
+La cuota de la tasa es:
+
+1\. Análisis microbiológicos:
+
+1.1 Recuentos anaerobios: 18,40 euros/muestra.
+
+1.2 Recuentos aerobios: 18,40 euros/muestra.
+
+1.3 Recuento de hongos y levaduras: 11,15 euros/muestra.
+
+1.4 Identificación de bacteriana: 29,45 euros/muestra.
+
+1.5 Identificación de hongos y levaduras: 36,75 euros/muestra.
+
+1.6 Serotipado de un microorganismo: 18,40 euros/muestra.
+
+1.7 Observaciones microscópicas.
+
+1.7.1 Examen en fresco: 3,85 euros/muestra.
+
+1.7.2 Tinción y examen: 6,10 euros/muestra.
+
+1.7.3 Examen en campo oscuro: 5,20 euros/muestra.
+
+1.8 Recuentos celulares: 4,15 euros/muestra.
+
+1.9 Antibiograma de 10 antibióticos: 18,40 euros/muestra.
+
+2\. Análisis parasitológicos:
+
+2.1 Concentración y recuento de elementos parasitarios: 11,15 euros/muestra.
+
+2.2 Identificación de parásitos: 18,40 euros/muestra.
+
+3\. Análisis serológicos y muestras procedentes de tejidos y fluidos animales:
+
+3.1 Aglutinación: 2 euros.
+
+3.2 Precipitación: 3 euros.
+
+3.3 Fijación del complemento: 5 euros.
+
+3.4 ELISA: 6 euros.
+
+3.5 Inmunodifusión en agar-gel: 8 euros.
+
+3.6 Inmunohistoquímico: 14 euros.
+
+3.7 Inmunotransferencia (immunoblotting): 10 euros.
+
+3.8 Serumneutralización: 10 euros.
+
+3.9 Aislamiento e identificación bacteriológicos en muestras procedentes de tejidos o fluidos animales: 25 euros.
+
+3.10 Diagnóstico diferencial abortos: 20 euros.
+
+3.11 Determinación de resistencia antimicrobiana: 25 euros.
+
+3.12 Reacción en cadena por la polimerasa (PCR): 15 euros.
+
+3.13 Parásitos en heces (coprològic): 15 euros.
+
+3.14 Identificación de varroasis: 0,5 euros.
+
+3.15 Identificación y recuento de Nosema spp: 2 euros.
+
+3.16 Identificación de Tropilaelaps spp: 0,10 euros.
+
+3.17 Identificación de Aethina tumida: 0,10 euros.
+
+4\. Otros análisis no previstos en el programa de autocontrol del Registro oficial de proveedores de material vegetal:
+
+1\. Análisis clínico de una muestra. Primera observación para valorar y decidir las técnicas analíticas que pueden aplicarse: 10,00 euros/muestra.
+
+2\. Identificación morfológica directa en la muestra por observación visual o lupa o microscopio: 5,00 euros/muestra.
+
+3\. Identificación morfológica indirecta, mediante el aislamiento o extracción de hongos y/o bacterias y/o de nematodos y/o de artrópodos de una muestra: 30,00 euros/muestra por la primera determinación, más 20,00 euros por cada determinación adicional.
+
+4\. Determinación serológica ELISA: 10,00 euros/muestra por la primera determinación, más 8,00 euros por cada determinación adicional.
+
+5\. Determinación molecular PCR: 15,00 euros/muestra por la primera determinación, más 10,00 euros por cada determinación adicional.
+
+6\. Determinación bacteriana mediante ácidos grasos por cromatografía MIS: 15,00 euros/muestra por la primera muestra, más 10,00 euros por cada muestra adicional.
+
+5\. Análisis histopatológicos: 37 euros/muestra.
+
+6.1 Análisis del virus de la *sharka* en aplicación del programa de autocontroles del registro oficial de los proveedores de material vegetal: 5 euros.
+
+6.2 Análisis del virus de la tristeza de los cítricos en aplicación del programa de autocontroles del Registro oficial de los proveedores de material vegetal: 5 euros.
+
+6.3 Revelado inmunológico de impresión en membranas de nitrocelulosa (inmunoimpresión) para el análisis del virus de la tristeza en aplicación del programa de autocontroles del Registro oficial de los proveedores de material vegetal: 5 euros.
+
+6.4 Otros análisis no previstos en el programa de autocontroles del Registro oficial de los proveedores de material vegetal, análisis fitopatológico general, precio por muestra: 19,75 euros.
+
+6.5 Análisis de la bacteria Xanthomonas arboricola pv pruni en aplicación del programa de autocontroles del Registro oficial de los proveedores de material vegetal: 5,80 euros.
+
+6.6 Análisis de la bacteria Erwinia amylovora en aplicación del programa de autocontroles del Registro oficial de los proveedores de material vegetal: 5,80 euros.
+
+6.7 Análisis de muestras de material de certificación en viveros de vid: 12,00 euros/muestra.
+
+7\. Enziminmunoensayo/PCR: 29,45 euros/muestra.
+
+8\. Análisis para verificar el estado sanitario de material vegetal a efectos de hacer la certificación: 34,75 euros/muestra.
+
+> Se modifica el apartado 4 y se añade el punto 7 al apartado 6 por el art. 6 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 3 y se añaden los apartados 6.5 y 6.6 por el art. 31.1 y 2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica el apartado 6.4 por el art. 22 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica el apartado 3 por el art. 31.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica el apartado 6 por el art. 19 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 4.4-6. Afectación.
+
+Las tasas establecidas en el artículo 4.4-5 tienen carácter finalista, por lo que, de acuerdo con el artículo 1.1-3, los ingresos derivados de las mismas quedan afectados a la financiación de la prestación de los servicios de laboratorios de sanidad agraria prestados por el departamento competente en materia de agricultura y ganadería.
+
+> Se añade por el art. 31.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.4-7. Bonificaciones.
+
+El importe de las tasas por los servicios a los que se refiere el punto 3 del artículo 4.4-5, cuando una persona, física o jurídica, solicite de una vez la realización de un número de determinaciones, está sujeto a las siguientes bonificaciones:
+
+a) De 1 a 10 determinaciones: 0 %.
+
+b) De 11 a 25 determinaciones: 25 %.
+
+c) De 26 a 100 determinaciones: 50 %.
+
+d) Más de 100 determinaciones: 60 %.
+
+e) En las solicitudes de análisis en sanidad animal para la asistencia a certámenes ganaderos definidos en los apartados d.2 a d.5 del artículo 2 del Decreto 83/2012, de 17 de julio, sobre regulación de certámenes y otras concentraciones de animales vivos en Cataluña se aplica un descuento del 50 %.
+
+> Se añade por el art. 31.3 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO V — Tasa por la verificación del cumplimiento de las buenas prácticas de laboratorio (BPL) de un laboratorio que hace estudios no clínicos sobre productos agroalimentarios y de la inspección para la verificación del cumplimiento de las buenas prácticas de laboratorio en la elaboración de estudios no clínicos con productos agroalimentarios
+
+> Se deroga por el art. 32 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículos 4.5-1. a 4.5-4.
+
+**(Derogados).**
+
+> Se derogan por el art. 32 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO VI — Tasa por la expedición de certificaciones oficiales por el Instituto Catalán de la Viña y el Vino (INCAVI)
+
+#### Artículo 4.6-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios que se consignan en el artículo 4.6-4.
+
+#### Artículo 4.6-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas en interés de las cuales se concede el certificado oficial.
+
+#### Artículo 4.6-3. Devengo.
+
+La tasa se devenga y se hace efectiva cuando se solicita la prestación del servicio.
+
+#### Artículo 4.6-4. Cuota.
+
+La cuota por derecho a certificación oficial es de 4,55 euros.
+
+### CAPÍTULO VII — Tasa por productos amparados
+
+> Se deroga por la disposición derogatoria.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículos 4.7-1 a 4.7-4
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO VIII — Tasas del Consejo Catalán de la Producción Integrada
+
+> Se deroga por la disposición derogatoria.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículos 4.8-1 a 4.8-5
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO IX — Tasa por la inscripción, la certificación de los datos y la ampliación en el Consejo Catalán de la Producción Agraria Ecológica
+
+> Se deroga por la disposición derogatoria.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículos 4.9-1 a 4.9-4
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO X — Tasa por la verificación del cumplimiento de las buenas prácticas de laboratorio de un laboratorio que realiza estudios no clínicos sobre medicamentos veterinarios y de la inspección por la verificación del cumplimiento de las buenas prácticas de laboratorio en la elaboración de estudios no clínicos con medicamentos veterinarios
+
+> Se añade por el art. 20 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 4.10-1. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la prestación por el departamento competente en materia de ganadería, pesca y medio natural de los servicios y las actuaciones inherentes a la inspección para la verificación del cumplimiento de las buenas prácticas de laboratorio de un laboratorio que realiza estudios no clínicos sobre medicamentos veterinarios con el fin de determinar sus efectos en los seres humanos, los animales y el medio ambiente, el otorgamiento, si procede, de la certificación de conformidad, así como la realización de las inspecciones periódicas pertinentes.
+
+2\. También constituye el hecho imponible de la tasa la prestación por el departamento competente en materia de ganadería, pesca y medio natural de los servicios y las actuaciones inherentes a la verificación de un estudio no clínico sobre un medicamento veterinario a fin de determinar si se han seguido los principios de buenas prácticas de laboratorio.
+
+> Se añade por el art. 20 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 4.10-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los laboratorios que solicitan la obtención de la certificación de la conformidad de buenas prácticas de laboratorio y los laboratorios que hayan promovido la elaboración del estudio que debe verificarse.
+
+> Se añade por el art. 20 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 4.10-3. Acreditación.
+
+1\. En la verificación del cumplimiento de las buenas prácticas de laboratorio de un laboratorio que realiza estudios no clínicos sobre medicamentos veterinarios, la tasa se acredita en el momento en que se inicia la prestación del servicio. Sin embargo, puede exigirse su pago por anticipado en los siguientes términos:
+
+a) La obligación del pago surge desde el momento en que se presenta la solicitud de obtención de la certificación de la conformidad de buenas prácticas de laboratorio al departamento competente en materia de ganadería, pesca y medio natural. El número de días que se programen para llevar a cabo la inspección debe estar en función de las dimensiones del laboratorio así como del tipo y la variedad de estudios que se lleven a cabo en el mismo.
+
+b) En cuanto a la realización de la inspección, debe hacerse efectivo el pago antes del día en el que se haya programado el inicio de esta inspección, por lo que el importe resta provisionalmente fijado en el resultado de multiplicar la tarifa diaria por el número de días programados.
+
+2\. En la inspección para la verificación del cumplimiento de las buenas prácticas de laboratorio en la elaboración de estudios no clínicos, la tasa se acredita en el momento en que se inicia la prestación del servicio. La obligación del pago surge desde el momento en que el sujeto pasivo presenta la solicitud para la realización de esta verificación al departamento competente en materia de ganadería, pesca y medio natural, o cuando esta verificación es solicitada por una autoridad sanitaria reguladora ante la cual se ha presentado este estudio, que forma parte del dosier de registro de un medicamento veterinario. La tasa debe hacerse efectiva antes del día programado para el inicio de la inspección para la verificación del cumplimiento de las buenas prácticas de laboratorio en la elaboración del estudio.
+
+> Se añade por el art. 20 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 4.10-4. Cuota.
+
+La cuota de la tasa es la siguiente:
+
+1\. En la verificación del cumplimiento de las buenas prácticas de laboratorio de un laboratorio que realiza estudios no clínicos sobre medicamentos veterinarios:
+
+1.1 Inspección del laboratorio para verificar el cumplimiento de las buenas prácticas de laboratorio, por día: 454,05 euros.
+
+1.2 Inspecciones ulteriores periódicas para evaluar el cumplimiento de las buenas prácticas de laboratorio, por día: 454,05 euros.
+
+2\. En la inspección para verificar el cumplimiento de las buenas prácticas de laboratorio en la elaboración de estudios no clínicos con medicamentos veterinarios, por día: 454,05 euros.
+
+> Se añade por el art. 20 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 4.10-5. Afectación.
+
+Las tasas a las que se refiere este capítulo tienen carácter finalista, por lo que, de acuerdo con el artículo 1.1-3, los ingresos que se derivan restan afectados a la financiación de los servicios prestados por el departamento competente en materia de ganadería, pesca y medio natural, mencionados en este capítulo.
+
+> Se añade por el art. 20 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO XI — Tasa por la tramitación de los expedientes de segregaciones de fincas situadas en suelo no urbanizable de acuerdo con la unidad mínima de cultivo o forestal
+
+> Se modifica la rúbrica por el art. 99.1 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 32 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.11-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación por el departamento competente en materia agraria de los servicios y las actuaciones inherentes al informe de segregaciones de fincas situadas en suelo no urbanizable de acuerdo con la regulación vigente de la unidad mínima de cultivo y de la unidad mínima forestal.
+
+> Se modifica por el art. 99.2 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 32 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.11-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan el informe en relación con la segregación de fincas.
+
+> Se modifica por el art. 99.3 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 32 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.11-3. Acreditación.
+
+La tasa se acredita en el momento en que se presta el servicio, pero puede exigirse la justificación del ingreso en el momento de la presentación de la solicitud.
+
+> Se añade por el art. 32 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.11-4. Cuota.
+
+La cuota de la tasa es de 51,17 euros.
+
+> Se añade por el art. 32 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XII — Tasa por la autorización de los laboratorios elaboradores de autovacunas de uso veterinario
+
+> Se añade por el art. 33 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.12-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación, por el departamento competente en materia de ganadería, de los servicios y actuaciones inherentes a la autorización de los laboratorios elaboradores de autovacunas y de los cambios sustanciales de las instalaciones, los equipos o los procesos de los laboratorios autorizados.
+
+> Se añade por el art. 33 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.12-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los laboratorios que solicitan la autorización para la elaboración de autovacunas, que son medicamentos veterinarios inmunológicos individualizados, elaborados a partir de organismos patógenos y antígenos no virales, obtenidos de uno o más animales de una misma explotación, inactivos y destinados al tratamiento de aquel animal o explotación y los laboratorios ya autorizados que comunican un cambio sustancial de las instalaciones, de los equipos o de los procesos.
+
+> Se añade por el art. 33 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.12-3. Acreditación.
+
+La tasa se acredita con la prestación del servicio, pero puede exigirse la justificación del ingreso en el momento de la presentación de la solicitud.
+
+> Se añade por el art. 33 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.12-4. Cuota.
+
+Por la autorización del laboratorio para la elaboración de autovacunas de uso veterinario y de los cambios sustanciales de las instalaciones, de los equipos o de los procesos de un laboratorio elaborador de autovacunas autorizado: 650 euros.
+
+> Se añade por el art. 33 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XIII — Tasa por la homologación de cursos y actividades de formación para la mejora de la calificación profesional agraria
+
+> Se añade por el art. 34 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.13-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la homologación de cursos y actividades de formación para la mejora de la calificación profesional agraria.
+
+> Se añade por el art. 34 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.13-2. Sujeto pasivo.
+
+Son sujetos pasivos de esta tasa las personas físicas o jurídicas, públicas o privadas, que sean promotoras de cursos o actividades de formación y de los cuales soliciten la homologación.
+
+> Se añade por el art. 34 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.13-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de la presentación de la solicitud.
+
+> Se añade por el art. 34 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.13-4. Cuota.
+
+El importe de la cuota se fija en 80 euros por curso o actividad de formación homologada.
+
+> Se añade por el art. 34 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.13-5. Afectación de la tasa.
+
+Las tasas de homologación de cursos y actividades de formación para la mejora de la calificación profesional agraria tienen carácter finalista, por lo que, de acuerdo con el artículo 1.1-3, los ingresos que se derivan de las mismas quedan afectados a la financiación de los servicios prestados por las escuelas y centros de capacitación agraria.
+
+> Se añade por el art. 34 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XIV — Tasa por la realización de aplicaciones aéreas de productos fitosanitarios en el ámbito del control de plagas
+
+> Se añade por el art. 35 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.14-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la realización de aplicaciones aéreas de productos fitosanitarios, que hayan sido declaradas obligatorias y de utilidad pública, que lleve a cabo el departamento competente en materia de agricultura en el ámbito del control de plagas.
+
+> Se añade por el art. 35 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.14-2. Sujeto pasivo.
+
+Son sujetos pasivos contribuyentes de la tasa las personas físicas o jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley general tributaria que sean titulares de las explotaciones agrarias incluidas en el ámbito del plan de aplicación aérea.
+
+> Se añade por el art. 35 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.14-3. Acreditación.
+
+La tasa se acredita con la prestación del servicio, pero puede exigirse la justificación del ingreso en el momento de la comunicación de inicio de la aplicación aérea.
+
+> Se añade por el art. 35 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.14-4. Cuota.
+
+La cuota de la tasa es de 10,50 euros por hectárea incluida en el ámbito del plan de aplicación aérea.
+
+> Se añade por el art. 35 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.14-5. Convenios.
+
+El departamento competente en materia de agricultura puede suscribir convenios con las agrupaciones de defensa vegetal para recaudar la tasa.
+
+> Se añade por el art. 35 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 4.14-6. Afectación de la tasa.
+
+De acuerdo con lo establecido en el artículo 1.1-3, los ingresos derivados de esta tasa quedan afectados a la financiación de la prestación de los servicios de la aplicación aérea de productos fitosanitarios prestados por el departamento competente en la materia.
+
+> Se añade por el art. 35 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XV — Tasa por la inscripción en registros oficiales en materia de explotaciones ganaderas, de establecimientos de alimentación animal, subproductos animales y productos derivados no destinados al consumo humano y de transportistas y medios de transporte de animales vivos
+
+> Se añade por el art. 23 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 4.15-1 Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de la solicitud de inscripción inicial, de modificaciones y de renovaciones, sujetas a autorización, en los siguientes registros:
+
+– Registro de explotaciones ganaderas.
+
+– Registro del sector de la alimentación animal y del ámbito de subproductos animales y productos derivados no destinados al consumo humano.
+
+– Registro de transportistas y medios de transporte de animales vivos. En el caso de medios de transporte, el hecho imponible de la tasa se genera exclusivamente respecto a los barcos y medios de transporte por carretera que realicen trayectos de duración igual o superior a ocho horas.
+
+> Se modifica por el art. 100.1 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 23 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 4.15-2 Sujeto pasivo.
+
+Son sujetos pasivos contribuyentes de la tasa las personas físicas o jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley general tributaria que sean titulares de las actividades que deben ser objeto de autorización para la inscripción inicial, la inscripción de las modificaciones y la inscripción de las renovaciones en los registros a los que se refiere el apartado 1.
+
+> Se añade por el art. 23 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 4.15-3 Acreditación.
+
+La tasa se acredita en el momento de la presentación de las solicitudes, sujetas a autorización, en el correspondiente registro oficial.
+
+> Se modifica por el art. 100.2 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 23 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 4.15-4 Cuota.
+
+1\. La cuota de la tasa en el registro de explotaciones ganaderas es de 50 euros por la tramitación de la solicitud de inscripción inicial y de 25 euros por la tramitación de la solicitud de inscripción de la modificación de los datos registrales.
+
+2\. La cuota de la tasa en el registro del sector de la alimentación animal y del ámbito de subproductos animales y productos derivados no destinados al consumo humano es de 100 euros por la tramitación de la solicitud de inscripción inicial y de 50 euros por la tramitación de la solicitud de inscripción de la modificación de los datos registrales.
+
+3\. La cuota de la tasa en el registro de transportistas y medios de transporte de animales vivos es:
+
+a) Transportistas:
+
+– 20 euros por la tramitación de la solicitud de inscripción inicial, la tramitación de la solicitud de la inscripción para la modificación de los datos registrales del transportista y por la emisión de duplicados de la autorización de transportista.
+
+– 10 euros por la tramitación de la solicitud de inscripción de renovación de los medios de transporte que realizan trayectos de duración igual o superior a ocho horas.
+
+b) Medios de transporte por carretera:
+
+– 10 euros por la tramitación de la solicitud de inscripción inicial, por la modificación de los datos registrales de los medios de transporte que realizan trayectos con carácter comercial o lucrativo y por la emisión de duplicados de los certificados de aprobación de los medios de transporte.
+
+– 10 euros por la tramitación de la solicitud de inscripción de renovación de los medios de transporte que realizan trayectos con carácter comercial o lucrativo.
+
+c) Buques de transporte de animales:
+
+– 600 euros por la tramitación de la solicitud de inscripción inicial del buque.
+
+– 600 euros por la tramitación de la solicitud de inscripción de renovación.
+
+– 150 euros por la emisión de duplicados de los certificados de aprobación de los buques.
+
+> Se modifica la letra b) del apartado 3 por el art. 7 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 3 por el art. 33 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 100.3 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 23 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 4.15-5 Afectación.
+
+De acuerdo con lo establecido por el artículo 1.1-3 del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña, los ingresos derivados de esta tasa quedan afectados a la financiación para la implantación, desarrollo y mantenimiento del programa para la gestión telemática ganadera.
+
+> Se añade por el art. 23 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+### CAPÍTULO XVI — Tasa por la tramitación de los planes de gestión de deyecciones ganaderas
+
+> Se deroga por la disposición derogatoria 1.b) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 101 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículos 4.16-1 a 4.16-4.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria 1.b) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+### CAPÍTULO XVII — Tasa por la autorización de los centros de distribución y centros de dispensación de medicamentos de uso veterinario
+
+> Se añade por el art. 8 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 4.17-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios administrativos relativos a la autorización de los centros distribuidores y centros dispensadores de medicamentos veterinarios.
+
+> Se añade por el art. 8 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 4.17-2. Sujeto pasivo.
+
+Son sujetos pasivos contribuyentes de la tasa las personas físicas o jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley general tributaria, que resulten receptoras de la prestación del servicio.
+
+> Se añade por el art. 8 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 4.17-3. Acreditación.
+
+La tasa se acredita en el momento en que se inicia la prestación del servicio. La obligación del pago surge una vez que el sujeto pasivo ha presentado la solicitud de autorización.
+
+> Se añade por el art. 8 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 4.17-4. Cuota.
+
+La cuota de la tasa es la siguiente:
+
+1\. Por la autorización de almacenes de distribución de medicamentos veterinarios: 50 euros.
+
+2\. Por la autorización de comerciales minoristas de medicamentos veterinarios: 50 euros.
+
+> Se añade por el art. 8 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+### CAPÍTULO XVIII — Tasa por la autorización de los centros de limpieza y desinfección de los vehículos dedicados al transporte por carretera de animales vivos, productos para la alimentación de animales de producción y subproductos de origen animal no destinados al consumo humano
+
+> Se añade por el art. 9 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 4.18-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios administrativos relativos a la autorización de los centros de limpieza y desinfección de los vehículos dedicados al transporte por carretera de animales vivos, productos para la alimentación de animales de producción y subproductos de origen animal no destinados al consumo humano.
+
+> Se añade por el art. 9 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 4.18-2. Sujeto pasivo.
+
+Son sujetos pasivos contribuyentes de la tasa las personas físicas o jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley general tributaria que sean receptoras de la prestación de los servicios.
+
+> Se añade por el art. 9 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 4.18-3. Acreditación.
+
+La tasa se acredita en el momento de realización del hecho imponible y es exigible con la presentación de la solicitud.
+
+> Se añade por el art. 9 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 4.18-4. Cuota.
+
+El importe de la cuota es de 89,05 euros.
+
+> Se añade por el art. 9 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+## TÍTULO V — Agua
+
+### CAPÍTULO I — Tasas de la Agencia Catalana del Agua
+
+#### Artículo 5.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación por parte de la Agencia Catalana del Agua de los siguientes servicios:
+
+Las actuaciones administrativas, facultativas y técnicas que debe llevar a cabo la Agencia Catalana del Agua en las tramitaciones de oficio o a instancia de parte relativas a la seguridad de presas, embalses o balsas, las autorizaciones, concesiones, declaraciones responsables u otros títulos que habilitan para la utilización o el aprovechamiento del dominio público hidráulico y su zona de policía o del dominio público marítimo-terrestre, o de los sistemas de saneamiento públicos, incluida su inscripción en el correspondiente registro oficial, ya sea como consecuencia de disposiciones normativas en vigor o bien derivadas de las concesiones o las autorizaciones ya otorgadas, o la emisión de otros informes o respuestas a peticiones de información o consultas que no generen resolución, así como las que dan lugar a la incoación de un procedimiento de oficio para determinar o comprobar el tipo aplicable del canon del agua.
+
+> Se modifica por el art. 36.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 5.1-2. Sujeto pasivo.
+
+Son sujetos pasivos:
+
+a) En el caso de actuaciones derivadas de una tramitación iniciada a instancia de parte, las personas físicas o jurídicas que la solicitan.
+
+b) En el caso de actuaciones derivadas de una tramitación iniciada de oficio, las personas físicas o jurídicas a quienes afecta la prestación del servicio.
+
+#### Artículo 5.1-3. Exenciones.
+
+a) Los organismos, entidades y empresas públicas integrados en la estructura del Estado, de las comunidades autónomas, de los municipios, de las comarcas y de otros entes públicos territoriales o institucionales, incluidas las corporaciones de derecho público, están exentos de las tasas que gravan la prestación de los servicios a que se refiere el artículo 5.1-1 si presentan la solicitud del servicio gravado en el marco de la prestación de un servicio público, salvo que se trate de procedimientos relativos a la seguridad de presas, embalses y balsas, en cuyo caso la exención se aplica solamente a las infraestructuras destinadas al abastecimiento municipal.
+
+b) Están exentas de las tasas que gravan la prestación de los servicios a que se refiere el artículo 5.1-1 las personas jurídicas sin ánimo de lucro que estén acreditadas ante el departamento competente en materia de medio ambiente y que tengan entre las finalidades establecidas por sus estatutos la protección del medio ambiente en general o de alguno de sus elementos en particular y desarrollen su actividad en el ámbito territorial afectado por las actuaciones administrativas que ejerce la Agencia Catalana del Agua.
+
+c) Quedan exentos de las tasas que gravan la prestación de los servicios a los que se refieren las letras *o* y *t* del artículo 5.1-5 los particulares que soliciten autorización para trabajos forestales o actividades extractivas en zona de dominio público hidráulico, siempre que la solicitud del servicio que es grabado se presente en relación con actuaciones que, a criterio de la Agencia Catalana del Agua, permitan recuperar la capacidad hidráulica de este ámbito fluvial, sin que ello comporte el deterioro de la correspondiente masa de agua.
+
+d) Los procedimientos de revisión de concesiones, de renuncia de concesiones y autorizaciones, de revocación de autorizaciones y de constitución de comunidades de usuarios y de otorgamiento de concesiones a comunidades de usuarios que estén en trámite o legalmente constituidas están exentos de la tasa. Asimismo, quedan exentos de la tasa los procedimientos de declaración de caducidad de concesiones, salvo que se solicite la rehabilitación de la concesión, en cuyo caso se aplica la cuota que corresponda de acuerdo con lo establecido por las letras a, b, c y d del apartado 1 del artículo 5.1-5.
+
+e) Está exento de la tasa el procedimiento de autorización de mantenimiento o limpieza de cauces instado por particulares en dominio público hidráulico y zona de policía y siempre y cuando no exista un aprovechamiento de materiales resultantes en beneficio propio.
+
+> Se modifica la letra c) por el art. 10.1 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por el art. 24.1 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 5.1-4. Devengo y exigibilidad.
+
+1\. La tasa se devenga con la prestación del servicio.
+
+2\. En el caso de actuaciones derivadas de una tramitación iniciada a instancia de parte la cuota de la tasa es exigible en el momento de la finalización del procedimiento. Se exige sólo el 50% del importe de la tasa en los casos en que los informes de viabilidad de los proyectos conducen a la denegación de la solicitud sin agotar el procedimiento administrativo y en los casos de desistimiento o caducidad de la instancia.
+
+3\. En el caso de actuaciones derivadas de una tramitación iniciada de oficio, en el marco del proceso de determinación y comprobación del canon del agua, la cuota de la tasa es exigible en el momento que estén determinados todos los elementos del tributo.
+
+#### Artículo 5.1-5. Cuota.
+
+1\. La cuota de la tasa en los procedimientos relativos al dominio público hidráulico, marítimo-terrestre o los sistemas de saneamiento público es la siguiente:
+
+a) Concesiones para el aprovechamiento privativo de un caudal superior a 200.001 m³/año: 3.570 euros.
+
+b) Concesiones para el aprovechamiento privativo de un caudal entre 100.001 m³/año y 200.000 m³/año: 3.060 euros.
+
+c) Concesiones para el aprovechamiento privativo de un caudal entre 50.001 m³/año y 100.000 m³/año: 2.040 euros.
+
+d) Concesiones para el aprovechamiento privativo de un caudal entre 25.001 m³/año y 50.000 m³/año: 1.530 euros.
+
+e) Concesiones para el aprovechamiento privativo de un caudal entre 10.001 m³/año y 25.000 m³/año: 1.020 euros.
+
+f) Concesiones para el aprovechamiento privativo de un caudal hasta 10.000 m³/año: 510 euros.
+
+g) Modificación de características de concesiones que comporten un aumento del caudal concedido o un cambio de punto de captación o derivación: 510 euros.
+
+h) Modificación de características de concesiones no incluidas en el epígrafe precedente: 357 euros.
+
+i) Inscripción o autorización de la transmisión de concesiones: 153 euros.
+
+j) Autorizaciones o permisos de vertidos de aguas residuales procedentes de polígonos industriales o de otras agrupaciones de vertidos industriales: 2.040 euros.
+
+k) Autorizaciones de vertidos al dominio público marítimo-terrestre: 1.530 euros.
+
+l) Autorizaciones de vertidos al dominio público hidráulico de aguas residuales industriales y autorizaciones de vertidos al dominio público hidráulico de aguas residuales de carácter sanitario con un caudal igual o superior a 6.000 m³/año: 1.020 euros.
+
+m) Autorizaciones de vertidos con conexión a un sistema público de saneamiento: 520,20 euros.
+
+m bis) Autorizaciones de vertidos al dominio público hidráulico de aguas residuales de carácter sanitario con un caudal inferior a 6.000 m3/año: 300 euros.
+
+n) Autorizaciones de vertido al sistema de saneamiento por medio de camión cisterna: 255 euros.
+
+n bis) Declaraciones responsables para el vertido con cisternas a EDAR: 60,12 euros.
+
+o) Autorizaciones y concesiones de obras, instalaciones o actividades extractivas relativas al dominio público hidráulico, excluidas las talas con aprovechamiento económico:
+
+La cuantía de la tasa (t, en euros) es la raíz cúbica del cuadrado del presupuesto (p, en euros) de ejecución material del proyecto, de acuerdo con la siguiente fórmula:
+
+t = p 2/3
+
+La cuantía de la tasa no puede ser inferior a 400 euros ni superior a 6.000 euros.
+
+p), q), r), s). **(Derogados).**
+
+t) Autorizaciones de obras, instalaciones o actividades extractivas en zona de policía incluidas las talas con aprovechamiento económico:
+
+La cuantía de la tasa (t, en euros) es la raíz cúbica del cuadrado del presupuesto (p, en euros) de ejecución material del proyecto, multiplicado por un coeficiente de 0,5, de acuerdo con la siguiente fórmula:
+
+t = 0,5 p<sup>2/3</sup>
+
+La cuantía de la tasa no puede ser inferior a 200 euros ni superior a 3.000 euros.
+
+En caso de instalaciones ganaderas ya existentes o modificaciones agrícolas del relieve del terreno que no suponga aportación de tierras, la cuota de la tasa es de 205,78 euros. Si se trata de vallas o muros en zona de policía, la cuota de la tasa es de 72,67 euros.
+
+u) **(Derogada).**
+
+v) Autorizaciones para la derivación temporal de caudales: 784,95 euros.
+
+w) Autorizaciones de aprovechamientos privativos por disposición legal: 306 euros.
+
+w bis) Comunicación de aprovechamientos privativos por disposición legal incluyendo la inscripción posterior: 186,44 euros.
+
+x) **(Derogada).**
+
+y) Procedimientos de amojonamiento y de imposición de servidumbres iniciados a instancia de parte, la cuota de la tasa es del 100% de los gastos que se deriven de las tramitaciones mencionadas. En estos casos, la Agencia Catalana del Agua tiene que formular un presupuesto provisional a efectos del devengo de la tasa, en reservas del coste que resulte de la tramitación del procedimiento.
+
+z) **(Derogada).**
+
+z bis) La cuota de la tasa en los supuestos de desistimiento inicial antes de emitir los informes técnicos correspondientes es de 63,37 euros.
+
+z ter) Concesiones por aprovechamientos de aguas superficiales que no tengan fijado un volumen máximo anual: deben aplicarse las tasas establecidas por las letras anteriores; debe considerarse como volumen anual el que resulte de mantener el caudal instantáneo como caudal continuo durante todo el año.
+
+z quáter) Autorización de usos de agua para la refrigeración en circuitos abiertos: si hay retorno al medio la cuota de la tasa es de 630 euros; si los caudales extraídos se vierten al sistema de alcantarillado la cuota de la tasa es de 2.040 euros.
+
+z quinquies) Autorización de usos de agua para la refrigeración en circuitos cerrados: 204,17 euros.
+
+En el caso de solicitudes simultáneas de concesión y autorización de vertido, los coeficientes en que hacen referencia las letras a, b, c, d, e, f, g y h se reducen en un 25%.
+
+La cuota de la tasa establecida en la letra m se bonifica en un 50% en el caso de establecimientos de turismo rural que dispongan del distintivo de garantía de calidad ambiental o la etiqueta ecológica de la Unión Europea.
+
+La cuota de los procedimientos de modificación, novación, renovación o revisión de autorizaciones es la equivalente al 50% del importe establecido por el apartado 1. En el caso de transmisión de autorizaciones la cuota es la equivalente al 20% del importe establecido por el apartado 1.
+
+2\. La cuota de la tasa en el supuesto de emisión de informes o peticiones diversas de información es la siguiente:
+
+a) Emisión de informes:
+
+a).1 Con carácter general: 100 euros.
+
+a).2 Si los informes se emiten en el marco de la legislación urbanística aplicable: 300 euros.
+
+a).3 Si los informes se emiten en actuaciones urbanísticas para aprobar proyectos de actuaciones específicas de interés público en suelo no urbanizable, en el marco legal determinado por el artículo 48.1.e del texto refundido de la Ley de urbanismo, aprobado por el Decreto legislativo 1/2005, de 26 de julio: 100 euros.
+
+b) **(Derogada).**
+
+3\. En los casos de emisión de certificados del registro de aguas o del censo de vertidos la cuota de la tasa es de 51 euros.
+
+4\. En los casos de determinación de oficio del tipo aplicable del canon del agua, la cuota de la tasa es la siguiente:
+
+a) Levantamiento de acta de una inspección puntual (menos de dos horas): 89,55 euros.
+
+b) Levantamiento de acta de una inspección de larga duración (más de dos horas): 301,25 euros.
+
+c) básica (MES, DQO decantada, DQO no decantada, SOL, CL, pH): 127 euros.
+
+d) Analítica de materias en suspensión (MES): 22 euros.
+
+e) Analítica de DQO decantada: 36 euros.
+
+f) Analítica de DQO no decantada: 36 euros.
+
+g) Analítica de sales solubles (SOL): 9 euros.
+
+h) Analítica de nutrientes (nitrógeno + fósforo): 67 euros.
+
+i) Analítica de nitrógeno Kjeldahl (orgánico y amoniacal): 36 euros.
+
+j) Analítica de fósforo total: 31 euros.
+
+k) Analítica de materias inhibidoras: 120 euros.
+
+l) Determinación de disolventes por cromatografía: 180 euros.
+
+m) Analítica de carbono orgánico total (TOC): 45 euros.
+
+n) Analítica de AOX: 147 euros.
+
+5\. La cuota de la tasa en los procedimientos relativos a la seguridad de presas, embalses y balsas es la siguiente:
+
+a) Clasificación de presa, embalse o balsa e inscripción en el Registro de seguridad de presas y embalses de Cataluña, para propuestas tipo A: 815,57 euros.
+
+b) Clasificación de presa, embalse o balsa e inscripción en el Registro de seguridad de presas y embalses de Cataluña, para propuestas tipo B: 895,41 euros.
+
+c) Clasificación de presa, embalse o balsa e inscripción en el Registro de seguridad de presas y embalses de Cataluña, para propuestas tipo C: 1.106,68 euros.
+
+d) Inscripción en el Registro de seguridad de presas y embalses de Cataluña, para instalaciones clasificadas A: 231,01 euros.
+
+e) Inscripción en el Registro de seguridad de presas y embalses de Cataluña, para instalaciones clasificadas B: 212,93 euros.
+
+f) Inscripción en el Registro de seguridad de presas y embalses de Cataluña, para instalaciones clasificadas C: 203,89 euros.
+
+g) Modificación de datos o anotación de documentación complementaria en el Registro de seguridad de presas y embalses de Cataluña: la cuota es equivalente al 50% del importe establecido para la cuota de inscripción en el Registro de seguridad de presas y embalses de Cataluña, según su clasificación A, B o C.
+
+h) Emisión de certificado de inscripción en el Registro de seguridad de presas y embalses de Cataluña: 71,95 euros.
+
+i) Aprobación de las normas de explotación de presa, embalse o balsa: 2.201,03 euros.
+
+j) Aprobación del plan de emergencia de presa, embalse o balsa: 2.788,55 euros.
+
+k) Emisión de informe específico relativo a proyectos, obras o cambio de etapa en la vida de la presa, el embalse o la balsa, o de revisión de seguridad: 1.168,81 euros.
+
+> Se modifica el apartado 1 y se deroga la letra b) del apartado 2 por el art. 10.2 a 5 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 2 por el art. 35 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifican las letras x), z bis) y se añaden las letras n bis), z ter) y z quater) por el art. 24.2 a 6 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se derogan, con efectos de 31 de enero de 2014, las letras p), q), r) y s) del apartado 1, por la disposición derogatoria de la Ley 12/2014, de 20 de octubre. [Ref. BOE-A-2014-11991](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11991).
+
+> Se modifica por el art. 36.2 a 9 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica la letra m) y se añade una m bis) al apartado 1 por los arts. 7 y 8 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+### CAPÍTULO II — Tasa por el acceso a las infraestructuras de saneamiento en alta
+
+> Se añade por el art. 102 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 5.2-1 Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa el acceso a las infraestructuras de saneamiento en alta existentes o a las previstas en el instrumento de planificación hidrológica vigente, en relación con las siguientes actuaciones urbanísticas:
+
+a) De nueva urbanización.
+
+b) De reforma o renovación de la urbanización en suelo urbanizable o suelo urbano no consolidado, cuando comporten un incremento de generación de aguas residuales conectadas a un sistema de saneamiento público, ya sea como consecuencia de una mayor edificabilidad o densidad del uso urbanístico o como consecuencia de un cambio del uso urbanístico.
+
+c) De cambios en el suelo no urbanizable que impliquen un incremento de aguas residuales.
+
+2\. Quedan exentos del pago de la tasa los supuestos de acceso a las infraestructuras de saneamiento existentes o previstas en la planificación hidrológica, derivados de actuaciones urbanísticas en sectores o urbanizaciones ya existentes en fecha de 19 de julio de 2006, pero pendientes de regularización desde el punto de vista urbanístico. La exención no se aplica a los incrementos de caudales generados a partir de esa fecha.
+
+> Se modifica por el art. 11.1 y 2 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por el art. 36.1 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 102 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 5.2-2 Sujeto pasivo.
+
+Son sujetos pasivos, en calidad de contribuyentes, las personas promotoras del proyecto de urbanización.
+
+> Se añade por el art. 102 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 5.2-3 Acreditación.
+
+1\. La tasa se acredita en el momento de emisión del informe favorable de la Agencia Catalana del Agua sobre la solución de saneamiento colectiva propuesta en el proyecto de urbanización de la actuación urbanística correspondiente, o en el instrumento urbanístico o en el proyecto de actuación en suelo no urbanizable en caso de que la ejecución material no precise proyecto de urbanización.
+
+La Agencia, junto con su informe, notifica la liquidación de la tasa, que debe hacerse efectiva en el plazo de un año a contar desde el día siguiente a la notificación.
+
+2\. En el momento de la aprobación definitiva del proyecto de urbanización debe quedar probado que el sujeto pasivo ha abonado la tasa a la Agencia.
+
+3\. Para los casos de actuaciones urbanísticas en suelo no urbanizable debe quedar probado que el sujeto pasivo ha abonado la tasa a la Agencia en el momento de la emisión de la licencia de obras municipal.
+
+> Se modifica el apartado 1 por el art. 11.3 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por el art. 36.2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 102 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 5.2-4 Cuota.
+
+1\. La cuota se calcula a partir de la siguiente fórmula:
+
+Q = 335 * HE
+
+Siendo (HE) los habitantes equivalentes de los nuevos desarrollos, según las expresiones siguientes, calculados a partir del número de viviendas que se construirán (en el caso de desarrollos residenciales) o del número de hectáreas netas (en el caso de planeamiento industrial y terciario) y el punto de conexión a sistema de saneamiento en alta:
+
+Residencial: 2,6 habitantes equivalentes por vivienda.
+
+Industrial: 60 habitantes equivalentes por hectárea neta.
+
+Terciario: 50 habitantes equivalentes por hectárea neta.
+
+2\. En las fórmulas de cálculo de los parámetros considerados en la cuota debe tenerse en cuenta que:
+
+a) Las viviendas de protección oficial y la vivienda dotacional no se consideran en el cálculo de los habitantes equivalentes.
+
+b) Tampoco computan en el cálculo las superficies destinadas a equipamientos públicos.
+
+c) En los desarrollos industriales o terciarios, la cuota se calcula según la dotación en habitantes equivalentes prevista en el apartado 5.2-4.1, salvo que el promotor, con el visto bueno del ayuntamiento, justifique técnicamente que su caudal de consumo real es distinto. En este caso, el caudal justificado es el que se convierte en habitantes equivalentes.
+
+3\. El importe que resulta de la cuota no incluye el coste de conexión a la red de saneamiento en alta, que corresponde ejecutar al sujeto pasivo.
+
+4\. En el caso de sectores pendientes de regularizarse urbanísticamente y que ya están conectados a un sistema de saneamiento público, deben computarse en la fórmula de cálculo de la cuota los incrementos de carga o caudal que se deriven del incremento de edificabilidad respecto a la situación anterior.
+
+5\. La gestión y recaudación de esta tasa puede delegarse en el ente gestor del sistema de saneamiento, en las condiciones y con el alcance que se determinen por reglamento.
+
+> Se modifican los apartados 1, 2.c) y 4 por el art. 11.4 a 6 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 1.b) y se añaden los apartados 4 y 5 por el art. 36.3 a 5 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Téngase en cuenta que los valores para el cálculo de la cuota del apartado 1.b) son aplicables a las liquidaciones que no hayan adquirido firmeza a 1 de mayo de 2020, según se establece en el art. 36.3 de la citada ley, redactado conforme a la corrección de erratas publicada en el DOGC núm. 8135, de 18 de mayo de 2020 [Ref. BOE-A-2020-5901](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5901)
+
+> Se añade por el art. 102 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 5.2-5 Afectación.
+
+Los ingresos derivados de la aplicación de la tasa quedan afectados a la financiación de los gastos de inversión de saneamiento en alta previstos en la planificación en que incurra la Agencia Catalana del Agua.
+
+> Se añade por el art. 102 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 5.2-6 Devoluciones.
+
+El sujeto pasivo tiene derecho a la devolución de la tasa que ha satisfecho si la resolución que pone fin al procedimiento no aprueba definitivamente el proyecto de urbanización.
+
+> Se añade por el art. 102 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+## TÍTULO VI — Seguros y materia financiera, estadística y tributaria
+
+### CAPÍTULO I — Tasa por la expedición del diploma de mediador o mediadora de seguros titulado
+
+> Se deroga por la disposición derogatoria.1.b) de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículos 6.1-1 a 6.1-5.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria.1.b) de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+### CAPÍTULO II — Tasa por la verificación previa a la admisión de valores a negociación exclusivamente en los mercados de valores situados en Cataluña
+
+#### Artículo 6.2-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la verificación del cumplimiento de los requisitos necesarios para la admisión de valores a negociación exclusivamente a los mercados de valores situados en Cataluña.
+
+#### Artículo 6.2-2. Sujeto pasivo.
+
+Son sujetos pasivos las sociedades que solicitan la verificación del cumplimiento de los requisitos necesarios para la admisión de valores a negociación exclusivamente en los mercados de valores situados en Cataluña.
+
+#### Artículo 6.2-3. Devengo.
+
+La tasa se devenga en el momento en que el Departamento de Economía y Finanzas hace la verificación previa del folleto de admisión y da por cumplidos todos los requisitos necesarios para la admisión de los valores a negociación.
+
+#### Artículo 6.2.4. Base imponible.
+
+La base imponible es el valor nominal de la emisión para la que se solicita la admisión a negociación. En caso de modificación de valores en circulación por incremento de su valor nominal, la base imponible es el importe del incremento del valor nominal de las emisiones, como consecuencia de la modificación, en la fecha de la verificación correspondiente.
+
+> Se modifica por el art. 3.1 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 6.2-5. Cuota.
+
+1\. La cuota de la tasa se determina aplicando a la base imponible el siguiente baremo:
+
+a) Valores con un plazo final de amortización o vencimiento superior a dieciocho meses: 0,03 por mil.
+
+b) Valores con un plazo final de amortización o vencimiento inferior o igual a dieciocho meses: 0,01 por mil.
+
+2\. Si la cuota que resulta de aplicar el tipo de gravamen es superior a 20.808 euros, en el caso de emisiones de renta variable, o de 9.363,60 euros, en el caso de valores de renta fija, se tiene que aplicar una cuota fija máxima de 20.808 euros y 9.363,60 euros, respectivamente.
+
+3\. Si la cuota que resulta de aplicar el tipo de gravamen es inferior a 1.700,00 euros, en el caso de emisiones de valores de renta variable, o de 1.000,00 euros, en el caso de valores de renta fija, debe aplicarse una cuota fija mínima de 1.700,00 euros y 1.000,00 euros, respectivamente.
+
+> Se modifica el apartado 1 y se añade el apartado 3 por el art. 3.2 y 3 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+### CAPÍTULO III — Tasa por la verificación previa a la emisión de valores que serán admitidos a negociación exclusivamente en los mercados de valores situados en Cataluña
+
+> Se deroga por el art. 37 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículos 6.3-1 a 6.3-5.
+
+**(Derogados).**
+
+> Se derogan por el art. 37 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO IV — Tasa por la expedición de certificaciones oficiales del Instituto de Estadística de Cataluña
+
+> Se modifica por el art. 37 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 6.4-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la expedición de certificaciones oficiales de las estadísticas elaboradas por Instituto de Estadística de Cataluña y de las estadísticas oficiales elaboradas por las instituciones y órganos que integran el Sistema estadístico de Cataluña.
+
+> Se modifica por el art. 37 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 6.4-2. Sujeto pasivo.
+
+Son sujetos pasivos de esta tasa las personas físicas o jurídicas del sector público y del sector privado que solicitan la certificación.
+
+> Se modifica por el art. 37 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 6.4-3. Exenciones.
+
+Están exentos de pagar la tasa los departamentos de la Generalidad de Cataluña.
+
+> Se modifica por el art. 37 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 6.4-4. Acreditación.
+
+La tasa se acredita en el momento de producirse el hecho imponible, cuando el Instituto de Estadística emite la certificación solicitada y el solicitante la recibe.
+
+> Se modifica por el art. 37 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 6.4-5. Cuota.
+
+La cuota de la tasa se fija en 25 euros por certificación.
+
+> Se modifica por el art. 37 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO V — Tasa por la realización de valoraciones previas en el ámbito de los tributos que gestiona la Generalidad de Cataluña
+
+#### Artículo 6.5-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la realización, por las delegaciones territoriales de la Agencia Tributaria de Cataluña, de la valoración de rentas, productos, bienes, gastos y otros elementos del hecho imponible efectuada en las solicitudes de información de valoración y los acuerdos previos de valoración regulados por la Ley general tributaria, en el ámbito del impuesto sobre transmisiones patrimoniales y actos jurídicos documentados y del impuesto sobre sucesiones y donaciones.
+
+> Se modifica por el art. 9 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 6.5-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa la persona física o jurídica que solicita la realización de la valoración o en cuyo interés se hace esta actividad.
+
+#### Artículo 6.5-3. Acreditación.
+
+La tasa se acredita con la realización de la valoración. La acreditación del pago de la tasa se exige como condición previa para admitir a trámite la solicitud de valoración.
+
+> Se modifica por el art. 38.1 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 6.5-4. Cuota.
+
+La cuota de la tasa se fija en 369,50 euros por cada bien valorado. Si la solicitud de valoración comporta valorar una pluralidad de bienes, se tiene que exigir, además, la cuota correspondiente a la valoración de cada uno de los bienes.
+
+#### Artículo 6.5-5. Autoliquidación y pago.
+
+1\. La tasa se exige en régimen de autoliquidación y debe hacerse efectiva mediante el correspondiente ingreso.
+
+2\. El modelo de autoliquidación debe aprobarse por orden del consejero del departamento competente en materia tributaria.
+
+> Se añade por el art. 38.2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO VI — Tasa por la prestación del servicio de resultados específicos por la explotación de estadísticas de interés de la Generalidad
+
+> Se añade por el art. 38 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 6.6-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa el servicio de resultados específicos de estadísticas de interés de la Generalidad, en los términos establecidos por el artículo 19.c de la Ley 23/1998, de 30 de diciembre, de estadística de Cataluña.
+
+> Se añade por el art. 38 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 6.6-2. Sujeto pasivo.
+
+Son sujetos pasivos de esta tasa las personas físicas o jurídicas que solicitan el servicio.
+
+> Se añade por el art. 38 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 6.6-3. Exenciones.
+
+Están exentos de pagar la tasa los órganos estatutarios y la Administración de la Generalidad y los órganos, organismos y entes públicos que dependen o están vinculados a la misma.
+
+> Se añade por el art. 38 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 6.6-4. Bonificaciones.
+
+Pueden disfrutar de una bonificación del 50% de la cuota resultante el resto de administraciones públicas de Cataluña y los entes que dependen de estas administraciones o están vinculados a las mismas.
+
+> Se añade por el art. 38 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 6.6-5. Acreditación.
+
+La tasa se acredita en el momento de realización del hecho imponible y es exigible cuando el Instituto de Estadística de Cataluña entrega el resultado específico de estadística que se ha solicitado.
+
+> Se añade por el art. 38 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 6.6-6. Cuota.
+
+La cuota de la tasa se determina multiplicando las horas de dedicación del personal estadístico a la prestación del servicio solicitado por el precio hora de dedicación del personal estadístico, que es de 60 euros por hora.
+
+> Se añade por el art. 38 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO VII — Tasa por el servicio de gestión y recaudación del recargo municipal del impuesto sobre las estancias en establecimientos turísticos
+
+> Se añade por el art. 9 de la Ley 2/2026, de 6 de marzo. [Ref. BOE-A-2026-6642](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6642)
+
+#### Artículo 6.7-1 Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación, por parte de la Agencia Tributaria de Cataluña, de los servicios de gestión y aplicación del recargo municipal del impuesto sobre las estancias en establecimientos turísticos, incluidas las actuaciones de comprobación y recaudación, tanto en fase de recaudación voluntaria como ejecutiva.
+
+> Se añade por el art. 9 de la Ley 2/2026, de 6 de marzo. [Ref. BOE-A-2026-6642](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6642)
+
+#### Artículo 6.7-2 Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los ayuntamientos a los que la Agencia Tributaria de Cataluña presta los servicios incluidos en el hecho imponible, una vez establecido, por ordenanza municipal, el recargo a que se refieren los artículos 34 bis y 34 ter de la Ley 5/2017, de 28 de marzo, de medidas fiscales, administrativas, financieras y del sector público y de creación y regulación de los impuestos sobre grandes establecimientos comerciales, sobre estancias en establecimientos turísticos, sobre elementos radiotóxicos, sobre bebidas azucaradas envasadas y sobre emisiones de dióxido de carbono.
+
+> Se añade por el art. 9 de la Ley 2/2026, de 6 de marzo. [Ref. BOE-A-2026-6642](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6642)
+
+#### Artículo 6.7-3 Devengo.
+
+La tasa se devenga en el momento de la prestación de los servicios incluidos en el hecho imponible.
+
+> Se añade por el art. 9 de la Ley 2/2026, de 6 de marzo. [Ref. BOE-A-2026-6642](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6642)
+
+#### Artículo 6.7-4 Base imponible.
+
+La base imponible de la tasa es el importe recaudado derivado de los servicios incluidos en el hecho imponible. No es aplicable ninguna reducción.
+
+> Se añade por el art. 9 de la Ley 2/2026, de 6 de marzo. [Ref. BOE-A-2026-6642](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6642)
+
+#### Artículo 6.7-5 Tipo de gravamen.
+
+El tipo de gravamen es del 1,20 %.
+
+> Se añade por el art. 9 de la Ley 2/2026, de 6 de marzo. [Ref. BOE-A-2026-6642](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6642)
+
+#### Artículo 6.7-6 Cuota tributaria.
+
+La cuota tributaria resulta de aplicar el tipo de gravamen a la base imponible. No es aplicable ninguna bonificación ni deducción.
+
+> Se añade por el art. 9 de la Ley 2/2026, de 6 de marzo. [Ref. BOE-A-2026-6642](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6642)
+
+#### Artículo 6.7-7 Gestión, liquidación y recaudación.
+
+1\. La gestión, liquidación y recaudación de la tasa corresponden a la Agencia Tributaria de Cataluña.
+
+2\. La tasa se exige al sujeto pasivo en el momento de hacer efectiva la transferencia a que se refieren los artículos 34 bis.2 y 34 ter.2 de la Ley 5/2017, mediante la minoración del importe de la transferencia en el importe de la tasa correspondiente a cada ingreso incluido en la transferencia.
+
+> Se añade por el art. 9 de la Ley 2/2026, de 6 de marzo. [Ref. BOE-A-2026-6642](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6642)
+
+#### Artículo 6.7-8 Recurso económico de la Agencia Tributaria de Cataluña.
+
+De conformidad con lo establecido por el artículo 214-1.1 del Código tributario de Cataluña, los ingresos derivados de la aplicación de la tasa son recursos económicos de la Agencia Tributaria de Cataluña, se integran en sus presupuestos y se destinan a satisfacer el conjunto de sus obligaciones.
+
+> Se añade por el art. 9 de la Ley 2/2026, de 6 de marzo. [Ref. BOE-A-2026-6642](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6642)
+
+## TÍTULO VII — Comercio
+
+### CAPÍTULO I — Tasa para la tramitación de a la licencia comercial de la Generalidad
+
+> Se modifica por la disposición final 1 del Decreto-ley 1/2009, de 22 de diciembre. [Ref. BOE-A-2010-738](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-738).
+
+#### Artículo 7.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de expedientes de solicitud de licencia comercial de la Generalidad.
+
+> Se modifica por la disposición final 1 del Decreto-ley 1/2009, de 22 de diciembre. [Ref. BOE-A-2010-738](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-738).
+
+#### Artículo 7.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan las licencias comerciales.
+
+> Se modifica por la disposición final 1 del Decreto-ley 1/2009, de 22 de diciembre. [Ref. BOE-A-2010-738](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-738).
+
+#### Artículo 7.1-3. Acreditación.
+
+1\. La tasa se acredita en el momento de presentar la solicitud de la licencia comercial. Vista la posibilidad de desistimiento de la persona solicitando antes, durante o desprendido del estudio del expediente para el otorgamiento de la licencia, la tasa se fracciona en dos pagos:
+
+a) El 65% en el momento de presentar la solicitud, junto con el resto de documentación necesaria para iniciar la tramitación del expediente, por el procedimiento de autoliquidación.
+
+b) El 35% restante antes de finalizar el periodo establecido por el trámite de audiencia que se inicia una vez dictada la propuesta de resolución, por el procedimiento de notificación de la liquidación.
+
+2\. La falta de liquidación de la tasa tiene las consecuencias siguientes:
+
+La falta de acreditación del pago del 65% en el momento de presentar la solicitud tiene los mismos efectos que la falta de cualquier otra documentación preceptiva necesaria para iniciar la tramitación del expediente.
+
+La falta de liquidación del pago del 35% dentro del periodo de quince días a contar desde el día siguiente de la recepción de la correspondiente notificación da lugar a la caducidad del expediente para el otorgamiento de la licencia comercial de la Generalidad.
+
+3\. En los casos en los que no se dicte resolución expresa en el plazo legalmente establecido, la persona interesada, con la solicitud previa correspondiente tiene derecho a la devolución del importe pagado.
+
+> Se modifica por la disposición final 1 del Decreto-ley 1/2009, de 22 de diciembre. [Ref. BOE-A-2010-738](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-738).
+
+#### Artículo 7.1-4. Base imponible y tipo de gravamen.
+
+Constituye la base imponible la superficie de venta total de los establecimientos, cuando se trate de un nuevo establecimiento comercial, de un cambio de actividad, y sólo la superficie de venta añadida cuando se trate de una ampliación. El tipo de gravamen se establece en 3 '70 euros por metro cuadrado de superficie de venta.
+
+> Se modifica por la disposición final 1 del Decreto-ley 1/2009, de 22 de diciembre. [Ref. BOE-A-2010-738](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-738).
+
+#### Artículo 7.1-5. Afectación.
+
+Los ingresos procedentes de la recaudación de las tasas por la tramitación de la licencia comercial de la Generalidad se afectan en la financiación, la ampliación y la mejora de los servicios que tengan asignadas las tareas de velar por el cumplimiento de lo que establece la correspondiente Decreto-ley de ordenación de los equipamientos comerciales y las normas reglamentarias que la desarrollen.
+
+> Se modifica por la disposición final 1 del Decreto-ley 1/2009, de 22 de diciembre. [Ref. BOE-A-2010-738](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-738).
+
+#### Artículo 7.1-6. Afectación.
+
+Los ingresos procedentes de la recaudación de las tasas por la tramitación de la licencia comercial de la Generalidad se afectan a la financiación, la ampliación y la mejora de los servicios que tengan asignadas las tareas de velar por el cumplimiento de lo que establece la Ley 18/2005, de 27 de diciembre, de equipamientos comerciales y les normas reglamentarias para su desarrollo, incluido el Plan territorial sectorial de equipamientos comerciales.
+
+### CAPÍTULO II — Tasa para la tramitación de la certificación necesaria para que las tiendas de conveniencia puedan vender tabaco mediante máquinas expendedoras
+
+> Se añade por el art. 21 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se deroga por la disposición derogatoria 2 del Decreto-ley 1/2009, de 22 de diciembre. [Ref. BOE-A-2010-738](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-738).
+
+#### Artículo 7.2-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la comprobación y tramitación de la certificación acreditativa de los requisitos establecidos por el artículo 2.2 de la Ley 8/2004, de 23 de diciembre, de horarios comerciales, relativo a las tiendas de conveniencia, para que estos establecimientos puedan instalar máquinas expendedoras de tabaco, de acuerdo con lo establecido por el artículo 4.b, primer párrafo, de la Ley del Estado 28/2005, de 26 de diciembre, de medidas sanitarias frente al tabaquismo y reguladora de la venta, el suministro, el consumo y la publicidad de los productos del tabaco.
+
+> Se añade por el art. 21 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se deroga por la disposición derogatoria 2 del Decreto-ley 1/2009, de 22 de diciembre. [Ref. BOE-A-2010-738](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-738).
+
+#### Artículo 7.2-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, titulares de los establecimientos, que solicitan la certificación.
+
+> Se añade por el art. 21 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se deroga por la disposición derogatoria 2 del Decreto-ley 1/2009, de 22 de diciembre. [Ref. BOE-A-2010-738](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-738).
+
+#### Artículo 7.2-3. Acreditación.
+
+La tasa se acredita en el momento de presentar la solicitud de la certificación.
+
+> Se añade por el art. 21 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se deroga por la disposición derogatoria 2 del Decreto-ley 1/2009, de 22 de diciembre. [Ref. BOE-A-2010-738](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-738).
+
+#### Artículo 7.2-4. Cuota.
+
+Cuota por la expedición de la certificación acreditativa de la condición de tienda con oferta de conveniencia según los parámetros determinados por el artículo 2.2 de la Ley 8/2004, con las correspondientes visitas previas de comprobación a cargo de la inspección adscrita a la Dirección General de Comercio: 70 euros.
+
+> Se añade por el art. 21 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se deroga por la disposición derogatoria 2 del Decreto-ley 1/2009, de 22 de diciembre. [Ref. BOE-A-2010-738](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-738).
+
+## TÍTULO VII BIS — Consumo
+
+> Se añade por el art. 22 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO I — Tasa por la emisión de informes preceptivos
+
+> Se añade por el art. 22 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 7 bis.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la emisión de informes que deba emitir la Agencia Catalana del Consumo a petición de los particulares, como consecuencia de actividades reguladas o en procedimientos reglados.
+
+> Se añade por el art. 22 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 7 bis.1-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa cualquier persona física o jurídica que solicita la emisión del informe.
+
+> Se añade por el art. 22 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 7 bis.1-3. Acreditación.
+
+La tasa se acredita en el momento de la emisión y entrega del informe, pero puede exigirse el pago de la misma en el momento en que se hace la solicitud.
+
+> Se añade por el art. 22 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 7 bis.1-4. Cuota.
+
+La cuota se establece en 200 euros por informe.
+
+> Se añade por el art. 22 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO II — Tasa por la prestación de servicios y la realización de actividades administrativas de inspección de consumo a las empresas prestadoras de servicios básicos
+
+> Se añade por la disposición final 1 de la Ley 20/2014, de 29 de diciembre. [Ref. BOE-A-2015-471](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-471).
+
+#### Artículo 7.bis.2-1 Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la prestación de servicios y la realización de actuaciones administrativas de inspección a las empresas prestadoras de servicios básicos, de acuerdo con la definición dada por el artículo 251-2 de la Ley 22/2010, del 20 de julio, del Código de consumo de Cataluña, con relación a las reclamaciones recibidas en la Agencia Catalana del Consumo. Se excluyen las reclamaciones que no hayan sido presentadas previamente por la persona consumidora ante la empresa prestadora de servicios básicos.
+
+2\. La actividad inspectora consiste en la verificación, control y supervisión de la actividad llevada a cabo por la empresa prestadora de servicios básicos en la gestión de las reclamaciones formuladas por las personas consumidoras en relación con la observancia de las obligaciones de atención que establece la normativa vigente en materia de consumo. Cuando la Agencia Catalana del Consumo haya recibido al menos cincuenta reclamaciones de una misma empresa de servicios, debe someterla a una inspección.
+
+> Se modifica el apartado 2 por el art. 12.1 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade por la disposición final 1 de la Ley 20/2014, de 29 de diciembre. [Ref. BOE-A-2015-471](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-471).
+
+#### Artículo 7.bis.2-2 Sujeto pasivo.
+
+Son sujetos pasivos de la tasa por la prestación de servicios y la realización de actividades administrativas de inspección de consumo a las empresas prestadoras de servicios básicos las personas jurídicas prestadoras de servicios básicos, de acuerdo con la definición dada por el artículo 251-2 de la Ley 22/2010, respecto a las que las personas consumidoras han formulado reclamaciones ante la Agencia Catalana del Consumo.
+
+> Se añade por la disposición final 1 de la Ley 20/2014, de 29 de diciembre. [Ref. BOE-A-2015-471](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-471).
+
+#### Artículo 7.bis.2-3 Justificación.
+
+La tasa por la prestación de servicios y la realización de actividades administrativas de inspección de consumo a las empresas prestadoras de servicios básicos se justifica con la prestación del servicio constitutivo del hecho imponible.
+
+> Se añade por la disposición final 1 de la Ley 20/2014, de 29 de diciembre. [Ref. BOE-A-2015-471](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-471).
+
+#### Artículo 7.bis.2-4 Cuota.
+
+La cuota de la tasa por la prestación de servicios y la realización de actividades administrativas de inspección de consumo en las empresas prestadoras de servicios básicos es de 57 euros por cada reclamación que haya dado lugar a la inspección.
+
+> Se modifica por el art. 12.2 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade por la disposición final 1 de la Ley 20/2014, de 29 de diciembre. [Ref. BOE-A-2015-471](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-471).
+
+#### Artículo 7.bis.2-5 Afectación.
+
+Los ingresos que se obtienen como consecuencia de la aplicación de la tasa por la prestación de servicios y la realización de actividades administrativas de inspección de consumo a las empresas prestadoras de servicios básicos tienen la consideración de recursos económicos de la Agencia Catalana del Consumo, en los términos del artículo 15 de la Ley 9/2004, de 24 de diciembre, de creación de la Agencia Catalana del Consumo. Los importes obtenidos deben destinarse íntegramente a actuaciones en materia de defensa de las personas consumidoras.
+
+> Se añade por la disposición final 1 de la Ley 20/2014, de 29 de diciembre. [Ref. BOE-A-2015-471](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-471).
+
+## TÍTULO VII TER — Contratación pública
+
+> Se añade por el art. 39 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO I — Tasa por la realización de actividades que son competencia del Tribunal Catalán de Contratos del Sector Público
+
+> Se deroga por la disposición derogatoria 1.e) de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade por el art. 39 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículos 7 ter.1-1 a 7 ter.1-5.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria 1.e) de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+## TÍTULO VIII — Cultura
+
+### CAPÍTULO I — Tasa por la realización de sesiones fotográficas, filmaciones y similares
+
+**(Derogado).**
+
+> Téngase en cuenta que en tanto no se aprueben los importes de la tasa por utilización de monumentos por orden del consejero competente en materia de cultura, sigue vigente la tasa por la realización de sesiones fotográficas, filmaciones y similares, según se establece en la disposición transitoria 2 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se deroga por el art. 26 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Téngase en cuenta que en tanto no se aprueben los importes de la tasa por utilización de monumentos por orden del consejero competente en materia de cultura, sigue vigente la tasa por la realización de sesiones fotográficas, filmaciones y similares, según se establece en la disposición transitoria 2.
+
+#### Artículo 8.1-1. Hecho imponible.
+
+**(Derogado).**
+
+> Redacción anterior:
+
+> "Constituye el hecho imponible de la tasa la realización de sesiones fotográficas, filmaciones, grabaciones de conciertos y similares y la utilización de monumentos para exposiciones y actos diversos. No forma parte del hecho imponible de esta tasa la utilización comercial o de otro tipo de las fotografías o las filmaciones de los monumentos, que debe regirse por su normativa específica."
+
+> Se deroga por el art. 26 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Téngase en cuenta que en tanto no se aprueben los importes de la tasa por utilización de monumentos por orden del consejero competente en materia de cultura, sigue vigente la tasa por la realización de sesiones fotográficas, filmaciones y similares, según se establece en la disposición transitoria 2.
+
+#### Artículo 8.1-2. Sujeto pasivo.
+
+**(Derogado).**
+
+> Redacción anterior:
+
+> "Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, que solicitan las autorizaciones correspondientes."
+
+> Se deroga por el art. 26 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Téngase en cuenta que en tanto no se aprueben los importes de la tasa por utilización de monumentos por orden del consejero competente en materia de cultura, sigue vigente la tasa por la realización de sesiones fotográficas, filmaciones y similares, según se establece en la disposición transitoria 2.
+
+#### Artículo 8.1-3. Devengo.
+
+**(Derogado).**
+
+> Redacción anterior:
+
+> "La tasa se acredita en el momento de obtener la autorización."
+
+> Se deroga por el art. 26 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Téngase en cuenta que en tanto no se aprueben los importes de la tasa por utilización de monumentos por orden del consejero competente en materia de cultura, sigue vigente la tasa por la realización de sesiones fotográficas, filmaciones y similares, según se establece en la disposición transitoria 2.
+
+#### Artículo 8.1-4. Cuota.
+
+**(Derogado).**
+
+> Redacción anterior:
+
+> "El importe de la cuota es:
+
+> 1\. Realización de reportajes fotográficos:
+
+> 1.1 Hasta 2 horas: 88 euros.
+
+> 1.2 Más de 2 horas hasta 1 día: 366,20 euros.
+
+> 1.3 Por cada día (horario de visita pública): 366,20 euros.
+
+> 2\. Vídeos, spots comerciales, filmaciones y rodajes para cadenas de televisión y para el cine y similares:
+
+> 2.1 De carácter cultural y compatible con la visita pública:
+
+> 2.1.1 Por cada día de alquiler: 439,40 euros.
+
+> 2.1.2 Servicios, por cada día: 88 euros.
+
+> 2.2 De carácter cultural y no compatible con la visita pública:
+
+> 2.2.1 Por cada día de alquiler (de 9 a 21 horas): 878,75 euros.
+
+> 2.2.2 Servicios, por cada día: 88 euros.
+
+> 2.3 De carácter comercial:
+
+> 2.3.1 Por cada día de alquiler (12 horas como máximo): 1.464,50 euros.
+
+> 2.3.2 Servicios, por cada día: 88 euros.
+
+> La cuota fijada en los apartados 2.1.2, 2.2.2 y 2.3.2 cubre los suministros, la limpieza ordinaria, la asistencia del personal del monumento, la megafonía y otros servicios ordinarios de los monumentos. Si se producen gastos adicionales, se tiene que satisfacer el importe.
+
+> En el caso especificado por el apartado 2.3.1, el horario de filmación tiene que ser autorizado por el órgano del Departamento competente en materia de cultura encargado de la gestión de monumentos.
+
+> 3\. Grabaciones de conciertos y similares en los monumentos:
+
+> 3.1 Por cada día de alquiler (12 horas como máximo): 878,75 euros.
+
+> 3.2 Servicios, por cada día: 88 euros.
+
+> La cuota fijada por el apartado 3.2 cubre los suministros, la limpieza ordinaria, la asistencia del personal del monumento, la megafonía y otros servicios ordinarios de los monumentos. Si se producen gastos adicionales, se tiene que satisfacer el importe.
+
+> El horario de grabación tiene que ser autorizado por el órgano del Departamento competente en materia de cultura encargado de la gestión de monumentos.
+
+> 4\. Utilización de los monumentos para exposiciones:
+
+> 4.1 Exposiciones abiertas en el horario normal de visita pública del monumento y compatibles con ésta:
+
+> 4.1.1 Por cada día de alquiler: 88 euros.
+
+> 4.1.2 Servicios, por cada día: 88 euros.
+
+> 4.2 Si la exposición está abierta en horas fuera del horario normal de visita pública del monumento, la cuota fijada por el apartado 4.1 se incrementa con el importe de los gastos originados por este motivo.
+
+> 4.3 En las exposiciones que implican la gratuidad de la visita pública del monumento, los organizadores tienen que satisfacer el importe adicional correspondiente a los ingresos por venta que el Departamento competente en materia de cultura deja de percibir. Este importe se calcula multiplicando el número medio de visitantes diarios el año anterior por el importe vigente de la cuota en el momento de hacer la exposición y por el número de días que dura la exposición.
+
+> 5\. Utilización hasta dos horas de los monumentos para actos diversos:
+
+> 5.1 Monumentos de Sant Pere de Rodes, Santes Creus, la Seu Vella de Lleida, y la Capilla de Santa Àgata de Barcelona: 585,90 euros.
+
+> 5.2 Otros monumentos: 366,20 euros.
+
+> 6\. Montajes y desmontajes de exposiciones, de conciertos, de filmaciones y de otros:
+
+> 6.1 Por una hora, dentro del horario de visita pública del monumento: 25,70 euros.
+
+> 6.2 Por una hora, fuera del horario de visita pública del monumento: 44,05 euros."
+
+> Se deroga por el art. 26 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Téngase en cuenta que en tanto no se aprueben los importes de la tasa por utilización de monumentos por orden del consejero competente en materia de cultura, sigue vigente la tasa por la realización de sesiones fotográficas, filmaciones y similares, según se establece en la disposición transitoria 2.
+
+### CAPÍTULO II — Tasa por el examen de obras cinematográficas y otras obras audiovisuales, para calificarlas por grupos de edad
+
+> Se modifica por el art. 23 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 8.2-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa el examen de obras cinematográficas y otras obras audiovisuales, si este examen es impuesto por disposición legal o reglamentaria.
+
+> Se modifica por el art. 23 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 8.2-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los titulares de los derechos de explotación de las obras cinematográficas y otras obras audiovisuales presentadas a calificación.
+
+> Se modifica por el art. 23 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 8.2-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigido su pago en el momento en el que se presenta la obra cinematográfica o audiovisual que se debe visionar.
+
+> Se modifica por el art. 23 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 8.2-4. Cuota.
+
+La cuota de la tasa se fija en función de la duración de las obras cinematográficas o audiovisuales, de acuerdo con los siguientes tramos:
+
+– Por el examen de obras con una duración de entre 1 y 30 minutos: 10 euros.
+
+– Por el examen de obras con una duración de entre 31 y 60 minutos: 50 euros.
+
+– Por el examen de obras con una duración de entre 61 y 90 minutos: 80 euros.
+
+– Por el examen de obras con una duración de entre 91 y 120 minutos: 110 euros.
+
+– Por el examen de obras con una duración a partir de 121 minutos: 150 euros.
+
+> Se modifica por el art. 23 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 8.2-5. Afectación.
+
+De conformidad con lo establecido por el artículo 1.1.3, los ingresos derivados de la tasa quedan afectados a la financiación del coste del servicio prestado por el departamento competente en materia de cultura.
+
+> Se modifica por el art. 23 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO III — Tasa por la tramitación de solicitudes de autorización de las entidades de gestión colectiva de derechos de propiedad intelectual y por los servicios prestados por el Registro de la Propiedad Intelectual de Cataluña
+
+> Se modifica por el art. 40 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.3-1. Hecho imponible.
+
+1\. Constituyen el hecho imponible de la tasa la tramitación de solicitudes de autorización de las entidades de gestión colectiva de derechos de propiedad intelectual y la prestación de los servicios del Registro de la Propiedad Intelectual de Cataluña siguientes:
+
+a) La tramitación de los expedientes de solicitud de inscripción en el Registro de la Propiedad Intelectual de Cataluña de los derechos, los actos y los contratos sobre obras, actuaciones y producciones protegidas por la Ley de propiedad intelectual. Se incluye la primera inscripción, la transmisión de derechos posterior, la anotación preventiva, la cancelación, la modificación de datos, el desistimiento y el traslado de asiento y de expediente.
+
+b) La emisión de certificaciones y notas simples relativas al contenido de los asientos del Registro.
+
+c) La emisión de copias certificadas de obra.
+
+d) La autenticación de firmas.
+
+e) La calificación de documentos.
+
+f) La realización de copias compulsadas de documentos calificados.
+
+> Se modifica por el art. 40 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.3-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las entidades de gestión colectiva de derechos de propiedad intelectual que solicitan autorización, así como las personas físicas o jurídicas que solicitan los servicios del Registro de la Propiedad Intelectual de Cataluña que constituyen el hecho imponible.
+
+> Se modifica por el art. 40 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.3-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de la solicitud.
+
+> Se modifica por el art. 40 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.3-4. Cuota.
+
+La cuota de la tasa es:
+
+1\. Por la tramitación de solicitudes de autorización de las entidades de gestión colectiva de derechos de propiedad intelectual: 15 euros.
+
+2\. Por la tramitación de los expedientes de inscripción en el Registro de la Propiedad Intelectual de Cataluña:
+
+a) Por cada obra: 12 euros.
+
+b) Por cada título o unidad, a partir del segundo, de colecciones de obras: 3 euros.
+
+En caso de inscripción de modificación de datos, la cuota se aplica por cada matriz de inscripción.
+
+3\. Por la emisión de certificado de inscripción: 12 euros.
+
+4\. Por la emisión de nota simple: 4 euros.
+
+5\. Por la emisión de copia certificada de obra:
+
+a) Por la tramitación: 12 euros.
+
+b) Por soporte papel:
+
+– Por página en blanco y negro: 0,05 euros cada unidad.
+
+– Por página en color: 1,5 euros cada unidad.
+
+c) Por otros soportes: 3 euros cada unidad.
+
+6\. Por diligencia de autenticación de firma: 5 euros por cada firma.
+
+7\. Por la calificación de documento: 10 euros por documento.
+
+8\. Por la compulsa de documento calificado: 1 euro por página.
+
+> Se modifica por el art. 40 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.3-5. Afectación.
+
+La tasa tiene carácter finalista, por lo que los ingresos derivados de la misma quedan afectados a la financiación de las actuaciones del departamento competente en materia de cultura.
+
+> Se modifica por el art. 40 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO IV — Tasa por la realización, en las dependencias de la Biblioteca de Cataluña, de reportajes fotográficos y transmisiones y grabaciones sonoras o visuales
+
+#### Artículo 8.4-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la realización, en las dependencias de la Biblioteca de Cataluña, de reportajes fotográficos, grabaciones y transmisiones sonoros o visuales, por cualquier medio mecánico.
+
+#### Artículo 8.4-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, que solicitan las autorizaciones correspondientes.
+
+#### Artículo 8.4-3. Devengo.
+
+La tasa se devenga en el momento de obtener la autorización.
+
+#### Artículo 8.4-4. Cuota.
+
+El importe de la cuota es:
+
+1\. Reportajes fotográficos, por una hora: 109,95 euros.
+
+2\. Filmaciones, grabaciones y rodajes, por una hora: 109,95 euros.
+
+3\. Transmisiones y grabaciones exclusivamente sonoras, por una hora: 51,35 euros.
+
+### CAPÍTULO V — Tasa por la utilización de las cabinas de consulta de la Biblioteca de Cataluña
+
+#### Artículo 8.5-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la utilización de las cabinas de consulta de la Biblioteca de Cataluña.
+
+#### Artículo 8.5-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas que utilizan las cabinas de lectura.
+
+#### Artículo 8.5-3. Devengo.
+
+La tasa se devenga en el momento que se autoriza la utilización de las cabinas de lectura.
+
+#### Artículo 8.5-4. Cuota.
+
+La cuota de la tasa se fija en 18,40 euros por cada semana o fracción de utilización de una cabina de lectura.
+
+### CAPÍTULO VI — Tasa por las reproducciones de documentos de archivos
+
+> Se modifica por el art. 103.1 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 41.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.6-1. Hecho imponible.
+
+Constituyen el hecho imponible de la tasa la reproducción de documentos de los archivos siguientes y el uso comercial que se haga:
+
+a) Archivo Nacional de Cataluña.
+
+b) Archivos históricos provinciales.
+
+c) Archivos comarcales.
+
+d) Archivos de los museos adscritos al departamento competente en materia de cultura o a las entidades dependientes.
+
+e) Archivo del Centro de Restauración de Bienes Muebles de la Generalidad.
+
+f) Centro de documentación de la dirección general competente en materia de patrimonio etnológico y cultura popular.
+
+g) Biblioteca de Cataluña.
+
+> Se modifica por el art. 103.2 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 41.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.6-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan los servicios que constituyen el hecho imponible de la tasa.
+
+#### Artículo 8.6-3. Devengo.
+
+La tasa se devenga mediante la realización del hecho imponible, pero puede ser exigida en el momento de solicitar el servicio.
+
+#### Artículo 8.6-4. Cuota.
+
+El importe de la cuota corresponde a los siguientes conceptos:
+
+1\. Fotocopias en blanco y negro: 0,10 euros.
+
+2\. Impresiones de imágenes digitales.
+
+2.1 A 300 puntos por pulgada (ppp), en papel fotográfico digital, en blanco y negro o en color:
+
+Tamaño DIN A4: 9,90 euros.
+
+Tamaño DIN A3: 11,55 euros.
+
+2.2 A 150 puntos por pulgada (ppp) o 72 puntos por pulgada (ppp), en papel normal, en blanco y negro o en color:
+
+Tamaño DIN A4: 0,25 euros.
+
+Tamaño DIN A3: 0,65 euros.
+
+Tamaño DIN A2: 2,05 euros.
+
+Tamaño DIN A1: 4 euros.
+
+Tamaño DIN A0: 6,55 euros.
+
+3\. Digitalización.
+
+3.1 Digitalización en blanco y negro o en color enviada por Internet.
+
+1 imagen a 300 ppp: 2 euros.
+
+3.2 Digitalización en blanco y negro o color enviada por Internet.
+
+1 imagen a 150 o 72 ppp (JPEG o PDF): 0,15 euros.
+
+4\. Reproducciones de documentos audiovisuales enviadas por Internet.
+
+Por un minuto seleccionado: 2,35 euros.
+
+Duplicación, por cada 30 minutos: 14,60 euros.
+
+5\. Reproducciones de grabaciones sonoras enviadas por Internet.
+
+Por un minuto seleccionado: 1,10 euros.
+
+Duplicación, por cada 30 minutos: 8,80 euros.
+
+6\. Tarifas para usos comerciales de las reproducciones:
+
+En caso de que el usuario o la usuaria destine las reproducciones de documentos a un uso comercial, debe pagar al archivo correspondiente, además de las tarifas de reproducción, las establecidas en este apartado, si es titular de los derechos de explotación. Si el contrato de cesión de derechos de explotación al archivo correspondiente establece alguna remuneración para el autor o la autora del documento, el usuario o la usuaria debe satisfacer esta remuneración directamente al autor o la autora.
+
+6.1. Fotografía, documentación textual y documentación gráfica.
+
+Uso editorial y exposiciones: 30 euros.
+
+Páginas web: 30 euros.
+
+Producciones audiovisuales: 45 euros.
+
+Uso publicitario: 150 euros.
+
+6.2 Imagen móvil, audiovisual.
+
+Uso editorial y exposiciones: 60 euros/minuto.
+
+Páginas web: 60 euros/minuto.
+
+Producciones audiovisuales: 75 euros/minuto.
+
+Uso publicitario: 150 euros/minuto.
+
+6.3 Sonido.
+
+Uso editorial y exposiciones: 30 euros/minuto.
+
+Páginas web: 30 euros/minuto.
+
+Producciones audiovisuales: 45 euros/minuto.
+
+Uso publicitario: 75 euros/minuto.
+
+A las entidades sin ánimo de lucro se les aplicará un descuento del 25 % en las tasas para usos comerciales.
+
+7\. Gastos por envío de material.
+
+A petición del usuario o la usuaria, se envían las reproducciones por correo con acuse de recibo. En este supuesto, el usuario o la usuaria debe abonar los gastos de envío de acuerdo con las tarifas postales vigentes.
+
+> Se modifica por el art. 39 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifican los apartados 1 y 4 por el art. 103.3 y 4 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 4 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 8.6-5. Afectación.
+
+La tasa tiene carácter finalista, por lo que los ingresos que se derivan de la misma quedan afectados a la financiación de las actuaciones del departamento competente en materia de cultura.
+
+> Se añade por el art. 41.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO VII — Tasa por la utilización de espacios en inmuebles adscritos al departamento competente en materia de cultura o a las entidades dependientes
+
+#### Artículo 8.7-1. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la utilización de espacios en inmuebles, incluidos los monumentos, adscritos al departamento competente en materia de cultura o a las entidades que dependen del mismo.
+
+2\. El hecho imponible incluye la realización de sesiones fotográficas, filmaciones, grabaciones de conciertos y similares en los inmuebles a los que se refiere el apartado 1. No forma parte del hecho imponible la utilización comercial o de otro tipo de las fotografías o las filmaciones de los inmuebles, que debe regirse por la normativa específica.
+
+> Se modifica por el art. 27 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 8.7-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan las utilizaciones que constituyen el hecho imponible de la tasa.
+
+#### Artículo 8.7-3. Devengo.
+
+La tasa se devenga en el momento que se autoriza la utilización del espacio correspondiente, pero el pago de la cuota se puede diferir al momento de la utilización efectiva.
+
+#### Artículo 8.7-4. Cuota.
+
+1\. El importe de la tasa tiene que resultar de la aplicación de los elementos y los criterios siguientes:
+
+a) La relevancia cultural o social del espacio y la conexión del acto o la actividad con las finalidades propias de la institución de que depende el espacio.
+
+b) La incidencia en la difusión pública de los valores culturales y sociales de la institución.
+
+c) El predominio de las finalidades culturales y sociales o comerciales del acto o la actividad que se tiene que llevar a cabo.
+
+d) La duración, en horas por día, de la utilización del espacio.
+
+2\. El establecimiento y la modificación de las cuantías de la tasa se efectúan mediante orden del consejero o consejera competente en materia de cultura, de acuerdo con el procedimiento establecido por la Ley 13/1989, del 14 de diciembre, de organización, procedimiento y régimen jurídico de la Administración de la Generalidad de Cataluña, y con el informe previo favorable de la Intervención Delegada. En el expediente de elaboración de la orden tiene que constar una memoria económica, en la cual se tiene que justificar que las cuantías propuestas resultan de la aplicación de los criterios establecidos por el apartado 1 y que cumplen el principio de equivalencia en que se refiere el artículo 1.2-8. El incumplimiento de este requisito comporta la nulidad de pleno derecho de la disposición.
+
+### CAPÍTULO VIII — Tasa por el servicio de guarda de vehículos del monasterio de Sant Pere de Rodes
+
+> Se deroga por la disposición derogatoria 1.c) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 6 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículos 8.8-1 a 8.8-4.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria 1.c) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 6 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+### CAPÍTULO IX — Tasa por la tramitación de solicitudes de declaración de asociaciones y fundaciones de interés cultural
+
+> Se añade por el art. 42 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.9-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de los expedientes de declaración de asociaciones y fundaciones de interés cultural, independientemente del sentido de la resolución del procedimiento.
+
+> Se añade por el art. 42 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.9-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las asociaciones y fundaciones que presentan solicitudes para que la entidad sea declarada de interés cultural.
+
+> Se añade por el art. 42 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.9-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de la presentación de la solicitud.
+
+> Se añade por el art. 42 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.9-4. Cuota.
+
+El importe de la cuota es de 30 euros.
+
+> Se añade por el art. 42 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.9-5. Afectación.
+
+La tasa tiene carácter finalista, por lo que los ingresos que se derivan de la misma quedan afectados a la financiación de las actuaciones del departamento competente en materia de cultura.
+
+> Se añade por el art. 42 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO X — Tasa por la tramitación de solicitudes de autorización de intervenciones arqueológicas y paleontológicas preventivas o integradas en un proyecto de investigación
+
+> Se añade por el art. 43 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.10-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de las solicitudes de autorización para llevar a cabo intervenciones arqueológicas o paleontológicas preventivas o integradas en un proyecto de investigación.
+
+> Se añade por el art. 43 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.10-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan autorización para llevar a cabo intervenciones arqueológicas o paleontológicas preventivas o integradas en un proyecto de investigación.
+
+> Se añade por el art. 43 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.10-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de la presentación de la solicitud.
+
+> Se añade por el art. 43 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.10-4. Cuota.
+
+El importe de la cuota es de 20,00 euros.
+
+> Se añade por el art. 43 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.10-5. Afectación.
+
+La tasa tiene carácter finalista, por lo que los ingresos que se derivan de la misma quedan afectados a la financiación de las actuaciones del departamento competente en materia de cultura.
+
+> Se añade por el art. 43 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XI — Tasa por la emisión de informes facultativos de las comisiones territoriales del patrimonio cultural
+
+> Se añade por el art. 44 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.11-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la emisión de informes facultativos de las comisiones territoriales del patrimonio cultural como consecuencia de solicitudes de informe o consultas que las administraciones públicas les formulen en relación con el patrimonio arquitectónico, arqueológico y paleontológico, de acuerdo con el artículo 2.1.k) del Decreto 276/2005, de 27 de diciembre, de las comisiones territoriales del patrimonio cultural.
+
+> Se añade por el art. 44 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.11-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las administraciones públicas que solicitan los informes facultativos o realizan las consultas a las comisiones territoriales del patrimonio cultural.
+
+> Se añade por el art. 44 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.11-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de entregar el informe.
+
+> Se añade por el art. 44 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.11-4. Cuota.
+
+La cuota de la tasa es:
+
+a) Si no hay que tomar datos de campo: 100 euros.
+
+b) Si hay que tomar datos de campo: 200 euros. En el caso de que haya que desplazarse más de un día para tomar datos, la cuota se incrementa en 100 euros por día.
+
+> Se añade por el art. 44 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 8.11-5. Afectación.
+
+La tasa tiene carácter finalista, por lo que los ingresos que se derivan de la misma quedan afectados a la financiación de las actuaciones del departamento competente en materia de cultura.
+
+> Se añade por el art. 44 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XII — Tasa por la utilización de espacios en inmuebles de dominio público adscritos al Departamento de la Presidencia o a las entidades adscritas a este departamento
+
+> Se modifica por el art. 3 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 40 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 8.12-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la utilización privativa de espacios en inmuebles de dominio público adscritos al Departamento de la Presidencia o a las entidades adscritas a este departamento por la realización de reportajes fotográficos, filmaciones, grabaciones sonoras, ferias, congresos, actos protocolarios, desfiles de moda, reuniones, cursos, seminarios, coloquios, conferencias, presentaciones y otros usos similares.
+
+> Se modifica por el art. 3 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 40 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 8.12-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas, las personas jurídicas, las comunidades de bienes y otras entidades que, sin tener personalidad jurídica, constituyan una unidad económica o un patrimonio separado, que sean titulares de autorizaciones de uso de espacios en inmuebles de dominio público adscritos al Departamento de la Presidencia o a las entidades adscritas de dominio público, independientemente de la posterior utilización de estos espacios, en los términos establecidos por el artículo 8.12-1.
+
+> Se modifica por el art. 3 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 40 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 8.12-3. Exenciones.
+
+Quedan exentos del pago de la tasa los departamentos de la Administración de la Generalidad y los entes que integran la Administración local de Cataluña, así como los organismos autónomos administrativos y las fundaciones del sector público de cada una de estas administraciones públicas.
+
+> Se modifica por el art. 3 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 40 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 8.12-4. Acreditación.
+
+La tasa se acredita cuando se autoriza la utilización privativa de espacios en inmuebles de dominio público adscritos al Departamento de la Presidencia o a las entidades adscritas a este departamento en los términos establecidos por el artículo 8.12-1.
+
+> Se modifica por el art. 3 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 40 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 8.12-5. Cuota.
+
+1\. El importe de la tasa debe resultar de la aplicación de los siguientes elementos y criterios:
+
+a) La relevancia social del espacio y la conexión del acto o de la actividad con las atribuciones propias del Departamento de la Presidencia o de las entidades adscritas a este departamento.
+
+b) La incidencia en la difusión pública de los valores vinculados a las atribuciones propias del Departamento de la Presidencia o de las entidades adscritas.
+
+c) El predominio de los fines sociales o comerciales del acto o la actividad que se debe llevar a cabo.
+
+d) La duración, en horas por día, de la utilización del espacio.
+
+e) La dimensión del acto o actividad.
+
+2\. La identificación de los espacios susceptibles de utilización privativa en los inmuebles de dominio público adscritos al Departamento de la Presidencia o a las entidades adscritas, y el establecimiento y la modificación de las cuantías de la cuota se efectúan mediante orden del consejero o consejera de la Presidencia, de acuerdo con el procedimiento establecido en la normativa reguladora de la elaboración de disposiciones reglamentarias, y previo informe favorable de la Intervención Delegada. En la documentación que acompaña al expediente debe justificarse que las cuantías propuestas resultan de la aplicación de los criterios establecidos por el apartado 1 y que cumplen el principio de equivalencia al que se refiere el artículo 1.2-8.
+
+> Se modifica por el art. 3 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 40 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 8.12-6. Bonificaciones.
+
+1\. Gozan de una bonificación del 50 % de la cuota resultante las entidades autónomas comerciales, industriales o financieras, las entidades de derecho público sometidas al derecho privado, las entidades de derecho público de naturaleza singular, los consorcios y las sociedades mercantiles del sector público de la Administración de la Generalidad y de la Administración local de Cataluña.
+
+2\. Gozan de una bonificación del 20 % de la cuota resultante las entidades privadas sin ánimo de lucro, siempre que no perciban ningún ingreso como consecuencia de la utilización privativa de los espacios de los inmuebles adscritos al Departamento de la Presidencia o a las entidades adscritas a este departamento en los términos establecidos por el artículo 8.12-1.
+
+> Se modifica por el art. 3 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 40 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+## TÍTULO IX — Educación
+
+### CAPÍTULO I — Tasa por la expedición de títulos académicos y profesionales
+
+#### Artículo 9.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la expedición de títulos académicos y profesionales correspondientes a enseñanzas reguladas por la Ley orgánica 2/2006, de 6 de mayo, salvo los que corresponden a las enseñanzas obligatorias, cuya expedición es gratuita.
+
+#### Artículo 9.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los que solicitan los servicios a que se refiere el artículo 9.1-1.
+
+#### Artículo 9.1-3. Exenciones y bonificaciones.
+
+Son aplicables a los alumnos miembros de familias numerosas y monoparentales las exenciones y las bonificaciones establecidas por la legislación vigente relativa a la protección de estas familias.
+
+> Se modifica por el art. 18.2 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 9.1-4. Devengo.
+
+La tasa se devenga mediante la realización del hecho imponible, pero puede ser exigida en el momento de solicitar el servicio.
+
+#### Artículo 9.1-5. Cuota.
+
+El importe de la cuota por la expedición de títulos académicos y profesionales es:
+
+1\. Bachillerato: título de bachillerato: 49,55 euros.
+
+2\. Formación profesional específica:
+
+2.1 Título de técnico o técnica: 49,55 euros.
+
+2.2 Título de técnico o técnica superior: 55,50 euros.
+
+3\. Enseñanzas de régimen especial:
+
+3.1 Enseñanzas de música y danza:
+
+3.1.1 Título profesional: 49,55 euros.
+
+3.1.2 Título superior: 110,85 euros.
+
+3.2 Enseñanzas de arte dramático:
+
+3.2.1 Título superior de arte dramático: 110,85 euros.
+
+3.3 Enseñanzas de artes plásticas y diseño:
+
+3.3.1 Título de técnico o técnica: 49,55 euros.
+
+3.3.2 Título de técnico o técnica superior: 55,50 euros.
+
+3.3.3 Título de conservación y restauración de bienes culturales: 55,50 euros.
+
+3.3.4 Título de diseño: 55,50 euros.
+
+3.3.5 Título superior del vidrio: 55,50 euros.
+
+3.3.6 Título superior de cerámica: 55,50 euros.
+
+3.4. Enseñanza de idiomas:
+
+3.4.1. Certificado avanzado de idiomas: 57,25 euros.
+
+3.4.2. Enseñanza de idiomas, certificado de los cursos de actualización y especialización referidos a los niveles C1 y C2 del Consejo de Europa: 57,25 euros.
+
+3.5 Enseñanzas de deporte:
+
+3.5.1 Título de técnico o técnica de deporte: 49,55 euros.
+
+3.5.2 Título de técnico o técnica superior de deporte: 55,50 euros.
+
+3.6. Título de graduado o graduada, máster en enseñanzas artísticas: 150,00 euros.
+
+3.7 Títulos de las enseñanzas artísticas superiores adaptadas al Espacio Europeo de Educación Superior y equivalentes a grado universitario: 143,65 euros.
+
+4\. Reexpedición (expedición de duplicados): 15,15 euros.
+
+> Se modifica el apartado 3.7 por el art. 28 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se añade el apartado 3.7 y se modifica el 4 por el art. 45 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica el apartado 3.4 y se añade el 3.6 por el art. 5.1 y 2 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+> Se modifica el apartado 3.4 por el art. 10 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+### CAPÍTULO II — Tasa por la prestación de los servicios docentes de las escuelas oficiales de idiomas y por la inscripción en las pruebas libres para la obtención de los certificados oficiales
+
+> Se modifica por el art. 6.1 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 9.2-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios docentes de las escuelas oficiales de idiomas en el caso de las matrículas oficiales o la inscripción en las pruebas libres para la obtención de alguno de los certificados oficiales.
+
+> Se modifica por el art. 6.2 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 9.2-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa el beneficiario o beneficiaria de la prestación de los servicios docentes de las escuelas oficiales de idiomas o los inscritos en las pruebas libres para la obtención de alguno de los certificados oficiales a la que se refiere el artículo 9.2-1.
+
+> Se modifica por el art. 6.3 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 9.2-3. Exenciones y bonificaciones.
+
+1\. Son aplicables a los alumnos que usan este servicio las bonificaciones y exenciones establecidas por los apartados 2 y 3, previa justificación documental de la situación que da derecho a las mismas.
+
+2\. Bonificaciones.
+
+Tienen una bonificación del 50% de la tasa los miembros de familias numerosas clasificadas en la categoría general y los miembros de familias monoparentales.
+
+3\. Exenciones.
+
+Disfrutan de exención en el pago de la tasa de los servicios docentes de las escuelas oficiales de idiomas:
+
+a) Los miembros de familias numerosas clasificadas en la categoría especial.
+
+b) Las personas que tienen una discapacidad acreditada igual o superior al 33%.
+
+c) Las personas sujetas a medidas privativas de libertad.
+
+d) Las víctimas de actos terroristas, sus cónyuges y sus hijos.
+
+e) Los miembros de unidades familiares que perciben la renta mínima de inserción o la renta activa de inserción.
+
+f) Las víctimas de violencia de género.
+
+g) Los alumnos que tengan concedida una beca para estudios de idiomas por parte de la Administración pública competente en la materia. Si un alumno se matricula de dos o más idiomas, la exención solo abarca el idioma para el que se ha concedido la beca. La exención solo se concederá para el mismo curso académico para el que se ha concedido la beca.
+
+Al efecto de formalización de la matrícula oficial, el alumno debe abonar la tasa si aún no tiene concedida la beca. Una vez se le notifique la concesión de la beca, podrá solicitar la devolución del importe de la tasa mediante el procedimiento de devolución de ingresos indebidos.
+
+h) **(Derogada).**
+
+i) Los alumnos que en el curso académico inmediatamente anterior han obtenido matrícula de honor en el bachillerato o el premio extraordinario de bachillerato. En este caso, están exentos de la tasa correspondiente a la primera matrícula.
+
+j) Las personas menores tuteladas o personas extuteladas menores de 21 años de edad. La condición de persona tutelada o extutelada se acredita mediante el certificado emitido por la Dirección General de Atención a la Infancia y la Adolescencia o el órgano equivalente de otras comunidades autónomas.
+
+> Se derogan la letra h), el último párrafo y se modifica la letra g) del apartado 3, por el art. 41 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 104 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica el apartado 1 por el art. 18.3 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica el apartado 2 por el art. 6.4 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 9.2-4. Acreditación.
+
+La tasa se acredita mediante la realización del hecho imponible, pero puede ser exigida en el momento de solicitar el servicio o la inscripción.
+
+> Se modifica por el art. 6.5 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 9.2-5. Cuota.
+
+El importe de la cuota es:
+
+1\. Matrícula y servicios para alumnos oficiales de los niveles intermedio y avanzado, por curso: 275,00 euros.
+
+2\. Matrícula y servicios para alumnos oficiales de los niveles intermedio y avanzado, si el curso se ofrece en dos bloques horarios cuatrimestrales, por cada bloque: 137,50 euros.
+
+2 bis. Matrícula y servicios para alumnos oficiales de los niveles intermedio y avanzado en la modalidad no presencial, por cada módulo: 137,50 euros.
+
+3\. Matrícula y derechos de examen del certificado del nivel intermedio para alumnos libres: 69,00 euros.
+
+4\. Matrícula y derechos de examen del certificado del nivel avanzado para alumnos libres: 85,00 euros.
+
+5\. El importe de la matrícula y servicios para alumnos oficiales de los niveles intermedio y avanzado, cuando se realiza la matrícula por segunda vez en el mismo curso, bloque o módulo del mismo idioma, es el resultado de aplicar el coeficiente de 1,3 a la cuota prevista.
+
+6\. El importe de la matrícula y servicios para alumnos oficiales de los niveles intermedio y avanzado, cuando se realiza la matrícula por tercera vez en el mismo curso, bloque o módulo del mismo idioma, es el resultado de aplicar el coeficiente de 1,8 a la cuota prevista.
+
+> Téngase en cuenta, en cuanto a la aplicación de los coeficientes por matrícula por segunda y tercera vez, lo establecido en la disposición transitoria 1 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifican los apartados 1, 2, 5, 6 y se añade el apartado 2. bis por el art. 29 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Téngase en cuenta, en cuanto a la aplicación de los coeficientes por matrícula por segunda y tercera vez, lo establecido en la disposición transitoria 1.
+
+> Se modifica por el art. 46 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Téngase en cuenta, en cuanto a la aplicación de los coeficientes por matrícula por segunda y tercera vez, lo establecido en la disposición transitoria 1 de la Ley 3/2015, de 11 de marzo.
+
+> Se modifican los apartado 2 y 3 y se añade el 4 por el art. 11 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+### CAPÍTULO III — Tasa por la prestación de los servicios docentes de la Escuela Superior de Conservación y Restauración de Bienes Culturales de Cataluña
+
+> Se deroga por el art. 42 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículos 9.3-1 a 9.3-6.
+
+**(Derogados).**
+
+> Se derogan por el art. 42 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO IV — Tasa por la inscripción en la prueba de acceso a los ciclos formativos de grado medio y en la prueba de acceso a los ciclos formativos de grado superior de formación profesional específica y de las enseñanzas de artes plásticas y de diseño, por la inscripción en la prueba de acceso de carácter general a las enseñanzas de régimen especial de técnico o técnica de deporte y técnico o técnica superior de deporte y a las formaciones deportivas de nivel 1 y de nivel 3, y la inscripción en la prueba para alumnos que no tienen el requisito académico para acceder a las enseñanzas artísticas superiores
+
+> Se modifica por el art. 47.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 9.4-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la inscripción en la prueba de acceso a los ciclos formativos de grado medio y en la prueba de acceso a los ciclos formativos de grado superior de formación profesional específica y de las enseñanzas de artes plásticas y de diseño, la inscripción en la prueba de acceso de carácter general a las enseñanzas de régimen especial de técnico o técnica de deporte y técnico o técnica superior de deporte y a las formaciones deportivas de nivel 1 y de nivel 3, y la inscripción en la prueba para alumnos que no tienen el requisito académico para acceder a las enseñanzas artísticas superiores.
+
+> Se modifica por el art. 47.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 9.4-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas que se inscriben en las pruebas.
+
+#### Artículo 9.4-3. Exenciones y bonificaciones.
+
+1\. Son aplicables a los miembros de familias numerosas y monoparentales las exenciones y las bonificaciones establecidas por la legislación vigente relativa a la protección de estas familias.
+
+2\. Están exentos de pagar la tasa exigida, previa justificación documental de su situación, los miembros de unidades familiares que perciban la renta mínima de inserción.
+
+3\. Están exentas de pagar la tasa exigida, previa justificación documental de su situación, las personas sujetas a medidas privativas de libertad.
+
+4\. Están exentas de pagar la tasa exigida, previa justificación documental de su situación, las personas menores tuteladas o personas extuteladas menores de 21 años de edad. La condición de persona tutelada o extutelada se acredita mediante el certificado emitido por la Dirección General de Atención a la Infancia y la Adolescencia o el órgano equivalente de otras comunidades autónomas.
+
+> Se modifica por el art. 105 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica el apartado 1 por el art. 18.5 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 9.4-4. Devengo.
+
+La tasa se devenga mediante la prestación del servicio y se exige en el momento de la inscripción.
+
+#### Artículo 9.4-5. Cuota.
+
+El importe de la cuota es:
+
+1\. Prueba de acceso a los ciclos formativos de grado medio de formación profesional específica: 17,65 euros.
+
+2\. Prueba de acceso a los ciclos formativos de grado medio de las enseñanzas de artes plásticas y diseño: 17,65 euros.
+
+3\. Prueba de acceso de carácter general a las enseñanzas de régimen especial de técnico o técnica de deporte y a las formaciones deportivas de nivel 1: 17,65 euros.
+
+4\. Prueba de acceso a los ciclos formativos de grado superior de formación profesional específica: 28,40 euros.
+
+5\. Prueba de acceso a los ciclos formativos de grado superior de las enseñanzas de artes plásticas y diseño: 28,40 euros.
+
+6\. Prueba de acceso de carácter general a las enseñanzas de régimen especial de técnico o técnica superior de deporte y a las formaciones deportivas de nivel 3: 28,40 euros.
+
+7\. Prueba para alumnos que no tienen el requisito académico para acceder a las enseñanzas artísticas superiores: 33,75 euros.
+
+> Se añade el apartado 7 por el art. 47.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO V — Tasa por la inscripción en las pruebas para la obtención de determinados títulos
+
+#### Artículo 9.5-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la inscripción en las pruebas siguientes:
+
+a) Pruebas para la obtención del título de bachiller.
+
+b) Pruebas para la obtención del título de técnico o técnica y de técnico o técnica superior de los ciclos formativos de las enseñanzas de artes plásticas y diseño.
+
+c) Prueba para la obtención directa de los títulos de técnico o técnica y de técnico o técnica superior de formación profesional.
+
+#### Artículo 9.5-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas que se inscriben en las pruebas correspondientes.
+
+#### Artículo 9.5-3. Exenciones y bonificaciones.
+
+1\. Son aplicables a los miembros de familias numerosas y monoparentales las exenciones y las bonificaciones establecidas por la legislación vigente relativa a la protección de estas familias.
+
+2\. Están exentos de pagar la tasa exigida, con la justificación documental previa de su situación, los sujetos pasivos que estén en situación de incapacidad permanente total o absoluta.
+
+3\. Están exentos de pagar la tasa exigida, con la justificación documental previa de su situación, las personas sujetas a medidas privativas de libertad.
+
+> Se modifica el apartado 1 por el art. 18.6 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 9.5-4. Devengo.
+
+La tasa se devenga mediante la prestación del servicio y se exige en el momento de la inscripción.
+
+#### Artículo 9.5-5. Cuota.
+
+El importe de la cuota es:
+
+1\. En la inscripción en las pruebas para la obtención del título de bachiller:
+
+1.1 Inscripción en las pruebas, de todas las materias, para la obtención del título de bachiller: 82,05 euros.
+
+1.2 Inscripción en las pruebas, por materias, para la obtención del título de bachiller por cada materia: 7,10 euros.
+
+2\. En la inscripción para la obtención del título de técnico o técnica y de técnico o técnica superior de los ciclos formativos de las enseñanzas de artes plásticas y diseño:
+
+2.1 Inscripción en las pruebas, de todos los módulos, para la obtención del título de técnico o técnica: 58,60 euros.
+
+2.2 Inscripción en las pruebas, por módulos sueltos, para la obtención del título de técnico o técnica, por cada módulo: 8,40 euros.
+
+2.3 Inscripción en las pruebas, de la totalidad de los módulos, para la obtención del título de técnico o técnica superior: 82,05 euros.
+
+2.4 Inscripción en las pruebas, por módulos sueltos, para la obtención del título de técnico o técnica superior, por cada módulo: 11,85 euros.
+
+3\. En la inscripción en la prueba para la obtención directa de los títulos de técnico o técnica y de técnico o técnica superior de formación profesional:
+
+3.1 Inscripción en la prueba para la obtención directa del título de técnico o técnica de formación profesional: 90,00 euros.
+
+3.2 Inscripción en la prueba para la obtención directa del título de técnico o técnica superior de formación profesional: 125,00 euros.
+
+3.3 Inscripción en la prueba para la obtención directa del título de técnico o técnica de formación profesional, por crédito: 13,00 euros.
+
+3.4 Inscripción en la prueba para la obtención directa del título de técnico o técnica superior de formación profesional, por crédito: 18,00 euros.
+
+3.5 Inscripción en la prueba para la obtención directa del título de técnico o técnica de formación profesional, por unidad formativa: 3,00 euros.
+
+3.6 Inscripción en la prueba para la obtención directa del título de técnico o técnica superior de formación profesional, por unidad formativa: 4,00 euros.
+
+> Se modifica el apartado 3 por el art. 48 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añaden los apartado 3.5 y 3.6 por el art. 24 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO VI — Tasa por la inscripción en las pruebas para la acreditación de las unidades de competencia
+
+> Se deroga por el art. 106 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículos 9.6-1 a 9.6-5.
+
+**(Derogados).**
+
+> Se derogan por el art. 106 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+### CAPÍTULO VII — Tasa por la homologación y convalidación de títulos y estudios extranjeros en enseñanzas no universitarias
+
+> Se modifica por el art. 12 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 9.7-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la incoación de un expediente de homologación de títulos o estudios extranjeros no universitarios.
+
+> Se modifica por el art. 12 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 9.7-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas que solicitan la homologación o la convalidación de los títulos o estudios extranjeros.
+
+> Se añade por el art. 12 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 9.7-3. Exenciones y bonificaciones.
+
+Son aplicables a los miembros de familias numerosas y monoparentales las exenciones y las bonificaciones establecidas por la legislación vigente relativa a la protección de estas familias.
+
+> Se modifica por el art. 18.8 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se añade por el art. 12 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 9.7-4. Devengo.
+
+La tasa se devenga en el momento de la presentación de la solicitud de homologación o convalidación. El justificante de pago de la tasa es un requisito necesario para la tramitación del expediente.
+
+> Se añade por el art. 12 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 9.7-5. Cuota.
+
+1\. Las cuotas de la tasa son las siguientes:
+
+1.1 Solicitud de homologación a un título o certificado español o solicitud de expedición de duplicado de credencial de homologación o convalidación: las cuotas son las mismas que por la expedición del correspondiente título o certificado o por la expedición de duplicados de título, establecidas por el artículo 9.1-5.
+
+1.2 Solicitud de convalidación por cursos o módulos de enseñanzas de nivel no universitario: 25,55 euros.
+
+2\. No se acredita la tasa por la solicitud de homologación al título de graduado o graduada en educación secundaria.
+
+> Se modifica el apartado 1.1 por el art. 30 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 7 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+> Se añade por el art. 12 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+### CAPÍTULO VIII — Tasa por la matriculación en enseñanzas de idiomas en la modalidad a distancia
+
+> Se deroga por el art. 31 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 8 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+> Se añade por el art. 12 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+> Su anterior numeración era Capítulo VII.
+
+#### Arts. 9.8-1 a 9.8-5.
+
+**(Derogados).**
+
+> Se derogan por el art. 31 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+### CAPÍTULO IX — Tasa por la prestación de los servicios docentes de la Escuela Superior de Conservación y Restauración de Bienes Culturales de Cataluña en las enseñanzas de grado y de máster adaptadas al Espacio Europeo de la Educación Superior
+
+> Se deroga por el art. 43 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 9 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículos 9.9-1 a 9.9-5.
+
+**(Derogados).**
+
+> Se derogan por el art. 43 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO X — Disposición aplicable con carácter general a todas las tasas del título IX
+
+> Se añade por el art. 8 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+> Su anterior numeración era Capítulo VIII
+
+#### Artículo 9.10-1. Exención.
+
+1\. Previa justificación documental de su situación, disfrutan de exención en el pago de las tasas contenidas en el título IX de la presente ley las personas que acrediten una discapacidad igual o superior al 33 %.
+
+2\. Previa justificación documental de su situación, gozan de exención en el pago de las tasas contenidas en el título IX de la presente ley los niños o adolescentes en acogimiento familiar.
+
+> Se añade el párrafo 2 por el art. 107 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 8 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+> Su anterior numeración era Art. 9.8-1.
+
+## TÍTULO X — Entidades jurídicas y mediación familiar
+
+### CAPÍTULO I — Tasas por los servicios prestados por la Dirección General de Derecho y de Entidades Jurídicas
+
+#### Artículo 10.1-1. Hecho imponible.
+
+Constituyen los hechos imponibles de las tasas los servicios prestados por la Dirección General de Derecho y de Entidades Jurídicas incluidos en el artículo 10.1-4.
+
+#### Artículo 10.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de las tasas las personas físicas o jurídicas que solicitan los servicios señalados por el artículo 10.1-4.
+
+#### Artículo 10.1-3. Devengo.
+
+Las tasas se devengan en el momento de la prestación del servicio. La justificación del pago se exige en el momento de la presentación de la solicitud.
+
+#### Artículo 10.1-4. Cuota.
+
+Las cuotas de las tasas son:
+
+1\. Fundaciones:
+
+Inscripción de fundaciones: 98,30 euros.
+
+Modificación de estatutos: 50 euros.
+
+Modificación del patronato: 28 euros.
+
+Delegaciones de facultades: 54,60 euros.
+
+Inscripción de fondos especiales: 54,60 euros.
+
+Modificación de fondos especiales: 54,60 euros.
+
+Fusión y escisión: 82 euros.
+
+Inscripción de las delegaciones de fundaciones que actúan en Cataluña reguladas por otras leyes de fundaciones diferentes del libro tercero del Código civil de Cataluña, relativo a las personas jurídicas, aprobado por la Ley 4/2008, de 24 de abril: 81,90 euros.
+
+Autorización de actos con contenido económico: 109,20 euros.
+
+Entrega de fotocopias de las cuentas anuales: 16,40 euros por ejercicio.
+
+Revisión de cuentas anuales: 77 euros.
+
+Emisión de certificados, notas simples y copias certificadas: 11 euros.
+
+Emisión de listados: 10,95 euros.
+
+Declaración responsable: 41 euros.
+
+2\. Asociaciones y federaciones:
+
+Inscripción de asociaciones o federaciones: 60,10 euros.
+
+Instrucción del expediente de declaración de utilidad pública: 98,30 euros.
+
+Modificación de estatutos: 32,80 euros.
+
+Entrega de fotocopias de las cuentas anuales: 16,40 euros por ejercicio.
+
+Emisión de certificados, notas simples y copias certificadas: 11 euros.
+
+Revisión de cuentas de las asociaciones declaradas de utilidad pública: 77 euros.
+
+Emisión de listados: 10,95 euros.
+
+Inscripción de delegación de asociación extranjera: 54,60 euros.
+
+Transformación de una asociación en fundación: 55 euros.
+
+3\. Colegios profesionales y consejos de colegios.
+
+Inscripción de órganos de gobierno: 21,85 euros.
+
+Emisión de certificados, notas simples y copias certificadas: 11 euros.
+
+Emisión de listados: 10,95 euros.
+
+Declaración de adecuación a la legalidad de los estatutos de los colegios profesionales y consejos de colegios de nueva creación: 196,60 euros.
+
+Declaración de adecuación a la legalidad de la modificación global de los estatutos de los colegios profesionales y consejos de colegios: 196,60 euros.
+
+Declaración de adecuación a la legalidad de la modificación parcial de los estatutos de colegios profesionales y consejos de colegios: 142 euros.
+
+Declaración de adecuación a la legalidad de los reglamentos de colegios y consejos de colegios: 196,60 euros.
+
+Declaración de adecuación a la legalidad de la modificación global de los reglamentos de colegios y consejos de colegios: 196,60 euros.
+
+Declaración de adecuación a la legalidad de la modificación parcial de los reglamentos de colegios y consejos de colegios: 142 euros.
+
+Delegación de funciones y apoderamientos: 54,60 euros.
+
+Apertura y cierre de delegaciones territoriales: 98,30 euros.
+
+Fusión y escisión: 142 euros.
+
+4\. Academias.
+
+Inscripción de órganos de gobierno: 21,85 euros.
+
+Emisión de certificados, notas simples y copias certificadas: 11 euros.
+
+Emisión de listados: 10,95 euros.
+
+Declaración de adecuación a la legalidad de los estatutos y sus modificaciones: 142 euros.
+
+5\. Mediación en el ámbito del derecho privado.
+
+Homologación de cursos de mediadores: 98,30 euros.
+
+Renovación de la homologación: 54,60 euros.
+
+6\. Parejas estables.
+
+Inscripción de la existencia, modificación y extinción: 30 euros.
+
+Emisión de certificaciones: 11 euros.
+
+> Téngase en cuenta que las tasas por la inscripción de la existencia, modificación y extinción de las parejas estables y por la emisión de certificaciones del Registro de parejas estables de Cataluña no serán exigibles hasta que se hayan adoptado las soluciones tecnológicas que correspondan para la liquidación de la tasa y se haya publicado en el «Diari Oficial de la Generalitat de Catalunya» la resolución del titular del departamento competente en materia de justicia que informe sobre el medio telemático de pago y fije la fecha a partir de la cual se exigirá la tasa, según se establece en el primer párrafo del art. 44 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569), redactado conforme a la corrección de erratas publicada en el DOGC núm. 8135, de 18 de mayo de 2020. [Ref. BOE-A-2020-5901](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5901)
+
+> Se modifica por el art. 44 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Redactado el apartado 3 conforme a la corrección de erratas publicada en el DOGC núm. 8135, de 18 de mayo de 2020. [Ref. BOE-A-2020-5901](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5901)
+
+> Se modifica por el art. 49 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifican los apartados 1, 2 y 3 por el art. 7 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 10.1-5. Bonificaciones.
+
+**(Derogado).**
+
+> Se deroga por el art. 108 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+## TÍTULO XI — Deporte
+
+### CAPÍTULO I — Tasa por los servicios prestados por el Consejo Catalán del Deporte
+
+> Se añade por el art. 50 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se deroga por la disposición derogatoria.1.c) de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 11.1-1. Hecho imponible.
+
+Constituyen los hechos imponibles de la tasa los servicios prestados por el Consejo Catalán del Deporte incluidos en el artículo 11.1-4.
+
+> Se añade por el art. 50 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se deroga por la disposición derogatoria.1.c) de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 11.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan los servicios a los que se refiere el artículo 11.1-4.
+
+> Se añade por el art. 50 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se deroga por la disposición derogatoria.1.c) de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 11.1-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio. La justificación del pago se exige en el momento de la presentación de la solicitud.
+
+> Se añade por el art. 50 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se deroga por la disposición derogatoria.1.c) de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 11.1-4. Cuota.
+
+Las cuotas de la tasa son las siguientes:
+
+1\. Escuela Catalana del Deporte.
+
+1.1 Certificado de primer nivel en período transitorio: 20 euros.
+
+1.2 Certificado de segundo nivel en período transitorio: 40 euros.
+
+1.3 Certificado de tercer nivel en período transitorio: 60 euros.
+
+1.4 Duplicado de certificados de cualquier nivel: 20 euros.
+
+1.5 Duplicado de certificado de formación continuada: 20 euros.
+
+2\. Registro Oficial de Profesionales del Deporte de Cataluña
+
+2.1 Certificado de reconocimiento de cursos impartidos por otras entidades: 60 euros.
+
+2.2 Duplicado de documento del Registro Oficial de Profesionales del Deporte de Cataluña o de cualquier procedimiento vinculado (habilitación, validación): 20 euros.
+
+> Se añade por el art. 50 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se deroga por la disposición derogatoria.1.c) de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 11.1-5. Bonificaciones.
+
+El importe de la tasa por los servicios a los que se refiere el artículo 11.1-4.1 queda reducido en un 50 % en caso de que las personas interesadas que no estén obligadas a ello de acuerdo con lo previsto por la normativa vigente en cada momento presenten las solicitudes por medios telemáticos y acepten expresamente relacionarse electrónicamente con el Consejo Catalán del Deporte y recibir las notificaciones que se les deba practicar en el expediente por medios electrónicos.
+
+> Se modifica por el art. 4 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 50 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999)
+
+## TÍTULO XII — Fauna, naturaleza y medio ambiente
+
+### CAPÍTULO I — Tasa por la expedición de licencias de caza y matrículas de áreas de caza
+
+> Se modifica la rúbrica por el art. 32.1 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.1-1. Hecho imponible.
+
+Constituye el hecho imponible de esta tasa la prestación de servicios administrativos inherentes a la expedición de licencias y matrículas que, de acuerdo con la legislación vigente, son necesarios para practicar la caza y que se especifican en el artículo 12.1-5.
+
+> Se modifica por el art. 32.2 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas que solicitan la expedición de la licencia y la matrícula para la caza.
+
+> Se modifica por el art. 32.3 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.1-3. Exenciones.
+
+1\. Quedan exentos de pagar la tasa exigida por el concepto de expedición de licencias de caza los sujetos pasivos mayores de 65 años y los guardas de reservas de fauna y los agentes rurales adscritos al Departamento de Medio Ambiente y Vivienda que por razones de los servicios que les son propios requieren el uso de armas de caza.
+
+2\. Están exentas de pago de matrícula las áreas privadas de caza que tengan una superficie afectada como mínimo en un 25% por los incendios forestales producidos durante el año anterior, de acuerdo con la información que consta a la Dirección General del Medio Natural.
+
+> Se modifica el apartado 1 por el art. 8 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 12.1-4. Acreditación.
+
+La acreditación de la tasa se produce en el momento de la solicitud de la licencia y la matrícula para la caza, pero puede exigirse la justificación del ingreso de la tasa en el momento de la presentación de la solicitud.
+
+> Se modifica por el art. 32.4 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.1-5. Cuota.
+
+La cuota de la tasa es:
+
+1\. Licencias de caza.
+
+1.1. Para cazar con armas (de fuego y asimilables) durante quince días seguidos en todo el territorio de Cataluña: 10,00 euros.
+
+1.2. Para cazar con armas (de fuego y asimilables) durante un año en todo el territorio de Cataluña: 21,50 euros.
+
+1.3. Para cazar por cualquier procedimiento autorizado excepto armas (de fuego y asimilables) durante un año en todo el territorio de Cataluña: 10,75 euros.
+
+1.4. Para tener jaurías: 40,00 euros.
+
+1.5 **(Suprimido).**
+
+1.6 Para cazar con armas (de fuego y asimilables) durante tres años seguidos en todo el territorio de Cataluña: 70 euros.
+
+1.7 Para cazar con armas (de fuego y asimilables) durante cinco años seguidos en todo el territorio de Cataluña: 116,5 euros.
+
+2\. Matrículas áreas de caza.
+
+La cuota está constituida por un importe equivalente al 15% de la renta cinegética del área de caza, de acuerdo con los siguientes baremos:
+
+2.1 Áreas de caza:
+
+– Con carácter general, 1,50 euros por hectárea y año. Se integran dentro de este grupo las áreas de caza que tienen un aprovechamiento de especies de caza menor y/o caza mayor.
+
+– Cuando el titular del área de caza sea una asociación sin ánimo de lucro corresponde una cuota de 0,50 euros por hectárea y año.
+
+2.2 Áreas de caza con aprovechamiento principal de aves acuáticas:
+
+– A todos los efectos, 4,0 euros por hectárea y año.
+
+– Cuando el titular del área de caza sea una asociación sin ánimo de lucro corresponde una cuota de 1,15 euros por hectárea y año.
+
+2.3 Áreas de caza con reglamentación especial (para toda el área) y áreas de caza mayor cerradas, 4,50 euros por hectárea y año.
+
+2.4 Excepto en las áreas de caza cuyos titulares sean asociaciones sin ánimo de lucro, la cuota correspondiente a la matrícula del área no puede ser inferior a 220,87 euros.
+
+2.5 Corresponde a los titulares de las áreas de caza el pago de la tasa.
+
+2.6 Están exentas de pago de matrícula las áreas de caza que tengan una superficie forestal afectada como mínimo en un 25% por los incendios forestales producidos durante el año anterior, de acuerdo con la información que conste en la Dirección General del Medio Natural y Biodiversidad.
+
+> Se suprimen los apartados 1.5 y 3 por el art. 32.5 y 6 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifican los apartados 1.6, 1.7 y 2 por el art. 51 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añaden los apartados 1.5, 1.6 y 1.7 por el art. 25 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica el apartado 1 por el art. 10 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 12.1-6. Afectación.
+
+Esta tasa tiene carácter finalista, por lo cual, de conformidad con lo establecido por el artículo 1.1.3, los ingresos derivados de la misma se afectan a la conservación de este recurso cinegético en las partidas correspondientes del departamento competente en materia de medio natural, y en las partidas correspondientes del Consejo General de Arán los derivados de las licencias de caza expedidas por el Consejo General de Arán.
+
+> Se modifica por el art. 26 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO II — Tasas por los permisos de caza mayor y menor en las zonas de caza controlada
+
+> Se modifica la rúbrica por el art. 33.1 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.2-1. Hecho imponible.
+
+Constituye el hecho imponible de esta tasa el otorgamiento de permisos de caza mayor y menor en las zonas de caza controlada del territorio de Cataluña.
+
+> Se modifica por el art. 33.2 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.2-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los cazadores a los que se adjudican los permisos correspondientes, según la tipología de local o no local, para cazar aves acuáticas y caza mayor, excepto el jabalí, en las zonas de caza controlada.
+
+> Se modifica por el art. 27.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 12.2-3. Acreditación.
+
+La tasa se acredita en el momento de la adjudicación del permiso, excepto en el caso del macho de más de ocho años de cabra montés, en que se acredita mediante la cuota fija o de entrada que se acredita en el momento de la adjudicación del permiso y la cuota variable o complementaria que se acredita en el momento de herir o abatir la pieza.
+
+> Se modifica por el art. 33.3 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.2-4. Cuota.
+
+La cuota de la tasa de cada permiso de caza se exige de acuerdo con las siguientes tarifas:
+
+1.1 En el caso de cazador o cazadora local de las zonas de caza controlada, considerados como tales:
+
+a) Las personas que tienen la vecindad administrativa en alguno de los términos municipales en los que se incluye la zona de caza controlada correspondiente.
+
+b) Las personas propietarias de un mínimo de cinco hectáreas de terreno rústico dentro de la zona citada de caza controlada.
+
+c) Las personas nacidas en alguno de los municipios incluidos en la zona de caza controlada correspondiente.
+
+d) Los socios de las sociedades de cazadores locales que hayan tenido la consideración de cazadores locales en la zona de caza controlada correspondiente durante un mínimo de cinco años.
+
+Aves acuáticas: 25 euros por temporada.
+
+Jabalí: 5 euros por temporada.
+
+Caza menor: 5 euros por temporada.
+
+Cabra montés.
+
+Hembra de cabra montés: 31,50 euros.
+
+Cabra montés menor de un año: 15,75 euros.
+
+Macho de 1 a 5 años de cabra montés: 63,00 euros.
+
+Macho de más de 5 años, y hasta 8, de cabra montés: 210 euros.
+
+Macho de más de 8 años de cabra montés:
+
+Cuota fija: 210 euros.
+
+Cuota variable, de acuerdo con la siguiente tabla:
+
+| Puntos | Euros |
+|---|---|
+| 204 o menos | 0,00 |
+| Bronce 205 | 356,56 |
+| 206 | 383,00 |
+| 207 | 409,52 |
+| 208 | 436,00 |
+| 209 | 462,48 |
+| 210 | 489,05 |
+| 211 | 515,55 |
+| 212 | 541,65 |
+| 213 | 568,51 |
+| 214 | 594,99 |
+| Plata 215 | 639,18 |
+| 216 | 692,73 |
+| 217 | 745,69 |
+| 218 | 798,71 |
+| 219 | 847,49 |
+| 220 | 904,66 |
+| 221 | 957,68 |
+| 222 | 1.010,69 |
+| 223 | 1.064,28 |
+| 224 | 1.117,24 |
+| Oro 225 | 1.205,61 |
+| 226 | 1.276,28 |
+| 227 | 1.346,90 |
+| 228 | 1.418,13 |
+| 229 | 1.488,82 |
+| 230 | 1.559,44 |
+| 231 | 1.630,15 |
+| 232 | 1.700,77 |
+| 233 | 1.772,04 |
+| 234 | 1.842,71 |
+| 235 | 1.913,33 |
+| 236 | 2.001,68 |
+| 237 | 2.091,20 |
+| 238 | 2.178,90 |
+| 239 | 2.267,22 |
+| 240 | 2.355,57 |
+| 241 | 2.444,44 |
+| 242 | 2.532,77 |
+| 243 | 2.621,12 |
+| 244 | 2.709,38 |
+| 245 | 2.798,31 |
+| 246 | 2.886,64 |
+| 247 | 2.974,99 |
+| 248 | 3.063,31 |
+| 249 | 3.152,18 |
+| 250 | 3.240,51 |
+| 251 | 3.328,84 |
+| 252 | 3.417,16 |
+| 253 | 3.506,10 |
+| 254 | 3.594,40 |
+| 255 | 3.682,73 |
+| 256 | 3.771,08 |
+| 257 | 3.859,97 |
+| 258 | 3.948,32 |
+| 259 | 4.036,62 |
+| 260 | 4.124,95 |
+| 261 en adelante | 4.124,95 más 177,30 por punto |
+
+Macho de gamo: 36,75 euros.
+
+Hembra de gamo: 5,25 euros.
+
+Macho de muflón: 36,75 euros.
+
+Hembra de muflón: 5,25 euros.
+
+Macho de rebeco: 52,50 euros.
+
+Hembra de rebeco: 42 euros.
+
+Macho de corzo: 21 euros.
+
+Hembra de corzo: 5,25 euros.
+
+Macho de ciervo: 52,50 euros.
+
+Hembra de ciervo: 15,75 euros.
+
+1.2 En caso de cazador no local:
+
+Aves acuáticas: 50 euros por temporada.
+
+Jabalí: 10 euros por temporada.
+
+Caza menor: 10 euros por temporada.
+
+Cabra montés.
+
+Hembra de cabra montés: 63 euros.
+
+Cabra montés menor de un año: 31,50 euros.
+
+Macho de 1 a 5 años de cabra montés: 126 euros.
+
+Macho de más de 5 años, y hasta 8, de cabra montés: 420 euros.
+
+Macho de más de 8 años de cabra montés:
+
+Cuota fija: 420 euros.
+
+Cuota variable, de acuerdo con la siguiente tabla:
+
+| Puntos | Euros |
+|---|---|
+| 204 o menos | 0,00 |
+| Bronce 205 | 713,12 |
+| 206 | 766,00 |
+| 207 | 819,04 |
+| 208 | 872,00 |
+| 209 | 924,97 |
+| 210 | 978,10 |
+| 211 | 1.031,10 |
+| 212 | 1.083,31 |
+| 213 | 1.137,02 |
+| 214 | 1.189,99 |
+| Plata 215 | 1.278,35 |
+| 216 | 1.385,45 |
+| 217 | 1.491,38 |
+| 218 | 1.597,43 |
+| 219 | 1.694,97 |
+| 220 | 1.809,32 |
+| 221 | 1.915,37 |
+| 222 | 2.021,38 |
+| 223 | 2.128,56 |
+| 224 | 2.234,48 |
+| Oro 225 | 2.411,22 |
+| 226 | 2.552,55 |
+| 227 | 2.693,80 |
+| 228 | 2.836,26 |
+| 229 | 2.977,63 |
+| 230 | 3.118,88 |
+| 231 | 3.260,29 |
+| 232 | 3.401,54 |
+| 233 | 3.544,09 |
+| 234 | 3.685,42 |
+| 235 | 3.826,66 |
+| 236 | 4.003,36 |
+| 237 | 4.182,40 |
+| 238 | 4.357,79 |
+| 239 | 4.534,45 |
+| 240 | 4.711,14 |
+| 241 | 4.888,88 |
+| 242 | 5.065,54 |
+| 243 | 5.242,23 |
+| 244 | 5.418,76 |
+| 245 | 5.596,63 |
+| 246 | 5.773,28 |
+| 247 | 5.949,97 |
+| 248 | 6.126,62 |
+| 249 | 6.304,37 |
+| 250 | 6.481,02 |
+| 251 | 6.657,67 |
+| 252 | 6.834,32 |
+| 253 | 7.012,19 |
+| 254 | 7.188,80 |
+| 255 | 7.365,46 |
+| 256 | 7.542,15 |
+| 257 | 7.719,94 |
+| 258 | 7.896,63 |
+| 259 | 8.073,24 |
+| 260 | 8.249,89 |
+| 261 en adelante | 8.249,89 más 354,60 euros por punto |
+
+Macho de gamo: 73,50 euros.
+
+Hembra de gamo: 10,50 euros.
+
+Macho de muflón: 73,50 euros.
+
+Hembra de muflón: 10,50 euros.
+
+Macho de rebeco: 105 euros.
+
+Hembra de rebeco: 84 euros.
+
+Macho de corzo: 42 euros.
+
+Hembra de corzo: 10,5 euros.
+
+Macho de ciervo: 105 euros.
+
+Hembra de ciervo: 31,50 euros.
+
+> Se modifica el apartado 1 por el art. 13 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifican los apartados 1.1 y 1.2 por el art. 45.1 y 2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 109 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 33.4 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 52 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 27.2 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 9 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 12.2-5. Afectación.
+
+Esta tasa tiene carácter finalista, por lo que, de conformidad con lo que establece el artículo 1.1-3, los ingresos derivados de la tasa quedan afectados a garantizar un funcionamiento correcto de las zonas de caza controlada y a establecer un aprovechamiento cinegético racional.
+
+#### Artículo 12.2-6. Exenciones.
+
+1\. Los cazadores que participan en las cacerías autorizadas excepcionalmente para capturar ciervos, gamos y muflones dentro de las zonas de caza controlada para controlar los daños que estas especies han causado o pueden causar, están exentas de pagar las cuotas de entrada y complementarias de los ejemplares abatidos de estas especies.
+
+2\. Los cazadores que participan en las cacerías autorizadas con batidas para capturar corzos, ciervos, gamos y muflones dentro de las zonas de caza controlada para controlar los daños que estas especies han causado o pueden causar están exentos de pagar las cuotas de entrada y complementarias de los ejemplares abatidos de estas especies.
+
+> Se añade por el art. 45.3 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO III — Tasa por los permisos de caza mayor y menor dentro de las reservas nacionales de caza y reservas de caza
+
+#### Artículo 12.3-1. Hecho imponible.
+
+Constituye el hecho imponible de esta tasa el otorgamiento de permisos de caza mayor y menor dentro de las reservas nacionales de caza y las reservas de caza del territorio de Cataluña.
+
+#### Artículo 12.3-2. Sujeto pasivo.
+
+Son sujetos pasivos las personas a quienes son adjudicados los permisos correspondientes para cazar dentro de las reservas nacionales de caza y las reservas de caza.
+
+#### Artículo 12.3-3. Devengo.
+
+La tasa se devenga en los términos siguientes:
+
+La cuota fija o de entrada se devenga en el momento de la adjudicación del permiso.
+
+La cuota variable o complementaria se devenga en el momento de herir o abatir la pieza.
+
+#### Artículo 12.3-4. Cuota.
+
+1.La cuota fija o de entrada se exige de acuerdo con las siguientes tarifas:
+
+1.1 Jabalí y caza menor:
+
+Jabalí para cazadores locales: 5 euros por temporada.
+
+Jabalí para cazadores no locales que son socios de asociaciones de cazadores locales con 5 años o más de antigüedad: 15 euros por temporada.
+
+Caza menor para cazadores locales: 5,00 euros por temporada.
+
+Permisos de caza en la modalidad de batida de jabalí para cazadores no locales ni socios de asociaciones locales con menos de 5 años de antigüedad:
+
+Anual: 52 euros por temporada.
+
+1 día: 5 euros.
+
+Tienen la condición de cazador o cazadora local, a los efectos de la aplicación de esta tasa, las personas que tienen la vecindad administrativa en alguno de los términos municipales al que pertenece la correspondiente reserva, las personas propietarias de un mínimo de cinco hectáreas de terreno rústico dentro dicha reserva y las personas que determine la junta consultiva de la reserva.
+
+1.2 Aves cinegéticas de la familia *Anatidae*:
+
+Aves cinegéticas de la familia *Anatidae*: 218,95 euros.
+
+1.3 Corzo:
+
+Caza selectiva:
+
+De hembras: 26,76 euros.
+
+De machos: 87,72 euros.
+
+Caza de trofeo:
+
+De machos: 163,80 euros.
+
+1.4 Rebeco:
+
+Caza selectiva: 138,00 euros.
+
+Caza de trofeo: 403,00 euros.
+
+1.5 Cabra montés:
+
+Caza selectiva:
+
+De hembras y crías: 54,60 euros.
+
+De machos: 491,95 euros.
+
+Caza de trofeo: 656,29 euros.
+
+1.6 Ciervo:
+
+Caza selectiva:
+
+De hembras y machos de primer año: 53,24 euros.
+
+De machos: 109,53 euros.
+
+Caza de trofeo: 421 euros.
+
+1.7 Gamo:
+
+Caza selectiva:
+
+De hembras y machos de primer año: 50,00 euros.
+
+De machos mayores de un año: 98,00 euros.
+
+Caza de trofeo: 300,00 euros.
+
+1.8 Muflón:
+
+Caza selectiva:
+
+De hembras: 44,05 euros.
+
+De machos: 94,35 euros.
+
+Caza de trofeo: 300,00 euros.
+
+2\. La cuota variable o complementaria se exige de acuerdo con las siguientes tarifas:
+
+2.1 Corzo:
+
+Caza selectiva por pieza herida o no cobrada: 40,00 euros.
+
+Caza selectiva de hembras: 47,00 euros.
+
+Caza selectiva de machos: 96,00 euros.
+
+Si la pieza supera los 95 puntos debe valorarse como trofeo.
+
+Caza de trofeo:
+
+Por pieza herida y no cobrada: 229,89 euros.
+
+Por pieza cobrada:
+
+| Puntos | Euros |
+|---|---|
+| Hasta 95 | 133,95 |
+| de 95 hasta 100 | 229,89 |
+| 101 | 257,40 |
+| 102 | 285,01 |
+| 103 | 312,52 |
+| 104 | 340,13 |
+| 105 | 367,64 |
+| 106 | 395,20 |
+| 107 | 422,76 |
+| 108 | 461,03 |
+| 109 | 497,64 |
+| 110 | 534,51 |
+| 111 | 571,32 |
+| 112 | 617,19 |
+| 113 | 663,16 |
+| 114 | 709,12 |
+| 115 | 755,04 |
+| 116 | 800,96 |
+| 117 | 856,08 |
+| 118 | 911,09 |
+| 119 | 966,21 |
+| 120 | 1.021,44 |
+| 121 | 1.076,45 |
+| 122 | 1.131,62 |
+| 123 | 1.186,64 |
+| 124 | 1.241,92 |
+| 125 | 1.297,09 |
+| 126 | 1.351,90 |
+| 127 | 1.463,80 |
+| 128 | 1.574,09 |
+| 129 | 1.684,28 |
+| 130 | 1.794,47 |
+| 131 | 1.904,71 |
+| 132 | 2.015,05 |
+| 133 | 2.125,08 |
+| 134 | 2.235,32 |
+| 135 | 2.347,12 |
+| Más de 135 | 2.347,12 más 138,01 por punto adicional |
+
+2.2. Rebeco:
+
+Caza selectiva:
+
+Por pieza cobrada: 158,00 euros.
+
+Por pieza herida o no cobrada: 143,00 euros.
+
+Si la pieza supera los 75 puntos, debe valorarse como trofeo.
+
+Caza de trofeo:
+
+Por pieza herida y no cobrada: 183,98 euros.
+
+Por pieza cobrada:
+
+| Puntos | Euros |
+|---|---|
+| Hasta 75 | 183,98 |
+| 76 | 202,33 |
+| 77 | 220,74 |
+| 78 | 239,15 |
+| 79 | 257,40 |
+| 80 | 275,81 |
+| 81 | 294,27 |
+| 82 | 312,52 |
+| 83 | 331,03 |
+| 84 | 349,18 |
+| 85 | 367,64 |
+| 86 | 422,76 |
+| 87 | 479,44 |
+| 88 | 534,51 |
+| 89 | 589,63 |
+| 90 | 644,75 |
+| 91 | 699,82 |
+| 92 | 755,04 |
+| 93 | 810,11 |
+| 94 | 865,12 |
+| 95 | 920,35 |
+| 96 | 993,88 |
+| 97 | 1.067,25 |
+| 98 | 1.140,72 |
+| 99 | 1.214,15 |
+| 100 | 1.287,73 |
+| 101 | 1.381,28 |
+| 102 | 1.473,06 |
+| 103 | 1.564,78 |
+| 104 | 1.656,62 |
+| 105 | 1.748,50 |
+| Más de 105 | 1.748,50 más 110,50 por punto adicional |
+
+2.3 Cabra montés:
+
+Caza selectiva de hembras y crías:
+
+Por pieza cobrada: 46,12 euros.
+
+Por pieza herida y no cobrada: 46,12 euros.
+
+Caza selectiva de machos (más de 5 años y hasta 204 puntos):
+
+Por pieza herida y no cobrada: 413,40 euros.
+
+Por pieza cobrada: Variable.
+
+| Puntos | Euros |
+|---|---|
+| Hasta 165 | 461,03 |
+| 166 | 470,34 |
+| 167 | 479,44 |
+| 168 | 488,70 |
+| 169 | 497,64 |
+| 170 | 507,00 |
+| 171 | 516,31 |
+| 172 | 525,20 |
+| 173 | 534,51 |
+| 174 | 543,71 |
+| 175 | 552,97 |
+| 176 | 571,32 |
+| 177 | 589,63 |
+| 178 | 608,09 |
+| 179 | 626,39 |
+| 180 | 644,75 |
+| 181 | 663,16 |
+| 182 | 681,56 |
+| 183 | 699,82 |
+| 184 | 718,22 |
+| 185 | 736,68 |
+| 186 | 755,04 |
+| 187 | 773,34 |
+| 188 | 791,70 |
+| 189 | 810,11 |
+| 190 | 828,52 |
+| 191 | 846,82 |
+| 192 | 865,12 |
+| 193 | 883,69 |
+| 194 | 901,89 |
+| 195 | 920,35 |
+| 196 | 966,21 |
+| 197 | 1.012,13 |
+| 198 | 1.058,04 |
+| 199 | 1.103,96 |
+| 200 | 1.149,99 |
+| 201 | 1.195,95 |
+| 202 | 1.241,92 |
+| 203 | 1.287,73 |
+| 204 | 1.333,75 |
+
+Si la pieza supera los 204 puntos, debe valorarse como trofeo.
+
+Caza de trofeo:
+
+Por pieza herida y no cobrada: 551,30 euros.
+
+Por pieza cobrada:
+
+| Puntos | Euros |
+|---|---|
+| Bronce 205 | 1.473,06 |
+| 206 | 1.541,80 |
+| 207 | 1.610,75 |
+| 208 | 1.679,61 |
+| 209 | 1.748,50 |
+| 210 | 1.817,56 |
+| 211 | 1.886,46 |
+| 212 | 1.954,32 |
+| 213 | 2.024,15 |
+| 214 | 2.093,00 |
+| Plata 215 | 2.207,87 |
+| 216 | 2.347,12 |
+| 217 | 2.484,82 |
+| 218 | 2.622,67 |
+| 219 | 2.760,42 |
+| 220 | 2.898,12 |
+| 221 | 3.036,02 |
+| 222 | 3.173,82 |
+| 223 | 3.313,13 |
+| 224 | 3.450,88 |
+| Oro 225 | 3.680,61 |
+| 226 | 3.864,33 |
+| 227 | 4.047,94 |
+| 228 | 4.233,16 |
+| 229 | 4.416,93 |
+| 230 | 4.600,54 |
+| 231 | 4.784,42 |
+| 232 | 4.968,03 |
+| 233 | 5.153,36 |
+| 234 | 5.337,07 |
+| 235 | 5.520,68 |
+| 236 | 5.750,37 |
+| 237 | 5.983,12 |
+| 238 | 6.211,14 |
+| 239 | 6.440,82 |
+| 240 | 6.670,51 |
+| 241 | 6.901,60 |
+| 242 | 7.131,23 |
+| 243 | 7.360,91 |
+| 244 | 7.590,39 |
+| 245 | 7.821,63 |
+| 246 | 8.051,26 |
+| 247 | 8.281,00 |
+| 248 | 8.510,63 |
+| 249 | 8.741,72 |
+| 250 | 8.971,35 |
+| 251 | 9.200,98 |
+| 252 | 9.430,67 |
+| 253 | 9.661,86 |
+| 254 | 9.891,49 |
+| 255 | 10.121,12 |
+| 256 | 10.350,81 |
+| 257 | 10.581,95 |
+| 258 | 10.811,63 |
+| 259 | 11.041,21 |
+| 260 | 11.270,90 |
+| Más de 260 | 11.270,90 más 461,03 por punto adicional |
+
+2.4 Ciervo:
+
+Caza selectiva de hembras y machos de primer año:
+
+Por pieza cobrada: 58,00 euros.
+
+Por pieza herida y no cobrada: 19,00 euros.
+
+Caza selectiva de machos de más de un año.
+
+Por pieza cobrada hasta 75 puntos: 95,00 euros.
+
+Por pieza cobrada entre 76 y 100 puntos: 138,00 euros.
+
+Por pieza cobrada entre 101 y 140 puntos: 350,00 euros.
+
+Por pieza herida y no cobrada: 92,14 euros.
+
+Si la pieza supera los 140 puntos debe valorarse como trofeo.
+
+Caza de trofeo:
+
+Por pieza herida y no cobrada: 183,98 euros.
+
+Por pieza cobrada:
+
+| Puntos | Euros |
+|---|---|
+| Hasta 140 | 461,03 |
+| 141 | 479,44 |
+| 142 | 497,64 |
+| 143 | 516,31 |
+| 144 | 534,51 |
+| 145 | 552,97 |
+| 146 | 571,32 |
+| 147 | 589,63 |
+| 148 | 608,09 |
+| 149 | 626,39 |
+| 150 | 644,75 |
+| 151 | 663,16 |
+| 152 | 681,56 |
+| 153 | 699,82 |
+| 154 | 718,22 |
+| 155 | 736,68 |
+| 156 | 755,04 |
+| 157 | 773,34 |
+| 158 | 791,70 |
+| 159 | 810,11 |
+| 160 | 828,52 |
+| 161 | 865,12 |
+| 162 | 901,89 |
+| 163 | 1.030,38 |
+| 164 | 1.067,25 |
+| 165 | 1.103,96 |
+| 166 | 1.140,72 |
+| 167 | 1.177,54 |
+| 168 | 1.214,15 |
+| 169 | 1.250,96 |
+| 170 | 1.287,73 |
+| 171 | 1.324,39 |
+| 172 | 1.454,60 |
+| 173 | 1.491,31 |
+| 174 | 1.528,12 |
+| 175 | 1.564,78 |
+| 176 | 1.601,60 |
+| 177 | 1.638,31 |
+| 178 | 1.675,13 |
+| 179 | 1.711,79 |
+| 180 | 1.748,50 |
+| 181 | 1.913,91 |
+| 182 | 1.987,44 |
+| 183 | 2.060,92 |
+| 184 | 2.134,39 |
+| 185 | 2.207,87 |
+| 186 | 2.301,16 |
+| 187 | 2.392,94 |
+| 188 | 2.484,82 |
+| 189 | 2.576,86 |
+| 190 | 2.668,64 |
+| 191 | 2.815,64 |
+| 192 | 2.962,44 |
+| 193 | 3.109,50 |
+| 194 | 3.258,01 |
+| 195 | 3.405,01 |
+| 196 | 3.588,68 |
+| 197 | 3.772,39 |
+| 198 | 3.956,16 |
+| 199 | 4.141,33 |
+| 200 | 4.325,05 |
+| 201 | 4.600,54 |
+| 202 | 4.876,20 |
+| 203 | 5.153,36 |
+| 204 | 5.428,85 |
+| 205 | 5.704,50 |
+| 206 | 6.073,29 |
+| 207 | 6.440,82 |
+| 208 | 6.808,26 |
+| 209 | 7.177,09 |
+| 210 | 7.544,42 |
+| Más de 210 | 7.544,42 más 461,03 por punto adicional |
+
+2.5. Gamo:
+
+Caza selectiva:
+
+De hembras y machos de primer año: 69,00 euros.
+
+De machos de más de un año: 137,00 euros.
+
+Caza de trofeo:
+
+Por pieza herida y no cobrada: 79,25 euros.
+
+Por pieza cobrada: 171,70 euros.
+
+2.6 Muflón:
+
+Caza selectiva:
+
+De hembras: 66,09 euros.
+
+De machos: 132,08 euros.
+
+Caza de trofeo:
+
+Por pieza herida y no cobrada: 79,25 euros.
+
+Por pieza cobrada: 171,70 euros.
+
+2.7 El establecimiento y la modificación de las fórmulas para el cálculo de la puntuación correspondiente a cada pieza cobrada, para determinar la cuantía de la cuota variable o complementaria de la tasa, se realizan mediante orden u órdenes del consejero o consejera del departamento competente en materia de caza, con el informe favorable de la Intervención Delegada y del departamento competente en materia de economía y hacienda. En el expediente de elaboración de la orden o las órdenes debe constar una memoria económica en la que hay que justificar que la fórmula cumple el principio de equivalencia del artículo 1.2-8. Las fórmulas que se establezcan deben equipararse, del modo que sea posible, a las fórmulas internacionales fijadas por el Consejo Internacional de la Caza, pero la puntuación resultante es independiente de las puntuaciones oficiales de homologación y limita sus efectos a la liquidación de la cuota de la tasa, sin perjuicio de que otras normas, actos o contratos puedan remitirse también a las fórmulas de la orden u órdenes mencionadas.
+
+> Se modifican los apartados 1.2 y 2.4 por el art. 14 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por el art. 46 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 110.1 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica el apartado 1 y se suprime el apartado 3 por el art. 34.1 y 2 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica el apartado 1 y se añade el 3 por el art. 53.1 y 2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añaden los apartados 1.7 y 8, y 2.5, 6 y 7 por el art. 10 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 12.3-5. Exenciones y bonificaciones.
+
+1\. Los cazadores y las cazadoras locales tienen una bonificación del 80% de la cuota fija o de entrada, excepto de la cuota de caza menor y jabalí.
+
+2\. Los cazadores y las cazadoras locales tienen una bonificación del 80% de las tarifas de la cuota variable o complementaria establecidas para la caza selectiva de todas las especies y una bonificación del 40% de las tarifas de la cuota variable o complementaria establecidas para la caza de trofeo de todas las especies.
+
+3\. Son cazadores y cazadoras locales, a los efectos de la aplicación de esta tasa, las personas que tienen la vecindad administrativa en alguno de los términos municipales a los cuales pertenece la reserva correspondiente y los propietarios de un mínimo de cinco hectáreas de terreno rústico dentro de dicha reserva.
+
+4\. Los cazadores que usan balas que no contienen plomo durante las cacerías de caza mayor a rececho tienen una bonificación del 10% de las tarifas de la cuota variable o complementaria de todas las especies.
+
+5\. Los propietarios de terrenos incluidos en reservas nacionales de caza tienen una bonificación del 50% de la cuota fija o de entrada, excepto en la cuota de caza menor y jabalí, de los permisos que les correspondan y subasten.
+
+6\. Los cazadores que participen en las cacerías autorizadas excepcionalmente para capturar ciervos, gamos y muflones dentro de las reservas nacionales de caza para controlar los daños que estas especies hayan causado o puedan causar están exentos de pagar las cuotas de entrada y complementarias de los ejemplares abatidos de estas especies.
+
+7\. Los cazadores que participen en las cacerías autorizadas con batidas para capturar corzos, ciervos, gamos y muflones dentro de las reservas nacionales de caza para controlar los daños que estas especies hayan causado o puedan causar están exentos de pagar las cuotas de entrada y complementarias de los ejemplares abatidos de estas especies.
+
+> Se modifica la rúbrica y se añaden los apartados 5 a 7 por el art. 110.2 y 3 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade el apartado 4 por el art. 53.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.3-6. Afectación.
+
+Esta tasa tiene carácter finalista, por lo que, de conformidad con lo que establece el artículo 1.1-3, los ingresos derivados de la tasa quedan afectados a garantizar un funcionamiento correcto de las reservas nacionales de caza y de las reservas de caza, y a establecer un aprovechamiento cinegético racional.
+
+### CAPÍTULO IV — Tasa por la expedición de la licencia para practicar la inmersión en la reserva natural parcial marina de Les Medes
+
+> Se modifica por la disposición modificativa 1 de la Ley 15/2010, de 28 de mayo. [Ref. BOE-A-2010-10214](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10214).
+
+#### Artículo 12.4-1. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la prestación de los servicios administrativos inherentes a la expedición de la licencia que, de acuerdo con la legislación vigente, es necesaria para practicar la inmersión con escafandra autónoma y sin medios de respiración artificial en la reserva natural parcial marina de las Medes.
+
+2\. También constituye el hecho imponible de la tasa la prestación de los servicios inherentes al amarre de embarcaciones para realizar inmersiones u otras actividades recreativas en las boyas instaladas en la reserva natural parcial marina de las Medes.
+
+> Se modifica por el art. 47.1 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por la disposición modificativa 1 de la Ley 15/2010, de 28 de mayo. [Ref. BOE-A-2010-10214](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10214).
+
+#### Artículo 12.4-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa:
+
+a) En el supuesto 1 del artículo 12.4-1, las personas físicas que practican la actividad para la que se solicita la expedición de la licencia.
+
+b) En el supuesto 2 del artículo 12.4-1, las personas físicas que quieren amarrar a los puntos de amarre habilitados para las embarcaciones de usuarios particulares a la reserva natural parcial marina de las Medes y las empresas de transporte de pasaje que disponen de las autorizaciones necesarias para la gestión de esta actividad.
+
+> Se modifica por el art. 47.2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 54.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.4-3. Exenciones.
+
+Están exentos del pago de la tasa:
+
+a) Las inmersiones y el amarre hechos en el marco de proyectos de investigación, seguimiento y monitorización autorizados por la Dirección General de Políticas Ambientales y Medio Natural.
+
+b) Las inmersiones y el amarre hechos en cumplimiento de actividades promovidas por el órgano gestor de la reserva natural parcial marina de las Medes y zona periférica o por entidades externas que tengan por objeto la promoción o la difusión de los valores del espacio y la educación ambiental, siempre que no tenga finalidad lúdica o lucrativa.
+
+c) La guía de usuarios en las actividades de inmersión si esta guía es obligatoria en el marco de la actividad realizada.
+
+d) El amarre realizado para las tareas de mantenimiento de boyas.
+
+> Se modifica por el art. 47.3 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por la disposición modificativa 1 de la Ley 15/2010, de 28 de mayo. [Ref. BOE-A-2010-10214](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10214).
+
+#### Artículo 12.4-4. Acreditación.
+
+1\. En el supuesto 1 del artículo 12.4-1, la tasa se acredita en el momento de presentación de la solicitud de licencia, en el caso de solicitud efectuada por personas físicas. En el caso de solicitud de licencia efectuada por centros de inmersión que disponen de autorización para la gestión de actividades para la práctica de inmersión, la tasa se acredita el primer día de cada mes con la liquidación del cómputo de licencias otorgadas en el mes anterior.
+
+2\. En el supuesto 2 del artículo 12.4-1, la tasa se acredita en el momento de producirse el amarre o en el momento de presentar la solicitud de reserva de amarre en el caso de empresas de transporte de pasajeros y en el caso de abonos anuales.
+
+> Se modifica por el art. 47.4 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 54.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.4-5. Cuota.
+
+1\. En el supuesto 1 del artículo 12.4-1, la cuota por cada licencia es la siguiente:
+
+a) Licencia de inmersión con escafandra autónoma: 5,10 euros por inmersión.
+
+b) Licencia de inmersión mediante centros autorizados para la gestión de actividades de inmersión sin medios de respiración artificial: 2,90 euros por inmersión.
+
+2\. En el supuesto 2 del artículo 12.4-1, la cuota por cada amarre es la siguiente:
+
+a) Amarre puntual a las boyas destinadas a usuarios particulares:
+
+1) Boya roja o naranja, embarcaciones con una eslora de hasta 9 metros: 8 euros por medio día (desde la salida del sol hasta las 14 h y desde las 14 h hasta la puesta del sol).
+
+2) Boya blanca, embarcaciones con una eslora de entre 9 y 16 metros: 12 euros por medio día (desde la salida del sol hasta las 14 h y desde las 14 h hasta la puesta del sol).
+
+b) Amarre anual a las boyas destinadas a usuarios particulares:
+
+1) Boya roja o naranja, embarcaciones con una eslora de hasta 9 metros: 102 euros anuales.
+
+2) Boya blanca, embarcaciones con una eslora de entre 9 y 16 metros: 122 euros anuales.
+
+Esta modalidad no garantiza el uso de la boya y el amarre está condicionado a la existencia de boyas disponibles.
+
+c) Amarre a las boyas destinadas a empresas de transporte de pasajeros:
+
+1) Boya Cr1, embarcaciones con una eslora inferior a 12 metros: 20 euros por una reserva de 30 minutos.
+
+2) Boya Cr2, embarcaciones con una eslora de entre 12 y 25 metros: 80 euros por una reserva de 30 minutos.
+
+> Se modifica por el art. 47.5 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 12.4-6. Afectación.
+
+La tasa tiene carácter finalista y los ingresos que derivan de la misma se afectan a la financiación del coste de los servicios prestados a la reserva natural parcial marina de las Medes y zona periférica.
+
+> Se modifica por el art. 47.6 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por la disposición modificativa 1 de la Ley 15/2010, de 28 de mayo. [Ref. BOE-A-2010-10214](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10214).
+
+### CAPÍTULO V — Tasa por los permisos para fotografiar o filmar fauna salvaje desde un observatorio fijo de fauna salvaje situado en terrenos de una reserva nacional de caza
+
+#### Artículo 12.5-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa el otorgamiento de permisos para utilizar un observatorio fijo de fauna salvaje dentro de las reservas nacionales de caza y las reservas de caza con la finalidad de fotografiar o filmar fauna salvaje.
+
+#### Artículo 12.5-2. Sujeto pasivo.
+
+Son sujetos pasivos las personas adjudicatarias de los permisos correspondientes que utilizan un observatorio fijo de fauna salvaje dentro de las reservas nacionales de caza y las reservas de caza con la finalidad de fotografiar o filmar fauna salvaje.
+
+#### Artículo 12.5-3. Devengo.
+
+La tasa se devenga cuando se utiliza el observatorio fijo para fotografiar o filmar fauna salvaje.
+
+#### Artículo 12.5-4. Cuota.
+
+La cuota de la tasa es:
+
+Por el permiso de un día: 133,95 euros.
+
+Por cada día de más: 89,35 euros.
+
+Por grupos, de hasta 6 personas, durante 2 horas: 133,95 euros.
+
+> Se modifica por el art. 48 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO VI — Tasa por la licencia para la recolección de trufas
+
+#### Artículo 12.6-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación del servicio que se define al artículo 12.6-4.
+
+#### Artículo 12.6-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas a quien se presta el servicio que se menciona en el artículo 12.6-4.
+
+#### Artículo 12.6-3. Devengo.
+
+La tasa se devenga y se hace efectiva cuando se solicita la prestación del servicio.
+
+#### Artículo 12.6-4. Cuota.
+
+La cuota de la tasa por la licencia para recolectar trufas es de 29,45 euros.
+
+### CAPÍTULO VII — Tasa por la ocupación de terrenos forestales propiedad de la Generalidad y la ocupación de los caminos ganaderos clasificados
+
+> Se modifica por el art. 55 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 11.1 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 12.7-1. Hecho imponible.
+
+Constituye el hecho imponible de esta tasa la ocupación de terrenos forestales propiedad de la Generalidad y la ocupación de los caminos ganaderos clasificados en virtud del otorgamiento de las concesiones o las autorizaciones pertinentes.
+
+> Se modifica por el art. 55 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.7-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas que solicitan la ocupación de los terrenos forestales y de los caminos ganaderos clasificados.
+
+> Se modifica por el art. 55 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.7-3. Exención.
+
+1\. Los organismos, las entidades y las empresas públicas integrados en la estructura del Estado, de las comunidades autónomas, de los municipios, de las comarcas y de otros entes públicos territoriales o institucionales, incluidas las corporaciones de derecho público, están exentos de las tasas a las que se refiere el artículo 12.7-1 si presentan la solicitud de ocupación en el marco de la prestación de un servicio público.
+
+2\. Están exentas de las tasas a las que se refiere el artículo 12.7-1 las personas autorizadas de una ocupación que no suponga un beneficio económico o, en el supuesto de que exista este beneficio, cuando la ocupación suponga condiciones o contraprestaciones que lo anulen o lo conviertan en irrelevante.
+
+> Se modifica por el art. 55 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.7-4. Acreditación.
+
+La tasa se acredita en el momento en que se otorga la concesión o la autorización por la ocupación respecto a la anualidad en curso. En las anualidades sucesivas la acreditación se produce el 1 de enero de cada año.
+
+> Se modifica por el art. 55 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 11.2 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 12.7-5. Cuota.
+
+1\. La cuota de la tasa de las ocupaciones de terrenos forestales propiedad de la Generalidad y la ocupación de los caminos ganaderos clasificados se determina aplicando los siguientes criterios generales de valoración:
+
+a) El valor del terreno ocupado, que se obtiene teniendo en cuenta el ámbito de protección del espacio en el que se ubique, los valores de los terrenos colindantes y el beneficio esperado por el sujeto pasivo.
+
+b) Los daños sobre los diferentes valores ambientales y sobre los aprovechamientos del camino ganadero o del monte, así como los usos que puedan verse afectados por la ocupación o concesión.
+
+2\. Deben aplicarse los siguientes parámetros específicos de valoración:
+
+a) Instalación de tendidos aéreos de líneas eléctricas, telefónicas y otras líneas de naturaleza similar, con sobrevuelo de la línea: la tasa se establece, con carácter anual, en función de los metros cuadrados de sobrevuelo, con parte proporcional de ocupación de soportes, postes o torres y elementos auxiliares. A los efectos del cálculo de la cuota, en el caso de líneas eléctricas, la superficie se determina considerando la anchura del corredor definida en el anexo 2 del Decreto 268/1996, de 23 de julio, por el que se establecen medidas de corta periódica y selectiva de vegetación en la zona de influencia de las líneas aéreas de conducción eléctrica para la prevención de incendios forestales y la seguridad de las instalaciones. En ningún caso la anchura considerada puede ser inferior a dos metros. Cuando el tendido atraviese perpendicularmente un camino ganadero, la longitud mínima es la anchura de deslinde, o si no, la de clasificación del camino ganadero. Los soportes, transformadores y otros elementos accesorios de las líneas eléctricas se entiende que están incluidos siempre y cuando la base o su proyección quede incluida en la superficie mencionada. En caso contrario, se computa la superficie adicional con la misma cuota.
+
+b) Parques eólicos: la tasa se establece, con carácter anual, en función de los metros cuadrados de sobrevuelo del aerogenerador y parte proporcional de la superficie de soportes. Las líneas de evacuación necesarias deben valorarse aparte, tanto si se trata de líneas aéreas como soterradas, así como las subestaciones de transformación y las vías de acceso que tengan un uso privativo. A los efectos del cálculo de la cuota, la superficie corresponde a la que ocupa la proyección de las aspas en todo su recorrido.
+
+c) Antenas, postes y otros soportes de elementos de medida o para la reemisión de señales:
+
+c.1) Torres anemométricas: la tasa se establece, con carácter anual, por unidad de ocupación de torre con todos sus elementos incluidos, excepto las líneas eléctricas de suministro o acometidas, que deben valorarse aparte, tanto si son líneas aéreas como soterradas.
+
+c.2) Torres para antenas de reemisión de telefonía móvil: la tasa se establece, con carácter anual, por unidad de ocupación de torre con su recinto. La conexión necesaria debe valorarse aparte, tanto si son líneas aéreas como soterradas.
+
+c.3) Antenas de reemisión de radio y televisión: la tasa se establece, con carácter anual, por unidad de ocupación de torre con su recinto. Las conexiones necesarias deben valorarse aparte, tanto si son líneas aéreas como soterradas.
+
+d) Tendidos de líneas eléctricas subterráneas, tuberías soterradas de agua o gas y otras instalaciones subterráneas: la tasa se establece, con carácter anual, por metros cuadrados de superficie, con parte proporcional de ocupación de registros y elementos auxiliares. A los efectos del cálculo de la cuota, la superficie es la proyección superficial de la conducción, incrementada en la anchura necesaria para la ejecución y mantenimiento de la instalación. La anchura mínima es la necesaria para el mantenimiento de la propia línea, que en ningún caso debe ser inferior a 0,60 metros. Cuando el tendido atraviese perpendicularmente un camino ganadero, la longitud mínima será la anchura de deslinde, o si no, la de clasificación del camino ganadero.
+
+e) Carteles y señales informativos, indicativos y publicitarios: la tasa se establece, con carácter anual, por unidad calculada en metros cuadrados del cartel. La superficie mínima de cómputo es de un metro cuadrado.
+
+f) Balsas de regulación y de abastecimiento de agua: la tasa se establece, con carácter anual, en función de los metros cuadrados ocupados.
+
+g) Otras instalaciones con ocupación superficial como depósitos, subestaciones eléctricas o similares: la tasa se establece, con carácter anual, en función de los metros cuadrados ocupados. Las conexiones necesarias, fuera del recinto ocupado, deben valorarse aparte, como líneas aéreas o soterradas, o tuberías según los casos.
+
+h) Depósito de materiales de construcción o de otro tipo y áreas de estacionamiento de vehículos o maquinaria: la tasa se establece, con carácter anual, en función de los metros cuadrados ocupados. Las conexiones necesarias deben valorarse aparte, como líneas aéreas o soterradas. No se incluye la valla.
+
+i) Construcción de accesos a fincas colindantes: la tasa se establece, con carácter anual, en función de los metros cuadrados ocupados. No se incluye la valla. A los efectos del cálculo de la cuota, la superficie es la proyección de toda el área afectada por las obras, incluidos los taludes de desmonte y terraplén.
+
+j) Usos recreativos privativos, campings y otros usos similares:
+
+j.1) Usos recreativos con valla: la tasa se establece, con carácter anual, por metro cuadrado de ocupación o servidumbre. A los efectos del cálculo de la cuota, la superficie es el perímetro del recinto cerrado. Se incluyen las edificaciones e infraestructuras autorizadas en el interior del recinto siempre que no representen porcentajes superiores al 5% del total.
+
+j.2) Usos recreativos sin valla: la tasa se establece, con carácter anual, por metro cuadrado ocupado. A efectos del cálculo de la cuota, la superficie es el área directamente afectada por el uso recreativo privativo. Se incluyen las infraestructuras autorizadas en el interior del recinto, pero deben valorarse las edificaciones y los recintos cerrados aparte.
+
+k) Ocupaciones por cultivos agrícolas: la tasa se establece, con carácter anual, por metro cuadrado ocupado o superficie de cultivo. No se incluyen vallas.
+
+l) Canteras y actividades extractivas: la tasa se establece, con carácter anual, por metro cuadrado ocupado.
+
+3\. La cuota de la tasa se determina por la aplicación de las bases imponibles y los siguientes tipos de gravamen:
+
+a) Instalación de tendidos aéreos de líneas eléctricas, telefónicas y otras líneas de naturaleza similar, con sobrevuelo de la línea: 0,20 euros/m<sup>2</sup>/año.
+
+b) Parques eólicos: 0,80 euros/m2/año.
+
+c) Antenas, postes y otros soportes de elementos de medida o para la reemisión de señales:
+
+c.1) Torres anemométricas: 900,00 euros/ut/año.
+
+c.2) Torres para antenas de reemisión de telefonía móvil: 4.000,00 euros/ut/año.
+
+c.3) Antenas de reemisión de radio y televisión: 3.000,00 euros/ut/año.
+
+d) Tendidos de líneas eléctricas subterráneas, tuberías soterradas de agua o gas y otras instalaciones subterráneas: 0,20 euros/m<sup>2</sup>/año.
+
+e) Carteles y señales informativos, indicativos y publicitarios: 50,00 euros/m² de cartel/año.
+
+f) Balsas de regulación y de abastecimiento de agua: 2,00 euros/m<sup>2</sup>/año.
+
+g) Otras instalaciones con ocupación superficial como depósitos, subestaciones eléctricas o similares: 5,00 euros/m<sup>2</sup>/año.
+
+h) Depósito de materiales de construcción o de otro tipo y áreas de estacionamiento de vehículos o maquinaria: 0,10 euros/m<sup>2</sup>/año.
+
+i) Construcción de accesos a fincas colindantes: 0,30 euros/m<sup>2</sup>/año.
+
+j) Usos recreativos privativos, campings y otros usos similares:
+
+j.1) Usos recreativos con valla: 0,12 euros/m<sup>2</sup>/año.
+
+j.2) Usos recreativos sin valla: 0,07 euros/m<sup>2</sup>/año.
+
+k) Ocupaciones por cultivos agrícolas: 0,30 euros/m<sup>2</sup>/año.
+
+l) Canteras y actividades extractivas: 0,50 euros/m<sup>2</sup>/año.
+
+4\. Si, como consecuencia de la ocupación, se destruyen o se deterioran los terrenos, los sujetos pasivos, sin perjuicio del pago de la tasa, están obligados al reintegro del coste total de los correspondientes gastos de reconstrucción o reparación. Si los daños son irreparables, la indemnización debe consistir en una cuantía igual al valor de los bienes destruidos o al importe del deterioro de los bienes.
+
+> Se modifica el apartado 3.b) por el art. 49 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 55 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.7-6. Afectación.
+
+La tasa tiene carácter finalista, por lo que, de acuerdo con lo establecido en el artículo 1.1-3, los ingresos que se derivan de la misma quedan afectados a la protección de los caminos ganaderos o de los terrenos forestales que son propiedad de la Generalidad de Cataluña adscritos al Departamento de Agricultura, Ganadería, Pesca, Alimentación y Medio Natural o al Fondo forestal de Cataluña.
+
+> Se modifica por el art. 55 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 11.3 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+### CAPÍTULO VIII — Tasa por la homologación de trofeos de caza
+
+> Se deroga por el art. 111 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 56 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículos 12.8-1 a 12.8-5.
+
+**(Derogados).**
+
+> Se derogan por el art. 111 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+### CAPÍTULO IX — Tasa por la emisión de declaraciones de impacto ambiental y las resoluciones que determinan la necesidad o la no necesidad de someter un proyecto al procedimiento de evaluación de impacto ambiental
+
+> Se modifica por el art. 57.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.9-1. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa:
+
+a) La emisión de las declaraciones de impacto ambiental.
+
+b) Las resoluciones que determinan la aplicación o la no aplicación a un proyecto del procedimiento de evaluación de impacto ambiental. Se incluyen las resoluciones relativas a los proyectos que afectan espacios de la Red Natura 2000 y las relativas a los proyectos de pequeñas instalaciones eólicas definidas en el Decreto 147/2009, de 22 de septiembre, por el que se regulan los procedimientos administrativos aplicables para la implantación de parques eólicos e instalaciones fotovoltaicas en Cataluña.
+
+2\. No están sujetas a esta tasa las actividades que requieren autorización ambiental, de acuerdo con lo establecido por la Ley 20/2009, de 4 de diciembre, de prevención y control ambiental de las actividades. Tampoco están sujetos a esta tasa los proyectos públicos promovidos por las administraciones públicas de Cataluña ni los proyectos privados de turismo rural y actividades agrícolas, forestales y ganaderas situados en espacios incluidos en la red Natura 2000 o en el Plan de espacios de interés natural.
+
+3\. Se establece una bonificación del 75% del importe de la cuota por los servicios a los que hace referencia el apartado 1 para los planes y proyectos de gestión forestal y los proyectos de roturaciones en municipios de alto riesgo de incendio forestal, y del 100% para los planes y proyectos de gestión forestal con objetivos de prevención de incendios forestales.
+
+> Se modifica el apartado 3 por el art. 1.2 de la Ley 5/2026, de 20 de mayo. [Ref. BOE-A-2026-15679](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15679)
+
+> Se añade el apartado 3 por el art. 1.2 del Decreto-ley 21/2025, de 14 de octubre. [Ref. BOE-A-2026-561](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-561)
+
+> Se modifica el apartado 1 por el art. 57.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 28.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica el apartado 2 por el art. 13.1 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 12.9-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas a las que afecta la prestación del servicio.
+
+#### Artículo 12.9-3. Acreditación.
+
+La tasa se acredita mediante la prestación del servicio y es exigible por anticipado en el momento en que se formula la solicitud.
+
+> Se modifica por el art. 57.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 28.2 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 12.9-4. Cuota.
+
+a) Por la emisión de una declaración de impacto ambiental de los proyectos otros que los establecidos por las letras b y d: 3.868,25 euros.
+
+b) Por la emisión de una declaración de impacto ambiental de actividades sometidas a licencia ambiental y a declaración de impacto ambiental que se incluyan en el epígrafe 11.1 del anexo II de la Ley 20/2009, de 4 de diciembre, de prevención y control ambiental de las actividades: 2.036,80 euros.
+
+c) Por la emisión de una resolución que determina la aplicación o la no aplicación a un proyecto del procedimiento de evaluación de impacto ambiental: 2.097,55 euros.
+
+d) Por la emisión de una declaración de impacto ambiental de los proyectos respecto de los cuales se ha emitido previamente una resolución que determina la aplicación del procedimiento de evaluación de impacto ambiental: 1.770,70 euros.
+
+> Se modifican las letras a) y c) y se añade la d) por el art. 57.4 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 28.3 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 12.9-5. Afectación.
+
+La tasa tiene carácter finalista, por lo que, de conformidad con el artículo 1.1.3, los ingresos derivados de la misma se afectan a la Secretaría de Medio Ambiente y Sostenibilidad para las siguientes actuaciones:
+
+a) Estudios para determinar y caracterizar umbrales de los distintos tipos de proyectos a los efectos de lo establecido por el artículo 3.2 *in fine* del Real decreto legislativo 1/2008, de 11 de enero.
+
+b) Actuaciones de protección y corrección medioambiental de proyectos y actividades realizados antes de la entrada en vigor de la normativa de impacto ambiental, o bien de actividades o proyectos a los que, en el momento de iniciarse, no les era exigible someterse al procedimiento de evaluación de impacto ambiental, pero a los que la normativa posterior exige esta evaluación.
+
+c) Proyectos de investigación y desarrollo (I+D) en materia de tecnologías y sistemas para la evaluación, prevención, minimización y control del impacto ambiental sobre el medio natural.
+
+d) La vigilancia del cumplimiento de las declaraciones de impacto, con el estudio de impacto aprobado y las condiciones adicionales impuestas, y de su efectividad.
+
+> Se modifica por el art. 28.4 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 13.2 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+### CAPÍTULO X — Tasa por informes e inspección
+
+#### Artículo 12.10-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la elaboración de informes técnicos para evaluar los programas de restauración de actividades y la inspección de las obras y acciones de restauración.
+
+> Se modifica por el art. 29.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 14.1 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 12.10-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas a las que afecta la prestación del servicio.
+
+#### Artículo 12.10-3. Devengo.
+
+La tasa se devenga mediante la prestación del servicio y es exigible por adelantado desde el momento en que se formula la solicitud.
+
+#### Artículo 12.10-4. Cuota.
+
+1\. Por informes técnicos de evaluación de programas de restauración de actividades extractivas:
+
+a) Parte fija: 210,40 euros.
+
+b) Parte variable: 42,25 euros por hectárea.
+
+2\. Por inspección de las obras y las acciones de restauración de la explotación de actividades extractivas: 136,90 euros.
+
+> Se modifica por el art. 29.2 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 14.2 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+### CAPÍTULO XI — Tasa por la obtención y renovación del distintivo de garantía de calidad ambiental
+
+#### Artículo 12.11-1. Hecho imponible.
+
+Constituyen el hecho imponible de la tasa la obtención y la renovación del distintivo de garantía de calidad ambiental.
+
+#### Artículo 12.11-2. Sujeto pasivo.
+
+Son sujetos pasivos las personas físicas o jurídicas que soliciten el servicio y los que quedan incluidos en las disposiciones del artículo 7.1.a y b del Decreto 316/1994, de 4 de noviembre, modificado por el Decreto 296/1998, de 17 de noviembre, por el que se amplía el ámbito del distintivo de garantía de calidad ambiental a los servicios.
+
+#### Artículo 12.11-3. Exenciones.
+
+1\. Están exentas de las tasas fijadas por el artículo 12.11-5 las entidades públicas, las entidades privadas sin ánimo de lucro y las entidades participadas por un organismo autónomo o una empresa dependiente de la Generalidad, siempre que esta participación supere el 50% del capital.
+
+2\. Están exentos de las tasas correspondientes a las cuotas de renovación establecidas por el apartado 2 del artículo 12.11-5 los sujetos pasivos que tienen la etiqueta ecológica comunitaria para los mismos productos o servicios a los que se otorga el distintivo de garantía de calidad ambiental, siempre que acrediten el pago de la cuota correspondiente.
+
+#### Artículo 12.11-4. Devengo.
+
+La tasa se devenga por la obtención y la renovación del distintivo de garantía de calidad ambiental, pero puede ser exigida la justificación del ingreso de la tasa cuando se presenta la solicitud.
+
+#### Artículo 12.11-5. Cuota.
+
+1\. La cuota de la tasa es la siguiente:
+
+a) Por cada solicitud de distintivo de garantía de calidad ambiental: 392,05 euros.
+
+b) Por cada solicitud de renovación del distintivo de garantía de calidad ambiental: 261,45 euros.
+
+2\. Pueden aplicarse a la cuota las siguientes bonificaciones, que son acumulables:
+
+a) Reducción del 50% si el sujeto pasivo es una microempresa o una pequeña o mediana empresa, según la definición establecida por la Recomendación 2003/361/CE de la Comisión.
+
+b) Reducción del 15% a los sujetos pasivos que acrediten disponer de la certificación EMAS o ISO 14001.
+
+> Se modifica por el art. 58 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XII — Tasa por la obtención de la etiqueta ecológica de la Unión Europea
+
+> Se modifica por el art. 15.1 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 12.12-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la obtención de la etiqueta ecológica de la Unión Europea.
+
+> Se modifica por el art. 15.2 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 12.12-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los solicitantes que quedan incluidos en las disposiciones del artículo 9.a del Decreto 255/1992, del 13 de octubre.
+
+#### Artículo 12.12-3. Acreditación.
+
+La tasa se acredita en el momento de la obtención, pero puede ser exigida la justificación del ingreso de la tasa en el momento de la presentación de la solicitud.
+
+> Se modifica por el art. 15.3 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 12.12-4. Cuota.
+
+a) Cuota general: 392,94 euros.
+
+b) Cuota si el sujeto pasivo es una microempresa o PYME: 255,48 euros.
+
+c) Cuota si el sujeto pasivo es fabricante de productos o prestador de servicios de países en desarrollo: 294,72 euros.
+
+d) Cuota si el sujeto pasivo es una microempresa o PYME y es fabricante de productos o prestador de servicios de países en desarrollo: 232,60 euros.
+
+e) Cuota si el sujeto pasivo es una microempresa incluida en la categoría de servicios de alojamiento: 232,60 euros.
+
+De acuerdo con lo establecido en el Reglamento (UE) 782/2013 de la Comisión, de 14 de agosto de 2013, por el que se modifica el Reglamento (CE) 66/2010 del Parlamento y del Consejo, de 25 de noviembre de 2009, relativo a la etiqueta ecológica de la Unión Europea, las cuotas indicadas se reducen en un 30% para los solicitantes registrados en el sistema de gestión y auditoría ambientales de la Unión Europea (EMAS) o, en un 15%, con certificación conforme a la norma ISO 14001. Las reducciones no son acumulativas. Cuando se satisfagan los dos sistemas solamente se aplica la reducción más elevada. La reducción está sujeta a la condición de que el sujeto pasivo se comprometa, de manera expresa, a garantizar que sus productos con etiqueta ecológica cumplen los criterios de la etiqueta durante el período de validez del contrato. Este compromiso debe ser incorporado adecuadamente a su política medioambiental y a los objetivos medioambientales detallados del sistema de gestión ambiental.
+
+> Se modifica por el art. 59 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 15.4 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+### CAPÍTULO XIII — Tasa por los servicios de autorización ambiental de actividades
+
+#### Artículo 12.13-1. Hecho imponible.
+
+Constituye el hecho imponible la prestación de los siguientes servicios administrativos:
+
+a) Los relativos a los procedimientos de autorización ambiental de actividades con declaración de impacto ambiental.
+
+b) Los relativos a los procedimientos de autorización ambiental con declaración de impacto ambiental por modificación sustancial de actividades.
+
+b bis) Los relativos a decisión previa sobre sometimiento a evaluación de impacto ambiental dentro de los procedimientos de autorización ambiental de actividades o de modificación sustancial de actividades.
+
+c) Los relativos a los procedimientos de autorización ambiental sin declaración de impacto ambiental.
+
+d) Los relativos a los procedimientos de autorización ambiental por modificación sustancial de actividades sin declaración de impacto ambiental.
+
+d bis) Los relativos a los procedimientos de modificación de la autorización ambiental por modificaciones no sustanciales con efectos sobre el medio ambiente.
+
+e) Los relativos a los procedimientos de revisión de la autorización ambiental de actividades del anexo I.1 de la Ley 20/2009, de 4 de diciembre, de prevención y control ambiental de actividades, ya sea revisión anticipada de oficio por el órgano ambiental, o a instancia de parte, y los relativos a los procedimientos de revisión periódica de la autorización ambiental de actividades del anexo I.2. de la Ley 20/2009.
+
+> Se modifica la letra e) por el art. 112.1 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añaden las letras b bis) y d bis) y se modifica la e) por el art. 60.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 30.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 16.1 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 12.13-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas a las que se prestan los servicios especificados por el artículo 12.13-1.
+
+#### Artículo 12.13-3. Exenciones y bonificaciones.
+
+1\. Están exentos de la tasa el Estado, la Generalidad y los entes locales de Cataluña.
+
+2\. Se establece una bonificación del 75% sobre las cuotas establecidas por el artículo 12.13-5 para los establecimientos que dispongan del certificado de registro en el sistema de gestión y auditoría medioambiental de la Unión Europea (EMAS) y del 50% para los establecimientos que formen parte del Programa de acuerdos voluntarios para la reducción de emisiones de gases de efecto invernadero de la Generalidad, siempre que los gestores de este programa hayan validado el inventario de emisiones realizado por el establecimiento y las medidas de reducción asociadas. Estas bonificaciones no tienen carácter acumulativo.
+
+3\. Se establece una bonificación del 60% sobre las cuotas establecidas en los apartados 1, 2, 3 y 4 del artículo 12.13-5 en caso de que la solicitud corresponda a un proyecto de actividad en relación con el cual se hubiese declarado la caducidad de un procedimiento previo, de acuerdo con el artículo 19 de la Ley 20/2009, de 4 de diciembre, de prevención y control ambiental de las actividades. La aplicación de esta bonificación requiere que la nueva solicitud sea presentada por el mismo titular, para el mismo proyecto de actividad, y en el plazo de dos años a contar desde la declaración de caducidad.
+
+> Se modifica el apartado 2 por el art. 15 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 2 por el art. 50 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 60.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.13-4. Acreditación.
+
+a) En los supuestos a los que se refieren las letras a, b, b bis, c, d y e del artículo 12.13-1, en el momento en que se presenta la correspondiente solicitud o se aporta la información necesaria para la revisión de oficio, que no puede tramitarse si no se ha efectuado el ingreso de la tasa.
+
+b) En el supuesto al que se refiere la letra d bis del artículo 12.13-1, en el momento en que se comunica la modificación no sustancial a la Administración ambiental.
+
+> Se modifica la letra a) por el art. 112.2 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica la letra a) por el art. 35 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 60.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 30.2 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 16.2 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 12.13-5. Cuota.
+
+1\. Por la prestación del servicio al que se refiere la letra *a* del artículo 12.13.1, se fijan las siguientes cuotas:
+
+a) La cuota de 5.414,70 euros para las actividades que se incluyen en el epígrafe 11.1 del anexo I.1 de la Ley 20/2009. Esta cuota se desglosa en 3.377,90 euros en concepto de tramitación de la autorización ambiental y 2.036,80 euros en concepto de evaluación y declaración de impacto ambiental de la actividad.
+
+b) La cuota de 6.530,55 euros para las actividades que se incluyen en el resto de epígrafes del anexo I.1 y del anexo I.2 de la Ley 20/2009. Esta cuota se desglosa en 4.493,75 euros en concepto de tramitación de la autorización ambiental y 2.036,80 euros en concepto de evaluación y declaración de impacto ambiental de la actividad.
+
+2\. Por la prestación del servicio al que se refiere la letra *b* del artículo 12.13.1, se fijan las siguientes cuotas:
+
+a) La cuota de 3.725,85 euros para las actividades que se incluyen en el epígrafe 11.1 del anexo I.1 de la Ley 20/2009. Esta cuota se desglosa en 1.689,05 euros en concepto de tramitación de la autorización ambiental y 2.036,80 euros en concepto de evaluación y declaración de impacto ambiental de la actividad.
+
+b) La cuota de 4.283,75 euros para las actividades que se incluyen en el resto de epígrafes del anexo I.1 y del anexo I.2 de la Ley 20/2009. Esta cuota se desglosa en 2.246,95 euros en concepto de tramitación de la autorización ambiental y 2.036,80 euros en concepto de evaluación y declaración de impacto ambiental de la actividad.
+
+2 bis. Por la prestación del servicio al que se refiere la letra b bis del artículo 12.13-1, se fija una cuota de 2.097,55 euros.
+
+3\. Por la prestación del servicio al que se refiere la letra *c* del artículo 12.13.1, se fija la cuota de 4.493,75 euros.
+
+4\. Por la prestación del servicio al que se refiere la letra *d* del artículo 12.13.1, se fijan las siguientes cuotas:
+
+a) La cuota de 1.689,05 euros para las actividades que se incluyen en el epígrafe 11.1 del anexo I.1 de la Ley 20/2009.
+
+b) La cuota de 2.246,95 euros para las actividades que se incluyen en el resto de epígrafes del anexo I.1 y del anexo I.2 de la Ley 20/2009.
+
+4 bis. Por la prestación del servicio al que se refiere la letra d bis del artículo 12.13-1, se fijan las siguientes cuotas:
+
+a) Para las actividades incluidas en el epígrafe 11.1 del anexo I.1 de la Ley 20/2009: 496,92 euros.
+
+b) Para las actividades incluidas en el resto de epígrafes del anexo I.1 y del anexo I.2 de la Ley 20/2009: 768,43 euros.
+
+5\. Por la prestación del servicio al que se refiere la letra *e* del artículo 12.13.1, se fijan las siguientes cuotas:
+
+a) La cuota de 1.689,05 euros para las actividades que se incluyen en el epígrafe 11.1 del anexo I.1 de la Ley 20/2009.
+
+b) La cuota de 2.246,95 euros para las actividades que se incluyen en el resto de epígrafes del anexo I.1 y del anexo I.2 de la Ley 20/2009.
+
+> Se añaden los apartados 2 bis) y 4 bis) por el art. 60.4 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 30.3 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 16.3 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 12.13-6. Afectación.
+
+Esta tasa tiene carácter finalista, por lo que, y de conformidad con lo que establece el artículo 1.1-3 de esta Ley, los ingresos derivados de la tasa quedan afectados a la financiación del coste del servicio prestado por el Departamento de Medio Ambiente y Vivienda.
+
+### CAPÍTULO XIV — Tasa por los servicios de habilitación de entidades colaboradoras en materia de medio ambiente
+
+> Se modifica por el art. 113 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 61.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.14-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los siguientes servicios administrativos:
+
+a) Los relativos al procedimiento de habilitación y a la realización de auditorías de seguimiento de la habilitación de las entidades colaboradoras.
+
+b) Los relativos al procedimiento de modificación de la habilitación de las entidades colaboradoras.
+
+c) Los relativos a la evaluación de las reclamaciones fundamentadas que se formulan contra las actuaciones de las entidades colaboradoras.
+
+d) Los relativos a la supervisión de las entidades colaboradoras y de las actuaciones llevadas a cabo por estas.
+
+e) Los relativos al procedimiento de levantamiento de una suspensión de la habilitación.
+
+> Se modifica por el art. 113 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 61.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 13 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 12.14-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que piden o son objeto de la prestación de los servicios especificados en el artículo 12.14-1.
+
+> Se modifica por el art. 113 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 12.14-3. Pago de la tasa.
+
+1\. La cuota en concepto de estudio documental por el hecho imponible a, b y e del artículo 12.14-1 debe liquidarse en el momento de presentar la correspondiente solicitud.
+
+2\. El resto de cuotas se liquidan una vez efectuadas las auditorías o estudios documentales correspondientes.
+
+> Se modifica por el art. 113 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 61.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 14 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 12.14-4. Cuota.
+
+Por la prestación de los servicios correspondientes a los hechos imponibles del artículo 12.14-1, se fijan las siguientes cuotas:
+
+1\. Hecho imponible del artículo 12.14-1.a, relativo al procedimiento de habilitación y realización de auditorías de seguimiento de la habilitación de las entidades colaboradoras de la Administración.
+
+1.1 Cuota en concepto de estudio documental:
+
+a) Por las entidades que se habilitan de acuerdo con el artículo 5.1.b) del Decreto 60/2015: 589,70 euros. En el caso de laboratorios de análisis, este importe se liquida para cada grupo de hasta 10 parámetros a habilitar.
+
+b) Por las entidades que se habilitan de acuerdo con el artículo 5.2.b) del Decreto 60/2015, incluida la evaluación de los criterios de independencia e imparcialidad, si procede: 294,85 euros.
+
+1.2 Cuota en concepto de auditoría:
+
+a) Por jornada presencial de auditoría y auditor en las instalaciones de la entidad: 1.320,25 euros.
+
+b) Por jornada presencial de auditoría de campo y auditor: 1.005,95 euros.
+
+2\. Hecho imponible del artículo 12.14-1.b), relativo al procedimiento de modificación de la habilitación de las entidades colaboradoras.
+
+2.1 Cuota en concepto de estudio documental, si procede: 294,85 euros. En el caso de laboratorios de análisis, este importe se liquidará para cada grupo de hasta 10 parámetros a habilitar.
+
+2.2 Cuota en concepto de auditoría: la misma cuota en concepto de auditoría que por el hecho imponible del artículo 12.14-1.a).
+
+3\. Hecho imponible del artículo 12.14-1.c), relativo a la evaluación de las reclamaciones fundamentadas que se formulan contra las actuaciones de las entidades colaboradoras.
+
+3.1 Cuota en concepto de investigación documental de la reclamación: 655,20 euros.
+
+3.2 Adicionalmente, si es necesario hacer auditorías de supervisión, cuota en concepto de las auditorías de supervisión derivadas de cada reclamación:
+
+– 1.005,95 euros si la auditoría de supervisión es con resultado con desviaciones.
+
+– 1.320,25 euros si la auditoría de supervisión es con resultado desfavorable.
+
+4\. Hecho imponible del artículo 12.14.1.d), relativo a las auditorías de supervisión de las entidades colaboradoras y de las actuaciones llevadas a cabo por estas entidades.
+
+4.1 Cuota en concepto de auditoría de supervisión a las instalaciones de la entidad, por jornada presencial de auditoría y auditor: 1.320,25 euros.
+
+4.2 Cuota en concepto de auditoría de supervisión de la actuación, independientemente de si se efectúa documentalmente o en el establecimiento objeto de actuación de la entidad colaboradora:
+
+– 655,20 euros si la auditoría de supervisión es con resultado favorable.
+
+– 1.005,95 euros si la auditoría de supervisión es con resultado con desviaciones.
+
+– 1.320,25 euros si la auditoría de supervisión es con resultado desfavorable.
+
+5\. Hecho imponible del artículo 12.14.1.e), relativo al procedimiento de levantamiento de la suspensión de una habilitación.
+
+5.1 Cuota en concepto de estudio documental: la misma cuota que por el hecho imponible del artículo 12.14-1.a).
+
+5.2 Cuota en concepto de auditoría: la misma cuota en concepto de auditoría que por el hecho imponible del artículo 12.14-1.a).
+
+6\. En caso de que las auditorías de habilitación y las auditorías de supervisión comporten gastos de desplazamiento fuera de Cataluña o pernoctación, estos gastos corren a cargo de la entidad peticionaria.
+
+> Se modifica por el art. 113 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 61.4 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se suprimen los apartados 1.1. 2.2 y 3.1.1 por el art. 11 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+> Redactado conforme a la corrección de errores publicada en DOGC núm. 5718, de 20 de septiembre de 2010. [Ref. BOE-A-2011-552](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-552).
+
+> Se modifica por el art. 15 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 12.14-5 Exenciones.
+
+Están exentas de la tasa establecida por el apartado 1.1*.*a del artículo 12.14-4 las entidades que han presentado la solicitud a la que se refiere el artículo 5.1.b del Decreto 60/2015 por el mismo ámbito sectorial, tipo de entidad y campos de actuación, en los doce meses anteriores a la nueva solicitud, y han abonado la correspondiente tasa y renunciado a la tramitación antes de la emisión del correspondiente informe técnico.
+
+> Se añade por el art. 16 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+### CAPÍTULO XV — Tasa por la tramitación de las solicitudes de autorización de emisión de gases con efecto invernadero
+
+#### Artículo 12.15-1. Hecho imponible.
+
+Constituye el hecho imponible la prestación de los servicios administrativos relativos al procedimiento de resolución de la autorización de emisión de gases con efecto invernadero de las instalaciones incluidas en el ámbito de aplicación de la Ley 1/2005, de 9 de marzo, por el que se regula el régimen de comercio de derechos de emisión de gases de efecto invernadero.
+
+#### Artículo 12.15-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas solicitantes de la autorización de emisión de gases con efecto invernadero a que hace referencia el artículo 12.15-1.
+
+#### Artículo 12.15-3. Acreditación
+
+La tasa se acredita en el momento del otorgamiento de la autorización de emisiones de gases de efecto invernadero y es exigible por adelantado en el momento en que se formula la solicitud.
+
+> Se modifica por el art. 51.1 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 12.15-4. Cuota.
+
+1\. La cuota de la tasa por el otorgamiento de la autorización de emisión de gases con efecto invernadero para una instalación es de 290,30 euros.
+
+2\. En el caso de autorizaciones de emisión de gases con efecto invernadero para varias instalaciones la cuota se incrementa en 96,50 euros por cada instalación de más autorizada.
+
+3\. Se establece una bonificación del 50% sobre las cuotas para los establecimientos que dispongan del certificado de registro en el sistema de gestión y auditoría medioambiental de la Unión Europea (EMAS) y para los establecimientos que formen parte del Programa de acuerdos voluntarios para la reducción de emisiones de gases de efecto invernadero de la Generalidad, siempre que los gestores de este programa hayan validado el inventario de emisiones realizado por el establecimiento y las medidas de reducción asociadas. Estas bonificaciones no tienen carácter acumulativo.
+
+> Se modifica el apartado 3 por el art. 17 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade el apartado 3 por el art. 51.2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 12.15-5. Afectación.
+
+Esta tasa tiene carácter finalista, por lo que, de conformidad con lo que establece el artículo 1.1-3, los ingresos derivados de la tasa quedan afectados a la financiación de las actuaciones por la prevención y la minimización del cambio climático.
+
+### CAPÍTULO XVI — Tasa por la validación de los informes verificados de las emisiones de gases con efecto invernadero
+
+#### Artículo 12.16-1. Hecho imponible.
+
+Constituye el hecho imponible la prestación de los servicios administrativos relativos al procedimiento de validación de los informes verificados de las emisiones de gases con efecto invernadero de las actividades incluidas en el ámbito de aplicación de la Ley 1/2005, de 9 de marzo, por la que se regula el régimen de comercio de derechos de emisión de gases de efecto invernadero.
+
+#### Artículo 12.16-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los/las titulares de autorizaciones de emisiones de gases con efecto invernadero que solicitan la validación del informe verificado de las emisiones de gases de efecto invernadero.
+
+#### Artículo 12.16-3. Devengo.
+
+La tasa se devenga en el momento de solicitar la validación del informe verificado de las emisiones de gases de efecto invernadero.
+
+#### Artículo 12.16-4. Cuota.
+
+La cuota de la tasa es de 240,10 euros.
+
+#### Artículo 12.16-5. Afectación.
+
+Esta tasa tiene carácter finalista, por lo que, de conformidad con lo que establece el artículo 1.1-3, los ingresos derivados de la tasa quedan afectados a la financiación de las actuaciones por la prevención y la minimización del cambio climático.
+
+### CAPÍTULO XVII — Tasa por el servicio de tramitación de las solicitudes de certificados de convalidación de inversiones con objetivos de mejora ambiental a efectos de la deducción fiscal de estas inversiones
+
+> Se añade por el art. 62 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.17-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa el servicio de tramitación de las solicitudes del certificado de convalidación de inversiones con objetivos de mejora ambiental a efectos de la deducción fiscal de estas inversiones.
+
+> Se añade por el art. 62 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.17-2. Sujeto pasivo.
+
+Son sujetos pasivos de esta tasa las personas físicas o jurídicas que solicitan el certificado de convalidación de inversiones.
+
+> Se añade por el art. 62 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.17-3. Acreditación.
+
+La tasa se acredita con la prestación del servicio y es exigible por anticipado desde el momento que se formula la solicitud.
+
+> Se añade por el art. 62 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.17-4. Cuota.
+
+La cuota por cada solicitud de certificado de convalidación de inversiones es de 300 euros. Si el sujeto pasivo es una microempresa o una pequeña o mediana empresa, según la definición establecida por la Recomendación 2003/361/CE de la Comisión, de 6 de mayo, la cuota de solicitud se reduce el 50%.
+
+> Se añade por el art. 62 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XVIII — Tasa por el derecho al examen de aptitud como persona con formación en manipulación de carne de caza
+
+> Se añade por el art. 63 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.18-1. Hecho imponible.
+
+Constituye el hecho imponible de esta tasa el derecho al examen de aptitud como persona con formación en manipulación de carne de caza.
+
+> Se añade por el art. 63 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.18-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas que solicitan el derecho al examen de aptitud como persona con formación en manipulación de carne de caza.
+
+> Se añade por el art. 63 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.18-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de la presentación de la solicitud del derecho a examen.
+
+> Se añade por el art. 63 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.18-4. Cuota.
+
+La cuota de la tasa es de 30 euros para el derecho al examen de aptitud como persona con formación en manipulación de carne de caza.
+
+> Se añade por el art. 63 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.18-5. Afectación.
+
+La tasa tiene carácter finalista, por lo que, de acuerdo con lo establecido en el artículo 1.1-3, los ingresos derivados de la misma quedan afectados a las partidas correspondientes del departamento competente en materia de medio natural para el mantenimiento de los gastos del funcionamiento para la formación en manipulación de carne de caza, gastos de material y del personal docente y administrativo necesario para realizar todas las tareas relacionadas.
+
+> Se añade por el art. 63 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XIX — Tasa por la expedición de precintos de caza mayor en las áreas privadas de caza y en las áreas locales de caza
+
+> Se añade por el art. 64 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.19-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa el otorgamiento del precinto de caza mayor en las áreas privadas y en las áreas locales que, de acuerdo con la legislación, lo requieren para practicar la caza de las siguientes especies:
+
+1.1 Cabra montés macho y hembra.
+
+1.2 Rebeco macho y hembra.
+
+1.3 Ciervo macho.
+
+1.3 bis. Corzo macho
+
+1.4 Potestativamente, otros ungulados, o género, no incluidos en la lista anterior.
+
+> Se añade el apartado 1.3 bis por el art. 52 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 36 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se añade por el art. 64 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.19-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas, físicas o jurídicas, titulares de las áreas privadas de caza o de las áreas locales de caza.
+
+> Se añade por el art. 64 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.19-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de la presentación de la solicitud del permiso y del precinto de caza mayor en las áreas privadas de caza o en las áreas locales de caza.
+
+> Se añade por el art. 64 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.19-4. Cuota.
+
+La cuota por cada juego de precintos es de 2 euros. El juego de precintos consta de dos partes con la misma numeración, una para el cuerpo y otra para la cabeza de la pieza abatida.
+
+> Se añade por el art. 64 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.19-5. Afectación.
+
+La tasa tiene carácter finalista, por lo que, de acuerdo con lo establecido en el artículo 1.1-3, los ingresos que se derivan de la misma quedan afectados a la conservación de este recurso cinegético en las partidas correspondientes del departamento competente en materia de medio natural.
+
+> Se añade por el art. 64 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XX — Tasa por la expedición de la autorización de captura en vivo de aves fringílidas para la actividad tradicional de concursos de canto y de las anillas oficiales que acompañan a la autorización
+
+> Se deroga por el art. 53 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 37 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se añade por el art. 65 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículos 12.20-1 a 12.20-5.
+
+**(Derogados).**
+
+> Se derogan por el art. 53 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO XXI
+
+## Tasa por el servicio de inspección ambiental de los establecimientos incluidos en el Plan de inspección ambiental de Cataluña
+
+> Se añade por el art. 66 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.21-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa el servicio de inspección ambiental de los establecimientos incluidos en el Plan de inspección ambiental de Cataluña, dada la incidencia ambiental de las actividades que ejercen.
+
+> Se añade por el art. 66 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.21-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas titulares de los establecimientos incluidos en el Plan de inspección ambiental de Cataluña.
+
+> Se añade por el art. 66 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.21-3. Acreditación.
+
+La tasa se acredita con la prestación del servicio de inspección.
+
+> Se añade por el art. 66 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.21-4. Cuota.
+
+Por la prestación del servicio correspondiente al hecho imponible del artículo 12.21-1, se fijan las siguientes cuotas:
+
+a) Por emisión del informe de inspección: 395,42 euros.
+
+b) Por visita a las instalaciones, cuando sea necesaria para emitir el informe de inspección: 599,14 euros.
+
+> Se añade por el art. 66 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 12.21-5. Bonificaciones.
+
+Se establece una bonificación del 75% sobre las cuotas establecidas por el artículo 12.21-4 para los establecimientos que dispongan del certificado de registro en el sistema de gestión y auditoría medioambiental de la Unión Europea (EMAS) y del 50% para los establecimientos que formen parte del Programa de acuerdos voluntarios para la reducción de emisiones de gases de efecto invernadero de la Generalidad, siempre que los gestores de este programa hayan validado el inventario de emisiones realizado por el establecimiento y las medidas de reducción asociadas. Estas bonificaciones no tienen carácter acumulativo.
+
+> Se modifica por el art. 18 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade por el art. 54 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO XXIII — Tasa por la inscripción, el anillamiento y el control de ejemplares de cetrería y de las instalaciones en las que se encuentran alojados
+
+> Se añade por el art. 38 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.23-1 Hecho imponible.
+
+Constituye el hecho imponible de esta tasa la prestación de los servicios administrativos inherentes a la inscripción, el anillamiento y el control de ejemplares de cetrería y de las instalaciones en las que se encuentran alojados.
+
+> Se añade por el art. 38 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.23-2 Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas que solicitan la inscripción del ejemplar en el registro de aves rapaces destinadas a la práctica de la cetrería, el anillamiento del ejemplar y la obtención del correspondiente permiso de tenencia del ejemplar.
+
+> Se añade por el art. 38 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.23-3 Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de la presentación de la solicitud.
+
+> Se añade por el art. 38 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.23-4 Cuota.
+
+La cuota de la tasa es de 50 euros por cada ejemplar inscrito.
+
+> Se añade por el art. 38 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.23-5 Afectación.
+
+Esta tasa tiene carácter finalista, por lo que, de acuerdo con lo establecido por el artículo 1.1-3, los ingresos derivados de la misma quedan afectados a las correspondientes partidas del departamento competente en materia de medio natural para el mantenimiento de los gastos de conservación y recuperación de ejemplares rapaces procedentes del medio natural.
+
+> Se añade por el art. 38 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+### CAPÍTULO XXIV — Tasa por la evaluación y el informe de proyectos de experimentación animal por la Comisión de Experimentación Animal
+
+> Se añade por el art. 39 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.24-1 Hecho imponible.
+
+Constituye el hecho imponible de esta tasa la prestación de los servicios administrativos inherentes a la evaluación y el informe de proyectos de experimentación por la Comisión de Experimentación Animal.
+
+> Se añade por el art. 39 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.24-2 Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas y jurídicas que solicitan la autorización de proyectos de experimentación animal.
+
+> Se añade por el art. 39 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 12.24-3 Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de la presentación de la solicitud.
+
+> Se añade por el art. 39 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se entiende que aunque el legislador lo ha numerado como 12.24-4 en realidad se trata del 12.24-3.
+
+#### Artículo 12.24-4 Cuota.
+
+De acuerdo con el tipo de actuación, se establecen dos tipos de cuota:
+
+a) Una cuota de 110 euros por cada solicitud de evaluación e informe de un proyecto de experimentación animal ante la Comisión de Experimentación Animal como órgano habilitado, con independencia de que el proyecto esté sujeto o no a autorización previa y expresa.
+
+b) Una cuota de 90 euros por cada solicitud de informe de un proyecto de experimentación animal que requiera autorización previa y expresa con la evaluación e informe previos de la Comisión de Experimentación Animal.
+
+> Se añade por el art. 39 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se entiende que aunque el legislador lo ha numerado como 12.24-5 en realidad se trata del 12.24-4.
+
+#### Artículo 12.24-5 Afectación.
+
+Esta tasa tiene carácter finalista, por lo que, de acuerdo con lo establecido por el artículo 1.1-3, los ingresos derivados de la misma quedan afectados a las correspondientes partidas del departamento competente en materia de medio natural para la creación y mantenimiento de un programa y de una red telemáticos de simplificación administrativa para mejorar y agilizar los procedimientos experimentales y la acreditación del personal de los centros públicos y privados de experimentación animal.
+
+> Se añade por el art. 39 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se entiende que aunque el legislador lo ha numerado como 12.24-6 en realidad se trata del 12.24-5.
+
+### CAPÍTULO XXV — Tasa por el servicio de tramitación de la autorización de emisiones regulada por el artículo 13.2 de la Ley del Estado 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera
+
+> Se añade por el art. 114 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 12.25-1 Hecho imponible.
+
+Constituye el hecho imponible de la tasa el servicio de tramitación de las solicitudes de autorización de emisiones, de revisiones de autorización de emisiones y las solicitudes de cambios en la autorización de emisiones.
+
+> Se añade por el art. 114 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 12.25-2 Sujeto pasivo.
+
+Son sujetos pasivos de esta tasa las personas físicas o jurídicas que solicitan la autorización de emisiones, la revisión de la autorización de emisiones o el cambio de la autorización de emisiones.
+
+> Se añade por el art. 114 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 12.25-3. Acreditación.
+
+La tasa se acredita con la prestación del servicio y es exigible por anticipado desde el momento en que se formula la solicitud, que no puede tramitarse si no se ha hecho efectivo el ingreso de la tasa.
+
+> Se añade por el art. 114 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 12.25-4 Cuota.
+
+a) La cuota por cada autorización, revisión y cambio sustancial es de 629,13 euros.
+
+b) La cuota por cada cambio no sustancial es de 315,48 euros.
+
+> Se modifica por el art. 55 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 114 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 12.25-5 Exención.
+
+La Generalidad y el resto de administraciones públicas de Cataluña están exentas de la tasa por el servicio de tramitación de la autorización de emisiones.
+
+> Se añade por el art. 114 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+### CAPÍTULO XXVI — Tasa por el servicio de tramitación de la notificación de emisiones regulada por el artículo 13.3 de la Ley del Estado 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera
+
+> Se añade por el art. 115 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 12.26-1 Hecho imponible.
+
+Constituye el hecho imponible de la tasa el servicio de tramitación de la notificación de emisiones y de los cambios de la notificación de emisiones.
+
+> Se añade por el art. 115 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 12.26-2 Sujeto pasivo.
+
+Son sujetos pasivos de esta tasa las personas físicas o jurídicas que hacen la notificación de emisiones.
+
+> Se añade por el art. 115 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 12.26-3 Acreditación.
+
+La tasa se acredita con la prestación del servicio y es exigible por anticipado desde el momento en que se hace la notificación, que no puede presentarse si no se ha hecho efectivo el ingreso de la tasa.
+
+> Se añade por el art. 115 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 12.26-4 Cuota.
+
+a) La cuota por cada tramitación de notificación de emisiones y cambio sustancial es de 135,96 euros.
+
+b) La cuota por cada cambio no sustancial de la notificación de emisiones es de 72,35 euros.
+
+> Se modifica por el art. 56 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 115 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 12.26-5 Exención.
+
+La Generalidad y el resto de administraciones públicas de Cataluña, sobre todo en cuanto a instalaciones de servicio público, están exentas de la tasa por el servicio de tramitación de la notificación de emisiones.
+
+> Se añade por el art. 115 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+### CAPÍTULO XXVII — Tasa por el servicio de inscripción en el Registro de instalaciones de combustión medianas
+
+> Se añade por el art. 19 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.27-1 Hecho imponible.
+
+Constituye el hecho imponible de la tasa el servicio de inscripción en el Registro de instalaciones de combustión medianas, previsto en el Real decreto 1042/2017, de 22 de diciembre.
+
+> Se añade por el art. 19 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.27-2 Sujeto pasivo.
+
+Son sujetos pasivos de esta tasa las personas físicas o jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley general tributaria que soliciten la inscripción en el Registro de instalaciones de combustión medianas.
+
+> Se añade por el art. 19 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.27-3 Acreditación.
+
+La tasa se acredita con la prestación del servicio y es exigible por anticipado desde el momento en que se formula la solicitud, que no puede tramitarse si no se ha hecho efectivo el ingreso de la tasa.
+
+> Se añade por el art. 19 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.27-4 Cuota.
+
+La cuota por cada solicitud de inscripción en el registro es de 60,10 euros.
+
+> Se añade por el art. 19 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.27-5 Exención.
+
+La Administración de la Generalidad queda exenta de la tasa por el servicio de la inscripción en el registro.
+
+> Se añade por el art. 19 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.27-6 Afectación.
+
+Los ingresos derivados de la tasa por el servicio de inscripción en el Registro de instalaciones de combustión medianas quedan afectados a dotar el Fondo para la Protección del Ambiente Atmosférico, creado por la Ley 22/1983, de 21 de noviembre, de protección del ambiente atmosférico.
+
+> Se añade por el art. 19 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+### CAPÍTULO XXVIII — Tasa por el servicio de resolución sobre la exención de medición de focos con bajo potencial de impacto atmosférico
+
+> Se añade por el art. 20 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.28-1 Hecho imponible.
+
+Constituye el hecho imponible de la tasa el servicio de resolución de las solicitudes de exención de medición de los focos con un potencial contaminador bajo sobre la atmósfera a que se refiere el apartado 2 del artículo 27 del Decreto 139/2018.
+
+> Se añade por el art. 20 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.28-2 Sujeto pasivo.
+
+Son sujetos pasivos de esta tasa las personas físicas o jurídicas titulares de establecimientos clasificados en el grupo A y B del Catálogo de actividades potencialmente contaminantes de la atmósfera que dispongan de focos emisores a que se refiere el apartado 2 del artículo 27 del Decreto 139/2018 y que soliciten su exención de medición.
+
+> Se añade por el art. 20 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.28-3 Acreditación.
+
+La tasa se acredita con la prestación del servicio y es exigible por anticipado desde el momento en que se formula la solicitud, que no puede tramitarse si no se ha hecho efectivo el ingreso de la tasa.
+
+> Se añade por el art. 20 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.28-4 Cuota.
+
+La cuota por cada solicitud de exención de medición es de 128,16 euros/foco.
+
+> Se añade por el art. 20 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.28-5 Exención.
+
+La Administración de la Generalidad queda exenta de la tasa por el servicio de resolución de la exención de emisiones.
+
+> Se añade por el art. 20 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.28-6 Afectación.
+
+Los ingresos derivados de la tasa por el servicio de resolución de la exención de medición de focos con bajo impacto quedan afectados a dotar el Fondo para la Protección del Ambiente Atmosférico, creado por la Ley 22/1983, de 21 de noviembre, de protección del ambiente atmosférico.
+
+> Se añade por el art. 20 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+### CAPÍTULO XXIX — Tasa por la tramitación de los expedientes de segregaciones y ampliaciones de fincas situadas en áreas privadas y locales de caza, y de los expedientes de creación de áreas privadas y locales de caza
+
+> Se añade por el art. 21 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.29-1 Hecho imponible.
+
+Constituye el hecho imponible de esta tasa la prestación de los servicios y actuaciones inherentes a la autorización de segregaciones y ampliaciones de fincas situadas en áreas privadas y locales de caza, y la autorización de creación de áreas privadas y locales de caza.
+
+> Se añade por el art. 21 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.29-2 Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan una segregación o una ampliación o una creación a las que se refiere esta tasa.
+
+> Se añade por el art. 21 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.29-3 Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede exigirse en el momento de la presentación de la solicitud.
+
+> Se añade por el art. 21 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 12.29-4 Cuota.
+
+1\. Por la prestación de los servicios y actuaciones inherentes a la autorización de segregaciones y ampliaciones de fincas situadas en áreas privadas y locales de caza: 60 euros.
+
+2\. Por la prestación de los servicios y actuaciones inherentes a la autorización de creación de áreas privadas y locales de caza: 80 euros.
+
+> Se añade por el art. 21 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+## TÍTULO XIII — Vivienda y edificación
+
+### CAPÍTULO I — Tasa por la expedición de la cédula de habitabilidad
+
+> Se modifica por el art. 67 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 13.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios administrativos y la inspección técnica del proceso de solicitud de la cédula de habitabilidad.
+
+> Se modifica por el art. 67 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 17 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 13.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los solicitantes de la cédula, o sea, las personas naturales y jurídicas públicas o privadas, promotoras, propietarias y cedentes en general de la vivienda, tanto si la ocupan ellas mismas como si la entregan a otras personas por cualquier título. Están exentos de la tasa los propietarios sometidos a un proceso de dación en pago.
+
+> Se modifica por el art. 67 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 13.1-3. Acreditación.
+
+La tasa se acredita en el momento de la realización del hecho imponible, pero puede exigirse la justificación del ingreso en el momento de la presentación de la solicitud.
+
+> Se modifica por el art. 67 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 13.1-4. Cuota.
+
+El importe de la cuota es:
+
+1\. Primera ocupación:
+
+1.1 Por una vivienda: 39 euros.
+
+1.2 Por cada una de las viviendas, cuando se trate de un inmueble de 2 a 5 viviendas: 24 euros.
+
+1.3 Por cada una de las viviendas, cuando se trate de un inmueble de 6 viviendas o más: 18 euros.
+
+2\. Segunda ocupación: por cada vivienda: 18 euros.
+
+> Se modifica por el art. 67 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 13.1-5. Bonificación.
+
+Se establece una bonificación del 30% del importe de la tasa para las solicitudes de cédula de habitabilidad presentadas y tramitadas mediante procedimientos telemáticos.
+
+> Se añade por el art. 67 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 13.1-6. Afectación.
+
+Esta tasa tiene carácter finalista, por lo que los ingresos derivados de la misma quedan afectados a la financiación de las actuaciones protegidas en los planes de vivienda.
+
+> Se añade por el art. 67 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO II — Tasa para la acreditación, la renovación y la verificación del funcionamiento correcto de laboratorios de ensayo para el control de calidad
+
+> Se deroga por el art. 57 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículos 13.2-1 a 13.2-4.
+
+**(Derogados).**
+
+> Se derogan por el art. 57 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO III — Tasa para la inspección técnica de edificios de viviendas
+
+> Se deroga por el art. 58 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 18 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículos 13.3-1 a 13.3-5.
+
+**(Derogados).**
+
+> Se derogan por el art. 58 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO IV — Tasa para las solicitudes de descalificación voluntaria de las viviendas de protección oficial o con protección oficial
+
+> Se deroga por la disposición derogatoria.1.c) del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
+
+> Se añade por el art. 68 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículos 13.4-1 a 13.4-5.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria.1.c) del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
+
+> Se añade por el art. 68 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+## TÍTULO XIV — Industria
+
+### CAPÍTULO I — Tasa por la prestación de servicios en materia de metrología, autorizaciones de instalaciones, inscripciones registrales, control de aparatos y vehículos, ordenación minera y certificaciones técnicas e informes
+
+> Se modifica por el art. 69.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 14.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación por el Departamento competente en materia de seguridad industrial de los servicios especificados en el artículo 14.1-4.
+
+#### Artículo 14.1-2. Sujeto pasivo.
+
+1\. Son sujetos pasivos contribuyentes de la tasa las personas naturales o jurídicas, públicas o privadas, a las que se prestan o afectan los servicios mencionados en el artículo 14.1-4.
+
+2\. Son sujetos pasivos sustitutos del contribuyente las entidades autorizadas cuando el servicio se presta en virtud de autorización, sin perjuicio de la repercusión que tengan en el contribuyente.
+
+> Se modifica el apartado 2 por el art. 31.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 14.1-3. Devengo.
+
+La tasa se devenga mediante la prestación del servicio y se puede exigir, sin embargo, por adelantado desde el momento de la iniciación del expediente. Si, una vez iniciado el expediente, se produce la conclusión, por desistimiento de la persona interesada o por causas que le sean imputables, la tasa se acredita en la cuantía de un 35% de la tarifa aplicable, si no ha tenido lugar la prestación total del servicio. En el supuesto contrario, se devenga la totalidad de la tasa y no procede devolución alguna.
+
+#### Artículo 14.1-4. Cuota.
+
+Las cuotas de la tasa se ajustan a las tarifas siguientes:
+
+1\. Metrología:
+
+1.1 Certificado de uso y ensayo metrológico y sus correspondientes modificaciones y renovaciones: la cuota es de 709,80 euros por modelo o familia de tipo.
+
+1.2 **(Derogado).**
+
+1.3 Nombramiento de jefes de laboratorios de verificación metrológica y las correspondientes modificaciones y renovaciones: la cuota es de 100 euros.
+
+1.4 Laboratorios de contraste de metales preciosos:
+
+1.4.1 Autorización de laboratorios de metales preciosos: la cuota es de 284,00 euros.
+
+1.4.2 Modificación de la autorización de laboratorios de metales preciosos: la cuota es de 194,00 euros.
+
+1.4.3 Renovación de la autorización de laboratorios de metales preciosos: la cuota es de 92,00 euros.
+
+1.5 Designación de organismos notificados, organismos de control metrológico y organismos autorizados de verificación metrológica y sus correspondientes modificaciones:
+
+1.5.1 Designación de organismos notificados, organismos de control metrológico y organismos autorizados de verificación metrológica y su inscripción en el Registro de control metrológico: la cuota es de 1.801,80 euros.
+
+1.5.2 Modificación de organismos notificados, organismos de control metrológico y organismos autorizados de verificación metrológica y su inscripción en el Registro de control metrológico: la cuota es de 1.515,70 euros.
+
+1.6 Inscripción en el Registro de control metrológico de fabricantes, importadores, comercializadores, arrendadores y reparadores de instrumentos y sistemas de control metrológico y las correspondientes modificaciones y renovaciones: la cuota es de 100 euros.
+
+1.7 Verificación primitiva, verificación CE, verificación en origen, verificación periódica y verificación después de reparación o modificación:
+
+1.7.1 Realizada por la Administración: la cuota de emisión de la etiqueta o del certificado de verificación es de 8,15 euros.
+
+1.7.2 Hecha por un organismo autorizado de verificación metrológica: la cuota de tramitación es de 2,20 euros por instrumento de medida.
+
+1.8 Verificaciones por motivos de reclamación:
+
+1.8.1 Contadores de agua de capacidad igual o inferior a 20 m<sup>3</sup>/h: 19,55 euros.
+
+1.8.2 Contadores de agua de capacidad superior a 20 m<sup>3</sup>/h: 145,85 euros.
+
+1.8.3 Contadores de gas de capacidad igual o inferior a 20 m<sup>3</sup>/h: 34,95 euros.
+
+1.8.4 Contadores de gas de capacidad superior a 20 m<sup>3</sup>/h: 470,40 euros.
+
+1.8.5 Contadores eléctricos monofásicos: 42,15 euros.
+
+1.8.6 Contadores eléctricos trifásicos: 231,10 euros.
+
+2\. Resolución de expedientes de autorización de actividades industriales e instalaciones sujetas a reglamentos de seguridad industrial y normalización, y comprobación de actividades e instalaciones que no requieren autorización previa o cuyo otorgamiento no corresponde a la Generalidad.
+
+2.1 **(Derogado)**
+
+2.2 Otros tipos de expedientes.
+
+2.2.1 Nueva instalación o ampliación (base: valor de la instalación o de la ampliación en euros).
+
+Para cualquier valor de la instalación o de la ampliación deben abonarse 200 euros + 2.000 * N
+
+(N=valor base dividido por un millón).
+
+2.2.2 Por la inscripción de instalaciones que por su escasa importancia no necesitan proyecto técnico, se aplica el 50% de la cuota correspondiente del apartado 2.2.1.
+
+2.2.3 Por las prórrogas y las modificaciones de las instalaciones que afectan a la seguridad, cuando no presupongan ampliación de las inscritas en el Registro, se aplica el 25% de la cuota correspondiente del apartado 2.2.1. La base, en este caso, es el valor de las modificaciones.
+
+2.2.4 Cuando el expediente principal comporta, además, la presentación de separata de otras reglamentaciones de seguridad, se aplica, por el conjunto, el 150% de la cuota correspondiente del apartado 2.2.1.
+
+2.2.5 Por las ampliaciones, las modificaciones o los cambios derivados de la acción inspectora con ocasión de la revisión, periódica o a petición de terceros, de los registros, se aplica el 200% de la cuota correspondiente del apartado 2.2.1.
+
+3.**(Derogado)**
+
+4\. Ordenación minera (Q=número de cuadrículas mineras).
+
+4.1 Permisos de exploración (mínimo para Q=300): 1.302,35 euros+1,50 euros (Q-300).
+
+4.2 Permisos de investigación (mínimo Q=1): 1.302,35 euros+5,15 euros (Q-1).
+
+4.3 Concesión de explotación derivada (mínimo Q=50): 1.302,35 euros+24,55 euros (Q-50).
+
+4.4 Concesión de explotación directa (mínimo Q=50): 1.672,90 euros+24,55 euros (Q-50).
+
+4.5 Aprobación de los planes de labores de recursos mineros de las secciones A, C y D. La base es el valor del presupuesto anual de explotación: se aplica el 150% de la cuota correspondiente del apartado 2.2.1.
+
+4.6 Actividades mineras afines: la base es el valor de la instalación o de la ampliación.
+
+4.6.1 Inscripción y autorización de industrias mineras y canteras, pozos, talleres de pirotecnia y polvorines y sus ampliaciones: se aplica la cuota correspondiente del apartado 2.2.1.
+
+4.6.2 Cambio de nombre, prórrogas, caducidades, modificaciones y cambio de condiciones de la actividad.
+
+4.6.2.1 Por el cambio de nombre, las prórrogas, las caducidades, las modificaciones y el cambio de condiciones de la actividad, se aplica la cuota correspondiente del apartado 2.2.3.
+
+4.6.2.2 Por las ampliaciones, los cambios de nombre, las modificaciones o los cambios derivados de la acción inspectora de los registros, con ocasión de la revisión periódica o a petición de terceros, se aplica la cuota correspondiente al apartado 2.2.5.
+
+4.7 Particiones y perímetros de protección: 236 euros.
+
+5\. Certificaciones técnicas e informes.
+
+5.1 Autorizaciones y pruebas de seguridad equivalente.
+
+5.1.1 Autorizaciones de exención de norma: la cuota es de 142 euros.
+
+5.1.2 Autorizaciones de pruebas de seguridad equivalente: la cuota es de 75 euros.
+
+5.2 Registro de actuaciones de entidades colaboradoras y de inspección y control, de empresas y de profesionales autorizados.
+
+5.2.1 Inscripción en las pruebas de competencia profesional en materia de seguridad industrial: 50,30 euros.
+
+5.2.2 Certificaciones referentes a las inscripciones registrales de empresas y de profesionales autorizados, de responsables de talleres de reparación de automóviles, y de no suspensión de actividades, y también la emisión de duplicados de los documentos originales o las certificaciones acreditativas: 13,35 euros.
+
+5.2 bis. Certificados de conformidad en materia de productos industriales.
+
+5.2 bis.1 Certificado de conformidad ADR para vehículos de importación: la cuota es de 213,00 euros.
+
+5.2 bis.2. Certificado de conformidad ATP para vehículos i contenedores de importación:
+
+– Para solicitudes de certificados para vehículos o contenedores, a certificar individualmente: la cuota es de 139,00 euros.
+
+– Para solicitudes de series de contenedores isotérmicos idénticos con número de serie correlativo de menos de dos metros cúbicos, a certificar conjuntamente: la cuota es de 184,00 euros.
+
+5.2 bis.3 Certificado de conformidad a requisitos reglamentarios: la cuota es de 153,00 euros.
+
+5.2 bis.4 Certificado de conformidad de producción: la cuota es de 63,00 euros.
+
+5.3 Otras certificaciones e informes.
+
+5.3.1 Informes relativos a actividades mineras (toma de muestras del fondo del saco, aforamiento de aguas, revisiones reglamentarias de elementos auxiliares en las minas, caducidad de concesiones, campos de tiro, accidentes, autorización del uso o almacenaje de explosivos, voladuras, talleres de pirotecnia y otros): 119,20 euros.
+
+5.3.2 Confrontaciones de proyectos, instalaciones, aparatos, productos y actividades para extender informes o certificaciones, a petición de la persona interesada o de terceras, para obtener subvenciones o desgravaciones o para otras finalidades, para presentación delante de otros organismos, para estimaciones de consumo o fraude, para expropiaciones, para consolidación de concesiones y para explotación de patentes y modelos de utilidad: 91,80 euros.
+
+5.3.3 Comprobación de los niveles de calidad de los servicios públicos de suministro de agua, de gas y de electricidad: 183,40 euros.
+
+5.3.4 **(Derogado).**
+
+6\. Copia auténtica de la tarjeta de inspección técnica de vehículos: 7,35 euros.
+
+> Se modifica el apartado 5.2 bis.2 por el art. 5.1 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifican los apartados 5.2.1 y 5.2 bis.2 por el art. 22.1 y 2 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por el art. 59 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 69.2 a 6 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifican los apartados 1.3, 1.4, 1.5, 2.2.1 y 3.2.4 por el art. 31.2, 2 bis y 3 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica el apartado 2.2.1 por el art. 16 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+> Se modifica el apartado 3.1.1 por la disposición final 1.1 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.1-5. Exenciones.
+
+1\. Está exenta del pago de la tasa la expedición de duplicados de la tarjeta ITV, en caso de robo, siempre y cuando este se justifique mediante la correspondiente denuncia.
+
+2\. Están exentas del pago de la tasa correspondiente las solicitudes de verificaciones por motivos de reclamación de los contadores de agua de capacidad igual o inferior a 20 m<sup>3</sup>/h, de los contadores de gas de capacidad igual o inferior a 20 m<sup>3</sup>/h y de los contadores eléctricos monofásicos, establecidas por los apartados 1.8.1, 1.8.3 y 1.8.5 del artículo 14.1-4, respectivamente, para las personas que acrediten que se encuentran en situación de vulnerabilidad económica o equivalente, de acuerdo con lo establecido por la normativa vigente y que han sido reconocidas por los servicios sociales de la administración local competente, con la vigencia que estos determinen.
+
+3\. Están exentas de la tasa del apartado 2.2 del artículo 14.1-4 las instalaciones generadoras de potencia eléctrica igual o inferior a 100 kW, en relación a la obtención de la autorización administrativa prevista por la normativa sectorial eléctrica.
+
+> Se añade el apartado 3 por el art. 5.2 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifica por el art. 116 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 14.1-6. Normas de aplicación de las cuotas.
+
+1\. La verificación, excepto la metrología, y la prueba de aparatos o elementos en laboratorios oficialmente autorizados se pueden hacer en lotes uniformes, y los controles se pueden hacer utilizando sistemas de muestreo adecuados. El Departamento competente en materia de seguridad industrial, tiene que fijar el número de unidades que integra cada lote.
+
+2\. **(Derogado).**
+
+3\. El Departamento competente en materia de seguridad industrial puede comprobar de oficio los valores declarados en la documentación aportada y solicitar los comprobantes que haga falta, por, si procede, rectificar la base para la fijación de la tasa. A este efecto, sus servicios de inspección pueden establecer baremos o valores medios que faciliten la tarea de evaluación, sin perjuicio del derecho de recurso del administrado o administrada regulado por esta Ley.
+
+4\. En caso de que los servicios de inspección necesarios para el otorgamiento de autorización o la inscripción de instalaciones o aparatos sujetos a reglamentos de seguridad industrial y normalización sean prestados por organismos de control autorizados por la Generalidad o, dentro de su ámbito de actuación, por las autorizaciones del servicio de inspección técnica de vehículos con carácter general, se aplica a los administrados la cuota 3.1.1 y no las cuotas 2 y 3.
+
+5\. **(Derogado).**
+
+6\. **(Derogado).**
+
+7\. La exigibilidad de las tasas por adelantado establecido por el artículo 14.1-3, puede ser aplicada cuando las compañías de suministro energético y otros de similares presenten un elevado número de expedientes o por motivo de urgencia razonada, sin perjuicio del cumplimiento de los plazos reglamentarios de ingreso de la deuda tributaria correspondiente.
+
+> Se derogan los apartados 2, 5 y 6 por el art. 22.3 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 4 por el art. 31.4 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPITULO II — Tasa por la verificación posterior de los datos de la declaración responsable de los organismos de control
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.2-1. Hecho imponible.
+
+El hecho imponible de esta tasa es la actividad administrativa que genera la verificación posterior de los requisitos y las obligaciones que son exigibles a los organismos de control que inician su actividad en Cataluña o que declaran la modificación de sus datos, así como su posterior inscripción en el Registro de agentes de la seguridad industrial de Cataluña.
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.2-2. Sujeto pasivo.
+
+Los sujetos pasivos de esta tasa son los organismos de control que inician su actividad en Cataluña y que presentan una declaración responsable con anterioridad al inicio de la actividad o que declaran la modificación de sus datos.
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.2-3. Devengo.
+
+La tasa se devenga mediante el certificado de inscripción en el Registro de agentes de la seguridad industrial de Cataluña del organismo de control o de la modificación de sus datos. Se exige el importe de la tasa en el momento de presentar la declaración responsable.
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.2-4. Cuota.
+
+La cuota de esta tasa, que debe liquidarse por cada una de las declaraciones responsables o de las modificaciones de datos que se tramiten, es la siguiente:
+
+Declaraciones responsables de organismos de control: 200 euros.
+
+Declaraciones de modificación de datos de organismos de control: 150 euros.
+
+Estos importes pueden ser revisados anualmente, de acuerdo con los criterios establecidos por la Ley de presupuestos.
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+### CAPÍTULO III — Tasa por la solicitud de autorización para prestar el servicio de inspección técnica de vehículos
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.3-1. Hecho imponible.
+
+La tasa por la autorización para prestar el servicio de inspección técnica de vehículos es exigible a todas las entidades que quieren llevar a cabo esta actividad en el territorio de Cataluña.
+
+El objeto de esta tasa es grabar la tramitación de la autorización de cada estación para la prestación del servicio de inspección técnica de vehículos que se establezcan en Cataluña.
+
+El hecho imponible de esta tasa es la actividad administrativa que genera la tramitación del expediente de autorización para prestar el servicio de inspección técnica de vehículos en el territorio de Cataluña y las actuaciones necesarias para asegurar la compatibilidad y la conectividad de los sistemas de información de dichos organismos con la Agencia Catalana de Seguridad Industrial.
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.3-2. Sujeto pasivo.
+
+El sujeto pasivo de esta tasa es quien solicita ser autorizado para prestar el servicio de inspección técnica de vehículos en el territorio de Cataluña.
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.3-3. Devengo.
+
+La tasa se devenga mediante la autorización para prestar el servicio de inspección técnica de vehículos en Cataluña. De la misma, se exigen 500 euros en el momento de la presentación de la solicitud de autorización, y los 20.000 euros restantes, una vez formulada la propuesta de autorización, que debe ser previa a la adopción de la correspondiente resolución.
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.3-4. Cuota.
+
+La cuota de esta tasa, que debe liquidarse por cada uno de los expedientes de autorización que se tramiten, queda fijada en la cantidad de 20.500 euros. Este importe puede ser revisado anualmente, de acuerdo con los criterios establecidos por la Ley de presupuestos.
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+### CAPÍTULO IV — Tasa por el control y la supervisión de los organismos de control, empresas de distribución y empresas instaladoras
+
+> Se modifica por el art. 23 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.4-1. Hecho imponible.
+
+El hecho imponible de esta tasa es la actividad administrativa que genera el control y la supervisión de las actuaciones de inspección de los organismos de control, empresas de distribución de gases combustibles por canalización o empresas instaladoras que actúan en Cataluña, por parte del órgano de la Administración de la Generalidad competente en materia de seguridad industrial.
+
+> Se modifica por el art. 23 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.4-2. Sujetos pasivos.
+
+Los sujetos pasivos de esta tasa son los organismos de control, las empresas de distribución de gases combustibles por canalización o las empresas instaladoras que actúan en Cataluña. El importe de esta tasa no puede repercutirse sobre los usuarios finales.
+
+> Se modifica por el art. 23 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.4-3. Acreditación.
+
+La tasa se acredita mediante la expedición de un acta o un certificado del resultado del control que lleve a cabo el órgano de la Administración de la Generalidad competente en materia de seguridad industrial. Se exige el importe de la tasa mensualmente, en el momento en que el sujeto pasivo remita al órgano de la Generalidad competente en materia de seguridad industrial la relación de actuaciones que dé origen a la actividad de control y supervisión.
+
+> Se modifica por el art. 23 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.4-4 Cuota.
+
+La cuota de esta tasa, que debe liquidarse por cada una de las actuaciones de inspección que hayan efectuado los organismos de control, empresas de distribución de gases combustibles por canalización o empresas instaladoras que actúan en Cataluña, que deben ser objeto de control y supervisión por parte del órgano de la Administración de la Generalidad competente en materia de seguridad industrial, es la siguiente:
+
+Actuaciones de inspección:
+
+Inspecciones nivel A: 11,05 euros por inspección.
+
+Inspecciones nivel M: 6,65 euros por inspección.
+
+Inspecciones nivel B: 2,80 euros por inspección.
+
+Los niveles de inspección que corresponden a cada tipo de instalación de cada ámbito reglamentario son los siguientes:
+
+| Ámbito reglamentario | Tipo de inspección/Agente que puede realizar la inspección | Tipo de instalación/ producto | Nivel de inspección |
+|---|---|---|---|
+| AR-01/Reglamento de aparatos de elevación y su manutención | Periódica/Organismo de control |  |  |
+| AR-01/Ascensores | Periódica/Organismo de control |  | M |
+| AR-01/Grúas torre | Periódica/Organismo de control |  | A |
+| AR-01/Grúas autopropulsadas | Periódica/Organismo de control |  | A |
+| AR-02/Reglamentos electrotécnicos de baja y alta tensión | Periódica |  |  |
+| AR-02/Baja tensión | Periódica/Organismo de control | Con memoria técnica | M |
+| AR-02/Baja tensión | Periódica/Organismo de control | Con proyecto (potencia ≤ 50 kW) | M |
+| AR-02/Baja tensión | Periódica/Organismo de control | Con proyecto (potencia > 50kW) | A |
+| AR-02/Alta tensión | Periódica/Organismo de control |  | A |
+| AR-03/Reglamento de equipos a presión | Tipo de inspección |  |  |
+| AR-03/Instalaciones de equipos a presión | Periódica/Empresa instaladora | Con memoria técnica (inspección tipo A) | M |
+| AR-03/Instalaciones de equipos a presión | Periódica/Empresa instaladora | Con proyecto (inspección tipo A) | A |
+| AR-03/Instalaciones de equipos a presión | Periódica/Organismo de control | Con memoria técnica (inspección tipo B o C) | M |
+| AR-03/Instalaciones de equipos a presión | Periódica/Organismo de control | Con proyecto (inspección tipo B o C) | A |
+| AR-04/Reglamento de instalaciones de almacenaje de productos químicos |  |  |  |
+| AR-04/Reglamento de instalaciones de almacenaje de productos químicos | Periódica/Organismo de control | Clase segunda | A |
+| AR-04/Reglamento de instalaciones de almacenaje de productos químicos | Periódica/Organismo de control | Clase tercera (volumen ≤ 500 m<sup>3</sup>) | M |
+| AR-04/Reglamento de instalaciones de almacenaje de productos químicos | Periódica/Organismo de control | Clase tercera (volumen > 500m<sup>3</sup>) | A |
+| AR-05/Reglamento para plantas e instalaciones frigoríficas | Periódica/Organismo de control |  | M |
+| AR-06/Reglamento de gases combustibles |  |  |  |
+| AR-06/Depósitos licuados del petróleo (GLP) | Periódica/Organismo de control | Con memoria técnica | M |
+| AR-06/Depósitos licuados del petróleo (GLP) | Periódica/Organismo de control | Con proyecto | A |
+| AR-06/Plantas de gas natural licuado (GNL) | Periódica/Organismo de control |  | A |
+| AR-06/Estaciones de servicio de gas | Periódica/Organismo de control |  | A |
+| AR-06/Instalaciones receptoras | Periódico/Distribuidora o Instaladora | Instalación individual (potencia ≤ 70 kW) | B |
+| AR-06/Instalaciones receptoras | Periódica/Distribuidora o Instaladora | Instalación individual (potencia > 70 kW) | M |
+| AR-06/Instalaciones receptoras | Periódica/Distribuidora o Instaladora | Instalación comunitaria (potencia ≤ 2.000 kW) | M |
+| AR-06/Instalaciones receptoras | Periódica/Distribuidora o Instaladora | Instalación comunitaria (potencia > 2.000 kW) | A |
+| AR-07/Reglamento de instalaciones petrolíferas | Periódica/Organismo de control |  | A |
+| AR-08/Reglamento de instalaciones térmicas en edificios | Periódica/Organismo de control | Clase 1.1 | B |
+| AR-08/Reglamento de instalaciones térmicas en edificios | Periódica/Organismo de control | Clase 1.2 | M |
+| AR-08 /Reglamento de instalaciones térmicas en edificios | Periódica/Organismo de control | Clase 2 | A |
+| AR-09/Reglamento de bancos solares en establecimientos que presten el servicio de bronceado artificial | Periódica/Organismo de control |  | M |
+| AR-10/Reglamento de establecimientos afectados por la normativa de accidentes graves | Periódica/Organismo de control | Nivel inferior | A |
+| AR-10/Reglamento de establecimientos afectados por la normativa de accidentes graves | Periódica/Organismo de control | Nivel superior | A |
+| AR-11/Reglamento de seguridad contra incendios en los establecimientos industriales | Periódica/Organismo de control |  | A |
+| AR-12/Reglamento de instalaciones de protección contra incendios | Periódica/Organismo de control |  | M |
+| AR-13/ATP (Acuerdo sobre transportes internacionales de mercancías perecederas) | Organismo de control |  | M |
+| AR-14/ADR (Acuerdo internacional de mercancías peligrosas) | Organismo de control |  | A |
+
+> Se modifica por el art. 6 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifica por el art. 23 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por el art. 60 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899)
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194)
+
+### CAPÍTULO V — Tasa por el control y la supervisión de los titulares de las estaciones de inspección técnica de vehículos
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.5-1. Hecho imponible.
+
+1\. Esta tasa es exigible a todos los titulares de las estaciones de inspección técnica de vehículos autorizados para actuar en el territorio de Cataluña, a efectos de llevar a cabo las actuaciones de inspección que establecen la normativa de aplicación y las instrucciones y los protocolos aprobados por el órgano competente de la Generalidad en materia de seguridad industrial.
+
+2\. El objeto de la tasa es grabar las actuaciones de control y supervisión que el órgano competente de la Generalidad en materia de seguridad industrial lleva a cabo sobre las actuaciones de inspección que han efectuado los titulares de las estaciones de inspección técnica de vehículos.
+
+3\. El hecho imponible de la tasa es la actividad administrativa que genera el control y la supervisión de las actuaciones de inspección de los titulares de las estaciones de inspección técnica de vehículos por parte del órgano competente de la Generalidad en materia de seguridad industrial.
+
+> Se modifica por el art. 32.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.5-2. Sujeto pasivo.
+
+Los sujetos pasivos de esta tasa son los titulares de las estaciones de inspección técnica de vehículos autorizados que operan en Cataluña. El importe de esta tasa no puede hacerse repercutir sobre los usuarios del servicio de inspección técnica de vehículos.
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.5-3. Acreditación.
+
+La tasa se acredita mediante la expedición de un acta o un certificado del resultado del control que lleva a cabo el órgano competente de la Generalidad en materia de seguridad industrial, pero se exige su importe previamente a la práctica del control, en el momento de la recepción de la documentación o de la solicitud que da origen a la actuación inspectora de los titulares de la estación de inspección técnica de vehículos.
+
+> Se modifica por el art. 32.2 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.5-4. Cuota.
+
+La cuota de esta tasa, que debe liquidarse por cada una de las actuaciones de inspección que hayan efectuado los titulares de la estación de inspección técnica de vehículos, las cuales deben ser objeto del control y la supervisión del órgano competente de la Generalidad en materia de seguridad industrial, es la siguiente:
+
+Actuaciones de inspección:
+
+Inspecciones documentales: 2,20 euros por inspección.
+
+Inspecciones iniciales, modificaciones y reformas: 5,35 euros por inspección.
+
+Inspecciones periódicas: 0,65 euros por inspección.
+
+Estos importes pueden ser revisados anualmente, de acuerdo con los criterios establecidos por la Ley de presupuestos.
+
+> Se modifica por el art. 32.3 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+### CAPÍTULO VI — Tasa por la verificación de los datos de la declaración responsable de las instalaciones y los aparatos
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.6-1. Hecho imponible.
+
+El hecho imponible de esta tasa es la actividad administrativa que genera la verificación de los datos correspondientes a la declaración responsable para dar de alta las instalaciones, así como la tramitación y la anotación de la inscripción o de la modificación de sus datos en el Registro de instalaciones técnicas de seguridad industrial de Cataluña.
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.6-2. Sujeto pasivo.
+
+Los sujetos pasivos de esta tasa son los titulares de las instalaciones y los aparatos que presentan una declaración responsable o que declaran la modificación de sus datos que deben ser inscritos en el Registro de instalaciones técnicas de seguridad industrial de Cataluña.Sin embargo, si la presentación de la declaración responsable y la tramitación electrónica en la Oficina de Gestión Empresarial de la inscripción en el Registro de instalaciones técnicas de seguridad industrial de Cataluña se realiza mediante un organismo de control, es él el sujeto pasivo sustituto, el cual debe hacer repercutir el importe de la tasa a quien la presente.
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.6-3. Devengo.
+
+La tasa se devenga mediante el certificado de la inscripción o la modificación de los datos en el Registro de instalaciones técnicas de seguridad industrial de Cataluña.Se exige el importe de la tasa en el momento de la presentación de la declaración responsable. Sin embargo, si la presentación de la declaración responsable y la tramitación electrónica en la Oficina de Gestión Empresarial de la inscripción en el Registro de instalaciones técnicas de seguridad industrial de Cataluña se realiza mediante un organismo de control, le corresponde a él efectuar el cobro de la tasa e ingresarla, de acuerdo con las instrucciones correspondientes, al órgano de la Administración de la Generalidad competente.
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.6-4. Cuota.
+
+La cuota de esta tasa, que debe liquidarse por cada una de las declaraciones responsables o de las declaraciones de modificaciones de datos que se tramiten, es la siguiente:
+
+Declaraciones responsables de instalaciones y aparatos: 30 euros.
+
+Declaraciones de modificación de datos de instalaciones y aparatos: 10 euros.
+
+Estos importes pueden ser revisados anualmente, de acuerdo con los criterios establecidos por la Ley de presupuestos.
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+### CAPÍTULO VII
+
+## Tasa por la anotación del resultado de las inspecciones periódicas de las instalaciones y los aparatos en el Registro de instalaciones técnicas de seguridad industrial de Cataluña
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.7-1. Hecho imponible.
+
+El hecho imponible de esta tasa es la actividad administrativa que genera el control del cumplimiento de las condiciones de seguridad, así como la tramitación y la anotación del resultado de las inspecciones periódicas obligatorias de las instalaciones y los aparatos en el Registro de instalaciones técnicas de seguridad industrial de Cataluña.
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.7-2. Sujeto pasivo.
+
+Los sujetos pasivos de esta tasa son los titulares de las instalaciones y los aparatos que soliciten las inspecciones periódicas obligatorias establecidas por los reglamentos técnicos de seguridad industrial aplicables. Sin embargo, es sujeto pasivo sustituto el organismo de control que efectúa la inspección, el cual debe hacer repercutir el importe de la tasa a quien la solicite.
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.7-3. Devengo.
+
+La tasa se devenga mediante el certificado de la anotación del resultado de las inspecciones periódicas obligatorias de las instalaciones y los aparatos en el Registro de instalaciones técnicas de seguridad industrial de Cataluña. Se exige el importe de la tasa en el momento en que se realiza la inspección*.* Sin embargo, corresponde al organismo de control que efectúa la inspección cobrar esta tasa e ingresarla, de acuerdo con las instrucciones correspondientes, al órgano competente de la Administración de la Generalidad.
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.7-4. Cuota.
+
+La cuota de esta tasa, que debe liquidarse por cada una de las inspecciones periódicas obligatorias de las instalaciones y los aparatos que se efectúen, queda fijada en la cantidad de 10 euros.
+
+Este importe puede ser revisado anualmente, de acuerdo con los criterios establecidos por la Ley de presupuestos.
+
+> Se modifica por la disposición final 1.1 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+### CAPÍTULO VIII — Tasa por la inscripción de las inspecciones iniciales, las modificaciones y las reformas que se realicen a los vehículos en el Registro de vehículos
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.8-1. Hecho imponible.
+
+Esta tasa es exigible a los vehículos cuyos titulares hayan efectuado las inspecciones reglamentarias en una estación de inspección técnica de vehículos ubicada en Cataluña en el caso de las inspecciones iniciales y modificaciones, y en el supuesto de legalización de reformas si estas se realizan en un establecimiento ubicado en el territorio de Cataluña, de acuerdo con el Real decreto 736/1988, de 8 de julio, por el que se regula la tramitación de las reformas de importancia de los vehículos de carretera.
+
+El objeto de esta tasa es grabar, a instancia de parte, la inscripción de las inspecciones iniciales, las modificaciones y las reformas que se realicen a los vehículos en el Registro de vehículos.
+
+El hecho imponible de esta tasa es la actividad administrativa que genera la inscripción, en el Registro de vehículos, de las inspecciones iniciales, las modificaciones y las reformas que se realicen a los vehículos.
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.8-2. Sujeto pasivo.
+
+Los sujetos pasivos de esta tasa son los titulares de los vehículos que solicitan la inscripción de la inspección inicial, la modificación o la reforma. Sin embargo, los titulares de la estación de inspección técnica de vehículos que efectúen la inspección son sujetos pasivos sustitutos, y deben hacer repercutir el importe de la tasa a quien la solicite.
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.8-3. Devengo.
+
+La tasa se devenga mediante la inscripción de las inspecciones iniciales, las modificaciones y las reformas que se realicen al vehículo. La tasa debe ser abonada en el momento de efectuar la solicitud. Sin embargo, corresponde a los titulares de la estación de inspección técnica de vehículos encargada de la inspección efectuar el cobro de esta tasa en el momento que reciban la petición de inspección e ingresarla a la Agencia Catalana de Seguridad Industrial.
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+#### Artículo 14.8-4. Cuota.
+
+La cuota de esta tasa, que debe liquidarse por cada una de las inscripciones de inspecciones iniciales, las modificaciones y las reformas que se efectúen a los vehículos en el Registro de vehículos, queda fijada en la cantidad de 6,45 euros. Este importe puede ser revisado anualmente, de acuerdo con los criterios establecidos por la Ley de presupuestos.
+
+> Se añade por la disposición final 1.2 de la Ley 12/2008, de 31 de julio. [Ref. BOE-A-2008-14194](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14194).
+
+### CAPÍTULO IX — Tasa por la autorización de catalogación como vehículo histórico o por la autorización de reacuñación del número de bastidor
+
+> Se añade por el art. 70 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 14.9-1. Hecho imponible.
+
+El hecho imponible de esta tasa es la actividad administrativa que genera la tramitación del expediente de autorización de catalogación como vehículo histórico o de la autorización de reacuñación del número de bastidor.
+
+> Se añade por el art. 70 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 14.9-2. Sujeto pasivo.
+
+Los sujetos pasivos de la tasa son los titulares de los vehículos que soliciten las autorizaciones. En el caso del trámite de reacuñación del número de bastidor es sujeto pasivo sustituto el titular de la estación de inspección técnica de vehículos que lo efectúe, que debe repercutir el importe de la tasa en quien lo solicite.
+
+> Se añade por el art. 70 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 14.9-3. Acreditación.
+
+La tasa se acredita mediante la autorización de la catalogación como vehículo histórico o la autorización de reacuñación del número de bastidor. La tasa debe ser abonada en el momento de solicitar la autorización. En el caso del trámite de reacuñación del número de bastidor corresponde al titular de la estación de inspección técnica de vehículos que lo efectúe cobrar esta tasa en el momento en que reciba la petición e ingresarla en el órgano competente de la Generalidad.
+
+> Se añade por el art. 70 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 14.9-4. Cuota.
+
+La cuota de esta tasa, que debe liquidarse para cada uno de los expedientes de autorización, es la siguiente:
+
+a) Autorización de catalogación como vehículo histórico: 112 euros.
+
+b) Autorización de reacuñación del número de bastidor: 31 euros.
+
+Estos importes pueden ser revisados anualmente, de acuerdo con los criterios establecidos por la Ley de presupuestos.
+
+> Se añade por el art. 70 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO X — Tasa por la tramitación y comprobación de la declaración de inicio de actividad de gestor de cargas del sistema
+
+> Se derogan por la disposición derogatoria 1.d) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 71 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999)
+
+#### Artículos 14.10-1 a 14.10-4.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria 1.d) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+### CAPÍTULO XI — Tasa por el análisis, estudio y comprobación de la solución técnica y económica de nuevos suministros eléctricos
+
+> Se añade por el art. 72 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 14.11-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la actividad administrativa que genera la tramitación de los expedientes que requieren un análisis y comprobación de las soluciones técnicas adoptadas por nuevos suministros de energía eléctrica, relativas a la elección de la tensión de suministro, el punto de entrega y conexión y los costes asociados.
+
+> Se añade por el art. 72 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 14.11-2. Sujeto pasivo.
+
+Los sujetos pasivos de la tasa son las personas físicas o jurídicas que solicitan que la Administración determine las características del suministro y la solución técnica y económica que supone un menor coste y garantiza un desarrollo racional y óptimo de la red eléctrica y la calidad del suministro.
+
+> Se añade por el art. 72 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 14.11-3. Acreditación.
+
+La tasa se acredita en el momento de la realización del hecho imponible, pero puede ser exigida en el momento de la presentación de la solicitud.
+
+> Se añade por el art. 72 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 14.11-4. Cuota.
+
+La cuota de la tasa, que debe liquidarse para cada uno de los expedientes, es la siguiente:
+
+a) Por instalaciones de potencias inferiores a 50 kW: exento.
+
+b) Por instalaciones de potencias entre 50 kW y hasta 100 kW: 357,48 euros.
+
+c) Por instalaciones de potencias superiores a 100 kW e inferiores a 250 kW: 406,94 euros.
+
+d) Por instalaciones de potencias iguales o superiores a 250 kW: 649,12 euros.
+
+> Se añade por el art. 72 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XII — Tasa por la revisión, el control y la inspección de certificados de eficiencia energética de edificios
+
+> Se añade por el art. 73 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 14.12-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la revisión, el control y la inspección de los certificados de eficiencia energética de edificios de Cataluña inscritos en el Registro de certificados de eficiencia energética.
+
+> Se añade por el art. 73 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 14.12-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los promotores de edificios de nueva construcción o grandes rehabilitaciones y los propietarios, en el caso de edificios existentes que deban certificarse según la normativa vigente.
+
+> Se añade por el art. 73 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 14.12-3. Acreditación.
+
+La tasa se acredita en el momento de la realización del hecho imponible y puede ser exigida, por anticipado, en el momento de la presentación del certificado de eficiencia energética del edificio ante el órgano competente de la Administración para que lo inscriba en el Registro de certificados de eficiencia energética.
+
+> Se añade por el art. 73 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 14.12-4. Cuota.
+
+La cuota que se debe liquidar para cada uno de los expedientes es la siguiente:
+
+1\. Certificación de edificios nuevos o grandes rehabilitaciones en fase de edificio acabado:
+
+1.1 Vivienda unifamiliar o piso: 20 euros.
+
+1.2 Bloque de viviendas: la tasa es proporcional al número de viviendas del bloque según esta relación:
+
+T = 9,69*H + 15,62, donde T es la tasa y H el número de viviendas del bloque.
+
+1.3 Por otros usos: 20 euros + 0,2 euros/m<sup>2</sup>.
+
+La tasa no será, en ningún caso, superior a 500 euros.
+
+2\. Certificación de edificios existentes:
+
+2.1 Vivienda unifamiliar o piso: 11 euros.
+
+2.2 Bloque de viviendas: la tasa es proporcional al número de viviendas del bloque según esta relación:
+
+T = 4,90*H + 5,20 donde T es la tasa y H el número de viviendas del bloque.
+
+2.3 Otros usos: 10 euros + 0,1 euros/m<sup>2</sup>.
+
+La tasa no será, en ningún caso, superior a 250 euros.
+
+> Se añade por el art. 73 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 14.12-4 bis Exenciones y bonificaciones.
+
+1\. Están exentos de la tasa las certificaciones de edificios o viviendas existentes o certificaciones por rehabilitaciones de estos edificios que obtengan una calificación energética A.
+
+2\. Se establece una bonificación del 50% sobre las cuotas establecidas por el apartado 2 del artículo 14.12-4 en caso de que la certificación de un edificio o vivienda existente obtenga una calificación energética B y también en caso de que se rehabilite una vivienda o edificio existente y este obtenga la calificación energética B.
+
+> Se añade por el art. 117 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 14.12-5. Afectación.
+
+Las cantidades recaudadas procedentes de la tasa se afectan al fomento de la eficiencia energética y utilización racional de la energía y al resto de funciones reguladas por el artículo 4.1 de la Ley 9/1991, de 3 de mayo, del Instituto Catalán de Energía.
+
+> Se añade por el art. 73 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XIII — Tasa por la verificación posterior de los datos de la declaración responsable de las empresas de instalación, mantenimiento, reparación y operación de instalaciones y productos y de los talleres de reparación de vehículos automóviles
+
+> Se añade por la disposición final 1.2 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+#### Artículo 14.13-1. Hecho imponible
+
+El hecho imponible de esta tasa es la actividad administrativa que genera la verificación posterior de los requisitos y las obligaciones que son exigibles a las empresas de instalación, mantenimiento, reparación y operación de instalaciones y productos o a los talleres de reparación de vehículos automóviles que tienen las instalaciones en Cataluña, o que declaran la modificación de sus datos, así como su posterior inscripción en el Registro de agentes de la seguridad industrial de Cataluña.
+
+> Se añade por la disposición final 1.2 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+#### Artículo 14.13-2. Sujeto pasivo
+
+Los sujetos pasivos de esta tasa son las empresas de instalación, mantenimiento, reparación y operación de instalaciones y productos y los talleres de reparación de vehículos automóviles que presentan una declaración responsable al inicio de su actividad, o que declaran la modificación de sus datos.
+
+> Se añade por la disposición final 1.2 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+#### Artículo 14.13-3. Devengo
+
+La tasa se devenga mediante el certificado de inscripción en el Registro de agentes de la seguridad industrial de Cataluña de la empresa o del taller, o de la modificación de sus datos. Se exige el importe de la tasa en el momento en que se presenta la declaración responsable.
+
+> Se añade por la disposición final 1.2 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+#### Artículo 14.13-4. Cuota
+
+La cuota de esta tasa, que debe liquidarse por cada una de las declaraciones responsables o de las modificaciones de datos que se tramiten, es la siguiente:
+
+Declaraciones responsables de empresas de instalación, mantenimiento, reparación y operación de instalaciones y productos o de talleres de reparación de vehículos automóviles: 100 euros.
+
+Declaraciones de modificación de datos de empresas de instalación, mantenimiento, reparación y operación de instalaciones y productos o de talleres de reparación de vehículos automóviles: 50 euros.
+
+Estos importes pueden ser revisados anualmente, de acuerdo con los criterios establecidos por la Ley de presupuestos.
+
+> Se añade por la disposición final 1.2 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+### CAPÍTULO XIV — Tasa por la verificación de la documentación presentada por los titulares de los establecimientos afectados por la normativa vigente en materia de accidentes graves
+
+> Se modifica por el art. 24 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade por la disposición final 1.3 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+#### Artículo 14.14-1. Hecho imponible.
+
+El hecho imponible de esta tasa es la actividad administrativa que genera la verificación de la documentación preceptiva en materia de accidentes graves presentada por el titular, incluida la evaluación por un organismo de control acreditado.
+
+> Se modifica por el art. 24 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade por la disposición final 1.3 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+#### Artículo 14.14-2. Sujeto pasivo.
+
+Los sujetos pasivos de esta tasa son los titulares de los establecimientos afectados por la normativa de accidentes graves.
+
+> Se modifica por el art. 24 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade por la disposición final 1.3 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+#### Artículo 14.14-3. Acreditación.
+
+La tasa se acredita mediante la presentación de la documentación preceptiva en materia de accidentes graves, incluida la evaluación por un organismo de control acreditado.
+
+> Se modifica por el art. 24 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade por la disposición final 1.3 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+#### Artículo 14.14-4. Cuota.
+
+La cuota de esta tasa, que debe liquidarse en el momento en que se presente una documentación preceptiva en materia de accidentes graves incluida la evaluación por un organismo de control acreditado, es la siguiente:
+
+a) Para establecimientos de nivel inferior: 150 euros.
+
+b) Para establecimientos de nivel superior: 250 euros.
+
+> Se modifica por el art. 24 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifican las letras a) y c) por el art. 61.1 y 2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por la disposición final 1.3 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+### CAPÍTULO XV — Tasa por la autorización o la modificación de la autorización de los organismos notificados
+
+> Se añade por la disposición final 1.4 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+#### Artículo 14.15-1. Hecho imponible.
+
+El hecho imponible de esta tasa es la actividad administrativa que genera la verificación de los requisitos y las obligaciones que son exigibles a los organismos notificados que solicitan ser autorizados o la modificación de los datos de su autorización, así como la tramitación del expediente de autorización o de modificación de los datos de la autorización y su inscripción o anotación en el Registro de agentes de la seguridad industrial de Cataluña.
+
+> Se añade por la disposición final 1.4 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+#### Artículo 14.15-2. Sujeto pasivo.
+
+Los sujetos pasivos de esta tasa son los organismos notificados que solicitan ser autorizados o la modificación de los datos de su autorización.
+
+> Se añade por la disposición final 1.4 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+#### Artículo 14.15-3. Devengo.
+
+La tasa se devenga mediante la resolución de autorización como organismo notificado o la modificación de los datos de su autorización. Se exige el importe de la tasa en el momento en que se presenta la solicitud de autorización o de modificación de datos.
+
+> Se añade por la disposición final 1.4 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+#### Artículo 14.15-4. Cuota.
+
+La cuota de esta tasa, que debe liquidarse por cada uno de los expedientes de autorización o de modificación de autorización, es la siguiente:
+
+Autorización de organismos notificados: 700 euros.
+
+Modificación de la autorización de organismos notificados: 600 euros.
+
+Estos importes pueden ser revisados anualmente, de acuerdo con los criterios establecidos por la Ley de presupuestos.
+
+> Se añade por la disposición final 1.4 de la Ley 9/2014, de 31 de julio. [Ref. BOE-A-2014-8899](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8899).
+
+### CAPÍTULO XVI — Tasa para las entidades docentes que imparten formación en materia de seguridad industrial
+
+> Se añade por el art. 25 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 14.16-1 Hecho imponible.
+
+El hecho imponible de esta tasa es la actividad administrativa que genera la autorización y el control de las actuaciones de las entidades docentes para impartir la formación en materia de seguridad industrial, por parte del órgano de la Administración de la Generalidad competente en materia de seguridad industrial.
+
+> Se añade por el art. 25 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 14.16-2 Sujeto pasivo.
+
+Los sujetos pasivos de esta tasa son las entidades docentes que imparten cursos en materia de seguridad industrial y han sido previamente autorizadas.
+
+> Se añade por el art. 25 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 14.16-3 Acreditación.
+
+La tasa se acredita mediante la inscripción en el Registro de agentes de la seguridad industrial de Cataluña (RASIC).
+
+> Se añade por el art. 25 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 14.16-4 Cuota.
+
+La cuota de esta tasa, que debe liquidarse por cada uno de los expedientes de autorización o de modificación de autorización, es la siguiente:
+
+– Autorización de alta en el RASIC de entidades docentes: 50,30 euros.
+
+– Modificación de la autorización de entidades docentes, incorporando nuevos centros de formación: 50,30 euros.
+
+> Se añade por el art. 25 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+## TÍTULO XV — Juego y espectáculos
+
+### CAPÍTULO I — Tasa por la prestación de servicios en materia de juego y apuestas
+
+> Se modifica por el art. 19 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 15.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación, por el departamento competente en materia de juego y apuestas, de las actuaciones y servicios administrativos que se consignan en el artículo 15.1-4.
+
+> Se modifica por el art. 19 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 15.1-2. Sujeto pasivo.
+
+1\. Son sujetos pasivos contribuyentes de la tasa las personas físicas o jurídicas en cuyo interés se realizan las actuaciones administrativas o se prestan los servicios administrativos que constituyen el hecho imponible.
+
+2\. Son sujetos pasivos sustitutos del contribuyente las personas físicas o jurídicas que solicitan las actuaciones o los servicios administrativos cuando estos deben prestarse en favor de otras personas distintas de las que hacen la solicitud.
+
+> Se modifica por el art. 19 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 15.1-3. Acreditación.
+
+La tasa se acredita en el momento de la iniciación de la actuación administrativa o la prestación del servicio que constituye el hecho imponible, pero puede ser exigida en el momento en el que se hace la solicitud de estos servicios.
+
+> Se modifica por el art. 19 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 15.1-4. Cuota.
+
+El importe de la cuota corresponde a los siguientes conceptos:
+
+1\. Emisión de documentos de homologación de material de juego o inscripción en el Registro de modelos: 188,80 euros.
+
+2\. Inscripción, autorización y renovación de empresas:
+
+2.1. Inscripción en los registros y autorización de empresas de juego: 235,70 euros.
+
+2.2. Modificaciones de las condiciones de inscripción y autorización de empresas de juego: 46,95 euros.
+
+3\. Emisión de documentos profesionales: 27,95 euros.
+
+4\. Autorización, renovación o régimen de comunicación de locales y establecimientos:
+
+4.1. De casinos de juego: 4.719,15 euros.
+
+4.2. De salas de bingo: 943,60 euros.
+
+4.3. De salones de juego (máquinas B): 471,75 euros.
+
+4.4. **(Derogado).**
+
+4.5. De otros locales de juego: 46,95 euros.
+
+4.6. Modificación de autorizaciones de constitución y funcionamiento de locales y establecimientos de juegos: 46,95 euros.
+
+5\. Expedición y duplicados de permisos de explotación: 94,05 euros.
+
+6\. Diligencias relativas a la tramitación de la instalación o el emplazamiento y a los permisos por la explotación de las máquinas recreativas y de azar, y diligencias relativas a los libros: 46,95 euros.
+
+7\. Examen de expediente de autorizaciones o de comunicaciones de rifas, tómbolas, combinaciones aleatorias y apuestas: 46,95 euros.
+
+8\. Expedición de duplicados: 50% de la cuota.
+
+9\. Expedición de permiso de explotación por sustitución con emplazamiento: 187,75 euros.
+
+10\. Expedición de permiso de explotación con emplazamiento: 140,90 euros.
+
+11\. Obtención de la habilitación como entidad de inspección o como laboratorio de ensayos: 943,55 euros.
+
+En función del tipo de habilitación solicitada deben pagarse, además, las siguientes tasas:
+
+11.1. Por ensayos previos de homologación de máquinas recreativas de los tipos B y C: 367,30 euros.
+
+11.2. Para la autorización de otros elementos y material de juego y apuestas o por inspecciones técnicas para la renovación de permisos de explotación de máquinas recreativas y de azar: 192,90 euros.
+
+11.3. Por la comprobación del funcionamiento correcto de los aparatos y materiales de juego y apuestas: 251,20 euros.
+
+11.4. Por la inspección y el control técnico de las instalaciones, de acuerdo con lo establecido por el artículo 20.3 de la Ley 1/1991, de 27 de febrero, reguladora del régimen sancionador en materia de juego: 280,90 euros.
+
+12\. Por la autorización, modificación y cancelación de interconexiones de máquinas recreativas con premio y de azar: 94,90 euros.
+
+> Se deroga el apartado 4.4 y se modifica el apartado 11.1 por el art. 62.1 y 2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 19 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+> Se deroga el apartado 10 por la disposición derogatoria.1.d) de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+### CAPÍTULO II — Tasa por la prestación de servicios en materia de espectáculos públicos y actividades recreativas
+
+> Se añade por el art. 20 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 15.2-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación, por el departamento competente en materia de espectáculos públicos y actividades recreativas, de las actuaciones y servicios administrativos que se consignan en el artículo 15.2-4.
+
+> Se añade por el art. 20 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 15.2-2. Sujeto pasivo.
+
+1\. Son sujetos pasivos contribuyentes de la tasa las personas físicas o jurídicas en cuyo interés se hacen las actuaciones administrativas o se prestan los servicios administrativos que constituyen el hecho imponible.
+
+2\. Son sujetos pasivos sustitutos del contribuyente las personas físicas o jurídicas que solicitan las actuaciones o los servicios administrativos cuando estos deben prestarse en favor de personas distintas de quien hace la solicitud.
+
+> Se añade por el art. 20 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 15.2-3. Acreditación.
+
+La tasa se acredita en el momento de la iniciación de la actuación administrativa o de la prestación del servicio que constituye el hecho imponible, pero puede ser exigida en el momento en el que se hace la solicitud de estos servicios.
+
+> Se añade por el art. 20 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 15.2-4. Cuota.
+
+El importe de la cuota corresponde a los siguientes conceptos:
+
+1\. Autorizaciones para espectáculos públicos o actividades recreativas de carácter extraordinario:
+
+a) Hasta 150 personas de aforo: 145,57 euros.
+
+b) De 151 hasta 500 personas de aforo: 237,55 euros.
+
+c) De 501 hasta 1.000 personas de aforo: 373,67 euros.
+
+d) De 1.001 hasta 2.000 personas de aforo: 534,81 euros.
+
+e) A partir de 2.001 personas de aforo: 749,30 euros.
+
+2\. Autorización de establecimientos de régimen especial: 828,90 euros.
+
+3\. Expedición y renovación del carnet y distintivo profesional del personal de control de acceso: 32,35 euros.
+
+4\. Expedición de duplicados: 50% de la cuota.
+
+5\. Pruebas para obtener la acreditación de controlador o controladora de acceso: 22,50 euros.
+
+6\. Autorización de espectáculos de correbous: 46,45 euros.
+
+7\. Tramitación de la ampliación excepcional del horario de cierre: 75 euros.
+
+8\. Tramitación de la ampliación del horario específico para los establecimientos de restaurante, bar y restaurante bar: 75 euros.
+
+9\. Tramitación para la exención o reducción de vigilantes de seguridad privada: 110 euros.
+
+10\. Tramitación habilitación de academias para la formación de personal de control de acceso: 225 euros.
+
+11\. Tramitación de la validación de las condiciones para ejercer el derecho de admisión: 50 euros.
+
+> Se añaden los apartados 7 a 11 por el art. 118 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 20 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+## TÍTULO XVI — Patronato de la Montaña de Montserrat
+
+### CAPÍTULO I — Tasa por el servicio de guarda de vehículos del Patronato de la Montaña de Montserrat
+
+#### Artículo 16.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa el uso del servicio de aparcamiento de vehículos del cual es titular el organismo autónomo Patronato de la Montaña de Montserrat, cuando no esté afectado al servicio del Patronato.
+
+#### Artículo 16.1-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa a título de contribuyente la persona física o jurídica que utiliza el aparcamiento de vehículos.
+
+#### Artículo 16.1-3. Devengo.
+
+La tasa se devenga en el momento que se inicia el uso del aparcamiento.
+
+#### Artículo 16.1-4. Cuota.
+
+El importe de la cuota es:
+
+1\. Tiempo máximo (1/2 h):
+
+Tipo A: 0 euros. Tipo B: 0 euros. Tipo C: 0 euros. Tipo D: 40 euros.
+
+2\. Tiempo máximo (todo el día):
+
+Tipo A: 3,5 euros. Tipo B: 7 euros. Tipo C: 20 euros. Tipo D: 80 euros.
+
+3\. Tiempo máximo (3 días):
+
+Tipo A: 7,5 euros. Tipo B: 11 euros. Tipo C: 25 euros. Tipo D: 85 euros.
+
+4\. Tiempo máximo (7 días):
+
+Tipo A: 9,5 euros. Tipo B: 12 euros. Tipo C: 30 euros. Tipo D: 90 euros.
+
+5\. Tiempo máximo (15 días):
+
+Tipo A: 11,5 euros. Tipo B: 13 euros. Tipo C: 35 euros. Tipo D: 95 euros.
+
+6\. Tiempo máximo (30 días):
+
+Tipo A: 15 euros. Tipo B: 18 euros. Tipo C: 40 euros. Tipo D: 98 euros.
+
+7\. Tiempo máximo (60 días):
+
+Tipo A: 18 euros. Tipo B: 21 euros. Tipo C: 45 euros. Tipo D: 100 euros.
+
+> Se modifica por el art. 7.1 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifica por el art. 26.1 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por el art. 63.1 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 74.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 21 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 16.1-5. Exenciones y bonificaciones.
+
+1\. Queda exenta la primera media hora de uso del aparcamiento para cualquier tipo de vehículos, excepto los del tipo D.
+
+2\. Quedan exentos de pago los vehículos estacionados en los aparcamientos privados dentro del recinto del monasterio de Montserrat.
+
+3\. Se establecen las siguientes bonificaciones en la cuota determinada por el artículo 16.1-4:
+
+a) Disfrutan de una bonificación de 2,5 euros por vehículo las personas que participan en actividades o acontecimientos autorizados por el Patronato, promovidos por personas físicas o jurídicas legalmente constituidas, que transcurren dentro de la zona urbana de la montaña de Montserrat y que tienen un alcance o un contenido cultural, deportivo, religioso o social.
+
+b) Las personas que se alojan en recinto urbano, en los refugios de la montaña, así como las que utilizan los servicios de restauración y de hotelería en el recinto urbano de la montaña de Montserrat, disfrutan de una bonificación única de 2,5 euros por vehículo. Esta bonificación no es acumulable a la establecida por la letra a.
+
+c) Los vehículos del tipo C y del tipo D que usan los servicios de visitas culturales y hotelería dentro del recinto del monasterio de Montserrat gozan de una bonificación de 40 euros por vehículo del tipo D y servicio, con una bonificación máxima de 50 euros por vehículo del tipo D y de 13,5 euros por vehículo del tipo C. Esta bonificación no es acumulable a otras.
+
+d) Disfrutan de una bonificación de 90 minutos por vehículo del tipo A y del tipo B las personas que se acrediten como «Amigos de Montserrat». Esta bonificación no es acumulable a otras.
+
+4\. Quedan exentos de pago los vehículos del tipo B y del tipo C estacionados acreditados con tarjeta de aparcamiento individual o de transporte colectivo para personas con movilidad reducida y los que acrediten la condición de familia numerosa o monoparental.
+
+> Se modifica por el art. 7.2 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifican los apartados 3.c) y 4 por el art. 26.2 y 3 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifican los apartados 3.c) y d) y se añade el apartado 4 por el art. 63.2 a 4 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 119 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 74.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 16.1-6. Afectación de la tasa.
+
+De conformidad con lo que establece el artículo 1.1-3 de esta Ley, los ingresos derivados de la tasa quedan afectados a la financiación del coste de los servicios prestados por el Patronato de la Montaña de Montserrat.
+
+#### Artículo 16.1-7. Determinación de los tipos de vehículo.
+
+El sistema de identificación de vehículos que acceden a Montserrat distingue cuatro tipos de vehículo según el parámetro dimensional de altura.
+
+Tipo A: motocicletas con o sin sidecar. Tipo B: vehículos con altura inferior a 1,75 m. Tipo C: vehículos con altura superior a 1,75 m. Tipo D: vehículos con altura superior a 3,00 m.
+
+> Se modifica por el art. 7.3 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+## TÍTULO XVII — Pesca
+
+### CAPÍTULO I — Tasa pesca marítima
+
+#### Artículo 17.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación que hace la Dirección General de Pesca y Acción Marítima de los servicios siguientes:
+
+1\. El otorgamiento de cualquier autorización administrativa necesaria para el desarrollo de la actividad de la pesca y la acuicultura.
+
+2\. Los derechos de examen para la obtención de títulos para el ejercicio de la actividad profesional náutico-pesquera y de buceo y para el ejercicio de la actividad náutico-deportiva y subacuático-deportiva. La expedición de títulos y tarjetas de identidad profesional para el ejercicio de la actividad náutico pesquera y de buceo. La expedición de títulos y tarjetas de acreditación de la titulación para el ejercicio de la actividad náutico-deportiva y subacuático-deportiva. La renovación de tarjetas. La expedición de duplicados de certificados de examen, de títulos y tarjetas. La eliminación de la nota restrictiva de mando. Las convalidaciones de asignaturas y títulos. La autorización de apertura de escuelas deportivas náuticas, centros para la enseñanza de la navegación de recreo y centros de buceo.
+
+3\. Las autorizaciones de los concursos de pesca recreativa.
+
+#### Artículo 17.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de esta tasa las personas físicas que solicitan los servicios determinados al artículo 17.1-5.
+
+#### Artículo 17.1-3. Exenciones.
+
+Se establecen las siguientes exenciones del pago de la tasa establecida en el apartado 2 del artículo 17.1-1:
+
+a) Por los derechos de examen para la obtención de los títulos para el ejercicio de la actividad profesional náutico-pesquera y de buceo que requieren un examen único a las personas que pertenecen a los siguientes colectivos:
+
+a.1) Empleados públicos al servicio de la Administración de la Generalidad de Cataluña que requieren estas titulaciones para el desarrollo de su labor.
+
+a.2) Personas que participan en cursos de carácter social establecidos así en el Plan de formación anual de la Escuela de Capacitación Náutico-pesquera de Cataluña que aprueba el director o directora general de Política Marítima y Pesca Sostenible.
+
+a.3) Personas que acceden a los cursos de marinero/a pescador/a organizados por la Escuela de Capacitación Náutico-pesquera de Cataluña conjuntamente con las cofradías de pescadores de Cataluña.
+
+b) Por la expedición o renovación de títulos y tarjetas de identidad profesional para el ejercicio de la actividad náutico-pesquera y de buceo a las personas que pertenezcan a los siguientes colectivos:
+
+b.1) Empleados públicos al servicio de la Administración de la Generalidad de Cataluña que requieren estas titulaciones para el desarrollo de su labor.
+
+b.2) Personas que deben expedir o renovar la titulación de marinero/a pescador/a de cursos realizados en la Escuela de Capacitación Náutico-pesquera de Cataluña, y las personas que estando en posesión de otras titulaciones quieren obtener, por convalidación, la titulación de marinero/a pescador/a para ejercer la actividad profesional en Cataluña.
+
+> Se modifican los apartados a.2), a.3) y b.2) por el art. 27 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por el art. 64 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 75 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 17.1-4. Devengo.
+
+La tasa se devenga y se hace efectiva cuando se solicita la prestación del servicio.
+
+#### Artículo 17.1-5. Cuota.
+
+La cuota de la tasa es:
+
+1\. Autorizaciones administrativas necesarias para el desarrollo de la pesca y la acuicultura.
+
+Por cada expediente: 24,35 euros.
+
+2\. Títulos para el ejercicio de la actividad profesional náutico-pesquera y de buceo y para el ejercicio de la actividad náutico-deportiva y subacuático-deportiva.
+
+2.1 Derechos de examen.
+
+2.1.1 Para la obtención de los títulos para el ejercicio de la actividad profesional náutico-pesquera y de buceo que requiere un examen único: 22,80 euros.
+
+2.1.2 Para la obtención de los títulos para el ejercicio de la actividad profesional náutico-pesquera y de buceo que requieren un examen por asignatura o módulo: 22,80 euros.
+
+2.1.3 Para la obtención del título para el ejercicio de la actividad náutico-deportiva de patrón/ona de navegación básica (examen teórico): 45,55 euros.
+
+2.1.4 Para la obtención del título para el ejercicio de la actividad náutico-deportiva de patrón/ona de navegación básica (examen práctico): 75,10 euros.
+
+2.1.5 Para la obtención del título para el ejercicio de la actividad náutico-deportiva de patrón/ona de embarcaciones de recreo (examen teórico): 53,55 euros.
+
+2.1.6 Para la obtención del título para el ejercicio de la actividad náutico-deportiva de patrón/ona de embarcaciones de recreo (examen práctico): 75,10 euros.
+
+2.1.7 Para la obtención del título para el ejercicio de la actividad náutico-deportiva de patrón/ona de yate (examen teórico): 68,35 euros.
+
+2.1.8 Para la obtención del título para el ejercicio de la actividad náutico-deportiva de patrón/ona de yate (examen práctico): 135,35 euros.
+
+2.1.9 Para la obtención del título para el ejercicio de la actividad náutico-deportiva de capitán/ana de yate (examen teórico): 91 euros.
+
+2.1.10 Para la obtención del título para el ejercicio de la actividad náutico-deportiva de capitán/ana de yate (examen práctico): 135,35 euros.
+
+2.1.11 Exámenes para la obtención de los títulos subacuático deportivos: 91 euros.
+
+2.1.12 Examen para la obtención del título de patrón/ona de moto náutica: 45,55 euros.
+
+2.2 Expedición de títulos y tarjetas:
+
+2.2.1 Expedición de títulos y tarjetas de identidad profesional para el ejercicio de la actividad náutico pesquera y de buceo: 38,80 euros.
+
+2.2.2 Expedición de título y tarjeta de acreditación de la titulación para el ejercicio de la actividad náutico-deportiva de patrón/ona de navegación básica: 45,55 euros.
+
+2.2.3 Expedición de título y tarjeta de acreditación de la titulación para el ejercicio de la actividad náutico-deportiva de patrón/ona de embarcaciones de recreo: 45,55 euros.
+
+2.2.4 Expedición de título y tarjeta de acreditación de la titulación para el ejercicio de la actividad náutico-deportiva de patrón/ona de yate: 64,95 euros.
+
+2.2.5 Expedición de título y tarjeta de acreditación de la titulación para el ejercicio de la actividad náutico-deportiva de capitán/ana de yate: 64,95 euros.
+
+2.2.6 Expedición de títulos y tarjetas de acreditación de la titulación para el ejercicio de la actividad subacuático deportiva: 38,80 euros.
+
+2.2.7 Expedición de título y tarjeta de acreditación de la titulación para el ejercicio de la actividad náutico-deportiva de patrón/ona de moto náutica: 45,55 euros.
+
+2.3 Renovación de tarjetas.
+
+2.3.1 Renovación de tarjetas de acreditación de la titulación para el ejercicio de la actividad náutico-deportiva, subacuático deportiva (por caducidad, pérdida, robo y eliminación de la nota restrictiva): 38,80 euros.
+
+2.3.2 Renovación de tarjetas de acreditación de la titulación para el ejercicio de la actividad profesional náutico pesquera y de buceo profesional (por caducidad, pérdida, robo y eliminación de la nota restrictiva): 38,80 euros.
+
+2.3.3 Renovación de tarjetas de acreditación de la titulación para el ejercicio de la actividad náutico-deportiva (por caducidad, pérdida, robo o eliminación de la nota restrictiva) a las personas más mayores de 70 años: 7,55 euros.
+
+2.4 Expedición de duplicados de certificados de examen, de título (diplomas) y de tarjetas.
+
+2.4.1 Expedición de duplicados de certificados de examen para obtener los títulos para el ejercicio de la actividad profesional náutico pesquera y de buceo y la expedición de duplicados de diplomas de cualquier título: 16,05 euros.
+
+2.5 Convalidación de asignaturas y títulos.
+
+2.5.1 Convalidación de asignaturas y títulos náutico pesqueros: 22,80 euros.
+
+3\. Por la autorización de cada concurso de pesca: 73,35 euros.
+
+4\. Autorizaciones.
+
+4.1 Autorización de apertura.
+
+4.1.1 Escuelas deportivas náuticas: 90,55 euros.
+
+4.1.2 Centros privados para la enseñanza de la navegación de recreo: 90,55 euros.
+
+4.1.3 Centros de buceo: 90,55 euros.
+
+4.1.4 Centros de prácticas de motos náuticas: 90,55 euros.
+
+4.2 Autorización para la realización de prácticas básicas de seguridad y de navegación y de prácticas de vela para la obtención de los títulos náutico-deportivos: 90,55 euros.
+
+4.3 Autorización para la realización del curso para la obtención del título de buzo/a profesional de pequeña profundidad: 90,55 euros.
+
+5\. Obtención de equivalencias entre las calificaciones de buceo de recreo de entidades federativas y no federativas y las calificaciones oficiales de buceo de recreo: 189,40 euros.
+
+### CAPÍTULO II — Tasa por el permiso de pesca
+
+#### Artículo 17.2-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios inherentes al otorgamiento de los permisos para pescar en las zonas de pesca controlada.
+
+#### Artículo 17.2-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas que solicitan la expedición de los permisos correspondientes para pescar en las zonas de pesca controlada.
+
+#### Artículo 17.2-3. Exenciones.
+
+1\. Los sujetos pasivos que acrediten documentalmente la situación de incapacidad permanente total o absoluta y los menores de 18 años están exentos del pago de la tasa en las zonas de pesca controlada con la modalidad de pesca sin muerte. Esta exención no excluye en ningún caso la obligación de obtener el permiso de pesca.
+
+2\. Los sujetos pasivos mayores de 65 años están exentos del pago de la tasa, en las zonas de pesca controlada con la modalidad de pesca sin muerte, de lunes a jueves, salvo los festivos y las vísperas de festivos. No se incluye en esta exención la tasa por permisos de zonas de pesca controlada intensiva. Esta exención no excluye en ningún caso la obligación de obtener el permiso de pesca.
+
+3\. Los pescadores ribereños disponen de una bonificación del 100% en la obtención de los permisos de pesca. Se excluyen los permisos para zonas de pesca controlada intensiva.
+
+A este efecto se consideran pescadores ribereños de una zona de pesca controlada situada en aguas de alta montaña los titulares de una licencia de pesca que tienen fijado su domicilio habitual, durante un período mínimo de cinco años, en el municipio por el que transcurre una parte o la totalidad de la zona de pesca controlada.
+
+> Se modifica por el art. 33.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifican los apartado 1 y 2 por el art. 12.1 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 17.2-4. Devengo.
+
+La tasa se devenga y se hace efectiva en el acta de solicitud del permiso para pescar.
+
+#### Artículo 17.2-5. Cuota.
+
+1\. La cuota de la tasa para permisos de zonas de pesca controlada es la siguiente:
+
+1.1 Salmónidos con muerte (diario).
+
+Tarifa general: 8 euros.
+
+Miembros federados: 6 euros.
+
+Miembros de la sociedad de pescadores que colabora en la gestión de la zona: 4 euros.
+
+1.2 Salmónidos sin muerte (diario).
+
+Tarifa general: 4 euros.
+
+Miembros federados: 3 euros.
+
+Miembros de la sociedad de pescadores que colabora en la gestión de la zona: 2 euros.
+
+1.3 Intensivo con muerte (diario).
+
+Tarifa general: 12,40 euros.
+
+Miembros federados: 9 euros
+
+Miembros de la sociedad de pescadores que colabora en la gestión de la zona: 6,80 euros.
+
+1.4 Intensivo sin muerte (diario).
+
+Tarifa general: 6,20 euros.
+
+Miembros federados: 4,50 euros.
+
+Miembros de la sociedad de pescadores que colabora en la gestión de la zona: 3,40 euros.
+
+1.5 Ciprínidos (diario).
+
+Tarifa general: 4 euros.
+
+Miembros federados: 3 euros.
+
+Miembros de la sociedad de pescadores que colabora en la gestión de la zona: 2 euros.
+
+1.6 Ciprínidos (anual).
+
+Tarifa general: 25 euros.
+
+Miembros federados: 15 euros.
+
+Miembros de la sociedad de pescadores que colabora en la gestión de la zona: 8 euros.
+
+2\. Las zonas de pesca controlada que limitan con la comunidad autónoma de Aragón tienen una cuota diferenciada, fijada por ambas comunidades y que no es objeto de actualización mediante el índice de precios del consumo. Las cuotas son las siguientes:
+
+2.1 Zonas de pesca controlada con muerte de Baserca con muerte (NR-03A), Aneto-Senet con muerte (NR-04A), Lavaix (NR-05A), Escales (NR-06) y Montañana con muerte (NR-08A):
+
+Tarifa general: 12 euros.
+
+Miembros federados: 8 euros.
+
+Miembros de la sociedad de pescadores que colabora en la gestión de la zona: 4 euros.
+
+2.2 Zonas de pesca controlada de Baserca sin muerte-río (NR-02), embalse de Baserca sin muerte (NR-03B), Montañana 2 (NR-07), Montañana sin muerte (NR-08B), Aneto-Senet sin muerte (NR-04B) y Lavaix sin muerte (NR-05B):
+
+Tarifa general: 5 euros.
+
+Miembros federados: 3 euros.
+
+Miembros de la sociedad de pescadores que colabora en la gestión de la zona: 2 euros.
+
+2.3 Zona de pesca controlada del embalse de Riba-roja y Flix (EB-01):
+
+Permisos diarios:
+
+Tarifa general: 5 euros.
+
+Miembros federados: 3 euros.
+
+Miembros de la sociedad de pescadores que colabora en la gestión de la zona: 3 euros.
+
+Permiso semanal:
+
+Tarifa general: 20 euros.
+
+Miembros federados: 7 euros.
+
+Miembros de la sociedad de pescadores que gestiona la zona: 7 euros.
+
+Permiso anual:
+
+Miembros de la sociedad de pescadores que colabora en la gestión de la zona: 21 euros.
+
+Miembros de la sociedad de pescadores que colabora en la gestión de la zona y ribereños: 8 euros.
+
+> Se modifica el apartado 2 por el art. 76 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 33.2 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 12.2 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 17.2-6. Autorización de cobro.
+
+Se autoriza al departamento competente en materia de pesca para que articule los mecanismos de colaboración necesarios para gestionar las zonas de pesca controlada con las federaciones deportivas catalanas u otras entidades legalmente constituidas vinculadas al mundo de la pesca, y se atribuya a estas federaciones o entidades el cobro de la tasa en nombre y por cuenta de la Generalidad.
+
+> Se modifica por el art. 33.3 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 22 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+> Se suprime por el art. 17 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 17.2-7. Afectación de la tasa.
+
+La tasa tiene carácter finalista, por lo que, de conformidad con el artículo 1.1.3, los ingresos derivados de la tasa se afectan a la gestión, conservación y vigilancia de las zonas de pesca controlada, en las partidas correspondientes del departamento competente en materia de pesca.
+
+> Se modifica por el art. 33.4 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO III — Tasa por la licencia de pesca recreativa y matrícula de embarcaciones y aparatos flotantes para la pesca
+
+#### Artículo 17.3-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios inherentes a la expedición de las licencias que, de acuerdo con la legislación vigente, son necesarias para practicar la pesca recreativa o profesional, así como la expedición y la renovación de las tarjetas acreditativas de las licencias, cuando sea necesario de acuerdo con la normativa específica.
+
+> Se modifica por el art. 77.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 23 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 17.3-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas en interés de las cuales se expiden las licencias para la pesca recreativa o profesional.
+
+> Se modifica por el art. 23 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 17.3-3. Exenciones.
+
+Están exentos de pagar la tasa exigida por el concepto de expedición de la licencia para ejercer la pesca recreativa los sujetos pasivos que acrediten documentalmente alguna de las siguientes situaciones:
+
+a) Tener una discapacidad igual o superior al 33% reconocida por resolución o certificado expedido por el Instituto de Mayores y Servicios Sociales (Imserso) o el órgano competente de la correspondiente comunidad autónoma. En Cataluña, el órgano competente es la Secretaría de Inclusión Social y Promoción de la Autonomía Personal.
+
+b) Tener la condición de pensionista por incapacidad permanente total, absoluta o gran invalidez reconocida por resolución del Instituto Nacional de la Seguridad Social.
+
+c) Ser beneficiario de una pensión de jubilación o retiro por incapacidad permanente para el servicio o inutilidad, reconocida por resolución del Ministerio de Economía y Hacienda o del Ministerio de Defensa.
+
+d) Las personas menores de 18 años.
+
+e) Las personas mayores de 65 años.
+
+> Se modifica por el art. 120.1 Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 34 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 23 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 17.3-4. Acreditación.
+
+La tasa se acredita y se hace efectiva en el momento en el que se solicitan las licencias.
+
+> Se modifica por el art. 23 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 17.3-5. Cuota.
+
+La cuota de la tasa es:
+
+1\. Licencias de pesca recreativa.
+
+Las duraciones de las licencias y los importes de las respectivas cuotas son:
+
+1.1. Pesca recreativa.
+
+a) Pesca recreativa general (con muerte o sin muerte indistintamente):
+
+Duración 1 día: 3 euros.
+
+Duración 2 días: 5 euros.
+
+Duración 15 días: 11 euros.
+
+Duración 1 año: 26 euros.
+
+Duración 2 años: 42 euros.
+
+Duración 3 años: 60 euros.
+
+Duración 4 años: 71 euros.
+
+b) Pesca recreativa exclusivamente sin muerte:
+
+Duración 1 año: 19 euros.
+
+Duración 2 años: 35 euros.
+
+Duración 3 años: 51 euros.
+
+Duración 4 años: 66 euros.
+
+1.2. Pesca recreativa submarina:
+
+Duración, 1 año: 14,75 euros.
+
+1.3. Pesca recreativa colectiva:
+
+Duración, 1 año, hasta 10 personas: 91,65 euros.
+
+Duración, 1 año, más de 10 personas: 183,20 euros.
+
+Duración, 2 años, hasta 10 personas: 183,20 euros.
+
+Duración, 2 años, más de 10 personas: 366,25 euros.
+
+Duración, 3 años, hasta 10 personas: 274,70 euros.
+
+Duración, 3 años, más de 10 personas: 549,30 euros.
+
+Duración, 4 años, hasta 10 personas: 366,25 euros.
+
+Duración, 4 años, más de 10 personas: 732,35 euros.
+
+2\. Licencia de pesca profesional:
+
+2.1. Coral, marisqueo: 22,10 euros.
+
+2.2. Angula: 36,75 euros.
+
+2.3. Gusanos de mar, esparavel: 7,40 euros.
+
+3\. Expedición y renovación de la tarjeta acreditativa de la licencia: 8,90 euros.
+
+> Se modifica el apartado 1.1 por el art. 120.2 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica el apartado 1.1 por el art. 40 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se añade el apartado 3 por el art. 77.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 23 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 17.3-6. Afectación.
+
+Esta tasa tiene carácter finalista, por lo que, de conformidad con lo establecido por el artículo 1.1.3, los ingresos derivados de la misma quedan afectados a la conservación de este recurso piscícola en las partidas correspondientes del departamento competente en materia de medio natural, y en las partidas correspondientes del Consejo General de Arán los derivados de las licencias de pesca recreativa expedidas por el Consejo General de Arán.
+
+> Se modifica por el art. 35 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO IV — Tasa para realizar competiciones deportivas
+
+> Se modifica por el art. 78 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 36 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade por el art. 13 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 17.4-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios inherentes a la autorización por parte del departamento competente en materia de pesca no profesional en aguas continentales para realizar competiciones deportivas de pesca en las zonas de pesca controlada.
+
+> Se modifica por el art. 78 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 36 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade por el art. 13 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 17.4-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa la Federación Catalana de Pesca Deportiva y Casting o la sociedad de pescadores o entidad que organice la competición deportiva.
+
+> Se modifica por el art. 78 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 36 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade por el art. 13 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 17.4-3. Exenciones.
+
+1\. Están exentas del pago de la tasa las competiciones deportivas de carácter internacional, estatal y autonómico en la modalidad de pesca sin muerte.
+
+2\. Están exentas de pago de la tasa las competiciones deportivas en las que los participantes son menores de edad.
+
+3\. Están exentas del pago de la tasa las competiciones de pesca organizadas por ayuntamientos con motivo de la celebración de la fiesta mayor, un máximo de dos veces al año.
+
+> Se modifica por el art. 78 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 36 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade por el art. 13 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 17.4-4. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio pero puede ser exigida en el momento de la presentación de la solicitud.
+
+> Se modifica por el art. 78 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 36 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade por el art. 13 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 17.4-5. Cuota.
+
+1\. El importe de la tasa se define por el número de participantes y el tipo de zona de pesca controlada en que se realiza. Las cuotas que deben aplicarse son las siguientes:
+
+– Zonas de pesca controlada intensiva sin muerte: =20 participantes: 63 euros; >20 participantes: 130 euros.
+
+– Zonas de pesca controlada de salmónidos sin muerte: =20 participantes: 42 euros; >20 participantes: 87 euros.
+
+– Zonas de pesca controlada de ciprínidos: =20 participantes: 42 euros; >20 participantes: 87 euros.
+
+2\. Las diez primeras competiciones organizadas por cada sociedad de pescadores computan como una única competición porque se consideran fases clasificatorias de la competición. En caso de que se requieran más fases clasificatorias, se realizarán módulos de cinco en cinco, en que habrá que abonar la cuota de la primera competición.
+
+> Se modifica por el art. 78 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 36 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade por el art. 13 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+### CAPÍTULO V — Tasa por el permiso de extracción de flora y fauna marinas con finalidades de investigación, educativas y de acuariofilia ornamental, o por otras razones de interés general que la justifiquen
+
+> Se añade por el art. 79 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 17.5-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación del servicio inherente al otorgamiento de la autorización para la extracción de flora y fauna marinas con finalidades de investigación, educativas y de acuariofilia ornamental, o por otras razones de interés general que la justifiquen.
+
+> Se añade por el art. 79 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 17.5-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan la correspondiente autorización.
+
+> Se añade por el art. 79 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 17.5-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de la presentación de la solicitud.
+
+> Se añade por el art. 79 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 17.5-4. Cuota.
+
+Cuota de la tasa para la extracción de flora y fauna marinas con finalidades de investigación, educativas y de acuariofilia ornamental, o por otras razones de interés general que la justifiquen: 28,65 euros.
+
+> Se añade por el art. 79 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+## TÍTULO XVIII — Política lingüística
+
+### CAPÍTULO I — Tasa por los derechos de inscripción en las pruebas para la obtención de los certificados de conocimientos de catalán que convoca la Secretaría de Política Lingüística
+
+#### Artículo 18.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la inscripción en las pruebas para la obtención de los certificados de conocimientos de catalán que convoca la Secretaría de Política Lingüística.
+
+#### Artículo 18.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas que se inscriben en las pruebas.
+
+#### Artículo 18.1-3. Exenciones y bonificaciones.
+
+1\. Están exentos de esta tasa, con la justificación documental previa de su situación, los sujetos pasivos en situación de desempleo que no perciben ninguna prestación económica y los jubilados o jubiladas.
+
+2\. Se establece una bonificación del 30% sobre la cuota para los sujetos pasivos que son miembros de familias monoparentales y numerosas de categoría general y una bonificación del 50% sobre la cuota para los sujetos pasivos que son miembros de familias monoparentales y numerosas de categoría especial. Asimismo, se establece una bonificación del 50% sobre la cuota para los sujetos pasivos con una discapacidad acreditada igual o superior al 33%.
+
+> Se modifica el apartado 2 por el art. 28 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 2 por el art. 18.9 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637)
+
+#### Artículo 18.1-4. Devengo.
+
+La tasa se devenga en el momento de la prestación del servicio y se exige en el momento de la inscripción.
+
+#### Artículo 18.1-5. Cuota.
+
+El importe de la cuota es el siguiente:
+
+a) Pruebas para la obtención de los certificados de nivel básico, elemental e intermedio de catalán: 21,00 euros.
+
+b) Pruebas para la obtención de los certificados de nivel de suficiencia y superior de catalán: 50,49 euros.
+
+> Se modifica por el art. 80.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 14 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 18.1-6. Afectación.
+
+La tasa tiene carácter finalista, por lo que los ingresos que se derivan de la misma quedan afectados a la financiación de las actuaciones del departamento competente en materia de promoción y fomento de la lengua catalana.
+
+> Se modifica por el art. 80.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO II — Tasa por los derechos de inscripción en las pruebas de traducción e interpretación juradas de otras lenguas al catalán
+
+#### Artículo 18.2-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la inscripción a las pruebas convocadas por la dirección general competente en materia de política lingüística para la obtención de la habilitación para la traducción e interpretación juradas de otras lenguas al catalán.
+
+> Se modifica por el art. 65.1 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 18.2-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas que se inscriben en las pruebas.
+
+#### Artículo 18.2-3. Devengo.
+
+La tasa se devenga en el momento de la prestación del servicio y se exige en el momento de la inscripción.
+
+#### Artículo 18.2-4. Cuota.
+
+La cuota de la tasa es:
+
+1\. Pruebas para la obtención de la habilitación para la traducción jurada: 96 euros.
+
+2\. Pruebas para la obtención de la habilitación para la interpretación jurada: 96 euros.
+
+> Se modifica por el art. 65.2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO III — Tasa por la tramitación de la habilitación para la traducción o interpretación juradas del catalán a otra lengua y viceversa y la inscripción en el Registro de traductores e intérpretes jurados.
+
+> Se modifica la denominación por el art. 66.1 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 81 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 18.3-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de la habilitación para la traducción o interpretación juradas del catalán a otra lengua y viceversa y, en su caso, la inscripción en el Registro de traductores e intérpretes jurados, que no sean consecuencia de la superación de las pruebas de traducción e interpretación juradas de la dirección general competente en materia de política lingüística.
+
+> Se modifica por el art. 66.2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 81 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 18.3-2. Sujetos pasivos.
+
+Son sujetos pasivos de la tasa las personas físicas que solicitan la habilitación para la traducción o interpretación juradas.
+
+> Se modifica por el art. 66.3 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 81 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 18.3-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de la presentación de la solicitud.
+
+> Se añade por el art. 81 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 18.3-4. Cuota.
+
+La cuota de la tasa es de 36 euros.
+
+> Se añade por el art. 81 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 18.3-5. Afectación.
+
+La tasa tiene carácter finalista, por lo que los ingresos que se derivan de la misma quedan afectados a la financiación de las actuaciones del departamento competente en materia de promoción y fomento de la lengua catalana.
+
+> Se añade por el art. 81 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO IV — Tasa por los derechos de expedición, sustitución, modificación o duplicación del carné acreditativo de la habilitación para la traducción o interpretación juradas
+
+> Se añade por el art. 82 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 18.4-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la expedición, sustitución, modificación o duplicación del carné acreditativo de la habilitación para la traducción o interpretación juradas.
+
+> Se añade por el art. 82 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 18.4-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas que solicitan la expedición, la sustitución, la modificación o la duplicación del carné acreditativo de la habilitación para la traducción o interpretación juradas.
+
+> Se añade por el art. 82 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 18.4-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de la presentación de la solicitud.
+
+> Se añade por el art. 82 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 18.4-4. Cuota.
+
+La cuota de la tasa es de 6 euros.
+
+> Se añade por el art. 82 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 18.4-5. Afectación.
+
+La tasa tiene carácter finalista, por lo que los ingresos que se derivan de la misma quedan afectados a la financiación de las actuaciones del departamento competente en materia de promoción y fomento de la lengua catalana.
+
+> Se añade por el art. 82 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+## TÍTULO XIX — Publicaciones y anuncios
+
+### CAPÍTULO I — Tasa por la publicación de anuncios en el DOGC, gestionado por la Entidad Autónoma del Diario Oficial y de Publicaciones de la Generalidad de Cataluña
+
+#### Artículo 19.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la publicación de anuncios en la edición digital del «Diari Oficial de la Generalitat de Catalunya» (DOGC).
+
+#### Artículo 19.1-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa la persona física o jurídica que solicita la publicación de anuncios en el DOGC.
+
+#### Artículo 19.1-3. Devengo.
+
+La tasa se devenga en el momento de solicitar la prestación del servicio, pero el pago de la cuota puede fijarse en otro momento.
+
+#### Artículo 19.1-4. Cuota y exenciones.
+
+1\. La cuota de la tasa por la publicación de anuncios en el Diari Oficial de la Generalitat de Catalunya no sometidos a exención por la normativa vigente se establece en una cantidad fija de 200 euros por anuncio, y, en el caso de anuncios con plazo de urgencia, se establece una cantidad fija de 300 euros. Estos importes incluyen la publicación de la edición en lengua catalana y la edición en lengua castellana.
+
+2\. En el caso de retirada de una orden de inserción no urgente, merita una cuota equivalente al 50% del importe correspondiente.
+
+3\. Las inserciones retiradas de publicación a las que se ha aplicado la tasa de urgencia no tienen derecho a devolución.
+
+4\. Queda exenta del pago de la tasa la publicación de los siguientes anuncios o edictos:
+
+a) Los anuncios o edictos de inserción obligatoria que deban publicarse en el DOGC relacionados con el procedimiento recaudatorio en general.
+
+b) Los anuncios o edictos de los juzgados y tribunales si la inserción se ordena de oficio o si la legislación sobre asistencia jurídica gratuita o cualquier otra que sea de aplicación dispone su publicación gratuita.
+
+c) Cualquier otro anuncio o edicto si una norma con rango de ley dispone su publicación gratuita.
+
+> Se modifica el apartado 1 por el art. 83 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifican los apartados 1 y 2 por el art. 37.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 18 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 19.1-5. Bonificaciones.
+
+**(Suprimido)**
+
+> Se suprime por el art. 37.2 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+## TÍTULO XX — Residuos
+
+### CAPÍTULO I — Tasas de la Agencia de Residuos de Cataluña
+
+> Se modifica por el art. 41 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 84 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 38 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 20.1-1. Hecho imponible.
+
+Constituyen hechos imponibles los siguientes servicios de la Agencia de Residuos de Cataluña:
+
+1\. Las inspecciones de las irregularidades detectadas en el marco de la tramitación de un procedimiento administrativo en las actividades o las instalaciones autorizadas de gestión de residuos.
+
+2\. La tramitación de expedientes de inscripción y la anotación de modificaciones en el Registro general de personas productoras de residuos de Cataluña.
+
+3\. La supervisión de los siguientes documentos de control y seguimiento:
+
+3.1 Ficha de aceptación de residuos.
+
+3.2 Hoja de seguimiento.
+
+3.3 Hoja de seguimiento itinerante.
+
+3.4 Hoja de importación y de expedición de transportes transfronterizos de residuos.
+
+3.5 Justificante de recepción de residuos.
+
+> Se modifica el apartado 2 y se deroga el apartado 4 por el art. 121.1 y 2 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 41 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 84 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 38 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 20.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa:
+
+1\. En el supuesto 1 del artículo 20.1-1, la persona física o jurídica que ejerce la actividad o explota la instalación autorizada de gestión de residuos.
+
+2\. En el supuesto 2 del artículo 20.1-1, la persona física o jurídica productora de residuos peligrosos y la persona física o jurídica productora de residuos no peligrosos que superen las 1.000 t/año.
+
+3\. En el supuesto 3 del artículo 20.1-1, la persona física o jurídica que solicita la prestación del servicio.
+
+> Se modifica el apartado 2 y se deroga el apartado 4 por el art. 121.3 y 4 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 41 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 84 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 38 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 20.1-3. Acreditación.
+
+1\. La tasa se acredita mediante la realización del hecho imponible.
+
+2\. El pago de la tasa puede ser exigido en los siguientes términos:
+
+a) En el supuesto de realización del hecho imponible del apartado 1 del artículo 20.1-1, en el momento en que finaliza la inspección.
+
+b) En los supuestos de realización del hecho imponible de los apartados 2 y 3 del artículo 20.1-1, puede exigirse a cuenta en el momento de la presentación de la solicitud.
+
+> Se modifica el apartado 2.b) por el art. 121.5 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 41 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 84 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 38 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 20.1-4. Cuota.
+
+La cuota por cada hecho imponible establecido por el artículo 20.1-1 es:
+
+1\. Hecho imponible 1: 220,20 euros.
+
+2\. Hecho imponible 2: 37,70 euros.
+
+3\. Hecho imponible 3:
+
+3.1 Por ficha de aceptación de residuos: 55,85 euros.
+
+3.2 Por hoja de seguimiento: 3,55 euros.
+
+3.3 Por hoja de seguimiento itinerante: 3,55 euros.
+
+3.4 Por hoja de importación de expedición de transportes transfronterizos de residuos: 100,85 euros.
+
+3.5 Por justificante de recepción de residuos: 1,20 euros por hoja unitaria.
+
+4\. **(Derogado).**
+
+5\. Cuando los servicios a que se refiere el apartado 3 del artículo 20.1-1 se tramitan por medios electrónicos, se aplica una bonificación del 100 % de la cuota que corresponda según los apartados anteriores.
+
+> Se modifica el apartado 5 por el art. 67 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se deroga el apartado 4 y se modifica el 5 por el art. 121.6 y 7 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Redactado conforme a la corrección de erratas publicada en DOGC núm. 7415, de 19 de julio de 2017. [Ref. DOGC-f-2017-90420](https://www.boe.es/buscar/doc.php?id=DOGC-f-2017-90420), que sustituye la publicada en DOGC núm. 7399, de 27 de junio de 2017. [Ref. DOGC-f-2017-90383](https://www.boe.es/buscar/doc.php?id=DOGC-f-2017-90383)
+
+> Se modifica por el art. 41 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 84 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 38 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+## TÍTULO XXI — Salud
+
+### CAPÍTULO I — Tasa por autorizaciones, anotaciones o registros administrativos, así como por las actividades de control sanitario, en materia de protección de la salud, realizado sobre industrias, establecimientos, servicios, laboratorios, productos y otras actividades relacionadas
+
+> Se modifica por el art. 122 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 39 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.1-1. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la prestación que lleva a cabo el Departamento de Salud o el ente competente de los siguientes servicios:
+
+a) Control sanitario oficial en materia de protección de la salud.
+
+b) Elaboración de estudios e informes técnicos, incluidos los preceptivos para la resolución de autorizaciones sanitarias o para la inscripción en registros oficiales.
+
+c) Tramitación administrativa de procedimientos en materia de protección de la salud.
+
+d) Emisión de certificados, incluidas las verificaciones que correspondan.
+
+2\. Los servicios consignados en el apartado 1 se prestan para cumplir los siguientes actos o actividades:
+
+a) Las actuaciones periódicas de control sanitario sobre las industrias, los establecimientos, los servicios, las instalaciones y los productos.
+
+b) Los controles extraordinarios de establecimientos, servicios, instalaciones y productos motivados por la investigación de alertas sanitarias, brotes y denuncias, así como para la verificación oficial del cumplimiento de requerimientos, medidas cautelares, medidas correctoras, prórrogas de autorizaciones condicionales y respuesta a resultados no conformes en planes de muestreo, incluida la verificación de reexpediciones o retornos de mercancías del mercado internacional.
+
+c) La autorización sanitaria para el funcionamiento de industrias, establecimientos, laboratorios, servicios o instalaciones, y sus posteriores modificaciones por reforma, ampliación, traslado o cambio de titular, entre otros.
+
+d) Las anotaciones o cualquier acto de inscripción en los registros oficiales relativos a la salud ambiental y alimentaria y, en general, al ámbito de la protección de la salud.
+
+e) La expedición de los certificados sanitarios derivados de las actividades de control sanitario y de los registros, anotaciones y autorizaciones mencionados, incluidos los certificados de salud pública exigidos en el comercio internacional de alimentos.
+
+3\. El control sanitario oficial al que se refiere este artículo excluye el control oficial ante mortem y post mortem de los animales sacrificados en el matadero y el control oficial post mortem de los animales presentados a inspección en establecimientos de manipulación de caza, así como el control de las carnes manipuladas en salas de despiece, que se refieren en el capítulo VII.
+
+> Se modifica por el art. 68.1 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 122 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 39 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.1-2. Sujeto pasivo.
+
+1\. Son sujetos pasivos de la tasa las personas naturales o jurídicas, públicas o privadas, en cuyo interés se prestan los servicios.
+
+2\. En el caso de las actuaciones de control descritas en la letra b del apartado 2 del artículo 21.1-1, se considera sujeto pasivo de la tasa la persona física o jurídica que con su actuación ha causado los hechos que motivan los controles extraordinarios.
+
+> Se modifica por el art. 68.2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 122 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 39 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.1-3. Exenciones.
+
+1\. Están exentos del pago de la tasa, en cualquiera de los supuestos determinados por el artículo 21.1-1, los centros que realizan actividades de carácter social, sostenidos totalmente con fondos públicos.
+
+2\. Para disfrutar de esta exención, los establecimientos que se acojan a la misma deben acreditar fehacientemente, ante el Departamento de Salud o el ente competente, que son centros que realizan actividades de carácter social y que están totalmente sostenidos con fondos públicos, mediante un documento emitido por la administración pública competente o una declaración jurada acreditativa del carácter social de las actividades llevadas a cabo y que estas están sostenidas totalmente con fondos públicos.
+
+> Se modifica por el art. 122 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 39 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.1-4. Acreditación.
+
+La tasa se acredita mediante la realización del hecho imponible, pero puede exigirse su pago en el momento en el que la persona interesada solicita la prestación del servicio.
+
+> Se modifica por el art. 122 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 39 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.1-5. Cuota.
+
+1\. El importe de la cuota por los servicios de tramitación de actuaciones administrativas obligadas por la normativa vigente es el siguiente:
+
+a) Por la tramitación de autorizaciones sanitarias de establecimientos o empresas, seguidas de inscripción inicial en registro oficial o de modificaciones de datos registrales, que comporten control sanitario en el domicilio de la industria, establecimiento o servicio: 141,20 euros.
+
+b) Por la tramitación de autorizaciones sanitarias de establecimientos o empresas que comporten control sanitario en el domicilio de la industria, establecimiento o servicio: 131,40 euros.
+
+c) Por la tramitación de la inscripción inicial de establecimientos o empresas en registro oficial o de modificaciones de datos registrales que comporten un estudio de carácter técnico, sin actividad de control sanitario *in situ:* 61,70 euros.
+
+d) Por la tramitación de autorizaciones sanitarias de establecimientos o empresas que comporten un estudio de carácter técnico, sin actividad de control sanitario *in situ*: 61,70 euros.
+
+e) Por la tramitación de anotaciones o modificaciones en registros oficiales sin la existencia de un acto de autorización o estudio técnico: 9,85 euros.
+
+f) Por la realización de estudios e informes técnicos diferentes a los de las letras c y d, entre los cuales los relativos a los productos alimentarios: 51,35 euros por informe.
+
+g) Por la validación de las comunicaciones de puesta en el mercado de productos alimentarios: 61,70 euros por producto.
+
+h) Por la emisión de certificados sanitarios oficiales, a petición del interesado, que provienen de archivos y registros del Departamento de Salud, o del ente competente, que no requiera verificación oficial *in situ:* 14,50 euros por cada producto certificado.
+
+Si se trata de certificados sanitarios oficiales referidos a establecimientos: 14,50 euros por cada establecimiento certificado.
+
+i) Por la emisión de certificados sanitarios oficiales que requieren una verificación oficial en el domicilio de la industria, establecimiento o servicio: 66,05 euros. Si en un mismo acto de verificación oficial *in situ* se emiten varios certificados, el primero liquida una cuota de 66,05 euros; los sucesivos, emitidos en el mismo acto oficial, 14,50 euros.
+
+Si la emisión de certificados se lleva a cabo en el transcurso de actuaciones de control oficial ordinarias y planificadas, dentro del horario previsto de prestación del servicio ordinario, y sin constituir la actividad principal de la actuación, la cuota a liquidar es de 14,50 euros.
+
+Se entienden incluidos en este supuesto los certificados emitidos, durante el horario y jornada establecidos, por los veterinarios oficiales adscritos a determinados establecimientos con presencia permanente.
+
+j) Por la emisión de duplicados de documentos oficiales, o declaraciones escritas: 14,50 euros por documento o declaración.
+
+Una vez realizada la actuación de control oficial a la que se refieren las letras a y b, si debe llevarse a cabo alguna actuación de control sanitario adicional *in situ* para el otorgamiento de la autorización plena o, como consecuencia de carencias en el cumplimiento de todos los requisitos necesarios, esta liquida una tasa adicional de acuerdo con el importe establecido en el apartado 2.a.
+
+En caso de que se realicen simultáneamente dos o más actuaciones administrativas de las establecidas en las letras a, b, c, d, y e de este punto, en interés del mismo solicitante, y el contenido del acto se entienda como unitario, se cobra la cuota de un solo acto, atendiendo a un mismo coste del servicio.
+
+2\. El importe de la cuota por los servicios de control oficial obligados por la normativa vigente es el siguiente:
+
+a) Por actuación de control sanitario o inspección periódica planificada derivada de los programas de control oficial: 59,50 euros por cada actuación.
+
+b) Por actuación de control sanitario extraordinaria sobre establecimientos, servicios, instalaciones y productos, con desplazamiento *in situ* al lugar objeto de la actuación: 157,80 euros.
+
+c) Por actuación de control sanitario motivada por inclusión en listas para la exportación a países terceros: 157,80 euros por cada actuación.
+
+d) Por actuación de control sanitario periódica y planificada, derivada de los programas de control oficial exigibles para la exportación a países terceros, adicionales a los requisitos comunitarios: 99,80 euros por cada actuación.
+
+3\. A los efectos de lo establecido por este capítulo, la actuación de control sanitario no solamente es el acto realizado *in situ* en las instalaciones o en los procesos de fabricación o manipulación, sino que también comprende, de acuerdo con la normativa europea que regula el control oficial, la toma de muestras, la revisión documental y cualquier otra actuación de comprobación de aspectos relacionados con la protección de la salud de la población.
+
+La cuota correspondiente a los servicios analíticos tasados por razón de actividad de laboratorio, establecida en el capítulo XV, no se considera incluida en la actuación de control sanitario, a la que se añade en su caso.
+
+> Se modifica por el art. 68.3 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 122 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 39 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.1-6. Afectación de la tasa.
+
+La tasa tiene carácter finalista, por lo que, de conformidad con lo establecido por el artículo 1.1-3, los ingresos que derivan de la misma se afectan a actuaciones para mejorar el control sanitario y la protección de la salud.
+
+> Se modifica por el art. 122 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 39 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO II — Tasa por los servicios de tramitación de autorizaciones administrativas y de comprobación técnica sanitaria en materia de policía sanitaria mortuoria
+
+#### Artículo 21.2-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación por el Departamento de Salud o ente competente de autorizaciones administrativas y comprobaciones en materia de policía sanitaria mortuoria.
+
+#### Artículo 21.2-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas que solicitan la prestación de los servicios a que se refiere el artículo 21.2-4. Si estos servicios se prestan de oficio, son sujetos pasivos los causahabientes de la persona difunta.
+
+#### Artículo 21.2-3. Devengo.
+
+La tasa se devenga con la realización del hecho imponible, pero puede ser exigido el pago en el momento en que las personas interesadas solicitan la prestación del servicio.
+
+#### Artículo 21.2-4. Cuota.
+
+La cuota de la tasa es:
+
+1\. Por la tramitación de las autorizaciones administrativas y de comprobaciones técnicas sanitarias para el traslado, la exhumación, la inhumación, la conservación o el embalsamamiento de cadáveres:
+
+1.1 Traslado: 38 euros.
+
+1.2 Exhumación o inhumación: 38 euros.
+
+1.3 Conservación, embalsamamiento y tanatoplastia: 41,85 euros.
+
+2\. Por la tramitación de las autorizaciones administrativas y las comprobaciones sanitarias para el traslado, la exhumación o la inhumación de restos cadavéricos: 6,55 euros.
+
+3\. En el supuesto de concurrencia de dos o más de dos autorizaciones o comprobaciones técnicas sanitarias de las definidas en este artículo, la tarifa a aplicar es la correspondiente a la de la última actuación sanitaria administrativa, incrementada del 25%.
+
+#### Artículo 21.2-5. Afectación de la tasa.
+
+La tasa tiene carácter finalista, por lo cual, de conformidad con lo que establece el artículo 1.1-3, los ingresos que derivan se afectan a actuaciones para mejorar el control sanitario y la protección de la salud.
+
+### CAPÍTULO III — Tasa por los servicios de tramitación de autorizaciones administrativas de los centros, los servicios y los establecimientos sanitarios y sociosanitarios
+
+#### Artículo 21.3-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación que hace el Departamento de Salud de los servicios que consigna el artículo 21.3-4.
+
+#### Artículo 21.3-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, a las que se prestan los servicios.
+
+#### Artículo 21.3-3. Devengo.
+
+La tasa se devenga con la prestación de los servicios constitutivos del hecho imponible, pero puede ser exigido el pago en el momento que las personas interesadas hacen la solicitud.
+
+#### Artículo 21.3-4. Cuota.
+
+La cuota de la tasa es:
+
+1\. Por el estudio, los informes y la inspección, si procede, de la resolución de los expedientes de autorización administrativa de instalación, modificación, permiso de funcionamiento y traslado de los centros, servicios y establecimientos sanitarios.
+
+La cuota se establece como la suma de una cantidad base, una cantidad por cada servicio a autorizar y, si procede, una cantidad por la validación del programa de garantía de calidad asistencial.
+
+1.1 Centros con internamiento.
+
+A los efectos de esta tasa, se consideran centros con internamiento los hospitales generales, los hospitales especializados, los hospitales sociosanitarios, los hospitales de salud mental y tratamiento de toxicomanías y otros centros con internamiento.
+
+1.1.1 Cantidad base: 301,55 euros.
+
+1.1.2 Por cada servicio a autorizar: 19,95 euros.
+
+1.1.3 Para cada programa de garantía de calidad asistencial (radiodiagnóstico, radioterapia y medicina nuclear): 44,20 euros.
+
+1.2 Centros sin internamiento.
+
+1.2.1 Cantidad base: 129,10 euros.
+
+Este importe es único para la categoría de consultas médicas, consultas de otros profesionales sanitarios (excepto dentistas y podólogos), centros de atención primaria, centros de salud y consultorios de atención primaria.
+
+1.2.2 Por cada servicio a autorizar: 19,95 euros.
+
+La suma de este importe más la anterior cantidad base se tiene que aplicar en centros de especialidad, centros polivalentes, centros de reproducción humana asistida, centros de cirugía ambulatoria, centros de interrupción voluntaria del embarazo, centros de diagnóstico (excepto radiología), centros de transfusión, bancos de tejidos, centros de reconocimientos médicos, centros de salud mental y otros centros.
+
+1.2.3 Por cada programa de garantía de calidad asistencial (radiodiagnóstico, radioterapia y medicina nuclear): 44,20 euros.
+
+La suma de este importe, más la cantidad base, más el importe establecido por cada servicio a autorizar se tiene que aplicar en centros de radiodiagnóstico, clínicas dentales y clínicas de podología.
+
+1.3 Establecimientos sanitarios.
+
+Cuota: 203,45 euros.
+
+1.4 Modificaciones.
+
+1.4.1 Estructura o traslado con internamiento (precio base): 301,55 euros.
+
+1.4.2 Estructura o traslado sin internamiento (precio base): 129,10 euros.
+
+1.4.3 Ampliación de servicios (precio por servicio): 19,95 euros.
+
+2\. Por el estudio y el informe previos a la resolución de los expedientes de certificación sanitaria de transporte sanitario.
+
+2.1 Ambulancias asistenciales: 70,55 euros.
+
+2.2 Ambulancias no asistenciales: 56,45 euros.
+
+2.3 Transporte sanitario colectivo: 42,30 euros.
+
+### CAPÍTULO IV — Tasa por los servicios de tramitación de autorizaciones administrativas y de inspección de los centros, los servicios y los establecimientos sociosanitarios
+
+> Se deroga por el art. 69 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículos 21.4-1 a 21.4-4.
+
+**(Derogados).**
+
+> Se derogan por el art. 69 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO V — Tasa por los servicios administrativos de acreditación de centros sanitarios, de centros de atención sociosanitaria, de centros de atención a la salud mental y las adicciones en régimen de internamiento y ambulatorio, de equipos de atención primaria y por los servicios de autorización de entidades evaluadoras y de los actos que se deriven
+
+> Se modifica por el art. 85.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 21.5-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación por el Departamento de Salud de los servicios y actuaciones inherentes a la acreditación de centros sanitarios, de centros de atención sociosanitaria, de centros de atención a la salud mental y las adicciones en régimen de internamiento y ambulatorio, de equipos de atención primaria y por los servicios de autorización de entidades evaluadoras y de los actos que se deriven.
+
+> Se modifica por el art. 85.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 21.5-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, a las que se prestan los servicios.
+
+#### Artículo 21.5-3. Devengo.
+
+La tasa se devenga en el momento de la prestación de los servicios constitutivos del hecho imponible, pero se puede exigir el pago en el momento en que las personas interesadas los solicitan.
+
+#### Artículo 21.5-4. Cuota.
+
+1\. El importe de la cuota por los servicios y actuaciones inherentes a la acreditación de un centro de atención hospitalaria aguda es el siguiente:
+
+a) Por la acreditación: 774,50 euros.
+
+b) Por la renovación: 444,35 euros.
+
+2\. El importe de la cuota por los servicios y actuaciones inherentes a la acreditación de un centro de atención sociosanitaria es el siguiente:
+
+2.1 Con régimen de internamiento:
+
+a) Por la acreditación: 1.000 euros.
+
+b) Por la renovación: 857 euros.
+
+2.2 Sin internamiento:
+
+a) Por la acreditación: 667 euros.
+
+b) Por la renovación: 578 euros.
+
+3\. El importe de la cuota por los servicios y las actuaciones inherentes a la acreditación de un centro de atención a la salud mental y las adicciones es el siguiente:
+
+3.1 Con régimen de internamiento:
+
+a) Por la acreditación: 1.150 euros.
+
+b) Por la renovación: 917 euros.
+
+3.2 Sin internamiento:
+
+a) Por la acreditación: 667 euros.
+
+b) Por la renovación: 578 euros.
+
+4\. El importe de la cuota por los servicios y las actuaciones inherentes a la acreditación de un equipo de atención primaria es el siguiente:
+
+a) Por la acreditación: 546 euros.
+
+b) Por la renovación de la acreditación: 456 euros.
+
+5\. El importe de la cuota por los servicios y las actuaciones inherentes a la autorización como entidad evaluadora es el siguiente:
+
+a) Por los servicios y las actuaciones inherentes a la autorización como entidad evaluadora: 5.742,90 euros.
+
+b) Por los servicios y las actuaciones inherentes a las auditorías:
+
+– Por auditorías de seguimiento para el mantenimiento de la autorización: 2.377,05 euros.
+
+– Por auditorías extraordinarias de campo: 2.377,05 euros.
+
+c) Por la renovación de la autorización de la entidad evaluadora: 439,95 euros.
+
+d) Por un curso de formación para el personal técnico evaluador de las entidades evaluadoras, con derecho de que asistan al mismo hasta tres técnicos, número a partir del cual debe abonarse la tasa por cada grupo de tres o por cada fracción:
+
+– Por la formación inicial: 806,50 euros.
+
+– Por la formación continuada: 806,50 euros.
+
+> Se modifica por el art. 85.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO VI — Tasa por los servicios de tramitación y resolución de las solicitudes de autorización de los estudios de postautorización observacionales prospectivos con medicamentos que se quieran llevar a cabo en centros sanitarios de la red de utilización pública de Cataluña
+
+#### Artículo 21.6-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación y la resolución, por la Subdirección General de Farmacia y Productos Sanitarios del Departamento de Salud, de los expedientes de autorización de los estudios de postautorización observacionales prospectivos con medicamentos que se quieran llevar a cabo en centros sanitarios de la red de utilización pública de Cataluña.
+
+#### Artículo 21.6-2. Sujeto pasivo.
+
+El sujeto pasivo de la tasa es la persona física o jurídica que solicita autorización de estudios de postautorización observacionales prospectivos con medicamentos.
+
+#### Artículo 21.6-3. Devengo.
+
+La obligación del pago de la tasa surge cuando se presenta la solicitud para obtener la autorización. El pago de la tasa se tiene que hacer efectivo cuando se presenta la solicitud.
+
+#### Artículo 21.6-4. Cuota.
+
+La cuota de la tasa es de 557,80 euros.
+
+### CAPÍTULO VII — Tasa por actividades de control e inspección sanitaria en mataderos, salas de despiece y establecimientos de manipulación de caza sujetas a control oficial
+
+> Se modifica por el art. 123 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 21.7-1. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la realización de los controles sanitarios oficiales concretados en la normativa vigente sobre prevención, eliminación o reducción de riesgos para las personas provenientes de las carnes destinadas a consumo humano obtenidas en mataderos, salas de despiece y establecimientos de manipulación de caza.
+
+2\. A efectos de lo establecido en este capítulo, se considera asimilable a la actividad de matadero, la actividad de los establecimientos de sacrificio de palmípedos destinados a la producción de hígados grasos.
+
+3\. El control oficial al que se refiere el apartado 1 se concreta en las siguientes actuaciones:
+
+a) El control oficial ante mortem y post mortem de los animales sacrificados en el matadero; el control oficial post mortem de los animales presentados a inspección en establecimientos de manipulación de caza, y el control oficial de las carnes manipuladas en salas de despiece.
+
+b) El control de determinadas sustancias y residuos en los animales y sus productos, en la forma establecida por la normativa vigente.
+
+4\. No se consideran incluidos en el hecho imponible de esta tasa los supuestos establecidos en el capítulo I, que devengarán igualmente la tasa correspondiente, cuando se produzcan las circunstancias allí establecidas.
+
+> Se modifica por el art. 70.1 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 123 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 21.7-2. Sujeto pasivo.
+
+1\. Son sujetos pasivos de la tasa, a título de contribuyente, las personas físicas o jurídicas, operadoras o explotadoras, responsables de las actividades que se llevan a cabo en mataderos, salas de despiece, establecimientos de manipulación de caza, que son objeto de control, de acuerdo con el hecho imponible regulado por el artículo 21.7-1.
+
+2\. En cualquier caso, tienen la condición de sujetos pasivos las herencias yacentes, las comunidades de bienes y otras entidades que, faltas de personalidad jurídica, constituyen una unidad económica o un patrimonio separado susceptible de imposición.
+
+3\. Son responsables subsidiarias de la deuda tributaria las personas físicas o jurídicas, públicas o privadas, propietarias de los inmuebles o instalaciones utilizados como mataderos que no ejercen para sí mismas la actividad comercial.
+
+4\. En las actividades objeto de esta tasa, los obligados a pagarla no pueden repercutirla sobre aquel para quien se efectúa la actividad objeto de control, salvo que se trate de la actuación regulada por la letra b del apartado 3 del artículo 21.7-1 correspondiente a la investigación de residuos que se especifica en cada caso en la cuota de sacrificio.
+
+La repercusión debe efectuarse mediante una factura o documento sustitutivo que se expida al interesado por las actividades prestadas.
+
+> Se modifica por el art. 70.2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 123 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 40.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.7-3. Lugar de realización del hecho imponible y acreditación.
+
+1\. Se entiende realizado el hecho imponible en el territorio de Cataluña si en ella se encuentra situado el lugar en que se llevan a cabo las actividades descritas por el artículo 21.7-1 como hecho imponible de la tasa.
+
+2\. La tasa se acredita en el momento en que se llevan a cabo las actividades descritas por el artículo 21.7-1.
+
+> Se modifica por el art. 123 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 21.7-4. Cuota.
+
+1\. Las cuotas totales de sacrificio, por los controles en los mataderos, con relación a cada animal sacrificado son las siguientes:
+
+Bovinos:
+
+Bovinos pesados: 6,732995 euros por animal (0,481872 euros por investigación de residuos).
+
+Bovinos jóvenes: 2,693199 euros por animal (0,332689 euros por investigación de residuos).
+
+Solípedos/équidos: 4,039797 euros por animal (0,279882 euros por investigación de residuos).
+
+Porcinos:
+
+Porcinos de 25 kg o más en canal: 1,346598 euro por animal (0,139940 euros por investigación de residuos).
+
+Porcinos de menos de 25 kg en canal: 0,673300 euros por animal (0,038286 euros por investigación de residuos).
+
+Ovinos, caprinos y otros rumiantes:
+
+Ovinos, caprinos y otros rumiantes de 12 kg o más en canal: 0,336649 euros por animal (0,036965 euros por investigación de residuos).
+
+Ovinos, caprinos y otros rumiantes de menos de 12 kg: 0,201990 euros por animal (0,011882 euros por investigación de residuos).
+
+Ratites:
+
+Avestruces, emús y ñandúes: 0,673300 euros por animal (0,038286 euros por investigación de residuos).
+
+Aves y conejos:
+
+Pájaros del género Gallus y pintadas: 0,006733 euros por animal (0,001320 euros por investigación de residuos).
+
+Patos y ocas: 0,013466 euros por animal (0,002641 euros por investigación de residuos).
+
+Pavos: 0,033665 euros por animal (0,002641 euros por investigación de residuos).
+
+Conejos de granja: 0,006733 euros por animal (0,001320 euros por investigación de residuos).
+
+Codornices y perdices: 0,002508 euros por animal (0,000508 euros por investigación de residuos).
+
+La cuota por las operaciones de control de determinadas sustancias y la investigación de residuos en animales vivos destinados al sacrificio y de las carnes incluidas en el objeto de esta tasa, practicadas según los métodos de análisis establecidos por las reglamentaciones técnico-sanitarias relativas a la materia, dictadas por el Estado o catalogadas de obligado cumplimiento en virtud de normas de la Unión Europea, está incluida en la totalidad de la cuota de sacrificio establecida anteriormente, en la que figura de forma indicativa y desglosada la cuantía que pertenece a este concepto.
+
+Las operaciones de control e investigación de residuos pueden llevarse a cabo de forma aleatoria. El muestreo aleatorio puede ocasionar que, durante un período, en algunos establecimientos no se recojan muestras.
+
+A pesar de ello, si la ejecución del plan establecido por la normativa vigente se hace efectiva con carácter general, el hecho imponible establecido por estas disposiciones se entiende que se ha producido.
+
+2\. Para los controles sanitarios realizados en las salas de despiece se aplican las cuotas establecidas en el apartado 2.a) del artículo 21.1-5.
+
+No obstante, si la sala de despiece es adyacente o anexa a un establecimiento matadero o de manipulación de caza, y su actividad se lleva a cabo de forma integrada y simultánea con la actividad de este, las cuotas devengadas se acumulan y solo se percibe tasa por la actividad que tiene un importe superior.
+
+A efectos de lo dispuesto por este artículo, se considera que las dos actividades adyacentes o anexas se realizan de forma integrada y simultánea cuando se llevan a cabo en el mismo domicilio industrial, coincidiendo en el tiempo y controladas oficialmente por el mismo equipo de inspección.
+
+3\. Para los controles realizados en los establecimientos de manipulación de caza:
+
+Caza menor de pluma: 0,006733 euros por animal.
+
+Caza menor de pelo: 0,013466 euros por animal.
+
+Verracos: 2,019898 euros por animal.
+
+Rumiantes: 0,673300 euros por animal.
+
+> Se modifica por el art. 70.3 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 123 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica el apartado 3 por el art. 86.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Véase la disposición adicional 12 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896)., sobre aplicación de las tasas de los apartados 2, 3 y 4 para el 2011.
+
+> Se modifica la letra c) y se añade la c bis) al apartado 1 por el art. 15 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 21.7-5. Deducciones.
+
+1\. En el caso de los mataderos y de los establecimientos de manipulación de caza, los sujetos pasivos pueden aplicarse, en su caso, con relación a las cuotas establecidas por el artículo 21.7-4, las siguientes deducciones:
+
+a) Deducción por horario regular diurno:
+
+La deducción puede aplicarse únicamente cuando la totalidad de la producción se produce entre las 6.00 h y las 22.00 h de lunes a viernes laborables.
+
+Se establece como importe de la deducción la aplicación del 16 % sobre la cuota correspondiente.
+
+b) Deducción por personal propio de apoyo al control oficial:
+
+La deducción puede aplicarse cuando el sujeto pasivo, de acuerdo con su actividad y con la normativa vigente, pone personal propio a disposición del control oficial realizando tareas de asistente, tal como establece la normativa sectorial y el artículo 18.3 del Reglamento 625/2017, del Parlamento Europeo y del Consejo, de 15 de marzo.
+
+Se establece como importe de la deducción la aplicación del 20 % sobre la cuota a liquidar.
+
+c) Deducción por apoyo instrumental al control oficial:
+
+La deducción puede aplicarse cuando el establecimiento pone a disposición de los servicios de inspección el material y los equipamientos apropiados para llevar a cabo las actividades de control específicas en las mismas instalaciones. Esta dotación instrumental se concreta en un espacio de trabajo debidamente acondicionado, equipamiento, herramientas y material de oficina y comunicaciones.
+
+La autoridad sanitaria que lleva a cabo los controles oficiales establecidos como hecho imponible por el artículo 21.7-1 debe fijar los criterios de aplicación de esta deducción y detallar el contenido de este apoyo instrumental, así como sus características y prestaciones.
+
+Se establece como importe de la deducción la aplicación del 15 % sobre la cuota a liquidar.
+
+d) Deducción por actividad planificada y estable:
+
+La deducción por actividad planificada y estable puede aplicarse cuando los sujetos pasivos que llevan a cabo la actividad de sacrificio disponen en su producción de un sistema de planificación y programación y lo llevan a la práctica de modo efectivo, lo que permite a los servicios de inspección conocer el horario del servicio que hay que prestar con una anticipación mínima de setenta y dos horas, a fin de prever los recursos y optimizar su organización.
+
+Se establece como importe de la deducción la aplicación del 30 % sobre la cuota a liquidar.
+
+Cada incumplimiento del plazo de anticipación mínima de setenta y dos horas hecho constar en acta oficial por el veterinario oficial de matadero comporta una reducción del 2 % en el porcentaje de esta deducción en el correspondiente período impositivo. No se consideran incumplimiento las modificaciones horarias por causas sobrevenidas, sucedidas dentro de las setenta y dos horas previas a la actividad planificada, y que no sean atribuibles al sujeto pasivo.
+
+2\. Las deducciones que corresponda pueden aplicarse de forma aditiva, solo por la parte de la producción que reúna las condiciones objeto de la deducción, y con un límite máximo del 56 % de la cuota.
+
+3\. La autoridad sanitaria que lleva a cabo los controles oficiales establecidos como hecho imponible por el artículo 21.7-1 puede llevar a cabo actividades de verificación para comprobar que se cumplen las condiciones que habilitan la aplicación de las deducciones establecidas en el punto 1.
+
+4\. Los establecimientos que por normativa sanitaria estén obligados a disponer de auxiliares oficiales de inspección veterinaria a disposición del control oficial pueden deducir, de la cantidad resultante después de las deducciones aplicadas de acuerdo con los apartados 1 y 2, el importe correspondiente al coste del servicio efectivamente prestado relativo al cumplimiento de esa obligación.
+
+Esta deducción se aplica en función del coste soportado por el número de puestos de auxiliares oficiales de inspección veterinaria que haya sido fijado obligatoriamente de acuerdo con lo que reglamentariamente se establezca.
+
+Para aplicar esta deducción, los servicios veterinarios oficiales deben certificar el cumplimiento de esta prestación por parte del personal fijado por el órgano administrativo competente. El importe de la deducción no puede ser en ningún caso superior al coste del servicio efectivamente prestado por las entidades de servicios de apoyo al control veterinario oficial habilitadas correspondiente a este personal.
+
+El importe resultante de las deducciones de este apartado se añade a las deducciones del apartado 1. No obstante, esta adición parte del límite establecido en el apartado 2, no pudiendo superar el importe equivalente a los siguientes límites de deducción:
+
+– Los establecimientos que en el año anterior hayan sacrificado más de cien mil cabezas de la especie porcina: límite del 18 %. En caso de que alguno de estos establecimientos tenga actividad multiespecie, puede incrementar este límite en un 7 % adicional.
+
+– Los establecimientos que sacrifican cualquier otra especie, o que en el año anterior hayan sacrificado menos de cien mil animales de la especie porcina: límite del 39 %.
+
+> Téngase en cuenta que la vigencia del apartado 4, añadido por el art. 8.2 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344), queda condicionada a la entrada en vigor de la obligación, que debe establecerse por reglamento, para los mataderos y establecimientos de manipulación de caza, de disponer de auxiliares oficiales de inspección veterinaria a disposición del control oficial, según se establece en la disposición final 8.2 de la citada ley.
+
+> Se modifica el apartado 1 y se añade el 4 por el art. 8 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Téngase en cuenta que la vigencia del apartado 4 queda condicionada a la entrada en vigor de la obligación, que debe establecerse por reglamento, para los mataderos y establecimientos de manipulación de caza, de disponer de auxiliares oficiales de inspección veterinaria a disposición del control oficial, según se establece en la disposición final 8.2 de la citada ley.
+
+> Se modifica por el art. 70.4 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 123 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica la letra b) por el art. 86.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 40.2 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Téngase en cuenta la disposición final 5 para la aplicación de las deducciones.
+
+#### Artículo 21.7-6. Acumulación de cuotas.
+
+**(Derogado).**
+
+> Se deroga por el art. 70.5 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 123 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 21.7-7. Liquidación de la tasa e ingreso.
+
+1\. La liquidación y el ingreso de la tasa en las cuotas establecidas por los apartados 1 y 3 del artículo 21.7-4 deben ser efectuados por el sujeto pasivo mediante autoliquidación.
+
+2\. El plazo impositivo es el trimestre natural y la presentación de la autoliquidación e ingreso al Departamento de Salud o ente competente debe efectuarse durante los quince días siguientes a la fecha de finalización del trimestre correspondiente.
+
+3\. La liquidación de las cuotas establecidas en el apartado 2 del artículo 21.7-4 no es objeto de autoliquidación, sino que se lleva a cabo siguiendo el mismo procedimiento que se aplica a los hechos imponibles cuyas cuotas quedan establecidas con carácter general en el artículo 21.1-5.2.a).
+
+> Se modifica por el art. 70.6 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 123 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 21.7-8. Obligación de registro.
+
+1\. Los mataderos y los establecimientos de manipulación de caza sujetos a control oficial deben llevar un registro diario que dé cumplimiento a la legislación vigente y que recoja todas las operaciones que afectan la tasa. Deben constar en él los animales sacrificados con el número, la fecha y el horario de las operaciones y el peso de los animales, de acuerdo con la tipología establecida por esta ley. Asimismo, debe constar el registro de las repercusiones, con indicación expresa de la persona repercutida.
+
+2\. La autoridad sanitaria debe fijar los criterios a considerar en la confección de este registro, así como el formato que debe tener.
+
+> Se modifica por el art. 70.7 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 123 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 21.7-9. Inspección de la tasa.
+
+Al efecto de lo establecido por la presente ley en materia de inspección, se establece la colaboración del Departamento de Salud o ente competente en la función inspectora de la tasa regulada por este capítulo.
+
+> Se modifica por el art. 123 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 21.7.10. Prohibición de restitución.
+
+El importe de la tasa regulada por este capítulo no puede ser objeto de restitución a terceras personas debido a la exportación de las carnes, ya sea de manera directa o indirecta.
+
+> Se modifica por el art. 123 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 21.7-11. Afectación de la tasa.
+
+La tasa regulada por este capítulo tiene carácter finalista, por lo que, de conformidad con la presente ley, los ingresos derivados de la tasa quedan afectados a la financiación del coste del control sanitario prestado por el Departamento de Salud o ente competente.
+
+> Se modifica por el art. 123 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+### CAPÍTULO VIII — Tasa por auditar el cumplimiento del programa de garantía de calidad en las unidades de radiodiagnóstico, medicina nuclear y radioterapia
+
+#### Artículo 21.8-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios que se consignan en el artículo 21.8-4.
+
+#### Artículo 21.8-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, titulares de los centros incluidos en el plan de auditoría de los programas de garantía de calidad establecido por el Departamento de Salud en los cuales se realiza la auditoría.
+
+#### Artículo 21.8-3. Devengo.
+
+La tasa se devenga con la prestación de los servicios constitutivos del hecho imponible, pero se puede exigir el pago en el momento en que se notifica al sujeto pasivo la inclusión del centro en el plan de auditoría de los programas de garantía de calidad, en cuyo caso lo tiene que hacer efectivo antes del día programado para el inicio de la auditoría.
+
+#### Artículo 21.8-4. Cuota.
+
+La auditoría periódica consistente en la evaluación, la verificación, el informe y el registro de la efectiva implantación del programa de garantía de calidad elaborado por el centro, de su adecuación a los objetivos previstos y del cumplimiento de las disposiciones reglamentarias de aplicación a las unidades de radiodiagnóstico, radioterapia y medicina nuclear.
+
+El importe de la cuota es:
+
+1\. Unidades simples: aquéllas en las que el radiodiagnóstico no es la principal actividad del centro, si no un medio de diagnóstico para otra actividad: 251,35 euros.
+
+2\. Unidad compleja: aquéllas cuya actividad principal es el diagnóstico por la imagen, la medicina nuclear o la radioterapia: 1.076,85 euros.
+
+### CAPÍTULO IX — Tasa por la verificación del cumplimiento de las buenas prácticas de laboratorio (BPL) de un laboratorio que hace estudios no clínicos sobre medicamentos o productos cosméticos y de la inspección para la verificación del cumplimiento de las buenas prácticas de laboratorio en la elaboración de estudios no clínicos con medicamentos o productos cosméticos
+
+#### Artículo 21.9-1. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la prestación por el Departamento de Salud de los servicios y las actuaciones inherentes a la inspección para la verificación del cumplimiento de las buenas prácticas de laboratorio (BPL) de un laboratorio que hace estudios no clínicos sobre medicamentos o productos cosméticos, con la finalidad de determinar los efectos en los seres humanos, los animales y el medio ambiente, el otorgamiento, si procede, de la certificación de conformidad y la inscripción de estos laboratorios al registro correspondiente, y también la realización de las inspecciones periódicas pertinentes.
+
+2\. También constituye el hecho imponible de la tasa la prestación por el Departamento de Salud de los servicios y las actuaciones inherentes a la verificación de un estudio no clínico de un medicamento o un producto cosmético con el objeto de determinar si se han seguido los principios de buenas prácticas de laboratorio, y también la inscripción del estudio efectuado al registro correspondiente.
+
+#### Artículo 21.9-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los laboratorios que solicitan la obtención de la certificación de la conformidad de buenas prácticas de laboratorio (BPL) y, por lo tanto, la inclusión del laboratorio en el programa de verificación del cumplimiento de BPL, establecido por el Departamento de Salud, y los laboratorios que hayan promovido la elaboración del estudio que se tiene que verificar.
+
+#### Artículo 21.9-3. Devengo.
+
+1\. En la verificación del cumplimiento de las buenas prácticas de laboratorio (BPL) de un laboratorio que hace estudios no clínicos sobre medicamentos o productos cosméticos:
+
+a) La tasa se devenga en el momento que se inicia la prestación del servicio. La obligación del pago surge en el momento en que se presenta la solicitud de obtención de la certificación de la conformidad de buenas prácticas de laboratorio al Departamento de Salud y la incorporación del laboratorio al programa de verificación del cumplimiento del BPL establecido. El número de días que se programe para llevar a cabo la inspección tienen que estar en función de las dimensiones del laboratorio, y también del tipo y la variedad de estudios preclínicos que se hagan.
+
+b) El pago de la tasa se fracciona mediante la emisión de dos liquidaciones, la primera de las cuales se refiere a la inscripción del laboratorio al programa de verificación de cumplimiento de BPL y se tiene que hacer efectiva en el momento en que se presente la solicitud; la segunda liquidación se refiere a la realización de la inspección, y se tiene que hacer efectivo el pago antes del día en que se haya programado el inicio de esta inspección, por lo cual el importe queda provisionalmente fijado en el resultado de multiplicar la tarifa diaria por el número de días programados.
+
+2\. En la inspección para la verificación del cumplimiento de las buenas prácticas de laboratorio en la elaboración de estudios no clínicos con medicamentos y productos cosméticos, la tasa se devenga con la prestación del servicio. La obligación del pago surge en el momento en qué el sujeto pasivo presenta la solicitud para la realización de esta verificación en el Departamento de Salud o cuando esta verificación es solicitada por una autoridad sanitaria reguladora delante de la cual se ha presentado este estudio, que forma parte del dossier de registro de un medicamento o de la documentación de un producto cosmético. La tasa se tiene que hacer efectiva antes del día programado para el inicio de la inspección para la realización del estudio.
+
+#### Artículo 21.9-4. Cuota.
+
+La cuota de la tasa es:
+
+1\. Verificación del cumplimiento de las buenas prácticas de laboratorio (BPL) de un laboratorio que hace estudios no clínicos sobre medicamentos o productos cosméticos:
+
+1.1 Inscripción del laboratorio en el registro de laboratorios incluidos en el programa de verificación del cumplimiento de buenas prácticas de laboratorio (BPL), y visita de preinscripción: 276,45 euros.
+
+1.2 Inspección del laboratorio para verificar el cumplimiento de las buenas prácticas de laboratorio (BPL), por día: 454,05 euros.
+
+1.3 Inspecciones ulteriores periódicas para evaluar el cumplimiento de las buenas prácticas de laboratorio (BPL), por día: 454,05 euros.
+
+2\. Inspección para la verificación del cumplimiento de las buenas prácticas de laboratorio en la realización de estudios no clínicos con medicamentos y productos cosméticos, por la inspección, por el otorgamiento de la certificación de evaluación de conformidad y la inscripción del estudio verificado en el registro correspondiente, por día: 454,05 euros.
+
+### CAPÍTULO X — Tasa por los servicios de tramitación y resolución de las solicitudes de autorización para la creación, la construcción, la modificación, la adaptación o la supresión de las oficinas de farmacia
+
+#### Artículo 21.10-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación que hace el Departamento de Salud de los servicios que consigna el artículo 21.10-4.
+
+#### Artículo 21.10-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas a las que se prestan servicios.
+
+#### Artículo 21.10-3. Devengo.
+
+La tasa se devenga con la prestación de los servicios constitutivos del hecho imponible, pero puede ser exigido el pago en el momento que las personas interesadas hacen la solicitud.
+
+#### Artículo 21.10-4. Cuota.
+
+El importe de la cuota es:
+
+1\. Instalaciones de nuevas oficinas de farmacia.
+
+1.1 Tramitación y resolución de la solicitud de autorización para la instalación de nuevas oficinas de farmacia: 229,85 euros.
+
+1.2 Medición de distancias entre el local propuesto para la instalación y el resto de las oficinas de farmacia instaladas y los centros de atención primario: 739,45 euros.
+
+2\. Traslado.
+
+2.1 Tramitación y resolución de las solicitudes de autorización para trasladar las oficinas de farmacia: 229,85 euros.
+
+2.2 Medición de distancias en el supuesto de controversias entre mediciones presentadas para la designación de un local en el expediente de traslado: 739,45 euros.
+
+3\. Tramitación y resolución de una solicitud de autorización para la modificación de un local destinado a oficina de farmacia: 43,20 euros.
+
+### CAPÍTULO XI — Tasa por los servicios de inspección farmacéutica
+
+#### Artículo 21.11-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación que hace el Departamento de Salud de los servicios consignados por el artículo 21.11-4.
+
+#### Artículo 21.11-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, a las cuales se prestan los servicios.
+
+#### Artículo 21.11-3. Devengo.
+
+La tasa se devenga con la prestación de los servicios constitutivos del hecho imponible, pero puede ser exigido el pago al anticipo en el momento que las personas interesadas hacen la solicitud.
+
+#### Artículo 21.11-4. Cuota.
+
+El importe de la cuota es:
+
+1\. Por inspección-informe sobre condiciones de los locales, instalaciones y utillaje para la autorización de apertura o el traslado de servicios farmacéuticos
+
+1.1 Oficina de farmacia: 51,55 euros.
+
+1.2 Botiquín y depósito de medicamento: 36,05 euros.
+
+1.3 Servicio de farmacia hospitalaria: 73,05 euros.
+
+1.4 Almacén de distribución: 358,30 euros.
+
+2\. Por la toma de posesión del farmacéutico o farmacéutica titular, del farmacéutico o farmacéutica sustituto, quien la regente o del copropietario o copropietario: 31,95 euros.
+
+3\. Por la toma de posesión del farmacéutico o farmacéutica adjunto: 23,80 euros.
+
+4\. Por la toma de posesión del director o directora técnico o del director o directora técnica suplente de un almacén de distribución: 108,50 euros.
+
+5\. Por las inspecciones de seguimiento o reinspecciones: 358,30 euros.
+
+6\. Por inspección farmacéutica ordinaria: 21,60 euros.
+
+### CAPÍTULO XII — Tasa por la inspección y el control de la industria farmacéutica
+
+#### Artículo 21.12-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la realización por parte del Departamento de Salud de las siguientes actividades:
+
+a) La verificación del cumplimiento de las normas de correcta fabricación de medicamentos, mediante inspecciones y actuaciones inherentes a las propias inspecciones, ya sea a solicitud de parte o a instancias del Departamento de Salud.
+
+b) Servicios y actuaciones inherentes a la toma de muestras reglamentarias de medicamentos o de materias primas, o de ambas, de productos intermedios o material de acondicionamiento utilizados en la fabricación de medicamentos y, si procede, su remisión a un laboratorio oficial de análisis.
+
+c) Servicios y actuaciones inherentes a la emisión de un certificado de cumplimiento de las normas de correcta fabricación de medicamentos.
+
+> Se modifica por el art. 87.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 21.12-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los laboratorios farmacéuticos instalados en Cataluña que, previa autorización de la Agencia Española de Medicamentos y Productos Sanitarios, de acuerdo con lo establecido en la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y producto sanitarios, fabrican, importan, exportan o comercializan medicamentos o son titulares de estos, o participan en alguna de sus fases de fabricación, como el envasado, el acondicionamiento y la presentación a la venta.
+
+> Se modifica por el art. 87.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 21.12-3. Devengo.
+
+1\. En la inspección de un laboratorio farmacéutico para verificar el cumplimiento de las normas de correcta fabricación de medicamentos, la tasa se acredita en el momento en que se inicia la prestación del servicio. La obligación del pago de la tasa surge en el momento en que el laboratorio farmacéutico solicita la visita de inspección o bien cuando la Administración notifica la visita de inspección. El pago debe hacerse efectivo antes del día programado para el inicio de la inspección. El importe queda fijado en el resultado de multiplicar la tarifa diaria por el número de días programados. El número de días que se programen para llevar a cabo la inspección debe estar en función del tamaño del laboratorio y el número y tipo de formas farmacéuticas que fabrique.
+
+2\. En la toma de muestras reglamentarias de medicamentos o de materias primas, o de ambas, y de productos intermedios y material de acondicionamiento utilizado en la fabricación de medicamentos, la tasa se acredita en el momento en que se inicia la prestación del servicio. La obligación del pago de la tasa surge desde el momento en que el laboratorio farmacéutico presenta la solicitud de la toma de muestras reglamentarias. El pago debe hacerse efectivo antes del día programado para que un inspector farmacéutico se presente en el laboratorio para la toma de muestras reglamentarias.
+
+3\. En los servicios y actuaciones inherentes a la emisión de un certificado de cumplimiento de las normas de correcta fabricación de medicamentos, la tasa se acredita en el momento en que se inicia la prestación del servicio. La obligación del pago se inicia cuando el laboratorio presenta la solicitud de emisión del certificado. El pago debe hacerse efectivo en este momento.
+
+> Se modifica por el art. 87.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 21.12-4. Cuota.
+
+La cuota de la tasa es:
+
+1\. Por la inspección del laboratorio farmacéutico, por día: 469 euros.
+
+2\. Por la toma de muestras: 305,40 euros.
+
+3\. Por las actuaciones relacionadas con la toma de posesión en el cargo de director o directora técnico o de director o directora técnico suplente: 92,45 euros.
+
+4\. Por la emisión de un certificado de cumplimiento de las normas de fabricación correcta de medicamentos: 92,45 euros.
+
+### CAPÍTULO XIII — Tasa por los servicios de tramitación y resolución de las solicitudes de autorización para la elaboración y el control de fórmulas magistrales y preparados oficinales por encargo de una oficina o un servicio de farmacia que no disponga de los medios necesarios
+
+> Se deroga por el art. 71 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículos 21.13-1 a 21.13-4.
+
+**(Derogados).**
+
+> Se derogan por el art. 71 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO XIV — Tasa por los servicios de tramitación y resolución de los expedientes de autorización administrativa de instalación, modificación y traslado de los servicios farmacéuticos en centros cuya actividad principal no es sanitaria
+
+> Se deroga por el art. 72 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 21.14-1 a 21.14-4.
+
+**(Derogados).**
+
+> Se derogan por el art. 72 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO XV — Tasa por la realización de análisis de laboratorio en materia de protección de la salud ambiental y alimentaria
+
+> Se modifica por el art. 124 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 21.15-1. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la realización de análisis de laboratorio derivados de las actividades de control sanitario en materia de protección de la salud.
+
+2\. El hecho imponible se produce solamente en el caso de que los servicios se presten por disposición normativa expresa o cuando la propia Administración los efectúa de oficio.
+
+> Se modifica por el art. 124 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 21.15-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, receptoras del servicio de laboratorio.
+
+> Se modifica por el art. 124 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 21.15-3. Acreditación.
+
+La tasa se acredita mediante la realización de los análisis, pero puede exigirse su pago por adelantado si es la persona interesada quien formula la solicitud de la prestación del servicio.
+
+> Se modifica por el art. 124 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 21.15-4. Cuota.
+
+La cuota de la tasa es la siguiente:
+
+1\. Análisis por métodos basados en crecimientos en medio de cultivo.
+
+1.1 Identificación por investigación de microorganismos: 26,10 euros.
+
+1.2 Recuento de microorganismos: 36,55 euros.
+
+1.3 Identificación/recuento de Legionella pneumophila por investigación/recuento de Legionella spp: 83,30 euros.
+
+1.4 Investigación de sustancias inhibidoras: 20 euros.
+
+1.5 Determinación de resistencias microbianas: 68 euros.
+
+2\. Análisis por métodos basados en técnicas moleculares.
+
+2.1 Detección y/o investigación de bacterias patógenas por PCR: 60 euros.
+
+2.2 Cuantificación de virus y otros microorganismos por PCR: 125,00 euros.
+
+2.3 Tipificación molecular de cepas: 83,80 euros.
+
+3\. Análisis por métodos basados en bioensayos.
+
+3.1 Investigación de biotoxina marina: 110,25 euros.
+
+3.2 Identificación y cuantificación de otras sustancias no identificadas por bioensayo: 208,7 euros.
+
+4\. Análisis por métodos basados en técnicas de parasitología.
+
+4.1 Detección de larvas de triquina: 31,25 euros.
+
+4.2 Detección de larvas de Anisakis: 22,75 euros.
+
+5\. Análisis por métodos basados en técnicas fisicoquímicas.
+
+5.1 Gravimetrías: 20 euros.
+
+5.2 Volumetrías: 20 euros.
+
+5.3 Identificación y cuantificación de sustancias por otras técnicas no instrumentales no especificadas: 20 euros.
+
+6\. Análisis por métodos basados en técnicas instrumentales.
+
+6.1 Potenciometría: 15,60 euros.
+
+6.2 Turbidimetría: 15,70 euros.
+
+6.3 Conductimetría: 15,60 euros.
+
+6.4 Espectrometría ultravioleta visible:30,00 euros.
+
+6.5 Identificación y cuantificación de sustancias por otras técnicas instrumentales no especificadas: 150 euros.
+
+7\. Análisis por métodos basados en técnicas instrumentales separativas (de 1 a 10 analitos).
+
+7.1 Cromatografía de gases (CG-FID/NPD/FPD/ECD): 104,20 euros.
+
+7.2 Cromatografía de gases (CG-MS): 219,25 euros.
+
+7.3 Cromatografía líquida CL-DAD/IR/FLD/COND: 219,25 euros.
+
+7.4 Cromatografía líquida CL-MS-MS: 395,00 euros.
+
+8\. Análisis de metales (individual).
+
+8.1 Metal por emisión de plasma inducido ICP: 42 euros.
+
+8.2 Metal por emisión de plasma inducido ICP-MS: 88,80 euros.
+
+9\. Análisis por métodos basados en técnicas inmunológicas.
+
+9.1 Identificación serológica de microorganismos: 45 euros.
+
+9.2 Técnicas enzimáticas de identificación de sustancias con equipos específicos: 60 euros.
+
+9.3 Técnicas inmunológicas de identificación de sustancias. ELISA: 60 euros.
+
+9.4 Técnicas inmunológicas de cuantificación de sustancias. ELISA: 100 euros.
+
+10\. Preparación de muestras, a contabilizar añadido al análisis.
+
+10.1 Preparación de muestras para análisis con operaciones básicas (extracciones, destilaciones, mineralizaciones, etc.): 26,15 euros.
+
+10.2 Preparación de muestras mediante sistemas instrumentales: 41,50 euros.
+
+11\. Parámetros procedentes de cálculo.
+
+11.1 Se contabiliza la suma del precio de los parámetros necesarios para el cálculo independientemente de si figuran o no en la solicitud.
+
+> Se modifica por el art. 124 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 88 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XVI — Tasa por la prestación de servicios por el Instituto de Estudios de la Salud
+
+> Se deroga por el art. 73 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículos 21.16-1 a 21.16-5.
+
+**(Derogados).**
+
+> Se derogan por el art. 73 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO XVII — Tasa por otras actuaciones sanitarias
+
+> Se deroga por el art. 74 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículos 21.17-1 a 21.17-4.
+
+**(Derogados).**
+
+> Se derogan por el art. 74 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO XVIII — Tasa por la evaluación de la documentación y la tramitación de las solicitudes de licencias y autorizaciones de productos sanitarios
+
+#### Artículo 21.18-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios que consigna el artículo 21.18-4.
+
+#### Artículo 21.18-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, a las que se prestan los servicios.
+
+#### Artículo 21.18-3. Devengo.
+
+La tasa se devenga con la prestación de los servicios constitutivos del hecho imponible, pero se puede exigir el pago por adelantado en el momento que las personas interesadas hacen la solicitud.
+
+#### Artículo 21.18-4. Cuota.
+
+1\. Evaluación de la documentación y tramitación de las solicitudes de licencia para la fabricación de productos sanitarios a medida.
+
+La cuota de la tasa es:
+
+1.1 Por la solicitud de licencia previa sanitaria de funcionamiento de la instalación de fabricación de productos sanitarios a medida: 648,30 euros.
+
+1.2 Por la solicitud de modificación de la licencia por cambio de domicilio o tipo de actividad: 266,05 euros.
+
+1.3 Por la solicitud de modificación de la licencia por el cambio de titular de la empresa o de responsable técnico: 108,50 euros.
+
+1.4 Por la solicitud de revalidación quinquenal de la licencia: 483,55 euros.
+
+2\. Evaluación de la documentación y tramitación de la comunicación inicial de la actividad de distribución de productos sanitarios y/o productos sanitarios para diagnóstico in vitro y de las comunicaciones de modificaciones posteriores de esta comunicación: 112,5 euros.
+
+3\. Autorización de la publicidad de productos sanitarios dirigida al público e insertada en medios de difusión pública: 290,10 euros.
+
+> Se modifica el apartado 2 por el art. 42 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+### CAPÍTULO XIX — Tasa por la obtención del libro de control de residuos sanitarios
+
+#### Artículo 21.19-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la obtención del libro de control de residuos sanitarios.
+
+#### Artículo 21.19-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, que solicitan el libro de control de residuos sanitarios.
+
+#### Artículo 21.19-3. Devengo.
+
+La tasa se devenga con la prestación de los servicios constitutivos del hecho imponible, pero puede ser exigido el pago en el momento que las personas interesadas hacen la solicitud.
+
+#### Artículo 21.19-4. Cuota.
+
+La cuota de la tasa se fija en 33,60 euros.
+
+### CAPÍTULO XX — Tasa por la formación higiénica de los manipuladores de alimentos de alto riesgo
+
+> Se deroga por el art. 125 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículos 21.20-1 a 21.20-5
+
+**(Derogados).**
+
+> Se derogan por el art. 125 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+### CAPÍTULO XXI — Tasa por la emisión del certificado de venta libre de productos cosméticos
+
+#### Artículo 21.21-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios consignados por el artículo 21.21-4.
+
+#### Artículo 21.21-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas a las que se prestan los servicios.
+
+#### Artículo 21.21-3. Devengo.
+
+La tasa se devenga con la prestación de los servicios constitutivos del hecho imponible, pero puede ser exigido el pago por anticipado en el momento en que las personas interesadas hacen la solicitud.
+
+#### Artículo 21.21-4. Cuota.
+
+Por la emisión del certificado de venta libre de productos cosméticos: 16,05 euros. Este importe comprende la expedición del documento para un máximo de 10 productos cosméticos, y 0,95 euros adicionales por cada uno de los productos cosméticos cuando se solicite un certificado con más de 10 productos.
+
+### CAPÍTULO XXII — Tasa sobre los actos preparatorios y los servicios accesorios de mejora de la información inherentes al proceso para la prescripción y dispensación de medicamentos y productos sanitarios mediante la emisión de recetas médicas y órdenes de dispensación
+
+> Se declara inconstitucional y nulo por Sentencia del TC 71/2014, de 6 de mayo. [Ref. BOE-A-2014-5900](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5900).
+
+> Se mantiene la suspensión de la vigencia y aplicación de este capítulo por Auto del TC de 21 de mayo de 2013. [Ref. BOE-A-2013-5573](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5573).
+
+> Se suspende la vigencia y aplicación de este capítulo desde el 21 de diciembre de 2012 para las partes en el proceso y desde el 17 de enero de 2013 para los terceros, por providencia del TC de 15 de enero de 2013 que admite a trámite el recurso de inconstitucionalidad nº 7208/2012. [Ref. BOE-A-2013-447](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-447).
+
+> Se añade por el art. 41 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículos 21.22-1 a 21.22-7
+
+**(Anulados)**
+
+> Se declaran inconstitucionales y nulos por Sentencia del TC 71/2014, de 6 de mayo. [Ref. BOE-A-2014-5900](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5900).
+
+### CAPÍTULO XXIII
+
+## Tasa por el servicio de acreditación y reacreditación de la formación sanitaria
+
+> Se modifica por el art. 126 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 42 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.23-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación realizada por el Departamento de Salud, o el ente competente, del servicio de acreditación y reacreditación de formación sanitaria.
+
+> Se modifica por el art. 126 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 42 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.23-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas naturales o jurídicas, públicas o privadas, en cuyo interés se prestan los servicios.
+
+> Se modifica por el art. 126 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 42 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.23-3. Acreditación.
+
+La tasa se acredita mediante la realización del hecho imponible, pero puede exigirse su pago en el momento en el que la persona interesada solicita la prestación del servicio.
+
+> Se modifica por el art. 126 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 42 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.23-4. Cuota.
+
+El importe de la cuota para la realización de los servicios es de:
+
+Acreditación de la formación presencial: 157,40 euros.
+
+Acreditación de la formación a distancia: 184,86 euros.
+
+Reacreditación de la formación presencial: 133,11 euros.
+
+Reacreditación de la formación a distancia: 160,57 euros.
+
+> Se modifica por el art. 126 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 42 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO XXIV — Tasa por el servicio de comprobación del cumplimiento de las normas de correcta fabricación de principios activos farmacéuticos y por la emisión del correspondiente certificado de cumplimiento
+
+> Se añade por el art. 43 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.24-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación realizada por el Departamento de Salud consistente en la comprobación del cumplimiento de las normas de correcta fabricación de principios activos farmacéuticos, mediante inspecciones y actuaciones inherentes a las propias inspecciones, a solicitud de parte o a instancia del Departamento de Salud, así como, en su caso, la emisión del correspondiente certificado de cumplimiento.
+
+> Se añade por el art. 43 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.24-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las empresas fabricantes, importadoras o distribuidoras de principios activos farmacéuticos instaladas en Cataluña que llevan a cabo la fabricación total o parcial, incluido el reacondicionamiento o reetiquetado, de estas sustancias, en cuyo interés se efectúa la comprobación, o las que solicitan la emisión del correspondiente certificado de cumplimiento.
+
+> Se añade por el art. 43 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.24-3. Acreditación.
+
+La tasa se acredita con la prestación del servicio, teniendo en cuenta que:
+
+a) La cuota establecida por el apartado 1 del artículo 21.24-4 es exigible en el momento en que la empresa presenta la solicitud o la Administración notifica la visita de inspección. El pago debe hacerse efectivo antes del día programado para su inicio, en los plazos que, de acuerdo con la normativa tributaria, señale la liquidación que acompaña la notificación de la inspección.
+
+b) La cuota establecida por el apartado 2 del artículo 21.24-4 es exigible en el momento en que la empresa presenta la solicitud de la emisión del certificado o bien, en caso de la emisión de oficio, cuando, una vez se ha completado el proceso de verificación del cumplimiento de acuerdo con la normativa aplicable, la Administración emite el certificado. En este caso, el pago debe hacerse efectivo en el momento en que la empresa recibe de la Administración la correspondiente notificación de liquidación de la tasa establecida.
+
+> Se modifica por el art. 43 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se añade por el art. 43 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 21.24-4. Cuota.
+
+El importe de la cuota por la realización de los servicios es de:
+
+1\. Comprobación del cumplimiento de las normas de fabricación correcta de principios activos farmacéuticos: 560,50 euros/día.
+
+El importe total quedará fijado en el resultado de multiplicar esta tarifa diaria por el número de días de inspección programados en función del tamaño de la empresa y el tipo y número de principios activos que fabrique o distribuya, así como por la dificultad técnica de los procesos de fabricación implicados.
+
+2\. Emisión del certificado de cumplimiento de las normas de fabricación correcta de principios activos farmacéuticos: 103,50 euros.
+
+> Se añade por el art. 43 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO XXV — Tasa por la renovación y reposición de la tarjeta sanitaria individual
+
+> Se deroga por la disposición derogatoria 1.e) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se añade por el art. 89 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999)
+
+#### Artículos 21.25-1 a 21.25-6.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria 1.e) de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+### CAPÍTULO XXVI — **Tasa por el servicio de emisión del certificado de habilitación en la profesión sanitaria**
+
+> Se deroga por el art. 75 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 90 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículos 21.26-1 a 21.26-5.
+
+**(Derogados).**
+
+> Se derogan por el art. 75 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO XXVII — Tasa por el servicio de comprobación del cumplimiento de las buenas prácticas de distribución de principios activos farmacéuticos y por la emisión del correspondiente certificado de cumplimiento
+
+> Se añade por el art. 44 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.27-1 Hecho imponible.
+
+Constituye el hecho imponible de la tasa:
+
+a) La inspección que realiza el departamento competente en materia de salud para la comprobación del cumplimiento de buenas prácticas de distribución de principios activos farmacéuticos, ya sea a solicitud de parte o de oficio.
+
+b) La emisión del correspondiente certificado de cumplimiento.
+
+> Se añade por el art. 44 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.27-2 Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las empresas instaladas en Cataluña que llevan a cabo la distribución de principios activos farmacéuticos o excipientes utilizados en la fabricación de medicamentos, en cuyo interés se efectúa la comprobación, así como las que solicitan la emisión del correspondiente certificado de cumplimiento.
+
+> Se añade por el art. 44 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.27-3 Acreditación.
+
+La tasa se acredita con la prestación del servicio, teniendo en cuenta que:
+
+a) La cuota establecida por el apartado 1 del artículo 21.27-4 es exigible en el momento en que la empresa presenta la solicitud o la Administración notifica la visita de inspección. El pago debe hacerse efectivo antes del día programado para su inicio, en los plazos que, de acuerdo con la normativa tributaria, señale la liquidación que acompaña la notificación de la inspección.
+
+b) La cuota prevista por el apartado 2 del artículo 21.27-4 es exigible en el momento en que la empresa presenta la solicitud de la emisión del certificado o bien, en caso de la emisión de oficio, cuando, una vez se ha completado el proceso de verificación del cumplimiento de acuerdo con la normativa aplicable, la Administración emite el certificado. En este caso, el pago debe hacerse efectivo en el momento en que la empresa recibe de la Administración la correspondiente notificación de liquidación de la tasa establecida.
+
+> Se añade por el art. 44 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.27-4 Cuota.
+
+Los importes de la cuota por la realización de los servicios son los siguientes:
+
+1\. Por la comprobación del cumplimiento de las buenas prácticas de distribución de principios activos farmacéuticos: 391,5 euros/día.
+
+El importe total queda fijado en el resultado de multiplicar esta tarifa diaria por el número de días de inspección programados en función del tamaño de la empresa y el tipo y número de principios activos que distribuya.
+
+2\. Por la emisión del certificado de cumplimiento de las buenas prácticas de distribución de principios activos farmacéuticos: 103,5 euros.
+
+> Se añade por el art. 44 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+### CAPÍTULO XXVIII — Tasa por el servicio de comprobación del cumplimiento de las buenas prácticas de fabricación de productos cosméticos y por la emisión del correspondiente certificado de cumplimiento
+
+> Se añade por el art. 45 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.28-1 Hecho imponible.
+
+Constituye el hecho imponible de la tasa:
+
+a) La inspección que realiza el departamento competente en materia de salud para la comprobación del cumplimiento de las buenas prácticas en la fabricación de productos cosméticos, ya sea a solicitud de parte o de oficio.
+
+b) La emisión del correspondiente certificado de cumplimiento.
+
+> Se añade por el art. 45 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.28-2 Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las empresas, personas físicas o jurídicas, instaladas en Cataluña que realizan la fabricación total o parcial de productos cosméticos, en cuyo interés se efectúa la comprobación, así como las que solicitan la emisión del correspondiente certificado de cumplimiento.
+
+> Se añade por el art. 45 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.28-3 Acreditación.
+
+La tasa se acredita con la prestación del servicio, teniendo en cuenta que:
+
+a) La cuota establecida por el apartado 1 del artículo 21.28-4 es exigible en el momento en que la empresa presenta la solicitud o la Administración notifica la visita de inspección. El pago debe hacerse efectivo antes del día programado para su inicio, en los plazos que, de acuerdo con la normativa tributaria, señale la liquidación que acompaña la notificación de la inspección.
+
+b) La cuota establecida por el apartado 2 del artículo 21.28-4 es exigible en el momento en que la empresa presenta la solicitud de la emisión del certificado o bien, en caso de la emisión de oficio, cuando, una vez se ha completado el proceso de verificación del cumplimiento de acuerdo con la normativa aplicable, la Administración emite el certificado. En este caso, el pago debe hacerse efectivo en el momento en que la empresa recibe de la Administración la correspondiente notificación de liquidación de la tasa establecida.
+
+> Se añade por el art. 45 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.28-4 Cuota.
+
+Los importes de la cuota por la realización de los servicios son los siguientes:
+
+1\. Por la comprobación del cumplimiento de las buenas prácticas de fabricación de productos cosméticos: 585,5 euros/día.
+
+El importe total queda fijado en el resultado de multiplicar esta tarifa diaria por el número de días de inspección programados en función del tamaño de la empresa, el número y tipos diferentes de formas cosméticas que fabrica y su volumen de producción.
+
+2\. Por la emisión del certificado de cumplimiento de las buenas prácticas de fabricación de productos cosméticos: 103,5 euros.
+
+> Se añade por el art. 45 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+### CAPÍTULO XXIX — Tasa por la autorización de las entidades de distribución de medicamentos de uso humano y el control e inspección periódica posterior para verificar el cumplimiento de las buenas prácticas de distribución de medicamentos
+
+> Se añade por el art. 46 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.29-1 Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación realizada por el Departamento de Salud de los siguientes servicios:
+
+a) La autorización de apertura y funcionamiento de nuevas entidades de distribución de medicamentos de uso humano.
+
+b) La autorización de las modificaciones posteriores en las condiciones en que se otorgó la autorización inicial de apertura y funcionamiento de las entidades de distribución de medicamentos de uso humano.
+
+c) La comprobación del cumplimiento de las buenas prácticas de distribución de medicamentos, mediante inspecciones y actuaciones inherentes a las propias inspecciones, a solicitud de parte o a instancias del Departamento de Salud.
+
+d) La emisión del correspondiente certificado de cumplimiento.
+
+> Se añade por el art. 46 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.29-2 Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las empresas instaladas en Cataluña que realizan la distribución de medicamentos de uso humano, las cuales, de acuerdo con la legislación vigente, se denominan genéricamente *entidades de distribución de medicamentos de uso humano,* y pueden ser almacenes mayoristas de distribución o almacenes por contrato, en cuyo interés se prestan algunos de los servicios a que se refiere el artículo 21.29-1.
+
+> Se añade por el art. 46 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.29-3 Acreditación.
+
+La tasa se acredita con la prestación del servicio, teniendo en cuenta que:
+
+a) Las cuotas establecidas por los apartados 1 y 2 del artículo 21.29-4 son exigibles en el momento en que la empresa presenta la solicitud. El pago debe hacerse efectivo en este momento.
+
+b) La cuota establecida por el apartado 3 del artículo 21.29-4 es exigible en el momento en que la empresa presenta la solicitud o la Administración notifica la visita de inspección. El pago debe hacerse efectivo antes del día programado para su inicio, en los plazos que, de acuerdo con la normativa tributaria, señale la liquidación que acompaña la notificación de la inspección.
+
+c) La cuota establecida por el apartado 4 del artículo 21.29-4 es exigible en el momento en que la empresa presenta la solicitud de la emisión del certificado o bien, en caso de la emisión de oficio, cuando, una vez se ha completado el proceso de verificación del cumplimiento de acuerdo con la normativa aplicable, la Administración emite el certificado. En este caso, el pago debe hacerse efectivo en el momento en que la empresa recibe de la Administración la correspondiente notificación de liquidación de la tasa establecida.
+
+> Se añade por el art. 46 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.29-4 Cuota.
+
+Los importes de la cuota por la realización de los servicios son los siguientes:
+
+1\. Por la tramitación de la solicitud de autorización de apertura y funcionamiento de una nueva entidad de distribución de medicamentos de uso humano: 375,00 euros.
+
+2\. Por la tramitación de la solicitud de autorización de las modificaciones posteriores en las condiciones en que se otorgó la autorización inicial de apertura y funcionamiento a una entidad de distribución de medicamentos de uso humano: 200,00 euros.
+
+3\. Por la comprobación del cumplimiento de las buenas prácticas de distribución de medicamentos de uso humano: 391,50 euros/día.
+
+El importe total queda fijado en el resultado de multiplicar esta tarifa diaria por el número de días de inspección programados en función del tamaño de la empresa y el tipo y número de medicamentos que distribuya (medicamentos que deben conservarse a temperatura controlada, estupefacientes, psicotrópicos, etc.).
+
+4\. Por la emisión del certificado de cumplimiento de las buenas prácticas de distribución de medicamentos de uso humano: 103,50 euros.
+
+> Se añade por el art. 46 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+### CAPÍTULO XXX — Tasa por el servicio de inspección del sistema de farmacovigilancia de los titulares de autorización de comercialización de medicamentos de uso humano y empresas de servicios subcontratadas para llevar a cabo actividades de farmacovigilancia
+
+> Se añade por el art. 47 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.30-1 Hecho imponible.
+
+Constituye el hecho imponible de la tasa:
+
+a) La inspección que realiza el departamento competente en materia de salud del sistema de farmacovigilancia del titular de autorización de comercialización de medicamentos de uso humano para verificar que cumple las obligaciones establecidas por la normativa de aplicación, ya sea a solicitud de parte o de oficio.
+
+b) La emisión del correspondiente certificado de cumplimiento.
+
+> Se añade por el art. 47 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.30-2 Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las empresas titulares de autorización de comercialización de medicamentos de uso humano que tengan la sede social o el sistema de farmacovigilancia situado en Cataluña, así como las empresas de servicios de farmacovigilancia instaladas en Cataluña subcontratadas por los titulares de autorización de comercialización de medicamentos.
+
+> Se añade por el art. 47 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.30-3 Acreditación.
+
+La tasa se acredita con la prestación del servicio, teniendo en cuenta que:
+
+a) La cuota establecida por el apartado 1 del artículo 21.30-4 es exigible en el momento en que la empresa presenta la solicitud o la Administración notifica la visita de inspección. El pago debe hacerse efectivo antes del día programado para su inicio, en los plazos que, de acuerdo con la normativa tributaria, señale la liquidación que acompaña la notificación de la inspección.
+
+b) La cuota prevista por el apartado 2 del artículo 21.30-4 es exigible en el momento en que la empresa presenta la solicitud de la emisión del certificado o bien, en caso de la emisión de oficio, cuando, una vez se ha completado el proceso de verificación del cumplimiento de acuerdo con la normativa aplicable, la Administración emite el certificado. En este caso, el pago debe hacerse efectivo en el momento en que la empresa recibe de la Administración la correspondiente notificación de liquidación de la tasa establecida.
+
+> Se añade por el art. 47 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 21.30-4 Cuota.
+
+Los importes de la cuota por la realización de los servicios son los siguientes:
+
+1\. Por la comprobación del cumplimiento de las obligaciones en farmacovigilancia de los titulares de autorización de comercialización de medicamentos de uso humano: 585,50 euros/día.
+
+El importe total es el resultado de multiplicar esta tarifa diaria por el número de días de inspección programados en función de la complejidad del sistema de farmacovigilancia del titular de autorización de comercialización de medicamentos o de los servicios de farmacovigilancia subcontratados a una empresa de servicios.
+
+2\. Por la emisión del certificado de cumplimiento de las buenas prácticas de farmacovigilancia: 103,5 euros.
+
+> Se añade por el art. 47 de la ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+## TÍTULO XXII — Seguridad privada, formación de personal policial y de protección civil, cuerpo de mossos d’esquadra, cuerpo de bomberos de la Generalidad, y actuaciones y servicios del Servicio Catalán de Tráfico
+
+### CAPÍTULO I — Tasa por la prestación de servicios y la realización de actividades por el Departamento de Interior en materia de seguridad privada
+
+> Se modifica por el art. 48 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 22.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de servicios y actividades que, de acuerdo con la Ley 5/2014, de 4 de abril, de seguridad privada; el Real decreto 2364/1994, de 9 de diciembre, de aprobación del Reglamento sobre seguridad privada, y el Decreto 272/1995, de 28 de septiembre, de regulación del ejercicio de competencias en materia de seguridad privada, corresponden a la Generalidad, y que se describen en el artículo 22.1-4.
+
+> Se modifica por el art. 48 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 22.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que, con la solicitud o la declaración responsable previas, motivan la prestación de los servicios y las actividades administrativas que constituyen el hecho imponible en materia de seguridad privada. Si estos servicios se prestan de oficio, son sujetos pasivos las personas físicas o jurídicas destinatarias.
+
+> Se modifica por el art. 48 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 22.1-3 Acreditación.
+
+La tasa se acredita y se hace efectiva en el momento de la solicitud o de la presentación de la declaración responsable que motiva el servicio o la actuación administrativa que constituye el hecho imponible. En los supuestos en que el servicio o la actuación que constituya el hecho imponible de la tasa prestada de oficio por la Administración, la obligación del pago nace en el momento en que se inicia la prestación del servicio o se realiza la actividad, sin perjuicio de la posibilidad de exigir el depósito previo del importe estimado, resultante de la liquidación que se practique.
+
+> Se modifica por el art. 48 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 22.1-4. Cuota.
+
+El importe de la cuota corresponde a los siguientes conceptos:
+
+1\. Autorización, o verificación de los datos que constan en la declaración responsable de apertura, e inscripción de las empresas de seguridad: 457,80 euros.
+
+2\. Modificación del asentamiento de inscripción del domicilio social, de la forma jurídica, del ámbito territorial de actuación y ampliación de actividades, incluidos el desplazamiento y el informe pertinente del personal de la Administración: 321,80 euros.
+
+3\. Modificación del asiento de inscripción del capital social, titularidad de acciones o participaciones, modificaciones estatutarias, variaciones en la composición personal de los órganos de administración y dirección y en la uniformidad y sustitución o complementación de la defensa por otros medios de defensa del personal de seguridad: 145,65 euros.
+
+4\. Cancelación de la inscripción: 138,65 euros.
+
+5\. Autorización, o verificación de los datos que constan en la declaración responsable de apertura, e inscripción de delegaciones de las empresas de seguridad: 173,80 euros.
+
+6\. Autorización de la prestación de servicios de escoltas privados: 258,40 euros.
+
+7\. Autorización de la prestación de servicios de vigilancia con armas para vigilantes de seguridad y para guardas rurales: 258,40 euros.
+
+8\. Autorización de la prestación de los siguientes servicios de seguridad:
+
+8.1 Vigilancia en polígonos industriales o urbanizaciones delimitados: 258,40 euros.
+
+8.2 Vigilancia en complejos o parques comerciales y de ocio delimitados: 258,40 euros.
+
+8.3 Vigilancia en acontecimientos culturales, deportivos o de relevancia social que tienen lugar en vías o espacios públicos o de uso común: 258,40 euros.
+
+8.4 Vigilancia y protección en recintos y espacios abiertos delimitados: 258,40 euros.
+
+9\. Autorización de la implantación de un servicio sustitutorio de vigilantes de seguridad: 258,40 euros.
+
+10\. Autorización de apertura y de traslado o comunicación de reformas sujetas a comprobación de establecimientos y oficinas obligados a disponer de medidas de seguridad o de cajeros automáticos, dispensa de medidas de seguridad y, en general, cualquier autorización o comprobación que implique desplazamiento o informe del personal de la Administración: 258,40 euros.
+
+11\. Autorización para la prestación de servicios de custodia de llaves en vehículos: 258,40 euros.
+
+12\. Compulsa de documentos: 4,90 euros.
+
+13\. Expedición de certificaciones: 28,35 euros.
+
+14\. Verificación de los datos que constan en la declaración responsable de apertura, e inscripción, de los centros de formación y actualización del personal de seguridad privada: 177,75 euros.
+
+15\. Verificación de los datos que constan en la declaración responsable de apertura, e inscripción, de despachos de detectives privados: 258,40 euros.
+
+16\. Verificación de los datos que constan en la declaración responsable de apertura, e inscripción, de sucursales de despachos de detectives privados: 100,60 euros.
+
+17\. Autorización e inscripción de centrales receptoras de alarmas de uso propio: 457,80 euros.
+
+> Se modifica el apartado 3 por el art. 9 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifica por el art. 48 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637)
+
+> Se modifica por el art. 24 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896)
+
+### CAPÍTULO II — Tasa del Instituto de Seguridad Pública de Cataluña
+
+#### Artículo 22.2-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios docentes del Instituto de Seguridad Pública de Cataluña en los cursos de promoción y en el curso de agente interino o agente interina destinados a miembros de los cuerpos policiales y en los cursos de promoción de los cuerpos de bomberos, no dependientes del Departamento de Interior, descritos en el artículo 22.2-4.
+
+> Se modifica por el art. 10.1 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+#### Artículo 22.2-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan los servicios docentes del Instituto de Seguridad Pública de Cataluña, que constituyen el hecho imponible.
+
+#### Artículo 22.2-3. Devengo.
+
+La tasa se devenga cuando se inicia la prestación del servicio correspondiente, sin perjuicio de la posibilidad de exigir el depósito previo.
+
+#### Artículo 22.2-4. Cuota.
+
+El importe de la cuota es:
+
+a) Curso de cabo de policía: 1.543,35 euros.
+
+b) Curso de sargento de policía: 1.764,20 euros.
+
+c) Curso de subinspector o subinspectora de policía: 2.201,55 euros.
+
+d) Curso de inspector o inspectora de policía: 4.955,60 euros.
+
+e) Curso de intendente, intendente mayor y superintendente de policía: 11.042,00 euros.
+
+f) Curso de agente interino o agente interina de policía: 707,85 euros.
+
+g) Curso de cabo bombero o cabo bombera o categoría funcional equivalente: 2.220,30 euros.
+
+h) Curso de sargento bombero o sargento bombera o categoría funcional equivalente: 4.710,40 euros.
+
+i) Curso de oficial bombero u oficial bombera o categoría funcional equivalente: 4.478,00 euros.
+
+j) Curso de subinspector bombero o subinspectora bombera o categoría funcional equivalente: 7.513,35 euros.
+
+k) Curso de sargento bombero o sargento bombera o categoría funcional equivalente: 7.555,00 euros.
+
+> Se modifica por el art. 10.2 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+### CAPÍTULO III — Tasa por la habilitación acreditativa de los bomberos de empresa y del personal técnico competente para elaborar planes de autoprotección, así como de los centros de formación
+
+> Se modifica por el art. 25 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 22.3-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de las siguientes actividades administrativas:
+
+a) Habilitación acreditativa para ejercer la función de bomberos de empresa.
+
+b) Acreditación de personal técnico competente para la elaboración de planes de autoprotección en el ámbito de la protección civil.
+
+c) Acreditación de centros de formación de técnicos en la elaboración de planes de autoprotección en el ámbito de la protección civil.º.
+
+d) Homologación de centros para formar bomberos de empresa.
+
+e) Inscripción en el examen libre para obtener la certificación técnica necesaria para la habilitación como técnico o técnica para actuar en el ámbito de la prevención y seguridad en caso de incendio mediante las entidades colaboradoras de la Administración.
+
+f) Autorización de las entidades colaboradoras de la Administración en materia de protección civil.
+
+> Se añade la letra f) por el art. 76.1 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 128.1 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 91.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 44.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 25 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 22.3-2. Sujetos pasivos.
+
+1\. Son sujetos pasivos de la tasa, en cuanto a las letras a), c), d) y e) del artículo 22.3-1, las personas físicas o jurídicas que solicitan la prestación de las actividades administrativas del Instituto de Seguridad Pública de Cataluña que constituyen el hecho imponible.
+
+2\. Son sujetos pasivos de la tasa, con respecto a las letras b) y f) del artículo 22.3-1, las personas físicas o jurídicas que solicitan la prestación de las actividades administrativas de la Dirección General de Protección Civil del Departamento de Interior que constituyen el hecho imponible.
+
+> Se modifica el apartado 2 por el art. 76.2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 128.2 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 25 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 22.3-3. Acreditación.
+
+La tasa se acredita y se hace efectiva en el momento de la solicitud que motiva el servicio que constituye el hecho imponible.
+
+> Se modifica por el art. 25 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 22.3-4. Cuota.
+
+El importe de la cuota es el siguiente:
+
+a) Habilitación acreditativa para ejercer la función de bombero de empresa: 50,85 euros.
+
+b) Acreditación de personal técnico competente para la elaboración de planes de autoprotección en el ámbito de la protección civil: 50,85 euros.
+
+c) Acreditación de centros de formación de técnicos en la elaboración de planes de autoprotección en el ámbito de la protección civil: 389,65 euros.
+
+d) Homologación de centros para formar bomberos de empresa: 389,65 euros.
+
+e) Inscripción en el examen libre para obtener la certificación técnica necesaria para la habilitación como técnico o técnica para actuar en el ámbito de la prevención y seguridad en caso de incendio mediante las entidades colaboradoras de la Administración: 48,15 euros.
+
+f) Acreditación de las entidades colaboradoras de la Administración en materia de protección civil: 389,65 euros.
+
+> Se añade la letra f) por el art. 76.3 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 128.3 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 91.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 44.2 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 25 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+### CAPÍTULO IV — Tasa por los servicios prestados por el Cuerpo de Mossos d'Esquadra
+
+> Se modifica por el art. 49 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 92 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 45 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 22.4-1 Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la prestación de los siguientes servicios, cuando son prestados por efectivos del Cuerpo de Mossos d'Esquadra:
+
+a) La escolta, el control y la regulación de la circulación en el acompañamiento policial de vehículos en régimen de autorización especial de circulación: vehículos o conjuntos de vehículos bajo el régimen de transporte especial o bien determinados vehículos especiales.
+
+b) La vigilancia, la regulación y la protección en el acompañamiento policial de actividades deportivas sujetas a autorización administrativa previa (pruebas deportivas, marchas ciclistas, agrupaciones de vehículos antiguos) que afectan a vías interurbanas o que tienen más incidencia en el núcleo urbano, sin perjuicio de las competencias municipales.
+
+c) La regulación y la vigilancia en el acompañamiento policial de usos excepcionales de la vía, de todo tipo, incluidas las obras, sujetas a autorización administrativa previa, cuando afectan a la circulación normal por espacios y vías públicas y la disponibilidad normal de estas vías, sin perjuicio de las competencias municipales que concurran.
+
+d) La prestación del servicio policial que con recursos extraordinarios por la vigilancia y protección especial, ante un posible riesgo para la seguridad de personas y bienes, deban desplegarse para garantizar el correcto desarrollo de una actividad o espectáculo público de concurrencia masiva organizado con ánimo lucrativo, ya sea deportivo o de otra naturaleza, que tenga lugar en recintos públicos o privados o en espacios públicos, durante el acontecimiento y en el tiempo imprescindible anterior y posterior, tanto en el recinto o lugar de celebración como en sus alrededores.
+
+A efectos de lo establecido por este apartado, se entiende por recursos extraordinarios la prestación del servicio:
+
+En recintos públicos o privados o en espacios públicos con un aforo de hasta 1.000 personas, con más de veinte efectivos policiales.
+
+En recintos públicos o privados o en espacios públicos con un aforo de 1.001 a 5.000 personas, con más de treinta efectivos policiales.
+
+En recintos públicos o privados o en espacios públicos con un aforo de 5.001 a 15.000 personas, con más de cincuenta efectivos policiales.
+
+En recintos públicos o privados o en espacios públicos con un aforo de más de 15.000 personas, con más de noventa y cinco efectivos policiales.
+
+e) La inmovilización de vehículos por procedimiento mecánico.
+
+2\. También constituye el hecho imponible de la tasa la obtención, por cualquier medio, del informe de comunicado de accidentes de tráfico elaborado por el Cuerpo de Mossos d'Esquadra, siempre y cuando no constituya un supuesto que deba conocer la autoridad judicial.
+
+> Se modifica por el art. 49 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 92 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 45 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por el art. 20 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 22.4-2. Sujeto pasivo.
+
+1\. En las prestaciones de servicios a las que se refieren las letras a, b y c del apartado 1 del artículo 22.4-1, los sujetos pasivos contribuyentes de la tasa son las personas físicas o jurídicas que constan como titulares de la autorización administrativa previa, cuyo alcance constituye el hecho imponible o en cuyo favor se prestan estos servicios. En las prestaciones de servicios a que se refiere el apartado 2 del artículo 22.4-1, los sujetos pasivos contribuyentes de la tasa son las personas físicas o jurídicas que solicitan los servicios. Sin embargo, en el supuesto a que se refiere dicho apartado 2 solamente pueden solicitar el informe las compañías aseguradoras de los vehículos implicados en el accidente y el personal que acredite que presta servicios para estas compañías, las personas que tengan la condición de interesadas de acuerdo con la normativa del procedimiento administrativo y los abogados colegiados que acrediten que actúan por cuenta de dichas compañías aseguradoras o personas interesadas.
+
+2\. En la prestación del servicio al que se refiere la letra d del apartado 1 del artículo 22.4-1, los sujetos pasivos contribuyentes de la tasa son las personas físicas o jurídicas perceptoras de los ingresos del acontecimiento deportivo o de otra naturaleza.
+
+3\. En el supuesto al que se refiere la letra e del apartado 1 del artículo 22.4-1, los sujetos pasivos son los infractores o, en su defecto, los conductores habituales o el arrendatario y, en su defecto, el titular del vehículo. En su defecto, lo son las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley del Estado 58/2003, de 17 de diciembre, general tributaria.
+
+> Se modifica por el art. 49 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 92 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 45 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 22.4-3. Acreditación.
+
+1\. En el supuesto al que se refiere la letra a del apartado 1 del artículo 22.4-1, la tasa se acredita con la prestación del servicio, pero debe hacerse efectiva con una antelación mínima de tres días, en los términos de la autorización administrativa previa.
+
+2\. En los supuestos al que se refieren las letras b y c del apartado 1 del artículo 22.4-1, la tasa se acredita y debe hacerse efectiva en el momento de obtener la autorización administrativa previa para la realización de los servicios que constituyen el hecho imponible.
+
+3\. En el supuesto al que se refiere la letra d del apartado 1 del artículo 22.4-1, la tasa se acredita con la prestación del servicio, si bien debe hacerse efectiva en el momento en que lo acuerde el dispositivo del servicio policial que requiera la prestación del servicio policial con recursos extraordinarios.
+
+4\. En el supuesto al que se refiere la letra e del apartado 1 del artículo 22.4-1, la tasa se acredita y debe hacerse efectiva en el momento de aplicar la inmovilización que constituye el hecho imponible. En cualquier caso, debe hacerse efectiva antes del levantamiento de la inmovilización.
+
+Cuando el levantamiento de una inmovilización derive de una orden judicial o de un requerimiento administrativo en trámite de ejecución, no es necesario su pago antes del levantamiento, pero el órgano gestor de la tasa debe remitir a la autoridad que ha acordado la inmovilización la liquidación de la tasa, a efectos de que reclame su importe en el procedimiento de ejecución y lo ingrese en el Tesoro de la Generalidad.
+
+5\. En el supuesto al que se refiere el apartado 2 del artículo 22.4-1, la tasa se acredita y debe hacerse efectiva antes de la obtención del informe.
+
+> Se modifica por el art. 49 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 92 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 45 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 22.4-4. Cuota.
+
+1\. En los supuestos a los que se refieren las letras a, b, c y d del apartado 1 del artículo 22.4-1, la cuota de la tasa se fija en 37,15 euros por hora y persona destinada a la prestación del servicio solicitado. El importe de la liquidación es el resultado de la aplicación de la cuota de la tasa al número de horas efectivamente requeridas para la prestación del servicio y por el total de efectivos que han intervenido.
+
+2\. En el supuesto al que se refiere la letra e del apartado 1 del artículo 22.4-1, la cuota de la tasa es la siguiente:
+
+– Motocicletas, ciclomotores, bicicletas: 75 euros.
+
+– Turismos, autotaxis, furgonetas y vehículos todoterreno, caravanas, autocaravanas y remolques ligeros, triciclos y cuadriciclos con motor: 95 euros.
+
+– Autocares, camiones, camiones tractores y el resto de remolques y similares: 110 euros.
+
+3\. En el supuesto al que se refiere el apartado 2 del artículo 22.4-1, la cuota de la tasa se fija en 58,40 euros por informe.
+
+> Se modifica el apartado 2 por el art. 129.1 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 49 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 92 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 45 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 22.4-5. Afectación de la tasa.
+
+Los ingresos recaudados mediante las tasas establecidas por el artículo 22.4-1 se afectan a las finalidades de seguridad ciudadana y seguridad vial propias del departamento competente en materia de seguridad pública.
+
+> Se modifica por el art. 49 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 92 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 45 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 22.4-6. Gestión, liquidación y recaudación
+
+1\. La gestión, la liquidación y la recaudación de la tasa establecida por las letras a, b y c del apartado 1 del artículo 22.4-1 corresponden al Servicio Catalán de Tráfico. El pago de la tasa debe efectuarse al Servicio Catalán de Tráfico, que debe ingresar el importe total recaudado en el Tesoro de la Generalidad en los plazos legalmente establecidos.
+
+2\. La gestión, la liquidación y la recaudación de la tasa establecida por las letras d y e del apartado 1 y por el apartado 2 del artículo 22.4-1 corresponden al departamento competente en materia de seguridad pública. El pago de la tasa debe efectuarse a este departamento, que debe ingresar el importe total recaudado en el Tesoro de la Generalidad en los plazos legalmente establecidos.
+
+> Se modifica por el art. 129.2 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 49 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 92 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 45 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 22.4-7. Exenciones.
+
+1\. Están exentos del pago de la tasa establecida en las letras b, c y d del apartado 1 del artículo 22.4-1 por la prestación del servicio de vigilancia, regulación y protección de acompañamiento policial de las actividades y usos sujetos a autorización administrativa previa que afectan a vías interurbanas o que tienen más incidencia en el núcleo urbano, si se solicita explícitamente y solo en los siguientes casos:
+
+– Cuando las pruebas son organizadas por los entes locales.
+
+– Cuando las pruebas son organizadas por entidades sin ánimo de lucro y no cobran entrada para asistir a las mismas o no se financian con derechos de retransmisión televisiva.
+
+– Cuando las actividades o usos son organizados por entidades deportivas sin ánimo de lucro, debidamente federadas en la correspondiente federación. A este efecto, la federación debe emitir certificado que acredite que la entidad se encuentra debidamente afiliada y que ejerce exclusivamente actividad de promoción y fomento de la práctica deportiva. Para gozar de esta exención, es necesario que la actividad no se financie con derechos de retransmisión televisiva.
+
+2\. En cuanto a la tasa establecida en la letra d del apartado 1 del artículo 22.4-1, y en relación con los cuatro supuestos de recursos extraordinarios que se especifican, se establecen como mínimos exentos los importes que resulten de la cuota aplicable, en cada caso, a los primeros veinte, treinta, cincuenta y noventa y cinco efectivos policiales, respectivamente.
+
+> Se modifica por el art. 49 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 92 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se declara la vigencia, con efectos desde el 24 de marzo de 2012, por la disposición adicional del Decreto-ley 1/2012, de 26 de junio. [Ref. BOE-A-2012-9869](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9869).
+
+> Se añade por el art. 21 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+> Redactado conforme a la corrección de errores publicada en DOGC núm. 5336, de 11 de marzo de 2009. [Ref. BOE-A-2009-5755](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5755).
+
+### CAPÍTULO V — Tasa por la prestación de servicios de prevención y extinción de incendios y salvamentos
+
+> Se modifica por el art. 93 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 16 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 22.5-1. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la prestación de los servicios del Cuerpo de Bomberos de la Generalidad de Cataluña en los siguientes casos:
+
+a) Accidentes de tráfico.
+
+b) Rescate y salvamento de personas o bienes en cualquiera de los siguientes casos:
+
+– Si tiene lugar en zonas señaladas como peligrosas o de acceso prohibido.
+
+– Si las personas rescatadas o salvadas no llevaban el equipo adecuado para la práctica de la actividad.
+
+– Si la persona solicita el servicio sin que existan motivos objetivamente justificados.
+
+c) Incendios intencionados o consecuencia de una imprudencia grave del sujeto pasivo, siempre y cuando se puedan identificar, en bienes muebles o inmuebles, o incendios de vegetación forestal, agrícola o urbana, u otros tipos de incendio.
+
+d) Limpieza por derramamiento de combustibles, aceites, líquidos peligrosos o similares.
+
+e) Intervenciones en elementos interiores o exteriores de inmuebles, incluido el saneamiento de fachadas, rótulos publicitarios, alarmas, ascensores, y otros elementos, si esta intervención es por causa de una construcción o un mantenimiento deficientes por imprudencia.
+
+f) Inundaciones ocasionadas por obstrucción de desagües, acumulación de suciedad, depósitos en mal estado y casos similares.
+
+g) Vigilancia y protección de incendio o accidente en las pruebas deportivas o en otras actividades culturales o de tiempo libre, sin perjuicio de las competencias municipales, salvo las que organizan las entidades sin ánimo de lucro, si no cobran entrada para asistir a las mismas y si no se financian con derechos de retransmisión televisiva.
+
+h) Intervenciones urgentes en instalaciones de entidades o empresas de suministro de agua, gas, electricidad, telecomunicaciones o análogas, situadas en la vía pública, para la reparación de averías, mitigación del riesgo o restitución de la normalidad de funcionamiento del servicio.
+
+i) Atención a servicios motivados por avisos a los servicios de emergencias procedentes de empresas gestoras de alarmas en edificios o instalaciones en los casos de falsa alarma, sin perjuicio de las responsabilidades sancionadoras que pudieran derivarse.
+
+2\. No se produce el hecho imponible por los servicios de prevención y extinción de incendios y salvamentos ni por la prestación de otros servicios en caso de situaciones de catástrofe o calamidad pública o de fenómenos meteorológicos extraordinarios.
+
+> Se añaden las letras h) e i) al apartado 1 por el art. 11.1 y 2 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifica por el art. 93 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999)
+
+> Se modifica por el art. 46.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730)
+
+> Se modifica por el art. 16 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737)
+
+> Se modifica por el art. 22 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257)
+
+#### Artículo 22.5-2. Sujetos pasivos.
+
+1\. Son sujetos pasivos contribuyentes de la tasa las personas físicas o jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley general tributaria que sean receptoras de la prestación del servicio.
+
+2\. Son obligados tributarios, en concepto de sustitutos del contribuyente, las entidades o sociedades aseguradoras con que tenga contratada una póliza de seguro que cubra los supuestos objeto de tributación y hasta el límite establecido como suma asegurada en esta póliza.
+
+En caso de accidente de tráfico, son obligados tributarios, en concepto de sustitutos del contribuyente, las entidades aseguradoras de los vehículos implicados que han sido receptores del servicio.
+
+En el caso al que se refiere el apartado 1.h del artículo 22.5-1, son obligados tributarios, en concepto de sustitutos del contribuyente, las entidades o empresas titulares del servicio.
+
+En el caso al que se refiere el apartado 1.i del artículo 22.5-1, son obligados tributarios, en concepto de sustitutos del contribuyente, las entidades o empresas gestoras de la alarma.
+
+En cuanto a la obligación de soportar la tasa, cuando concurren distintas personas receptoras de la prestación del servicio, la tasa debe imputarse proporcionalmente a los efectivos utilizados en las tareas en el beneficio de cada sujeto pasivo. Si no pueden individualizarse o concurren múltiples responsables, la tasa debe imputarse a partes iguales. En caso de accidente de tráfico, la tasa debe imputarse íntegramente a cada uno de los vehículos implicados que han sido receptores del servicio, de acuerdo con la cuota establecida por el artículo 22.5-4.
+
+> Se modifica el apartado 2 por el art. 11.3 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifica por el art. 93 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999)
+
+> Se modifica por el art. 46.2 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730)
+
+> Se modifica por el art. 16 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737)
+
+> Se modifica por el art. 23 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257)
+
+#### Artículo 22.5-3. Acreditación y exigibilidad.
+
+1\. La tasa se acredita en el momento en que se inicia la prestación del servicio, que coincide con la salida de la correspondiente dotación.
+
+2\. Sin perjuicio de lo establecido en el apartado 1, en el supuesto establecido en el apartado 1.g del artículo 22.5-1, puede exigirse el pago de la tasa previamente a la prestación del servicio. Si, una vez terminada la prueba deportiva o la actividad cultural, la tasa definitiva, según lo establecido en el artículo 22.5-4, es superior a la pagada previamente, debe girarse una liquidación complementaria por la diferencia de la cuota acreditada.
+
+> Se modifica por el art. 93 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 16 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+> Téngase en cuenta que el párrafo primero del apartado 3 entra en vigor el 1 de enero de 2011, según establece la disposición final 4.2.
+
+> Se modifica por el art. 24 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 22.5-4. Cuota.
+
+1\. En caso de accidente de tráfico, la cuota es de 184,65 euros por vehículo implicado que ha sido receptor del servicio.
+
+2\. Para el resto de hechos imponibles, la cuota se determina, por una parte, a partir del número de efectivos y medios, tanto personales como materiales, que intervengan en la prestación del servicio, y, por otra, según el tiempo invertido en este servicio por cada uno de los efectivos y medios.
+
+3\. De acuerdo con el apartado 2, los importes que deben computarse en cada hecho imponible son los siguientes:
+
+a) Bomberos: 37,85 euros por unidad y hora.
+
+b) Vehículos: 49,15 euros por unidad y hora.
+
+c) Helicópteros: 2.857,20 euros por unidad y hora.
+
+En el caso de fracciones de hora, los importes anteriores deben aplicarse de manera proporcional.
+
+> Se modifica por el art. 93 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 16 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+> Se modifica por el art. 25 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 22.5-5. Liquidación.
+
+1\. Una vez prestado el servicio que constituye el hecho imponible y emitido el informe por la unidad responsable de los bomberos de la Generalidad de Cataluña, el órgano competente para liquidar la tasa debe emitir la propuesta de liquidación, que, además de cumplir con todos los requisitos y elementos exigidos por la normativa vigente, debe especificar los efectivos y medios que han intervenido y el número de horas utilizado, así como el importe vigente correspondiente a cada concepto según lo establecido en el artículo 22.5-4. Esta especificación de efectivos y medios no es exigible en el caso de la liquidación de la tasa en el supuesto de accidentes de tráfico.
+
+2\. En caso de accidente de tráfico, en atención a las previsiones contenidas en el artículo 27.6 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, y en vista de la naturaleza de personas jurídicas de los obligados tributarios, las notificaciones a estos se efectuarán por medios electrónicos.
+
+3\. A los efectos del cobro de la tasa, la Dirección General de Prevención, Extinción de Incendios y Salvamentos y, si procede, los miembros del Cuerpo de Bomberos de la Generalidad de Cataluña pueden acceder a los datos de los vehículos que constan en los informes de comunicado de accidentes de tráfico elaborados por el Cuerpo de Mossos d´Esquadra y, en su caso, por las policías locales.
+
+> Se modifica por el art. 93 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 16 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 22.5-6. Afectación de la tasa.
+
+De acuerdo con lo establecido en el artículo 1.1-3, los ingresos derivados de la tasa se afectan a la financiación del coste de los servicios prestados por el Cuerpo de Bomberos de la Generalidad de Cataluña, con cargo al presupuesto de gastos del departamento competente en la materia.
+
+> Se modifica por el art. 93 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 16 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 22.5-7. Convenios.
+
+La representación autorizada de las entidades aseguradoras puede solicitar al órgano liquidador el establecimiento de convenios exclusivamente para recaudar la tasa.
+
+> Se modifica por el art. 93 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 16 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 22.5-8. Infracciones y sanciones.
+
+Las infracciones tributarias de la tasa deben calificarse y sancionarse de acuerdo con lo establecido en la Ley del Estado 58/2003, de 17 de diciembre, general tributaria, y las normas que la desarrollan.
+
+> Se modifica por el art. 93 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 16 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+### CAPÍTULO VI — Tasas por las actuaciones y los servicios del Servicio Catalán de Tráfico
+
+#### Artículo 22.6-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa por las actuaciones y los servicios del Servicio Catalán de Tráfico el ejercicio de las actividades administrativas o la prestación de los servicios en que hace referencia el artículo 22.6-4.
+
+#### Artículo 22.6-2. Sujeto pasivo.
+
+1\. Son sujetos pasivos contribuyentes de la tasa por las actuaciones y los servicios del Servicio Catalán de Tráfico las personas físicas o jurídicas en interés de las cuales se hacen las actividades administrativas o la prestación de los servicios que constituyen el hecho imponible.
+
+2\. Son sujetos pasivos sustitutos del contribuyente o la contribuyente las personas físicas o jurídicas que solicitan las actuaciones administrativas o los servicios si se tienen que hacer a favor de personas diferentes de quien lo solicita.
+
+#### Artículo 22.6-3. Devengo.
+
+Las tasas se devengan en el momento de la prestación del servicio o de la iniciación de las actuaciones administrativas que constituyen el hecho imponible, pero se pueden exigir en el momento en que se solicitan dichos servicios o actuaciones.
+
+#### Artículo 22.6-4. Cuota.
+
+1\. La tasa, en el caso de las autoescuelas, debe exigirse según las siguientes tarifas:
+
+a) Autorización de apertura de autoescuelas: 425,50 euros.
+
+b) Modificación de la autorización de apertura:
+
+– Sin inspección: 36,95 euros.
+
+– Con inspección: 109,60 euros.
+
+c) Expedición de certificados de aptitud para directores y profesores de formación vial y otras titulaciones cuya expedición esté atribuida al Servicio Catalán de Tráfico, así como de los correspondientes duplicados: 121,60 euros.
+
+d) Inscripción en las pruebas de selección de los cursos para obtener el certificado de aptitud de profesor o profesora de formación vial y de director o directora de escuelas particulares de conducción: 44 euros.
+
+e) Inscripción y participación en la fase de presencia de los cursos para obtener el certificado de aptitud de profesor o profesora de formación vial: 1.610,75 euros.
+
+2\. La tasa, en el caso de centros de reconocimiento médico, debe exigirse según las siguientes tarifas:
+
+a) Inscripción y acreditación como centro de reconocimiento médico de conductores: 424,10 euros.
+
+b) Modificación del régimen de funcionamiento del centro de reconocimiento médico de conductores:
+
+– Con inspección: 109,55 euros.
+
+– Sin inspección: 36,95 euros.
+
+3\. La tasa, en el resto de casos no regulados por los apartados 1 y 2, debe exigirse según las siguientes tarifas:
+
+a) Anotaciones de cualquier tipo en los expedientes, suministro de datos, certificados, confrontación y desglose de documentos: 10,20 euros.
+
+b) Inspección practicada en virtud de un precepto reglamentario: 97,40 euros.
+
+c) Sellado de cualquier tipo de placas: 6,60 euros.
+
+d) Duplicados de permisos y autorizaciones por pérdida, deterioro, revisión o cualquier modificación: 24,95 euros.
+
+e) Utilización de placas facilitadas por la Administración: 12,55 euros.
+
+f) Otras licencias o permisos otorgados por el Servicio Catalán de Tráfico: 12,55 euros.
+
+g) Autorizaciones de vehículos o conjuntos de vehículos bajo el régimen de transporte especial o para determinados vehículos especiales, de actividades deportivas y usos excepcionales de la vía, de expedición de exenciones a las restricciones de circulación y para dictar instrucciones expresas en obras: 36,95 euros. Esta tarifa se entiende sin perjuicio del abono del coste de la prestación de servicios de acompañamiento policial, que también corren a cargo del sujeto pasivo, con carácter previo a su prestación.
+
+h) Comunicaciones, enterados o inscripciones establecidas normativamente para la gestión y control del tráfico: 23,75 euros.
+
+i) Inscripción y participación en los cursos para obtener el certificado de aptitud de formador vial o formadora vial de los cursos de sensibilización y reeducación vial: 447 euros.
+
+j) Inscripción y participación en los cursos para obtener el certificado de aptitud de psicólogo formador o psicóloga formadora de los cursos de sensibilización y reeducación vial: 112 euros.
+
+4\. La tasa establecida por la letra b del apartado 1 se reduce en un 50 % si la autoescuela acredita que dispone del distintivo de calidad en los centros de formación vial, de acuerdo con el Decreto 189/2015, de 25 de agosto, por el que se establece el procedimiento de acreditación de las escuelas particulares de conductores como centros de formación de calidad.
+
+> Se modifican las letras i) y j) del apartado 3 por el art. 29 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 4 por el art. 77 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 50 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 22.6-5. Gestión, recaudación y liquidación.
+
+1\. La gestión y la recaudación de las tasas objeto de esta ley corresponden al Servicio Catalán de Tráfico.
+
+2\. Las tasas se tienen que liquidar en las oficinas del Servicio Catalán de Tráfico, en las delegaciones territoriales del Gobierno o en las oficinas del ente colaborador que eventualmente designen. La liquidación se tiene que notificar por escrito a la persona interesada.
+
+3\. Se tienen que establecer por reglamento los casos en que las tasas se pueden autoliquidar.
+
+## TÍTULO XXIII — Servicios sociales
+
+### CAPÍTULO I — Tasa por las actuaciones del Registro de Entidades, Servicios y Establecimientos Sociales
+
+#### Artículo 23.1-1. Hecho imponible.
+
+Constituyen el hecho imponible de la tasa los actos de inscripción de la apertura y la modificación de servicios y establecimientos de servicios sociales en el Registro de Entidades, Servicios y Establecimientos Sociales, y también la entrega de las certificaciones correspondientes y la reproducción de listas.
+
+#### Artículo 23.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas –salvo las entidades de iniciativa social– a las que se prestan los servicios derivados de las actuaciones del Registro de Entidades, Servicios y Establecimientos Sociales, y también la entrega de las certificaciones correspondientes.
+
+#### Artículo 23.1-3. Exenciones.
+
+Están exentas de pagar esta tasa las entidades públicas y privadas sin ánimo de lucro.
+
+#### Artículo 23.1-4. Devengo.
+
+La tasa se devenga en el momento de la inscripción o de la entrega de la certificación, pero puede ser exigido el pago en el momento en que las personas interesadas presenten la solicitud correspondiente.
+
+#### Artículo 23.1-5. Cuota.
+
+La cuota de la tasa es:
+
+a) Por la inscripción de servicios residenciales: 224,10 euros.
+
+b) Por la inscripción de servicios diurnos: 150,60 euros.
+
+c) Por la inscripción de otros servicios: 114 euros.
+
+d) Por modificaciones de asentamientos registrales: 20,60 euros.
+
+e) Por certificaciones de asentamientos registrales: 11,65 euros.
+
+f) Por la reproducción de listas del Registro de Entidades, Servicios y Establecimientos Sociales: 36,15 euros.
+
+#### Artículo 23.1-6. Afectación.
+
+De acuerdo con lo establecido en el artículo 1.1-3, los ingresos derivados de la tasa quedan afectados a la financiación del coste de los servicios sociales prestados por el departamento competente en materia de servicios sociales.
+
+> Se añade por el art. 94 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO II — Tasa por la inspección de servicios y establecimientos sociales
+
+#### Artículo 23.2-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la inspección in situ por el Servicio de Inspección y Registro del Departamento de Acción Social y Ciudadanía del cumplimiento de las condiciones materiales y funcionales de los servicios y los establecimientos sociales ya registrados que se tiene que efectuar como consecuencia de una manifestación de cuya entidad derivan efectos registrales, y también la verificación de las alegaciones de la entidad titular presentadas dentro del periodo de prueba de un procedimiento sancionador.
+
+#### Artículo 23.2-2. Sujeto pasivo.
+
+Son sujetos pasivos las personas físicas o jurídicas –salvo las entidades de iniciativa social– que presentan la petición que origina la inspección.
+
+#### Artículo 23.2-3. Exenciones.
+
+Están exentas de pagar esta tasa las entidades públicas y privadas sin ánimo de lucro.
+
+#### Artículo 23.2-4. Devengo.
+
+La tasa se devenga en el momento de prestar el servicio, pero puede ser exigido el pago por adelantado en el mismo momento en que la persona interesada presenta la petición que origina la inspección.
+
+#### Artículo 23.2-5. Cuota.
+
+Por cada actuación de inspección del servicio o establecimiento se fija una cuota de 148,40 euros.
+
+#### Artículo 23.2-6. Afectación.
+
+De acuerdo con lo establecido en el artículo 1.1-3, los ingresos derivados de la tasa quedan afectados a la financiación del coste de los servicios de los programas 315 "Promoción de la autonomía personal" y 318 "Atención a la infancia y la adolescencia" prestados por el departamento competente en materia de servicios sociales, con cargo a los créditos de los capítulos 2 y 4.
+
+> Se añade por el art. 95 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO III — Tasa por la emisión de los informes de extranjería
+
+> Se deroga por la disposición derogatoria.1.d) del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
+
+> Se añade por el art. 96 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículos 23.3-1 a 23.3-5.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria.1.d) del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
+
+## TÍTULO XXIV — Sociedad de la información
+
+### CAPÍTULO I — Tasa por la emisión de certificaciones de presentación de proyectos técnicos de infraestructuras comunes de telecomunicaciones en los edificios y de boletines o de certificados de instalación
+
+#### Artículo 24.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la emisión de certificaciones que acrediten la presentación del proyecto técnico de la instalación de la infraestructura, del boletín y, si procede, del certificado de instalación.
+
+#### Artículo 24.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan la expedición de las certificaciones que constituyen el hecho imponible.
+
+#### Artículo 24.1-3. Devengo.
+
+La tasa se devenga en el momento de la expedición de las certificaciones, si bien la justificación del ingreso de la tasa puede exigirse en el momento de solicitar el servicio que constituye el hecho imponible.
+
+#### Artículo 24.1-4. Cuota.
+
+El importe de la cuota es:
+
+– Por certificaciones correspondientes a proyectos técnicos en que no es obligatoria la dirección de obra: 29,35 euros.
+
+– Por certificaciones correspondientes a proyectos técnicos en que es obligatoria la dirección de obra: 45,90 euros.
+
+> Se modifica por el art. 97.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 24.1-5. Afectación.
+
+De acuerdo con lo establecido en el artículo 1.1-3, los ingresos derivados de la tasa quedan afectados a la financiación de los gastos de la Dirección General de Telecomunicaciones y Sociedad de la Información para dotar los edificios de Cataluña de los equipamientos y medios necesarios para garantizar el nivel de calidad en la recepción de los servicios de telecomunicaciones.
+
+> Se modifica por el art. 97.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO II — Tasa por la realización de actuaciones de actividad administrativa del Consejo del Audiovisual de Catalunya en relación con los prestadores de servicios de comunicación audiovisual de Cataluña
+
+> Se añade por el art. 26 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.2-1. Hecho imponible.
+
+Constituyen el hecho imponible de la tasa las siguientes actividades administrativas:
+
+a) La revisión y la renovación de los títulos habilitantes para la prestación de servicios de comunicación audiovisual.
+
+b) Las inscripciones de alta, las complementarias y las de baja en el Registro de prestadores de servicios de comunicación audiovisual de Cataluña, regulado por el artículo 119 de la Ley 22/2005, de 29 de diciembre, de la comunicación audiovisual de Cataluña, así como la expedición de certificaciones del mismo Registro.
+
+c) El análisis de las solicitudes de autorización previa de cualquier proyecto de modificación de la estructura accionarial o empresarial de los prestadores privados de servicios de comunicación audiovisual.
+
+d) El análisis de la solicitud de autorización previa a la formalización de negocios jurídicos que tienen por objeto el arrendamiento y la transmisión de las licencias de servicios de comunicación audiovisual.
+
+e) La prestación de los servicios técnicos y administrativos necesarios para el otorgamiento de las licencias de servicios de comunicación audiovisual.
+
+> Se añaden las letras d) y e) por el art. 47.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade por el art. 26 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.2-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas y jurídicas que prestan los servicios de comunicación audiovisual.
+
+> Se añade por el art. 26 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.2-3. Devengo.
+
+La tasa se devenga en el momento de la resolución del expediente, pero se puede exigir la justificación del ingreso en el momento de presentar la solicitud.
+
+> Se añade por el art. 26 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.2-4. Cuota.
+
+La cuota de la tasa es la siguiente:
+
+a) Revisión y renovación de los títulos habilitantes para la prestación de servicios de comunicación audiovisual: 400 euros.
+
+b) Inscripción de alta o de baja en el Registro de prestadores de servicios de comunicación audiovisual de Cataluña: 100 euros.
+
+c) Inscripción complementaria en el Registro de prestadores de servicios de comunicación audiovisual de Cataluña: 50 euros.
+
+d) Expedición de certificaciones registrales del Registro de prestadores de servicios de comunicación audiovisual de Cataluña: 25 euros.
+
+e) Análisis de solicitud de autorización previa de cualquier proyecto de modificación de la estructura accionarial o empresarial de los prestadores privados de servicios de comunicación audiovisual: 200 euros.
+
+f) Análisis de la solicitud de autorización previa a la formalización de negocios jurídicos que tienen por objeto el arrendamiento y la transmisión de las licencias de comunicación audiovisual: 400 euros.
+
+g) Prestación de los servicios técnicos y administrativos necesarios para el otorgamiento de las licencias de servicios de comunicación audiovisual: 400 euros.
+
+> Se añaden las letras f) y g) por el art. 47.2 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade por el art. 26 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.2-5. Liquidación de la tasa e ingreso.
+
+La tasa se exige en régimen de autoliquidación y debe hacerse efectiva mediante el correspondiente ingreso.
+
+> Se añade por el art. 26 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.2-6. Afectación de la tasa.
+
+La tasa tiene carácter finalista, por lo que los ingresos de la tasa quedan afectados a la financiación del coste del servicio prestado por el Consejo del Audiovisual de Cataluña.
+
+> Se añade por el art. 26 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+### CAPÍTULO III
+
+## Tasa por actuaciones de control y de inspección respecto a las actividades de prestación de servicios de comunicación audiovisual
+
+> Se añade por el art. 27 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.3-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación por el Consejo del Audiovisual de Cataluña de las actividades en materia de supervisión y de control necesarias para ejercer la potestad de inspección y de control que establece la letra g del artículo 115 de la Ley 22/2005, de acuerdo con lo establecido por el artículo 116 de dicha ley.
+
+> Se añade por el art. 27 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.3-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas y jurídicas que prestan los servicios de comunicación audiovisual.
+
+> Se añade por el art. 27 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.3-3. Exención.
+
+**(Derogado)**
+
+> Se deroga por el art. 98.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 27 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.3-4. Devengo.
+
+La tasa se devenga con el otorgamiento de títulos habilitantes para la prestación de los servicios de comunicación audiovisual. Tiene carácter periódico y en las sucesivas anualidades el devengo se produce el 1 de enero de cada año.
+
+> Se añade por el art. 27 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.3-5. Cuota.
+
+1\. La cuota está formada por una cuantía fija y, en su caso, una cuantía variable:
+
+Se establece un cupo mínimo de 61 euros para todos los prestadores.
+
+A los prestadores con una población de cobertura asignada de más de 10.000 habitantes, de acuerdo con el proyecto técnico, se les repercutirá 1,7 euros por cada 1.250 habitantes. El importe total de las cuotas a satisfacer por el prestador de servicios de comunicación audiovisual no puede superar el 3‰ de su volumen del negocio, según lo establecido en la disposición adicional segunda de la Ley 22/2005.
+
+2\. Para el cálculo de la cuota deben utilizarse, en su caso, los datos depositados en el registro correspondiente relativos al ejercicio contable inmediatamente anterior al año en que se produce la acreditación de la tasa, así como los últimos datos oficiales publicados por el Instituto de Estadística de Cataluña en el momento de la liquidación de la tasa.
+
+> Se modifica por el art. 98.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 27 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.3-6. Liquidación de la tasa e ingreso.
+
+La tasa se exige bajo el régimen de liquidación en el momento de la resolución del expediente de otorgamiento del título. En las anualidades sucesivas la tasa se liquida y se hace efectiva mediante ingreso durante el segundo semestre del ejercicio correspondiente.
+
+> Se modifica por el art. 98.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 27 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.3-7. Prohibición de restitución.
+
+El importe de la tasa no puede ser objeto de restitución a terceras personas ni de modo directo ni indirecto.
+
+> Se añade por el art. 27 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.3-8. Afectación de la tasa.
+
+La tasa tiene carácter finalista, por lo que los ingresos de la tasa quedan afectados a la financiación del coste del servicio prestado por el Consejo del Audiovisual de Cataluña.
+
+> Se añade por el art. 27 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+### CAPÍTULO IV
+
+## Tasa por la acreditación de competencias en tecnologías de la información y la comunicación (ACTIC)
+
+> Se modifica por el art. 26.1 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+> Se añade por el art. 28 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.4-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa:
+
+a) La inscripción en las pruebas de evaluación para la obtención del certificado de acreditación de competencias en TIC.
+
+b) La expedición de copias del certificado de acreditación de competencias en TIC.
+
+> Se añade por el art. 28 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.4-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas que se inscriben en las pruebas de evaluación para la obtención del certificado de acreditación de competencias en TIC o las que solicitan la expedición de una copia del certificado de acreditación de competencias en TIC.
+
+> Se añade por el art. 28 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.4-3. Exenciones y bonificaciones.
+
+1\. Los sujetos pasivos en situación de desempleo, las personas jubiladas, las que acrediten una discapacidad igual o superior al 33% y las personas internas de los centros penitenciarios que cumplen condena en régimen ordinario están exentos de esta tasa, previa justificación documental de encontrarse en alguna de las situaciones mencionadas.
+
+2\. Se aplica una bonificación del 30 % sobre la tasa a los sujetos pasivos miembros de familias numerosas de categoría general o monoparentales de categoría general.
+
+3\. Se aplica una bonificación del 50 % sobre la tasa a los sujetos pasivos miembros de familias numerosas de categoría especial o monoparentales de categoría especial.
+
+> Se modifica por el art. 26.2 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+> Se añade por el art. 28 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.4-4. Devengo.
+
+La tasa se devenga en el momento de la prestación del servicio y se exige en el momento de la inscripción en las pruebas de evaluación o de la solicitud de expedición de copias de los certificados.
+
+> Se añade por el art. 28 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.4-5. Cuota.
+
+La cuota de la tasa es la siguiente:
+
+a) Por la inscripción en las pruebas de evaluación se fija una cuota según el nivel escogido:
+
+Nivel 1: 15 euros.
+
+Nivel 2: 20 euros.
+
+Nivel 3: 25 euros.
+
+b) Por la expedición de copias de los certificados de acreditación de competencias en TIC se fija una cuota de 6 euros.
+
+> Se añade por el art. 28 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.4-6. Gestión y recaudación.
+
+La gestión y recaudación de la tasa corresponde a la Dirección General de la Sociedad de la Información.
+
+> Se añade por el art. 28 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 24.4-7. Afectación de la tasa.
+
+La tasa tiene carácter finalista, por lo que los ingresos que derivan de la misma se afectan a la financiación del coste de los servicios prestados y al mantenimiento y la mejora de la acreditación de competencias en TIC.
+
+> Se añade por el art. 28 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+### CAPÍTULO V — Tasa por la verificación de proyectos técnicos de infraestructuras comunes de telecomunicaciones que se presentan sin la verificación de una entidad habilitada
+
+> Se deroga por el art. 131 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 99 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículos 24.5-1 a 24.5-5
+
+**(Derogados).**
+
+> Se deroga por el art. 131 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 99 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO VI — Tasa por la verificación de los datos de la declaración responsable presentada por los instaladores de telecomunicaciones de Cataluña y la posterior inscripción en el Registro de instaladores de telecomunicaciones de Cataluña
+
+> Se añade por el art. 100 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 24.6-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la actividad administrativa que genera la verificación posterior de los requisitos y obligaciones exigibles a los instaladores de telecomunicaciones que inician su actividad en Cataluña, así como la inscripción en el Registro de instaladores de telecomunicaciones de Cataluña.
+
+> Se añade por el art. 100 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 24.6-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas y jurídicas que presentan una declaración responsable previa al inicio de la actividad como instaladores de telecomunicaciones en Cataluña.
+
+> Se añade por el art. 100 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 24.6-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de la presentación de la declaración responsable.
+
+> Se añade por el art. 100 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 24.6-4. Cuota.
+
+El importe de la cuota de la tasa es de 82 euros.
+
+> Se añade por el art. 100 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 24.6-5. Afectación.
+
+De acuerdo con el artículo 1.1-3, los ingresos derivados de la tasa quedan afectados a la financiación de los gastos de la Dirección General de Telecomunicaciones y Sociedad de la Información para mejorar los equipamientos y medios necesarios para garantizar el control sobre la actividad de instalación y mantenimiento de equipos y sistemas de telecomunicaciones.
+
+> Se añade por el art. 100 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO VII — Tasa por la emisión de certificaciones de acreditación de la inscripción en el Registro de instaladores de telecomunicaciones de Cataluña
+
+> Se deroga por el art. 78 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 101 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículos 24.7-1 a 24.7-5.
+
+**(Derogados).**
+
+> Se derogan por el art. 78 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+## TÍTULO XXV — Transportes, ordenación urbanística y del litoral, dominio público e informes, actuaciones y servicios administrativos
+
+### CAPÍTULO I — Tasa por la prestación de servicios de carácter administrativo del Departamento de Política Territorial y Obras Públicas
+
+#### Artículo 25.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación por el Departamento de Política Territorial y Obras Públicas del servicio de carácter administrativo de realización de copias en color de planos o de otros documentos, en soporte papel o magnético.
+
+#### Artículo 25.1-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa la persona física o jurídica que solicita la prestación del servicio.
+
+#### Artículo 25.1-3. Devengo.
+
+La tasa se devenga en el momento en que se entrega la copia en color de un plano o de otro documento.
+
+#### Artículo 25.1-4. Cuota.
+
+El importe de la cuota es:
+
+Copia en soporte papel en rollo (un metro): 10,60 euros.
+
+Copia en soporte papel en hoja DIN A4: 2,15 euros.
+
+Copia en soporte papel en hoja DIN A3: 3,30 euros.
+
+Copia en soporte papel en hoja DIN A2: 4,30 euros.
+
+Copia en soporte papel en hoja DIN A1: 6,45 euros.
+
+Copia en soporte papel en hoja DIN A0: 12,75 euros.
+
+Copia en soporte CD: 6,45 euros.
+
+Copia en soporte DVD: 12,75 euros.
+
+### CAPÍTULO II — Tasa por informes y otras actuaciones facultativas
+
+#### Artículo 25.2-1. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la elaboración de informes técnicos, la expedición de certificados y otras actuaciones facultativas que debe realizar el Departamento de Territorio y Sostenibilidad a instancia de entidades, empresas o particulares, o cuando se deban realizar como consecuencia de disposiciones en vigor o de los mismos términos de las concesiones o las autorizaciones.
+
+2\. No están sometidos a la tasa los informes emitidos por las comisiones territoriales de urbanismo dentro de los procedimientos para la aprobación del planeamiento urbanístico general o derivado establecido en el texto refundido de la Ley de urbanismo, aprobado por el Decreto Legislativo 1/2010, de 3 de agosto, excepto los supuestos establecidos por el artículo 25.2-4.
+
+> Se modifica por el art. 102 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.2-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas a las que afecta la prestación del servicio.
+
+> Se modifica por el art. 102 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.2-3. Acreditación.
+
+La tasa se acredita en el momento en que se presta el servicio o se ejecuta la actuación, pero puede ser exigida la justificación del ingreso en el momento de la presentación de la solicitud.
+
+> Se modifica por el art. 102 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.2-4. Cuota.
+
+1\. Por informes preceptivos cuya emisión corresponda a las comisiones territoriales de urbanismo competentes en el procedimiento de otorgamiento de licencias urbanísticas en suelo no urbanizable y suelo urbanizable delimitado y de usos y obras provisionales: 250 euros.
+
+2\. Por la tramitación, a instancia de particulares, de planes urbanísticos derivados y de otros proyectos, cuando se actúa por subrogación, y de planes especiales urbanísticos que tienen por objeto la implantación de sistemas urbanísticos de interés supramunicipal:
+
+a) Por ámbito de actuación de hasta 10 hectáreas o infraestructuras lineales de menos de 50 km: 1.500 euros.
+
+b) Por ámbito de actuación superior a 10 hectáreas o infraestructuras lineales de más de 50 km: 2.500 euros.
+
+c) Además, en el supuesto de que deba efectuarse el trámite de información pública: 2.000 euros.
+
+3\. Por la tramitación de proyectos de actuación específica y de otros planes especiales urbanísticos previos al otorgamiento de licencias urbanísticas en suelo no urbanizable y suelo urbanizable no delimitado en los supuestos en que es preceptiva la intervención de las comisiones territoriales de urbanismo competentes: el 1% del presupuesto de ejecución material, con un mínimo de 500 euros y un máximo de 3.000 euros.
+
+4\. Por trabajos de campo diversos, de inspección de obras y de levantamientos topográficos y otras actuaciones facultativas, como levantamiento de actas, expedición de certificado final, entrega de planos o redacción del documento de la actuación realizada: 300 euros.
+
+5\. Por informes y actuaciones de carácter facultativo:
+
+a) Cuando no hay que tomar datos de campo: 138,86 euros.
+
+b) Cuando hay que tomar datos de campo: 277,62 euros.
+
+c) Cuando hay que salir más días al campo: por día, 212,47 euros.
+
+6\. Por informes o actuaciones que tienen por objeto una petición o consulta:
+
+a) Cuando no es necesario el análisis del proyecto: 41,74 euros.
+
+b) Cuando es necesario el análisis del proyecto: 83,42 euros.
+
+> Se añaden los apartados 5 y 6 por el art. 52 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 102 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO III — Tasa por el otorgamiento, rehabilitación, prórroga, visado o modificación de las autorizaciones de transporte terrestre por carretera y actividades auxiliares y complementarias
+
+#### Artículo 25.3-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación por el Departamento de Política Territorial y Obras Públicas de los servicios y las actuaciones inherentes al otorgamiento, la rehabilitación, la prórroga o la modificación de las autorizaciones para los transportes públicos y privados por carretera, y también de cada una de las actividades auxiliares y complementarias.
+
+#### Artículo 25.3-2. Sujeto pasivo.
+
+Están obligados al pago de la tasa las personas físicas o jurídicas, incluidas las entidades a las que se refiere el artículo 35.4 de la Ley general tributaria, que solicitan cualquiera de los servicios y las actuaciones que constituyen el hecho imponible, o las personas a las que les son prestados.
+
+#### Artículo 25.3-3. Devengo.
+
+La tasa se devenga en el momento en que se presenta la solicitud que motiva el servicio o la actuación administrativa, pero puede ser exigida la justificación del ingreso en el momento de la presentación de la solicitud.
+
+#### Artículo 25.3-4. Autoliquidación de la tasa.
+
+En el supuesto de que el ingreso de la tasa sea exigido con carácter previo a la presentación de la solicitud, la liquidación y el ingreso se tienen que efectuar mediante autoliquidación en la forma y los plazos que se establezcan por reglamento.
+
+#### Artículo 25.3-5. Cuota.
+
+La prestación de los servicios y las actuaciones administrativos que constituyen el hecho imponible de la tasa quedan gravados de la manera siguiente:
+
+1\. Otorgamiento, rehabilitación, prórroga, visado o modificación de las autorizaciones de transporte de mercancías y de viajeros por carretera, en las modalidades de público y privado complementario:
+
+1.1 Otorgamiento o rehabilitación de la autorización: 23,05 euros.
+
+1.2 Prórroga, visado o modificación de la autorización: 18,50 euros.
+
+2\. Otorgamiento o renovación de autorizaciones de servicios públicos discrecionales consolidados con reiteración de itinerario: 23,05 euros.
+
+3\. Otorgamiento, rehabilitación, prórroga, visado o modificación de la autorización de operador de transporte de mercancías.
+
+3.1 Otorgamiento o rehabilitación de la autorización de operador de transporte: 45,95 euros.
+
+3.2 Prórroga, visado o modificación de la autorización de operador de transporte: 23,05 euros.
+
+4\. Otorgamiento, rehabilitación, prórroga, visado o modificación de la autorización de alquiler de vehículos con conductor/a o sin, por la sede central o por una sucursal.
+
+4.1 Otorgamiento o rehabilitación de la autorización.
+
+4.1.1 De alquiler de vehículos con conductor/a: 23,05 euros.
+
+4.1.2 De alquiler de vehículos sin conductor/a: 18,50 euros.
+
+4.2 Prórroga, visado o modificación de la autorización.
+
+4.2.1 De alquiler de vehículos con conductor/a: 18,50 euros.
+
+4.2.2 De alquiler de vehículos sin conductor/a: 13,95 euros.
+
+### CAPÍTULO IV — Tasa por la inscripción en las pruebas de capacitación para el ejercicio de la profesión de transportista por carretera o para la actividad de consejero o consejera de seguridad para el transporte de mercancías peligrosas por carretera, por ferrocarril o por vía navegable
+
+#### Artículo 25.4-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la inscripción en las convocatorias de las pruebas para obtener el certificado de capacitación para el ejercicio de la profesión de transportista por carretera o para la actividad de consejero de seguridad para el transporte de mercancías peligrosas por carretera, por ferrocarril o por vía navegable.
+
+#### Artículo 25.4-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los que solicitan la inscripción en las convocatorias de las pruebas para obtener el certificado de capacitación para el ejercicio de la profesión de transportista por carretera o para la actividad de consejero de seguridad para el transporte de mercancías peligrosas por carretera, por ferrocarril o por vía navegable.
+
+#### Artículo 25.4-3. Devengo.
+
+La tasa se devenga en el momento de la prestación del servicio y se exige en el momento de presentar la solicitud de inscripción en la convocatoria.
+
+#### Artículo 25.4-4. Liquidación de la tasa.
+
+La liquidación y el ingreso de la tasa se hacen mediante la carta de pago que se tiene que entregar a este efecto.
+
+#### Artículo 25.4-5. Cuota.
+
+El importe de la cuota de la tasa es de:
+
+a) En las pruebas para obtener el certificado de capacitación para el ejercicio de la profesión de transportista por carretera: 18,95 euros.
+
+b) En las pruebas para obtener el certificado para la actividad de consejero de seguridad para el transporte de mercancías peligrosas por carretera, por ferrocarril o por vía navegable: 25,70 euros.
+
+### CAPÍTULO V — Tasa por la tramitación de la solicitud de la expedición o renovación del título de capacitación para el ejercicio de la profesión de transportista por carretera; del título de capacitación para la actividad de consejero o consejera de seguridad para el transporte de mercancías peligrosas por carretera, por ferrocarril o por vía navegable; del certificado de conductor o conductora para el transporte de mercancías o de viajeros por carretera, o de la tarjeta de tacógrafo digital
+
+> Se modifica por el art. 103.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.5-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de la solicitud por la expedición o renovación del título de capacitación para el ejercicio de la profesión de transportista por carretera; del título de capacitación para la actividad de consejero o consejera de seguridad para el transporte de mercancías peligrosas por carretera, por ferrocarril o por vía navegable; del certificado de conductor o conductora para el transporte de mercancías o de viajeros por carretera, o de la tarjeta de tacógrafo digital.
+
+> Se modifica por el art. 103.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.5-2. Sujetos pasivos.
+
+Son sujetos pasivos de la tasa los que solicitan la expedición o la renovación del título de capacitación para el ejercicio de la profesión de transportista por carretera; del título de capacitación para la actividad de consejero o consejera de seguridad para el transporte de mercancías peligrosas por carretera, por ferrocarril o por vía navegable; del certificado de conductor o conductora para el transporte de mercancías o de viajeros por carretera, o de la tarjeta de tacógrafo digital.
+
+#### Artículo 25.5-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de la presentación de la solicitud.
+
+> Se modifica por el art. 103.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.5-4. Cuota.
+
+1\. Por cada título o certificado: 24,24 euros.
+
+2\. Por cada tarjeta: 39,39 euros.
+
+> Se modifica por el art. 103.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.5-5. Afectación.
+
+La tasa tiene carácter finalista. Los ingresos derivados de la aplicación de la tasa deben destinarse a actuaciones de ordenación y fomento del transporte por carretera.
+
+> Se añade por el art. 103.5 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO VI — Tasa por la realización de actuaciones para la inscripción en el Registro de Entidades Urbanísticas Colaboradoras
+
+#### Artículo 25.6-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de los expedientes de solicitud de inscripción en el Registro de entidades urbanísticas colaboradoras de la dirección general competente en materia de urbanismo de los actos a los que se refiere el artículo 205 del Reglamento de la Ley de urbanismo, aprobado por el Decreto 305/2006, de 18 de julio, y en su caso, la certificación de la inscripción del asentamiento en el Libro de registro de entidades urbanísticas colaboradoras y la publicación de la inscripción en el *Diari Oficial de la Generalitat de Catalunya*.
+
+> Se modifica por el art. 48 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 25.6-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan la prestación del servicio, por medio de los ayuntamientos.
+
+#### Artículo 25.6-3. Devengo.
+
+La tasa se devenga en el momento de la resolución del expediente, pero puede ser exigida la justificación del ingreso en el momento de la presentación de la solicitud.
+
+#### Artículo 25.6-4. Cuota.
+
+La cuota de la tasa:
+
+1\. Por la tramitación de expedientes de primera inscripción y la certificación del asentamiento, si procede: 233,65 euros.
+
+2\. Por la tramitación de expedientes de inscripciones posteriores y sus certificaciones de asentamiento, si procede: 84,75 euros.
+
+### CAPÍTULO VII — Tasa por la prestación de servicios y la realización de actuaciones para la publicación de planes urbanísticos derivados de la iniciativa particular
+
+#### Artículo 25.7-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de servicios y la realización de actuaciones para publicar, en catalán y castellano, planes urbanísticos derivados de la iniciativa particular.
+
+#### Artículo 25.7-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa la persona física o jurídica promotora del plan.
+
+#### Artículo 25.7-3. Devengo.
+
+La tasa se devenga una vez publicada la resolución de aprobación definitiva del plan.
+
+#### Artículo 25.7-4. Cuota.
+
+La cuota de la tasa es de 7,40 euros por hoja de normativa original de tamaño DIN A4. El importe de esta tasa se tiene que incrementar, en caso de que a petición de los particulares se tramite de forma urgente, con el coste que resulte de la publicación en el «Diari Oficial de la Generalitat de Catalunya» de los edictos y la normativa correspondientes.
+
+### CAPÍTULO VIII — Tasa por la utilización o el aprovechamiento de los bienes de dominio público
+
+#### Artículo 25.8-1. Hecho imponible.
+
+1\. Constituyen el hecho imponible de la tasa la utilización privativa o el aprovechamiento especial de los bienes de dominio público y el aprovechamiento de sus materiales en virtud de concesiones, autorizaciones o cualquier otra forma de adjudicación en el ámbito de las competencias del Departamento de Política Territorial y Obras Públicas.
+
+2\. Se exceptúan de esta tasa la utilización privativa o el aprovechamiento especiales de bienes de dominio público cuando esté gravada específicamente por cualquier otra tasa.
+
+#### Artículo 25.8-2. Exenciones y bonificaciones.
+
+1\. Están exentos de la tasa la utilización privativa o el aprovechamiento especial de bienes de dominio público y de sus materiales, en virtud de concesiones, autorizaciones o adjudicaciones del departamento otorgadas a administraciones y entes públicos.
+
+2\. Está exenta de la tasa la utilización de dominio público por causa de accesos a fincas rústicas destinadas a usos agrícolas y forestales.
+
+#### Artículo 25.8-3. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los titulares de las concesiones y de las autorizaciones o los adjudicatarios o, si procede, las personas físicas o jurídicas que se subroguen.
+
+#### Artículo 25.8-4. Devengo.
+
+1\. La tasa se devenga mediante el otorgamiento de la concesión, la autorización o la adjudicación correspondiente con respecto a la anualidad en curso.
+
+2\. En las sucesivas anualidades de vigencia de la concesión, la autorización o la adjudicación, el devengo se efectúa el 1 de enero de cada año y es exigible en la cantidad que sea procedente y, si procede, en los plazos y en las condiciones que se señalen en la concesión, la autorización o la adjudicación.
+
+#### Artículo 25.8-5. Base imponible, tipo de gravamen y cuota.
+
+1\. La cuota de la tasa se determina aplicando un tipo del 5% sobre el importe de la base imponible que resulte de los criterios de valoración siguientes:
+
+a) Por la utilización privativa de los bienes de dominio público: el valor del terreno ocupado y, si procede, de las instalaciones ocupadas, tomando como referencia los valores siguientes:
+
+Suelo urbano: 36 euros por metro cuadrado.
+
+Suelo urbanizable delimitado: 20 euros por metro cuadrado.
+
+Suelo urbanizable no delimitado y suelo no urbanizable: 1,50 euros por metro cuadrado.
+
+b) Por el aprovechamiento especial de bienes de dominio público: la utilidad que reporte el aprovechamiento. En los supuestos de estaciones de autobuses y áreas de estacionamiento, la base se tiene que determinar por la totalidad de los beneficios líquidos obtenidos en el ejercicio anterior por la explotación y los servicios complementarios de la estación, el área o la instalación correspondientes, entendiendo por beneficios líquidos los ingresos brutos menos el importe de los gastos necesarios para obtenerlos.
+
+c) Aprovechamiento de materiales: si se consumen los materiales, se utiliza como base el valor de los que hayan sido consumidos, y, si no se consumen, se aplica como base la utilidad que reporta el aprovechamiento.
+
+2\. El servicio encargado de la inspección tiene que fijar la valoración a que hace referencia el apartado 1, de acuerdo con los criterios que establece y su desarrollo reglamentario.
+
+### CAPÍTULO IX — Tasa por la tramitación de expedientes de expropiación forzosa
+
+> Se deroga por el art. 79 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículos 25.9-1 a 25.9-5.
+
+**(Derogados).**
+
+> Se derogan por el art. 79 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO X — Tasa por la tramitación de autorizaciones en la zona de servidumbre de protección y de autorizaciones de obras en dominio público marítimo-terrestre
+
+> Se modifica por el art. 104 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.10-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación, por el departamento competente en materia de costas, de expedientes relativos a las solicitudes de autorización en zona de servidumbre de protección y a las solicitudes de autorización de obras que no se encuentran amparadas por ningún título de ocupación en el dominio público marítimo-terrestre.
+
+> Se modifica por el art. 104 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.10-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa la persona física o jurídica, pública o privada, que solicita la tramitación del expediente correspondiente.
+
+> Se modifica por el art. 104 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.10-3. Acreditación.
+
+La tasa se acredita en el momento en que se presta el servicio, pero puede ser exigida en el momento de la presentación de la solicitud, sin perjuicio del sentido favorable o desfavorable de la resolución correspondiente.
+
+> Se modifica por el art. 104 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.10-4. Base imponible.
+
+Constituye la base imponible el importe del presupuesto total de ejecución material del proyecto.
+
+> Se modifica por el art. 104 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.10-5. Cuota.
+
+La determinación de la cuantía de la tasa (t, en euros) se obtiene mediante la multiplicación de la raíz cúbica del cuadrado de la base imponible (p, en euros) por un coeficiente de 0,5, de acuerdo con la fórmula siguiente:
+
+t = 0,5 p<sup>2/3</sup>
+
+La cuantía de la tasa no puede ser inferior a 80 euros ni superior a 3.000 euros.
+
+> Se modifica por el art. 104 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.10-6. Exenciones.
+
+Están exentas del pago de la tasa por este concepto las administraciones públicas territoriales y entidades de derecho público vinculadas o dependientes de cualquier administración pública. Se excluye de esta exención la cuota relativa a la tasa por la publicación de anuncios en el "Diari Oficial de la Generalitat de Catalunya" cuando estos anuncios sean preceptivos para tramitar el expediente según la normativa vigente, que se repercute en la persona peticionaria en la correspondiente tasa.
+
+> Se modifica por el art. 53, de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 104 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 27 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+### CAPÍTULO XI — Tasa por la ejecución de obras, de edificaciones y de instalaciones en el dominio público portuario
+
+> Téngase en cuenta que este capítulo se deroga por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), desde el 30 de marzo de 2020, según establece su disposición final 2.1.
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+#### Artículo 25.11-1. Hecho imponible.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.11-1. Hecho imponible.**
+
+> Constituye el hecho imponible de la tasa la tramitación de expedientes instados ante el Departamento de Política Territorial y Obras Públicas relativos a autorizaciones de obras, edificaciones e instalaciones en el dominio público portuario en puertos en régimen de concesión."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+#### Artículo 25.11-2. Sujeto pasivo.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.11-2. Sujeto pasivo**.
+
+> Es sujeto pasivo de la tasa la persona física o jurídica, pública o privada, que solicita la tramitación del correspondiente expediente."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+#### Artículo 25.11-3. Devengo.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.11-3. Devengo.**
+
+> La tasa se devenga en el momento en que se formula la solicitud."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+#### Artículo 25.11-4. Base imponible, tipo de gravamen y cuota.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.11-4. Base imponible, tipo de gravamen y cuota.**
+
+> Constituye la base imponible el importe del presupuesto total de ejecución material del proyecto. La determinación de la cuantía de la tasa (t, en euros) es la raíz cúbica del cuadrado del presupuesto (p, en euros) de ejecución material del proyecto, de acuerdo con la fórmula siguiente:
+
+> t = p 2/3
+
+> La cuantía de la tasa no puede ser inferior a 306 euros."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+#### Artículo 25.11-5. Exenciones.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.11-5. Exenciones.**
+
+> Está exenta de la tasa la tramitación de expedientes relativos a autorizaciones de obras de mantenimiento, reparación y rehabilitación de una concesión administrativa."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se añade por el art. 28 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+### CAPÍTULO XII — Tasa por la ejecución de actividades relacionadas con el cine, la televisión y los anuncios publicitarios en el dominio público portuario
+
+> Se deroga por el art. 81 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Téngase en cuenta que este capítulo había sido anteriormente derogado por la Ley 10/2019, de 23 de diciembre.
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+#### Artículos 25.12-1 a 25.12-4.
+
+**(Derogados)**
+
+> Se deroga por el art. 81 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Téngase en cuenta ya habían sido anteriormente derogados por la Ley 10/2019, de 23 de diciembre.
+
+### CAPÍTULO XIII — Tasa por la tramitación de concesiones en el dominio público portuario
+
+> Se deroga por el art. 80 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Téngase en cuenta que este capítulo había sido anteriormente derogado por la Ley 10/2019, de 23 de diciembre.
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se modifica por el art. 29 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículos 25.13-1 a 25.13-4.
+
+**(Derogados).**
+
+> Se derogan por el art. 80 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Téngase en cuenta que ya habían sido anteriormente derogados por la Ley 10/2019, de 23 de diciembre.
+
+### CAPÍTULO XIV — Tasa por la tramitación de transmisión de concesiones relativas al dominio público portuario
+
+> Téngase en cuenta que este capítulo se deroga por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), desde el 30 de marzo de 2020, según establece su disposición final 2.1.
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+#### Artículo 25.14-1. Hecho imponible.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.14-1. Hecho imponible.**
+
+> Constituye el hecho imponible de la tasa la tramitación de expedientes instados delante del Departamento de Política Territorial y Obras Públicas relativos a la transmisión de concesiones relativas al dominio público portuario."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+#### Artículo 25.14-2. Sujeto pasivo.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.14-2. Sujeto pasivo.**
+
+> Es sujeto pasivo de la tasa la persona jurídica, pública o privada, que solicita la tramitación del correspondiente expediente."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+#### Artículo 25.14-3. Devengo.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.14-3. Devengo.**
+
+> La tasa se devenga en el momento en que se formula la solicitud."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre.[Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+#### Artículo 25.14-4. Cuota.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.14-4. Cuota.**
+
+> La cuota de la tasa es de 1.071,65 euros."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+### CAPÍTULO XV — Tasa por la prestación de servicios y la realización de actuaciones facultativas en materia de dominio público ferroviario y de protección de las líneas ferroviarias
+
+> Se modifica por el art. 30 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 25.15-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de servicios y la realización de actuaciones facultativas inherentes a la tramitación de las autorizaciones de obras o instalaciones en las zonas de dominio público ferroviario y de protección de las líneas ferroviarias hasta su finalización.
+
+> Se modifica por el art. 30 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 25.15-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa cualquier persona física o jurídica que solicita la prestación del servicio o la realización de la actividad.
+
+> Se modifica por el art. 30 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 25.15-3. Acreditación.
+
+La tasa se acredita en el momento en el que se presta el servicio o la actividad, sin perjuicio de que pueda exigirse la justificación del ingreso en el momento de la presentación de la solicitud de autorización.
+
+> Se modifica por el art. 30 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 25.15-4. Cuota.
+
+1\. Por la tramitación administrativa de la solicitud de autorización:
+
+a) Por la instalación de una grúa en la vía pública: 580,60 euros.
+
+b) Por la construcción de un edificio de hasta tres plantas, con o sin sótano, o la reforma de un edificio existente: 580,60 euros.
+
+c) Por la construcción de un edificio de más de tres plantas con o sin sótano: 1.345,60 euros.
+
+d) Por la construcción de un proyecto de urbanización: 1.345,60 euros.
+
+e) Por la construcción de un proyecto de cualquier otra infraestructura: 1.345,60 euros.
+
+f) Por la construcción de instalaciones de tendidos de redes de telecomunicaciones, de suministro de energía o de agua, enterradas o aéreas, a excepción de colectores en alta y líneas de energía eléctrica de alta tensión, a los que se aplica la letra e: 580,60 euros.
+
+g) Por los movimientos de tierras: 580,60 euros.
+
+h) Por obras de construcción de muros de contención, piscinas y otras instalaciones particulares: 580,60 euros.
+
+i) Por deconstrucciones y demoliciones de edificios de menos de tres plantas, excepto naves industriales: 580,60 euros.
+
+j) Por deconstrucciones y demoliciones de edificios de más de tres plantas y por deconstrucciones y demoliciones de naves industriales: 1.345,60 euros.
+
+k) Por la ejecución de cierres particulares: 60 euros.
+
+2\. Por el seguimiento de las obras o actuaciones autorizadas: 5.088,75 euros.
+
+3\. Por los informes técnicos de verificación de las condiciones fijadas en la autorización una vez finalizada la obra o actuación autorizada: 144,45 euros.
+
+4\. El órgano titular de la tasa y encargado de su gestión, liquidación o recaudación puede colaborar en la función inspectora de los hechos imponibles que den lugar al pago de las cuotas establecidas en este artículo, sin perjuicio de las funciones inspectoras que corresponden al departamento competente en materia de territorio.
+
+> Se modifica por el art. 12 de la Ley 3/2023, de 16 de marzo. [Ref. BOE-A-2023-10344](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10344)
+
+> Se modifica por el art. 30 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 25.15-5 Exención.
+
+Quedan exentos del pago de la tasa los departamentos de la Administración de la Generalidad y las entidades de su sector público.
+
+> Se añade por el art. 30 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+### CAPÍTULO XVI — Tasa por la edición y la venta de los libros de reclamaciones
+
+#### Artículo 25.16-1. Hecho imponible.
+
+Constituyen el hecho imponible la venta y la edición de los libros de reclamaciones.
+
+#### Artículo 25.16-2. Sujeto pasivo.
+
+Son sujetos pasivos las empresas concesionarias o titulares de los servicios del transporte de viajeros por carretera y de estaciones de transporte de viajeros.
+
+#### Artículo 25.16-3. Devengo.
+
+La tasa se devenga en el momento de la adquisición.
+
+#### Artículo 25.16-4. Cuota.
+
+La cuota de la tasa se fija en 3,60 euros.
+
+### CAPÍTULO XVII — Tasa por la redacción de proyectos y la confrontación y la tasación de obras y proyectos
+
+#### Artículo 25.17-1. Hecho imponible.
+
+Es el hecho imponible de la tasa la prestación de trabajos facultativos de redacción, tasación, confrontación e informes de proyectos de obras, servicios e instalaciones de entidades, empresas o particulares, y la tasación de las obras, los servicios y las instalaciones.
+
+#### Artículo 25.17-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los titulares o peticionarios de concesiones, autorizaciones administrativas o tasaciones ante el Departamento de Política Territorial y Obras Públicas o sus entidades autónomas.
+
+#### Artículo 25.17-3. Devengo.
+
+La tasa se devenga mediante la prestación del servicio. Es, sin embargo, exigible:
+
+a) En el caso de petición de redacción de proyectos, desde el momento en que la persona interesada acepta el presupuesto formulado por el servicio.
+
+b) En el caso de confrontación e informe, desde el momento de la presentación del proyecto que tiene que ser objeto.
+
+c) En el caso de tasación, cuando el servicio admite la prestación facultativa de la tasación o en virtud de los preceptos que regulan la materia.
+
+#### Artículo 25.17-4. Base imponible.
+
+Constituye la base imponible el importe del presupuesto total de ejecución material del proyecto de obra, servicios o instalaciones y, en el caso de tasación, el valor que resulta.
+
+#### Artículo 25.17-5. Cuota.
+
+El importe de la tasa se obtiene multiplicando la raíz cúbica del cuadrado de la base por el coeficiente que se señala a continuación, es decir, por la aplicación de la fórmula:
+
+t = c p 2/3
+
+donde p = presupuesto del proyecto.
+
+a) En el caso de redacción de proyectos de obras, servicios e instalaciones, se aplica el coeficiente c = 2,7/5,5 ≅ 0,50. La cuantía de la tasa no puede ser inferior a: 105,90 euros.
+
+b) En el caso de confrontación e informe, se aplica el coeficiente c = 0,8/5,5 ≅ 0,15. La cuantía de la tasa no puede ser inferior a: 53 euros.
+
+c) En el caso de tasaciones de obras, servicios e instalaciones y en el de tasaciones de terrenos o edificios, se aplica el coeficiente c = 0,5/5,5 ≅ 0,10. La cuantía de la tasa no puede ser inferior a: 44,15 euros.
+
+d) En el caso de proyectos de obras, servicios e instalaciones, se aplica el coeficiente c = 0,3/5,5 ≅ 0,05. La cuantía de la tasa no puede ser inferior a: 34,70 euros.
+
+### CAPÍTULO XVIII
+
+## Tasa por la expedición de la autorización de centros de formación, por la expedición del visado de centros de formación, por la homologación de cursos, por la inscripción y realización de pruebas, por la expedición de certificados y por la expedición de tarjetas de calificación profesional, relativos a la capacitación profesional para conductores de vehículos de transporte de mercancías y de transporte de viajeros
+
+> Se añade por el art. 29 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 25.18-1. Hecho imponible.
+
+Constituyen el hecho imponible de la tasa la expedición de la autorización de centros de formación, la expedición del visado de centros de formación, la homologación de cursos, la inscripción y realización de pruebas, la expedición de certificados y la expedición de tarjetas de calificación profesional, relativos a la capacitación profesional para conductores de vehículos de transporte de mercancías y de transporte de viajeros.
+
+> Se añade por el art. 29 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 25.18-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas que solicitan la expedición de la autorización de centros de formación, la expedición del visado de centros de formación, la homologación de cursos, la inscripción y realización de pruebas, la expedición de certificados y la expedición de tarjetas de calificación profesional, relativos a la capacitación profesional para conductores de vehículos de transporte de mercancías y de transporte de viajeros.
+
+> Se añade por el art. 29 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 25.18-3. Devengo.
+
+La tasa se devenga en el momento de la solicitud, pero el ingreso de la tasa debe realizarse antes de la expedición de la autorización, del visado, del certificado, de la tarjeta o de la inscripción para la realización de las pruebas.
+
+> Se añade por el art. 29 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+#### Artículo 25.18-4. Cuota.
+
+La cuota de la tasa es la siguiente:
+
+a) Por la autorización de centros de formación: 305 euros.
+
+b) Por el visado de centros de formación: 150 euros.
+
+c) Por la homologación de cursos: 110 euros.
+
+d) Por la inscripción y realización de pruebas: 25 euros.
+
+e) Por la expedición de certificado: 20 euros.
+
+f) Por la expedición de tarjeta de calificación profesional: 32 euros.
+
+> Se añade por el art. 29 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-1257](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1257).
+
+### CAPÍTULO XIX — Tasa por la tramitación de concesiones de ocupación, o de sus modificaciones, en el dominio público marítimo-terrestre
+
+> Se añade por el art. 30 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.19-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación, por el departamento competente en materia de costas, de expedientes relativos a concesiones de ocupación del dominio público marítimo-terrestre o a la modificación de concesiones ya otorgadas.
+
+> Se modifica por el art. 105 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 30 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.19-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa la persona física o jurídica, pública o privada, que solicita la tramitación del expediente.
+
+> Se modifica por el art. 105 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 30 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.19-3. Exenciones.
+
+Están exentas de pagar la tasa por este concepto las administraciones públicas territoriales y entidades de derecho público vinculadas o dependientes de cualquier administración pública. Se excluye de esta exención la cuota relativa a la tasa por la publicación de anuncios en el "Diari Oficial de la Generalitat de Catalunya" cuando estos anuncios sean preceptivos para tramitar el expediente según la normativa vigente, que se repercute en la persona peticionaria en la correspondiente tasa.
+
+> Se modifica por el art. 54 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 105 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 30 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.19-4. Acreditación.
+
+La tasa se acredita en el momento en que se presta el servicio, pero puede ser exigida en el momento de la presentación de la solicitud, sin perjuicio del sentido favorable o desfavorable de la resolución correspondiente, incluidas las de las solicitudes que se opongan notoriamente a lo determinado por la normativa vigente en materia de costas.
+
+> Se modifica por el art. 105 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 30 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.19-5. Base imponible, tipos de gravamen y cuota.
+
+1\. Constituye la base imponible el importe del presupuesto total de ejecución material del proyecto. La cuantía de la tasa (t, en euros) es la raíz cúbica del cuadrado del presupuesto (p, en euros) de ejecución material del proyecto, multiplicado por un coeficiente de 0,5, de acuerdo con la siguiente fórmula:
+
+t = 0,5 p<sup>2/3</sup>
+
+2\. La cuantía de la tasa no puede ser inferior a 800 euros ni superior a 3.000 euros.
+
+3\. En el caso de expedientes que se tramitan parcialmente como consecuencia de competencias compartidas, el tope mínimo de la tasa, al que se refiere el apartado 2, se establece en 500 euros.
+
+> Se modifica por el art. 105 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 30 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+### CAPÍTULO XX — Tasa por la tramitación de autorizaciones de ocupación del dominio público marítimo-terrestre o de autorizaciones dentro del ámbito de concesiones en el dominio público marítimo-terrestre
+
+> Se añade por el art. 31 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.20-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación, por el departamento competente en materia de costas, de expedientes relativos a las solicitudes de autorización de ocupación del dominio público marítimo-terrestre y a las solicitudes de autorización dentro del ámbito de concesiones vigentes en el dominio público marítimo-terrestre.
+
+> Se modifica por el art. 106 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 31 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.20-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa la persona física o jurídica, pública o privada, que solicita la tramitación del expediente.
+
+> Se modifica por el art. 106 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 31 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.20-3. Exenciones y bonificaciones.
+
+1\. Están exentas de pagar la tasa por este concepto las administraciones públicas territoriales y entidades de derecho público vinculadas o dependientes de cualquier administración pública. Se excluye de esta exención la cuota relativa a la tasa por la publicación de anuncios en el "Diari Oficial de la Generalitat de Catalunya" cuando estos anuncios sean preceptivos para tramitar el expediente según la normativa vigente, que se repercute en la persona peticionaria en la correspondiente tasa.
+
+2\. Se bonifican con un 50% de la cuota las ocupaciones que no generan beneficios económicos o actividad económica directamente o indirectamente dentro de las tramitaciones de autorizaciones de ocupación del dominio público marítimo-terrestre.
+
+3\. Se bonifica, con un 50% de la cuota, la presentación de la solicitud de autorización de ocupación del dominio público marítimo-terrestre con una antelación superior al plazo que determina la normativa vigente para resolver respecto de la actividad. Esta bonificación prevalece sobre la anterior, y en ningún caso pueden acumularse una con otra.
+
+> Se modifican los apartados 1 y 2 por el art. 55.1 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 106 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 31 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.20-4. Acreditación.
+
+1\. Por solicitudes de ocupación del dominio público marítimo-terrestre, la tasa se acredita en el momento en que se formula la solicitud, que no puede ser tramitada si no se ha efectuado el ingreso de la tasa, sin perjuicio del sentido favorable o desfavorable de la correspondiente resolución, incluidas las de las solicitudes que se oponen notoriamente a lo determinado por la normativa vigente en materia de costas.
+
+2\. Por solicitudes de autorización dentro del ámbito de concesiones vigentes en el dominio público marítimo-terrestre, la tasa se acredita en el momento en que se presta el servicio, pero puede ser exigida en el momento de la presentación de la solicitud, sin perjuicio del sentido favorable o desfavorable de la correspondiente resolución, incluidas las de las solicitudes que se oponen notoriamente a lo determinado por la normativa vigente en materia de costas.
+
+> Se modifica por el art. 55.2 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 106 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 31 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.20-5. Cuota.
+
+La cuota de la tasa es la siguiente:
+
+a) Por ocupaciones inferiores a un año y autorizaciones dentro del ámbito de concesiones: 176,92 euros.
+
+b) Por ocupaciones superiores a un año: 386,92 euros.
+
+> Se modifica por el art. 55.3 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 106 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 31 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+### CAPÍTULO XXI — Tasa por la ocupación privativa del dominio público portuario adscrito a servicios portuarios de la Generalidad de Cataluña
+
+> Téngase en cuenta que este capítulo se deroga por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), desde el 30 de marzo de 2020, según establece su disposición final 2.1.
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se añade por el art. 32 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.21-1. Hecho imponible.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.21-1. Hecho imponible.**
+
+> El hecho imponible de la tasa consiste en la ocupación de cualquier bien de dominio público portuario en virtud de una autorización o una concesión otorgada por la Administración de la Generalidad."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se modifica por el art. 107.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 32 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.21-2. Sujeto pasivo.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.21-2. Sujeto pasivo.**
+
+> Tienen la condición de sujetos pasivos de la tasa las personas físicas o jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley del Estado 58/2003, de 17 de diciembre, general tributaria, que llevan a cabo la ocupación del dominio público portuario en virtud de una autorización o una concesión otorgada por la Administración de la Generalidad de Cataluña."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se modifica por el art. 107.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 32 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.21-3. Exenciones.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.21-3. Exenciones.**
+
+> Están exentos de esta tasa:
+
+> a) La Cruz Roja del Mar respecto a las actividades propias que tiene encomendadas esta institución en materia de salvamento marítimo.
+
+> b) Las entidades sin finalidades lucrativas legalmente constituidas, cuya actividad esté exclusivamente vinculada a la atención de tripulantes y pasajeros.
+
+> c) La Administración general del Estado y las comunidades autónomas que llevan a cabo actividades de vigilancia, de represión de contrabando, de salvamento y de lucha contra la contaminación marina y las relacionadas con la defensa nacional."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se añade por el art. 32 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.21-4. Acreditación y exigibilidad.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.21-4. Acreditación y exigibilidad.**
+
+> 1\. El período impositivo de esta tasa coincide con el año natural. Sin embargo, el período impositivo debe ser inferior al año en los siguientes casos:
+
+> a) Si la ocupación del dominio público portuario tiene un plazo de duración inferior al año.
+
+> b) Si el primer año de ocupación del dominio público portuario no tiene como día inicial el 1 de enero.
+
+> c) En caso de cese en la ocupación del dominio público portuario en un momento anterior al 31 de diciembre del año en curso.
+
+> En el caso al que se refiere la letra a, el período impositivo coincide con el determinado en el título habilitante correspondiente. En los casos a los que se refieren las letras b y c, el período impositivo debe comprender el período de tiempo durante el que se ocupe el dominio público portuario en el año de referencia.
+
+> 2\. Esta tasa se merita en el momento en que se inicia la ocupación de los bienes de dominio público portuario. Este momento, a tal efecto, se entiende que coincide con la fecha de formalización del título habilitante correspondiente. Sin embargo, si la ocupación del dominio público portuario ha sido autorizada durante más de un año, la meritación del segundo ejercicio y de los ejercicios siguientes debe tener lugar el 1 de enero de cada año.
+
+> 3\. Si la ocupación del dominio público portuario empieza una vez iniciado el año natural, hay que liquidar la cuota proporcional correspondiente al número de meses que quedan para finalizar el período impositivo, incluido el de la fecha de ocupación. Asimismo, si el plazo de vigencia del título habilitante es inferior a un año hay que liquidar la cuota proporcional correspondiente al número de meses autorizados.
+
+> 4\. En caso de cese en la ocupación antes de la finalización del período impositivo, la cuota debe prorratearse por meses naturales, excluido el mes en el que se produzca esta circunstancia. A tal efecto, debe considerarse como fecha de cese la fecha de la resolución que decreta la extinción del título que habilita para la ocupación del dominio público portuario y los obligados tributarios pueden solicitar la devolución de la parte de la cuota correspondiente a los meses naturales que quedan hasta el 31 de diciembre. Esta misma regla debe aplicarse en caso de extinción anticipada de los títulos habilitantes cuya duración sea inferior a un año.
+
+> 5\. La cuota íntegra de la tasa debe determinarse de acuerdo con los elementos de cuantificación vigentes en el momento de su meritación. Cuando la ocupación del dominio público portuario haya sido autorizada durante más de un año, la cuota íntegra de la tasa en el segundo ejercicio y en los ejercicios siguientes debe determinarse de acuerdo con los elementos de cuantificación vigentes el 1 de enero de cada año.
+
+> 6\. El pago de la deuda tributaria debe efectuarse por adelantado. Si la duración del título habilitante de la ocupación del dominio público portuario excede de un año, la deuda debe satisfacerse con periodicidad semestral."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se añade por el art. 32 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.21-5. Base imponible y tipo de gravamen.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.21-5. Base imponible y tipo de gravamen.**
+
+> 1\. La base imponible de la tasa está constituida por el valor de mercado de los bienes de dominio público portuario ocupados y se debe tener en cuenta la modalidad del bien de dominio público afectado. Mientras el departamento competente en materia portuaria no apruebe la valoración de mercado de los bienes de dominio público portuario tutelado por la dirección general competente en materia de puertos, debe utilizarse como valor de referencia la media del valor de mercado de los bienes de dominio público adscritos a Puertos de la Generalidad, en los siguientes términos:
+
+> – Valor medio del metro cuadrado o lineal de terrenos: 467,40 euros.
+
+> – Valor medio del metro cuadrado o lineal de lámina de agua: 15,74 euros.
+
+> – Valor medio del metro cuadrado o lineal de las obras e instalaciones: 1.000,27 euros.
+
+> La superficie de dominio público portuario ocupada se computa en metros cuadrados. Sin embargo, cuando la ocupación se efectúa mediante tuberías, líneas, canalizaciones y otros elementos de carácter similar, se computa en metros lineales.
+
+> 2\. El tipo de gravamen de la tasa se establece en función del tipo de uso portuario asignado al bien de dominio público portuario ocupado y de la modalidad del bien afectado, de acuerdo con el siguiente cuadro:
+
+> | Clase de uso | Terreno<br>-<br>% | Agua<br>-<br>% | Obras<br>-<br>% |
+> |---|---|---|---|
+> | Náutico deportivo | 3,00 | 2,70 | 3,30 |
+> | Pesquero | 2,00 | 1,80 | 2,20 |
+> | Atípico | 5,00 | 4,50 | 5,50 |
+> | Puerto deportivo íntegro en régimen de concesión | 3,00 | 2,70 | 3,30" |
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se modifica por el art. 107.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 32 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.21-6. Cuota tributaria.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.21-6. Cuota tributaria.**
+
+> 1\. La cuota íntegra de la tasa se determina multiplicando el valor del metro cuadrado o lineal de la modalidad de dominio público portuario por el número de metros cuadrados o lineales realmente ocupados y por el tipo de gravamen. Si la base imponible y el tipo de gravamen aplicables a los bienes ocupados son diferentes, hay que calcular la cuota íntegra correspondiente a cada uno de modo independiente y sumar los resultados.
+
+> 2\. Reducciones de la cuota íntegra:
+
+> 2.1. La cuota íntegra de la tasa se reduce un 50 % si solamente se ocupan zonas de playa.
+
+> 2.2. La cuota íntegra de la tasa se reduce un 50 % si solamente se ocupan el vuelo o el subsuelo de los terrenos, o espacios sumergidos. Esta reducción no es aplicable si se impide la utilización de la superficie.
+
+> 2.3. La cuota íntegra de la tasa se puede reducir un 20 % en ocupaciones de superficie superiores a los 5.000 m2 destinadas a la actividad náutica deportiva y a la reparación y conservación de embarcaciones.
+
+> 3\. Bonificaciones.
+
+> 3.1 Bonificación por inversión: los obligados tributarios que realicen una inversión económica en el dominio público portuario consistente en obras vinculadas a la potenciación de la actividad náutica deportiva que afecten a la infraestructura portuaria y a la superestructura para potenciar la mejora y calidad del servicio pueden solicitar la aplicación de una bonificación del 1% de la cuota íntegra de la tasa por cada 200.000 euros objeto de inversión. Esta bonificación puede aplicarse durante todo el plazo de concesión.
+
+> 3.2 Bonificaciones para potenciar prácticas medioambientales e incentivar la calidad en la prestación de servicios: los obligados tributarios que acrediten la implantación de un sistema de gestión y auditoría medioambiental según el reglamento europeo EMAS o dispongan de un sistema de gestión medioambiental según la norma internacional ISO 14001 pueden solicitar la aplicación de una bonificación de la cuota íntegra de la tasa del 15% o del 10%, respectivamente, de forma no acumulativa. Si se dispone de la ISO 9001 de calidad, la bonificación es del 5%, acumulable a las anteriores. Esta bonificación debe aplicarse durante todo el plazo de concesión siempre y cuando las certificaciones estén en vigor.
+
+> En el caso de obligados tributarios que correspondan a puertos gestionados totalmente en régimen de concesión que, por la gestión de toda la instalación portuaria, dispongan del sistema de gestión y auditoría ambientales según el reglamento europeo EMAS o dispongan de un sistema de gestión medioambiental o de calidad según las normas internacionales ISO 14001 e ISO 9001 pueden solicitar la aplicación de una bonificación de la cuota íntegra de la tasa del 40%, del 30% o del 5%, respectivamente, de forma no acumulativa. Esta bonificación debe aplicarse durante todo el plazo de concesión siempre y cuando las certificaciones estén en vigor.
+
+> 3.3 Bonificación por fomento de la vela: los obligados tributarios que destinen espacios para el fomento de la vela pueden solicitar la aplicación de una bonificación del 50% del cómputo de los metros cuadrados destinados a esta actividad.
+
+> 3.4 Bonificación a la pesca artesanal en los puertos deportivos: los obligados tributarios que destinen espacios al mantenimiento de la actividad tradicional de pesca artesanal pueden solicitar la aplicación de una bonificación del 90% del cómputo de los metros cuadrados destinados a esta actividad, con la obligación de repercutir la bonificación en las cuotas que se giren por ocupación a los pescadores debidamente acreditados.
+
+> 3.5 Bonificación a las superficies destinadas a áreas técnicas o varaderos en los puertos deportivos gestionados íntegramente bajo el régimen de concesión: los obligados tributarios correspondientes a puertos deportivos gestionados totalmente bajo el régimen de concesión pueden solicitar la aplicación de una bonificación del 50% en el cómputo de la superficie no edificada que corresponda a área técnica o varadero y que se destine al mantenimiento y reparación de embarcaciones como actividad complementaria del puerto.
+
+> 3.6 Bonificación especial por mantenimiento de playas: los puertos deportivos que participan activamente en el mantenimiento de los tramos de costa de su entorno pueden solicitar la aplicación de una bonificación del 5% de la cuota íntegra de la tasa por cada 200.000 euros de inversión en este mantenimiento, que no esté previsto en las obligaciones de concesión. Esta bonificación puede aplicarse durante todo el plazo de concesión.
+
+> 3.7 Límite máximo de bonificaciones: la acumulación de las bonificaciones establecidas en los apartados 3.1 y 3.2 no puede exceder el 50% de la cuota íntegra.
+
+> El conjunto total de bonificaciones de los apartados 3.1, 3.2 y 3.6 no puede exceder el 75% de la cuota íntegra."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se modifica el apartado 3 por el art. 107.3 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 32 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+### CAPÍTULO XXII — Tasa por la ejecución de obras e instalaciones en la franja de servicio náutico de las marinas interiores de las urbanizaciones marítimo-terrestres
+
+> Téngase en cuenta que este capítulo se deroga por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), desde el 30 de marzo de 2020, según establece su disposición final 2.1.
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se añade por el art. 32 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.22-1. Hecho imponible.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.22-1. Hecho imponible.**
+
+> Constituye el hecho imponible de la tasa la tramitación de expedientes instados ante el Departamento de Territorio y Sostenibilidad relativos a autorizaciones de obras e instalaciones en la franja de servicio náutico de las marinas interiores de las urbanizaciones marítimo-terrestres."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se añade por el art. 33 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.22-2. Sujeto pasivo.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.22-2. Sujeto pasivo.**
+
+> Es sujeto pasivo de la tasa la persona física o jurídica, pública o privada, que solicita la tramitación del expediente correspondiente."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se añade por el art. 33 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.22-3. Acreditación.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.22-3. Acreditación.**
+
+> La tasa se acredita en el momento en que se formula la solicitud."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se añade por el art. 33 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.22-4. Base imponible, tipo de gravamen y cuota.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.22-4. Base imponible, tipo de gravamen y cuota.**
+
+> Constituye la base imponible el importe del presupuesto total de ejecución material del proyecto. La determinación de la cuantía de la tasa (t, en euros) se obtiene mediante la multiplicación de la raíz cúbica del cuadrado de la base imponible (p, en euros) por un coeficiente de 0,5, de acuerdo con la siguiente fórmula:
+
+> t = 0,5 p<sup>2/3</sup>
+
+> La cuantía de la tasa no puede ser inferior a 66,30 euros."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se añade por el art. 33 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.22-5. Exenciones.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
+
+> Redacción anterior:
+
+> **"Artículo 25.22-5. Exenciones.**
+
+> Está exenta de la tasa la tramitación de expedientes relativos a autorizaciones de obras de mantenimiento, reparación y rehabilitación de una concesión administrativa, y las ejecutadas por el ayuntamiento para instalar mobiliario urbano cara a la integración urbanística."
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
+
+> Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
+
+> Se añade por el art. 33 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+### CAPÍTULO XXIII — Tasa para la explotación de las instalaciones marítimas o zonas de anclaje en el dominio público marítimo-terrestre
+
+> Se añade por el art. 34 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.23-1. Hecho imponible.
+
+Constituye el hecho imponible la explotación en régimen de concesión o autorización, otorgada por el Departamento de Territorio y Sostenibilidad, de instalaciones marítimas o zonas de anclaje que impliquen ocupación del dominio público marítimo-terrestre.
+
+> Se añade por el art. 34 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.23-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa la persona física o jurídica, pública o privada, que solicita la tramitación del expediente correspondiente.
+
+> Se añade por el art. 34 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.23-3. Acreditación.
+
+La tasa se acredita mediante el otorgamiento de la correspondiente concesión, autorización o adjudicación respecto del semestre en curso.
+
+> Se añade por el art. 34 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 25.23-4. Base imponible, tipo de gravamen y cuota.
+
+1\. La base imponible de la tasa es el volumen de los ingresos ordinarios de la actividad autorizada que se determine de acuerdo con los estudios económicos y las cuentas anuales que facilite el solicitante de la concesión o la autorización, así como las informaciones que pueda obtener y las valoraciones que pueda efectuar el Departamento de Territorio y Sostenibilidad, directamente o por comparación con otras concesiones o autorizaciones existentes.
+
+2\. La cuota de la tasa se determina aplicando un tipo de gravamen del 3 % sobre el importe de la base imponible.
+
+> Se añade por el art. 34 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+### CAPÍTULO XXIV — Tasa por la utilización o el aprovechamiento del dominio público viario
+
+> Téngase en cuenta que mientras no haya culminado el despliegue de las redes de telecomunicaciones en todo el territorio de Cataluña y, en cualquier caso, por un período mínimo de cuatro años, queda en suspenso la exigibilidad de la tasa establecida en el presente capítulo, según establece la disposición final 1 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Véase, en cuanto a las autorizaciones otorgadas antes del 1 de enero de 2022, y en lo que respecta a las anualidades de vigencia de la autorización que queden pendientes en dicha fecha, la disposición transitoria 1 de la citada Ley.
+
+> Se añade por el art. 108 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Téngase en cuenta la disposición final 11 para su aplicación.
+
+> Redactado conforme a la corrección de errores publicada en DOGC núm. 6565, de 19 de febrero de 2014. [Ref. BOE-A-2014-3003](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3003).
+
+#### Artículo 25.24-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la utilización privativa o el aprovechamiento del dominio público viario, cuyos terrenos sean de titularidad de la Generalidad de Cataluña, destinados a la realización de las siguientes actividades:
+
+1\. Cruce subterráneo o aéreo para la ejecución o instalación de conducciones de líquidos o gases, líneas eléctricas o redes de telecomunicaciones.
+
+2\. Paralelismo subterráneo para la ejecución o instalación de conducciones de líquidos o gases, líneas eléctricas o redes de telecomunicaciones.
+
+3\. Cruce o paralelismo en puentes, túneles u obras de fábrica.
+
+4\. Acceso de 1.ª categoría a carretera.
+
+> Se modifica por el art. 31.1 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por el art. 132.1 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 108 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.24-2. Exenciones y bonificaciones.
+
+1\. Está exenta de la tasa la utilización del dominio público por causa de:
+
+– Las acometidas particulares, entendidas como el tramo de la instalación de derivación de la red de distribución de la empresa suministradora en la instalación particular o en los dispositivos de medida de energía de la persona abonada o del conjunto de personas abonadas, de una misma parcela catastral.
+
+– Las canalizaciones para la instalación de redes de telecomunicaciones que sean cedidas a la Administración de la Generalidad de Cataluña o a su sector público.
+
+2\. Están exentas de pagar la tasa por la utilización o el aprovechamiento del dominio público viario la Administración general del Estado; la Administración de la Generalidad de Cataluña; las entidades que integran la Administración local, y sus respectivos sectores públicos institucionales vinculados o dependientes.
+
+> Se modifica por el art. 31.2 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por el art. 132.2 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se suprime el apartado 2 por el art. 56.2 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se añade por el art. 108 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.24-3. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa:
+
+a) Las personas físicas o jurídicas titulares de las autorizaciones o, en su caso, las que se subroguen, salvo que se acredite fehacientemente que la persona física o jurídica beneficiada por las actividades autorizadas es otra. En este caso, el sujeto pasivo de la tasa es la beneficiaria.
+
+b) Las personas físicas o jurídicas titulares de actividades o servicios que, a raíz de la ejecución de las obras previstas en un proyecto de carreteras, pasan a realizar el hecho imponible de la tasa.
+
+> Se modifica por el art. 132.3 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 108 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.24-4. Acreditación.
+
+La tasa se acredita mediante el otorgamiento de la autorización correspondiente. En cualquier caso, la ejecución de las actuaciones autorizadas queda condicionada a la liquidación del importe de la tasa. La tasa por la utilización privativa o el aprovechamiento del dominio público viario derivada de la ejecución de obras previstas en un proyecto de carreteras se acredita con la recepción de estas obras.
+
+> Se modifica por el art. 31.3 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por el art. 132.4 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade el apartado 3 por el art. 56.1 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se añade por el art. 108 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.24-5. Base imponible, tipo de gravamen y cuota.
+
+1\. La tasa consiste en el pago de una cuota única, cuya base imponible se determina según los siguientes criterios de valoración:
+
+1.1 Cualquier cruce subterráneo:
+
+| Tipo de carretera | Por cada cruce |
+|---|---|
+| Autopista. | 10.673,25 euros |
+| Vía preferente. | 6.099,00 euros |
+| Convencional. | 3.049,50 euros |
+| Travesía. | 4.574,25 euros |
+
+1.2 Cruce aéreo:
+
+a) Por líneas eléctricas de un circuito con una tensión superior a 66 kV:
+
+| Tipo de carretera | Por cada cruce |
+|---|---|
+| Autopista. | 19.212,64 euros |
+| Vía preferente. | 10.978,65 euros |
+| Convencional. | 5.489,32 euros |
+| Travesía. | 8.233,99 euros |
+
+b) Por líneas eléctricas de un circuito con una tensión comprendida entre 1 kV y 66 kV:
+
+| Tipo de carretera | Por cada cruce |
+|---|---|
+| Autopista. | 14.943,17 euros |
+| Vía preferente. | 8.538,95 euros |
+| Convencional. | 4.269,47 euros |
+| Travesía. | 6.404,22 euros |
+
+c) Por redes de telecomunicaciones y líneas eléctricas de dos o más circuitos con una tensión inferior o igual a 1 kV:
+
+| Tipo de carretera | Por cada cruce |
+|---|---|
+| Autopista | 11.741,06 euros |
+| Vía preferente | 6.709,18 euros |
+| Convencional | 3.354,58 euros |
+| Travesía | 5.031,88 euros |
+
+1.3 Cualquier paralelismo subterráneo:
+
+| Tipo de carretera | Euros por metro lineal |
+|---|---|
+| Autopista. | 102,50 euros |
+| Vía preferente. | 58,59 euros |
+| Convencional. | 29,29 euros |
+| Travesía. | 43,94 euros |
+
+1.4 Cualquier cruce o paralelismo en puentes, túneles u obras de fábrica:
+
+| Tipo de carretera | Por cada cruce o paralelismo |
+|---|---|
+| Autopista. | 26.683,13 euros |
+| Vía preferente. | 15.247,50 euros |
+| Convencional. | 7.623,75 euros |
+| Travesía. | 11.435,63 euros |
+
+1.5 Cualquier acceso de primera categoría:
+
+| Tipo de carretera | Euros por metro lineal |
+|---|---|
+| Todas. | 100,00 euros |
+
+2\. El tipo de gravamen es del 100%, aplicando los siguientes factores de corrección:
+
+a) En caso de cruce subterráneo superior a 1 m de ancho: 1,5.
+
+b) En caso de cruce aéreo de líneas eléctricas de dos o más circuitos para tensiones superiores a 1 kV: 1,5.
+
+3\. En cualquier caso, se establece un cupo mínimo de 200 euros por expediente tramitado.
+
+> Se modifican los apartados 1 y 2 por el art. 31.4 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica el apartado 1.1 por el art. 132.5 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se añade por el art. 108 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.24-6. Afectación.
+
+La tasa tiene carácter finalista, por lo que, de acuerdo con el artículo 1.1-3, los ingresos derivados de la misma deben destinarse a financiar las actuaciones de mantenimiento y conservación de la red viaria de titularidad de la Generalidad.
+
+> Se añade por el art. 108 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XXV — Tasa por la tramitación de expedientes de declaración de abandono de embarcaciones, vehículos y objetos abandonados en los puertos, dársenas e instalaciones marítimas menores de la Generalidad
+
+> Se modifica la denominación por el art. 32.1 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade por el art. 109 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.25-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la realización, por parte del departamento competente en materia portuaria, de los trámites instados por las concesionarias en los expedientes de declaración de abandono de embarcaciones, vehículos y objetos abandonados en los puertos, dársenas e instalaciones marítimas menores de la Generalidad.
+
+> Se modifica por el art. 32.2 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade por el art. 109 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.25-2. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa la persona jurídica concesionaria del puerto, dársena o instalación marítima menor que solicita la tramitación del expediente de declaración de abandono.
+
+> Se modifica por el art. 32.3 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade por el art. 109 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.25-3. Acreditación.
+
+La tasa se acredita en el momento de la prestación del servicio, pero puede ser exigida en el momento de la presentación de la solicitud de inicio de expediente de declaración de abandono, y se satisface a la entidad Puertos de la Generalidad.
+
+> Se añade por el art. 109 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.25-4. Cuota.
+
+La cuota de la tasa es de 113,45 euros por expediente de declaración de abandono.
+
+> Se añade por el art. 109 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO XXVI — Tasa por el uso de las carreteras de titularidad de la Generalidad.
+
+> Téngase en cuenta que se modifica la entrada en vigor de este capítulo al momento en que la red viaria de titularidad estatal, a su paso por el territorio de Cataluña, sea objeto de tarifación, por la disposición final 1 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637)., en la redacción dada a la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica la entrada en vigor de este capítulo por la disposición final 1 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637). en la redacción dada a la Ley 2/2014, de 27 de enero.
+
+> Entrará en vigor en el momento en que la red viaria de titularidad estatal, a su paso por el territorio de Cataluña, sea objeto de tarifación.
+
+> Se añade por el art. 110 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.26-1. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa el uso total o parcial de la carretera C-25, desde el enlace con la A-2 en el término municipal de Cervera (Segarra) hasta el enlace con la A-2 en el término municipal de Caldes de Malavella (Selva), por un vehículo pesado de transporte de mercancías por carretera de 12 toneladas o más.
+
+2\. La longitud máxima de la carretera C-25 sujeta a la tasa es de 152 km.
+
+> Se añade por el art. 110 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.26-2. Sujeto pasivo.
+
+1\. Son sujetos pasivos de esta tasa las personas físicas o jurídicas titulares del vehículo pesado de transporte de mercancías por carretera de 12 toneladas o más que realicen el hecho imponible.
+
+2\. Son sujetos pasivos sustitutos del contribuyente las sociedades habilitadas de telepeaje que presten un servicio de telepago al contribuyente.
+
+> Se añade por el art. 110 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.26-3. Exenciones objetivas.
+
+1\. Están exentos del pago de la tasa los vehículos destinados a la defensa nacional y la protección civil; los vehículos de los servicios de lucha contra incendios y de los servicios de urgencia; los de mantenimiento, vigilancia y control de las carreteras de titularidad de la Generalidad, y los vehículos de los Mossos d'Esquadra y del resto de cuerpos de seguridad.
+
+2\. Están exentos del pago de la tasa los vehículos que se encuentren exentos de la obligación de instalar o utilizar los aparatos de control considerados en el Reglamento 3821/85 del Consejo, de 20 de diciembre de 1985, relativo al aparato de control en el sector de transporte por carretera.
+
+> Se añade por el art. 110 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.26-4. Acreditación.
+
+La tasa se acredita en el momento en que el vehículo pesado de transporte de mercancías por carretera pasa por un punto de control habilitado.
+
+> Se añade por el art. 110 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.26-5. Base imponible.
+
+1\. La base imponible (kmy) de la tasa son los kilómetros asociados a cada punto de control habilitado, de acuerdo con los criterios que se establezcan por reglamento.
+
+2\. La totalidad de los kilómetros afectados en su uso a esta tasa y que resultan de la suma de todos los tramos que se fijen es de 152 km.
+
+> Se añade por el art. 110 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.26-6. Cuota.
+
+La cuota correspondiente a cada tramo (y) y a cada clase de vehículo pesado de transporte de mercancías por carretera según la categoría de emisiones (Qy,j,k) se determina multiplicando la base imponible del tramo en cuestión (kmy) por 0,115 (euros/km) y por el coeficiente de modulación correspondiente a la clase de vehículo y categoría de emisiones (Mj,k) según la tabla adjunta.
+
+La fórmula para el cálculo de la cuota es:
+
+Qy,j,k (euros) = B (kmy) × 0,115 (euros/km) × Mj,k
+
+Clases de vehículos pesados:
+
+| Categoría de emisiones | Clase I | Clase II | Clase III |
+|---|---|---|---|
+| Euro 0-II | 0,974 | 1,060 | 1,146 |
+| Euro III– IV | 0,942 | 1,025 | 1,108 |
+| Euro V– VEM | 0,909 | 0,989 | 1,070 |
+| Euro VI | 0,877 | 0,954 | 1,031 |
+
+Coeficientes de modulación por clase de vehículo pesado y categoría de emisiones.
+
+> Se añade por el art. 110 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.26-7. Bonificación.
+
+Se puede aplicar una bonificación de hasta el 10% de la cuota de la tasa a los sujetos pasivos que efectúen el pago mediante el servicio de una sociedad habilitada de telepeaje.
+
+> Se añade por el art. 110 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.26-8. Liquidación de la tasa.
+
+La tasa se podrá liquidar mediante una de estas tres modalidades:
+
+a) Mediante un servicio de telepago de una sociedad habilitada de telepeaje y del dispositivo telemático correspondiente.
+
+b) Mediante el pago a través de la web habilidad a tal fin, en los términos y las condiciones que se determinen reglamentariamente.
+
+> Se añade por el art. 110 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.26-9. Afectación y creación de un fondo.
+
+1\. La tasa tiene carácter finalista, por lo que, de conformidad con lo establecido en el artículo 1.1-3, los ingresos que se derivan de la misma generan crédito adicional en el presupuesto del departamento competente en materia de infraestructuras viarias destinado a la creación de un fondo para el desarrollo, mejora, mantenimiento y optimización de las infraestructuras viarias y del sector del transporte.
+
+2\. Se crea el Fondo para el desarrollo, mejora, mantenimiento y optimización de las infraestructuras viarias y del sector del transporte.
+
+3\. El departamento competente en materia de infraestructuras viarias y transporte es el encargado de la gestión del Fondo, en los términos y con las condiciones que se establezcan reglamentariamente.
+
+4\. La asignación y distribución de los recursos del Fondo debe hacerse en los plazos, los términos y las condiciones que se establezcan por reglamento.
+
+> Se añade por el art. 110 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 25.26-10. Gestión del cobro.
+
+La gestión por el cobro de la tasa corresponde al departamento competente en materia de infraestructuras viarias y transporte.
+
+> Se añade por el art. 110 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+## TÍTULO XXVI — Trabajo
+
+### CAPÍTULO I — Tasa por la expedición de certificados de profesionalidad, acreditaciones parciales y expedición de duplicados
+
+> Se deroga por el art. 34 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se modifica por los art. 49 y 50 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículos 26.1-1 a 26.1-5
+
+**(Derogados).**
+
+> Se derogan por el art. 34 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+## CAPÍTULO II — Tasa por la tramitación de las autorizaciones de trabajo para extranjeros
+
+> Se modifica por el art. 51 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por la disposición adicional 4 de la Ley 19/2010, de 7 de junio. [Ref. BOE-A-2010-10829](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10829).
+
+> Redactado conforme a la corrección de erratas publicada en DOGC núm. 5716, de 16 de septiembre de 2010.
+
+> Se añade por el art. 17 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 26.2-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de la autorización administrativa inicial para trabajar, así como las modificaciones que se realicen.
+
+> Se modifica por el art. 51 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por la disposición adicional 4 de la Ley 19/2010, de 7 de junio. [Ref. BOE-A-2010-10829](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10829).
+
+> Se añade por el art. 17 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 26.2-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas extranjeras en cuyo favor se conceden las autorizaciones de trabajo, salvo el caso de las autorizaciones de trabajo por cuenta ajena en la que el sujeto pasivo es el empleador o empleadora, o el empresario o empresaria, que quiere contratar el trabajador extranjero o la trabajadora extranjera, y en el supuesto de relaciones laborales en el sector de servicio doméstico de carácter parcial o discontinuo y en el sector agrario de carácter discontinuo, en que debe serlo el mismo trabajador o trabajadora.
+
+Es nulo cualquier pacto mediante el cual el trabajador o trabajadora por cuenta ajena asume la obligación de abonar todo o una parte del importe de las tasas establecidas.
+
+> Se modifica por el art. 51 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade por el art. 17 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 26.2-3. Exenciones y bonificaciones.
+
+1\. Están exentos de esta tasa, previa justificación documental de su situación, los sujetos pasivos si la concesión de autorización de trabajo es para un período igual o inferior a seis meses.
+
+2\. Están exentos de esta tasa por la tramitación de las autorizaciones para trabajar los nacionales de estados iberoamericanos, de Filipinas, de Andorra, de Guinea Ecuatorial, los sefardís, los hijos y nietos de españoles de origen y los extranjeros nacidos en el Estado español cuando quieran llevar a cabo una actividad lucrativa, laboral o profesional por cuenta propia.
+
+3\. Están exentas de esta tasa las autorizaciones solicitadas para personas menores de edad no acompañadas sobre las que un servicio de protección de menores tenga la tutela legal, la custodia, la protección provisional o la guarda.
+
+4\. Están exentas de esta tasa las autorizaciones para personas que en el año fiscal anterior a la solicitud no hayan tenido ingresos superiores a 30.000 euros.
+
+> Se modifica el apartado 1 y se añaden los apartados 2 y 3 por el art. 82 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 51 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se añade por el art. 17 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 26.2.4. Acreditación.
+
+1\. La tasa se acredita en el momento de la realización del hecho imponible, pero puede exigirse la justificación del ingreso en el momento de la presentación de la solicitud.
+
+> Se modifica por el art. 51 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por la disposición adicional 4 de la Ley 19/2010, de 7 de junio. [Ref. BOE-A-2010-10829](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10829).
+
+> Se añade por el art. 17 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 26.2-5. Cuota.
+
+Las cuotas por la tramitación de las autorizaciones iniciales de trabajo por un período superior a seis meses son las siguientes:
+
+1\. Autorizaciones de trabajo por cuenta ajena:
+
+a) Autorización inicial de trabajo por cuenta ajena:
+
+– Retribución inferior a dos veces el salario mínimo interprofesional: 192,05 euros.
+
+– Retribución igual o superior a dos veces el salario mínimo interprofesional: 384,15 euros.
+
+b) Modificación de autorización de trabajo por cuenta ajena: 76,90 euros.
+
+2\. Autorizaciones de trabajo por cuenta propia:
+
+a) Autorización inicial de trabajo por cuenta propia: 70,40 euros.
+
+b) Modificación de la autorización de trabajo por cuenta propia: 80,75 euros.
+
+c) Modificación desde otras situaciones a la situación de trabajo por cuenta propia: 70,40 euros.
+
+3\. Autorizaciones de trabajo para trabajadores transfronterizos:
+
+a) Autorización inicial de trabajo por cuenta ajena:
+
+– Retribución inferior a dos veces el salario mínimo interprofesional: 192,05 euros.
+
+– Retribución igual o superior a dos veces el salario mínimo interprofesional: 384,15 euros.
+
+b) Autorización inicial de trabajo por cuenta propia: 192,05 euros.
+
+c) Prórroga: 76,90 euros.
+
+4\. Autorizaciones de trabajo para investigación:
+
+a) Autorización inicial de trabajo para investigación: 70,40 euros.
+
+b) Modificación desde otras situaciones a la situación de trabajo para investigación: 70,40 euros.
+
+5\. Autorizaciones de trabajo de profesionales altamente calificados titulares de la tarjeta azul de la Unión Europea:
+
+a) Autorización inicial de trabajo de profesionales altamente calificados titulares de la tarjeta azul de la Unión Europea: 70,40 euros.
+
+b) Modificación desde otras situaciones a la situación de trabajo de profesionales altamente calificados titulares de la tarjeta azul de la Unión Europea: 70,40 euros.
+
+6\. Autorizaciones de trabajo por cuenta ajena de duración determinada:
+
+a) Autorización inicial de trabajo por cuenta ajena de altos directivos, deportistas profesionales, artistas y otros colectivos:
+
+– Retribución inferior a dos veces el salario mínimo interprofesional: 192,05 euros.
+
+– Retribución igual o superior a dos veces el salario mínimo interprofesional: 384,15 euros.
+
+b) Prórroga: 15,45 euros.
+
+7\. Autorizaciones de trabajo para titulares de autorización de estancia por estudios, investigación, prácticas no laborales o servicios de voluntariado:
+
+a) Autorización inicial de trabajo por cuenta ajena: 115,25 euros.
+
+b) Autorización inicial de trabajo por cuenta propia: 115,25 euros.
+
+c) Prórroga: 38,40 euros.
+
+8\. Autorizaciones de trabajo para titulares de autorizaciones de residencia por circunstancias excepcionales:
+
+a) Autorización inicial de trabajo por cuenta ajena:
+
+– Retribución inferior a dos veces el salario mínimo interprofesional: 192,05 euros.
+
+– Retribución igual o superior a dos veces el salario mínimo interprofesional: 384,15 euros.
+
+b) Autorización inicial de trabajo por cuenta propia: 70,40 euros.
+
+c) Prórroga:
+
+– Retribución inferior a dos veces el salario mínimo interprofesional: 192,05 euros.
+
+– Retribución igual o superior a dos veces el salario mínimo interprofesional: 384,15 euros.
+
+9\. Otras autorizaciones iniciales de trabajo:
+
+a) Retribución inferior a dos veces el salario mínimo interprofesional: 192,05 euros.
+
+b) Retribución igual o superior a dos veces el salario mínimo interprofesional: 384,15 euros.
+
+> Se modifican los apartados 2, 4, 5 y 8.b) por el art. 58 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se modifica por el art. 51 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+> Se modifica por la disposición adicional 4 de la Ley 19/2010, de 7 de junio. [Ref. BOE-A-2010-10829](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10829).
+
+> Se añade por el art. 17 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+### CAPÍTULO III — Tasa por la tramitación de los expedientes de solicitud de autorización de trabajo de menores de dieciséis años en espectáculos públicos
+
+> Se añade por el art. 52 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 26.3-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de los expedientes de solicitud de autorización de trabajo de menores de dieciséis años en espectáculos públicos.
+
+> Se añade por el art. 52 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 26.3-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las empresas que solicitan la tramitación de los expedientes a los que se refiere el artículo 26.3.1.
+
+> Se añade por el art. 52 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 26.3-3. Acreditación.
+
+La tasa se acredita en el momento de la realización del hecho imponible, pero puede exigirse la justificación del ingreso en el momento de la presentación de la solicitud.
+
+> Se añade por el art. 52 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 26.3-4. Cuota.
+
+La cuota para la tramitación de los expedientes de solicitud de autorización es de 150 euros por expediente.
+
+> Se añade por el art. 52 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO IV — Tasa por las actuaciones del Registro de empresas acreditadas de Cataluña
+
+> Se modifica por el art. 111 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 53 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 26.4-1. Hecho imponible.
+
+Constituyen el hecho imponible de la tasa la tramitación de las solicitudes de inscripción y renovación en el Registro de empresas acreditadas de Cataluña, así como la tramitación de las solicitudes de variación de datos y cancelación a instancia de parte de la inscripción registral.
+
+> Se modifica por el art. 111 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 53 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 26.4-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas a las que se prestan los servicios derivados de las actuaciones del Registro de empresas acreditadas de Cataluña.
+
+> Se modifica por el art. 111 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 53 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 26.4-3. Acreditación.
+
+La tasa se acredita cuando se presenta la solicitud que inicia la actuación, que no se puede tramitar si no se ha efectuado el ingreso de la tasa. Puede ser exigida la justificación del ingreso de la tasa en el momento de la presentación de la solicitud, salvo que la Administración de oficio pueda comprobar que se ha efectuado este ingreso.
+
+> Se modifica por el art. 111 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 53 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 26.4-4. Cuota.
+
+La cuota de la tasa es:
+
+a) Por la tramitación de la solicitud de inscripción: 100 euros.
+
+b) Por la tramitación de la solicitud de renovación: 100 euros.
+
+c) Por la tramitación de la solicitud de variación de datos: 20 euros.
+
+d) Por la tramitación de la solicitud de cancelación a instancia de parte: 20 euros.
+
+> Se modifica por el art. 111 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 53 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO V — Tasas por los servicios prestados por el Registro General de Cooperativas de Cataluña y el Registro Administrativo de Sociedades Laborales
+
+> Se modifica la denominación por el art. 83 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 112 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 54 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 26.5-1. Hecho imponible.
+
+Constituyen los hechos imponibles de las tasas los servicios prestados por la Dirección General de Economía Social y Cooperativa y Trabajo Autónomo descritos en el artículo 26.5.–5.
+
+> Se modifica por el art. 112 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 54 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 26.5-2. Sujeto pasivo.
+
+Son sujetos pasivos de las tasas las personas físicas o jurídicas que solicitan los servicios descritos en el artículo 26.5-5.
+
+> Se modifica por el art. 112 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 54 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 26.5-3. Exención.
+
+Las administraciones públicas y los órganos jurisdiccionales están exentos de las tasas relativas a los servicios de publicidad registral a los que se refieren los apartados 1.6, 1.7, 1.8, 1.10, 1.11, 2.11, 2.12 y 2.13 del artículo 26.5-5.
+
+> Se modifica por el art. 112 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 54 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 26.5-4. Acreditación.
+
+Las tasas se acreditan en el momento de la realización del hecho imponible, pero la justificación del pago se exige en el momento de la presentación de la solicitud. La liquidación de la tasa es un requisito previo para la prestación del hecho imponible.
+
+> Se modifica por el art. 112 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 54 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 26.5-5. Cuota.
+
+Las cuotas de las tasas son las siguientes:
+
+1\. Cooperativas.
+
+1.1 Inscripción de constitución de cooperativas: 66,00 euros.
+
+1.2 Inscripción para la transformación de una sociedad en cooperativa: 66,00 euros.
+
+1.3 Reactivación de una cooperativa: 66,00 euros.
+
+1.4 Emisión de certificación negativa de denominación de la sociedad cooperativa o, si procede, de la resolución correspondiente: 15,25 euros.
+
+1.5 Prórroga de la certificación de denominación: 3,35 euros.
+
+1.6 Emisión de certificados de datos registrales, notas simples y copias certificadas: 15,25 euros por certificado, nota simple o copia certificada.
+
+1.7 Entrega de las cuentas anuales en papel: 5,55 euros por ejercicio.
+
+1.8 Entrega de las cuentas anuales en soporte telemático: 3,35 euros por ejercicio.
+
+1.9 Legalización de libros: 2,25 euros por cada volumen de libro.
+
+1.10 Emisión de listas en papel: 5,55 euros.
+
+1.11 Emisión de listas en soporte telemático: 3,35 euros.
+
+1.12 Modificación de estatutos: 24,30 euros.
+
+1.13 Transformación en otro tipo de sociedad: 24,30 euros.
+
+1.14 Fusión o escisión de cooperativas: 24,30 euros.
+
+1.15 Creación, supresión, modificación o traslado de la web corporativa: 24,30 euros.
+
+1.16 Disolución de la cooperativa: 24,30 euros.
+
+1.17 Liquidación de la cooperativa: 24,30 euros.
+
+1.18 Disolución y liquidación de la cooperativa: 24,30 euros.
+
+1.19 Nombramiento y/o cese de cargos sociales, directivos y/o gerenciales y/o demás órganos: 41,95 euros.
+
+1.20 Presentación de cuentas anuales: 24,30 euros por ejercicio.
+
+1.21 Nombramiento y cese de auditor: 11,05 euros.
+
+1.22 Delegación de facultades y/o apoderamientos que no derive del cese de un cargo directivo o gerencial: 24,30 euros.
+
+1.23 Alta o baja de una sección de crédito: 24,30 euros.
+
+2\. Sociedades laborales.
+
+2.1 Inscripción de la constitución de una sociedad laboral: 22,10 euros.
+
+2.2 Inscripción de la adquisición o pérdida de la condición de sociedad laboral: 22,10 euros.
+
+2.3 Modificación de estatutos: 22,10 euros.
+
+2.4 Transmisión de acciones y participaciones: 11,05 euros.
+
+2.5 Transformación de sociedad laboral limitada en sociedad anónima limitada: 11,05 euros.
+
+2.6 Transformación de sociedad anónima laboral en sociedad limitada laboral: 11,05 euros.
+
+2.7 Disolución: 11,05 euros.
+
+2.8 Liquidación: 11,05 euros.
+
+2.9 Disolución y liquidación: 11,05 euros.
+
+2.10 Fusión o escisión: 22,10 euros.
+
+2.11 Emisión de certificados de datos registrales, notas simples y copias certificadas: 5,55 euros por cada certificado, nota simple o copia certificada.
+
+2.12 Emisión de listas en papel: 5,55 euros.
+
+2.13 Emisión de listas en soporte telemático: 3,35 euros.
+
+> Se modifica por el art. 84 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 112 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 54 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO VI — Tasa por la inscripción y modificación de datos en el Registro de centros y entidades de formación profesional para la ocupación del Servicio de Ocupación de Cataluña
+
+> Se deroga por la disposición derogatoria.1.e) del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
+
+> Se añade por el art. 113 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Este capítulo esta redactado conforme a la corrección de errores publicada en DOGC núm. 6568, de 24 de febrero de 2014. [Ref. BOE-A-2014-3004](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3004).
+
+#### Artículos 26.6-1 a 26.6-5.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria.1.e) del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
+
+### CAPÍTULO VII — Tasa de autorización y seguimiento de entidades acreditadas por el Servicio de Ocupación de Cataluña para impartir acciones formativas de certificados de profesionalidad no financiadas con fondos públicos
+
+> Se añade por el art. 114 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Este capítulo está redactado conforme a la corrección de errores publicada en DOGC núm. 6568, de 24 de febreo de 2014. [Ref. BOE-A-2014-3004](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3004).
+
+#### Artículo 26.7-1. Hecho imponible.
+
+Constituyen el hecho imponible de la tasa la tramitación de la solicitud de autorización para impartir acciones formativas dirigidas a la obtención de certificados de profesionalidad, no financiadas con fondos públicos, así como el seguimiento, control y evaluación de las acciones autorizadas.
+
+> Se añade por el art. 114 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 26.7-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las empresas, centros y entidades de formación de iniciativa privada que solicitan autorización para impartir acciones formativas de certificados de profesionalidad no financiadas con fondos públicos, así como el seguimiento, control y evaluación de las acciones autorizadas.
+
+> Se añade por el art. 114 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 26.7-3. Acreditación.
+
+1\. La tasa por la solicitud de autorización para impartir acciones formativas se acredita en el momento de la prestación del servicio, pero es exigible en el momento de la presentación de la solicitud de autorización.
+
+2\. La tasa por el seguimiento, control y evaluación de las acciones formativas se acredita en el momento de la prestación del servicio, pero es exigible previamente al inicio de las acciones formativas.
+
+> Se añade por el art. 114 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 26.7-4. Cuota.
+
+La tasa se exige de acuerdo con las siguientes cuotas:
+
+a) Por la solicitud de autorización para impartir, con financiación privada, acciones formativas dirigidas a la obtención de certificados de profesionalidad: 130 euros.
+
+b) Por el seguimiento, control y evaluación de cada acción formativa autorizada: 460 euros.
+
+> Se añade por el art. 114 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+### CAPÍTULO VIII — Tasa por la tramitación de las solicitudes de aprobación de los planes de trabajo con riesgo de amianto
+
+> Se añade por el art. 33 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 26.8-1 Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de las solicitudes de aprobación de los planes de trabajo con riesgo de amianto.
+
+> Se añade por el art. 33 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 26.8-2 Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan la aprobación de los planes de trabajo con riesgo de amianto.
+
+> Se añade por el art. 33 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 26.8-3 Acreditación.
+
+La tasa se acredita cuando se presenta la solicitud que inicia la actuación, que no se puede tramitar si no se ha efectuado el ingreso de la tasa.
+
+> Se añade por el art. 33 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 26.8-4 Cuota.
+
+El importe de la cuota es de 100,00 euros.
+
+> Se añade por el art. 33 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+## TÍTULO XXVI BIS
+
+> Se añade por el art. 55 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO I — Tasa por los derechos de inscripción en las pruebas de habilitación de guía de turismo de Cataluña que convoca la Dirección General de Turismo, y de ampliación de idiomas
+
+> Se deroga por el art. 85 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se añade por el art. 55 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículos 26 bis.1-1 a 26 bis.1-5.
+
+**(Derogados).**
+
+> Se derogan por el art. 85 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+### CAPÍTULO II — Tasa por los derechos de renovación o emisión de duplicados del carné acreditativo de la habilitación de guía de turismo de Cataluña y por el reconocimiento de habilitaciones de guías de turismo expedidas por otras comunidades autónomas del Estado español u organismos oficiales de otros Estados miembros de la Unión Europea por la vía de las prácticas profesionales
+
+> Se deroga por el art. 86 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 115 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 56 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículos 26 bis.2-1 a 26 bis.2-4.
+
+**(Derogados).**
+
+> Se derogan por el art. 86 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+> Se modifica por el art. 115 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se añade por el art. 56 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+## TÍTULO XXVII — Universidades
+
+### CAPÍTULO I — Tasa por la prestación de servicios por la Agencia para la Calidad del Sistema Universitario de Cataluña
+
+#### Artículo 27.1-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación que hace la Agencia para la Calidad del Sistema Universitario de Cataluña de las actividades o los servicios que se consignan en el artículo 27.1-5.
+
+#### Artículo 27.1-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan la emisión de los informes, acreditaciones o evaluaciones de la Agencia para la Calidad del Sistema Universitario de Cataluña, así como la emisión de sus duplicados, que constituyen el hecho imponible.
+
+> Se modifica por el art. 116.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 57.1 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+#### Artículo 27.1-3. Bonificaciones.
+
+Se establece una bonificación en la tasa por la prestación de servicios por la Agencia para la Calidad del Sistema Universitario de Cataluña regulada por este capítulo. Esta bonificación es del 30% para las personas miembros de familias monoparentales y numerosas de categoría general y del 50% para las personas miembros de familias monoparentales y numerosas de categoría especial.
+
+> Se modifica por el art. 18.12 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+#### Artículo 27.1-4. Devengo.
+
+La tasa se devenga mediante la realización del hecho imponible, pero puede ser exigida en el momento en que se solicita el servicio.
+
+#### Artículo 27.1-5. Cuota.
+
+El importe de la cuota es:
+
+1\. Por la emisión de los informes pertinentes para la contratación de profesorado lector: 50,50 euros.
+
+2\. Por la emisión de las acreditaciones de investigación, para acceder a la categoría de profesor agregado o profesora agregada, o de investigación avanzada, para acceder a la categoría de catedrático o catedrática: 80 euros.
+
+3\. Por la evaluación de la actividad investigadora del personal docente e investigador funcionario y contratado y de los investigadores de las universidades públicas: 50 euros.
+
+4\. Por la evaluación de la actividad investigadora del personal docente e investigador de las universidades privadas: 80 euros.
+
+5\. Por la emisión del informe previo a la autorización de los centros que deseen establecerse en Cataluña para impartir, bajo cualquier modalidad, enseñanzas que conduzcan a la obtención de títulos de educación superior universitaria no homologados a los títulos universitarios oficiales: 1.500 euros.
+
+6\. Por la emisión de los duplicados de los informes, acreditaciones y evaluaciones a los que se refiere este artículo: 15,15 euros.
+
+> Se modifica por el art. 116.2 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+> Se modifica por el art. 57.2 de la Ley 5/2012, de 20 de marzo. [Ref. BOE-A-2012-4730](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4730).
+
+### CAPÍTULO II — Tasa por la realización de las pruebas de acceso a la universidad
+
+> Se añade por el art. 18 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 27.2-1. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la inscripción a las pruebas de acceso a la universidad en las diferentes modalidades:
+
+1\. Pruebas de acceso a la universidad para todas las enseñanzas:
+
+Prueba de acceso a la universidad para los estudiantes con el título de bachillerato.
+
+Prueba de acceso a la universidad para mayores de veinticinco años.
+
+Prueba de acceso a la universidad para mayores de cuarenta y cinco años.
+
+2\. Prueba adicional específica para el acceso a determinadas enseñanzas universitarias.
+
+> Se añade por el art. 18 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 27.2-2. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas que se inscriben a las pruebas en las diferentes modalidades.
+
+> Se añade por el art. 18 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 27.2-3. Exenciones y bonificaciones.
+
+1\. Están exentos del pago de la tasa para la inscripción a las pruebas de acceso a la universidad en las distintas modalidades los siguientes colectivos:
+
+a) Los estudiantes beneficiarios de una beca al estudio con cargo a los presupuestos generales del Estado.
+
+b) Los miembros de familias numerosas y monoparentales de categoría especial.
+
+c) Las personas con un grado de discapacidad igual o superior al 33%.
+
+d) Las víctimas de actos terroristas, sus cónyuges y sus hijos.
+
+e) Las víctimas de violencia de género y sus hijos dependientes.
+
+f) Los estudiantes de 65 años o más.
+
+2\. Se establece una bonificación del 50% del importe de la tasa a las personas miembros de familias numerosas y monoparentales de categoría general.
+
+3\. Las justificaciones documentales para acreditar alguna de estas circunstancias son las mismas que las establecidas para estos colectivos por la disposición que anualmente fija los precios de los servicios académicos universitarios.
+
+> Se modifica por el art. 18.13 de la Ley 3/2015, de 11 de marzo. [Ref. BOE-A-2015-3637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3637).
+
+> Se añade por el art. 18 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 27.2-4. Devengo.
+
+La tasa se devenga mediante la prestación del servicio y se exige en el momento de la inscripción.
+
+> Se añade por el art. 18 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Artículo 27.2-5. Cuota.
+
+1\. Los importes de las cuotas para la inscripción a las pruebas de acceso a la universidad para todas las enseñanzas son los siguientes:
+
+1.1 Derechos de examen: 30 euros.
+
+1.2 Debe añadirse a la cuota establecida por el apartado anterior la que corresponda en función de la prueba de acceso respecto de la que se solicite la inscripción:
+
+1.2.1 Cuota de la prueba de acceso a la universidad para los estudiantes con el título de bachillerato:
+
+a) Fase general: 50 euros.
+
+b) Fase específica: 10 euros por cada ejercicio del que se examina el estudiante o la estudiante.
+
+1.2.2 Cuota de la prueba de acceso a la universidad para mayores de veinticinco años: 50 euros.
+
+1.2.3 Cuota de la prueba de acceso a la universidad para mayores de cuarenta y cinco años: 50 euros.
+
+2\. En el caso de que la enseñanza universitaria a la que se quiere acceder requiera la realización de pruebas adicionales especiales establecidas por las universidades, los importes de las cuotas de estas pruebas adicionales específicas son los siguientes:
+
+2.1 Derechos de examen: 30 euros.
+
+2.2 Cuota de la prueba específica: 50 euros.
+
+> Se añade por el art. 18 de la Ley 26/2009, de 23 de diciembre. [Ref. BOE-A-2010-737](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-737).
+
+#### Disposición adicional primera.
+
+Las cuotas de las tasas a que se refiere esta Ley no devengan el impuesto sobre el valor añadido, salvo los casos en que resulte aplicable este impuesto, de conformidad con la Ley que lo regula.
+
+#### Disposición adicional segunda.
+
+Salvo los supuestos por los cuales son contenidos en el apartado 3 del artículo 1.1-2, resta prohibida la percepción, bajo cualquier denominación, de exacciones e indemnizaciones no recogidas en esta Ley en razón de los servicios públicos prestados por la Generalidad o sus organismos autónomos o sus entidades gestoras.
+
+#### Disposición adicional tercera.
+
+1\. Cualquier ley que, de ahora adelante, modifique o cree tasas comprendidas dentro del ámbito de esta Ley tiene que contener una nueva redacción de los preceptos afectados, e incluir, si hace falta, artículos con la numeración correlativa que corresponda.
+
+2\. En el plazo de dos meses a contar desde la fecha de entrada en vigor de la ley que modifique o cree tasas o actualice los importes de las mismas, los departamentos de la Generalidad que gestionen las tasas afectadas deben publicar en el Diari Oficial de la Generalitat de Catalunya, mediante una orden del consejero o consejera del departamento competente en la materia, y con efectos meramente informativos, una relación de las tasas vigentes, en la que identifiquen los servicios y las actividades que devenga cada tasa y la cuota correspondiente.
+
+El orden debe contener las tasas que gestionan directamente los departamentos, así como las gestionadas por los organismos y las entidades que dependen de los mismos.
+
+3\. La relación de tasas a la que se refiere el apartado 2 debe ser expuesta, asimismo, en todas las dependencias y oficinas del departamento, y de los correspondientes organismos o entidades, y debe estar a disposición de los contribuyentes que la soliciten.
+
+> Se modifican los apartados 2 y 3 por el art. 117 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Disposición adicional cuarta.
+
+Son tasas del Consejo General de Aran las que la Generalidad pueda transferirle como consecuencia del traspaso de competencias de acuerdo con la normativa sobre el régimen especial de Era Val d’Aran, de una manera especial la Ley 16/1990, de 13 de julio, y sus modificaciones legales. Estas tasas se rigen transitoriamente, hasta que no sea dictada la normativa propia, por las normas que ya las regulaban antes de la transferencia.
+
+#### Disposición adicional quinta.
+
+1\. Cuando en virtud de la normativa aplicable se transfieran o deleguen a otra Administración pública o ente público servicios del Departamento de Salud gravados con alguna de las tasas contenidas en el título XXI de esta Ley, estos tributos se tienen que considerar ingresos propios de la misma administración pública o ente público.
+
+2\. Junto con el rendimiento, la cesión de la tasa comprende la gestión correspondiente, las actuaciones para cobrar el importe, tanto por vía voluntaria como por vía ejecutiva; la revisión de los actos de naturaleza tributaria, y la instrucción y la resolución del recurso de reposición previo a la reclamación económica administrativa ante la Junta de Finanzas.
+
+#### Disposición adicional sexta.
+
+1\. A los efectos del disfrute de las bonificaciones y las exenciones de las tasas y precios públicos establecidas por esta ley, las familias monoparentales de Cataluña se equiparan a las familias numerosas de categoría general, a menos que tengan derecho a una bonificación superior por el hecho de ser familias numerosas de categoría especial.
+
+2\. Las exenciones y bonificaciones establecidas por esta ley a favor de las familias monoparentales serán efectivas a partir del momento que queden acreditadas documentalmente de acuerdo con el procedimiento y los requisitos que se establezcan por reglamento.
+
+#### Disposición adicional séptima.
+
+1\. Cuando se deleguen a una corporación de derecho público funciones relativas a servicios gravados con la tasa por el control y la supervisión de la expedición del pasaporte para desplazamientos, sin ánimo comercial, de perros, gatos y hurones regulada en el apartado 12 del artículo 4.3-5 de la presente ley, esta tasa debe considerarse ingreso propio de la misma corporación de derecho público.
+
+2\. Junto con el rendimiento, la cesión de la tasa comprende la gestión correspondiente, las actuaciones para cobrar su importe, tanto por vía voluntaria como por vía ejecutiva, la revisión de los actos de naturaleza tributaria y la instrucción y la resolución del recurso de reposición previo a la reclamación económico-administrativa.
+
+> Se añade por el art. 133 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Disposición adicional octava. Supuestos de inexigibilidad de la tasa por el acceso a las infraestructuras de saneamiento en alta.
+
+No es exigible la tasa por el acceso a las infraestructuras de saneamiento en alta, regulada por el capítulo II del título V, en el caso de que un convenio urbanístico vigente a la entrada en vigor de la presente disposición adicional establezca cláusulas específicas de exigibilidad y pago de los gastos de urbanización relativos a las infraestructuras de saneamiento a cargo de las correspondientes actuaciones urbanísticas.
+
+> Se añade por el art. 134 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Disposición transitoria.
+
+Resta vigente aquello previsto en la disposición adicional cuarta de la Ley 15/2000, de 29 de diciembre, en tanto no prescriba el derecho de los contribuyentes a solicitar la devolución de las cantidades ingresadas correspondientes a las tasas a que se hace referencia.
+
+> Téngase en cuenta que mientras no haya culminado el despliegue de las redes de telecomunicaciones en todo el territorio de Cataluña y, en cualquier caso, por un período mínimo de cuatro años, queda en suspenso la entrada en vigor de la presente disposición transitoria en lo que se refiere a las redes de telecomunicaciones, según se establece en la disposición final 1 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
